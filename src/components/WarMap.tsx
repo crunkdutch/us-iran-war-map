@@ -7,6 +7,7 @@ import attackData from '@/data/attacks.json'
 import AttackMarker from './AttackMarker'
 import IncidentPanel from './IncidentPanel'
 import StatsSidebar from './StatsSidebar'
+import StatementsFeed from './StatementsFeed'
 
 // ── Fix Leaflet default marker icon paths ──
 delete (L.Icon.Default.prototype as any)._getIconUrl
@@ -82,6 +83,9 @@ export default function WarMap() {
           />
         ))}
       </MapContainer>
+
+      {/* ── Statements feed ── */}
+      <StatementsFeed />
 
       {/* ── Stats sidebar ── */}
       <StatsSidebar
