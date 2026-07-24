@@ -11,6 +11,7 @@ const CHANNELS = {
   fotros: { url: 'https://t.me/s/FotrosResistancee', label: 'Fotros Resistance' },
   enemywatch: { url: 'https://t.me/s/enemywatch', label: 'Enemy Watch' },
   simurgh: { url: 'https://t.me/s/SimurghRes', label: 'Simurgh Resistance' },
+  me_observer: { url: 'https://t.me/s/me_observer_TG', label: 'Middle East Observer' },
 }
 
 const ATTACKS_FILE = path.join(__dirname, 'attacks.json')

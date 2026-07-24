@@ -193,5 +193,90 @@
     "description": "Artesh statement: Iranian Army artillery units shelled US positions at Camp Buehring, Kuwait from launch positions near Abadan. Witnesses in Abadan reported artillery fire throughout the night. US Central Command confirms indirect fire impacts on base perimeter. No US casualties reported.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1784935019354,
+    "type": "strike",
+    "location": "Muwaffaq al Salti Air Base",
+    "coordinates": [
+      31.8825,
+      36.0444
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Observer (@me_observer_TG)",
+    "sourceUrl": "https://t.me/me_observer_TG/1054129",
+    "description": "Chinese satellite imagery confirmed a new impact at Muwaffaq Salti Air Base, Jordan. Strike occurred between July 22-23. Iran targeted AN/TPY-2 radar and a Patriot system at the base. Satellites show damage to a newly built area of the base (built around April 2026).",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1054129",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1784935019355,
+    "type": "missile",
+    "location": "Bahrain",
+    "coordinates": [
+      26.0667,
+      50.5577
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Observer (@me_observer_TG)",
+    "sourceUrl": "https://t.me/me_observer_TG/1054130",
+    "description": "Iranian short-range ballistic missile (Fateh-110) directly targeted the US Fifth Fleet headquarters in Bahrain. Video shows the impact — missile was not intercepted by American Patriot systems.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1054130",
+        "type": "video"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1784935019356,
+    "type": "launch",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Observer (@me_observer_TG)",
+    "sourceUrl": "https://t.me/me_observer_TG/1054131",
+    "description": "Reports of missile launches from Yemen towards Saudi Arabia. Rasd Akhbar Shehaba reporting: \"The Yemeni response enters into force\".",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784935019357,
+    "type": "launch",
+    "location": "Iran",
+    "coordinates": [
+      32,
+      54
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Observer (@me_observer_TG)",
+    "sourceUrl": "https://t.me/me_observer_TG/1054137",
+    "description": "Wave of missiles launching from Iran. Followed by reports of missile launches toward US occupation bases in West Asia.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784935019358,
+    "type": "naval",
+    "location": "Kuwait City",
+    "coordinates": [
+      29.3759,
+      47.9774
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Observer (@me_observer_TG)",
+    "sourceUrl": "https://t.me/me_observer_TG/1054145",
+    "description": "Warplanes flying in Kuwaiti airspace. Air activity reported across the region.",
+    "media": [],
+    "verified": false
   }
 ]
