@@ -1,26 +1,129 @@
-@import "tailwindcss";
+/* ── Military Tactical Theme ───────────────────────────── */
+@import "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Inter:wght@300;400;500;600&display=swap";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #111111;
+  --bg-tertiary: #1a1a1a;
+  --border-color: #1e3a2f;
+  --border-bright: #2ecc71;
+  --accent-green: #2ecc71;
+  --accent-amber: #f39c12;
+  --accent-red: #e74c3c;
+  --accent-cyan: #3498db;
+  --text-primary: #c0c0c0;
+  --text-dim: #666666;
+  --text-bright: #ffffff;
+  --hud-overlay: rgba(0, 20, 10, 0.85);
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+  --font-sans: 'Inter', sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  font-family: var(--font-mono);
+  background: var(--bg-primary);
+  color: var(--text-primary);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ── Scanline overlay ── */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 255, 65, 0.015) 2px,
+    rgba(0, 255, 65, 0.015) 4px
+  );
+}
+
+/* ── Scrollbar styling ── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--border-color); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent-green); }
+
+/* ── Leaflet overrides ── */
+.leaflet-container {
+  background: var(--bg-primary) !important;
+  font-family: var(--font-mono) !important;
+}
+
+.leaflet-control-zoom a {
+  background: var(--bg-secondary) !important;
+  color: var(--accent-green) !important;
+  border-color: var(--border-color) !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background: var(--bg-tertiary) !important;
+}
+
+.leaflet-control-attribution {
+  background: var(--hud-overlay) !important;
+  color: var(--text-dim) !important;
+  font-size: 10px !important;
+  padding: 2px 8px !important;
+}
+
+.leaflet-control-attribution a {
+  color: var(--accent-green) !important;
+}
+
+/* ── Marker cluster overrides ── */
+.marker-cluster-small {
+  background-color: rgba(46, 204, 113, 0.3) !important;
+}
+.marker-cluster-small div {
+  background-color: rgba(46, 204, 113, 0.6) !important;
+  color: #fff !important;
+  font-family: var(--font-mono) !important;
+  font-size: 12px !important;
+}
+.marker-cluster-medium {
+  background-color: rgba(243, 156, 18, 0.3) !important;
+}
+.marker-cluster-medium div {
+  background-color: rgba(243, 156, 18, 0.6) !important;
+  color: #fff !important;
+  font-family: var(--font-mono) !important;
+}
+.marker-cluster-large {
+  background-color: rgba(231, 76, 60, 0.3) !important;
+}
+.marker-cluster-large div {
+  background-color: rgba(231, 76, 60, 0.6) !important;
+  color: #fff !important;
+  font-family: var(--font-mono) !important;
+}
+
+/* ── HUD pulse animation ── */
+@keyframes hudPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes scanLine {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100vh); }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
 }

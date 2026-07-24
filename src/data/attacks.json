@@ -1,0 +1,220 @@
+[
+  {
+    "id": 1,
+    "type": "airstrike",
+    "title": "Strike on IRGC Command Center",
+    "location": "Tehran, Iran",
+    "coordinates": [35.6892, 51.3890],
+    "date": "2026-06-15",
+    "time": "02:30 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "CENTCOM", "url": "#", "type": "official" },
+      { "name": "Reuters", "url": "#", "type": "news" }
+    ],
+    "casualties": { "military": 12, "civilian": 0 },
+    "description": "Precision strike on IRGC Quds Force command facility in southern Tehran. Building destroyed. High-value target confirmed eliminated.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 2,
+    "type": "missile",
+    "title": "Ballistic Missile Strike on Tel Aviv",
+    "location": "Tel Aviv, Israel",
+    "coordinates": [32.0853, 34.7818],
+    "date": "2026-06-18",
+    "time": "06:45 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "IDF Spokesperson", "url": "#", "type": "official" },
+      { "name": "Al Jazeera", "url": "#", "type": "news" }
+    ],
+    "casualties": { "military": 3, "civilian": 8 },
+    "description": "Iranian Shahab-3 ballistic missile launched from western Iran. Intercepted partially by Iron Dome. Fragment impacts caused casualties.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 3,
+    "type": "naval",
+    "title": "US Navy Carrier Group Deployment",
+    "location": "Strait of Hormuz",
+    "coordinates": [26.5678, 56.1234],
+    "date": "2026-06-20",
+    "time": "10:00 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "US 5th Fleet", "url": "#", "type": "official" },
+      { "name": "AP News", "url": "#", "type": "news" }
+    ],
+    "casualties": { "military": 0, "civilian": 0 },
+    "description": "USS Dwight D. Eisenhower carrier strike group entered the Persian Gulf via the Strait of Hormuz. Iranian IRGC Navy vessels shadowing the group.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 4,
+    "type": "drone",
+    "title": "Drone Strike on Nuclear Facility",
+    "location": "Natanz, Iran",
+    "coordinates": [33.7238, 51.7241],
+    "date": "2026-06-22",
+    "time": "01:15 UTC",
+    "status": "disputed",
+    "sources": [
+      { "name": "IAEA", "url": "#", "type": "official" },
+      { "name": "Tasnim News", "url": "#", "type": "news" },
+      { "name": "OSINT Analyst", "url": "#", "type": "analyst" }
+    ],
+    "casualties": { "military": 5, "civilian": 2 },
+    "description": "Multiple UAVs struck the Natanz enrichment facility perimeter. Iran claims air defenses intercepted 3 of 4 drones. Satellite imagery confirms structural damage to centrifuge hall annex.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 5,
+    "type": "cyber",
+    "title": "Cyber Attack on Iranian Oil Infrastructure",
+    "location": "Kharg Island, Iran",
+    "coordinates": [29.2352, 50.3090],
+    "date": "2026-06-25",
+    "time": "14:00 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "Iranian Oil Ministry", "url": "#", "type": "official" },
+      { "name": "CyberSec Research", "url": "#", "type": "analyst" }
+    ],
+    "casualties": { "military": 0, "civilian": 0 },
+    "description": "SCADA systems at Kharg Island terminal disrupted. Operations halted for 8 hours. Unconfirmed attribution to US Cyber Command. Iran calling it 'act of war in cyberspace'.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 6,
+    "type": "airstrike",
+    "title": "Retaliatory Strike on US Base",
+    "location": "Al Asad Airbase, Iraq",
+    "coordinates": [33.7679, 42.4431],
+    "date": "2026-06-27",
+    "time": "23:00 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "Pentagon", "url": "#", "type": "official" },
+      { "name": "BBC", "url": "#", "type": "news" }
+    ],
+    "casualties": { "military": 4, "civilian": 0 },
+    "description": "IRGC ballistic missiles targeted Al Asad airbase. US Patriot systems intercepted 7 of 9 missiles. Two impacted within base perimeter. No critical infrastructure hit.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 7,
+    "type": "naval",
+    "title": "IRGC Speedboat Harassment",
+    "location": "Persian Gulf",
+    "coordinates": [27.5000, 51.5000],
+    "date": "2026-06-29",
+    "time": "08:30 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "US 5th Fleet", "url": "#", "type": "official" },
+      { "name": "Military Times", "url": "#", "type": "news" }
+    ],
+    "casualties": { "military": 0, "civilian": 0 },
+    "description": "IRGC Navy fast attack craft approached USNS Supply within 300 meters. Warning shots fired. Vessels withdrew after US helicopter overflight.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 8,
+    "type": "airstrike",
+    "title": "Strike on IRGC Missile Sites",
+    "location": "Bushehr, Iran",
+    "coordinates": [28.9200, 50.8300],
+    "date": "2026-07-02",
+    "time": "03:00 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "CENTCOM", "url": "#", "type": "official" },
+      { "name": "Fars News", "url": "#", "type": "news" },
+      { "name": "Satellite Imagery Analyst", "url": "#", "type": "analyst" }
+    ],
+    "casualties": { "military": 18, "civilian": 1 },
+    "description": "B-2 Spirit stealth bombers struck underground missile storage facilities 40km east of Bushehr. Secondary explosions observed. Satellite imagery shows complete destruction of the site.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 9,
+    "type": "drone",
+    "title": "IRGC Drone Overflight of US Assets",
+    "location": "Eastern Mediterranean",
+    "coordinates": [34.5000, 35.5000],
+    "date": "2026-07-05",
+    "time": "11:15 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "US Navy", "url": "#", "type": "official" }
+    ],
+    "casualties": { "military": 0, "civilian": 0 },
+    "description": "Iranian Mohajer-10 drone approached USS Arleigh Burke within 15 nautical miles. Drone tracked for 45 minutes before returning to Syrian airspace. No engagement.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 10,
+    "type": "cyber",
+    "title": "Iranian Cyber Attack on US Power Grid",
+    "location": "Multiple US Sites",
+    "coordinates": [38.9000, -77.0500],
+    "date": "2026-07-08",
+    "time": "TBD",
+    "status": "disputed",
+    "sources": [
+      { "name": "DHS", "url": "#", "type": "official" },
+      { "name": "Mandiant", "url": "#", "type": "analyst" },
+      { "name": "Iran State Media", "url": "#", "type": "news" }
+    ],
+    "casualties": { "military": 0, "civilian": 0 },
+    "description": "Power grid control systems in 3 states experienced unusual network activity. DHS investigating. Iran-linked APT group claimed responsibility but no blackouts occurred.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 11,
+    "type": "airstrike",
+    "title": "US Strike on IRGC Navy HQ",
+    "location": "Bandar Abbas, Iran",
+    "coordinates": [27.1832, 56.2666],
+    "date": "2026-07-10",
+    "time": "04:30 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "CENTCOM", "url": "#", "type": "official" },
+      { "name": "ISW", "url": "#", "type": "analyst" }
+    ],
+    "casualties": { "military": 22, "civilian": 3 },
+    "description": "Tomahawk cruise missiles struck IRGC Navy headquarters complex. Intelligence facility and communications array destroyed. Precision strikes with minimal collateral.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 12,
+    "type": "missile",
+    "title": "Iranian Ballistic Missile Strike on Erbil",
+    "location": "Erbil, Iraq",
+    "coordinates": [36.1915, 43.9794],
+    "date": "2026-07-13",
+    "time": "21:45 UTC",
+    "status": "confirmed",
+    "sources": [
+      { "name": "Kurdistan Regional Gov", "url": "#", "type": "official" },
+      { "name": "Reuters", "url": "#", "type": "news" }
+    ],
+    "casualties": { "military": 2, "civilian": 5 },
+    "description": "Multiple Fateh-110 ballistic missiles struck near US consulate facility in Erbil. Missiles intercepted by C-RAM. Debris caused civilian casualties in residential area.",
+    "satelliteImage": null,
+    "videoUrl": null
+  }
+]
