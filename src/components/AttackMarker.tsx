@@ -79,7 +79,7 @@ export default function AttackMarker({ attack, onSelect, isSelected }: Props) {
       iconAnchor: [7, 7],
     })
 
-    const marker = L.marker(attack.coordinates, { icon })
+    const marker = L.marker(attack.coordinates as [number, number], { icon })
     marker.on('click', () => onSelect(attack))
     marker.addTo(map)
     markerRef.current = marker
