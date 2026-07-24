@@ -192,42 +192,81 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
           </div>
         </div>
 
-        {/* Multimedia placeholders */}
-        <div style={{ display: 'flex', gap: 8 }}>
-          <div style={{
-            flex: 1,
-            border: '1px dashed var(--border-color)',
-            padding: 16,
-            textAlign: 'center',
-            fontSize: 11,
-            color: 'var(--text-dim)',
-          }}>
-            🛰 SATELLITE IMAGERY
+        {/* Multimedia section — link to source Telegram posts */}
+        {attack.sources.some(s => s.url) && (
+          <div style={{ display: 'flex', gap: 8 }}>
+            <a
+              href={attack.sources.find(s => s.url)?.url || '#'}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                flex: 1,
+                border: '1px solid var(--border-color)',
+                padding: 16,
+                textAlign: 'center',
+                fontSize: 11,
+                color: 'var(--accent-cyan)',
+                textDecoration: 'none',
+                cursor: 'pointer',
+                transition: 'border-color 0.2s',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                gap: 6,
+              }}
+              onMouseEnter={e => (e.currentTarget.style.borderColor = 'var(--accent-cyan)')}
+              onMouseLeave={e => (e.currentTarget.style.borderColor = 'var(--border-color)')}
+            >
+              🛰 SATELLITE IMAGERY + MEDIA
+            </a>
+            <a
+              href={attack.sources.find(s => s.url)?.url || '#'}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                flex: 1,
+                border: '1px solid var(--border-color)',
+                padding: 16,
+                textAlign: 'center',
+                fontSize: 11,
+                color: 'var(--accent-amber)',
+                textDecoration: 'none',
+                cursor: 'pointer',
+                transition: 'border-color 0.2s',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                gap: 6,
+              }}
+              onMouseEnter={e => (e.currentTarget.style.borderColor = 'var(--accent-amber)')}
+              onMouseLeave={e => (e.currentTarget.style.borderColor = 'var(--border-color)')}
+            >
+              📹 VIDEO FOOTAGE
+            </a>
           </div>
-          <div style={{
-            flex: 1,
-            border: '1px dashed var(--border-color)',
-            padding: 16,
-            textAlign: 'center',
-            fontSize: 11,
-            color: 'var(--text-dim)',
-          }}>
-            📹 VIDEO FOOTAGE
-          </div>
-        </div>
+        )}
 
-        {/* View source link */}
-        <div style={{ marginTop: 8 }}>
-          <span style={{
-            fontSize: 11,
-            color: 'var(--accent-green)',
-            textDecoration: 'underline',
-            cursor: 'pointer',
-            opacity: 0.7,
-          }}>
-            [ VIEW SOURCE DOCUMENTS → ]
-          </span>
-        </div>
+        {/* Source link */}
+        {attack.sources.find(s => s.url) && (
+          <div style={{ marginTop: 8 }}>
+            <a
+              href={attack.sources.find(s => s.url)!.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                fontSize: 11,
+                color: 'var(--accent-green)',
+                textDecoration: 'underline',
+                cursor: 'pointer',
+                opacity: 0.7,
+              }}
+              onMouseEnter={e => (e.currentTarget.style.opacity = '1')}
+              onMouseLeave={e => (e.currentTarget.style.opacity = '0.7')}
+            >
+              [ VIEW SOURCE {attack.sources.find(s => s.url)!.name.toUpperCase()} → ]
+            </a>
+          </div>
+        )}
       </div>
     </div>
   )
