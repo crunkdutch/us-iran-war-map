@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useRef, useCallback, useEffect } from 'react'
 import type { AttackEvent, SitRep } from './WarMap'
 import statementsData from '@/data/statements.json'
 
@@ -35,6 +35,9 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
   const [expandedId, setExpandedId] = useState<number | null>(null)
   const [expandedSitrep, setExpandedSitrep] = useState<number | null>(null)
   const [sitrepFilter, setSitrepFilter] = useState<string>('all')
+  const [width, setWidth] = useState(260)
+  const [dragging, setDragging] = useState(false)
+  const dragRef = useRef(false)
 
   const stats = useMemo(() => {
     const byType: Record<string, number> = {}
@@ -65,16 +68,47 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     return counts
   }, [sitreps])
 
+  // ── Resize drag handler ──
+  const handleMouseDown = useCallback((e: React.MouseEvent) => {
+    e.preventDefault()
+    dragRef.current = true
+    setDragging(true)
+  }, [])
+
+  useEffect(() => {
+    if (!dragRef.current) return
+
+    const handleMove = (e: MouseEvent) => {
+      if (!dragRef.current) return
+      const newWidth = Math.max(200, Math.min(600, e.clientX - 16))
+      setWidth(newWidth)
+    }
+
+    const handleUp = () => {
+      dragRef.current = false
+      setDragging(false)
+    }
+
+    window.addEventListener('mousemove', handleMove)
+    window.addEventListener('mouseup', handleUp)
+    return () => {
+      window.removeEventListener('mousemove', handleMove)
+      window.removeEventListener('mouseup', handleUp)
+    }
+  }, [])
+
   if (!visible) return null
 
   return (
     <div style={{
       position: 'fixed', top: 56, left: 16, zIndex: 1001,
-      width: 260, background: 'rgba(0, 12, 6, 0.92)',
+      width, background: 'rgba(0, 12, 6, 0.92)',
       border: '1px solid var(--border-color)',
       fontFamily: 'var(--font-mono)', fontSize: 11,
       color: 'var(--text-primary)',
       maxHeight: 'calc(100vh - 100px)', overflowY: 'auto',
+      userSelect: dragging ? 'none' : 'auto',
+      cursor: dragging ? 'col-resize' : 'default',
     }}>
       {/* ── Tabs ── */}
       <div style={{ display: 'flex', borderBottom: '1px solid var(--border-color)' }}>
@@ -119,6 +153,19 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
           typeCounts={sitrepTypeCounts}
         />
       )}
+
+      {/* ── Drag handle ── */}
+      <div
+        onMouseDown={handleMouseDown}
+        style={{
+          position: 'absolute',
+          top: 0, right: 0, bottom: 0,
+          width: 6,
+          cursor: 'col-resize',
+          background: dragging ? 'var(--accent-green)' : 'transparent',
+          transition: dragging ? 'none' : 'background 0.2s',
+        }}
+      />
     </div>
   )
 }
