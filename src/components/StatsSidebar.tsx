@@ -76,8 +76,6 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
   }, [])
 
   useEffect(() => {
-    if (!dragRef.current) return
-
     const handleMove = (e: MouseEvent) => {
       if (!dragRef.current) return
       const newWidth = Math.max(200, Math.min(600, e.clientX - 16))
