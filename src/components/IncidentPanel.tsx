@@ -38,6 +38,9 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
   if (!attack) return null
 
   const totalCasualties = attack.casualties.military + attack.casualties.civilian
+  const sourceUrl = attack.sources.find(s => s.url && s.url !== '#')?.url || null
+  const sourceName = attack.sources.find(s => s.url && s.url !== '#')?.name || null
+  const multimediaUrl = attack.satelliteImage || attack.videoUrl || sourceUrl
   const sourceTypes = [...new Set(attack.sources.map(s => s.type))]
 
   return (
@@ -192,11 +195,11 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
           </div>
         </div>
 
-        {/* Multimedia section — link to source Telegram posts */}
-        {attack.sources.some(s => s.url) && (
+        {/* Multimedia section — only show when actual media/source links exist */}
+        {multimediaUrl && (
           <div style={{ display: 'flex', gap: 8 }}>
             <a
-              href={attack.sources.find(s => s.url)?.url || '#'}
+              href={multimediaUrl}
               target="_blank"
               rel="noopener noreferrer"
               style={{
@@ -217,10 +220,10 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
               onMouseEnter={e => (e.currentTarget.style.borderColor = 'var(--accent-cyan)')}
               onMouseLeave={e => (e.currentTarget.style.borderColor = 'var(--border-color)')}
             >
-              🛰 SATELLITE IMAGERY + MEDIA
+              🛰 SATELLITE IMAGERY
             </a>
             <a
-              href={attack.sources.find(s => s.url)?.url || '#'}
+              href={multimediaUrl}
               target="_blank"
               rel="noopener noreferrer"
               style={{
@@ -246,24 +249,18 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
           </div>
         )}
 
-        {/* Source link */}
-        {attack.sources.find(s => s.url) && (
+        {/* Source link — only when a real source URL exists */}
+        {sourceUrl && sourceName && (
           <div style={{ marginTop: 8 }}>
-            <a
-              href={attack.sources.find(s => s.url)!.url}
-              target="_blank"
-              rel="noopener noreferrer"
+            <a href={sourceUrl} target="_blank" rel="noopener noreferrer"
               style={{
-                fontSize: 11,
-                color: 'var(--accent-green)',
-                textDecoration: 'underline',
-                cursor: 'pointer',
-                opacity: 0.7,
+                fontSize: 11, color: 'var(--accent-green)', textDecoration: 'underline',
+                cursor: 'pointer', opacity: 0.7,
               }}
               onMouseEnter={e => (e.currentTarget.style.opacity = '1')}
               onMouseLeave={e => (e.currentTarget.style.opacity = '0.7')}
             >
-              [ VIEW SOURCE {attack.sources.find(s => s.url)!.name.toUpperCase()} → ]
+              [ VIEW SOURCE {sourceName.toUpperCase()} → ]
             </a>
           </div>
         )}
