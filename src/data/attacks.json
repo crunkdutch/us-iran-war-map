@@ -298,7 +298,7 @@
     "videoUrl": null
   },
   {
-    "id": 46,
+    "id": 9,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-03",
@@ -334,7 +334,7 @@
     "videoUrl": null
   },
   {
-    "id": 9,
+    "id": 10,
     "type": "drone",
     "title": "IRGC Drone Overflight of US Assets",
     "location": "Eastern Mediterranean",
@@ -365,7 +365,7 @@
     "videoUrl": null
   },
   {
-    "id": 10,
+    "id": 11,
     "type": "cyber",
     "title": "Iranian Cyber Attack on US Power Grid",
     "location": "Multiple US Sites",
@@ -406,7 +406,7 @@
     "videoUrl": null
   },
   {
-    "id": 11,
+    "id": 12,
     "type": "airstrike",
     "title": "US Strike on IRGC Navy HQ",
     "location": "Bandar Abbas, Iran",
@@ -442,7 +442,7 @@
     "videoUrl": null
   },
   {
-    "id": 12,
+    "id": 13,
     "type": "missile",
     "title": "Iranian Ballistic Missile Strike on Erbil",
     "location": "Erbil, Iraq",
@@ -478,7 +478,7 @@
     "videoUrl": null
   },
   {
-    "id": 28,
+    "id": 14,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-21",
@@ -514,7 +514,7 @@
     "videoUrl": null
   },
   {
-    "id": 13,
+    "id": 15,
     "type": "airstrike",
     "title": "US Strike on Yazd Military Site",
     "location": "Yazd, Iran",
@@ -545,7 +545,7 @@
     "videoUrl": null
   },
   {
-    "id": 14,
+    "id": 16,
     "type": "airstrike",
     "title": "Strikes on Multiple Iranian Cities",
     "location": "Ahvaz, Andimeshk, Khorramabad, Iran",
@@ -576,7 +576,7 @@
     "videoUrl": null
   },
   {
-    "id": 15,
+    "id": 17,
     "type": "airstrike",
     "title": "Strike on IRGC Navy HQ — Zibakenar, Gilan",
     "location": "Zibakenar, Gilan, Iran",
@@ -607,7 +607,7 @@
     "videoUrl": null
   },
   {
-    "id": 16,
+    "id": 18,
     "type": "airstrike",
     "title": "Casualties in Bandar Abbas & Khorramabad Strikes",
     "location": "Bandar Abbas & Khorramabad, Iran",
@@ -643,7 +643,7 @@
     "videoUrl": null
   },
   {
-    "id": 17,
+    "id": 19,
     "type": "missile",
     "title": "Iranian Strike on Sheikh Isa Air Base",
     "location": "Sheikh Isa Air Base, Bahrain",
@@ -679,7 +679,7 @@
     "videoUrl": null
   },
   {
-    "id": 18,
+    "id": 20,
     "type": "missile",
     "title": "Iranian Strike on Muwaffaq al Salti Air Base",
     "location": "Muwaffaq al Salti Air Base, Jordan",
@@ -715,7 +715,7 @@
     "videoUrl": null
   },
   {
-    "id": 19,
+    "id": 21,
     "type": "missile",
     "title": "Iranian Strikes on US Bases in Kuwait",
     "location": "Camp Buehring, Camp Doha, Camp Arifjan, Kuwait",
@@ -751,7 +751,7 @@
     "videoUrl": null
   },
   {
-    "id": 20,
+    "id": 22,
     "type": "drone",
     "title": "IRGC Drone Strike on Ali Al Salem Air Base",
     "location": "Ali Al Salem Air Base, Kuwait",
@@ -787,7 +787,7 @@
     "videoUrl": null
   },
   {
-    "id": 21,
+    "id": 23,
     "type": "drone",
     "title": "IRGC Follow-Up Strike on Amazon Data Center",
     "location": "Bahrain",
@@ -823,7 +823,7 @@
     "videoUrl": null
   },
   {
-    "id": 22,
+    "id": 24,
     "type": "naval",
     "title": "CENTCOM Naval Blockade — 12 Ships Prevented",
     "location": "Persian Gulf / Strait of Hormuz",
@@ -859,7 +859,7 @@
     "videoUrl": null
   },
   {
-    "id": 23,
+    "id": 25,
     "type": "airstrike",
     "title": "Iranian Air Defense Interception — Kahnooj",
     "location": "Kahnooj, Kerman, Iran",
@@ -890,7 +890,7 @@
     "videoUrl": "https://t.me/FotrosResistancee"
   },
   {
-    "id": 32,
+    "id": 26,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-23",
@@ -926,7 +926,7 @@
     "videoUrl": null
   },
   {
-    "id": 43,
+    "id": 27,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-23",
@@ -957,7 +957,7 @@
     "videoUrl": "https://t.me/SimurghRes"
   },
   {
-    "id": 24,
+    "id": 28,
     "type": "airstrike",
     "title": "US Strike on Naeen, Isfahan Province",
     "location": "Naeen, Isfahan, Iran",
@@ -993,7 +993,7 @@
     "videoUrl": null
   },
   {
-    "id": 25,
+    "id": 29,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1029,7 +1029,7 @@
     "videoUrl": null
   },
   {
-    "id": 26,
+    "id": 30,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1060,7 +1060,7 @@
     "videoUrl": null
   },
   {
-    "id": 27,
+    "id": 31,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1096,7 +1096,7 @@
     "videoUrl": null
   },
   {
-    "id": 29,
+    "id": 32,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1127,7 +1127,7 @@
     "videoUrl": "https://t.me/enemywatch/60325"
   },
   {
-    "id": 30,
+    "id": 33,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1158,7 +1158,7 @@
     "videoUrl": null
   },
   {
-    "id": 31,
+    "id": 34,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1194,7 +1194,7 @@
     "videoUrl": null
   },
   {
-    "id": 33,
+    "id": 35,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1225,7 +1225,7 @@
     "videoUrl": null
   },
   {
-    "id": 34,
+    "id": 36,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1261,7 +1261,7 @@
     "videoUrl": null
   },
   {
-    "id": 35,
+    "id": 37,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1297,7 +1297,7 @@
     "videoUrl": null
   },
   {
-    "id": 36,
+    "id": 38,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1333,7 +1333,7 @@
     "videoUrl": null
   },
   {
-    "id": 37,
+    "id": 39,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1364,7 +1364,7 @@
     "videoUrl": null
   },
   {
-    "id": 38,
+    "id": 40,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1395,7 +1395,7 @@
     "videoUrl": null
   },
   {
-    "id": 39,
+    "id": 41,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1426,7 +1426,7 @@
     "videoUrl": null
   },
   {
-    "id": 40,
+    "id": 42,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1462,7 +1462,7 @@
     "videoUrl": "https://t.me/SimurghRes/8036"
   },
   {
-    "id": 41,
+    "id": 43,
     "type": "airstrike",
     "status": "disputed",
     "date": "2026-07-24",
@@ -1498,7 +1498,7 @@
     "videoUrl": "https://t.me/SimurghRes/8034"
   },
   {
-    "id": 42,
+    "id": 44,
     "type": "cyber",
     "status": "disputed",
     "date": "2026-07-24",
@@ -1529,7 +1529,7 @@
     "videoUrl": null
   },
   {
-    "id": 44,
+    "id": 45,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1570,7 +1570,7 @@
     "videoUrl": null
   },
   {
-    "id": 45,
+    "id": 46,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1695,6 +1695,641 @@
       "other": 0
     },
     "description": "Ballistic missile and drone attack on Bahrain with at least one confirmed impact. Multiple explosions reported across the country.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 50,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "Dawn",
+    "title": "Operation Epic Fury - US & Israel Strike Iran, Khamenei Killed",
+    "location": "Multiple sites, Iran",
+    "coordinates": [
+      32.5,
+      54
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+        "type": "news"
+      },
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 200,
+      "iranian_civ": 50,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US and Israel launched coordinated airstrikes on Iran under Operation Epic Fury. Targets included military facilities, nuclear sites, and leadership. Supreme Leader Ali Khamenei killed. Iran responded with missile barrages on Israeli cities and US bases in UAE, Qatar, and Bahrain. Hezbollah launched rockets into Israel from Lebanon. Strait of Hormuz effectively closed. Over 200 IRGC personnel killed, 50+ civilian casualties.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 51,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-01",
+    "time": "TBD",
+    "title": "IRGC Attacks Multiple Tankers - Skylight & MKD Vyom Abandoned",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 3
+    },
+    "description": "IRGC attacked multiple vessels on March 1. Tanker Skylight (Palau-flagged) abandoned - 2 crew killed including captain. Tanker MKD Vyom (Marshall Islands) abandoned - 1 crew killed. Hercules Star (Gibraltar) and Ocean Electra (Liberia) sustained minor damage. LCT Ayeh (UAE) damaged.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 52,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-02",
+    "time": "TBD",
+    "title": "More Tankers Hit - Stena Imperative, Athe Nova, Gold Oak Damaged",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC continued attacks on commercial shipping. Stena Imperative (US-flagged products tanker), Athe Nova (Honduras bitumen tanker), and Gold Oak (Panama bulk carrier) all damaged. Tanker traffic through strait dropped near zero.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 53,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-04",
+    "time": "TBD",
+    "title": "Iran Formally Declares Strait of Hormuz Closed",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iran formally announced Strait of Hormuz was closed and threatened to attack any ship attempting to pass. MSC Grace container ship (Liberia) and Safeen Prestige container ship (Malta) attacked. Sonangol Namibe oil tanker (Bahamas) damaged. Shipping insurance rates increased 4-6x.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 54,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-06",
+    "time": "TBD",
+    "title": "IRGC Sinks UAE Tugboat Mussafah 2 - 4 Crew Killed",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 4
+    },
+    "description": "UAE-flagged tugboat Mussafah 2 sunk by IRGC in the Strait of Hormuz. 4 crew members killed. First vessel completely destroyed in the conflict.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 55,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-08",
+    "time": "TBD",
+    "title": "Brent Crude Tops $100/Barrel - Largest Oil Price Spike in Decades",
+    "location": "Global Markets",
+    "coordinates": [
+      35,
+      50
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Brent crude oil prices surpassed $100 per barrel for the first time in four years - the fastest oil price increase during any conflict in recent history. Prices would eventually peak at $126/barrel. Largest disruption to world energy supply since 1970s energy crisis. US national gas price approaching $4/gal.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 56,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-11",
+    "time": "TBD",
+    "title": "Mass Tanker Attacks - Mayuree Naree, Safesea Vishnu, Zefyros Struck",
+    "location": "Strait of Hormuz / Gulf of Oman",
+    "coordinates": [
+      25.5,
+      57.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 4
+    },
+    "description": "Multiple ships attacked on same day. Mayuree Naree (Thailand bulk carrier) - aground, 3 crew killed. One Majesty (Japan container ship) - minor damage. Star Gwyneth (Marshall Islands bulk carrier) - damaged. Safesea Vishnu (Marshall Islands oil tanker) - set ablaze, abandoned, 1 crew killed. Zefyros (Malta oil tanker) - set ablaze and abandoned.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 57,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-27",
+    "time": "TBD",
+    "title": "IRGC Expands Strait Ban to US, Israel, and Allies",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC announced Strait of Hormuz closed to any vessel going to and from ports of US, Israel, and their allies. Trump threatened to destroy Iran infrastructure if strait not reopened. Expressed interest in renaming it.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 58,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-04-08",
+    "time": "TBD",
+    "title": "Temporary Iran-US Ceasefire Agreed - Strait to Reopen",
+    "location": "Multiple locations",
+    "coordinates": [
+      32.5,
+      48
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Temporary ceasefire between Iran and US agreed. Was to involve reopening of the Strait of Hormuz. Following failure of Islamabad Talks, US Navy began blockade of Iranian ports on April 13, creating dual blockade - US blockading Iran, Iran blockading the Gulf.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 59,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-04-13",
+    "time": "TBD",
+    "title": "US Navy Blockades Iranian Ports - Dual Blockade Begins",
+    "location": "Persian Gulf / Iranian Coast",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Following failed Islamabad Talks, US Navy began blockading Iranian ports. The Guardian described it as dual blockade - US Navy blockading Iran while Iran blockaded the Gulf. 20,000 mariners and 2,000 ships stranded in Persian Gulf. Brent crude peaked at $126/barrel.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 60,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-05-04",
+    "time": "TBD",
+    "title": "Operation Project Freedom - US Navy Escorts Merchant Ships",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Project_Freedom",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Trump launched Operation Project Freedom - a US Navy mission to escort merchant ships out of the Persian Gulf. Iranian military warned this was a ceasefire violation. Paused on May 6 due to great progress toward agreement.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 61,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-17",
+    "time": "TBD",
+    "title": "Islamabad MOU Signed - Trump & Pezeshkian Agree to End War",
+    "location": "Islamabad, Pakistan",
+    "coordinates": [
+      33.6844,
+      73.0479
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Islamabad_Memorandum",
+        "type": "news"
+      },
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Trump and Iranian President Pezeshkian signed Islamabad Memorandum of Understanding to end the war and blockades of the Strait of Hormuz. Traffic began to normalize. On June 19, Trump announced renewed Israel-Hezbollah ceasefire. However Israel continued strikes in southern Lebanon, and on June 20 Iran closed the strait again.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 62,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-06-20",
+    "time": "TBD",
+    "title": "Iran Re-Closes Strait of Hormuz - Cites Israeli Violations",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Islamabad_Memorandum",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iran closed the Strait of Hormuz again, citing continued Israeli strikes in southern Lebanon as a violation of the Islamabad MOU agreement. US military denied the claims. Tensions rapidly re-escalated into the July crisis.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 63,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-06-27",
+    "time": "TBD",
+    "title": "US Navy Widens Strait Route Near Oman - Challenges Iran Control",
+    "location": "Strait of Hormuz / Oman",
+    "coordinates": [
+      26,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Joint Maritime Information Center (JMIC) overseen by US Navy announced widened route through Strait of Hormuz near Oman, allowing increased naval traffic in both directions and challenging Iran control over the waterway.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 64,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-07",
+    "time": "TBD",
+    "title": "Iran Attacks 3 Ships - US Launches 80+ Strikes on Kharg Island",
+    "location": "Strait of Hormuz / Kharg Island, Iran",
+    "coordinates": [
+      29.2352,
+      50.309
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 50,
+      "iranian_civ": 10,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 2
+    },
+    "description": "Iran attacked 3 commercial vessels in the Strait of Hormuz during Khamenei funeral period. CENTCOM launched 80+ retaliatory strikes hitting Kharg Island (Iran primary oil export hub), Bandar Abbas, Sirik, and Qeshm Island. Brent crude jumped 5.6% to above $78. Iran launched drone attacks on Bahrain Isa Air Base. 2 seafarers killed.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 65,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-09",
+    "time": "Overnight",
+    "title": "US Strikes Bushehr Nuclear Plant Perimeter - 14 Killed",
+    "location": "Bushehr, Iran",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 14,
+      "iranian_civ": 78,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US airstrike hit perimeter of Iran Bushehr nuclear power plant - first time a nuclear facility struck in conflict. 14 killed, 78 wounded. Iran struck Bahrain, Kuwait, Qatar, and Jordan. Jordan intercepted 8 Iranian missiles - first Iranian strike on Jordan. Trump threatened to strike electric and desalination plants.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 66,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-11",
+    "time": "Overnight",
+    "title": "US Launches 140 Strikes - Largest Package of Conflict",
+    "location": "Multiple sites, Iran",
+    "coordinates": [
+      32.5,
+      54
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "CENTCOM launched 140 strikes - largest single strike package of the conflict. Iran struck Jordan Prince Hassan Air Base, UAE, Bahrain, and Qatar. Iran formally declared Strait of Hormuz closed until further notice.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 67,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-17",
+    "time": "TBD",
+    "title": "Infrastructure War Phase Begins - Bridges & Desalination Struck",
+    "location": "Bandar Abbas, Iran / Kuwait",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 2,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US strikes destroyed bridges and railway lines near Bandar Abbas, severing main road to strait city. Iran struck Shuaiba power/desalination complex in Kuwait. Bunji desalination plant in Jask destroyed, leaving 20 villages without water. Both sides now deliberately striking civilian infrastructure.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 68,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-03-31",
+    "time": "TBD",
+    "title": "IRGC Designates 18 US Tech Companies as Military Targets",
+    "location": "Tehran, Iran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      },
+      {
+        "name": "Fortune",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC designated 18 US technology companies as legitimate military targets, including Amazon, Microsoft, Google, Apple, and Meta. Fortune described this as the first time data centers have been deliberately targeted for air strikes in a conflict. Led to multiple strikes on AWS infrastructure in Bahrain.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 69,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-05-29",
+    "time": "TBD",
+    "title": "US Naval Blockade of Iran Lifted - Ceasefire Progress",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US lifted naval blockade of Iranian ports following diplomatic progress toward the Islamabad MOU. Traffic had averaged 6-10 vessels/day during the blockade period. Paved way for the June 17 MOU signing.",
     "satelliteImage": null,
     "videoUrl": null
   }
