@@ -78143,5 +78143,50 @@
     "description": "⚡️ Palestinian sources: Israeli forces launched a wide-ranging campaign of raids and arrests, mostly targeting released prisoners, during their incursions into the suburbs of Iktaba and Arta, and the towns of Balaa and Qaffin in Tulkarm.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785024010577,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The moment of directly targeting the headquarters of opposition parties in Erbil",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785023961564,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-25",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ To the government of Israel, the IDF, the Shin Bet, and the police: You are feeding a misleading idea in the West Bank, an idea that is escalating in the face of renewed rising Arab terrorism.Whoever shamelessly promotes \"the danger of Jewish revenge\" and \"mutual clashes\" is unworthy of their pos...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785023958368,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-25",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ To the government of Israel, the IDF, the Shin Bet, and the police: You are feeding a misleading idea in the West Bank, an idea that is escalating in the face of renewed rising Arab terrorism.Whoever shamelessly promotes \"the danger of Jewish revenge\" and \"mutual clashes\" is unworthy of their pos...",
+    "media": [],
+    "verified": false
   }
 ]
