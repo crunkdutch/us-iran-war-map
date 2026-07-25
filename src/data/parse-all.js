@@ -174,18 +174,27 @@ function generateTitle(text, locations, attackType, entity) {
   if (locations.length > 0) {
     loc = locations.map(l => l.name).slice(0, 3).join(', ')
   }
-  const entityName = entity ? entity.canonical : 'Unknown'
+  let entityName = entity ? entity.canonical : 'Unknown'
+  // Determine context
+  const l = text.toLowerCase()
+  if (l.includes('hezbollah') || l.includes('hizbullah')) entityName = 'Hezbollah'
+  else if (l.includes('idf') || l.includes('israeli')) entityName = 'IDF/Israel'
+  else if (l.includes('houthi') || l.includes('ansar') || l.includes('yemen')) entityName = 'Ansar Allah'
+
   const typeMap = { drone: 'Drone Strike', missile: 'Missile Strike',
     rocket: 'Rocket Attack', airstrike: 'Airstrike', naval: 'Naval Operation',
     intercept: 'Interception', cyber: 'Cyber Attack', report: 'Event' }
   const typeLabel = typeMap[attackType] || 'Event'
 
   // Try to extract a short description
-  const words = text.replace(/[^\w\s]/g, '').split(/\s+/).filter(w => w.length > 2)
+  const words = text.replace(/[^\w\s]/g, '').split(/\s+/).filter(w => w.length > 3)
   let summary = words.slice(0, 10).join(' ')
   if (summary.length > 80) summary = summary.slice(0, 80) + '...'
 
-  return `${entityName} ${typeLabel} — ${loc}: ${summary}`
+  // Prefer a shorter title
+  const shortWords = words.slice(0, 6).join(' ')
+  const shortSummary = shortWords.length > 60 ? shortWords.slice(0, 60) + '...' : shortWords
+  return `${entityName} ${typeLabel} — ${loc}: ${shortSummary}`
 }
 
 // ── Main parser ──
@@ -250,13 +259,33 @@ function main() {
 
       // Categorize the post
       const l = rawText.toLowerCase()
-      const hasAttackKeywords = /struck|strike|hit|attack|launch|destroyed|targeted|fired|shelled|bombed|barrage|salvo|wave/i.test(l)
-      const hasCasualtyKeywords = /killed|injured|wounded|civilian|casualty|martyr|death|fatal/i.test(l)
+
+      // Strong attack signal — requires explicit military action language
+      const isStrongAttack = /(?:struck|destroyed|targeted|launched|shelled|bombed)\s+(?:a\s+)?(?:US|Iranian|IRGC|Israeli|Hezbollah|Houthi|Saudi|military|base|site|position|depot|hangar|barrack|airbase|airfield|refinery|storage|warehouse|data center|hq|headquarters|ammunition|fuel|drone|missile|naval|ship|carrier)/i.test(l) ||
+        /(?:missile|rocket|drone|artillery|airstrike|barrage|salvo|wave|bombardment)\s+(?:struck|hit|targeted|launched|fired|destroyed)/i.test(l) ||
+        /(?:targeted|attacked|struck)\s+(?:by|using|with|via)\s+(?:missile|drone|rocket|airstrike|artillery)/i.test(l) ||
+        /(?:Intercept|Intercepted|shot down|destroyed)\s+(?:cruise missile|drone|missile|projectile)/i.test(l) ||
+        /(?:Iran|IRGC|Artesh|Iranian Army|Army)\s+(?:hit|struck|targeted|destroyed|launched|fired)/i.test(l) ||
+        /(?:US|CENTCOM|American|US forces)\s+(?:hit|struck|targeted|destroyed|launched|fired|strike)/i.test(l) ||
+        /(?:Hezbollah|Houthi|Ansar)\s+(?:hit|struck|targeted|destroyed|launched|fired|rocket|missile|drone)/i.test(l)
+
+      const hasMentionOfAttack = /strike|struck|attack|hit|target|destroyed|launch|fired|shelled|barrage|salvo/i.test(l) && 
+        /missile|drone|rocket|airstrike|bomb|artillery|naval|military|base|airbase|barrack|depot|hangar|refinery/i.test(l)
+
+      const hasCasualtyKeywords = /killed|injured|wounded|civilian|casualty|martyr|death/i.test(l)
       const isStatementPost = isStatement(rawText)
       const hasMediaRefs = /🎥|video|footage|satellite image|imagery|photo|picture/i.test(l)
 
-      // 1. Attack events
-      if (hasAttackKeywords || hasCasualtyKeywords) {
+      // Skip blatant non-war content
+      const isNoise = /^(?:published|this is|check out|follow|subscribe|donate|support|ko-fi|patreon|link)/i.test(l.trim()) ||
+        /t.me\/\w+/i.test(l.trim()) && l.trim().length < 80 ||
+        /letter|article|published|read more/i.test(l) && !/(?:Iran|IRGC|Hezbollah|strike|missile|drone|attack|military)/i.test(l)
+
+      // Validate attack has strong enough signal and good date
+      const isValidDate = date >= '2026-02-01' && date <= '2026-12-31'
+
+      // 1. Attack events — only create if strong signal + valid date + not noise
+      if ((isStrongAttack || (hasMentionOfAttack && (entity || hasCasualtyKeywords))) && !isNoise && isValidDate) {
         const attackKey = `${date}-${locations[0].name}-${attackType}`
         if (!existingAttackKeys.has(attackKey)) {
           existingAttacks.push({

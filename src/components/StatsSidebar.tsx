@@ -331,14 +331,20 @@ function StatsContent({ stats }: { stats: any }) {
   </>)
 }
 
+const PAGE_SIZE = 25
+
 function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }: {
   filtered: Statement[]; filter: string; setFilter: (f: any) => void
   expandedId: number | null; setExpandedId: (n: number | null) => void
 }) {
+  const [limit, setLimit] = useState(PAGE_SIZE)
+  const visible = filtered.slice(0, limit)
+  const hasMore = limit < filtered.length
+
   return (<>
     <div style={{ padding: '6px 8px', borderBottom: '1px solid var(--border-color)', display: 'flex', gap: 4 }}>
       {(['all', 'CENTCOM', 'Khatam al Anbiya'] as const).map(f => (
-        <button key={f} onClick={() => setFilter(f)} style={{
+        <button key={f} onClick={() => { setFilter(f); setLimit(PAGE_SIZE) }} style={{
           flex: 1, padding: '4px 4px',
           background: filter === f ? 'rgba(255,255,255,0.08)' : 'transparent',
           border: `1px solid ${filter === f ? (f === 'CENTCOM' ? '#3498db' : f === 'Khatam al Anbiya' ? '#2ecc71' : 'var(--accent-cyan)') : 'transparent'}`,
@@ -348,7 +354,7 @@ function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }
       ))}
     </div>
     <div style={{ padding: 0 }}>
-      {filtered.map(s => {
+      {visible.map(s => {
         const expanded = expandedId === s.id
         const color = STATEMENT_SOURCE_COLORS[s.source] || 'var(--text-dim)'
         return (<div key={s.id} style={{ padding: '8px 10px', borderBottom: '1px solid rgba(255,255,255,0.04)', cursor: 'pointer' }}
@@ -369,6 +375,15 @@ function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }
           </div>)}
         </div>)
       })}
+      {hasMore && (
+        <div style={{ padding: '8px 10px', textAlign: 'center' }}>
+          <button onClick={() => setLimit(l => l + PAGE_SIZE)} style={{
+            background: 'transparent', border: '1px solid var(--border-color)',
+            color: 'var(--accent-green)', fontFamily: 'var(--font-mono)',
+            fontSize: 9, padding: '4px 16px', cursor: 'pointer', letterSpacing: 1,
+          }}>LOAD +{Math.min(PAGE_SIZE, filtered.length - limit)}</button>
+        </div>
+      )}
     </div>
   </>)
 }
@@ -379,6 +394,10 @@ function SitrepsContent({ filtered, filter, setFilter, expandedId, setExpandedId
   expandedId: number | null; setExpandedId: (n: number | null) => void
   typeCounts: Record<string, number>
 }) {
+  const [limit, setLimit] = useState(PAGE_SIZE)
+  const visible = filtered.slice(0, limit)
+  const hasMore = limit < filtered.length
+
   const typeLabels: Record<string, string> = {
     launch: 'LAUNCH', strike: 'STRIKE', drone: 'DRONE',
     intercept: 'INTERCEPT', casualty: 'CASUALTY', naval: 'NAVAL',
@@ -386,14 +405,14 @@ function SitrepsContent({ filtered, filter, setFilter, expandedId, setExpandedId
   }
   return (<>
     <div style={{ padding: '6px 8px', borderBottom: '1px solid var(--border-color)', display: 'flex', flexWrap: 'wrap', gap: 4 }}>
-      <button onClick={() => setFilter('all')} style={{
+      <button onClick={() => { setFilter('all'); setLimit(PAGE_SIZE) }} style={{
         padding: '3px 6px', background: filter === 'all' ? 'rgba(255,255,255,0.08)' : 'transparent',
         border: `1px solid ${filter === 'all' ? 'var(--accent-amber)' : 'transparent'}`,
         color: filter === 'all' ? 'var(--text-bright)' : 'var(--text-dim)',
         fontFamily: 'var(--font-mono)', fontSize: 8, cursor: 'pointer', letterSpacing: 1,
       }}>ALL ({Object.values(typeCounts).reduce((a,b) => a+b, 0)})</button>
       {Object.entries(typeCounts).map(([type, count]) => (
-        <button key={type} onClick={() => setFilter(type)} style={{
+        <button key={type} onClick={() => { setFilter(type); setLimit(PAGE_SIZE) }} style={{
           padding: '3px 6px',
           background: filter === type ? 'rgba(255,255,255,0.08)' : 'transparent',
           border: `1px solid ${filter === type ? (SITREP_TYPE_COLORS[type] || '#666') : 'transparent'}`,
@@ -403,7 +422,7 @@ function SitrepsContent({ filtered, filter, setFilter, expandedId, setExpandedId
       ))}
     </div>
     <div style={{ padding: 0 }}>
-      {filtered.map(s => {
+      {visible.map(s => {
         const expanded = expandedId === s.id
         const color = SITREP_TYPE_COLORS[s.type] || '#666'
         return (<div key={s.id} style={{ padding: '8px 10px', borderBottom: '1px solid rgba(255,255,255,0.04)', cursor: 'pointer' }}
@@ -431,6 +450,15 @@ function SitrepsContent({ filtered, filter, setFilter, expandedId, setExpandedId
           </div>)}
         </div>)
       })}
+      {hasMore && (
+        <div style={{ padding: '8px 10px', textAlign: 'center' }}>
+          <button onClick={() => setLimit(l => l + PAGE_SIZE)} style={{
+            background: 'transparent', border: '1px solid var(--border-color)',
+            color: 'var(--accent-green)', fontFamily: 'var(--font-mono)',
+            fontSize: 9, padding: '4px 16px', cursor: 'pointer', letterSpacing: 1,
+          }}>LOAD +{Math.min(PAGE_SIZE, filtered.length - limit)}</button>
+        </div>
+      )}
     </div>
   </>)
 }
