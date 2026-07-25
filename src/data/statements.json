@@ -250,5 +250,47 @@
     "url": "https://t.me/SimurghRes/8043",
     "sourceChannel": "SimurghRes",
     "confidence": "confirmed"
+  },
+  {
+    "id": 19,
+    "source": "Hezbollah",
+    "sourceLabel": "Hezbollah Military Command",
+    "type": "official",
+    "date": "2026-03-02",
+    "time": "TBD",
+    "title": "Hezbollah Announces Resumption of Operations Against Israel",
+    "summary": "Hezbollah resumed cross-border attacks into northern Israel in response to Khamenei killing and US-Israeli strikes on Iran.",
+    "quote": "This is a defensive act after over a year of Israeli attacks despite a truce. We restarted fighting to force Israel to stop its aggression and evacuate from seized Lebanese territories. The move is unrelated to the Iran war.",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+    "sourceChannel": "Wikipedia",
+    "confidence": "confirmed"
+  },
+  {
+    "id": 20,
+    "source": "Khatam al Anbiya",
+    "sourceLabel": "IRGC Quds Force - Lebanon Corps",
+    "type": "official",
+    "date": "2026-03-14",
+    "time": "TBD",
+    "title": "IRGC Commander in Lebanon Killed - Hezbollah Communications Unit Hit",
+    "summary": "IDF killed an IRGC commander serving in both Hezbollah communications unit and Quds Force Palestine Corps.",
+    "quote": "The IDF killed an IRGC commander in Lebanon who was both a member of Hezbollah communications unit and the Quds Force Palestine Corps.",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+    "sourceChannel": "Wikipedia",
+    "confidence": "confirmed"
+  },
+  {
+    "id": 21,
+    "source": "CENTCOM",
+    "sourceLabel": "IDF Spokesperson",
+    "type": "official",
+    "date": "2026-04-08",
+    "time": "TBD",
+    "title": "Operation Eternal Darkness - IDF Confirms Coordinated Lebanon Strikes",
+    "summary": "IDF launched Operation Eternal Darkness across Lebanon, striking 89 targets. Working assumption: fighting with Iran will resume.",
+    "quote": "We launched Operation Eternal Darkness in Lebanon. Our working assumption is that fighting with Iran will resume. Hezbollah launched 35 waves of attacks.",
+    "url": "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
+    "sourceChannel": "Wikipedia",
+    "confidence": "confirmed"
   }
 ]

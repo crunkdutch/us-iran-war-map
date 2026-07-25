@@ -2332,5 +2332,227 @@
     "description": "US lifted naval blockade of Iranian ports following diplomatic progress toward the Islamabad MOU. Traffic had averaged 6-10 vessels/day during the blockade period. Paved way for the June 17 MOU signing.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 70,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-02",
+    "time": "TBD",
+    "title": "Hezbollah Opens Northern Front - Rockets at Haifa, 52 Killed in Israeli Retaliation",
+    "location": "Lebanon-Israel Border / Haifa",
+    "coordinates": [
+      33,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 52
+    },
+    "description": "Hezbollah fired projectiles toward Israel from Lebanon in response to Khamenei killing. Targeted Mishmar HaCarmel missile defence site near Haifa. Israeli retaliatory strikes killed at least 52 and injured 154. Hezbollah intelligence chief Hussain Makled killed. Lebanon banned Hezbollah military activities.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 71,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-03",
+    "time": "TBD",
+    "title": "IDF Strikes Beirut - Hezbollah Hits Ramat David Airbase with Drones",
+    "location": "Beirut, Lebanon / Ramat David Airbase, Israel",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IDF carried out airstrikes on Beirut and deployed soldiers to southern Lebanon. Hezbollah conducted drone and missile attacks on Ramat David Airbase, Meron monitoring base, and Camp Yitzhak. Israeli ground forces entered southern Lebanon.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 72,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-11",
+    "time": "TBD",
+    "title": "Hezbollah Fires 200 Rockets at Israel in Single Day",
+    "location": "Northern Israel",
+    "coordinates": [
+      32.8,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah fired 200 rockets at Israel in a single day. IDF said 80 failed to enter Israeli territory and it prevented launch of 400 additional rockets. Total Lebanese death toll since escalation: 634 killed, 1,586 wounded.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 73,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-13",
+    "time": "TBD",
+    "title": "Israeli Strike Kills 12 Medics - Zrarieh Bridge Destroyed",
+    "location": "Burj Qalaouiyah / Litani River, Lebanon",
+    "coordinates": [
+      33.3,
+      35.4
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 12
+    },
+    "description": "Israeli strike on healthcare facility in Burj Qalaouiyah killed 12 medics and injured another. Israel destroyed the Zrarieh Bridge over the Litani River, citing its use in Hezbollah movement. IDF said it killed two senior Hezbollah Badr Unit commanders. Total Lebanese death toll: 773.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 74,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-04-08",
+    "time": "TBD",
+    "title": "Operation Eternal Darkness - Israeli Strikes Kill 89 in Lebanon",
+    "location": "Multiple sites, Lebanon",
+    "coordinates": [
+      33.8,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 89
+    },
+    "description": "Israel launched Operation Eternal Darkness in Lebanon. Coordinated strikes killed 89 people and wounded 700 across Lebanon. Hezbollah launched 35 waves of attacks on April 2. Total Lebanese death toll since start of war: 1,368. IDF working assumption: fighting with Iran will resume.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 75,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-06-19",
+    "time": "TBD",
+    "title": "Israel-Hezbollah Ceasefire Agreed - Lasted 24 Hours",
+    "location": "Lebanon-Israel Border",
+    "coordinates": [
+      33,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_ceasefire",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Trump announced renewed Israel-Hezbollah ceasefire facilitated by US, Qatar, and Iran. However Israel continued strikes in southern Lebanon, and Iran cited this as a violation of the Islamabad MOU, closing the Strait of Hormuz again on June 20. The Israel-Lebanon ceasefire effectively collapsed within 24 hours.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 76,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Israeli Bombing Targets al-Masha and Hadatha in Southern Lebanon",
+    "location": "al-Mansouri / Hadatha, Southern Lebanon",
+    "coordinates": [
+      33.25,
+      35.35
+    ],
+    "sources": [
+      {
+        "name": "Middle East Observer",
+        "url": "https://t.me/me_observer_TG",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Three Israeli bombings at different times targeted the al-Masha neighborhood in al-Mansouri, southern Lebanon. Violent bombing also targeted the town of Hadatha. Part of ongoing Israeli operations against Hezbollah positions along the border.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]
