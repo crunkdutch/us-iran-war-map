@@ -77813,5 +77813,125 @@
     "description": "🇺🇸🇮🇱There are seven US refueling tankers in the air over the Persian Gulf and the Gulf of Oman.An eighth tankers has just got airborne from Tel Aviv's Ben \"Gorilla\" Airport.@SimurghRes",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785018257077,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran condemns terrorist attack in Pakistan📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei strongly condemned the terrorist attack on a police checkpoint in the city of Tank, located in Pakistan's Khyber Pakhtunkhwa province.While condemning this terrorist attack, Baqaei ext...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785018195119,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️Lebanon: Very violent bombing in the South",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785018193585,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Israeli enemy carries out a combing campaign with machine guns towards Mansouri and the Sayyad homes in southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785018232700,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Israeli enemy carries out a combing campaign with machine guns towards Mansouri and the Sayyad homes in southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785018203722,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Occupation forces raid Arraba village northeast of Jenin in the West Bank",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785018225914,
+    "type": "missile",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🇮🇷⚡️ — These explosions heard in Bandar Abbas are likely the result of anti-ship cruise missiles being launched towards the Strait of Hormuz. No attack has been carried out against Bandar Abbas.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785018241642,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🇮🇷⚡️ — These explosions heard in Bandar Abbas are likely the result of anti-ship cruise missiles being launched towards the Strait of Hormuz. No attack has been carried out against Bandar Abbas.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785018199390,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Explosion heard in southern Lebanon• 22:16 — Strong explosions now, their nature not yet determined, whether raids or bombings. (Rasd Akhbar Shehaba)• 22:22 — A new explosion reverberates in southern Lebanon (Rasd Akhbar Shehaba)",
+    "media": [],
+    "verified": false
   }
 ]
