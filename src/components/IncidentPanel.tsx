@@ -37,7 +37,10 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
 
   if (!attack) return null
 
-  const totalCasualties = attack.casualties.military + attack.casualties.civilian
+  const totalCasualties =
+    (attack.casualties.iranian_mil || 0) + (attack.casualties.iranian_civ || 0) +
+    (attack.casualties.us_mil || 0) + (attack.casualties.us_civ || 0) +
+    (attack.casualties.kurdish || 0) + (attack.casualties.other || 0)
   const sourceUrl = attack.sources.find(s => s.url && s.url !== '#')?.url || null
   const sourceName = attack.sources.find(s => s.url && s.url !== '#')?.name || null
   const multimediaUrl = attack.satelliteImage || attack.videoUrl || sourceUrl
@@ -152,12 +155,24 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
             <div style={{ fontSize: 9, color: 'var(--accent-green)', letterSpacing: 2, marginBottom: 6 }}>
               CASUALTIES
             </div>
-            <div style={{ display: 'flex', gap: 16 }}>
-              {attack.casualties.military > 0 && (
-                <Badge label="MILITARY" value={attack.casualties.military} color="var(--accent-red)" />
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 12 }}>
+              {attack.casualties.iranian_mil > 0 && (
+                <Badge label="IRAN MIL" value={attack.casualties.iranian_mil} color="var(--accent-red)" />
               )}
-              {attack.casualties.civilian > 0 && (
-                <Badge label="CIVILIAN" value={attack.casualties.civilian} color="var(--accent-amber)" />
+              {attack.casualties.iranian_civ > 0 && (
+                <Badge label="IRAN CIV" value={attack.casualties.iranian_civ} color="var(--accent-amber)" />
+              )}
+              {attack.casualties.us_mil > 0 && (
+                <Badge label="US MIL" value={attack.casualties.us_mil} color="#3498db" />
+              )}
+              {attack.casualties.us_civ > 0 && (
+                <Badge label="US CIV" value={attack.casualties.us_civ} color="#85c1e9" />
+              )}
+              {attack.casualties.kurdish > 0 && (
+                <Badge label="KURDISH" value={attack.casualties.kurdish} color="#9b59b6" />
+              )}
+              {attack.casualties.other > 0 && (
+                <Badge label="OTHER" value={attack.casualties.other} color="var(--text-dim)" />
               )}
               <Badge label="TOTAL" value={totalCasualties} color="var(--text-bright)" />
             </div>

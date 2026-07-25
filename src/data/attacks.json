@@ -24,8 +24,12 @@
       }
     ],
     "casualties": {
-      "military": 12,
-      "civilian": 0
+      "iranian_mil": 12,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Precision strike on IRGC Quds Force command facility in southern Tehran. Building destroyed. High-value target confirmed eliminated.",
     "satelliteImage": null,
@@ -56,8 +60,12 @@
       }
     ],
     "casualties": {
-      "military": 3,
-      "civilian": 8
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 11
     },
     "description": "Iranian Shahab-3 ballistic missile launched from western Iran. Intercepted partially by Iron Dome. Fragment impacts caused casualties.",
     "satelliteImage": null,
@@ -88,8 +96,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "USS Dwight D. Eisenhower carrier strike group entered the Persian Gulf via the Strait of Hormuz. Iranian IRGC Navy vessels shadowing the group.",
     "satelliteImage": null,
@@ -125,8 +137,12 @@
       }
     ],
     "casualties": {
-      "military": 5,
-      "civilian": 2
+      "iranian_mil": 5,
+      "iranian_civ": 2,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Multiple UAVs struck the Natanz enrichment facility perimeter. Iran claims air defenses intercepted 3 of 4 drones. Satellite imagery confirms structural damage to centrifuge hall annex.",
     "satelliteImage": null,
@@ -157,8 +173,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "SCADA systems at Kharg Island terminal disrupted. Operations halted for 8 hours. Unconfirmed attribution to US Cyber Command. Iran calling it 'act of war in cyberspace'.",
     "satelliteImage": null,
@@ -189,8 +209,12 @@
       }
     ],
     "casualties": {
-      "military": 4,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 4,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "IRGC ballistic missiles targeted Al Asad airbase. US Patriot systems intercepted 7 of 9 missiles. Two impacted within base perimeter. No critical infrastructure hit.",
     "satelliteImage": null,
@@ -221,8 +245,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "IRGC Navy fast attack craft approached USNS Supply within 300 meters. Warning shots fired. Vessels withdrew after US helicopter overflight.",
     "satelliteImage": null,
@@ -258,8 +286,12 @@
       }
     ],
     "casualties": {
-      "military": 18,
-      "civilian": 1
+      "iranian_mil": 18,
+      "iranian_civ": 1,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "B-2 Spirit stealth bombers struck underground missile storage facilities 40km east of Bushehr. Secondary explosions observed. Satellite imagery shows complete destruction of the site.",
     "satelliteImage": null,
@@ -285,8 +317,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Iranian Mohajer-10 drone approached USS Arleigh Burke within 15 nautical miles. Drone tracked for 45 minutes before returning to Syrian airspace. No engagement.",
     "satelliteImage": null,
@@ -322,8 +358,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Power grid control systems in 3 states experienced unusual network activity. DHS investigating. Iran-linked APT group claimed responsibility but no blackouts occurred.",
     "satelliteImage": null,
@@ -354,8 +394,12 @@
       }
     ],
     "casualties": {
-      "military": 22,
-      "civilian": 3
+      "iranian_mil": 22,
+      "iranian_civ": 3,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Tomahawk cruise missiles struck IRGC Navy headquarters complex. Intelligence facility and communications array destroyed. Precision strikes with minimal collateral.",
     "satelliteImage": null,
@@ -386,8 +430,12 @@
       }
     ],
     "casualties": {
-      "military": 2,
-      "civilian": 5
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 2,
+      "us_civ": 0,
+      "kurdish": 5,
+      "other": 0
     },
     "description": "Multiple Fateh-110 ballistic missiles struck near US consulate facility in Erbil. Missiles intercepted by C-RAM. Debris caused civilian casualties in residential area.",
     "satelliteImage": null,
@@ -413,8 +461,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "US military struck a site in Yazd as part of aerial bombardment campaign across central Iran.",
     "satelliteImage": null,
@@ -440,8 +492,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Explosions reported in Ahvaz, Andimeshk, Bandar Abbas, Khorramabad (likely targeting missile city infrastructure), Qeshm island, Jask, and outskirts of Khondab during coordinated US strikes.",
     "satelliteImage": null,
@@ -467,8 +523,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "US attacked the IRGC Navy \"Hazrat Seyyed al-Shohada\" headquarters in Zibakenar, Gilan province — struck with standoff munitions deep in northern Iran near the Caspian Sea.",
     "satelliteImage": null,
@@ -499,8 +559,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 4
+      "iranian_mil": 0,
+      "iranian_civ": 4,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "US attacks in Bandar Abbas injured 2 civilians. Attacks in Khorramabad also resulted in 2 civilian injuries. Total Iranian injuries across all strikes reached 645; 55 killed.",
     "satelliteImage": null,
@@ -531,8 +595,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Iranian Army (Artesh) struck fuel storage facilities, large equipment warehouses, hangars, and US army barracks at Sheikh Isa Air Base in Bahrain using Arash drones.",
     "satelliteImage": null,
@@ -563,8 +631,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Iranian Army (Artesh) struck aircraft hangars, aircraft maintenance hangars, and barracks at Muwaffaq al Salti Air Base in Jordan.",
     "satelliteImage": null,
@@ -595,8 +667,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Iranian Army (Artesh) struck US military equipment warehouses at Camp Buehring, a US troop deployment site at Camp Doha, and a US forces deployment site at Camp Arifjan, all in Kuwait.",
     "satelliteImage": null,
@@ -627,8 +703,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "IRGC struck a very large ammunition depot at Ali Al Salem Air Base in Kuwait using advanced super-heavy OWA drones. The ammunition depot was completely destroyed. Six large barracks hangars were completely destroyed, three others sustained severe damage. Multiple casualties reported.",
     "satelliteImage": null,
@@ -659,8 +739,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "IRGC struck the remaining standing building of Amazon's intelligence data center in Bahrain as a follow-up from their previous operation.",
     "satelliteImage": null,
@@ -691,8 +775,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "CENTCOM announced it prevented 12 ships from transiting as part of the ongoing naval blockade and maritime interdiction operations.",
     "satelliteImage": null,
@@ -718,8 +806,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "Iranian air defenses intercepted an American cruise missile over Kahnooj, Kerman province. Visual proof of the interception was released by Iranian sources.",
     "satelliteImage": null,
@@ -750,8 +842,12 @@
       }
     ],
     "casualties": {
-      "military": 0,
-      "civilian": 0
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
     },
     "description": "US attacked a site in Naeen, Isfahan province at approximately 3 AM local time.",
     "satelliteImage": null,

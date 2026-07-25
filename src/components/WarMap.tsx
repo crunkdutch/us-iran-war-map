@@ -21,7 +21,11 @@ export interface AttackEvent {
   id: number; type: string; title: string; location: string
   coordinates: number[]; date: string; time: string; status: string
   sources: { name: string; url: string; type: string }[]
-  casualties: { military: number; civilian: number }
+  casualties: {
+    iranian_mil: number; iranian_civ: number;
+    us_mil: number; us_civ: number;
+    kurdish: number; other: number;
+  }
   description: string; satelliteImage: string | null; videoUrl: string | null
 }
 

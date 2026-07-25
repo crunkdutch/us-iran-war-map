@@ -42,14 +42,18 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
   const stats = useMemo(() => {
     const byType: Record<string, number> = {}
     const byStatus: Record<string, number> = {}
-    let totalMil = 0, totalCiv = 0
+    let iranMil = 0, iranCiv = 0, usMil = 0, usCiv = 0, kurdish = 0, other = 0
     for (const a of attacks) {
       byType[a.type] = (byType[a.type] || 0) + 1
       byStatus[a.status] = (byStatus[a.status] || 0) + 1
-      totalMil += a.casualties.military
-      totalCiv += a.casualties.civilian
+      iranMil += a.casualties.iranian_mil || 0
+      iranCiv += a.casualties.iranian_civ || 0
+      usMil += a.casualties.us_mil || 0
+      usCiv += a.casualties.us_civ || 0
+      kurdish += a.casualties.kurdish || 0
+      other += a.casualties.other || 0
     }
-    return { byType, byStatus, totalMil, totalCiv, total: attacks.length }
+    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length }
   }, [attacks])
 
   const filteredStatements = useMemo(() => {
@@ -196,9 +200,13 @@ function StatsContent({ stats }: { stats: any }) {
     </div>
     <div style={{ padding: '8px 12px', borderBottom: '1px solid var(--border-color)' }}>
       <div style={{ fontSize: 8, color: 'var(--text-dim)', letterSpacing: 1, marginBottom: 4 }}>CASUALTIES</div>
-      <div style={{ display: 'flex', gap: 16 }}>
-        <div><div style={{ fontSize: 16, fontWeight: 700, color: 'var(--accent-red)' }}>{stats.totalMil}</div><div style={{ fontSize: 8, color: 'var(--text-dim)' }}>MILITARY</div></div>
-        <div><div style={{ fontSize: 16, fontWeight: 700, color: 'var(--accent-amber)' }}>{stats.totalCiv}</div><div style={{ fontSize: 8, color: 'var(--text-dim)' }}>CIVILIAN</div></div>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, rowGap: 4 }}>
+        <CasLabel value={stats.iranMil} color="var(--accent-red)" label="IRAN MIL" />
+        <CasLabel value={stats.iranCiv} color="var(--accent-amber)" label="IRAN CIV" />
+        <CasLabel value={stats.usMil} color="#3498db" label="US MIL" />
+        <CasLabel value={stats.usCiv} color="#85c1e9" label="US CIV" />
+        <CasLabel value={stats.kurdish} color="#9b59b6" label="KURD" />
+        <CasLabel value={stats.other} color="var(--text-dim)" label="OTHER" />
       </div>
     </div>
     <div style={{ padding: '8px 12px' }}>
@@ -326,4 +334,14 @@ const TYPE_COLORS: Record<string, string> = {
 }
 const STATUS_COLORS: Record<string, string> = {
   confirmed: 'var(--accent-green)', disputed: 'var(--accent-amber)', unconfirmed: 'var(--accent-red)',
+}
+
+function CasLabel({ value, color, label }: { value: number; color: string; label: string }) {
+  if (!value) return null
+  return (
+    <div style={{ minWidth: 40 }}>
+      <div style={{ fontSize: 14, fontWeight: 700, color, fontFamily: 'var(--font-mono)' }}>{value}</div>
+      <div style={{ fontSize: 7, color: 'var(--text-dim)', letterSpacing: 1 }}>{label}</div>
+    </div>
+  )
 }
