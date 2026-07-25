@@ -533,5 +533,20 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1784941778074,
+    "type": "strike",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-07-24",
+    "source": "Enemy Watch (@enemywatch)",
+    "sourceUrl": "https://t.me/enemywatch/60319",
+    "description": "Saudi airstrikes on Hodeidah Port fuel storage tanks, eastern Hodeidah, and Kamaran Island. Communications facility worker and woman on Kamaran Island injured. Yemeni air defenses forced Saudi jets to withdraw.",
+    "media": [],
+    "verified": false
   }
 ]

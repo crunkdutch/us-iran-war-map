@@ -504,7 +504,7 @@
     "videoUrl": null
   },
   {
-    "id": 16,
+    "id": 15,
     "type": "airstrike",
     "title": "Strike on IRGC Navy HQ — Zibakenar, Gilan",
     "location": "Zibakenar, Gilan, Iran",
@@ -535,7 +535,7 @@
     "videoUrl": null
   },
   {
-    "id": 17,
+    "id": 16,
     "type": "airstrike",
     "title": "Casualties in Bandar Abbas & Khorramabad Strikes",
     "location": "Bandar Abbas & Khorramabad, Iran",
@@ -571,7 +571,7 @@
     "videoUrl": null
   },
   {
-    "id": 18,
+    "id": 17,
     "type": "missile",
     "title": "Iranian Strike on Sheikh Isa Air Base",
     "location": "Sheikh Isa Air Base, Bahrain",
@@ -607,7 +607,7 @@
     "videoUrl": null
   },
   {
-    "id": 19,
+    "id": 18,
     "type": "missile",
     "title": "Iranian Strike on Muwaffaq al Salti Air Base",
     "location": "Muwaffaq al Salti Air Base, Jordan",
@@ -643,7 +643,7 @@
     "videoUrl": null
   },
   {
-    "id": 20,
+    "id": 19,
     "type": "missile",
     "title": "Iranian Strikes on US Bases in Kuwait",
     "location": "Camp Buehring, Camp Doha, Camp Arifjan, Kuwait",
@@ -679,7 +679,7 @@
     "videoUrl": null
   },
   {
-    "id": 21,
+    "id": 20,
     "type": "drone",
     "title": "IRGC Drone Strike on Ali Al Salem Air Base",
     "location": "Ali Al Salem Air Base, Kuwait",
@@ -715,7 +715,7 @@
     "videoUrl": null
   },
   {
-    "id": 22,
+    "id": 21,
     "type": "drone",
     "title": "IRGC Follow-Up Strike on Amazon Data Center",
     "location": "Bahrain",
@@ -751,7 +751,7 @@
     "videoUrl": null
   },
   {
-    "id": 23,
+    "id": 22,
     "type": "naval",
     "title": "CENTCOM Naval Blockade — 12 Ships Prevented",
     "location": "Persian Gulf / Strait of Hormuz",
@@ -787,7 +787,7 @@
     "videoUrl": null
   },
   {
-    "id": 24,
+    "id": 23,
     "type": "airstrike",
     "title": "Iranian Air Defense Interception — Kahnooj",
     "location": "Kahnooj, Kerman, Iran",
@@ -818,7 +818,7 @@
     "videoUrl": "https://t.me/FotrosResistancee"
   },
   {
-    "id": 15,
+    "id": 24,
     "type": "airstrike",
     "title": "US Strike on Naeen, Isfahan Province",
     "location": "Naeen, Isfahan, Iran",
@@ -1025,42 +1025,6 @@
   },
   {
     "id": 30,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-07-24",
-    "time": "TBD",
-    "title": "Ansar Allah Strikes Saudi Vessel NCC MASA in Red Sea",
-    "location": "Red Sea / Hodeidah, Yemen",
-    "coordinates": [
-      14.7979,
-      42.9545
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/60319",
-        "type": "analyst"
-      },
-      {
-        "name": "Saudi Press Agency",
-        "url": "",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Yemeni forces targeted Saudi vessel NCC MASA in the Red Sea. Direct hits sustained, minor structural damage to hull. Saudi Arabia launched retaliatory airstrikes across Hodeidah Governorate targeting port fuel storage tanks, communications facilities, and Kamaran Island. At least one civilian injured.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 31,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1091,7 +1055,7 @@
     "videoUrl": null
   },
   {
-    "id": 32,
+    "id": 31,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1127,7 +1091,7 @@
     "videoUrl": null
   },
   {
-    "id": 33,
+    "id": 32,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-23",
@@ -1163,7 +1127,7 @@
     "videoUrl": null
   },
   {
-    "id": 34,
+    "id": 33,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1194,7 +1158,7 @@
     "videoUrl": null
   },
   {
-    "id": 35,
+    "id": 34,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1230,7 +1194,7 @@
     "videoUrl": null
   },
   {
-    "id": 36,
+    "id": 35,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1266,7 +1230,7 @@
     "videoUrl": null
   },
   {
-    "id": 37,
+    "id": 36,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1302,7 +1266,7 @@
     "videoUrl": null
   },
   {
-    "id": 38,
+    "id": 37,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1333,7 +1297,7 @@
     "videoUrl": null
   },
   {
-    "id": 39,
+    "id": 38,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1364,7 +1328,7 @@
     "videoUrl": null
   },
   {
-    "id": 40,
+    "id": 39,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1395,7 +1359,7 @@
     "videoUrl": null
   },
   {
-    "id": 41,
+    "id": 40,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -1431,7 +1395,7 @@
     "videoUrl": "https://t.me/SimurghRes/8036"
   },
   {
-    "id": 42,
+    "id": 41,
     "type": "airstrike",
     "status": "disputed",
     "date": "2026-07-24",
@@ -1467,7 +1431,7 @@
     "videoUrl": "https://t.me/SimurghRes/8034"
   },
   {
-    "id": 43,
+    "id": 42,
     "type": "cyber",
     "status": "disputed",
     "date": "2026-07-24",
@@ -1498,7 +1462,7 @@
     "videoUrl": null
   },
   {
-    "id": 44,
+    "id": 43,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-23",
@@ -1527,5 +1491,82 @@
     "description": "Iranian missiles and drones destroyed sites near the Ahmed Al-Jaber Air Base in Kuwait. Strikes took place on July 23, 2026. Video footage from @SimurghRes shows impact and destruction.",
     "satelliteImage": null,
     "videoUrl": "https://t.me/SimurghRes"
+  },
+  {
+    "id": 44,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "After NCC MASA strike",
+    "title": "Saudi Airstrikes on Hodeidah Port & Kamaran Island — Retaliation",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60319",
+        "type": "analyst"
+      },
+      {
+        "name": "Saudi Press Agency",
+        "url": "",
+        "type": "news"
+      },
+      {
+        "name": "Al Mayadeen",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Saudi Arabia launched widespread airstrikes across Hodeidah Governorate in retaliation for the NCC MASA tanker strike. Fuel storage tanks at Hodeidah Port and eastern Hodeidah targeted. Kamaran Island also struck. A communications facility worker and a woman on Kamaran Island were injured. At least four airstrikes on the port. Yemeni air defenses forced several Saudi fighter jets to withdraw from Yemeni airspace.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 45,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "22:39 UTC",
+    "title": "Yemeni Ballistic Missile Launches Toward Saudi Arabia",
+    "location": "Sanaa, Yemen / Saudi Arabia",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Middle East Observer",
+        "url": "https://t.me/me_observer_TG/1054131",
+        "type": "analyst"
+      },
+      {
+        "name": "Rasd Akhbar Shehaba",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Reports of missile launches from Yemen towards Saudi Arabia. Rasd Akhbar Shehaba: \"The Yemeni response enters into force.\" Part of broader Ansar Allah retaliation campaign.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]
