@@ -70,7 +70,10 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     const fpvHits = 15
     const fpvKilled = 5
     const fpvCost = 300
-    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent, fpvLaunched, fpvHits, fpvKilled, fpvCost }
+    // Cross-referenced from SimurghRes + Enemy Watch Jul 24
+    const confirmedInterceptors = sitreps.filter(function(s) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(s.description); }).length
+    const confirmedAttackInterceptors = attacks.filter(function(a) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(a.description); }).length
+    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent, fpvLaunched, fpvHits, fpvKilled, fpvCost, confirmedInterceptors, confirmedAttackInterceptors }
   }, [attacks, sitreps])
 
   const filteredStatements = useMemo(() => {
@@ -245,7 +248,7 @@ function StatsContent({ stats }: { stats: any }) {
         </div>
         <div style={{ display: 'flex', gap: 8, alignItems: 'baseline' }}>
           <span style={{ fontSize: 18, fontWeight: 700, color: 'var(--accent-amber)', fontFamily: 'var(--font-mono)' }}>
-            {stats.interceptorFailures}
+            {stats.confirmedAttackInterceptors || stats.interceptorFailures}
           </span>
           <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>
             attacks

@@ -502,5 +502,33 @@
     "url": "https://t.me/me_observer_TG",
     "sourceChannel": "Middle East Observer",
     "confidence": "confirmed"
+  },
+  {
+    "id": 37,
+    "source": "Khatam al Anbiya",
+    "sourceLabel": "Yemeni Foreign Ministry",
+    "type": "official",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Yemen: Escalation for Escalation Equation Now Defines the Conflict",
+    "summary": "Yemeni Foreign Ministry declared escalation for escalation after Saudi airstrike on Hodeidah. Yemen launched retaliatory missile and drone attacks on Saudi cities.",
+    "quote": "The Saudi regime bears responsibility for any consequences resulting from its criminal action. Instead of complying with the legitimate and just demand to lift the siege on Yemen, the Saudi regime has committed a major folly that will cost it dearly. By targeting Al-Hudaydah governorate, the Saudi regime has made the equation of escalation for escalation the defining feature of the next phase.",
+    "url": "https://t.me/SimurghRes/8050",
+    "sourceChannel": "SimurghRes",
+    "confidence": "confirmed"
+  },
+  {
+    "id": 38,
+    "source": "CENTCOM",
+    "sourceLabel": "N12 News Israel",
+    "type": "official",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Austrian Airlines & ITA Cancel Flights to Israel Amid Iranian Threat",
+    "summary": "European airlines cancel flights to Israel amid fears of further Iranian escalation.",
+    "quote": "Austrian Airlines and ITA Airways canceled their morning flights to Israel amid fears of an escalation with Iran. Multiple Israeli cities opened public shelters.",
+    "url": "https://t.me/SimurghRes/8049",
+    "sourceChannel": "SimurghRes",
+    "confidence": "confirmed"
   }
 ]

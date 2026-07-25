@@ -3173,5 +3173,139 @@
     "description": "Iran responded to Operation Epic Fury with missile barrages on Israeli cities. Multiple impacts reported. Iron Dome interceptors activated across central and northern Israel.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 96,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Yemen Ballistic Missiles Strike King Khalid Airbase, Khamis Mushait",
+    "location": "Khamis Mushait, Saudi Arabia",
+    "coordinates": [
+      18.3,
+      42.7333
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Yemeni forces launched ballistic missiles targeting King Khalid Airbase in Khamis Mushait, Saudi Arabia. Part of ongoing retaliatory operations following Saudi airstrikes on Hodeidah port.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 97,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Yemen Missile & Drone Attack Hits Yanbu, Dhahran, Jizan - Saudi Air Defense Failures Reported",
+    "location": "Yanbu / Dhahran / Jizan, Saudi Arabia",
+    "coordinates": [
+      24.0833,
+      38.0667
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Yemen launched combined missile and drone attack on Saudi Arabia after Saudi strikes on Hodeidah. More than 5 explosions in Jizan, industrial area targeted. Powerful explosions in Yanbu port city and Dhahran. Explosions reported in Samad/Zamd. Saudi authorities called for restrictions on publishing footage showing casualties and explosion scenes - indicating significant air defense failures. 5+ ballistic missiles targeted ARAMCO facilities in Jizan area. Geolocation analysis suggests impacts near Jizan ARAMCO refinery.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 98,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Austrian Airlines & ITA Airways Cancel Flights to Israel Amid Escalation Fears",
+    "location": "Tel Aviv, Israel",
+    "coordinates": [
+      32.0094,
+      34.8861
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8049",
+        "type": "analyst"
+      },
+      {
+        "name": "N12 News",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Austrian Airlines and ITA Airways canceled their morning flights to Israel amid fears of an escalation with Iran. Israel N12 news reporting. Multiple Israeli cities opened public shelters simultaneously.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 99,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Saudi Airstrike on Hodeidah Port - 1 Injured, Yemen Vows Violent Response",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8037",
+        "type": "analyst"
+      },
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 1
+    },
+    "description": "Saudi Arabia launched airstrike on Hodeidah port, Yemen. 1 person injured. Yemen Ansarallah vowed a violent response and launched retaliatory missile and drone attacks on Saudi cities including Jizan, Yanbu, and Dhahran. Yemeni Foreign Ministry: the equation of escalation for escalation is now the defining feature.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]
