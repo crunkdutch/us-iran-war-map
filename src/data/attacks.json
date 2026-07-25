@@ -666,6 +666,68 @@
     "videoUrl": null
   },
   {
+    "id": 100,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-27",
+    "time": "TBD",
+    "title": "Iran Threatens to Strike Damascus Hotels Hosting US Personnel",
+    "location": "Damascus, Syria",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iran threatened to strike three sites in Damascus that allegedly hosted or supported US units: the Four Seasons Hotel, the Sheraton Damascus Hotel, and the People Palace. Syria was pressured by US to militarily intervene in Lebanon but refused.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 102,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-28",
+    "time": "TBD",
+    "title": "Iranian Missile Debris Kills 4 in Suwayda, Injures 4 in Ein Tarma",
+    "location": "Suwayda / Ein Tarma, Syria",
+    "coordinates": [
+      33.45,
+      36.35
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 8
+    },
+    "description": "4 killed by Iranian missile debris in Suwayda, Syria. 4 injured by missile debris in Ein Tarma, Syria. Syrian civilian casualties from missiles intercepted over Syrian territory during the Iran war.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 22,
     "type": "missile",
     "status": "confirmed",
@@ -729,6 +791,68 @@
       "other": 0
     },
     "description": "IRGC designated 18 US technology companies as legitimate military targets, including Amazon, Microsoft, Google, Apple, and Meta. Fortune described this as the first time data centers have been deliberately targeted for air strikes in a conflict. Led to multiple strikes on AWS infrastructure in Bahrain.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 101,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-31",
+    "time": "TBD",
+    "title": "Explosions in Damascus as Israeli Air Defenses Intercept Iranian Missiles",
+    "location": "Damascus, Syria",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/explosions-heard-syrias-damascus-result-israel-intercepting-iranian-missiles-2026-03-31/",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Explosions heard in the Syrian capital Damascus as Israeli air defenses intercepted Iranian missiles over Syrian territory. Syrian state television reported the interceptions. Iranian missiles directed toward Turkey had been shot down by NATO forces over Syria.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 103,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-04-01",
+    "time": "TBD",
+    "title": "Hezbollah Strikes Syrian Army Positions After Syria Refuses US Intervention Request",
+    "location": "Serghaya / Damascus, Syria",
+    "coordinates": [
+      33.8,
+      36
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Following Syrian presidency support for disarmament of Hezbollah and Syrian army mobilization on Lebanese border, shells from Lebanon landed in Serghaya, 20km from Damascus. Hezbollah struck Syrian army positions. Syria had refused US pressure to militarily intervene in Lebanon alongside IDF.",
     "satelliteImage": null,
     "videoUrl": null
   },
@@ -960,6 +1084,130 @@
     "videoUrl": null
   },
   {
+    "id": 111,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-05-07",
+    "time": "TBD",
+    "title": "Hezbollah Massive Rocket Barrage - 1,175 Launches in Escalation",
+    "location": "Multiple sites across Israel",
+    "coordinates": [
+      33,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/53984",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah launched massive rocket barrage toward Misgav Am settlements with launches exceeding previous levels. Zionist command data: 850 launches (0-5km), 314 launches (5-40km), 9 launches (40-140km), 2 launches (120-180km). Total: 1,175 missile operations. Launches occurring simultaneously and in rapid succession.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 110,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-05-08",
+    "time": "TBD",
+    "title": "IRGC Destroys 2 AGM-158 Cruise Missiles Near Tehran Using Advanced Defense Systems",
+    "location": "Tehran vicinity, Iran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/51997",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC announced destruction of two AGM-158 cruise missiles in the vicinity of Tehran using new advanced defense systems under the control of the integrated air defense network.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 109,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-05-09",
+    "time": "TBD",
+    "title": "Hezbollah Strikes Givat Base East of Safad with Qualitative Missiles",
+    "location": "Givat Base / Safad, Northern Israel",
+    "coordinates": [
+      32.9786,
+      35.4958
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/51985",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah targeted the Givat base east of Safad, Israel with a barrage of qualitative missiles. Attack included drone control base targeting. Video footage released showing impact on occupied city of Safad.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 108,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-05-10",
+    "time": "Early morning",
+    "title": "Iranian Army Drones Strike Rafael Industries in Haifa, IAI Near Ben Gurion Airport",
+    "location": "Haifa / Ben Gurion Airport, Israel",
+    "coordinates": [
+      32.0094,
+      34.8861
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/51987",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Army of the Islamic Republic of Iran targeted Rafael weapons industries in Haifa, Israel Aerospace Industries (IAI) near Ben Gurion Airport, and refueling aircraft at the airport with drone attacks. Rafael is responsible for Iron Dome and David Sling production. Multiple attack drones launched since early morning.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 31,
     "type": "drone",
     "status": "confirmed",
@@ -992,6 +1240,68 @@
       "other": 0
     },
     "description": "Hezbollah systematically deployed fiber-optic FPV drones against IDF positions. The optical fiber connects operator to drone with a cable the thickness of dental floss, completely nullifying electronic warfare and spectral jamming. Drone does not emit electromagnetic signal. Detection by electro-optical or acoustic sensors only. Hezbollah has dozens of operators in southern Lebanon.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 107,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-05-15",
+    "time": "TBD",
+    "title": "Massive Iranian Strike on Saudi Energy Infrastructure - Pipeline, Refineries, Processing Plants Hit",
+    "location": "Multiple sites, Saudi Arabia",
+    "coordinates": [
+      25,
+      47
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/53982",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Saudi Arabia reported massive attacks on energy infrastructure. East-West Pipeline pumping station lost ~700,000 bpd throughput. Manifa Production Facility reduced by 300,000 bpd. Khurais Facility reduced by 300,000 bpd. SATORP Refinery (Jubail), Ras Tanura Refinery, SAMREF Refinery (Yanbu), Riyadh Refinery, and Juaymah Processing Facilities all hit. Fires impacting LPG and NGL exports.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 113,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-05-25",
+    "time": "TBD",
+    "title": "Iran Reopens Underground Missile Facilities Within Weeks of US Strikes",
+    "location": "Multiple underground sites, Iran",
+    "coordinates": [
+      32,
+      54
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator/34000",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Despite intensive US bombing, Iran reopened underground missile facilities within weeks, restoring access roads, tunnel entrances, and production capacity. Demonstrates resilience of Iranian military infrastructure against sustained aerial campaign.",
     "satelliteImage": null,
     "videoUrl": null
   },
@@ -1054,6 +1364,37 @@
       "other": 0
     },
     "description": "Hezbollah FPV drone tactics evolved to include shepherd and flock model - a central observation drone identifies targets, then directs multiple FPV attack drones. Before launching explosive drone, Hezbollah operatives deploy observation drone to locate and identify target. Launches from inside civilian homes. 5,000 drones seized by Lebanese forces, but thousands more reached Hezbollah.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 112,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-06-05",
+    "time": "TBD",
+    "title": "Israeli Helicopter Force Infiltrates Nabi Sheet - Hezbollah Engages with 40 Strikes",
+    "location": "Nabi Sheet / Jafouf / Maaraboun, Lebanon",
+    "coordinates": [
+      33.8833,
+      36.1333
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator/30000",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "4 Israeli helicopters crossed from Syria and dropped infantry at Jafouf triangle near Nabi Sheet, Lebanon. Infantry advanced toward Nabi Sheet cemetery. Hezbollah engaged with light/medium weapons. Clash escalated with ~40 Israeli airstrikes. Hezbollah artillery provided concentrated fire. Residents of nearby villages participated in fire support. Israeli force withdrew under heavy fire.",
     "satelliteImage": null,
     "videoUrl": null
   },
@@ -1794,6 +2135,42 @@
     "videoUrl": null
   },
   {
+    "id": 104,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-17",
+    "time": "TBD",
+    "title": "Israeli Strikes Hit Syrian Military Infrastructure in Southern Syria",
+    "location": "Southern Syria",
+    "coordinates": [
+      33,
+      36
+    ],
+    "sources": [
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cp90l77187zo",
+        "type": "news"
+      },
+      {
+        "name": "Arab News",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Israel conducted strikes on Syrian military infrastructure in southern Syria. Defence Minister Israel Katz: The warnings in Damascus had ended and Israeli military would continue to operate in Suweida. A TV presenter was seen diving under a desk live on camera as an Israeli air strike hit near the Syrian defense ministry entrance in Umayyad Square, Damascus.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 55,
     "type": "drone",
     "status": "confirmed",
@@ -1827,6 +2204,68 @@
     },
     "description": "Satellite images show that Al Dhafra Air Base in the UAE is now completely empty. Five US aircraft were visible at the base on July 21; recent imagery shows none remaining. Mirrors previous situation at Al Udeid Air Base in Qatar.",
     "satelliteImage": "https://t.me/enemywatch/60317",
+    "videoUrl": null
+  },
+  {
+    "id": 105,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-22",
+    "time": "TBD",
+    "title": "Satellite Imagery Confirms Iranian Strike on King Faisal Air Base, Jordan",
+    "location": "King Faisal Air Base, Jordan",
+    "coordinates": [
+      30,
+      36
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60182",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Satellite imagery shows an aircraft hangar at King Faisal Air Base in Jordan was struck during Iranian attacks. Images show extensive damage to the base with fire and large plumes of smoke rising following a precise Iranian strike.",
+    "satelliteImage": "https://t.me/enemywatch/60182",
+    "videoUrl": null
+  },
+  {
+    "id": 106,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-22",
+    "time": "Overnight",
+    "title": "12th Consecutive Night of US Strikes - Sirik, Bushehr, Ahvaz, Tabriz, Larak Island Hit",
+    "location": "Sirik, Bushehr, Ahvaz, Ramshir, Mahshahr, Tabriz, Andimeshk, Zanjan, Iran",
+    "coordinates": [
+      28,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60193",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "12th consecutive night of US aggression against Iran. Broad wave of strikes across multiple provinces: Sirik targeted at least 6 times, Bushehr at least 4 times, Ahvaz at least 6 times, Ramshir at least 4 times, Bandar-e Mahshahr at least 3 times, Tabriz at least 2 times, Andimeshk at least 2 times. Shalamcheh border crossing, Bandar-e Anzali, Larak Island, Ziarat-e Sirik naval outpost, and Zanjan each targeted at least once. Smoke and large fires observed at multiple locations.",
+    "satelliteImage": null,
     "videoUrl": null
   },
   {
@@ -3305,445 +3744,6 @@
       "other": 1
     },
     "description": "Saudi Arabia launched airstrike on Hodeidah port, Yemen. 1 person injured. Yemen Ansarallah vowed a violent response and launched retaliatory missile and drone attacks on Saudi cities including Jizan, Yanbu, and Dhahran. Yemeni Foreign Ministry: the equation of escalation for escalation is now the defining feature.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 100,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-03-27",
-    "time": "TBD",
-    "title": "Iran Threatens to Strike Damascus Hotels Hosting US Personnel",
-    "location": "Damascus, Syria",
-    "coordinates": [
-      33.5138,
-      36.2768
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Iran threatened to strike three sites in Damascus that allegedly hosted or supported US units: the Four Seasons Hotel, the Sheraton Damascus Hotel, and the People Palace. Syria was pressured by US to militarily intervene in Lebanon but refused.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 101,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-31",
-    "time": "TBD",
-    "title": "Explosions in Damascus as Israeli Air Defenses Intercept Iranian Missiles",
-    "location": "Damascus, Syria",
-    "coordinates": [
-      33.5138,
-      36.2768
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/explosions-heard-syrias-damascus-result-israel-intercepting-iranian-missiles-2026-03-31/",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Explosions heard in the Syrian capital Damascus as Israeli air defenses intercepted Iranian missiles over Syrian territory. Syrian state television reported the interceptions. Iranian missiles directed toward Turkey had been shot down by NATO forces over Syria.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 102,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-03-28",
-    "time": "TBD",
-    "title": "Iranian Missile Debris Kills 4 in Suwayda, Injures 4 in Ein Tarma",
-    "location": "Suwayda / Ein Tarma, Syria",
-    "coordinates": [
-      33.45,
-      36.35
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 8
-    },
-    "description": "4 killed by Iranian missile debris in Suwayda, Syria. 4 injured by missile debris in Ein Tarma, Syria. Syrian civilian casualties from missiles intercepted over Syrian territory during the Iran war.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 103,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-04-01",
-    "time": "TBD",
-    "title": "Hezbollah Strikes Syrian Army Positions After Syria Refuses US Intervention Request",
-    "location": "Serghaya / Damascus, Syria",
-    "coordinates": [
-      33.8,
-      36
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Following Syrian presidency support for disarmament of Hezbollah and Syrian army mobilization on Lebanese border, shells from Lebanon landed in Serghaya, 20km from Damascus. Hezbollah struck Syrian army positions. Syria had refused US pressure to militarily intervene in Lebanon alongside IDF.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 104,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-07-17",
-    "time": "TBD",
-    "title": "Israeli Strikes Hit Syrian Military Infrastructure in Southern Syria",
-    "location": "Southern Syria",
-    "coordinates": [
-      33,
-      36
-    ],
-    "sources": [
-      {
-        "name": "BBC",
-        "url": "https://www.bbc.com/news/articles/cp90l77187zo",
-        "type": "news"
-      },
-      {
-        "name": "Arab News",
-        "url": "",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Israel conducted strikes on Syrian military infrastructure in southern Syria. Defence Minister Israel Katz: The warnings in Damascus had ended and Israeli military would continue to operate in Suweida. A TV presenter was seen diving under a desk live on camera as an Israeli air strike hit near the Syrian defense ministry entrance in Umayyad Square, Damascus.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 105,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-07-22",
-    "time": "TBD",
-    "title": "Satellite Imagery Confirms Iranian Strike on King Faisal Air Base, Jordan",
-    "location": "King Faisal Air Base, Jordan",
-    "coordinates": [
-      30,
-      36
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/60182",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Satellite imagery shows an aircraft hangar at King Faisal Air Base in Jordan was struck during Iranian attacks. Images show extensive damage to the base with fire and large plumes of smoke rising following a precise Iranian strike.",
-    "satelliteImage": "https://t.me/enemywatch/60182",
-    "videoUrl": null
-  },
-  {
-    "id": 106,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-07-22",
-    "time": "Overnight",
-    "title": "12th Consecutive Night of US Strikes - Sirik, Bushehr, Ahvaz, Tabriz, Larak Island Hit",
-    "location": "Sirik, Bushehr, Ahvaz, Ramshir, Mahshahr, Tabriz, Andimeshk, Zanjan, Iran",
-    "coordinates": [
-      28,
-      53
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/60193",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "12th consecutive night of US aggression against Iran. Broad wave of strikes across multiple provinces: Sirik targeted at least 6 times, Bushehr at least 4 times, Ahvaz at least 6 times, Ramshir at least 4 times, Bandar-e Mahshahr at least 3 times, Tabriz at least 2 times, Andimeshk at least 2 times. Shalamcheh border crossing, Bandar-e Anzali, Larak Island, Ziarat-e Sirik naval outpost, and Zanjan each targeted at least once. Smoke and large fires observed at multiple locations.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 107,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-05-15",
-    "time": "TBD",
-    "title": "Massive Iranian Strike on Saudi Energy Infrastructure - Pipeline, Refineries, Processing Plants Hit",
-    "location": "Multiple sites, Saudi Arabia",
-    "coordinates": [
-      25,
-      47
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/53982",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Saudi Arabia reported massive attacks on energy infrastructure. East-West Pipeline pumping station lost ~700,000 bpd throughput. Manifa Production Facility reduced by 300,000 bpd. Khurais Facility reduced by 300,000 bpd. SATORP Refinery (Jubail), Ras Tanura Refinery, SAMREF Refinery (Yanbu), Riyadh Refinery, and Juaymah Processing Facilities all hit. Fires impacting LPG and NGL exports.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 108,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-05-10",
-    "time": "Early morning",
-    "title": "Iranian Army Drones Strike Rafael Industries in Haifa, IAI Near Ben Gurion Airport",
-    "location": "Haifa / Ben Gurion Airport, Israel",
-    "coordinates": [
-      32.0094,
-      34.8861
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/51987",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Army of the Islamic Republic of Iran targeted Rafael weapons industries in Haifa, Israel Aerospace Industries (IAI) near Ben Gurion Airport, and refueling aircraft at the airport with drone attacks. Rafael is responsible for Iron Dome and David Sling production. Multiple attack drones launched since early morning.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 109,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-05-09",
-    "time": "TBD",
-    "title": "Hezbollah Strikes Givat Base East of Safad with Qualitative Missiles",
-    "location": "Givat Base / Safad, Northern Israel",
-    "coordinates": [
-      32.9786,
-      35.4958
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/51985",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah targeted the Givat base east of Safad, Israel with a barrage of qualitative missiles. Attack included drone control base targeting. Video footage released showing impact on occupied city of Safad.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 110,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-05-08",
-    "time": "TBD",
-    "title": "IRGC Destroys 2 AGM-158 Cruise Missiles Near Tehran Using Advanced Defense Systems",
-    "location": "Tehran vicinity, Iran",
-    "coordinates": [
-      35.6892,
-      51.389
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/51997",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "IRGC announced destruction of two AGM-158 cruise missiles in the vicinity of Tehran using new advanced defense systems under the control of the integrated air defense network.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 111,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-05-07",
-    "time": "TBD",
-    "title": "Hezbollah Massive Rocket Barrage - 1,175 Launches in Escalation",
-    "location": "Multiple sites across Israel",
-    "coordinates": [
-      33,
-      35.5
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/53984",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah launched massive rocket barrage toward Misgav Am settlements with launches exceeding previous levels. Zionist command data: 850 launches (0-5km), 314 launches (5-40km), 9 launches (40-140km), 2 launches (120-180km). Total: 1,175 missile operations. Launches occurring simultaneously and in rapid succession.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 112,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-06-05",
-    "time": "TBD",
-    "title": "Israeli Helicopter Force Infiltrates Nabi Sheet - Hezbollah Engages with 40 Strikes",
-    "location": "Nabi Sheet / Jafouf / Maaraboun, Lebanon",
-    "coordinates": [
-      33.8833,
-      36.1333
-    ],
-    "sources": [
-      {
-        "name": "Middle East Spectator",
-        "url": "https://t.me/Middle_East_Spectator/30000",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "4 Israeli helicopters crossed from Syria and dropped infantry at Jafouf triangle near Nabi Sheet, Lebanon. Infantry advanced toward Nabi Sheet cemetery. Hezbollah engaged with light/medium weapons. Clash escalated with ~40 Israeli airstrikes. Hezbollah artillery provided concentrated fire. Residents of nearby villages participated in fire support. Israeli force withdrew under heavy fire.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 113,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-05-25",
-    "time": "TBD",
-    "title": "Iran Reopens Underground Missile Facilities Within Weeks of US Strikes",
-    "location": "Multiple underground sites, Iran",
-    "coordinates": [
-      32,
-      54
-    ],
-    "sources": [
-      {
-        "name": "Middle East Spectator",
-        "url": "https://t.me/Middle_East_Spectator/34000",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Despite intensive US bombing, Iran reopened underground missile facilities within weeks, restoring access roads, tunnel entrances, and production capacity. Demonstrates resilience of Iranian military infrastructure against sustained aerial campaign.",
     "satelliteImage": null,
     "videoUrl": null
   }
