@@ -374,7 +374,7 @@ function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }
                   ? <a href={stmtUrl} target="_blank" rel="noopener noreferrer" onClick={e => e.stopPropagation()} style={{ fontSize: 9, color: 'var(--accent-cyan)', textDecoration: 'underline' }}>[ SOURCE → ]</a>
                   : null
               })()}
-              <span style={{ fontSize: 8, color: s.confidence === 'confirmed' ? 'var(--accent-green)' : 'var(--accent-amber)', letterSpacing: 1 }}>{s.confidence.toUpperCase()}</span>
+              <span style={{ fontSize: 8, color: s.confidence === 'confirmed' ? 'var(--accent-green)' : 'var(--accent-amber)', letterSpacing: 1 }}>{(s.confidence || 'unconfirmed').toUpperCase()}</span>
             </div>
           </div>)}
         </div>)
