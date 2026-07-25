@@ -292,5 +292,33 @@
     "url": "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
     "sourceChannel": "Wikipedia",
     "confidence": "confirmed"
+  },
+  {
+    "id": 22,
+    "source": "Khatam al Anbiya",
+    "sourceLabel": "IRGC Official Statement",
+    "type": "official",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "IRGC Statement: THAAD Radar, Patriot, C-RAM Destroyed at US Base",
+    "summary": "IRGC claimed destruction of THAAD radar, Patriot system, C-RAM radar, helicopter hangar, and fuel storage at US base.",
+    "quote": "We carried out lightning attacks against American bases, resulting in destruction of a THAAD radar, Patriot air defense system, and C-RAM radar. Fuel storage tanks were set ablaze. A large helicopter equipment warehouse and maintenance hangar were also destroyed.",
+    "url": "https://t.me/mmirlb",
+    "sourceChannel": "Military Media (IRGC)",
+    "confidence": "confirmed"
+  },
+  {
+    "id": 23,
+    "source": "Khatam al Anbiya",
+    "sourceLabel": "Iranian Army (Artesh) - Operation Saeqah",
+    "type": "official",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Iranian Army 25th Phase of Operation Saeqah: Arash Drones Hit Kuwait & Qatar Bases",
+    "summary": "Iranian Army targeted Al-Udeid, Camp Doha, and Camp Arifjan using Arash suicide drones in 25th phase of operations.",
+    "quote": "In the twenty-fifth phase of Operation Saeqah, the Army of the Islamic Republic of Iran targeted equipment storage facilities at Al-Udeid Base, the deployment site of US military personnel at Camp Doha, and the deployment site of enemy forces at Camp Arifjan in Kuwait, using Arash suicide drones.",
+    "url": "https://t.me/mmirlb",
+    "sourceChannel": "Military Media (Iran Army)",
+    "confidence": "confirmed"
   }
 ]

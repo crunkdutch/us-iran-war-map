@@ -2554,5 +2554,98 @@
     "description": "Three Israeli bombings at different times targeted the al-Masha neighborhood in al-Mansouri, southern Lebanon. Violent bombing also targeted the town of Hadatha. Part of ongoing Israeli operations against Hezbollah positions along the border.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 77,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Recent",
+    "title": "Operation Nasr 2: IRGC 27th Wave Hits Al-Udeid Ammo Depots & Fifth Fleet Watchtower",
+    "location": "Al-Udeid Air Base, Qatar / Fifth Fleet HQ, Bahrain",
+    "coordinates": [
+      25.1175,
+      51.318
+    ],
+    "sources": [
+      {
+        "name": "Military Media (IRGC)",
+        "url": "https://t.me/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC 27th wave of Operation Nasr 2 under code phrase 'O Aba Saleh Al-Mahdi, come to my aid'. Targeted three ammunition and equipment storage depots at Al-Udeid base in Qatar, setting them ablaze and destroying them. Simultaneously targeted the watchtower of the US Fifth Fleet in Bahrain, inflicting significant damage.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 78,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Hours ago",
+    "title": "Operation Saeqah Phase 25: Iran Army Strikes Al-Udeid, Camp Doha, Camp Arifjan",
+    "location": "Al-Udeid / Camp Doha / Camp Arifjan",
+    "coordinates": [
+      29.1,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Military Media (Iran Army)",
+        "url": "https://t.me/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iranian Army (Artesh) 25th phase of Operation Saeqah. Targeted equipment storage facilities at Al-Udeid Base (Qatar), US troop deployment site at Camp Doha (Kuwait), and US forces deployment at Camp Arifjan (Kuwait) using Arash suicide drones. Series of intensive drone and missile operations continuing.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 79,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Recent",
+    "title": "IRGC Claims THAAD Radar, Patriot & C-RAM Destroyed at US Base",
+    "location": "US Base, Jordan/Gulf region",
+    "coordinates": [
+      31,
+      37
+    ],
+    "sources": [
+      {
+        "name": "Military Media (IRGC)",
+        "url": "https://t.me/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC claimed destruction of a THAAD missile defense system radar. Patriot air defense system and C-RAM radar also targeted and destroyed. Fuel storage tanks at the US base set ablaze. Large helicopter equipment warehouse and maintenance hangar also set on fire and destroyed.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]
