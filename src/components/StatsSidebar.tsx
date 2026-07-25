@@ -77,13 +77,13 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
   }, [attacks, sitreps])
 
   const filteredStatements = useMemo(() => {
-    if (stmtFilter === 'all') return allStatements
-    return allStatements.filter(s => s.source === stmtFilter)
+    const list = stmtFilter === 'all' ? allStatements : allStatements.filter(s => s.source === stmtFilter)
+    return [...list].sort((a, b) => (b.date || '').localeCompare(a.date || ''))
   }, [stmtFilter])
 
   const filteredSitreps = useMemo(() => {
-    if (sitrepFilter === 'all') return sitreps
-    return sitreps.filter(s => s.type === sitrepFilter)
+    const list = sitrepFilter === 'all' ? sitreps : sitreps.filter(s => s.type === sitrepFilter)
+    return [...list].sort((a, b) => (b.date || '').localeCompare(a.date || ''))
   }, [sitreps, sitrepFilter])
 
   const sitrepTypeCounts = useMemo(() => {
