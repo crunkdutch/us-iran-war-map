@@ -513,5 +513,25 @@
     "description": "Trump admin warned Iraqi Kurdistan: join war against Iran or lose autonomous status. Kurdish separatist groups seeking US weapons and explosives.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1784941072628,
+    "type": "strike",
+    "location": "Ahmed Al-Jaber Air Base",
+    "coordinates": [
+      28.9333,
+      47.7667
+    ],
+    "date": "2026-07-23",
+    "source": "SimurghRes (@SimurghRes)",
+    "sourceUrl": "https://t.me/SimurghRes",
+    "description": "Iranian missiles and drones destroyed sites near Ahmed Al-Jaber base in Kuwait. Video footage shows impact and destruction.",
+    "media": [
+      {
+        "url": "https://t.me/SimurghRes",
+        "type": "video"
+      }
+    ],
+    "verified": false
   }
 ]

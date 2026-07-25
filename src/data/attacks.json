@@ -1496,5 +1496,36 @@
     "description": "Heavy Iraqi military deployments in Baghdad and Baqubah. Forces attempted to storm Nujaba Movement headquarters in Jurf al-Nadaf. PMF leadership ordered withdrawal after warning shots. Trump administration pressuring Iraqi Kurdistan to join war against Iran or lose autonomous status.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 44,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-23",
+    "time": "TBD",
+    "title": "Iranian Missiles & Drones Destroy Sites Near Ahmed Al-Jaber Base",
+    "location": "Ahmed Al-Jaber Air Base, Kuwait",
+    "coordinates": [
+      28.9333,
+      47.7667
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iranian missiles and drones destroyed sites near the Ahmed Al-Jaber Air Base in Kuwait. Strikes took place on July 23, 2026. Video footage from @SimurghRes shows impact and destruction.",
+    "satelliteImage": null,
+    "videoUrl": "https://t.me/SimurghRes"
   }
 ]
