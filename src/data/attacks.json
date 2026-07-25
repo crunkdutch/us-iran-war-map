@@ -852,5 +852,278 @@
     "description": "US attacked a site in Naeen, Isfahan province at approximately 3 AM local time.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 25,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Satellite-Confirmed Strike on US Patriot System — Erbil",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60316",
+        "type": "analyst"
+      },
+      {
+        "name": "Satellite Imagery",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Satellite imagery confirmed and verified a precise strike on a US Patriot air defense system in Erbil, Iraq. Fires broke out at the targeted site. Imagery shows direct hit on the Patriot battery position.",
+    "satelliteImage": "https://t.me/enemywatch/60316",
+    "videoUrl": null
+  },
+  {
+    "id": 26,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "US Strikes on Sirik, Khuzestan & Shahroud",
+    "location": "Sirik, Khuzestan & Shahroud, Iran",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60324",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "American aggression targeted the Sirik area in southern Iran. Explosions also reported in Khuzestan Province and Behbahan in southwestern Iran under US airstrikes. Additional explosions heard in Shahroud, Semnan Province.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 27,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "US Disables Iranian LNG Tanker in Sea of Oman",
+    "location": "Sea of Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60324",
+        "type": "analyst"
+      },
+      {
+        "name": "Iran State TV",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 2,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US disabled an Iranian LNG tanker in the Sea of Oman that was attempting to break the blockade on Iranian ports. Two US missiles struck the vessel, martyring 2 crew members and damaging the ship's engine, leaving it disabled.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 28,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-21",
+    "time": "TBD",
+    "title": "Al Dhafra Air Base Completely Empty — US Aircraft Withdrawn",
+    "location": "Al Dhafra Air Base, UAE",
+    "coordinates": [
+      24.2486,
+      54.6333
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60317",
+        "type": "analyst"
+      },
+      {
+        "name": "Satellite Imagery",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Satellite images show that Al Dhafra Air Base in the UAE is now completely empty. Five US aircraft were visible at the base on July 21; recent imagery shows none remaining. Mirrors previous situation at Al Udeid Air Base in Qatar.",
+    "satelliteImage": "https://t.me/enemywatch/60317",
+    "videoUrl": null
+  },
+  {
+    "id": 29,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Late night",
+    "title": "Iranian Retaliation Wave — Bahrain, Kuwait, Erbil",
+    "location": "Bahrain, Kuwait, Erbil",
+    "coordinates": [
+      29,
+      48
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60325",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iranian retaliation expanded across Bahrain, Kuwait and Erbil. Explosions in northern Kuwait. Renewed strikes on Kurdish separatist bases in Erbil. Bahrain hit by ballistic missile and drone attacks. Fateh-110 missile directly struck US Fifth Fleet HQ in Juffair. Video footage captured Iranian missile striking target. Smoke columns rising from US base area. Patriot interceptor malfunctioned and fell inside Bahraini territory.",
+    "satelliteImage": "https://t.me/enemywatch/60325",
+    "videoUrl": "https://t.me/enemywatch/60325"
+  },
+  {
+    "id": 30,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Ansar Allah Strikes Saudi Vessel NCC MASA in Red Sea",
+    "location": "Red Sea / Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60319",
+        "type": "analyst"
+      },
+      {
+        "name": "Saudi Press Agency",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Yemeni forces targeted Saudi vessel NCC MASA in the Red Sea. Direct hits sustained, minor structural damage to hull. Saudi Arabia launched retaliatory airstrikes across Hodeidah Governorate targeting port fuel storage tanks, communications facilities, and Kamaran Island. At least one civilian injured.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 31,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "Iranian Air Force Fighter Patrols — Iraq Border",
+    "location": "Iran-Iraq Border",
+    "coordinates": [
+      34,
+      46
+    ],
+    "sources": [
+      {
+        "name": "Middle East Observer",
+        "url": "https://t.me/me_observer_TG",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iranian Air Force fighter jets conducting patrols near the northern border between Iran and Iraq. US refueling aircraft reported taking off from Ben Gurion heading toward the Persian Gulf.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 32,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Khatam al Anbiya: One Iranian Killed = One US Servicemember Killed",
+    "location": "Tehran, Iran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60313",
+        "type": "analyst"
+      },
+      {
+        "name": "Khatam al Anbiya HQ",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Major General Abdollahi, Commander of Khatam al Anbiya Central Headquarters, declared new operational equation: \"For every proud citizen of the Islamic Republic of Iran who is martyred, one American servicemember will be sent to hell. We have prepared free, one-way tickets straight to hell for you.\" Marks official shift to proportional retaliation doctrine.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]

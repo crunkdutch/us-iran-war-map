@@ -278,5 +278,110 @@
     "description": "Warplanes flying in Kuwaiti airspace. Air activity reported across the region.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1784939557516,
+    "type": "strike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-24",
+    "source": "Enemy Watch (@enemywatch)",
+    "sourceUrl": "https://t.me/enemywatch/60316",
+    "description": "Satellite imagery confirmed and verified a precise strike on a US Patriot air defense system in Erbil, Iraq. Fires broke out at the targeted site following the strike.",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/60316",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1784939557517,
+    "type": "strike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-07-24",
+    "source": "Enemy Watch (@enemywatch)",
+    "sourceUrl": "https://t.me/enemywatch/60324",
+    "description": "American aggression targeted the Sirik area in southern Iran. Explosions also reported in Khuzestan Province, Behbahan, and Shahroud in Semnan Province.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784939557518,
+    "type": "naval",
+    "location": "Sea of Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "date": "2026-07-24",
+    "source": "Enemy Watch (@enemywatch)",
+    "sourceUrl": "https://t.me/enemywatch/60324",
+    "description": "US disabled an Iranian LNG tanker in the Sea of Oman that was attempting to break the blockade. Two US missiles struck the vessel, martyring 2 crew members. Ship left disabled.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784939557519,
+    "type": "launch",
+    "location": "Juffair",
+    "coordinates": [
+      26.2167,
+      50.6
+    ],
+    "date": "2026-07-24",
+    "source": "Enemy Watch (@enemywatch)",
+    "sourceUrl": "https://t.me/enemywatch/60325",
+    "description": "Iranian Fateh-110 short-range ballistic missile directly hit the US Fifth Fleet headquarters in Bahrain. Video captured the missile striking its target. Smoke columns rising from the American base in Juffair. Patriot interceptor malfunctioned and fell inside Bahraini territory.",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/60325",
+        "type": "video"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1784939557520,
+    "type": "strike",
+    "location": "Al Dhafra Air Base",
+    "coordinates": [
+      24.2486,
+      54.6333
+    ],
+    "date": "2026-07-21",
+    "source": "Enemy Watch (@enemywatch)",
+    "sourceUrl": "https://t.me/enemywatch/60317",
+    "description": "Satellite images show Al Dhafra Air Base in UAE now completely empty. Five US aircraft visible on July 21; all withdrawn. Matches pattern at Al Udeid Air Base in Qatar.",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/60317",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1784939557521,
+    "type": "naval",
+    "location": "Red Sea",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-07-24",
+    "source": "Enemy Watch (@enemywatch)",
+    "sourceUrl": "https://t.me/enemywatch/60319",
+    "description": "Yemeni Ansar Allah forces targeted Saudi vessel NCC MASA in the Red Sea. Direct hits to hull. Saudi Arabia retaliated with airstrikes on Hodeidah port, fuel storage tanks, and communications facilities. Kamaran Island also struck.",
+    "media": [],
+    "verified": false
   }
 ]
