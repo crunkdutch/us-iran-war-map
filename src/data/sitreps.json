@@ -78083,5 +78083,65 @@
     "description": "⚡️ Zionist Code:Israeli army forces continue to destroy buildings in eastern Gaza City.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785022235019,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Some news sources report hearing explosions in Erbil and Sulaymaniyah, Iraq",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785022224787,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Some news sources report hearing explosions in Erbil and Sulaymaniyah, Iraq",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785022153607,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemeni Medical Official: Two Pharmaceutical Factories Targeted by Saudi Aggression• 23:22 — Yemeni Health: Saudi aircraft targeted two pharmaceutical factories (Rasd Akhbar Shehaba)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785022194768,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Israeli forces launched a wide-ranging campaign of raids and arrests, mostly targeting released prisoners, during their incursions into the suburbs of Iktaba and Arta, and the towns of Balaa and Qaffin in Tulkarm.",
+    "media": [],
+    "verified": false
   }
 ]
