@@ -30,7 +30,7 @@ interface Props {
 }
 
 export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
-  const [tab, setTab] = useState<'stats' | 'stmts' | 'sitreps' | 'losses'>('stats')
+  const [tab, setTab] = useState<'stats' | 'stmts' | 'sitreps' | 'losses' | 'hezbollah'>('stats')
   const [stmtFilter, setStmtFilter] = useState<'all' | 'CENTCOM' | 'Khatam al Anbiya'>('all')
   const [expandedId, setExpandedId] = useState<number | null>(null)
   const [expandedSitrep, setExpandedSitrep] = useState<number | null>(null)
@@ -85,6 +85,12 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     return [...list].sort((a, b) => (b.date || '').localeCompare(a.date || ''))
   }, [sitreps, sitrepFilter])
 
+  const hezbollahStatements = useMemo(() => {
+    return [...allStatements]
+      .filter(s => s.source && s.source.toLowerCase() === 'hezbollah')
+      .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
+  }, [])
+
   const sitrepTypeCounts = useMemo(() => {
     const counts: Record<string, number> = {}
     for (const s of sitreps) counts[s.type] = (counts[s.type] || 0) + 1
@@ -133,18 +139,18 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     }}>
       {/* ── Tabs ── */}
       <div style={{ display: 'flex', borderBottom: '1px solid var(--border-color)' }}>
-        {(['stats', 'stmts', 'sitreps', 'losses'] as const).map(t => (
+        {(['stats', 'stmts', 'sitreps', 'losses', 'hezbollah'] as const).map(t => (
           <button key={t} onClick={() => setTab(t)} style={{
             flex: 1, padding: '7px 4px',
             background: tab === t ? 'rgba(255,255,255,0.05)' : 'transparent',
             border: 'none',
             borderBottom: tab === t
-              ? `2px solid ${t === 'stats' ? 'var(--accent-green)' : t === 'stmts' ? 'var(--accent-cyan)' : t === 'sitreps' ? 'var(--accent-amber)' : 'var(--accent-red)'}`
+              ? `2px solid ${t === 'stats' ? 'var(--accent-green)' : t === 'stmts' ? 'var(--accent-cyan)' : t === 'sitreps' ? 'var(--accent-amber)' : t === 'losses' ? 'var(--accent-red)' : '#e91e63'}`
               : '2px solid transparent',
             color: tab === t ? 'var(--text-bright)' : 'var(--text-dim)',
             fontFamily: 'var(--font-mono)', fontSize: 9, cursor: 'pointer', letterSpacing: 1,
           }}>
-            {t === 'stats' ? 'STATS' : t === 'stmts' ? 'STMTS' : t === 'sitreps' ? 'SITREPS' : 'LOSSES'}
+            {t === 'stats' ? 'STATS' : t === 'stmts' ? 'STMTS' : t === 'sitreps' ? 'SITREPS' : t === 'losses' ? 'LOSSES' : 'HEZBOLLAH'}
           </button>
         ))}
       </div>
@@ -177,6 +183,9 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
 
       {/* ── LOSSES ── */}
       {tab === 'losses' && <LossesContent />}
+
+      {/* ── HEZBOLLAH ── */}
+      {tab === 'hezbollah' && <HezbollahContent statements={hezbollahStatements} />}
 
       {/* ── Drag handle ── */}
       <div
@@ -572,6 +581,68 @@ function LossesContent() {
       fontSize: 8, color: 'var(--text-dim)', letterSpacing: 1, lineHeight: 1.3 }}>
       Source: {data.source} — damages inflicted on US Army in the region over 15 days (Jul 8–22).
       "Patriot systems weakened — Iranian missiles/drones hit targets without interception."
+    </div>
+  </>)
+}
+
+// ── Hezbollah Statements tab ──
+function HezbollahContent({ statements }: { statements: Statement[] }) {
+  const [expandedId, setExpandedId] = useState<number | null>(null)
+  const [limit, setLimit] = useState(PAGE_SIZE)
+  const visible = statements.slice(0, limit)
+  const hasMore = limit < statements.length
+
+  return (<>
+    <div style={{ padding: '10px 12px', borderBottom: '1px solid var(--border-color)',
+      fontSize: 10, color: '#e91e63', letterSpacing: 2,
+      display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+      <span>HEZBOLLAH STATEMENTS</span>
+      <span style={{ fontSize: 14, fontWeight: 700, color: 'var(--text-bright)' }}>{statements.length}</span>
+    </div>
+    <div style={{ padding: '6px 10px', borderBottom: '1px solid var(--border-color)',
+      fontSize: 8, color: 'var(--text-dim)', letterSpacing: 1 }}>
+      Mar–Apr 2026: {statements.filter(s => s.date >= '2026-03-01' && s.date <= '2026-04-30').length} statements
+      · All time: {statements.length}
+    </div>
+    <div style={{ padding: 0 }}>
+      {visible.map(s => {
+        const expanded = expandedId === s.id
+        return (<div key={s.id} style={{ padding: '8px 10px', borderBottom: '1px solid rgba(255,255,255,0.04)', cursor: 'pointer' }}
+          onClick={() => setExpandedId(expanded ? null : s.id)}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 2 }}>
+            <span style={{ width: 5, height: 5, borderRadius: '50%', background: '#e91e63', flexShrink: 0 }} />
+            <span style={{ fontSize: 8, color: '#e91e63', letterSpacing: 1, fontWeight: 600 }}>HEZBOLLAH</span>
+            <span style={{ fontSize: 8, color: 'var(--text-dim)', marginLeft: 'auto' }}>{s.date}</span>
+            {s.confidence && (
+              <span style={{ fontSize: 7, color: s.confidence === 'confirmed' ? 'var(--accent-green)' : 'var(--accent-amber)', letterSpacing: 1 }}>
+                {s.confidence.toUpperCase()}
+              </span>
+            )}
+          </div>
+          <div style={{ fontSize: 11, color: 'var(--text-bright)', fontWeight: 500, lineHeight: 1.3 }}>{s.title}</div>
+          {expanded && (<div>
+            <p style={{ fontSize: 10, color: 'var(--text-primary)', lineHeight: 1.5, margin: '4px 0' }}>{s.quote || s.description || ''}</p>
+            <div style={{ fontSize: 9, color: 'var(--text-dim)', marginBottom: 2 }}>{s.sourceLabel || (s as any).sourceType || ''}</div>
+            <div style={{ display: 'flex', gap: 6 }}>
+              {(() => {
+                const stmtUrl = s.url && s.url !== '#' ? s.url : s.sourceUrl || null
+                return stmtUrl
+                  ? <a href={stmtUrl} target="_blank" rel="noopener noreferrer" onClick={e => e.stopPropagation()} style={{ fontSize: 9, color: 'var(--accent-cyan)', textDecoration: 'underline' }}>[ SOURCE → ]</a>
+                  : null
+              })()}
+            </div>
+          </div>)}
+        </div>)
+      })}
+      {hasMore && (
+        <div style={{ padding: '8px 10px', textAlign: 'center' }}>
+          <button onClick={() => setLimit(l => l + PAGE_SIZE)} style={{
+            background: 'transparent', border: '1px solid var(--border-color)',
+            color: '#e91e63', fontFamily: 'var(--font-mono)',
+            fontSize: 9, padding: '4px 16px', cursor: 'pointer', letterSpacing: 1,
+          }}>LOAD +{Math.min(PAGE_SIZE, statements.length - limit)}</button>
+        </div>
+      )}
     </div>
   </>)
 }
