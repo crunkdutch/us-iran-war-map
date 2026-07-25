@@ -77663,5 +77663,155 @@
     "description": "🇮🇶An explosion and subsequent blaze hit the Jambur oil field in the Kurdistan Region of Iraq.@SimurghRes",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785016461488,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran condemns terrorist attack in Pakistan📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei strongly condemned the terrorist attack on a police checkpoint in the city of Tank, located in Pakistan's Khyber Pakhtunkhwa province.While condemning this terrorist attack, Baqaei ext...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016406071,
+    "type": "naval",
+    "location": "Gulf of Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "date": "2026-07-25",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The US naval blockade on Iran remains fully in effect. As of July 25, US Central Command (CENTCOM) has diverted 12 commercial vessels attempting to breach the blockade, disabled two non-compliant vessels, and inspected two others to ensure full compliance.Earlier today, US forces completed a veri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016412257,
+    "type": "naval",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-25",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The US naval blockade on Iran remains fully in effect. As of July 25, US Central Command (CENTCOM) has diverted 12 commercial vessels attempting to breach the blockade, disabled two non-compliant vessels, and inspected two others to ensure full compliance.Earlier today, US forces completed a veri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016473832,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Zionist-American warplanes are flying very intensively over the West Bank.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016395206,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-25",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "⚡🇾🇪 Scenes from the clashes between Houthi forces and Saudi backed Al Juayd fighters in the Al Jawf province in Yemen.@medmannews",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016443265,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸🇮🇷Report: Two explosions in Bandar Abbas, southern Iran.**We cannot independently verify this report at the moment.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016470103,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸🇮🇱There are seven US refueling tankers in the air over the Persian Gulf and the Gulf of Oman.An eighth tankers has just got airborne from Tel Aviv's Ben \"Gorilla\" Airport.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016404233,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸🇮🇱There are seven US refueling tankers in the air over the Persian Gulf and the Gulf of Oman.An eighth tankers has just got airborne from Tel Aviv's Ben \"Gorilla\" Airport.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016421752,
+    "type": "airstrike",
+    "location": "Gulf of Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸🇮🇱There are seven US refueling tankers in the air over the Persian Gulf and the Gulf of Oman.An eighth tankers has just got airborne from Tel Aviv's Ben \"Gorilla\" Airport.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785016402693,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸🇮🇱There are seven US refueling tankers in the air over the Persian Gulf and the Gulf of Oman.An eighth tankers has just got airborne from Tel Aviv's Ben \"Gorilla\" Airport.@SimurghRes",
+    "media": [],
+    "verified": false
   }
 ]
