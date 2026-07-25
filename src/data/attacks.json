@@ -1125,5 +1125,376 @@
     "description": "Major General Abdollahi, Commander of Khatam al Anbiya Central Headquarters, declared new operational equation: \"For every proud citizen of the Islamic Republic of Iran who is martyred, one American servicemember will be sent to hell. We have prepared free, one-way tickets straight to hell for you.\" Marks official shift to proportional retaliation doctrine.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 33,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-23",
+    "time": "Night",
+    "title": "Satellite-Confirmed Strike on Muwaffaq Salti — Radar & Patriot",
+    "location": "Muwaffaq al Salti Air Base, Jordan",
+    "coordinates": [
+      31.8825,
+      36.0444
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8029",
+        "type": "analyst"
+      },
+      {
+        "name": "Satellite Imagery",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Satellite imagery reveals a new attack on Muwaffaq Salti Air Base in Jordan. Iran targeted AN/TPY-2 radar and a Patriot system. Strike hit a newly built area of the base (first seen April 2026).",
+    "satelliteImage": "https://t.me/SimurghRes/8029",
+    "videoUrl": null
+  },
+  {
+    "id": 34,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Two Explosions Reported Near Bushehr",
+    "location": "Bushehr, Iran",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8031",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Two explosions reported from near Bushehr, Iran. Nature of strikes unclear — potentially targeting IRGC naval or missile facilities in the area.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 35,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "IRIAF F-14 Tomcats Patrol Iran-Iraq Border — MiG-29s Cover Cities",
+    "location": "Iran-Iraq Border",
+    "coordinates": [
+      34,
+      46
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8044",
+        "type": "analyst"
+      },
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60328",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Islamic Republic of Iran Air Force F-14 Tomcats conducting patrol operations near the northern Iran-Iraq border. MiG-29s reported covering major cities. US large formation of fighter jets over Jordan simultaneously.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 36,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Evening",
+    "title": "Yemeni Missile Severely Damages Saudi Tanker NCC MASA",
+    "location": "Red Sea / Bab al-Mandab",
+    "coordinates": [
+      13.5,
+      43
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8045",
+        "type": "analyst"
+      },
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60319",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Yemeni armed forces struck oil tanker NCC MASA with a missile in the Red Sea. Vessel sustained severe damage. Tanker had turned off its transponder while sailing from Saudi port of Yanbu toward Bab al-Mandab Strait. Hit before reaching Yemeni coast.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 37,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "Large US Fighter Formation Over Jordan — BACN Aircraft Deploying",
+    "location": "Jordan Airspace",
+    "coordinates": [
+      31,
+      36
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8043",
+        "type": "analyst"
+      },
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Large formation of fighter jets over Jordan. E-11 Battlefield Airborne Communications Node (BACN) aircraft out of Prince Sultan Air Base positioning. Likely preparation for strikes on Iran.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 38,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "US P-8 Poseidon Aircraft Active Near Iranian Coasts",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Middle East Observer",
+        "url": "https://t.me/me_observer_TG",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Several American P-8 Poseidon maritime patrol aircraft now active near the Iranian coasts in the Persian Gulf, conducting surveillance and reconnaissance.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 39,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "US C-17 Transport Aircraft en Route to Ovda Airbase, Israel",
+    "location": "Ovda Airbase, Southern Israel",
+    "coordinates": [
+      29.9375,
+      34.9358
+    ],
+    "sources": [
+      {
+        "name": "Middle East Observer",
+        "url": "https://t.me/me_observer_TG",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "American C-17 transport aircraft en route to Ovda Airbase in southern Israel. Possible resupply or troop movement related to ongoing operations against Iran.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 40,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "US Refueling Aircraft Deploy from Ben Gurion to Persian Gulf",
+    "location": "Ben Gurion Airport / Persian Gulf",
+    "coordinates": [
+      29.5,
+      37
+    ],
+    "sources": [
+      {
+        "name": "Middle East Observer",
+        "url": "https://t.me/me_observer_TG",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Two American refueling aircraft took off from Ben Gurion Airport heading towards the Persian Gulf. Five refueling aircraft total reported taking off to the east. Indicates preparation for extended air operations.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 41,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "3 Massive Explosions in Bahrain — Missile Defense Confused",
+    "location": "Bahrain",
+    "coordinates": [
+      26.0667,
+      50.5577
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8033",
+        "type": "analyst"
+      },
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8036",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "3 massive explosions heard in Bahrain. Iranian drones and ballistic missiles hitting targets in Bahrain. Missile defense interceptors appear confused — low interception rate reported. PAC-3 missile malfunction reported with failed interceptors falling inside Bahraini territory.",
+    "satelliteImage": null,
+    "videoUrl": "https://t.me/SimurghRes/8033"
+  },
+  {
+    "id": 42,
+    "type": "airstrike",
+    "status": "disputed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Trump Refuses to Rule Out Bombing Civilian Infrastructure in Iran",
+    "location": "Washington DC, USA",
+    "coordinates": [
+      38.9,
+      -77.05
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8034",
+        "type": "analyst"
+      },
+      {
+        "name": "NYT / The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-air-force-one-iran-threat",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Trump refused to answer when asked if bombing civilian power plants and bridges in Iran constituted a war crime. Removed from press conference when pressed by NYT reporter. The Guardian also reported Trump switched planes in Turkey due to Iran proxy threat to target Air Force One.",
+    "satelliteImage": null,
+    "videoUrl": "https://t.me/SimurghRes/8034"
+  },
+  {
+    "id": 43,
+    "type": "cyber",
+    "status": "disputed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Iraqi Military Deploys Against Resistance Factions — US Pressure Mounts",
+    "location": "Baghdad, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60326",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Heavy Iraqi military deployments in Baghdad and Baqubah. Forces attempted to storm Nujaba Movement headquarters in Jurf al-Nadaf. PMF leadership ordered withdrawal after warning shots. Trump administration pressuring Iraqi Kurdistan to join war against Iran or lose autonomous status.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]

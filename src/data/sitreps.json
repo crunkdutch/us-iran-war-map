@@ -383,5 +383,135 @@
     "description": "Yemeni Ansar Allah forces targeted Saudi vessel NCC MASA in the Red Sea. Direct hits to hull. Saudi Arabia retaliated with airstrikes on Hodeidah port, fuel storage tanks, and communications facilities. Kamaran Island also struck.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1784939649416,
+    "type": "strike",
+    "location": "Muwaffaq al Salti Air Base",
+    "coordinates": [
+      31.8825,
+      36.0444
+    ],
+    "date": "2026-07-23",
+    "source": "SimurghRes (@SimurghRes)",
+    "sourceUrl": "https://t.me/SimurghRes/8029",
+    "description": "Satellite imagery reveals new attack on Muwaffaq Salti Air Base, Jordan. Iran targeted AN/TPY-2 radar and Patriot system. Strike on newly built area of base.",
+    "media": [
+      {
+        "url": "https://t.me/SimurghRes/8029",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1784939649417,
+    "type": "launch",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-24",
+    "source": "SimurghRes (@SimurghRes)",
+    "sourceUrl": "https://t.me/SimurghRes/8031",
+    "description": "Two explosions reported from near Bushehr, Iran. Possible US strikes on IRGC facilities.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784939649418,
+    "type": "launch",
+    "location": "Iran-Iraq Border",
+    "coordinates": [
+      34,
+      46
+    ],
+    "date": "2026-07-24",
+    "source": "SimurghRes (@SimurghRes)",
+    "sourceUrl": "https://t.me/SimurghRes/8044",
+    "description": "IRIAF F-14 Tomcats on patrol over Iran-Iraq border. MiG-29s reported covering major cities. Large formation of fighter jets over Jordan simultaneously.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784939649421,
+    "type": "launch",
+    "location": "Ovda Airbase",
+    "coordinates": [
+      29.9375,
+      34.9358
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Observer (@me_observer_TG)",
+    "sourceUrl": "https://t.me/me_observer_TG",
+    "description": "American C-17 transport aircraft en route to Ovda Airbase, southern Israel. Possible resupply or troop movement.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784939649422,
+    "type": "launch",
+    "location": "Ben Gurion",
+    "coordinates": [
+      32.0094,
+      34.8861
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Observer (@me_observer_TG)",
+    "sourceUrl": "https://t.me/me_observer_TG",
+    "description": "Two US refueling aircraft took off from Ben Gurion heading toward Persian Gulf. Five total refueling aircraft deploying east.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784939649423,
+    "type": "strike",
+    "location": "Bahrain",
+    "coordinates": [
+      26.0667,
+      50.5577
+    ],
+    "date": "2026-07-24",
+    "source": "SimurghRes (@SimurghRes)",
+    "sourceUrl": "https://t.me/SimurghRes/8033",
+    "description": "3 massive explosions in Bahrain. Iranian ballistic missiles and drones hitting targets. PAC-3 interceptor malfunction, confused missile defenses.",
+    "media": [
+      {
+        "url": "https://t.me/SimurghRes/8033",
+        "type": "video"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1784939649424,
+    "type": "launch",
+    "location": "Jordan",
+    "coordinates": [
+      31,
+      36
+    ],
+    "date": "2026-07-24",
+    "source": "SimurghRes (@SimurghRes)",
+    "sourceUrl": "https://t.me/SimurghRes/8043",
+    "description": "Large formation of US fighter jets over Jordan. E-11 BACN aircraft positioning from Prince Sultan Air Base.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784939649425,
+    "type": "report",
+    "location": "Sulaymaniyah",
+    "coordinates": [
+      35.5614,
+      45.435
+    ],
+    "date": "2026-07-24",
+    "source": "Enemy Watch (@enemywatch)",
+    "sourceUrl": "https://t.me/enemywatch/60326",
+    "description": "Trump admin warned Iraqi Kurdistan: join war against Iran or lose autonomous status. Kurdish separatist groups seeking US weapons and explosives.",
+    "media": [],
+    "verified": false
   }
 ]
