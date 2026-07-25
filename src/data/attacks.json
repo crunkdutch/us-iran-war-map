@@ -1568,5 +1568,134 @@
     "description": "Reports of missile launches from Yemen towards Saudi Arabia. Rasd Akhbar Shehaba: \"The Yemeni response enters into force.\" Part of broader Ansar Allah retaliation campaign.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 46,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-03",
+    "time": "~2-3 weeks prior",
+    "title": "WSJ: Bahrain & Kuwait Conducted Airstrikes Against Iran — United Arab Front",
+    "location": "Bahrain & Kuwait / Iran",
+    "coordinates": [
+      28.5,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator/35415",
+        "type": "analyst"
+      },
+      {
+        "name": "Wall Street Journal",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Wall Street Journal reporting Bahrain and Kuwait carried out airstrikes against Iran approximately 2-3 weeks ago. Attacks conducted with Emirati intelligence support and defensive cover, indicating a united Arab front against Iran.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 47,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "Yemen Drones Strike Abha Airport & Jazan Port, Saudi Arabia",
+    "location": "Abha & Jazan, Saudi Arabia",
+    "coordinates": [
+      18.2167,
+      42.5053
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Yemeni forces launched drones targeting Abha International Airport and Jazan Port in Saudi Arabia. Part of expanded Ansar Allah retaliation operations.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 48,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "5 Ballistic Missiles Target ARAMCO Terminal at Jazan Port",
+    "location": "Jazan Port, Saudi Arabia",
+    "coordinates": [
+      16.9,
+      42.55
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "At least 5 ballistic missiles targeted the ARAMCO oil terminal at Jazan Port, Saudi Arabia. Significant escalation in Yemeni attacks on Saudi energy infrastructure.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 49,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "Night",
+    "title": "Ballistic Missile & Drone Attack on Bahrain — At Least One Impact",
+    "location": "Bahrain",
+    "coordinates": [
+      26.0667,
+      50.5577
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Ballistic missile and drone attack on Bahrain with at least one confirmed impact. Multiple explosions reported across the country.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]

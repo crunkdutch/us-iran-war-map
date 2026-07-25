@@ -548,5 +548,50 @@
     "description": "Saudi airstrikes on Hodeidah Port fuel storage tanks, eastern Hodeidah, and Kamaran Island. Communications facility worker and woman on Kamaran Island injured. Yemeni air defenses forced Saudi jets to withdraw.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1784943563672,
+    "type": "launch",
+    "location": "Abha",
+    "coordinates": [
+      18.2167,
+      42.5053
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Spectator (@Middle_East_Spectator)",
+    "sourceUrl": "https://t.me/Middle_East_Spectator",
+    "description": "Yemen launched drones at Abha International Airport and Jazan Port in Saudi Arabia.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784943563673,
+    "type": "launch",
+    "location": "Jazan",
+    "coordinates": [
+      16.9,
+      42.55
+    ],
+    "date": "2026-07-24",
+    "source": "Middle East Spectator (@Middle_East_Spectator)",
+    "sourceUrl": "https://t.me/Middle_East_Spectator",
+    "description": "At least 5 ballistic missiles targeted the ARAMCO oil terminal at Jazan Port, Saudi Arabia.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1784943563674,
+    "type": "report",
+    "location": "Bahrain",
+    "coordinates": [
+      26.0667,
+      50.5577
+    ],
+    "date": "2026-07-03",
+    "source": "Middle East Spectator / WSJ (@Middle_East_Spectator)",
+    "sourceUrl": "https://t.me/Middle_East_Spectator/35415",
+    "description": "WSJ: Bahrain and Kuwait carried out airstrikes against Iran ~2-3 weeks ago with Emirati intelligence and defensive cover. Indicates united Arab front.",
+    "media": [],
+    "verified": false
   }
 ]

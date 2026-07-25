@@ -24,6 +24,7 @@ const CHANNELS = {
   enemywatch: { url: 'https://t.me/s/enemywatch', label: 'Enemy Watch', type: 'analysis' },
   simurgh: { url: 'https://t.me/s/SimurghRes', label: 'Simurgh Resistance', type: 'ops_intel' },
   me_observer: { url: 'https://t.me/s/me_observer_TG', label: 'Middle East Observer', type: 'news_aggregator' },
+  me_spectator: { url: 'https://t.me/s/Middle_East_Spectator', label: 'Middle East Spectator', type: 'analysis' },
 }
 
 // ── State tracking ──
