@@ -36,6 +36,37 @@
     "videoUrl": null
   },
   {
+    "id": 95,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "Dawn",
+    "title": "Iranian Missile Barrages Hit Israeli Cities - Retaliation for Epic Fury",
+    "location": "Multiple cities, Israel",
+    "coordinates": [
+      31.9,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iran responded to Operation Epic Fury with missile barrages on Israeli cities. Multiple impacts reported. Iron Dome interceptors activated across central and northern Israel.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 2,
     "type": "naval",
     "status": "confirmed",
@@ -160,6 +191,37 @@
     "videoUrl": null
   },
   {
+    "id": 86,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-03-03",
+    "time": "TBD",
+    "title": "Hezbollah Drones & Missiles Strike Ramat David Airbase, Meron Base & Camp Yitzhak",
+    "location": "Ramat David Airbase / Meron / Camp Yitzhak, Northern Israel",
+    "coordinates": [
+      32.6758,
+      35.1925
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah conducted drone and missile attacks on Ramat David Airbase, the Meron monitoring base, and Camp Yitzhak inside Israeli territory. IDF carried out simultaneous airstrikes on Beirut.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 6,
     "type": "naval",
     "status": "confirmed",
@@ -249,6 +311,37 @@
       "other": 0
     },
     "description": "Brent crude oil prices surpassed $100 per barrel for the first time in four years - the fastest oil price increase during any conflict in recent history. Prices would eventually peak at $126/barrel. Largest disruption to world energy supply since 1970s energy crisis. US national gas price approaching $4/gal.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 87,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-09",
+    "time": "TBD",
+    "title": "Hezbollah Rockets Strike Central Israel - 18 Wounded, Kindergarten Hit in Ramla",
+    "location": "Ramla / Beit Shemesh / Elah Valley, Central Israel",
+    "coordinates": [
+      31.895,
+      34.9147
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 18
+    },
+    "description": "Hezbollah rocket attacks at central Israel lightly wounded 18 people. A kindergarten in Ramla was directly hit. Smoke seen in Beit Shemesh. Hezbollah stated it targeted a communications site in Elah Valley and a Home Front Command base in Ramla.",
     "satelliteImage": null,
     "videoUrl": null
   },
@@ -346,6 +439,68 @@
     "videoUrl": null
   },
   {
+    "id": 88,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-14",
+    "time": "TBD",
+    "title": "Hezbollah Cluster Bomb on Metula, Rockets Hit Krayot Area - Highway 4 Closed",
+    "location": "Metula / Krayot / Upper Galilee, Israel",
+    "coordinates": [
+      33.2722,
+      35.5722
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah fired a cluster bomb at Metula. 12 rockets were fired at Upper Galilee. Several rockets hit Krayot area causing damage, prompting closure of Israel's Highway 4.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 89,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-16",
+    "time": "TBD",
+    "title": "Hezbollah Rockets Hit Nahariya - 6 Injured, Kabri Also Struck",
+    "location": "Nahariya / Kabri, Northern Israel",
+    "coordinates": [
+      33.0033,
+      35.0964
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 7
+    },
+    "description": "Hezbollah rocket attacks injured six people in Nahariya and injured a seventh near Kabri.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 12,
     "type": "drone",
     "status": "confirmed",
@@ -382,6 +537,104 @@
     "videoUrl": null
   },
   {
+    "id": 90,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-24",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Barrage Kills Woman, Injures 2 in Northern Israel",
+    "location": "Northern Israel",
+    "coordinates": [
+      33,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 3
+    },
+    "description": "Hezbollah militants launched a rocket barrage towards northern Israel, killing a woman and injuring two others.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 91,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-25",
+    "time": "TBD",
+    "title": "Hezbollah Launches 105 Attack Waves on Israel - Most Intense Day of War",
+    "location": "Multiple sites across Israel",
+    "coordinates": [
+      32.5,
+      35
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      },
+      {
+        "name": "Alma Center",
+        "url": "https://israel-alma.org",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah launched 105 attack waves on Israel on this day - the most intense day of attacks on Israel since the beginning of the 2026 Iran war. Since the war began, 1,084 total attack waves were launched from Lebanon into Israel.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 92,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-26",
+    "time": "TBD",
+    "title": "Hezbollah Rockets Kill Man, Injure 14 in Nahariya",
+    "location": "Nahariya, Northern Israel",
+    "coordinates": [
+      33.0033,
+      35.0964
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 15
+    },
+    "description": "Hezbollah militants launched rockets towards Nahariya, killing a man and injuring 14 others, one seriously.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 13,
     "type": "airstrike",
     "status": "confirmed",
@@ -409,6 +662,37 @@
       "other": 0
     },
     "description": "IRGC announced Strait of Hormuz closed to any vessel going to and from ports of US, Israel, and their allies. Trump threatened to destroy Iran infrastructure if strait not reopened. Expressed interest in renaming it.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 93,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-30",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Halts Israeli Soccer Team Training - Southern Lebanon Fighting",
+    "location": "Northern Israel",
+    "coordinates": [
+      33,
+      35.2
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia (historical)",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "An Israeli soccer team had to halt a training session due to the danger posed by a rocket fired from Lebanon. Ongoing fighting in southern Lebanon. An IDF Nahal Brigade soldier was killed in clashes with Hezbollah.",
     "satelliteImage": null,
     "videoUrl": null
   },
@@ -2855,259 +3139,6 @@
     "videoUrl": null
   },
   {
-    "id": 86,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-03-03",
-    "time": "TBD",
-    "title": "Hezbollah Drones & Missiles Strike Ramat David Airbase, Meron Base & Camp Yitzhak",
-    "location": "Ramat David Airbase / Meron / Camp Yitzhak, Northern Israel",
-    "coordinates": [
-      32.6758,
-      35.1925
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah conducted drone and missile attacks on Ramat David Airbase, the Meron monitoring base, and Camp Yitzhak inside Israeli territory. IDF carried out simultaneous airstrikes on Beirut.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 87,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-09",
-    "time": "TBD",
-    "title": "Hezbollah Rockets Strike Central Israel - 18 Wounded, Kindergarten Hit in Ramla",
-    "location": "Ramla / Beit Shemesh / Elah Valley, Central Israel",
-    "coordinates": [
-      31.895,
-      34.9147
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 18
-    },
-    "description": "Hezbollah rocket attacks at central Israel lightly wounded 18 people. A kindergarten in Ramla was directly hit. Smoke seen in Beit Shemesh. Hezbollah stated it targeted a communications site in Elah Valley and a Home Front Command base in Ramla.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 88,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-14",
-    "time": "TBD",
-    "title": "Hezbollah Cluster Bomb on Metula, Rockets Hit Krayot Area - Highway 4 Closed",
-    "location": "Metula / Krayot / Upper Galilee, Israel",
-    "coordinates": [
-      33.2722,
-      35.5722
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah fired a cluster bomb at Metula. 12 rockets were fired at Upper Galilee. Several rockets hit Krayot area causing damage, prompting closure of Israel's Highway 4.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 89,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-16",
-    "time": "TBD",
-    "title": "Hezbollah Rockets Hit Nahariya - 6 Injured, Kabri Also Struck",
-    "location": "Nahariya / Kabri, Northern Israel",
-    "coordinates": [
-      33.0033,
-      35.0964
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 7
-    },
-    "description": "Hezbollah rocket attacks injured six people in Nahariya and injured a seventh near Kabri.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 90,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-24",
-    "time": "TBD",
-    "title": "Hezbollah Rocket Barrage Kills Woman, Injures 2 in Northern Israel",
-    "location": "Northern Israel",
-    "coordinates": [
-      33,
-      35.3
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 3
-    },
-    "description": "Hezbollah militants launched a rocket barrage towards northern Israel, killing a woman and injuring two others.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 91,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-25",
-    "time": "TBD",
-    "title": "Hezbollah Launches 105 Attack Waves on Israel - Most Intense Day of War",
-    "location": "Multiple sites across Israel",
-    "coordinates": [
-      32.5,
-      35
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      },
-      {
-        "name": "Alma Center",
-        "url": "https://israel-alma.org",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah launched 105 attack waves on Israel on this day - the most intense day of attacks on Israel since the beginning of the 2026 Iran war. Since the war began, 1,084 total attack waves were launched from Lebanon into Israel.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 92,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-26",
-    "time": "TBD",
-    "title": "Hezbollah Rockets Kill Man, Injure 14 in Nahariya",
-    "location": "Nahariya, Northern Israel",
-    "coordinates": [
-      33.0033,
-      35.0964
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 15
-    },
-    "description": "Hezbollah militants launched rockets towards Nahariya, killing a man and injuring 14 others, one seriously.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 93,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-30",
-    "time": "TBD",
-    "title": "Hezbollah Rocket Halts Israeli Soccer Team Training - Southern Lebanon Fighting",
-    "location": "Northern Israel",
-    "coordinates": [
-      33,
-      35.2
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "An Israeli soccer team had to halt a training session due to the danger posed by a rocket fired from Lebanon. Ongoing fighting in southern Lebanon. An IDF Nahal Brigade soldier was killed in clashes with Hezbollah.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
     "id": 94,
     "type": "missile",
     "status": "confirmed",
@@ -3140,37 +3171,6 @@
       "other": 0
     },
     "description": "Multiple Israeli cities announced opening of public shelters due to escalating Iranian missile threat: Tel Aviv-Yafo, Ramat Gan, Haifa, Be'er Sheva, Ashkelon, Nesher, Karmiel, Kiryat Tivon, Tirat Carmel, Modi'in, Kiryat Gat, Migdal HaEmek, Ma'alot-Tarshiha, Acre, Nahariya, Safed. Mayor of Ramat Gan: 'The threat of Iranian missile launches has increased over the coming weekend.' Israel Hayom assessment: US will strike, Iran will target Gulf bases but not Israel directly to avoid giving Netanyahu pretext to join campaign.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 95,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-02-28",
-    "time": "Dawn",
-    "title": "Iranian Missile Barrages Hit Israeli Cities - Retaliation for Epic Fury",
-    "location": "Multiple cities, Israel",
-    "coordinates": [
-      31.9,
-      34.8
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia (historical)",
-        "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Iran responded to Operation Epic Fury with missile barrages on Israeli cities. Multiple impacts reported. Iron Dome interceptors activated across central and northern Israel.",
     "satelliteImage": null,
     "videoUrl": null
   },
