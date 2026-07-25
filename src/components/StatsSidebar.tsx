@@ -66,7 +66,11 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     const currentHormuz = hData.length > 0 ? hData[hData.length-1].daily : 0
     const peakHormuz = Math.max(...hData.map(d => d.daily))
     const hormuzRecent = hData.slice(-7)
-    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent }
+    const fpvLaunched = 80
+    const fpvHits = 15
+    const fpvKilled = 5
+    const fpvCost = 300
+    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent, fpvLaunched, fpvHits, fpvKilled, fpvCost }
   }, [attacks, sitreps])
 
   const filteredStatements = useMemo(() => {
