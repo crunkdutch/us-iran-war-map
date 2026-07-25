@@ -4,6 +4,7 @@ import { useState, useMemo, useRef, useCallback, useEffect } from 'react'
 import type { AttackEvent, SitRep } from './WarMap'
 import statementsData from '@/data/statements.json'
 import hormuzData from '@/data/hormuz-data.json'
+import lossesData from '@/data/irgc-losses.json'
 
 interface Statement {
   [key: string]: any
@@ -30,7 +31,7 @@ interface Props {
 }
 
 export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
-  const [tab, setTab] = useState<'stats' | 'stmts' | 'sitreps'>('stats')
+  const [tab, setTab] = useState<'stats' | 'stmts' | 'sitreps' | 'losses'>('stats')
   const [stmtFilter, setStmtFilter] = useState<'all' | 'CENTCOM' | 'Khatam al Anbiya'>('all')
   const [expandedId, setExpandedId] = useState<number | null>(null)
   const [expandedSitrep, setExpandedSitrep] = useState<number | null>(null)
@@ -133,18 +134,18 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     }}>
       {/* ── Tabs ── */}
       <div style={{ display: 'flex', borderBottom: '1px solid var(--border-color)' }}>
-        {(['stats', 'stmts', 'sitreps'] as const).map(t => (
+        {(['stats', 'stmts', 'sitreps', 'losses'] as const).map(t => (
           <button key={t} onClick={() => setTab(t)} style={{
             flex: 1, padding: '7px 4px',
             background: tab === t ? 'rgba(255,255,255,0.05)' : 'transparent',
             border: 'none',
             borderBottom: tab === t
-              ? `2px solid ${t === 'stats' ? 'var(--accent-green)' : t === 'stmts' ? 'var(--accent-cyan)' : 'var(--accent-amber)'}`
+              ? `2px solid ${t === 'stats' ? 'var(--accent-green)' : t === 'stmts' ? 'var(--accent-cyan)' : t === 'sitreps' ? 'var(--accent-amber)' : 'var(--accent-red)'}`
               : '2px solid transparent',
             color: tab === t ? 'var(--text-bright)' : 'var(--text-dim)',
             fontFamily: 'var(--font-mono)', fontSize: 9, cursor: 'pointer', letterSpacing: 1,
           }}>
-            {t === 'stats' ? 'STATS' : t === 'stmts' ? 'STMTS' : 'SITREPS'}
+            {t === 'stats' ? 'STATS' : t === 'stmts' ? 'STMTS' : t === 'sitreps' ? 'SITREPS' : 'LOSSES'}
           </button>
         ))}
       </div>
@@ -174,6 +175,9 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
           typeCounts={sitrepTypeCounts}
         />
       )}
+
+      {/* ── LOSSES ── */}
+      {tab === 'losses' && <LossesContent />}
 
       {/* ── Drag handle ── */}
       <div
@@ -463,6 +467,97 @@ function SitrepsContent({ filtered, filter, setFilter, expandedId, setExpandedId
           }}>LOAD +{Math.min(PAGE_SIZE, filtered.length - limit)}</button>
         </div>
       )}
+    </div>
+  </>)
+}
+
+// ── IRGC Losses tab ──
+interface LossCategory {
+  name: string; icon: string; color: string
+  items: { label: string; count: number }[]
+}
+
+interface LossesData {
+  title: string; source: string; period: string
+  categories: LossCategory[]
+}
+
+const losses = lossesData as LossesData
+
+const CATEGORY_ICONS: Record<string, string> = {
+  'Radar & Air Defense': '📡',
+  'Support & Logistics': '🔧',
+  'Operational Infrastructure': '🏗️',
+  'Aircraft Destroyed': '✈️',
+}
+
+function LossesContent() {
+  const [expandedCat, setExpandedCat] = useState<string | null>('Radar & Air Defense')
+
+  const totalItems = losses.categories.reduce((sum, cat) =>
+    sum + cat.items.reduce((s, i) => s + i.count, 0), 0)
+
+  return (<>
+    <div style={{ padding: '10px 12px', borderBottom: '1px solid var(--border-color)',
+      fontSize: 10, color: 'var(--accent-red)', letterSpacing: 2,
+      display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+      <span>US LOSSES (IRGC CLAIM)</span>
+      <span style={{ fontSize: 14, fontWeight: 700, color: 'var(--text-bright)' }}>{totalItems}</span>
+    </div>
+    <div style={{ padding: '6px 10px', borderBottom: '1px solid var(--border-color)',
+      fontSize: 8, color: 'var(--text-dim)', letterSpacing: 1, lineHeight: 1.4 }}>
+      Brig. Gen. Mohebbi, IRGC<br/>
+      Period: {losses.period}
+    </div>
+    <div style={{ padding: 0 }}>
+      {losses.categories.map(cat => {
+        const expanded = expandedCat === cat.name
+        const catTotal = cat.items.reduce((s, i) => s + i.count, 0)
+        return (<div key={cat.name}>
+          <div onClick={() => setExpandedCat(expanded ? null : cat.name)}
+            style={{
+              padding: '8px 10px', cursor: 'pointer',
+              borderBottom: '1px solid rgba(255,255,255,0.04)',
+              background: expanded ? 'rgba(255,255,255,0.03)' : 'transparent',
+              display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+            }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+              <span>{CATEGORY_ICONS[cat.name] || '●'}</span>
+              <span style={{ fontSize: 9, color: cat.color, letterSpacing: 1, fontWeight: 600 }}>
+                {cat.name.toUpperCase()}
+              </span>
+            </div>
+            <span style={{ fontSize: 12, fontWeight: 700, color: 'var(--text-bright)' }}>{catTotal}</span>
+          </div>
+          {expanded && (
+            <div style={{ padding: '2px 10px 6px 28px' }}>
+              {cat.items.map((item, i) => (
+                <div key={i} style={{
+                  display: 'flex', justifyContent: 'space-between',
+                  padding: '3px 0', borderBottom: '1px solid rgba(255,255,255,0.02)',
+                }}>
+                  <span style={{ fontSize: 9, color: 'var(--text-primary)', lineHeight: 1.3, flex: 1 }}>
+                    {item.label}
+                  </span>
+                  <span style={{
+                    fontSize: 11, fontWeight: 700,
+                    color: item.count >= 10 ? 'var(--accent-red)' :
+                           item.count >= 5 ? 'var(--accent-amber)' : 'var(--accent-green)',
+                    fontFamily: 'var(--font-mono)', marginLeft: 8, flexShrink: 0,
+                  }}>
+                    {item.count}
+                  </span>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>)
+      })}
+    </div>
+    <div style={{ padding: '8px 10px', borderTop: '1px solid var(--border-color)',
+      fontSize: 8, color: 'var(--text-dim)', letterSpacing: 1, lineHeight: 1.3 }}>
+      Source: {losses.source} — damages inflicted on US Army in the region over 15 days (Jul 8–22).
+      "Patriot systems weakened — Iranian missiles/drones hit targets without interception."
     </div>
   </>)
 }
