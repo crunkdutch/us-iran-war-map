@@ -18,12 +18,12 @@ export default function HUDOverlay() {
         justifyContent: 'space-between',
         fontFamily: 'var(--font-mono)',
         pointerEvents: 'none',
-      }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-          <span style={{ color: 'var(--accent-green)', fontSize: 14, fontWeight: 600 }}>
+      }} className="hud-top">
+        <div className="hud-top-left" style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+          <span className="hud-title" style={{ color: 'var(--accent-green)', fontSize: 14, fontWeight: 600 }}>
             ■ TACTICAL TRACKER
           </span>
-          <span style={{ color: 'var(--text-dim)', fontSize: 11, letterSpacing: 2 }}>
+          <span className="hud-subtitle" style={{ color: 'var(--text-dim)', fontSize: 11, letterSpacing: 2 }}>
             // US-IRAN CONFLICT
           </span>
         </div>
@@ -31,26 +31,26 @@ export default function HUDOverlay() {
           <span style={{ color: 'var(--accent-amber)', fontSize: 11, animation: 'hudPulse 2s ease-in-out infinite' }}>
             ● LIVE
           </span>
-          <span style={{ color: 'var(--text-dim)', fontSize: 11 }}>
+          <span className="hud-date" style={{ color: 'var(--text-dim)', fontSize: 11 }}>
             {new Date().toISOString().slice(0, 10).replace(/-/g, '.')}
           </span>
         </div>
       </div>
 
       {/* ── Corner brackets ── */}
-      <div style={{ position: 'fixed', top: 52, left: 12, zIndex: 999, pointerEvents: 'none' }}>
+      <div className="corner-bracket" style={{ position: 'fixed', top: 52, left: 12, zIndex: 999, pointerEvents: 'none' }}>
         <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
           <path d="M0 20V0H20" stroke="var(--accent-green)" strokeWidth="1.5" opacity="0.4"/>
         </svg>
       </div>
-      <div style={{ position: 'fixed', top: 52, right: 12, zIndex: 999, pointerEvents: 'none', transform: 'scaleX(-1)' }}>
+      <div className="corner-bracket" style={{ position: 'fixed', top: 52, right: 12, zIndex: 999, pointerEvents: 'none', transform: 'scaleX(-1)' }}>
         <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
           <path d="M0 20V0H20" stroke="var(--accent-green)" strokeWidth="1.5" opacity="0.4"/>
         </svg>
       </div>
 
       {/* ── Bottom HUD ── */}
-      <div style={{
+      <div className="hud-bottom" style={{
         position: 'fixed',
         bottom: 0,
         left: 0,
@@ -67,8 +67,8 @@ export default function HUDOverlay() {
         color: 'var(--text-dim)',
         pointerEvents: 'none',
       }}>
-        <span>COORD: {new Date().toLocaleDateString('en-US', { timeZone: 'UTC', month: '2-digit', day: '2-digit', year: 'numeric' }).split('/').reverse().join('.')}</span>
-        <span style={{ letterSpacing: 1 }}>▲ TOPSECRET // NOFORN</span>
+        <span>{new Date().toLocaleDateString('en-US', { timeZone: 'UTC', month: '2-digit', day: '2-digit', year: 'numeric' }).split('/').reverse().join('.')}</span>
+        <span className="hud-bottom-center" style={{ letterSpacing: 1 }}>▲ TOPSECRET // NOFORN</span>
         <span>SYS: ONLINE</span>
       </div>
     </>

@@ -47,7 +47,7 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
   const sourceTypes = [...new Set(attack.sources.map(s => s.type))]
 
   return (
-    <div style={{
+    <div className="incident-panel" style={{
       position: 'fixed',
       top: 0,
       right: 0,

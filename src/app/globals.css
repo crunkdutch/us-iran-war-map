@@ -25,6 +25,49 @@
   --font-sans: 'Inter', sans-serif;
 }
 
+/* ── Mobile responsive ── */
+@media (max-width: 640px) {
+  .hud-subtitle { display: none !important; }
+  .hud-date { display: none !important; }
+  .hud-bottom-center { display: none !important; }
+  .corner-bracket { display: none !important; }
+  .leaflet-control-zoom { display: none !important; }
+  .leaflet-control-attribution { font-size: 8px !important; }
+
+  /* Sidebar becomes bottom sheet */
+  .stats-sidebar {
+    left: 0 !important;
+    right: 0 !important;
+    top: auto !important;
+    bottom: 24px !important;
+    width: 100% !important;
+    max-height: 45vh !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: none !important;
+    border-top: 1px solid var(--border-color) !important;
+  }
+
+  .stats-toggle {
+    top: auto !important;
+    bottom: 50px !important;
+    right: 8px !important;
+    font-size: 10px !important;
+    padding: 8px !important;
+  }
+
+  /* Incident panel becomes full-width bottom drawer */
+  .incident-panel {
+    width: 100% !important;
+    max-width: 100% !important;
+    border-left: none !important;
+    border-top: 1px solid var(--border-bright) !important;
+  }
+
+  .leaflet-popup-content { font-size: 13px !important; }
+  .leaflet-popup-content-wrapper { max-width: 90vw !important; }
+}
+
 html {
   font-family: var(--font-mono);
   background: var(--bg-primary);

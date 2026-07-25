@@ -95,7 +95,7 @@ export default function WarMap() {
 
       <IncidentPanel attack={selectedAttack} visible={showPanel} onClose={handleClose} />
 
-      <button onClick={() => setShowStats(s => !s)} style={{
+      <button className="stats-toggle" onClick={() => setShowStats(s => !s)} style={{
         position: 'fixed', top: 56, right: 16, zIndex: 1001,
         background: 'var(--bg-secondary)', border: '1px solid var(--border-color)',
         color: 'var(--accent-green)', fontFamily: 'var(--font-mono)',

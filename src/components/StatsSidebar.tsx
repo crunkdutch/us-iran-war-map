@@ -110,7 +110,7 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
   if (!visible) return null
 
   return (
-    <div style={{
+    <div className="stats-sidebar" style={{
       position: 'fixed', top: 56, left: 16, zIndex: 1001,
       width, background: 'rgba(0, 12, 6, 0.92)',
       border: '1px solid var(--border-color)',
