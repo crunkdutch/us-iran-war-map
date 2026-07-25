@@ -6,9 +6,8 @@ import statementsData from '@/data/statements.json'
 import hormuzData from '@/data/hormuz-data.json'
 
 interface Statement {
-  id: number; source: string; sourceLabel: string; type: string
-  date: string; time: string; title: string; summary: string; quote: string
-  url: string; sourceChannel: string; confidence: string
+  [key: string]: any
+  id: number; source: string; title: string
 }
 
 const allStatements = statementsData as Statement[]
@@ -366,10 +365,15 @@ function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }
           </div>
           <div style={{ fontSize: 11, color: 'var(--text-bright)', fontWeight: 500, lineHeight: 1.3 }}>{s.title}</div>
           {expanded && (<div>
-            <p style={{ fontSize: 10, color: 'var(--text-primary)', lineHeight: 1.5, margin: '4px 0' }}>{s.quote}</p>
-            <div style={{ fontSize: 9, color: 'var(--text-dim)', marginBottom: 2 }}>{s.sourceLabel}</div>
+            <p style={{ fontSize: 10, color: 'var(--text-primary)', lineHeight: 1.5, margin: '4px 0' }}>{s.quote || s.description || ''}</p>
+            <div style={{ fontSize: 9, color: 'var(--text-dim)', marginBottom: 2 }}>{s.sourceLabel || (s as any).sourceType || ''}</div>
             <div style={{ display: 'flex', gap: 6 }}>
-              {s.url && s.url !== '#' && <a href={s.url} target="_blank" rel="noopener noreferrer" onClick={e => e.stopPropagation()} style={{ fontSize: 9, color: 'var(--accent-cyan)', textDecoration: 'underline' }}>[ SOURCE → ]</a>}
+              {(() => {
+                const stmtUrl = s.url && s.url !== '#' ? s.url : s.sourceUrl || null
+                return stmtUrl
+                  ? <a href={stmtUrl} target="_blank" rel="noopener noreferrer" onClick={e => e.stopPropagation()} style={{ fontSize: 9, color: 'var(--accent-cyan)', textDecoration: 'underline' }}>[ SOURCE → ]</a>
+                  : null
+              })()}
               <span style={{ fontSize: 8, color: s.confidence === 'confirmed' ? 'var(--accent-green)' : 'var(--accent-amber)', letterSpacing: 1 }}>{s.confidence.toUpperCase()}</span>
             </div>
           </div>)}
