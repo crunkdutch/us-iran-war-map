@@ -59,7 +59,10 @@ async function main() {
     process.exit(0)
   }
 
-  // 4. Build the site
+  // 4. Copy dynamic data to public/ for client-side polling
+  run('Copying data to public/', 'cp src/data/irgc-losses.json public/data/irgc-losses.json')
+
+  // 5. Build the site
   run('Building site', 'npm run build')
 
   // 5. Commit and push

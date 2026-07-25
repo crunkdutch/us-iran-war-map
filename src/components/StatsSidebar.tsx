@@ -4,7 +4,6 @@ import { useState, useMemo, useRef, useCallback, useEffect } from 'react'
 import type { AttackEvent, SitRep } from './WarMap'
 import statementsData from '@/data/statements.json'
 import hormuzData from '@/data/hormuz-data.json'
-import lossesData from '@/data/irgc-losses.json'
 
 interface Statement {
   [key: string]: any
@@ -482,8 +481,6 @@ interface LossesData {
   categories: LossCategory[]
 }
 
-const losses = lossesData as LossesData
-
 const CATEGORY_ICONS: Record<string, string> = {
   'Radar & Air Defense': '📡',
   'Support & Logistics': '🔧',
@@ -492,9 +489,26 @@ const CATEGORY_ICONS: Record<string, string> = {
 }
 
 function LossesContent() {
+  const [data, setData] = useState<LossesData | null>(null)
   const [expandedCat, setExpandedCat] = useState<string | null>('Radar & Air Defense')
 
-  const totalItems = losses.categories.reduce((sum, cat) =>
+  useEffect(() => {
+    const fetchLosses = () => {
+      fetch('/data/irgc-losses.json')
+        .then(r => r.json())
+        .then(d => setData(d))
+        .catch(() => {/* silent */})
+    }
+    fetchLosses()
+    const interval = setInterval(fetchLosses, 60000) // poll every 60s
+    return () => clearInterval(interval)
+  }, [])
+
+  if (!data) {
+    return <div style={{ padding: 20, textAlign: 'center', fontSize: 10, color: 'var(--text-dim)' }}>LOADING...</div>
+  }
+
+  const totalItems = data.categories.reduce((sum, cat) =>
     sum + cat.items.reduce((s, i) => s + i.count, 0), 0)
 
   return (<>
@@ -507,10 +521,10 @@ function LossesContent() {
     <div style={{ padding: '6px 10px', borderBottom: '1px solid var(--border-color)',
       fontSize: 8, color: 'var(--text-dim)', letterSpacing: 1, lineHeight: 1.4 }}>
       Brig. Gen. Mohebbi, IRGC<br/>
-      Period: {losses.period}
+      Period: {data.period}
     </div>
     <div style={{ padding: 0 }}>
-      {losses.categories.map(cat => {
+      {data.categories.map(cat => {
         const expanded = expandedCat === cat.name
         const catTotal = cat.items.reduce((s, i) => s + i.count, 0)
         return (<div key={cat.name}>
@@ -556,7 +570,7 @@ function LossesContent() {
     </div>
     <div style={{ padding: '8px 10px', borderTop: '1px solid var(--border-color)',
       fontSize: 8, color: 'var(--text-dim)', letterSpacing: 1, lineHeight: 1.3 }}>
-      Source: {losses.source} — damages inflicted on US Army in the region over 15 days (Jul 8–22).
+      Source: {data.source} — damages inflicted on US Army in the region over 15 days (Jul 8–22).
       "Patriot systems weakened — Iranian missiles/drones hit targets without interception."
     </div>
   </>)

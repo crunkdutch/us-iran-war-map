@@ -1,0 +1,77 @@
+{
+  "title": "IRGC Spokesman — US Losses (July 8–22, 2026)",
+  "source": "Brigadier General Mohebbi, IRGC",
+  "period": "2026-07-08 to 2026-07-22",
+  "categories": [
+    {
+      "name": "Radar & Air Defense",
+      "icon": "📡",
+      "color": "#3498db",
+      "items": [
+        { "label": "Command & Control Centers", "count": 7 },
+        { "label": "Satellite Communication Systems", "count": 3 },
+        { "label": "Patriot Air Defense Radars", "count": 6 },
+        { "label": "Air/Sea Control & Monitoring Radars", "count": 3 },
+        { "label": "Early Warning & Detection Radar Systems", "count": 8 },
+        { "label": "Air Missile Defense Radars", "count": 7 },
+        { "label": "EPS Radar Systems", "count": 3 },
+        { "label": "EPS 117 Radars", "count": 2 },
+        { "label": "Long-Range Radars", "count": 5 },
+        { "label": "Air Defense Radars", "count": 2 },
+        { "label": "Tactical Radar Complexes", "count": 1 }
+      ]
+    },
+    {
+      "name": "Support & Logistics",
+      "icon": "🔧",
+      "color": "#f39c12",
+      "items": [
+        { "label": "Fighter/Helicopter Maintenance Centers", "count": 6 },
+        { "label": "Support & Logistics Centers", "count": 3 },
+        { "label": "Fuel Tanks", "count": 12 },
+        { "label": "Weapons/Warehouses/Floating Craft Parts", "count": 17 },
+        { "label": "Missile Bunkers", "count": 6 }
+      ]
+    },
+    {
+      "name": "Operational Infrastructure",
+      "icon": "🏗️",
+      "color": "#9b59b6",
+      "items": [
+        { "label": "MQ-9 Drone Hangars", "count": 6 },
+        { "label": "F-15 Preparation Sheds", "count": 1 },
+        { "label": "Drone Sheds (8 new drones inside)", "count": 1 },
+        { "label": "Command Centers", "count": 2 },
+        { "label": "Aircraft Carrier Refueling Platforms", "count": 1 },
+        { "label": "P-8 Aircraft Hangars", "count": 1 },
+        { "label": "HIMARS Missile Platforms", "count": 4 },
+        { "label": "Fighter Hangars", "count": 5 },
+        { "label": "Patriot Air Defense Complexes", "count": 4 },
+        { "label": "Missile Launch Platforms", "count": 6 },
+        { "label": "Fuel Pumping Stations", "count": 1 },
+        { "label": "Signal/Telecommunication Centers", "count": 2 },
+        { "label": "Intelligence Data Centers", "count": 1 },
+        { "label": "AI Data Processing Center (Amazon)", "count": 1 },
+        { "label": "Unmanned Vessel Depot (Shampad)", "count": 1 },
+        { "label": "Fuel Piers", "count": 1 },
+        { "label": "Fighter Shelters", "count": 4 },
+        { "label": "Flight & Parking Ramps", "count": 6 }
+      ]
+    },
+    {
+      "name": "Aircraft Destroyed",
+      "icon": "✈️",
+      "color": "#e74c3c",
+      "items": [
+        { "label": "Fighter Jets & Helicopters (ground)", "count": 11 },
+        { "label": "Reconnaissance & Ops Drones (8 new)", "count": 17 },
+        { "label": "F-15 Fighter Jet (inside shelter)", "count": 1 },
+        { "label": "P-8 Maritime Patrol Aircraft", "count": 1 },
+        { "label": "C-17 Transport Aircraft", "count": 1 },
+        { "label": "Refueling Aircraft", "count": 8 },
+        { "label": "Heavy Helicopters", "count": 4 },
+        { "label": "Reserve Missiles", "count": 6 }
+      ]
+    }
+  ]
+}
