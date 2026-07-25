@@ -3,6 +3,7 @@
 import { useState, useMemo, useRef, useCallback, useEffect } from 'react'
 import type { AttackEvent, SitRep } from './WarMap'
 import statementsData from '@/data/statements.json'
+import hormuzData from '@/data/hormuz-data.json'
 
 interface Statement {
   id: number; source: string; sourceLabel: string; type: string
@@ -61,7 +62,11 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     for (const s of sitreps) {
       if (interceptorKeywords.test(s.description)) sitrepInterceptors++
     }
-    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors }
+    const hData = hormuzData as { date: string; daily: number; label: string; note: string }[]
+    const currentHormuz = hData.length > 0 ? hData[hData.length-1].daily : 0
+    const peakHormuz = Math.max(...hData.map(d => d.daily))
+    const hormuzRecent = hData.slice(-7)
+    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent }
   }, [attacks, sitreps])
 
   const filteredStatements = useMemo(() => {
@@ -252,11 +257,51 @@ function StatsContent({ stats }: { stats: any }) {
           Patriot / PAC-3 / air defense malfunctions
         </div>
       </div>
+
+      {/* Strait of Hormuz Shipping */}
+      <div style={{
+        marginTop: 12, paddingTop: 10,
+        borderTop: '1px solid var(--border-color)',
+      }}>
+        <div style={{ fontSize: 8, color: 'var(--accent-cyan)', letterSpacing: 1, marginBottom: 4 }}>
+          STRAIT OF HORMUZ u2014 DAILY CROSSINGS
+        </div>
+        <div style={{ fontSize: 9, color: 'var(--text-dim)', marginBottom: 6 }}>
+          Since war began Feb 28
+        </div>
+        <div style={{ display: 'flex', alignItems: 'baseline', gap: 6, marginBottom: 4 }}>
+          <span style={{ fontSize: 18, fontWeight: 700, color: 'var(--accent-cyan)', fontFamily: 'var(--font-mono)' }}>{stats.currentHormuz}</span>
+          <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>today</span>
+          <span style={{ fontSize: 11, color: 'var(--text-dim)' }}>|</span>
+          <span style={{ fontSize: 12, fontWeight: 600, color: 'var(--accent-green)' }}>{stats.peakHormuz}</span>
+          <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>peak</span>
+          <span style={{ fontSize: 11, color: 'var(--text-dim)' }}>|</span>
+          <span style={{ fontSize: 12, fontWeight: 600, color: 'var(--accent-red)' }}>{stats.peakHormuz > 0 ? Math.round(stats.currentHormuz / stats.peakHormuz * 100) : 0}%</span>
+          <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>of peak</span>
+        </div>
+        {stats.hormuzRecent && stats.hormuzRecent.length > 0 && (
+          <div style={{ display: 'flex', gap: 2, alignItems: 'flex-end', height: 24, marginTop: 4 }}>
+            {stats.hormuzRecent.map((d: any, i: number) => {
+              const barH = Math.max(4, (d.daily / Math.max(stats.peakHormuz, 1)) * 22);
+              return (
+                <div key={i} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+                  <div style={{
+                    width: '100%', height: barH,
+                    background: d.daily > 10 ? 'var(--accent-green)' : d.daily > 5 ? 'var(--accent-amber)' : 'var(--accent-red)',
+                    borderRadius: '1px 1px 0 0',
+                    minHeight: 4,
+                  }} />
+                  <span style={{ fontSize: 6, color: 'var(--text-dim)', marginTop: 1 }}>{d.date.slice(-2)}</span>
+                </div>
+              );
+            })}
+          </div>
+        )}
+      </div>
     </div>
   </>)
 }
 
-// ── Statements tab ──
 function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }: {
   filtered: Statement[]; filter: string; setFilter: (f: any) => void
   expandedId: number | null; setExpandedId: (n: number | null) => void
