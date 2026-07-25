@@ -60,7 +60,38 @@ export default function SitRepMarker({ sitrep, onClick }: Props) {
     })
 
     const marker = L.marker(sitrep.coordinates as [number, number], { icon })
-    marker.on('click', () => onClick(sitrep))
+
+    const popupContent = `
+      <div style="
+        font-family: 'JetBrains Mono', monospace;
+        background: #0a0a0a;
+        color: #c0c0c0;
+        font-size: 11px;
+        line-height: 1.5;
+        max-width: 260px;
+      ">
+        <div style="color: ${color}; font-weight: 600; font-size: 10px; letter-spacing: 1px; margin-bottom: 4px;">
+          ${sitrep.type.toUpperCase()}  —  ${sitrep.date}
+        </div>
+        <div style="color: #ffffff; font-weight: 500; margin-bottom: 4px;">
+          ${sitrep.location}
+        </div>
+        <div style="margin-bottom: 4px;">
+          ${sitrep.description.slice(0, 200)}${sitrep.description.length > 200 ? '...' : ''}
+        </div>
+        <div style="color: #666666; font-size: 10px;">
+          ${sitrep.source}
+        </div>
+      </div>
+    `
+
+    marker.bindPopup(popupContent, {
+      className: '',
+      closeButton: true,
+      minWidth: 240,
+      maxWidth: 300,
+    })
+
     marker.addTo(map)
     markerRef.current = marker
 

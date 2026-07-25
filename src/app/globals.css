@@ -85,6 +85,30 @@ body::after {
   color: var(--accent-green) !important;
 }
 
+/* ── Leaflet popup dark theme ── */
+.leaflet-popup-content-wrapper {
+  background: #0a0a0a !important;
+  color: #c0c0c0 !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 0 !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.6) !important;
+}
+.leaflet-popup-tip {
+  background: #0a0a0a !important;
+  border: 1px solid var(--border-color) !important;
+}
+.leaflet-popup-close-button {
+  color: var(--accent-green) !important;
+  font-size: 16px !important;
+  top: 4px !important;
+  right: 4px !important;
+}
+.leaflet-popup-content {
+  margin: 10px 14px !important;
+  font-size: 11px !important;
+  line-height: 1.5 !important;
+}
+
 /* ── Marker cluster overrides ── */
 .marker-cluster-small {
   background-color: rgba(46, 204, 113, 0.3) !important;
