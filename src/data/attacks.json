@@ -36,7 +36,7 @@
     "videoUrl": null
   },
   {
-    "id": 95,
+    "id": 2,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-02-28",
@@ -67,7 +67,7 @@
     "videoUrl": null
   },
   {
-    "id": 2,
+    "id": 3,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-01",
@@ -98,7 +98,7 @@
     "videoUrl": null
   },
   {
-    "id": 3,
+    "id": 4,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-02",
@@ -129,7 +129,7 @@
     "videoUrl": null
   },
   {
-    "id": 4,
+    "id": 5,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-02",
@@ -160,7 +160,7 @@
     "videoUrl": null
   },
   {
-    "id": 5,
+    "id": 6,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-03-03",
@@ -191,7 +191,7 @@
     "videoUrl": null
   },
   {
-    "id": 86,
+    "id": 7,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-03-03",
@@ -222,7 +222,7 @@
     "videoUrl": null
   },
   {
-    "id": 6,
+    "id": 8,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-04",
@@ -253,7 +253,7 @@
     "videoUrl": null
   },
   {
-    "id": 7,
+    "id": 9,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-06",
@@ -284,7 +284,7 @@
     "videoUrl": null
   },
   {
-    "id": 8,
+    "id": 10,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-03-08",
@@ -315,7 +315,7 @@
     "videoUrl": null
   },
   {
-    "id": 87,
+    "id": 11,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-09",
@@ -346,7 +346,7 @@
     "videoUrl": null
   },
   {
-    "id": 9,
+    "id": 12,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-11",
@@ -377,7 +377,7 @@
     "videoUrl": null
   },
   {
-    "id": 10,
+    "id": 13,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-11",
@@ -408,7 +408,7 @@
     "videoUrl": null
   },
   {
-    "id": 11,
+    "id": 14,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-03-13",
@@ -439,7 +439,7 @@
     "videoUrl": null
   },
   {
-    "id": 88,
+    "id": 15,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-14",
@@ -470,7 +470,7 @@
     "videoUrl": null
   },
   {
-    "id": 89,
+    "id": 16,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-16",
@@ -501,7 +501,7 @@
     "videoUrl": null
   },
   {
-    "id": 12,
+    "id": 17,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-03-22",
@@ -537,7 +537,7 @@
     "videoUrl": null
   },
   {
-    "id": 90,
+    "id": 18,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-24",
@@ -568,7 +568,7 @@
     "videoUrl": null
   },
   {
-    "id": 91,
+    "id": 19,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-25",
@@ -604,7 +604,7 @@
     "videoUrl": null
   },
   {
-    "id": 92,
+    "id": 20,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-26",
@@ -635,7 +635,7 @@
     "videoUrl": null
   },
   {
-    "id": 13,
+    "id": 21,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-03-27",
@@ -666,7 +666,7 @@
     "videoUrl": null
   },
   {
-    "id": 93,
+    "id": 22,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-30",
@@ -697,7 +697,7 @@
     "videoUrl": null
   },
   {
-    "id": 14,
+    "id": 23,
     "type": "cyber",
     "status": "confirmed",
     "date": "2026-03-31",
@@ -733,7 +733,7 @@
     "videoUrl": null
   },
   {
-    "id": 15,
+    "id": 24,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-04-08",
@@ -764,7 +764,7 @@
     "videoUrl": null
   },
   {
-    "id": 16,
+    "id": 25,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-04-08",
@@ -795,7 +795,7 @@
     "videoUrl": null
   },
   {
-    "id": 17,
+    "id": 26,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-04-12",
@@ -831,7 +831,7 @@
     "videoUrl": null
   },
   {
-    "id": 18,
+    "id": 27,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-04-13",
@@ -862,7 +862,7 @@
     "videoUrl": null
   },
   {
-    "id": 19,
+    "id": 28,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-04-30",
@@ -898,7 +898,7 @@
     "videoUrl": null
   },
   {
-    "id": 20,
+    "id": 29,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-05-01",
@@ -929,7 +929,7 @@
     "videoUrl": null
   },
   {
-    "id": 21,
+    "id": 30,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-05-04",
@@ -960,7 +960,7 @@
     "videoUrl": null
   },
   {
-    "id": 22,
+    "id": 31,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-05-15",
@@ -996,7 +996,7 @@
     "videoUrl": null
   },
   {
-    "id": 23,
+    "id": 32,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-05-29",
@@ -1027,7 +1027,7 @@
     "videoUrl": null
   },
   {
-    "id": 24,
+    "id": 33,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-06-01",
@@ -1058,7 +1058,7 @@
     "videoUrl": null
   },
   {
-    "id": 25,
+    "id": 34,
     "type": "airstrike",
     "title": "Strike on IRGC Command Center",
     "location": "Tehran, Iran",
@@ -1094,7 +1094,7 @@
     "videoUrl": null
   },
   {
-    "id": 26,
+    "id": 35,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-06-17",
@@ -1130,7 +1130,7 @@
     "videoUrl": null
   },
   {
-    "id": 27,
+    "id": 36,
     "type": "missile",
     "title": "Ballistic Missile Strike on Tel Aviv",
     "location": "Tel Aviv, Israel",
@@ -1166,7 +1166,7 @@
     "videoUrl": null
   },
   {
-    "id": 28,
+    "id": 37,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-06-19",
@@ -1202,7 +1202,7 @@
     "videoUrl": null
   },
   {
-    "id": 29,
+    "id": 38,
     "type": "naval",
     "title": "US Navy Carrier Group Deployment",
     "location": "Strait of Hormuz",
@@ -1238,7 +1238,7 @@
     "videoUrl": null
   },
   {
-    "id": 30,
+    "id": 39,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-06-20",
@@ -1269,7 +1269,7 @@
     "videoUrl": null
   },
   {
-    "id": 31,
+    "id": 40,
     "type": "drone",
     "title": "Drone Strike on Nuclear Facility",
     "location": "Natanz, Iran",
@@ -1310,7 +1310,7 @@
     "videoUrl": null
   },
   {
-    "id": 32,
+    "id": 41,
     "type": "cyber",
     "title": "Cyber Attack on Iranian Oil Infrastructure",
     "location": "Kharg Island, Iran",
@@ -1346,7 +1346,7 @@
     "videoUrl": null
   },
   {
-    "id": 33,
+    "id": 42,
     "type": "airstrike",
     "title": "Retaliatory Strike on US Base",
     "location": "Al Asad Airbase, Iraq",
@@ -1382,7 +1382,7 @@
     "videoUrl": null
   },
   {
-    "id": 34,
+    "id": 43,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-06-27",
@@ -1413,7 +1413,7 @@
     "videoUrl": null
   },
   {
-    "id": 35,
+    "id": 44,
     "type": "naval",
     "title": "IRGC Speedboat Harassment",
     "location": "Persian Gulf",
@@ -1449,7 +1449,7 @@
     "videoUrl": null
   },
   {
-    "id": 36,
+    "id": 45,
     "type": "airstrike",
     "title": "Strike on IRGC Missile Sites",
     "location": "Bushehr, Iran",
@@ -1490,7 +1490,7 @@
     "videoUrl": null
   },
   {
-    "id": 37,
+    "id": 46,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-03",
@@ -1526,7 +1526,7 @@
     "videoUrl": null
   },
   {
-    "id": 38,
+    "id": 47,
     "type": "drone",
     "title": "IRGC Drone Overflight of US Assets",
     "location": "Eastern Mediterranean",
@@ -1557,7 +1557,7 @@
     "videoUrl": null
   },
   {
-    "id": 39,
+    "id": 48,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-07",
@@ -1588,7 +1588,7 @@
     "videoUrl": null
   },
   {
-    "id": 40,
+    "id": 49,
     "type": "cyber",
     "title": "Iranian Cyber Attack on US Power Grid",
     "location": "Multiple US Sites",
@@ -1629,7 +1629,7 @@
     "videoUrl": null
   },
   {
-    "id": 41,
+    "id": 50,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-09",
@@ -1660,7 +1660,7 @@
     "videoUrl": null
   },
   {
-    "id": 42,
+    "id": 51,
     "type": "airstrike",
     "title": "US Strike on IRGC Navy HQ",
     "location": "Bandar Abbas, Iran",
@@ -1696,7 +1696,7 @@
     "videoUrl": null
   },
   {
-    "id": 43,
+    "id": 52,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-11",
@@ -1727,7 +1727,7 @@
     "videoUrl": null
   },
   {
-    "id": 44,
+    "id": 53,
     "type": "missile",
     "title": "Iranian Ballistic Missile Strike on Erbil",
     "location": "Erbil, Iraq",
@@ -1763,7 +1763,7 @@
     "videoUrl": null
   },
   {
-    "id": 45,
+    "id": 54,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-17",
@@ -1794,7 +1794,7 @@
     "videoUrl": null
   },
   {
-    "id": 46,
+    "id": 55,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-21",
@@ -1830,7 +1830,7 @@
     "videoUrl": null
   },
   {
-    "id": 47,
+    "id": 56,
     "type": "airstrike",
     "title": "US Strike on Yazd Military Site",
     "location": "Yazd, Iran",
@@ -1861,7 +1861,7 @@
     "videoUrl": null
   },
   {
-    "id": 48,
+    "id": 57,
     "type": "airstrike",
     "title": "Strikes on Multiple Iranian Cities",
     "location": "Ahvaz, Andimeshk, Khorramabad, Iran",
@@ -1892,7 +1892,7 @@
     "videoUrl": null
   },
   {
-    "id": 49,
+    "id": 58,
     "type": "airstrike",
     "title": "Strike on IRGC Navy HQ — Zibakenar, Gilan",
     "location": "Zibakenar, Gilan, Iran",
@@ -1923,7 +1923,7 @@
     "videoUrl": null
   },
   {
-    "id": 50,
+    "id": 59,
     "type": "airstrike",
     "title": "Casualties in Bandar Abbas & Khorramabad Strikes",
     "location": "Bandar Abbas & Khorramabad, Iran",
@@ -1959,7 +1959,7 @@
     "videoUrl": null
   },
   {
-    "id": 51,
+    "id": 60,
     "type": "missile",
     "title": "Iranian Strike on Sheikh Isa Air Base",
     "location": "Sheikh Isa Air Base, Bahrain",
@@ -1995,7 +1995,7 @@
     "videoUrl": null
   },
   {
-    "id": 52,
+    "id": 61,
     "type": "missile",
     "title": "Iranian Strike on Muwaffaq al Salti Air Base",
     "location": "Muwaffaq al Salti Air Base, Jordan",
@@ -2031,7 +2031,7 @@
     "videoUrl": null
   },
   {
-    "id": 53,
+    "id": 62,
     "type": "missile",
     "title": "Iranian Strikes on US Bases in Kuwait",
     "location": "Camp Buehring, Camp Doha, Camp Arifjan, Kuwait",
@@ -2067,7 +2067,7 @@
     "videoUrl": null
   },
   {
-    "id": 54,
+    "id": 63,
     "type": "drone",
     "title": "IRGC Drone Strike on Ali Al Salem Air Base",
     "location": "Ali Al Salem Air Base, Kuwait",
@@ -2103,7 +2103,7 @@
     "videoUrl": null
   },
   {
-    "id": 55,
+    "id": 64,
     "type": "drone",
     "title": "IRGC Follow-Up Strike on Amazon Data Center",
     "location": "Bahrain",
@@ -2139,7 +2139,7 @@
     "videoUrl": null
   },
   {
-    "id": 56,
+    "id": 65,
     "type": "naval",
     "title": "CENTCOM Naval Blockade — 12 Ships Prevented",
     "location": "Persian Gulf / Strait of Hormuz",
@@ -2175,7 +2175,7 @@
     "videoUrl": null
   },
   {
-    "id": 57,
+    "id": 66,
     "type": "airstrike",
     "title": "Iranian Air Defense Interception — Kahnooj",
     "location": "Kahnooj, Kerman, Iran",
@@ -2206,7 +2206,7 @@
     "videoUrl": "https://t.me/FotrosResistancee"
   },
   {
-    "id": 58,
+    "id": 67,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-23",
@@ -2242,7 +2242,7 @@
     "videoUrl": null
   },
   {
-    "id": 59,
+    "id": 68,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-23",
@@ -2273,7 +2273,7 @@
     "videoUrl": "https://t.me/SimurghRes"
   },
   {
-    "id": 60,
+    "id": 69,
     "type": "airstrike",
     "title": "US Strike on Naeen, Isfahan Province",
     "location": "Naeen, Isfahan, Iran",
@@ -2309,7 +2309,7 @@
     "videoUrl": null
   },
   {
-    "id": 61,
+    "id": 70,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2345,7 +2345,7 @@
     "videoUrl": null
   },
   {
-    "id": 62,
+    "id": 71,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2376,7 +2376,7 @@
     "videoUrl": null
   },
   {
-    "id": 63,
+    "id": 72,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2412,7 +2412,7 @@
     "videoUrl": null
   },
   {
-    "id": 64,
+    "id": 73,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2443,7 +2443,7 @@
     "videoUrl": "https://t.me/enemywatch/60325"
   },
   {
-    "id": 65,
+    "id": 74,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2474,7 +2474,7 @@
     "videoUrl": null
   },
   {
-    "id": 66,
+    "id": 75,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2510,7 +2510,7 @@
     "videoUrl": null
   },
   {
-    "id": 67,
+    "id": 76,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2541,7 +2541,7 @@
     "videoUrl": null
   },
   {
-    "id": 68,
+    "id": 77,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2577,7 +2577,7 @@
     "videoUrl": null
   },
   {
-    "id": 69,
+    "id": 78,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2613,7 +2613,7 @@
     "videoUrl": null
   },
   {
-    "id": 70,
+    "id": 79,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2649,7 +2649,7 @@
     "videoUrl": null
   },
   {
-    "id": 71,
+    "id": 80,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2680,7 +2680,7 @@
     "videoUrl": null
   },
   {
-    "id": 72,
+    "id": 81,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2711,7 +2711,7 @@
     "videoUrl": null
   },
   {
-    "id": 73,
+    "id": 82,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2742,7 +2742,7 @@
     "videoUrl": null
   },
   {
-    "id": 74,
+    "id": 83,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2778,7 +2778,7 @@
     "videoUrl": "https://t.me/SimurghRes/8036"
   },
   {
-    "id": 75,
+    "id": 84,
     "type": "airstrike",
     "status": "disputed",
     "date": "2026-07-24",
@@ -2814,7 +2814,7 @@
     "videoUrl": "https://t.me/SimurghRes/8034"
   },
   {
-    "id": 76,
+    "id": 85,
     "type": "cyber",
     "status": "disputed",
     "date": "2026-07-24",
@@ -2845,7 +2845,7 @@
     "videoUrl": null
   },
   {
-    "id": 77,
+    "id": 86,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2886,7 +2886,7 @@
     "videoUrl": null
   },
   {
-    "id": 78,
+    "id": 87,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2922,7 +2922,7 @@
     "videoUrl": null
   },
   {
-    "id": 79,
+    "id": 88,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2953,7 +2953,7 @@
     "videoUrl": null
   },
   {
-    "id": 80,
+    "id": 89,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2984,7 +2984,7 @@
     "videoUrl": null
   },
   {
-    "id": 81,
+    "id": 90,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -3015,7 +3015,7 @@
     "videoUrl": null
   },
   {
-    "id": 82,
+    "id": 91,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -3046,7 +3046,7 @@
     "videoUrl": null
   },
   {
-    "id": 83,
+    "id": 92,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -3077,7 +3077,7 @@
     "videoUrl": null
   },
   {
-    "id": 84,
+    "id": 93,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -3108,7 +3108,7 @@
     "videoUrl": null
   },
   {
-    "id": 85,
+    "id": 94,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -3139,7 +3139,7 @@
     "videoUrl": null
   },
   {
-    "id": 94,
+    "id": 95,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -3305,6 +3305,228 @@
       "other": 1
     },
     "description": "Saudi Arabia launched airstrike on Hodeidah port, Yemen. 1 person injured. Yemen Ansarallah vowed a violent response and launched retaliatory missile and drone attacks on Saudi cities including Jizan, Yanbu, and Dhahran. Yemeni Foreign Ministry: the equation of escalation for escalation is now the defining feature.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 100,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-27",
+    "time": "TBD",
+    "title": "Iran Threatens to Strike Damascus Hotels Hosting US Personnel",
+    "location": "Damascus, Syria",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iran threatened to strike three sites in Damascus that allegedly hosted or supported US units: the Four Seasons Hotel, the Sheraton Damascus Hotel, and the People Palace. Syria was pressured by US to militarily intervene in Lebanon but refused.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 101,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-31",
+    "time": "TBD",
+    "title": "Explosions in Damascus as Israeli Air Defenses Intercept Iranian Missiles",
+    "location": "Damascus, Syria",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/explosions-heard-syrias-damascus-result-israel-intercepting-iranian-missiles-2026-03-31/",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Explosions heard in the Syrian capital Damascus as Israeli air defenses intercepted Iranian missiles over Syrian territory. Syrian state television reported the interceptions. Iranian missiles directed toward Turkey had been shot down by NATO forces over Syria.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 102,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-28",
+    "time": "TBD",
+    "title": "Iranian Missile Debris Kills 4 in Suwayda, Injures 4 in Ein Tarma",
+    "location": "Suwayda / Ein Tarma, Syria",
+    "coordinates": [
+      33.45,
+      36.35
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 8
+    },
+    "description": "4 killed by Iranian missile debris in Suwayda, Syria. 4 injured by missile debris in Ein Tarma, Syria. Syrian civilian casualties from missiles intercepted over Syrian territory during the Iran war.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 103,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-04-01",
+    "time": "TBD",
+    "title": "Hezbollah Strikes Syrian Army Positions After Syria Refuses US Intervention Request",
+    "location": "Serghaya / Damascus, Syria",
+    "coordinates": [
+      33.8,
+      36
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Following Syrian presidency support for disarmament of Hezbollah and Syrian army mobilization on Lebanese border, shells from Lebanon landed in Serghaya, 20km from Damascus. Hezbollah struck Syrian army positions. Syria had refused US pressure to militarily intervene in Lebanon alongside IDF.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 104,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-17",
+    "time": "TBD",
+    "title": "Israeli Strikes Hit Syrian Military Infrastructure in Southern Syria",
+    "location": "Southern Syria",
+    "coordinates": [
+      33,
+      36
+    ],
+    "sources": [
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cp90l77187zo",
+        "type": "news"
+      },
+      {
+        "name": "Arab News",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Israel conducted strikes on Syrian military infrastructure in southern Syria. Defence Minister Israel Katz: The warnings in Damascus had ended and Israeli military would continue to operate in Suweida. A TV presenter was seen diving under a desk live on camera as an Israeli air strike hit near the Syrian defense ministry entrance in Umayyad Square, Damascus.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 105,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-22",
+    "time": "TBD",
+    "title": "Satellite Imagery Confirms Iranian Strike on King Faisal Air Base, Jordan",
+    "location": "King Faisal Air Base, Jordan",
+    "coordinates": [
+      30,
+      36
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60182",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Satellite imagery shows an aircraft hangar at King Faisal Air Base in Jordan was struck during Iranian attacks. Images show extensive damage to the base with fire and large plumes of smoke rising following a precise Iranian strike.",
+    "satelliteImage": "https://t.me/enemywatch/60182",
+    "videoUrl": null
+  },
+  {
+    "id": 106,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-22",
+    "time": "Overnight",
+    "title": "12th Consecutive Night of US Strikes - Sirik, Bushehr, Ahvaz, Tabriz, Larak Island Hit",
+    "location": "Sirik, Bushehr, Ahvaz, Ramshir, Mahshahr, Tabriz, Andimeshk, Zanjan, Iran",
+    "coordinates": [
+      28,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60193",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "12th consecutive night of US aggression against Iran. Broad wave of strikes across multiple provinces: Sirik targeted at least 6 times, Bushehr at least 4 times, Ahvaz at least 6 times, Ramshir at least 4 times, Bandar-e Mahshahr at least 3 times, Tabriz at least 2 times, Andimeshk at least 2 times. Shalamcheh border crossing, Bandar-e Anzali, Larak Island, Ziarat-e Sirik naval outpost, and Zanjan each targeted at least once. Smoke and large fires observed at multiple locations.",
     "satelliteImage": null,
     "videoUrl": null
   }
