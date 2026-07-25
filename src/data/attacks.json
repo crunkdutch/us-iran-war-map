@@ -3529,5 +3529,160 @@
     "description": "12th consecutive night of US aggression against Iran. Broad wave of strikes across multiple provinces: Sirik targeted at least 6 times, Bushehr at least 4 times, Ahvaz at least 6 times, Ramshir at least 4 times, Bandar-e Mahshahr at least 3 times, Tabriz at least 2 times, Andimeshk at least 2 times. Shalamcheh border crossing, Bandar-e Anzali, Larak Island, Ziarat-e Sirik naval outpost, and Zanjan each targeted at least once. Smoke and large fires observed at multiple locations.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 107,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-05-15",
+    "time": "TBD",
+    "title": "Massive Iranian Strike on Saudi Energy Infrastructure - Pipeline, Refineries, Processing Plants Hit",
+    "location": "Multiple sites, Saudi Arabia",
+    "coordinates": [
+      25,
+      47
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/53982",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Saudi Arabia reported massive attacks on energy infrastructure. East-West Pipeline pumping station lost ~700,000 bpd throughput. Manifa Production Facility reduced by 300,000 bpd. Khurais Facility reduced by 300,000 bpd. SATORP Refinery (Jubail), Ras Tanura Refinery, SAMREF Refinery (Yanbu), Riyadh Refinery, and Juaymah Processing Facilities all hit. Fires impacting LPG and NGL exports.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 108,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-05-10",
+    "time": "Early morning",
+    "title": "Iranian Army Drones Strike Rafael Industries in Haifa, IAI Near Ben Gurion Airport",
+    "location": "Haifa / Ben Gurion Airport, Israel",
+    "coordinates": [
+      32.0094,
+      34.8861
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/51987",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Army of the Islamic Republic of Iran targeted Rafael weapons industries in Haifa, Israel Aerospace Industries (IAI) near Ben Gurion Airport, and refueling aircraft at the airport with drone attacks. Rafael is responsible for Iron Dome and David Sling production. Multiple attack drones launched since early morning.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 109,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-05-09",
+    "time": "TBD",
+    "title": "Hezbollah Strikes Givat Base East of Safad with Qualitative Missiles",
+    "location": "Givat Base / Safad, Northern Israel",
+    "coordinates": [
+      32.9786,
+      35.4958
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/51985",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah targeted the Givat base east of Safad, Israel with a barrage of qualitative missiles. Attack included drone control base targeting. Video footage released showing impact on occupied city of Safad.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 110,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-05-08",
+    "time": "TBD",
+    "title": "IRGC Destroys 2 AGM-158 Cruise Missiles Near Tehran Using Advanced Defense Systems",
+    "location": "Tehran vicinity, Iran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/51997",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC announced destruction of two AGM-158 cruise missiles in the vicinity of Tehran using new advanced defense systems under the control of the integrated air defense network.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 111,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-05-07",
+    "time": "TBD",
+    "title": "Hezbollah Massive Rocket Barrage - 1,175 Launches in Escalation",
+    "location": "Multiple sites across Israel",
+    "coordinates": [
+      33,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/53984",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah launched massive rocket barrage toward Misgav Am settlements with launches exceeding previous levels. Zionist command data: 850 launches (0-5km), 314 launches (5-40km), 9 launches (40-140km), 2 launches (120-180km). Total: 1,175 missile operations. Launches occurring simultaneously and in rapid succession.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]
