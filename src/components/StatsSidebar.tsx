@@ -316,9 +316,9 @@ function StatsContent({ stats }: { stats: any }) {
           <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>drones launched</span>
         </div>
         <div style={{ display: 'flex', gap: 12, marginTop: 2 }}>
-          <BadgeSmall value={stats.fpvHits} label="HITS" color="var(--accent-amber)" />
-          <BadgeSmall value={stats.fpvKilled} label="KILLED" color="var(--accent-red)" />
-          <BadgeSmall value={"$" + stats.fpvCost} label="PER DRONE" color="var(--accent-cyan)" />
+          <span style={{ fontSize: 14, fontWeight: 700, color: "var(--accent-amber)" }}>{stats.fpvHits}</span><span style={{ fontSize: 7, color: "var(--text-dim)", marginLeft: 2, letterSpacing: 1 }}>HITS</span>
+          <span style={{ fontSize: 14, fontWeight: 700, color: "var(--accent-red)" }}>{stats.fpvKilled}</span><span style={{ fontSize: 7, color: "var(--text-dim)", marginLeft: 2, letterSpacing: 1 }}>KILLED</span>
+          <span style={{ fontSize: 14, fontWeight: 700, color: "var(--accent-cyan)" }}>{"$" + stats.fpvCost}</span><span style={{ fontSize: 7, color: "var(--text-dim)", marginLeft: 2, letterSpacing: 1 }}>PER DRONE</span>
         </div>
         <div style={{ fontSize: 8, color: 'var(--text-dim)', marginTop: 4 }}>
           Fiber-optic FPV - jam-proof, no EM signature
