@@ -43,6 +43,8 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     const byType: Record<string, number> = {}
     const byStatus: Record<string, number> = {}
     let iranMil = 0, iranCiv = 0, usMil = 0, usCiv = 0, kurdish = 0, other = 0
+    let interceptorFailures = 0
+    const interceptorKeywords = /interceptor|patriot.*fail|missed.*intercept|failed.*intercept|malfunction|missile defense.*confus|not.*intercept|pac-3|air defense.*fail|intercept.*fell|interceptor.*inside/i
     for (const a of attacks) {
       byType[a.type] = (byType[a.type] || 0) + 1
       byStatus[a.status] = (byStatus[a.status] || 0) + 1
@@ -52,9 +54,15 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
       usCiv += a.casualties.us_civ || 0
       kurdish += a.casualties.kurdish || 0
       other += a.casualties.other || 0
+      if (interceptorKeywords.test(a.description)) interceptorFailures++
     }
-    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length }
-  }, [attacks])
+    // Also check sitreps
+    let sitrepInterceptors = 0
+    for (const s of sitreps) {
+      if (interceptorKeywords.test(s.description)) sitrepInterceptors++
+    }
+    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors }
+  }, [attacks, sitreps])
 
   const filteredStatements = useMemo(() => {
     if (stmtFilter === 'all') return allStatements
@@ -217,6 +225,33 @@ function StatsContent({ stats }: { stats: any }) {
           <span style={{ color: 'var(--text-bright)' }}>{count as number}</span>
         </div>
       ))}
+
+      {/* ── Air Defense Interceptor Failure Stat ── */}
+      <div style={{
+        marginTop: 12, paddingTop: 10,
+        borderTop: '1px solid var(--border-color)',
+      }}>
+        <div style={{ fontSize: 8, color: 'var(--accent-amber)', letterSpacing: 1, marginBottom: 4 }}>
+          AIR DEFENSE FAILURES
+        </div>
+        <div style={{ display: 'flex', gap: 8, alignItems: 'baseline' }}>
+          <span style={{ fontSize: 18, fontWeight: 700, color: 'var(--accent-amber)', fontFamily: 'var(--font-mono)' }}>
+            {stats.interceptorFailures}
+          </span>
+          <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>
+            attacks
+          </span>
+          <span style={{ fontSize: 12, fontWeight: 600, color: 'var(--accent-cyan)' }}>
+            +{stats.sitrepInterceptors}
+          </span>
+          <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>
+            reports
+          </span>
+        </div>
+        <div style={{ fontSize: 8, color: 'var(--text-dim)', marginTop: 2 }}>
+          Patriot / PAC-3 / air defense malfunctions
+        </div>
+      </div>
     </div>
   </>)
 }
