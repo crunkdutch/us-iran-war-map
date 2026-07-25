@@ -3684,5 +3684,67 @@
     "description": "Hezbollah launched massive rocket barrage toward Misgav Am settlements with launches exceeding previous levels. Zionist command data: 850 launches (0-5km), 314 launches (5-40km), 9 launches (40-140km), 2 launches (120-180km). Total: 1,175 missile operations. Launches occurring simultaneously and in rapid succession.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 112,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-06-05",
+    "time": "TBD",
+    "title": "Israeli Helicopter Force Infiltrates Nabi Sheet - Hezbollah Engages with 40 Strikes",
+    "location": "Nabi Sheet / Jafouf / Maaraboun, Lebanon",
+    "coordinates": [
+      33.8833,
+      36.1333
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator/30000",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "4 Israeli helicopters crossed from Syria and dropped infantry at Jafouf triangle near Nabi Sheet, Lebanon. Infantry advanced toward Nabi Sheet cemetery. Hezbollah engaged with light/medium weapons. Clash escalated with ~40 Israeli airstrikes. Hezbollah artillery provided concentrated fire. Residents of nearby villages participated in fire support. Israeli force withdrew under heavy fire.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 113,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-05-25",
+    "time": "TBD",
+    "title": "Iran Reopens Underground Missile Facilities Within Weeks of US Strikes",
+    "location": "Multiple underground sites, Iran",
+    "coordinates": [
+      32,
+      54
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator/34000",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Despite intensive US bombing, Iran reopened underground missile facilities within weeks, restoring access roads, tunnel entrances, and production capacity. Demonstrates resilience of Iranian military infrastructure against sustained aerial campaign.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]

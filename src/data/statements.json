@@ -530,5 +530,47 @@
     "url": "https://t.me/SimurghRes/8049",
     "sourceChannel": "SimurghRes",
     "confidence": "confirmed"
+  },
+  {
+    "id": 39,
+    "source": "CENTCOM",
+    "sourceLabel": "NYT / MES",
+    "type": "official",
+    "date": "2026-07-22",
+    "time": "TBD",
+    "title": "Nearly 100 US Personnel Injured in Iran Attacks Since July - 50 in Jordan",
+    "summary": "NYT reporting ~100 US service members injured in Iranian missile/drone attacks since early July, ~50 from Jordan attacks.",
+    "quote": "Nearly a dozen U.S. service members injured in Iranian missile and drone attacks in Jordan and other countries this month were evacuated to a U.S. military hospital in Germany for treatment. Around 100 U.S. personnel have been injured since early July, with most suffering mild concussions and already returning to duty. Roughly 50 of the injuries occurred in recent attacks on U.S. bases in Jordan.",
+    "url": "https://t.me/Middle_East_Spectator/35383",
+    "sourceChannel": "Middle East Spectator",
+    "confidence": "confirmed"
+  },
+  {
+    "id": 40,
+    "source": "CENTCOM",
+    "sourceLabel": "President Trump",
+    "type": "official",
+    "date": "2026-07-23",
+    "time": "TBD",
+    "title": "Trump: We Destroyed 98-99% of Iran Missiles and Drones",
+    "summary": "Trump claimed US destroyed 98-99% of Iranian missiles and drones, and that Iran has nothing left.",
+    "quote": "We have destroyed Iran navy, air force, radar, air defense, they have nothing. We destroyed 98%—some say 99%—of their missiles and drones, they may have some but they do not have a lot. We are winning very strongly.",
+    "url": "https://t.me/Middle_East_Spectator/35295",
+    "sourceChannel": "Middle East Spectator",
+    "confidence": "disputed"
+  },
+  {
+    "id": 41,
+    "source": "Khatam al Anbiya",
+    "sourceLabel": "Iranian Intelligence (CNN/MES)",
+    "type": "official",
+    "date": "2026-05-20",
+    "time": "TBD",
+    "title": "Iran Imports 2,000 Tons of Missile Fuel Sodium Perchlorite from China",
+    "summary": "Iran importing enough sodium perchlorite for 500 ballistic missiles from China despite UN sanctions.",
+    "quote": "Iran is quietly but rapidly restoring its ballistic missile arsenal, and has imported at least 2,000 tons of sodium perchlorite from China despite UN sanctions. Sodium perchlorite is an essential element in producing missile fuel, and 2,000 tons would be enough for up to 500 ballistic missiles.",
+    "url": "https://t.me/Middle_East_Spectator/24979",
+    "sourceChannel": "Middle East Spectator",
+    "confidence": "confirmed"
   }
 ]
