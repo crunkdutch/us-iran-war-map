@@ -1,5 +1,779 @@
 [
   {
+    "id": 50,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "Dawn",
+    "title": "Operation Epic Fury - US & Israel Strike Iran, Khamenei Killed",
+    "location": "Multiple sites, Iran",
+    "coordinates": [
+      32.5,
+      54
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+        "type": "news"
+      },
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 200,
+      "iranian_civ": 50,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US and Israel launched coordinated airstrikes on Iran under Operation Epic Fury. Targets included military facilities, nuclear sites, and leadership. Supreme Leader Ali Khamenei killed. Iran responded with missile barrages on Israeli cities and US bases in UAE, Qatar, and Bahrain. Hezbollah launched rockets into Israel from Lebanon. Strait of Hormuz effectively closed. Over 200 IRGC personnel killed, 50+ civilian casualties.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 51,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-01",
+    "time": "TBD",
+    "title": "IRGC Attacks Multiple Tankers - Skylight & MKD Vyom Abandoned",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 3
+    },
+    "description": "IRGC attacked multiple vessels on March 1. Tanker Skylight (Palau-flagged) abandoned - 2 crew killed including captain. Tanker MKD Vyom (Marshall Islands) abandoned - 1 crew killed. Hercules Star (Gibraltar) and Ocean Electra (Liberia) sustained minor damage. LCT Ayeh (UAE) damaged.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 52,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-02",
+    "time": "TBD",
+    "title": "More Tankers Hit - Stena Imperative, Athe Nova, Gold Oak Damaged",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC continued attacks on commercial shipping. Stena Imperative (US-flagged products tanker), Athe Nova (Honduras bitumen tanker), and Gold Oak (Panama bulk carrier) all damaged. Tanker traffic through strait dropped near zero.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 70,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-02",
+    "time": "TBD",
+    "title": "Hezbollah Opens Northern Front - Rockets at Haifa, 52 Killed in Israeli Retaliation",
+    "location": "Lebanon-Israel Border / Haifa",
+    "coordinates": [
+      33,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 52
+    },
+    "description": "Hezbollah fired projectiles toward Israel from Lebanon in response to Khamenei killing. Targeted Mishmar HaCarmel missile defence site near Haifa. Israeli retaliatory strikes killed at least 52 and injured 154. Hezbollah intelligence chief Hussain Makled killed. Lebanon banned Hezbollah military activities.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 71,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-03",
+    "time": "TBD",
+    "title": "IDF Strikes Beirut - Hezbollah Hits Ramat David Airbase with Drones",
+    "location": "Beirut, Lebanon / Ramat David Airbase, Israel",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IDF carried out airstrikes on Beirut and deployed soldiers to southern Lebanon. Hezbollah conducted drone and missile attacks on Ramat David Airbase, Meron monitoring base, and Camp Yitzhak. Israeli ground forces entered southern Lebanon.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 53,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-04",
+    "time": "TBD",
+    "title": "Iran Formally Declares Strait of Hormuz Closed",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iran formally announced Strait of Hormuz was closed and threatened to attack any ship attempting to pass. MSC Grace container ship (Liberia) and Safeen Prestige container ship (Malta) attacked. Sonangol Namibe oil tanker (Bahamas) damaged. Shipping insurance rates increased 4-6x.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 54,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-06",
+    "time": "TBD",
+    "title": "IRGC Sinks UAE Tugboat Mussafah 2 - 4 Crew Killed",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 4
+    },
+    "description": "UAE-flagged tugboat Mussafah 2 sunk by IRGC in the Strait of Hormuz. 4 crew members killed. First vessel completely destroyed in the conflict.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 55,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-08",
+    "time": "TBD",
+    "title": "Brent Crude Tops $100/Barrel - Largest Oil Price Spike in Decades",
+    "location": "Global Markets",
+    "coordinates": [
+      35,
+      50
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Brent crude oil prices surpassed $100 per barrel for the first time in four years - the fastest oil price increase during any conflict in recent history. Prices would eventually peak at $126/barrel. Largest disruption to world energy supply since 1970s energy crisis. US national gas price approaching $4/gal.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 56,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-11",
+    "time": "TBD",
+    "title": "Mass Tanker Attacks - Mayuree Naree, Safesea Vishnu, Zefyros Struck",
+    "location": "Strait of Hormuz / Gulf of Oman",
+    "coordinates": [
+      25.5,
+      57.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 4
+    },
+    "description": "Multiple ships attacked on same day. Mayuree Naree (Thailand bulk carrier) - aground, 3 crew killed. One Majesty (Japan container ship) - minor damage. Star Gwyneth (Marshall Islands bulk carrier) - damaged. Safesea Vishnu (Marshall Islands oil tanker) - set ablaze, abandoned, 1 crew killed. Zefyros (Malta oil tanker) - set ablaze and abandoned.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 72,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-11",
+    "time": "TBD",
+    "title": "Hezbollah Fires 200 Rockets at Israel in Single Day",
+    "location": "Northern Israel",
+    "coordinates": [
+      32.8,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah fired 200 rockets at Israel in a single day. IDF said 80 failed to enter Israeli territory and it prevented launch of 400 additional rockets. Total Lebanese death toll since escalation: 634 killed, 1,586 wounded.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 73,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-13",
+    "time": "TBD",
+    "title": "Israeli Strike Kills 12 Medics - Zrarieh Bridge Destroyed",
+    "location": "Burj Qalaouiyah / Litani River, Lebanon",
+    "coordinates": [
+      33.3,
+      35.4
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 12
+    },
+    "description": "Israeli strike on healthcare facility in Burj Qalaouiyah killed 12 medics and injured another. Israel destroyed the Zrarieh Bridge over the Litani River, citing its use in Hezbollah movement. IDF said it killed two senior Hezbollah Badr Unit commanders. Total Lebanese death toll: 773.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 80,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-03-22",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Strikes IDF Forces at Maroun al-Ras - First FPV Attack",
+    "location": "Maroun al-Ras, Southern Lebanon",
+    "coordinates": [
+      33.1,
+      35.45
+    ],
+    "sources": [
+      {
+        "name": "Alma Research",
+        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
+        "type": "analyst"
+      },
+      {
+        "name": "Hezbollah Military Media",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah launched its first documented FPV explosive drone attack of the war against IDF forces near Maroun al-Ras in south Lebanon. The attack marked the introduction of fiber-optic FPV drones as a primary tactic. Hezbollah published video of the operation. Cost asymmetry: $300-$400 drone vs millions in Israeli equipment.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 57,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-03-27",
+    "time": "TBD",
+    "title": "IRGC Expands Strait Ban to US, Israel, and Allies",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC announced Strait of Hormuz closed to any vessel going to and from ports of US, Israel, and their allies. Trump threatened to destroy Iran infrastructure if strait not reopened. Expressed interest in renaming it.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 68,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-03-31",
+    "time": "TBD",
+    "title": "IRGC Designates 18 US Tech Companies as Military Targets",
+    "location": "Tehran, Iran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      },
+      {
+        "name": "Fortune",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC designated 18 US technology companies as legitimate military targets, including Amazon, Microsoft, Google, Apple, and Meta. Fortune described this as the first time data centers have been deliberately targeted for air strikes in a conflict. Led to multiple strikes on AWS infrastructure in Bahrain.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 58,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-04-08",
+    "time": "TBD",
+    "title": "Temporary Iran-US Ceasefire Agreed - Strait to Reopen",
+    "location": "Multiple locations",
+    "coordinates": [
+      32.5,
+      48
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Temporary ceasefire between Iran and US agreed. Was to involve reopening of the Strait of Hormuz. Following failure of Islamabad Talks, US Navy began blockade of Iranian ports on April 13, creating dual blockade - US blockading Iran, Iran blockading the Gulf.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 74,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-04-08",
+    "time": "TBD",
+    "title": "Operation Eternal Darkness - Israeli Strikes Kill 89 in Lebanon",
+    "location": "Multiple sites, Lebanon",
+    "coordinates": [
+      33.8,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 89
+    },
+    "description": "Israel launched Operation Eternal Darkness in Lebanon. Coordinated strikes killed 89 people and wounded 700 across Lebanon. Hezbollah launched 35 waves of attacks on April 2. Total Lebanese death toll since start of war: 1,368. IDF working assumption: fighting with Iran will resume.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 81,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-04-12",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Hits Israeli Mobile Command Vehicle - Taybeh",
+    "location": "Taybeh, Southern Lebanon",
+    "coordinates": [
+      33.2833,
+      35.4333
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/evolving-drone-war-southern-lebanon-clouds-iran-peace-prospects-2026-05-12/",
+        "type": "news"
+      },
+      {
+        "name": "Hezbollah Military Media",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah released FPV drone footage showing an Israeli mobile command vehicle moments before being struck near Taybeh, southern Lebanon. The fiber-optic FPV drone evaded electronic warfare jamming systems. Hezbollah published the complete video of the operation.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 59,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-04-13",
+    "time": "TBD",
+    "title": "US Navy Blockades Iranian Ports - Dual Blockade Begins",
+    "location": "Persian Gulf / Iranian Coast",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Following failed Islamabad Talks, US Navy began blockading Iranian ports. The Guardian described it as dual blockade - US Navy blockading Iran while Iran blockaded the Gulf. 20,000 mariners and 2,000 ships stranded in Persian Gulf. Brent crude peaked at $126/barrel.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 82,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-04-30",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Strikes M548 Cargo Carrier at Shomera Artillery Site",
+    "location": "Shomera, Northern Israel",
+    "coordinates": [
+      33.0667,
+      35.2833
+    ],
+    "sources": [
+      {
+        "name": "Times of Israel",
+        "url": "https://www.timesofisrael.com/hunted-by-drones-it-should-have-seen-coming-israels-lebanon-strategy-is-now-at-risk/",
+        "type": "news"
+      },
+      {
+        "name": "Hezbollah Military Media",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah FPV drone struck an M548 cargo carrier at an IDF artillery site near the northern border community of Shomera. Photographs confirmed the hit. The attack demonstrated Hezbollah ability to penetrate Israeli forward artillery positions with loitering FPV munitions.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 83,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-05-01",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Kills 4 IDF Soldiers - Dozens Wounded in Campaign",
+    "location": "Multiple sites, Southern Lebanon",
+    "coordinates": [
+      33.15,
+      35.4
+    ],
+    "sources": [
+      {
+        "name": "Alma Research",
+        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 5
+    },
+    "description": "Hezbollah FPV drone campaign intensified. Over 80 explosive FPV drones launched at IDF forces in southern Lebanon since March 22. Approximately 15 hit their targets, killing 4 soldiers and 1 civilian, and wounding dozens. IDF scrambling to field countermeasures including fragmenting bullets, Smart Shooter systems, and anti-drone rifles.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 60,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-05-04",
+    "time": "TBD",
+    "title": "Operation Project Freedom - US Navy Escorts Merchant Ships",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Operation_Project_Freedom",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Trump launched Operation Project Freedom - a US Navy mission to escort merchant ships out of the Persian Gulf. Iranian military warned this was a ceasefire violation. Paused on May 6 due to great progress toward agreement.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 84,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-05-15",
+    "time": "TBD",
+    "title": "Hezbollah Deploys Fiber-Optic FPV Drones - Completely Jam-Proof",
+    "location": "Southern Lebanon",
+    "coordinates": [
+      33.2,
+      35.45
+    ],
+    "sources": [
+      {
+        "name": "Alma Research",
+        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
+        "type": "analyst"
+      },
+      {
+        "name": "NBC News",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah systematically deployed fiber-optic FPV drones against IDF positions. The optical fiber connects operator to drone with a cable the thickness of dental floss, completely nullifying electronic warfare and spectral jamming. Drone does not emit electromagnetic signal. Detection by electro-optical or acoustic sensors only. Hezbollah has dozens of operators in southern Lebanon.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 69,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-05-29",
+    "time": "TBD",
+    "title": "US Naval Blockade of Iran Lifted - Ceasefire Progress",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US lifted naval blockade of Iranian ports following diplomatic progress toward the Islamabad MOU. Traffic had averaged 6-10 vessels/day during the blockade period. Paved way for the June 17 MOU signing.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 85,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-06-01",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Operations Expand - Shepherd and Flock Tactic Employed",
+    "location": "Southern Lebanon / Northern Israel",
+    "coordinates": [
+      33.15,
+      35.45
+    ],
+    "sources": [
+      {
+        "name": "Alma Research",
+        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah FPV drone tactics evolved to include shepherd and flock model - a central observation drone identifies targets, then directs multiple FPV attack drones. Before launching explosive drone, Hezbollah operatives deploy observation drone to locate and identify target. Launches from inside civilian homes. 5,000 drones seized by Lebanese forces, but thousands more reached Hezbollah.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 1,
     "type": "airstrike",
     "title": "Strike on IRGC Command Center",
@@ -33,6 +807,42 @@
     },
     "description": "Precision strike on IRGC Quds Force command facility in southern Tehran. Building destroyed. High-value target confirmed eliminated.",
     "satelliteImage": "https://t.me/FotrosResistancee",
+    "videoUrl": null
+  },
+  {
+    "id": 61,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-17",
+    "time": "TBD",
+    "title": "Islamabad MOU Signed - Trump & Pezeshkian Agree to End War",
+    "location": "Islamabad, Pakistan",
+    "coordinates": [
+      33.6844,
+      73.0479
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Islamabad_Memorandum",
+        "type": "news"
+      },
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Trump and Iranian President Pezeshkian signed Islamabad Memorandum of Understanding to end the war and blockades of the Strait of Hormuz. Traffic began to normalize. On June 19, Trump announced renewed Israel-Hezbollah ceasefire. However Israel continued strikes in southern Lebanon, and on June 20 Iran closed the strait again.",
+    "satelliteImage": null,
     "videoUrl": null
   },
   {
@@ -72,6 +882,42 @@
     "videoUrl": null
   },
   {
+    "id": 75,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-06-19",
+    "time": "TBD",
+    "title": "Israel-Hezbollah Ceasefire Agreed - Lasted 24 Hours",
+    "location": "Lebanon-Israel Border",
+    "coordinates": [
+      33,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_ceasefire",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Trump announced renewed Israel-Hezbollah ceasefire facilitated by US, Qatar, and Iran. However Israel continued strikes in southern Lebanon, and Iran cited this as a violation of the Islamabad MOU, closing the Strait of Hormuz again on June 20. The Israel-Lebanon ceasefire effectively collapsed within 24 hours.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 3,
     "type": "naval",
     "title": "US Navy Carrier Group Deployment",
@@ -104,6 +950,37 @@
       "other": 0
     },
     "description": "USS Dwight D. Eisenhower carrier strike group entered the Persian Gulf via the Strait of Hormuz. Iranian IRGC Navy vessels shadowing the group.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 62,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-06-20",
+    "time": "TBD",
+    "title": "Iran Re-Closes Strait of Hormuz - Cites Israeli Violations",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Islamabad_Memorandum",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iran closed the Strait of Hormuz again, citing continued Israeli strikes in southern Lebanon as a violation of the Islamabad MOU agreement. US military denied the claims. Tensions rapidly re-escalated into the July crisis.",
     "satelliteImage": null,
     "videoUrl": null
   },
@@ -217,6 +1094,37 @@
       "other": 0
     },
     "description": "IRGC ballistic missiles targeted Al Asad airbase. US Patriot systems intercepted 7 of 9 missiles. Two impacted within base perimeter. No critical infrastructure hit.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 63,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-06-27",
+    "time": "TBD",
+    "title": "US Navy Widens Strait Route Near Oman - Challenges Iran Control",
+    "location": "Strait of Hormuz / Oman",
+    "coordinates": [
+      26,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Joint Maritime Information Center (JMIC) overseen by US Navy announced widened route through Strait of Hormuz near Oman, allowing increased naval traffic in both directions and challenging Iran control over the waterway.",
     "satelliteImage": null,
     "videoUrl": null
   },
@@ -365,6 +1273,37 @@
     "videoUrl": null
   },
   {
+    "id": 64,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-07",
+    "time": "TBD",
+    "title": "Iran Attacks 3 Ships - US Launches 80+ Strikes on Kharg Island",
+    "location": "Strait of Hormuz / Kharg Island, Iran",
+    "coordinates": [
+      29.2352,
+      50.309
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 50,
+      "iranian_civ": 10,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 2
+    },
+    "description": "Iran attacked 3 commercial vessels in the Strait of Hormuz during Khamenei funeral period. CENTCOM launched 80+ retaliatory strikes hitting Kharg Island (Iran primary oil export hub), Bandar Abbas, Sirik, and Qeshm Island. Brent crude jumped 5.6% to above $78. Iran launched drone attacks on Bahrain Isa Air Base. 2 seafarers killed.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 11,
     "type": "cyber",
     "title": "Iranian Cyber Attack on US Power Grid",
@@ -406,6 +1345,37 @@
     "videoUrl": null
   },
   {
+    "id": 65,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-09",
+    "time": "Overnight",
+    "title": "US Strikes Bushehr Nuclear Plant Perimeter - 14 Killed",
+    "location": "Bushehr, Iran",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 14,
+      "iranian_civ": 78,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US airstrike hit perimeter of Iran Bushehr nuclear power plant - first time a nuclear facility struck in conflict. 14 killed, 78 wounded. Iran struck Bahrain, Kuwait, Qatar, and Jordan. Jordan intercepted 8 Iranian missiles - first Iranian strike on Jordan. Trump threatened to strike electric and desalination plants.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 12,
     "type": "airstrike",
     "title": "US Strike on IRGC Navy HQ",
@@ -442,6 +1412,37 @@
     "videoUrl": null
   },
   {
+    "id": 66,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-11",
+    "time": "Overnight",
+    "title": "US Launches 140 Strikes - Largest Package of Conflict",
+    "location": "Multiple sites, Iran",
+    "coordinates": [
+      32.5,
+      54
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "CENTCOM launched 140 strikes - largest single strike package of the conflict. Iran struck Jordan Prince Hassan Air Base, UAE, Bahrain, and Qatar. Iran formally declared Strait of Hormuz closed until further notice.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 13,
     "type": "missile",
     "title": "Iranian Ballistic Missile Strike on Erbil",
@@ -474,6 +1475,37 @@
       "other": 0
     },
     "description": "Multiple Fateh-110 ballistic missiles struck near US consulate facility in Erbil. Missiles intercepted by C-RAM. Debris caused civilian casualties in residential area.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 67,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-17",
+    "time": "TBD",
+    "title": "Infrastructure War Phase Begins - Bridges & Desalination Struck",
+    "location": "Bandar Abbas, Iran / Kuwait",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Hormuz Strait Monitor",
+        "url": "https://hormuzstraitmonitor.com",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 2,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US strikes destroyed bridges and railway lines near Bandar Abbas, severing main road to strait city. Iran struck Shuaiba power/desalination complex in Kuwait. Bunji desalination plant in Jask destroyed, leaving 20 villages without water. Both sides now deliberately striking civilian infrastructure.",
     "satelliteImage": null,
     "videoUrl": null
   },
@@ -1699,832 +2731,6 @@
     "videoUrl": null
   },
   {
-    "id": 50,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-02-28",
-    "time": "Dawn",
-    "title": "Operation Epic Fury - US & Israel Strike Iran, Khamenei Killed",
-    "location": "Multiple sites, Iran",
-    "coordinates": [
-      32.5,
-      54
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
-        "type": "news"
-      },
-      {
-        "name": "Hormuz Strait Monitor",
-        "url": "https://hormuzstraitmonitor.com",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 200,
-      "iranian_civ": 50,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "US and Israel launched coordinated airstrikes on Iran under Operation Epic Fury. Targets included military facilities, nuclear sites, and leadership. Supreme Leader Ali Khamenei killed. Iran responded with missile barrages on Israeli cities and US bases in UAE, Qatar, and Bahrain. Hezbollah launched rockets into Israel from Lebanon. Strait of Hormuz effectively closed. Over 200 IRGC personnel killed, 50+ civilian casualties.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 51,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-03-01",
-    "time": "TBD",
-    "title": "IRGC Attacks Multiple Tankers - Skylight & MKD Vyom Abandoned",
-    "location": "Strait of Hormuz",
-    "coordinates": [
-      26.5,
-      56.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 3
-    },
-    "description": "IRGC attacked multiple vessels on March 1. Tanker Skylight (Palau-flagged) abandoned - 2 crew killed including captain. Tanker MKD Vyom (Marshall Islands) abandoned - 1 crew killed. Hercules Star (Gibraltar) and Ocean Electra (Liberia) sustained minor damage. LCT Ayeh (UAE) damaged.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 52,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-03-02",
-    "time": "TBD",
-    "title": "More Tankers Hit - Stena Imperative, Athe Nova, Gold Oak Damaged",
-    "location": "Strait of Hormuz",
-    "coordinates": [
-      26.5,
-      56.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "IRGC continued attacks on commercial shipping. Stena Imperative (US-flagged products tanker), Athe Nova (Honduras bitumen tanker), and Gold Oak (Panama bulk carrier) all damaged. Tanker traffic through strait dropped near zero.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 53,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-03-04",
-    "time": "TBD",
-    "title": "Iran Formally Declares Strait of Hormuz Closed",
-    "location": "Strait of Hormuz",
-    "coordinates": [
-      26.5,
-      56.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Iran formally announced Strait of Hormuz was closed and threatened to attack any ship attempting to pass. MSC Grace container ship (Liberia) and Safeen Prestige container ship (Malta) attacked. Sonangol Namibe oil tanker (Bahamas) damaged. Shipping insurance rates increased 4-6x.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 54,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-03-06",
-    "time": "TBD",
-    "title": "IRGC Sinks UAE Tugboat Mussafah 2 - 4 Crew Killed",
-    "location": "Strait of Hormuz",
-    "coordinates": [
-      26.5,
-      56.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 4
-    },
-    "description": "UAE-flagged tugboat Mussafah 2 sunk by IRGC in the Strait of Hormuz. 4 crew members killed. First vessel completely destroyed in the conflict.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 55,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-03-08",
-    "time": "TBD",
-    "title": "Brent Crude Tops $100/Barrel - Largest Oil Price Spike in Decades",
-    "location": "Global Markets",
-    "coordinates": [
-      35,
-      50
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Brent crude oil prices surpassed $100 per barrel for the first time in four years - the fastest oil price increase during any conflict in recent history. Prices would eventually peak at $126/barrel. Largest disruption to world energy supply since 1970s energy crisis. US national gas price approaching $4/gal.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 56,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-03-11",
-    "time": "TBD",
-    "title": "Mass Tanker Attacks - Mayuree Naree, Safesea Vishnu, Zefyros Struck",
-    "location": "Strait of Hormuz / Gulf of Oman",
-    "coordinates": [
-      25.5,
-      57.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 4
-    },
-    "description": "Multiple ships attacked on same day. Mayuree Naree (Thailand bulk carrier) - aground, 3 crew killed. One Majesty (Japan container ship) - minor damage. Star Gwyneth (Marshall Islands bulk carrier) - damaged. Safesea Vishnu (Marshall Islands oil tanker) - set ablaze, abandoned, 1 crew killed. Zefyros (Malta oil tanker) - set ablaze and abandoned.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 57,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-03-27",
-    "time": "TBD",
-    "title": "IRGC Expands Strait Ban to US, Israel, and Allies",
-    "location": "Strait of Hormuz",
-    "coordinates": [
-      26.5,
-      56.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "IRGC announced Strait of Hormuz closed to any vessel going to and from ports of US, Israel, and their allies. Trump threatened to destroy Iran infrastructure if strait not reopened. Expressed interest in renaming it.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 58,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-04-08",
-    "time": "TBD",
-    "title": "Temporary Iran-US Ceasefire Agreed - Strait to Reopen",
-    "location": "Multiple locations",
-    "coordinates": [
-      32.5,
-      48
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Temporary ceasefire between Iran and US agreed. Was to involve reopening of the Strait of Hormuz. Following failure of Islamabad Talks, US Navy began blockade of Iranian ports on April 13, creating dual blockade - US blockading Iran, Iran blockading the Gulf.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 59,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-04-13",
-    "time": "TBD",
-    "title": "US Navy Blockades Iranian Ports - Dual Blockade Begins",
-    "location": "Persian Gulf / Iranian Coast",
-    "coordinates": [
-      27,
-      52
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Following failed Islamabad Talks, US Navy began blockading Iranian ports. The Guardian described it as dual blockade - US Navy blockading Iran while Iran blockaded the Gulf. 20,000 mariners and 2,000 ships stranded in Persian Gulf. Brent crude peaked at $126/barrel.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 60,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-05-04",
-    "time": "TBD",
-    "title": "Operation Project Freedom - US Navy Escorts Merchant Ships",
-    "location": "Strait of Hormuz",
-    "coordinates": [
-      26.5,
-      56.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Operation_Project_Freedom",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Trump launched Operation Project Freedom - a US Navy mission to escort merchant ships out of the Persian Gulf. Iranian military warned this was a ceasefire violation. Paused on May 6 due to great progress toward agreement.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 61,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-06-17",
-    "time": "TBD",
-    "title": "Islamabad MOU Signed - Trump & Pezeshkian Agree to End War",
-    "location": "Islamabad, Pakistan",
-    "coordinates": [
-      33.6844,
-      73.0479
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Islamabad_Memorandum",
-        "type": "news"
-      },
-      {
-        "name": "Hormuz Strait Monitor",
-        "url": "https://hormuzstraitmonitor.com",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Trump and Iranian President Pezeshkian signed Islamabad Memorandum of Understanding to end the war and blockades of the Strait of Hormuz. Traffic began to normalize. On June 19, Trump announced renewed Israel-Hezbollah ceasefire. However Israel continued strikes in southern Lebanon, and on June 20 Iran closed the strait again.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 62,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-06-20",
-    "time": "TBD",
-    "title": "Iran Re-Closes Strait of Hormuz - Cites Israeli Violations",
-    "location": "Strait of Hormuz",
-    "coordinates": [
-      26.5,
-      56.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Islamabad_Memorandum",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Iran closed the Strait of Hormuz again, citing continued Israeli strikes in southern Lebanon as a violation of the Islamabad MOU agreement. US military denied the claims. Tensions rapidly re-escalated into the July crisis.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 63,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-06-27",
-    "time": "TBD",
-    "title": "US Navy Widens Strait Route Near Oman - Challenges Iran Control",
-    "location": "Strait of Hormuz / Oman",
-    "coordinates": [
-      26,
-      57
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Joint Maritime Information Center (JMIC) overseen by US Navy announced widened route through Strait of Hormuz near Oman, allowing increased naval traffic in both directions and challenging Iran control over the waterway.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 64,
-    "type": "naval",
-    "status": "confirmed",
-    "date": "2026-07-07",
-    "time": "TBD",
-    "title": "Iran Attacks 3 Ships - US Launches 80+ Strikes on Kharg Island",
-    "location": "Strait of Hormuz / Kharg Island, Iran",
-    "coordinates": [
-      29.2352,
-      50.309
-    ],
-    "sources": [
-      {
-        "name": "Hormuz Strait Monitor",
-        "url": "https://hormuzstraitmonitor.com",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 50,
-      "iranian_civ": 10,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 2
-    },
-    "description": "Iran attacked 3 commercial vessels in the Strait of Hormuz during Khamenei funeral period. CENTCOM launched 80+ retaliatory strikes hitting Kharg Island (Iran primary oil export hub), Bandar Abbas, Sirik, and Qeshm Island. Brent crude jumped 5.6% to above $78. Iran launched drone attacks on Bahrain Isa Air Base. 2 seafarers killed.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 65,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-07-09",
-    "time": "Overnight",
-    "title": "US Strikes Bushehr Nuclear Plant Perimeter - 14 Killed",
-    "location": "Bushehr, Iran",
-    "coordinates": [
-      28.92,
-      50.83
-    ],
-    "sources": [
-      {
-        "name": "Hormuz Strait Monitor",
-        "url": "https://hormuzstraitmonitor.com",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 14,
-      "iranian_civ": 78,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "US airstrike hit perimeter of Iran Bushehr nuclear power plant - first time a nuclear facility struck in conflict. 14 killed, 78 wounded. Iran struck Bahrain, Kuwait, Qatar, and Jordan. Jordan intercepted 8 Iranian missiles - first Iranian strike on Jordan. Trump threatened to strike electric and desalination plants.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 66,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-07-11",
-    "time": "Overnight",
-    "title": "US Launches 140 Strikes - Largest Package of Conflict",
-    "location": "Multiple sites, Iran",
-    "coordinates": [
-      32.5,
-      54
-    ],
-    "sources": [
-      {
-        "name": "Hormuz Strait Monitor",
-        "url": "https://hormuzstraitmonitor.com",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "CENTCOM launched 140 strikes - largest single strike package of the conflict. Iran struck Jordan Prince Hassan Air Base, UAE, Bahrain, and Qatar. Iran formally declared Strait of Hormuz closed until further notice.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 67,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-07-17",
-    "time": "TBD",
-    "title": "Infrastructure War Phase Begins - Bridges & Desalination Struck",
-    "location": "Bandar Abbas, Iran / Kuwait",
-    "coordinates": [
-      27.1832,
-      56.2666
-    ],
-    "sources": [
-      {
-        "name": "Hormuz Strait Monitor",
-        "url": "https://hormuzstraitmonitor.com",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 2,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "US strikes destroyed bridges and railway lines near Bandar Abbas, severing main road to strait city. Iran struck Shuaiba power/desalination complex in Kuwait. Bunji desalination plant in Jask destroyed, leaving 20 villages without water. Both sides now deliberately striking civilian infrastructure.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 68,
-    "type": "cyber",
-    "status": "confirmed",
-    "date": "2026-03-31",
-    "time": "TBD",
-    "title": "IRGC Designates 18 US Tech Companies as Military Targets",
-    "location": "Tehran, Iran",
-    "coordinates": [
-      35.6892,
-      51.389
-    ],
-    "sources": [
-      {
-        "name": "Hormuz Strait Monitor",
-        "url": "https://hormuzstraitmonitor.com",
-        "type": "analyst"
-      },
-      {
-        "name": "Fortune",
-        "url": "",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "IRGC designated 18 US technology companies as legitimate military targets, including Amazon, Microsoft, Google, Apple, and Meta. Fortune described this as the first time data centers have been deliberately targeted for air strikes in a conflict. Led to multiple strikes on AWS infrastructure in Bahrain.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 69,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-05-29",
-    "time": "TBD",
-    "title": "US Naval Blockade of Iran Lifted - Ceasefire Progress",
-    "location": "Persian Gulf",
-    "coordinates": [
-      27,
-      52
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "US lifted naval blockade of Iranian ports following diplomatic progress toward the Islamabad MOU. Traffic had averaged 6-10 vessels/day during the blockade period. Paved way for the June 17 MOU signing.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 70,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-02",
-    "time": "TBD",
-    "title": "Hezbollah Opens Northern Front - Rockets at Haifa, 52 Killed in Israeli Retaliation",
-    "location": "Lebanon-Israel Border / Haifa",
-    "coordinates": [
-      33,
-      35.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 52
-    },
-    "description": "Hezbollah fired projectiles toward Israel from Lebanon in response to Khamenei killing. Targeted Mishmar HaCarmel missile defence site near Haifa. Israeli retaliatory strikes killed at least 52 and injured 154. Hezbollah intelligence chief Hussain Makled killed. Lebanon banned Hezbollah military activities.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 71,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-03-03",
-    "time": "TBD",
-    "title": "IDF Strikes Beirut - Hezbollah Hits Ramat David Airbase with Drones",
-    "location": "Beirut, Lebanon / Ramat David Airbase, Israel",
-    "coordinates": [
-      33.8938,
-      35.5018
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "IDF carried out airstrikes on Beirut and deployed soldiers to southern Lebanon. Hezbollah conducted drone and missile attacks on Ramat David Airbase, Meron monitoring base, and Camp Yitzhak. Israeli ground forces entered southern Lebanon.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 72,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-03-11",
-    "time": "TBD",
-    "title": "Hezbollah Fires 200 Rockets at Israel in Single Day",
-    "location": "Northern Israel",
-    "coordinates": [
-      32.8,
-      35.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah fired 200 rockets at Israel in a single day. IDF said 80 failed to enter Israeli territory and it prevented launch of 400 additional rockets. Total Lebanese death toll since escalation: 634 killed, 1,586 wounded.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 73,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-03-13",
-    "time": "TBD",
-    "title": "Israeli Strike Kills 12 Medics - Zrarieh Bridge Destroyed",
-    "location": "Burj Qalaouiyah / Litani River, Lebanon",
-    "coordinates": [
-      33.3,
-      35.4
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 12
-    },
-    "description": "Israeli strike on healthcare facility in Burj Qalaouiyah killed 12 medics and injured another. Israel destroyed the Zrarieh Bridge over the Litani River, citing its use in Hezbollah movement. IDF said it killed two senior Hezbollah Badr Unit commanders. Total Lebanese death toll: 773.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 74,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-04-08",
-    "time": "TBD",
-    "title": "Operation Eternal Darkness - Israeli Strikes Kill 89 in Lebanon",
-    "location": "Multiple sites, Lebanon",
-    "coordinates": [
-      33.8,
-      35.5
-    ],
-    "sources": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 89
-    },
-    "description": "Israel launched Operation Eternal Darkness in Lebanon. Coordinated strikes killed 89 people and wounded 700 across Lebanon. Hezbollah launched 35 waves of attacks on April 2. Total Lebanese death toll since start of war: 1,368. IDF working assumption: fighting with Iran will resume.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 75,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-06-19",
-    "time": "TBD",
-    "title": "Israel-Hezbollah Ceasefire Agreed - Lasted 24 Hours",
-    "location": "Lebanon-Israel Border",
-    "coordinates": [
-      33,
-      35.5
-    ],
-    "sources": [
-      {
-        "name": "Hormuz Strait Monitor",
-        "url": "https://hormuzstraitmonitor.com",
-        "type": "analyst"
-      },
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_ceasefire",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Trump announced renewed Israel-Hezbollah ceasefire facilitated by US, Qatar, and Iran. However Israel continued strikes in southern Lebanon, and Iran cited this as a violation of the Islamabad MOU, closing the Strait of Hormuz again on June 20. The Israel-Lebanon ceasefire effectively collapsed within 24 hours.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
     "id": 76,
     "type": "airstrike",
     "status": "confirmed",
@@ -2645,212 +2851,6 @@
       "other": 0
     },
     "description": "IRGC claimed destruction of a THAAD missile defense system radar. Patriot air defense system and C-RAM radar also targeted and destroyed. Fuel storage tanks at the US base set ablaze. Large helicopter equipment warehouse and maintenance hangar also set on fire and destroyed.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 80,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-03-22",
-    "time": "TBD",
-    "title": "Hezbollah FPV Drone Strikes IDF Forces at Maroun al-Ras - First FPV Attack",
-    "location": "Maroun al-Ras, Southern Lebanon",
-    "coordinates": [
-      33.1,
-      35.45
-    ],
-    "sources": [
-      {
-        "name": "Alma Research",
-        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
-        "type": "analyst"
-      },
-      {
-        "name": "Hezbollah Military Media",
-        "url": "",
-        "type": "official"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah launched its first documented FPV explosive drone attack of the war against IDF forces near Maroun al-Ras in south Lebanon. The attack marked the introduction of fiber-optic FPV drones as a primary tactic. Hezbollah published video of the operation. Cost asymmetry: $300-$400 drone vs millions in Israeli equipment.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 81,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-04-12",
-    "time": "TBD",
-    "title": "Hezbollah FPV Drone Hits Israeli Mobile Command Vehicle - Taybeh",
-    "location": "Taybeh, Southern Lebanon",
-    "coordinates": [
-      33.2833,
-      35.4333
-    ],
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/evolving-drone-war-southern-lebanon-clouds-iran-peace-prospects-2026-05-12/",
-        "type": "news"
-      },
-      {
-        "name": "Hezbollah Military Media",
-        "url": "",
-        "type": "official"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah released FPV drone footage showing an Israeli mobile command vehicle moments before being struck near Taybeh, southern Lebanon. The fiber-optic FPV drone evaded electronic warfare jamming systems. Hezbollah published the complete video of the operation.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 82,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-04-30",
-    "time": "TBD",
-    "title": "Hezbollah FPV Drone Strikes M548 Cargo Carrier at Shomera Artillery Site",
-    "location": "Shomera, Northern Israel",
-    "coordinates": [
-      33.0667,
-      35.2833
-    ],
-    "sources": [
-      {
-        "name": "Times of Israel",
-        "url": "https://www.timesofisrael.com/hunted-by-drones-it-should-have-seen-coming-israels-lebanon-strategy-is-now-at-risk/",
-        "type": "news"
-      },
-      {
-        "name": "Hezbollah Military Media",
-        "url": "",
-        "type": "official"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah FPV drone struck an M548 cargo carrier at an IDF artillery site near the northern border community of Shomera. Photographs confirmed the hit. The attack demonstrated Hezbollah ability to penetrate Israeli forward artillery positions with loitering FPV munitions.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 83,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-05-01",
-    "time": "TBD",
-    "title": "Hezbollah FPV Drone Kills 4 IDF Soldiers - Dozens Wounded in Campaign",
-    "location": "Multiple sites, Southern Lebanon",
-    "coordinates": [
-      33.15,
-      35.4
-    ],
-    "sources": [
-      {
-        "name": "Alma Research",
-        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 5
-    },
-    "description": "Hezbollah FPV drone campaign intensified. Over 80 explosive FPV drones launched at IDF forces in southern Lebanon since March 22. Approximately 15 hit their targets, killing 4 soldiers and 1 civilian, and wounding dozens. IDF scrambling to field countermeasures including fragmenting bullets, Smart Shooter systems, and anti-drone rifles.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 84,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-05-15",
-    "time": "TBD",
-    "title": "Hezbollah Deploys Fiber-Optic FPV Drones - Completely Jam-Proof",
-    "location": "Southern Lebanon",
-    "coordinates": [
-      33.2,
-      35.45
-    ],
-    "sources": [
-      {
-        "name": "Alma Research",
-        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
-        "type": "analyst"
-      },
-      {
-        "name": "NBC News",
-        "url": "",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah systematically deployed fiber-optic FPV drones against IDF positions. The optical fiber connects operator to drone with a cable the thickness of dental floss, completely nullifying electronic warfare and spectral jamming. Drone does not emit electromagnetic signal. Detection by electro-optical or acoustic sensors only. Hezbollah has dozens of operators in southern Lebanon.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 85,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-06-01",
-    "time": "TBD",
-    "title": "Hezbollah FPV Drone Operations Expand - Shepherd and Flock Tactic Employed",
-    "location": "Southern Lebanon / Northern Israel",
-    "coordinates": [
-      33.15,
-      35.45
-    ],
-    "sources": [
-      {
-        "name": "Alma Research",
-        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Hezbollah FPV drone tactics evolved to include shepherd and flock model - a central observation drone identifies targets, then directs multiple FPV attack drones. Before launching explosive drone, Hezbollah operatives deploy observation drone to locate and identify target. Launches from inside civilian homes. 5,000 drones seized by Lebanese forces, but thousands more reached Hezbollah.",
     "satelliteImage": null,
     "videoUrl": null
   }
