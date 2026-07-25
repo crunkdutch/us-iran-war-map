@@ -1,6 +1,6 @@
 [
   {
-    "id": 50,
+    "id": 1,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-02-28",
@@ -36,7 +36,7 @@
     "videoUrl": null
   },
   {
-    "id": 51,
+    "id": 2,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-01",
@@ -67,7 +67,7 @@
     "videoUrl": null
   },
   {
-    "id": 52,
+    "id": 3,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-02",
@@ -98,7 +98,7 @@
     "videoUrl": null
   },
   {
-    "id": 70,
+    "id": 4,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-02",
@@ -129,7 +129,7 @@
     "videoUrl": null
   },
   {
-    "id": 71,
+    "id": 5,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-03-03",
@@ -160,7 +160,7 @@
     "videoUrl": null
   },
   {
-    "id": 53,
+    "id": 6,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-04",
@@ -191,7 +191,7 @@
     "videoUrl": null
   },
   {
-    "id": 54,
+    "id": 7,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-06",
@@ -222,7 +222,7 @@
     "videoUrl": null
   },
   {
-    "id": 55,
+    "id": 8,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-03-08",
@@ -253,7 +253,7 @@
     "videoUrl": null
   },
   {
-    "id": 56,
+    "id": 9,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-03-11",
@@ -284,7 +284,7 @@
     "videoUrl": null
   },
   {
-    "id": 72,
+    "id": 10,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-03-11",
@@ -315,7 +315,7 @@
     "videoUrl": null
   },
   {
-    "id": 73,
+    "id": 11,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-03-13",
@@ -346,7 +346,7 @@
     "videoUrl": null
   },
   {
-    "id": 80,
+    "id": 12,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-03-22",
@@ -382,7 +382,7 @@
     "videoUrl": null
   },
   {
-    "id": 57,
+    "id": 13,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-03-27",
@@ -413,7 +413,7 @@
     "videoUrl": null
   },
   {
-    "id": 68,
+    "id": 14,
     "type": "cyber",
     "status": "confirmed",
     "date": "2026-03-31",
@@ -449,7 +449,7 @@
     "videoUrl": null
   },
   {
-    "id": 58,
+    "id": 15,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-04-08",
@@ -480,7 +480,7 @@
     "videoUrl": null
   },
   {
-    "id": 74,
+    "id": 16,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-04-08",
@@ -511,7 +511,7 @@
     "videoUrl": null
   },
   {
-    "id": 81,
+    "id": 17,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-04-12",
@@ -547,7 +547,7 @@
     "videoUrl": null
   },
   {
-    "id": 59,
+    "id": 18,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-04-13",
@@ -578,7 +578,7 @@
     "videoUrl": null
   },
   {
-    "id": 82,
+    "id": 19,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-04-30",
@@ -614,7 +614,7 @@
     "videoUrl": null
   },
   {
-    "id": 83,
+    "id": 20,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-05-01",
@@ -645,7 +645,7 @@
     "videoUrl": null
   },
   {
-    "id": 60,
+    "id": 21,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-05-04",
@@ -676,7 +676,7 @@
     "videoUrl": null
   },
   {
-    "id": 84,
+    "id": 22,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-05-15",
@@ -712,7 +712,7 @@
     "videoUrl": null
   },
   {
-    "id": 69,
+    "id": 23,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-05-29",
@@ -743,7 +743,7 @@
     "videoUrl": null
   },
   {
-    "id": 85,
+    "id": 24,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-06-01",
@@ -774,7 +774,7 @@
     "videoUrl": null
   },
   {
-    "id": 1,
+    "id": 25,
     "type": "airstrike",
     "title": "Strike on IRGC Command Center",
     "location": "Tehran, Iran",
@@ -810,7 +810,7 @@
     "videoUrl": null
   },
   {
-    "id": 61,
+    "id": 26,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-06-17",
@@ -846,7 +846,7 @@
     "videoUrl": null
   },
   {
-    "id": 2,
+    "id": 27,
     "type": "missile",
     "title": "Ballistic Missile Strike on Tel Aviv",
     "location": "Tel Aviv, Israel",
@@ -882,7 +882,7 @@
     "videoUrl": null
   },
   {
-    "id": 75,
+    "id": 28,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-06-19",
@@ -918,7 +918,7 @@
     "videoUrl": null
   },
   {
-    "id": 3,
+    "id": 29,
     "type": "naval",
     "title": "US Navy Carrier Group Deployment",
     "location": "Strait of Hormuz",
@@ -954,7 +954,7 @@
     "videoUrl": null
   },
   {
-    "id": 62,
+    "id": 30,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-06-20",
@@ -985,7 +985,7 @@
     "videoUrl": null
   },
   {
-    "id": 4,
+    "id": 31,
     "type": "drone",
     "title": "Drone Strike on Nuclear Facility",
     "location": "Natanz, Iran",
@@ -1026,7 +1026,7 @@
     "videoUrl": null
   },
   {
-    "id": 5,
+    "id": 32,
     "type": "cyber",
     "title": "Cyber Attack on Iranian Oil Infrastructure",
     "location": "Kharg Island, Iran",
@@ -1062,7 +1062,7 @@
     "videoUrl": null
   },
   {
-    "id": 6,
+    "id": 33,
     "type": "airstrike",
     "title": "Retaliatory Strike on US Base",
     "location": "Al Asad Airbase, Iraq",
@@ -1098,7 +1098,7 @@
     "videoUrl": null
   },
   {
-    "id": 63,
+    "id": 34,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-06-27",
@@ -1129,7 +1129,7 @@
     "videoUrl": null
   },
   {
-    "id": 7,
+    "id": 35,
     "type": "naval",
     "title": "IRGC Speedboat Harassment",
     "location": "Persian Gulf",
@@ -1165,7 +1165,7 @@
     "videoUrl": null
   },
   {
-    "id": 8,
+    "id": 36,
     "type": "airstrike",
     "title": "Strike on IRGC Missile Sites",
     "location": "Bushehr, Iran",
@@ -1206,7 +1206,7 @@
     "videoUrl": null
   },
   {
-    "id": 9,
+    "id": 37,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-03",
@@ -1242,7 +1242,7 @@
     "videoUrl": null
   },
   {
-    "id": 10,
+    "id": 38,
     "type": "drone",
     "title": "IRGC Drone Overflight of US Assets",
     "location": "Eastern Mediterranean",
@@ -1273,7 +1273,7 @@
     "videoUrl": null
   },
   {
-    "id": 64,
+    "id": 39,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-07",
@@ -1304,7 +1304,7 @@
     "videoUrl": null
   },
   {
-    "id": 11,
+    "id": 40,
     "type": "cyber",
     "title": "Iranian Cyber Attack on US Power Grid",
     "location": "Multiple US Sites",
@@ -1345,7 +1345,7 @@
     "videoUrl": null
   },
   {
-    "id": 65,
+    "id": 41,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-09",
@@ -1376,7 +1376,7 @@
     "videoUrl": null
   },
   {
-    "id": 12,
+    "id": 42,
     "type": "airstrike",
     "title": "US Strike on IRGC Navy HQ",
     "location": "Bandar Abbas, Iran",
@@ -1412,7 +1412,7 @@
     "videoUrl": null
   },
   {
-    "id": 66,
+    "id": 43,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-11",
@@ -1443,7 +1443,7 @@
     "videoUrl": null
   },
   {
-    "id": 13,
+    "id": 44,
     "type": "missile",
     "title": "Iranian Ballistic Missile Strike on Erbil",
     "location": "Erbil, Iraq",
@@ -1479,7 +1479,7 @@
     "videoUrl": null
   },
   {
-    "id": 67,
+    "id": 45,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-17",
@@ -1510,7 +1510,7 @@
     "videoUrl": null
   },
   {
-    "id": 14,
+    "id": 46,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-21",
@@ -1546,7 +1546,7 @@
     "videoUrl": null
   },
   {
-    "id": 15,
+    "id": 47,
     "type": "airstrike",
     "title": "US Strike on Yazd Military Site",
     "location": "Yazd, Iran",
@@ -1577,7 +1577,7 @@
     "videoUrl": null
   },
   {
-    "id": 16,
+    "id": 48,
     "type": "airstrike",
     "title": "Strikes on Multiple Iranian Cities",
     "location": "Ahvaz, Andimeshk, Khorramabad, Iran",
@@ -1608,7 +1608,7 @@
     "videoUrl": null
   },
   {
-    "id": 17,
+    "id": 49,
     "type": "airstrike",
     "title": "Strike on IRGC Navy HQ — Zibakenar, Gilan",
     "location": "Zibakenar, Gilan, Iran",
@@ -1639,7 +1639,7 @@
     "videoUrl": null
   },
   {
-    "id": 18,
+    "id": 50,
     "type": "airstrike",
     "title": "Casualties in Bandar Abbas & Khorramabad Strikes",
     "location": "Bandar Abbas & Khorramabad, Iran",
@@ -1675,7 +1675,7 @@
     "videoUrl": null
   },
   {
-    "id": 19,
+    "id": 51,
     "type": "missile",
     "title": "Iranian Strike on Sheikh Isa Air Base",
     "location": "Sheikh Isa Air Base, Bahrain",
@@ -1711,7 +1711,7 @@
     "videoUrl": null
   },
   {
-    "id": 20,
+    "id": 52,
     "type": "missile",
     "title": "Iranian Strike on Muwaffaq al Salti Air Base",
     "location": "Muwaffaq al Salti Air Base, Jordan",
@@ -1747,7 +1747,7 @@
     "videoUrl": null
   },
   {
-    "id": 21,
+    "id": 53,
     "type": "missile",
     "title": "Iranian Strikes on US Bases in Kuwait",
     "location": "Camp Buehring, Camp Doha, Camp Arifjan, Kuwait",
@@ -1783,7 +1783,7 @@
     "videoUrl": null
   },
   {
-    "id": 22,
+    "id": 54,
     "type": "drone",
     "title": "IRGC Drone Strike on Ali Al Salem Air Base",
     "location": "Ali Al Salem Air Base, Kuwait",
@@ -1819,7 +1819,7 @@
     "videoUrl": null
   },
   {
-    "id": 23,
+    "id": 55,
     "type": "drone",
     "title": "IRGC Follow-Up Strike on Amazon Data Center",
     "location": "Bahrain",
@@ -1855,7 +1855,7 @@
     "videoUrl": null
   },
   {
-    "id": 24,
+    "id": 56,
     "type": "naval",
     "title": "CENTCOM Naval Blockade — 12 Ships Prevented",
     "location": "Persian Gulf / Strait of Hormuz",
@@ -1891,7 +1891,7 @@
     "videoUrl": null
   },
   {
-    "id": 25,
+    "id": 57,
     "type": "airstrike",
     "title": "Iranian Air Defense Interception — Kahnooj",
     "location": "Kahnooj, Kerman, Iran",
@@ -1922,7 +1922,7 @@
     "videoUrl": "https://t.me/FotrosResistancee"
   },
   {
-    "id": 26,
+    "id": 58,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-23",
@@ -1958,7 +1958,7 @@
     "videoUrl": null
   },
   {
-    "id": 27,
+    "id": 59,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-23",
@@ -1989,7 +1989,7 @@
     "videoUrl": "https://t.me/SimurghRes"
   },
   {
-    "id": 28,
+    "id": 60,
     "type": "airstrike",
     "title": "US Strike on Naeen, Isfahan Province",
     "location": "Naeen, Isfahan, Iran",
@@ -2025,7 +2025,7 @@
     "videoUrl": null
   },
   {
-    "id": 29,
+    "id": 61,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2061,7 +2061,7 @@
     "videoUrl": null
   },
   {
-    "id": 30,
+    "id": 62,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2092,7 +2092,7 @@
     "videoUrl": null
   },
   {
-    "id": 31,
+    "id": 63,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2128,7 +2128,7 @@
     "videoUrl": null
   },
   {
-    "id": 32,
+    "id": 64,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2159,7 +2159,7 @@
     "videoUrl": "https://t.me/enemywatch/60325"
   },
   {
-    "id": 33,
+    "id": 65,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2190,7 +2190,7 @@
     "videoUrl": null
   },
   {
-    "id": 34,
+    "id": 66,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2226,7 +2226,7 @@
     "videoUrl": null
   },
   {
-    "id": 35,
+    "id": 67,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2257,7 +2257,7 @@
     "videoUrl": null
   },
   {
-    "id": 36,
+    "id": 68,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2293,7 +2293,7 @@
     "videoUrl": null
   },
   {
-    "id": 37,
+    "id": 69,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2329,7 +2329,7 @@
     "videoUrl": null
   },
   {
-    "id": 38,
+    "id": 70,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2365,7 +2365,7 @@
     "videoUrl": null
   },
   {
-    "id": 39,
+    "id": 71,
     "type": "naval",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2396,7 +2396,7 @@
     "videoUrl": null
   },
   {
-    "id": 40,
+    "id": 72,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2427,7 +2427,7 @@
     "videoUrl": null
   },
   {
-    "id": 41,
+    "id": 73,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2458,7 +2458,7 @@
     "videoUrl": null
   },
   {
-    "id": 42,
+    "id": 74,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2494,7 +2494,7 @@
     "videoUrl": "https://t.me/SimurghRes/8036"
   },
   {
-    "id": 43,
+    "id": 75,
     "type": "airstrike",
     "status": "disputed",
     "date": "2026-07-24",
@@ -2530,7 +2530,7 @@
     "videoUrl": "https://t.me/SimurghRes/8034"
   },
   {
-    "id": 44,
+    "id": 76,
     "type": "cyber",
     "status": "disputed",
     "date": "2026-07-24",
@@ -2561,7 +2561,7 @@
     "videoUrl": null
   },
   {
-    "id": 45,
+    "id": 77,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2602,7 +2602,7 @@
     "videoUrl": null
   },
   {
-    "id": 46,
+    "id": 78,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2638,7 +2638,7 @@
     "videoUrl": null
   },
   {
-    "id": 47,
+    "id": 79,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2669,7 +2669,7 @@
     "videoUrl": null
   },
   {
-    "id": 48,
+    "id": 80,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2700,7 +2700,7 @@
     "videoUrl": null
   },
   {
-    "id": 49,
+    "id": 81,
     "type": "missile",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2731,7 +2731,7 @@
     "videoUrl": null
   },
   {
-    "id": 76,
+    "id": 82,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2762,7 +2762,7 @@
     "videoUrl": null
   },
   {
-    "id": 77,
+    "id": 83,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2793,7 +2793,7 @@
     "videoUrl": null
   },
   {
-    "id": 78,
+    "id": 84,
     "type": "drone",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2824,7 +2824,7 @@
     "videoUrl": null
   },
   {
-    "id": 79,
+    "id": 85,
     "type": "airstrike",
     "status": "confirmed",
     "date": "2026-07-24",
@@ -2851,6 +2851,326 @@
       "other": 0
     },
     "description": "IRGC claimed destruction of a THAAD missile defense system radar. Patriot air defense system and C-RAM radar also targeted and destroyed. Fuel storage tanks at the US base set ablaze. Large helicopter equipment warehouse and maintenance hangar also set on fire and destroyed.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 86,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-03-03",
+    "time": "TBD",
+    "title": "Hezbollah Drones & Missiles Strike Ramat David Airbase, Meron Base & Camp Yitzhak",
+    "location": "Ramat David Airbase / Meron / Camp Yitzhak, Northern Israel",
+    "coordinates": [
+      32.6758,
+      35.1925
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah conducted drone and missile attacks on Ramat David Airbase, the Meron monitoring base, and Camp Yitzhak inside Israeli territory. IDF carried out simultaneous airstrikes on Beirut.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 87,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-09",
+    "time": "TBD",
+    "title": "Hezbollah Rockets Strike Central Israel - 18 Wounded, Kindergarten Hit in Ramla",
+    "location": "Ramla / Beit Shemesh / Elah Valley, Central Israel",
+    "coordinates": [
+      31.895,
+      34.9147
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 18
+    },
+    "description": "Hezbollah rocket attacks at central Israel lightly wounded 18 people. A kindergarten in Ramla was directly hit. Smoke seen in Beit Shemesh. Hezbollah stated it targeted a communications site in Elah Valley and a Home Front Command base in Ramla.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 88,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-14",
+    "time": "TBD",
+    "title": "Hezbollah Cluster Bomb on Metula, Rockets Hit Krayot Area - Highway 4 Closed",
+    "location": "Metula / Krayot / Upper Galilee, Israel",
+    "coordinates": [
+      33.2722,
+      35.5722
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah fired a cluster bomb at Metula. 12 rockets were fired at Upper Galilee. Several rockets hit Krayot area causing damage, prompting closure of Israel's Highway 4.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 89,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-16",
+    "time": "TBD",
+    "title": "Hezbollah Rockets Hit Nahariya - 6 Injured, Kabri Also Struck",
+    "location": "Nahariya / Kabri, Northern Israel",
+    "coordinates": [
+      33.0033,
+      35.0964
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 7
+    },
+    "description": "Hezbollah rocket attacks injured six people in Nahariya and injured a seventh near Kabri.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 90,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-24",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Barrage Kills Woman, Injures 2 in Northern Israel",
+    "location": "Northern Israel",
+    "coordinates": [
+      33,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 3
+    },
+    "description": "Hezbollah militants launched a rocket barrage towards northern Israel, killing a woman and injuring two others.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 91,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-25",
+    "time": "TBD",
+    "title": "Hezbollah Launches 105 Attack Waves on Israel - Most Intense Day of War",
+    "location": "Multiple sites across Israel",
+    "coordinates": [
+      32.5,
+      35
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      },
+      {
+        "name": "Alma Center",
+        "url": "https://israel-alma.org",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah launched 105 attack waves on Israel on this day - the most intense day of attacks on Israel since the beginning of the 2026 Iran war. Since the war began, 1,084 total attack waves were launched from Lebanon into Israel.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 92,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-26",
+    "time": "TBD",
+    "title": "Hezbollah Rockets Kill Man, Injure 14 in Nahariya",
+    "location": "Nahariya, Northern Israel",
+    "coordinates": [
+      33.0033,
+      35.0964
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 15
+    },
+    "description": "Hezbollah militants launched rockets towards Nahariya, killing a man and injuring 14 others, one seriously.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 93,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-03-30",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Halts Israeli Soccer Team Training - Southern Lebanon Fighting",
+    "location": "Northern Israel",
+    "coordinates": [
+      33,
+      35.2
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "An Israeli soccer team had to halt a training session due to the danger posed by a rocket fired from Lebanon. Ongoing fighting in southern Lebanon. An IDF Nahal Brigade soldier was killed in clashes with Hezbollah.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 94,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-24",
+    "time": "TBD",
+    "title": "Mass Shelter Openings Across Israel - Iranian Missile Threat Escalates",
+    "location": "Tel Aviv, Ramat Gan, Haifa, Be'er Sheva, Ashkelon, Nahariya, Safed, Acre, Karmiel + more",
+    "coordinates": [
+      31.9,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Military Media (mmirlb)",
+        "url": "https://t.me/mmirlb",
+        "type": "official"
+      },
+      {
+        "name": "Israel Hayom",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Multiple Israeli cities announced opening of public shelters due to escalating Iranian missile threat: Tel Aviv-Yafo, Ramat Gan, Haifa, Be'er Sheva, Ashkelon, Nesher, Karmiel, Kiryat Tivon, Tirat Carmel, Modi'in, Kiryat Gat, Migdal HaEmek, Ma'alot-Tarshiha, Acre, Nahariya, Safed. Mayor of Ramat Gan: 'The threat of Iranian missile launches has increased over the coming weekend.' Israel Hayom assessment: US will strike, Iran will target Gulf bases but not Israel directly to avoid giving Netanyahu pretext to join campaign.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 95,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "Dawn",
+    "title": "Iranian Missile Barrages Hit Israeli Cities - Retaliation for Epic Fury",
+    "location": "Multiple cities, Israel",
+    "coordinates": [
+      31.9,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iran responded to Operation Epic Fury with missile barrages on Israeli cities. Multiple impacts reported. Iron Dome interceptors activated across central and northern Israel.",
     "satelliteImage": null,
     "videoUrl": null
   }
