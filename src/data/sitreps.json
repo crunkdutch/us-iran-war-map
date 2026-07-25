@@ -77078,5 +77078,80 @@
     "description": "⚡️ Israeli artillery shelling targets Ali al-Taher in southern Lebanon.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785010989321,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Urgent Illumination flares northwest of the Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785010978542,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - Yedioth Ahronoth Army forces rushed to the village of Tal in the northern West Bank after receiving a report that a group of about 20 settlers had entered the village. The forces are still on their way to the location, and no unusual incidents…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785011012665,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Difficult humanitarian situation in the Gaza Strip...70% of the population relies on food aid to secure their basic needs.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785010962483,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The US occupation embassy in Erbil province, northern Iraq, issues a severe security warning following recent Iranian strikes.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785011025263,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The US occupation embassy in Erbil province, northern Iraq, issues a severe security warning following recent Iranian strikes.",
+    "media": [],
+    "verified": false
   }
 ]
