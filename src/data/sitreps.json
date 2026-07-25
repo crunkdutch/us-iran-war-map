@@ -77933,5 +77933,155 @@
     "description": "⚡️ Explosion heard in southern Lebanon• 22:16 — Strong explosions now, their nature not yet determined, whether raids or bombings. (Rasd Akhbar Shehaba)• 22:22 — A new explosion reverberates in southern Lebanon (Rasd Akhbar Shehaba)",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785020166686,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Settlers attack Palestinian homes on the outskirts of Al-Sawiya village, south of Nablus, northern West Bank",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020187329,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🇱🇧 Another explosion by the Israeli enemy in the town of Kafr Tibnit",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020234132,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent | A woman was shot in the head by occupation forces while inside her tent in Nuseirat camp, central Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020209182,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent | A woman was shot in the head by occupation forces while inside her tent in Nuseirat camp, central Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020205222,
+    "type": "drone",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A failed attempt to shoot down an unknown drone that carried out a reconnaissance and photography operation in Baghdad's Green Zone.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020163883,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy media: Explosions coming from Gaza are audible as far as the center of Tel Aviv.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020215988,
+    "type": "naval",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Ukraine attacked an Iranian merchant ship in the Caspian Sea on Sunday... Not a good idea, Mr. Zelensky.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020257813,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ An explosion reverberated in Sulaymaniyah, northern Iraq",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020259766,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-25",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Zionist Code:Israeli army forces continue to destroy buildings in eastern Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785020225849,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-25",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Zionist Code:Israeli army forces continue to destroy buildings in eastern Gaza City.",
+    "media": [],
+    "verified": false
   }
 ]
