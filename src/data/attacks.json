@@ -2647,5 +2647,211 @@
     "description": "IRGC claimed destruction of a THAAD missile defense system radar. Patriot air defense system and C-RAM radar also targeted and destroyed. Fuel storage tanks at the US base set ablaze. Large helicopter equipment warehouse and maintenance hangar also set on fire and destroyed.",
     "satelliteImage": null,
     "videoUrl": null
+  },
+  {
+    "id": 80,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-03-22",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Strikes IDF Forces at Maroun al-Ras - First FPV Attack",
+    "location": "Maroun al-Ras, Southern Lebanon",
+    "coordinates": [
+      33.1,
+      35.45
+    ],
+    "sources": [
+      {
+        "name": "Alma Research",
+        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
+        "type": "analyst"
+      },
+      {
+        "name": "Hezbollah Military Media",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah launched its first documented FPV explosive drone attack of the war against IDF forces near Maroun al-Ras in south Lebanon. The attack marked the introduction of fiber-optic FPV drones as a primary tactic. Hezbollah published video of the operation. Cost asymmetry: $300-$400 drone vs millions in Israeli equipment.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 81,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-04-12",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Hits Israeli Mobile Command Vehicle - Taybeh",
+    "location": "Taybeh, Southern Lebanon",
+    "coordinates": [
+      33.2833,
+      35.4333
+    ],
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/evolving-drone-war-southern-lebanon-clouds-iran-peace-prospects-2026-05-12/",
+        "type": "news"
+      },
+      {
+        "name": "Hezbollah Military Media",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah released FPV drone footage showing an Israeli mobile command vehicle moments before being struck near Taybeh, southern Lebanon. The fiber-optic FPV drone evaded electronic warfare jamming systems. Hezbollah published the complete video of the operation.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 82,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-04-30",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Strikes M548 Cargo Carrier at Shomera Artillery Site",
+    "location": "Shomera, Northern Israel",
+    "coordinates": [
+      33.0667,
+      35.2833
+    ],
+    "sources": [
+      {
+        "name": "Times of Israel",
+        "url": "https://www.timesofisrael.com/hunted-by-drones-it-should-have-seen-coming-israels-lebanon-strategy-is-now-at-risk/",
+        "type": "news"
+      },
+      {
+        "name": "Hezbollah Military Media",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah FPV drone struck an M548 cargo carrier at an IDF artillery site near the northern border community of Shomera. Photographs confirmed the hit. The attack demonstrated Hezbollah ability to penetrate Israeli forward artillery positions with loitering FPV munitions.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 83,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-05-01",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Kills 4 IDF Soldiers - Dozens Wounded in Campaign",
+    "location": "Multiple sites, Southern Lebanon",
+    "coordinates": [
+      33.15,
+      35.4
+    ],
+    "sources": [
+      {
+        "name": "Alma Research",
+        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 5
+    },
+    "description": "Hezbollah FPV drone campaign intensified. Over 80 explosive FPV drones launched at IDF forces in southern Lebanon since March 22. Approximately 15 hit their targets, killing 4 soldiers and 1 civilian, and wounding dozens. IDF scrambling to field countermeasures including fragmenting bullets, Smart Shooter systems, and anti-drone rifles.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 84,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-05-15",
+    "time": "TBD",
+    "title": "Hezbollah Deploys Fiber-Optic FPV Drones - Completely Jam-Proof",
+    "location": "Southern Lebanon",
+    "coordinates": [
+      33.2,
+      35.45
+    ],
+    "sources": [
+      {
+        "name": "Alma Research",
+        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
+        "type": "analyst"
+      },
+      {
+        "name": "NBC News",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah systematically deployed fiber-optic FPV drones against IDF positions. The optical fiber connects operator to drone with a cable the thickness of dental floss, completely nullifying electronic warfare and spectral jamming. Drone does not emit electromagnetic signal. Detection by electro-optical or acoustic sensors only. Hezbollah has dozens of operators in southern Lebanon.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
+    "id": 85,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-06-01",
+    "time": "TBD",
+    "title": "Hezbollah FPV Drone Operations Expand - Shepherd and Flock Tactic Employed",
+    "location": "Southern Lebanon / Northern Israel",
+    "coordinates": [
+      33.15,
+      35.45
+    ],
+    "sources": [
+      {
+        "name": "Alma Research",
+        "url": "https://israel-alma.org/special-report-hezbollahs-fpv-explosive-drone-threat/",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Hezbollah FPV drone tactics evolved to include shepherd and flock model - a central observation drone identifies targets, then directs multiple FPV attack drones. Before launching explosive drone, Hezbollah operatives deploy observation drone to locate and identify target. Launches from inside civilian homes. 5,000 drones seized by Lebanese forces, but thousands more reached Hezbollah.",
+    "satelliteImage": null,
+    "videoUrl": null
   }
 ]
