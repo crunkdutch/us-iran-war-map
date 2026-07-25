@@ -25,6 +25,7 @@ const CHANNELS = {
   me_observer: { url: 'https://t.me/s/me_observer_TG', label: 'Middle East Observer', type: 'news_aggregator' },
   me_spectator: { url: 'https://t.me/s/Middle_East_Spectator', label: 'Middle East Spectator', type: 'analysis' },
   mmirlb: { url: 'https://t.me/s/mmirlb', label: 'Military Media (IRGC/Iran Army)', type: 'official_ops' },
+  irna_en: { url: 'https://t.me/s/Irna_en', label: 'IRNA English', type: 'official_news' },
 }
 
 const BACKFILL_MODE = process.argv.includes('--backfill')
