@@ -302,6 +302,28 @@ function StatsContent({ stats }: { stats: any }) {
           </div>
         )}
       </div>
+
+      {/* Hezbollah FPV Drone Campaign */}
+      <div style={{
+        marginTop: 12, paddingTop: 10,
+        borderTop: '1px solid var(--border-color)',
+      }}>
+        <div style={{ fontSize: 8, color: 'var(--accent-red)', letterSpacing: 1, marginBottom: 6 }}>
+          HEZBOLLAH FPV DRONE CAMPAIGN
+        </div>
+        <div style={{ display: 'flex', alignItems: 'baseline', gap: 6, marginBottom: 4 }}>
+          <span style={{ fontSize: 18, fontWeight: 700, color: 'var(--accent-red)', fontFamily: 'var(--font-mono)' }}>{stats.fpvLaunched}</span>
+          <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>drones launched</span>
+        </div>
+        <div style={{ display: 'flex', gap: 12, marginTop: 2 }}>
+          <BadgeSmall value={stats.fpvHits} label="HITS" color="var(--accent-amber)" />
+          <BadgeSmall value={stats.fpvKilled} label="KILLED" color="var(--accent-red)" />
+          <BadgeSmall value={"$" + stats.fpvCost} label="PER DRONE" color="var(--accent-cyan)" />
+        </div>
+        <div style={{ fontSize: 8, color: 'var(--text-dim)', marginTop: 4 }}>
+          Fiber-optic FPV - jam-proof, no EM signature
+        </div>
+      </div>
     </div>
   </>)
 }
