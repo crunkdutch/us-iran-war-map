@@ -236,10 +236,20 @@ async function main() {
   for (const [key, info] of Object.entries(CHANNELS)) {
     console.error(`\n--- ${info.label} ---`)
     try {
-      const resp = await fetch(info.url, {
+      // Paginate backwards using before parameter to access historical posts
+      const fetchUrl = info.lastPostId ? info.url + '?before=' + info.lastPostId : info.url
+      const resp = await fetch(fetchUrl, {
         headers: { 'User-Agent': 'Mozilla/5.0 (compatible; WarMapBot/1.0)' },
       })
       const html = await resp.text()
+
+      // Extract oldest post ID for historical pagination
+      const idMatches = [...html.matchAll(/href="https:\/\/t\.me\/[^/]+\/(\d+)"/g)]
+      if (idMatches.length > 0) {
+        const ids = idMatches.map(m => parseInt(m[1])).filter(n => !isNaN(n))
+        const oldestId = ids.length > 0 ? Math.min(...ids) : null
+        info.lastPostId = oldestId ? String(oldestId - 1) : null
+      }
 
       // Save raw
       if (!fs.existsSync(RAW_DIR)) fs.mkdirSync(RAW_DIR, { recursive: true })
