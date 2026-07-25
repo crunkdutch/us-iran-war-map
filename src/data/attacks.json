@@ -298,6 +298,42 @@
     "videoUrl": null
   },
   {
+    "id": 46,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-03",
+    "time": "~2-3 weeks prior",
+    "title": "WSJ: Bahrain & Kuwait Conducted Airstrikes Against Iran — United Arab Front",
+    "location": "Bahrain & Kuwait / Iran",
+    "coordinates": [
+      28.5,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Middle East Spectator",
+        "url": "https://t.me/Middle_East_Spectator/35415",
+        "type": "analyst"
+      },
+      {
+        "name": "Wall Street Journal",
+        "url": "",
+        "type": "news"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Wall Street Journal reporting Bahrain and Kuwait carried out airstrikes against Iran approximately 2-3 weeks ago. Attacks conducted with Emirati intelligence support and defensive cover, indicating a united Arab front against Iran.",
+    "satelliteImage": null,
+    "videoUrl": null
+  },
+  {
     "id": 9,
     "type": "drone",
     "title": "IRGC Drone Overflight of US Assets",
@@ -1566,42 +1602,6 @@
       "other": 0
     },
     "description": "Reports of missile launches from Yemen towards Saudi Arabia. Rasd Akhbar Shehaba: \"The Yemeni response enters into force.\" Part of broader Ansar Allah retaliation campaign.",
-    "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 46,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-07-03",
-    "time": "~2-3 weeks prior",
-    "title": "WSJ: Bahrain & Kuwait Conducted Airstrikes Against Iran — United Arab Front",
-    "location": "Bahrain & Kuwait / Iran",
-    "coordinates": [
-      28.5,
-      50.5
-    ],
-    "sources": [
-      {
-        "name": "Middle East Spectator",
-        "url": "https://t.me/Middle_East_Spectator/35415",
-        "type": "analyst"
-      },
-      {
-        "name": "Wall Street Journal",
-        "url": "",
-        "type": "news"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Wall Street Journal reporting Bahrain and Kuwait carried out airstrikes against Iran approximately 2-3 weeks ago. Attacks conducted with Emirati intelligence support and defensive cover, indicating a united Arab front against Iran.",
     "satelliteImage": null,
     "videoUrl": null
   },
