@@ -442,6 +442,42 @@
     "videoUrl": null
   },
   {
+    "id": 28,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-21",
+    "time": "TBD",
+    "title": "Al Dhafra Air Base Completely Empty — US Aircraft Withdrawn",
+    "location": "Al Dhafra Air Base, UAE",
+    "coordinates": [
+      24.2486,
+      54.6333
+    ],
+    "sources": [
+      {
+        "name": "Enemy Watch",
+        "url": "https://t.me/enemywatch/60317",
+        "type": "analyst"
+      },
+      {
+        "name": "Satellite Imagery",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Satellite images show that Al Dhafra Air Base in the UAE is now completely empty. Five US aircraft were visible at the base on July 21; recent imagery shows none remaining. Mirrors previous situation at Al Udeid Air Base in Qatar.",
+    "satelliteImage": "https://t.me/enemywatch/60317",
+    "videoUrl": null
+  },
+  {
     "id": 13,
     "type": "airstrike",
     "title": "US Strike on Yazd Military Site",
@@ -818,6 +854,73 @@
     "videoUrl": "https://t.me/FotrosResistancee"
   },
   {
+    "id": 32,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-23",
+    "time": "Night",
+    "title": "Satellite-Confirmed Strike on Muwaffaq Salti — Radar & Patriot",
+    "location": "Muwaffaq al Salti Air Base, Jordan",
+    "coordinates": [
+      31.8825,
+      36.0444
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes/8029",
+        "type": "analyst"
+      },
+      {
+        "name": "Satellite Imagery",
+        "url": "",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Satellite imagery reveals a new attack on Muwaffaq Salti Air Base in Jordan. Iran targeted AN/TPY-2 radar and a Patriot system. Strike hit a newly built area of the base (first seen April 2026).",
+    "satelliteImage": "https://t.me/enemywatch/60316",
+    "videoUrl": null
+  },
+  {
+    "id": 43,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-23",
+    "time": "TBD",
+    "title": "Iranian Missiles & Drones Destroy Sites Near Ahmed Al-Jaber Base",
+    "location": "Ahmed Al-Jaber Air Base, Kuwait",
+    "coordinates": [
+      28.9333,
+      47.7667
+    ],
+    "sources": [
+      {
+        "name": "SimurghRes",
+        "url": "https://t.me/SimurghRes",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iranian missiles and drones destroyed sites near the Ahmed Al-Jaber Air Base in Kuwait. Strikes took place on July 23, 2026. Video footage from @SimurghRes shows impact and destruction.",
+    "satelliteImage": null,
+    "videoUrl": "https://t.me/SimurghRes"
+  },
+  {
     "id": 24,
     "type": "airstrike",
     "title": "US Strike on Naeen, Isfahan Province",
@@ -957,42 +1060,6 @@
     "videoUrl": null
   },
   {
-    "id": 28,
-    "type": "drone",
-    "status": "confirmed",
-    "date": "2026-07-21",
-    "time": "TBD",
-    "title": "Al Dhafra Air Base Completely Empty — US Aircraft Withdrawn",
-    "location": "Al Dhafra Air Base, UAE",
-    "coordinates": [
-      24.2486,
-      54.6333
-    ],
-    "sources": [
-      {
-        "name": "Enemy Watch",
-        "url": "https://t.me/enemywatch/60317",
-        "type": "analyst"
-      },
-      {
-        "name": "Satellite Imagery",
-        "url": "",
-        "type": "official"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Satellite images show that Al Dhafra Air Base in the UAE is now completely empty. Five US aircraft were visible at the base on July 21; recent imagery shows none remaining. Mirrors previous situation at Al Udeid Air Base in Qatar.",
-    "satelliteImage": "https://t.me/enemywatch/60317",
-    "videoUrl": null
-  },
-  {
     "id": 29,
     "type": "missile",
     "status": "confirmed",
@@ -1088,42 +1155,6 @@
     },
     "description": "Major General Abdollahi, Commander of Khatam al Anbiya Central Headquarters, declared new operational equation: \"For every proud citizen of the Islamic Republic of Iran who is martyred, one American servicemember will be sent to hell. We have prepared free, one-way tickets straight to hell for you.\" Marks official shift to proportional retaliation doctrine.",
     "satelliteImage": null,
-    "videoUrl": null
-  },
-  {
-    "id": 32,
-    "type": "airstrike",
-    "status": "confirmed",
-    "date": "2026-07-23",
-    "time": "Night",
-    "title": "Satellite-Confirmed Strike on Muwaffaq Salti — Radar & Patriot",
-    "location": "Muwaffaq al Salti Air Base, Jordan",
-    "coordinates": [
-      31.8825,
-      36.0444
-    ],
-    "sources": [
-      {
-        "name": "SimurghRes",
-        "url": "https://t.me/SimurghRes/8029",
-        "type": "analyst"
-      },
-      {
-        "name": "Satellite Imagery",
-        "url": "",
-        "type": "official"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Satellite imagery reveals a new attack on Muwaffaq Salti Air Base in Jordan. Iran targeted AN/TPY-2 radar and a Patriot system. Strike hit a newly built area of the base (first seen April 2026).",
-    "satelliteImage": "https://t.me/enemywatch/60316",
     "videoUrl": null
   },
   {
@@ -1460,37 +1491,6 @@
     "description": "Heavy Iraqi military deployments in Baghdad and Baqubah. Forces attempted to storm Nujaba Movement headquarters in Jurf al-Nadaf. PMF leadership ordered withdrawal after warning shots. Trump administration pressuring Iraqi Kurdistan to join war against Iran or lose autonomous status.",
     "satelliteImage": null,
     "videoUrl": null
-  },
-  {
-    "id": 43,
-    "type": "missile",
-    "status": "confirmed",
-    "date": "2026-07-23",
-    "time": "TBD",
-    "title": "Iranian Missiles & Drones Destroy Sites Near Ahmed Al-Jaber Base",
-    "location": "Ahmed Al-Jaber Air Base, Kuwait",
-    "coordinates": [
-      28.9333,
-      47.7667
-    ],
-    "sources": [
-      {
-        "name": "SimurghRes",
-        "url": "https://t.me/SimurghRes",
-        "type": "analyst"
-      }
-    ],
-    "casualties": {
-      "iranian_mil": 0,
-      "iranian_civ": 0,
-      "us_mil": 0,
-      "us_civ": 0,
-      "kurdish": 0,
-      "other": 0
-    },
-    "description": "Iranian missiles and drones destroyed sites near the Ahmed Al-Jaber Air Base in Kuwait. Strikes took place on July 23, 2026. Video footage from @SimurghRes shows impact and destruction.",
-    "satelliteImage": null,
-    "videoUrl": "https://t.me/SimurghRes"
   },
   {
     "id": 44,
