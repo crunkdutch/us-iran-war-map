@@ -1,10 +1,9 @@
 import type { NextConfig } from "next";
+import { execSync } from "child_process";
 
 const nextConfig: NextConfig = {
-  // Force consistent build to avoid Vercel's Turbopack cache issues
-  experimental: {
-    turbo: {},
-  },
+  generateBuildId: async () =>
+    execSync("git rev-parse --short HEAD").toString().trim(),
 };
 
 export default nextConfig;
