@@ -73195,6 +73195,51 @@
     "verified": false
   },
   {
+    "id": 1785083260958,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Occupation Army Radio, quoting the outgoing Head of the Equipment Division in the \"Israeli\" Air Force, Brig. Gen. \"Sh\":– There were countries that are signatories to the Rome Statute which informed us that, under the treaty, they could not supply us with spare parts for various...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083330700,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Occupation Army Radio, quoting the outgoing Head of the Equipment Division in the \"Israeli\" Air Force, Brig. Gen. \"Sh\":– There were countries that are signatories to the Rome Statute which informed us that, under the treaty, they could not supply us with spare parts for various...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083264967,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian Foreign Minister Abbas Araghchi:– The action taken by the opportunist based in Ukraine will not go unanswered. Zelensky attacked an Iranian commercial vessel and killed one of its sailors.– This action constitutes a clear violation of the United Nations Charter and was carri...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1784999995303,
     "type": "airstrike",
     "location": "Yemen",
@@ -81006,6 +81051,171 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Bint Jbeil, Lebanon - The Lebanese-approved Israeli demolition campaigns is at work. The Lebanese state gave Israel this inherent right as long as Hezbollah is not disarmed",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083267682,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shuaib: The Israeli enemy continues its attacks on southern Lebanon, where it carried out bombings in the towns of Aytaoun and Mays al-Jabal, and also detonated in the area located between al-Tiri and Bint Jbeil. It also…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083291136,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shuaib: The Israeli enemy continues its attacks on southern Lebanon, where it carried out bombings in the towns of Aytaoun and Mays al-Jabal, and also detonated in the area located between al-Tiri and Bint Jbeil. It also…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083301929,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: A series of attacks with explosions carried out by the Israeli occupation in the town of Ainatha, Bint Jbeil district.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083273363,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: A series of attacks with explosions carried out by the Israeli occupation in the town of Ainatha, Bint Jbeil district.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083316048,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen's Deputy Foreign Minister: Saudi Arabia Should Learn from US Defeat 🔹 The US was defeated in previous clashes with Sanaa and failed to achieve its goals, but the Saudis have not yet learned from this.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083351072,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen's Deputy Foreign Minister: Saudi Arabia Should Learn from US Defeat 🔹 The US was defeated in previous clashes with Sanaa and failed to achieve its goals, but the Saudis have not yet learned from this.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083258993,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen's Deputy Foreign Minister: Saudi Arabia Should Learn from US Defeat 🔹 The US was defeated in previous clashes with Sanaa and failed to achieve its goals, but the Saudis have not yet learned from this.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083281448,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iranian Deputy Foreign Minister Saeed Khatibzadeh at the ASEAN Foreign Ministers' Meeting:- America targets diplomacy and international law.- Tehran is committed to true diplomacy and ensuring freedom of peaceful navigation in the Strait of Hormuz.- We will never allow Washington to impose its he...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083347362,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iranian Deputy Foreign Minister Saeed Khatibzadeh at the ASEAN Foreign Ministers' Meeting:- America targets diplomacy and international law.- Tehran is committed to true diplomacy and ensuring freedom of peaceful navigation in the Strait of Hormuz.- We will never allow Washington to impose its he...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083345944,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ US enemy media: Oman proposed establishing a regional alliance to provide services in Hormuz similar to the Strait of Malacca, and the Omani proposal includes a mechanism for voluntary payment for services provided in Hormuz.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785083263147,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupation artillery shelling targets Beit Lahia, northwest of the Gaza Strip.",
     "media": [],
     "verified": false
   },
