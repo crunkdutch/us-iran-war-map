@@ -78730,6 +78730,21 @@
     "verified": false
   },
   {
+    "id": 1785073166551,
+    "type": "missile",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶/ 🇮🇷 | Special welcome for Iranian pilgrims at the Shalamcheh border by an Iraqi citizen:A banner displayed at the Shalamcheh border crossing welcomed Iranian pilgrims with the message:“Welcome, owners of the ballistic missiles.”🌷@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -80466,6 +80481,81 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ The Israeli enemy army carried out 3 bombings in the towns of Aitaroun, Mays al-Jabal, and the area located between the towns of Al-Tiri and Bint Jbeil, whose echoes resonated throughout the south.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785073172300,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mostafa Zeibaei Nejad, Director General of Cultural Affairs in Tehran Municipality: This year, we will participate in the Arbaeen ceremonies and the \"Al-Jami'in\" ceremonies in Tehran city squares, carrying the banners of \"Ya Li Tharatal Hussein,\" on behalf of Iran's martyred commander, seeking re...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785073196281,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Syrian Al-Ikhbariya: Israeli occupation forces arrest a young man during their incursion into the village of Western Samadaniya in the central Quneitra countryside",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785073215355,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Syrian Al-Ikhbariya: Israeli occupation forces arrest a young man during their incursion into the village of Western Samadaniya in the central Quneitra countryside",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785073178384,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gulf Announcement: Iran informed Pakistan of its rejection of establishing a new corridor in the Strait of Hormuz",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785073164393,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚨Initial report - Kuwait officially approved a defense cooperation agreement with Pakistan.",
     "media": [],
     "verified": false
   }
