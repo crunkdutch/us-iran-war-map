@@ -15,6 +15,21 @@
     "verified": false
   },
   {
+    "id": 1785086864868,
+    "type": "naval",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "1988-08-05",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Statement of the Islamic Revolutionary Guard Corps on the occasion of August 5, the 38th anniversary of the glorious Operation MersadA part of this statement reads:🔹 The historical memory of the Iranian nation shows that one of the most magnificent manifestations of the power and insight of the ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785002049541,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -81246,6 +81261,171 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Iranian, Russian FMs hold phone conversation📌 Tehran, IRNA – Iran’s Foreign Minister Abbas Araghchi and his Russian counterpart, Sergei Lavrov, have exchanged views on the issues of mutual interest over the phone.In the telephone conversation on Sunday evening, Araghchi and Lavrov discussed the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086952707,
+    "type": "naval",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | 🇮🇷 🇱🇧 | Response of the Leader of the Islamic Revolution, Imam Mujtaba Husyani Khamenei, to the pledge of allegiance submitted by the faithful and courageous Mujahideen of Hezbollah in Lebanon:In the Name of Allah, the Most Compassionate, the Most Merciful“O you who have believed, fight t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086866999,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran’s support for Hezbollah ‘a strategic mandate’: Leader📌 Tehran, IRNA - Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has described Iran’s support for the resistance front as a “strategic mandate” in a letter to Hezbollah’s Secretary-General Sheikh Naim Qassem.In...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086867794,
+    "type": "naval",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran’s support for Hezbollah ‘a strategic mandate’: Leader📌 Tehran, IRNA - Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has described Iran’s support for the resistance front as a “strategic mandate” in a letter to Hezbollah’s Secretary-General Sheikh Naim Qassem.In...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086884357,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran’s support for Hezbollah ‘a strategic mandate’: Leader📌 Tehran, IRNA - Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has described Iran’s support for the resistance front as a “strategic mandate” in a letter to Hezbollah’s Secretary-General Sheikh Naim Qassem.In...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086952583,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy army bombing in Kafr Tibnit towards Arnoun, southern steadfast Lebanon",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086936188,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Forces of the Zionist enemy army carry out a bombing in the city of Bint Jbeil, southern steadfast Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086888669,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Defense Minister: We are considering carrying out an operation similar to the one we conducted in the northern West Bank camps to target terrorist activities.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086882632,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Defense Minister: We are considering carrying out an operation similar to the one we conducted in the northern West Bank camps to target terrorist activities.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086858581,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: A large explosion carried out by the Israeli occupation in the vicinity of the town of Kafr Tibnit near Nabatieh",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086861587,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: A large explosion carried out by the Israeli occupation in the vicinity of the town of Kafr Tibnit near Nabatieh",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785086909847,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-26",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸🇮🇷Axios: The US CENTCOM Commander, Admiral Brad Cooper, has recommended halting bombing operations around the Strait of Hormuz.@SimurghRes",
     "media": [],
     "verified": false
   },
