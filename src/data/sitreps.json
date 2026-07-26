@@ -78490,6 +78490,36 @@
     "verified": false
   },
   {
+    "id": 1785061460739,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-07-25",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸The US media are also reporting that President Donald Trump has, at least for now, shelved plans for a major expansion of US military strikes against Iran, citing concerns within the administration regarding the depletion of the Pentagon's stocks of Patriot interceptors and other air defense mun...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061453095,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-25",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸The US media are also reporting that President Donald Trump has, at least for now, shelved plans for a major expansion of US military strikes against Iran, citing concerns within the administration regarding the depletion of the Pentagon's stocks of Patriot interceptors and other air defense mun...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -79551,6 +79581,156 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Syrian President: We do not intend to carry out any military intervention in #Lebanon",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061444439,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Funeral procession for late Akbar Abdi held in TehranThe funeral procession for the late Akbar Abdi, a renowned Iranian actor, was held on July 26, 2026, in front of Vahdat Hall. His remains will be laid to rest in the Artists’ Section of Behesht-e Zahra Cemetery. Akbar Abdi passed away on July 24 a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061433059,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Channel 7 website:In the last 24 hours, 5 new settlement outposts were established in the northern West Bank, following the incident that took place in the village of Tell.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061397363,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza Ministry of Interior: The occupation assassinated the director of the Internal Security Service in the Central Governorate, Colonel Wael Al-Ladawi, and officer Ramez Abu Zuraiq, by bombing their vehicle in Deir al-Balah, central Gaza Strip. • 09:33…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061438687,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Defense Minister, Israel Katz: Apparently, we will need to carry out new military operations in the West Bank.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061461298,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Defense Minister, Israel Katz: Apparently, we will need to carry out new military operations in the West Bank.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061420916,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺29 Players Invited to Youth Football Team Camp in Tehran🔹The new phase of the Iranian youth football team's training camp for participation in Group C of the AFC U-20 Asian Cup qualifiers will begin on Wednesday, July 29, and will continue until Thursday, August 6, at the National Football Cen...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061411594,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Channel 12 Hebrew:Palestinian reports: The director of the internal security apparatus in the Central Gaza Strip governorate was martyred in an Israeli raid.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061475660,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Channel 12 Hebrew:Palestinian reports: The director of the internal security apparatus in the Central Gaza Strip governorate was martyred in an Israeli raid.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061418101,
+    "type": "airstrike",
+    "location": "Amman",
+    "coordinates": [
+      31.9454,
+      35.9284
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A solar tanker arrived at Canaan Station at the beginning of Amman Street, east of Nablus.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785061433355,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew Channel 15:The Cabinet will discuss shortly the possibility of Israel joining the Gaza Peace Council, and granting its members and affiliated forces rights, privileges, and immunities from prosecution.",
     "media": [],
     "verified": false
   }
