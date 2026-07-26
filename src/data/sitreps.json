@@ -78535,6 +78535,21 @@
     "verified": false
   },
   {
+    "id": 1785067933255,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-25",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇬🇧According to the Financial Times, the prominent marine insurer Lloyd’s of London has informed its brokers that it will stop providing war-risk insurance for Saudi-linked cargoes following Ansarallah strikes on two Saudi oil tankers.Some other insurance companies are considering cancelling existi...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -80016,6 +80031,66 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ For the second consecutive day, fires continue in the Jizan refinery tanks in Saudi Arabia",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785067949545,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Security Minister Katz:• We are studying the possibility of evacuating towns in the West Bank as we did with the camps in the northern West Bank.• Our policy in the West Bank is clear, firm, and offensive.• Our activities in the West Bank have reduced terrorist operations by more than 80%...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785067909059,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Security Minister Katz:• We are studying the possibility of evacuating towns in the West Bank as we did with the camps in the northern West Bank.• Our policy in the West Bank is clear, firm, and offensive.• Our activities in the West Bank have reduced terrorist operations by more than 80%...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785067924948,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mehr News Agency: Mine explosion on an infringing oil tanker in the Strait of Hormuz• 11:52 — 🚫 Explosion of a rogue oil tanker in the Strait of Hormuz ⏺An informed source, in an interview with Defa Press, stated: An hour ago, a rogue oil tanker in the Strait of Hormuz, which had deviated from t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068004048,
+    "type": "naval",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺 Naval Incident for an Oil Tanker in the Red Sea🔹According to the \"UK Maritime Trade Operations\" (UKMTO), an oil tanker has collided with an unknown object.",
     "media": [],
     "verified": false
   }
