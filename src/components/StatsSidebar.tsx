@@ -77,7 +77,12 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
       : hormuzData
     const currentHormuz = filteredHormuz.length > 0 ? filteredHormuz[filteredHormuz.length-1].daily : 0
     const peakHormuz = filteredHormuz.length > 0 ? Math.max(...filteredHormuz.map(d => d.daily)) : 0
-    const hormuzRecent = filteredHormuz.slice(-7)
+    // Always show at least 7 bars (pad backwards from full data if filtered range is too short)
+    const hormuzRecent = filteredHormuz.length >= 7
+      ? filteredHormuz.slice(-7)
+      : filteredHormuz.length > 0
+        ? hormuzData.slice(Math.max(0, hormuzData.length - 7))
+        : []
     const fpvLaunched = 80
     const fpvHits = 15
     const fpvKilled = 5
