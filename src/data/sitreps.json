@@ -78550,6 +78550,81 @@
     "verified": false
   },
   {
+    "id": 1785068922994,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-07-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | The British maritime authority reported that a projectile struck the water in close proximity to a tanker in the Red Sea on Friday. Separately, reports indicated that a Saudi vessel was targeted.Meanwhile, satellite imagery indicates a significant slowdown in cargo loading operations a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068990100,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | The British maritime authority reported that a projectile struck the water in close proximity to a tanker in the Red Sea on Friday. Separately, reports indicated that a Saudi vessel was targeted.Meanwhile, satellite imagery indicates a significant slowdown in cargo loading operations a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068943884,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | The British maritime authority reported that a projectile struck the water in close proximity to a tanker in the Red Sea on Friday. Separately, reports indicated that a Saudi vessel was targeted.Meanwhile, satellite imagery indicates a significant slowdown in cargo loading operations a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068991080,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | The British maritime authority reported that a projectile struck the water in close proximity to a tanker in the Red Sea on Friday. Separately, reports indicated that a Saudi vessel was targeted.Meanwhile, satellite imagery indicates a significant slowdown in cargo loading operations a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068908496,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 :🇴🇲 | Breaking — An oil tanker struck a naval mine and exploded in the Strait of Hormuz after deviating from an Iran-designated shipping route.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -80091,6 +80166,96 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ 🔺 Naval Incident for an Oil Tanker in the Red Sea🔹According to the \"UK Maritime Trade Operations\" (UKMTO), an oil tanker has collided with an unknown object.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068967404,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Senior Iranian MP warns Ukraine’s ‘reckless action’ will not go unanswered📌 Tehran, IRNA – Deputy Speaker of Parliament Ali Nikzad Samarin warns that any location used as an origin for aggression against Iran will be a legitimate target for the Iranian Armed Forces, as the Islamic Republic will ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068997202,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Senior Iranian MP warns Ukraine’s ‘reckless action’ will not go unanswered📌 Tehran, IRNA – Deputy Speaker of Parliament Ali Nikzad Samarin warns that any location used as an origin for aggression against Iran will be a legitimate target for the Iranian Armed Forces, as the Islamic Republic will ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068942604,
+    "type": "airstrike",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-07-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Senior Iranian MP warns Ukraine’s ‘reckless action’ will not go unanswered📌 Tehran, IRNA – Deputy Speaker of Parliament Ali Nikzad Samarin warns that any location used as an origin for aggression against Iran will be a legitimate target for the Iranian Armed Forces, as the Islamic Republic will ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068949826,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Senior Iranian MP warns Ukraine’s ‘reckless action’ will not go unanswered📌 Tehran, IRNA – Deputy Speaker of Parliament Ali Nikzad Samarin warns that any location used as an origin for aggression against Iran will be a legitimate target for the Iranian Armed Forces, as the Islamic Republic will ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068946072,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Nabih Berri: Israeli aggression in the south continues, Lebanon needs a tripartite guaranteeLebanese Parliament Speaker:Lebanon needs a Saudi-American-Iranian guarantee to help stop Israeli aggression. This is a fundamental basic formula for containing the ongoing tensions in the Lebanese arena, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785068931098,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Nabih Berri: Israeli aggression in the south continues, Lebanon needs a tripartite guaranteeLebanese Parliament Speaker:Lebanon needs a Saudi-American-Iranian guarantee to help stop Israeli aggression. This is a fundamental basic formula for containing the ongoing tensions in the Lebanese arena, ...",
     "media": [],
     "verified": false
   }
