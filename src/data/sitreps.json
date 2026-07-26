@@ -80648,5 +80648,50 @@
     "description": "⚡️ Latest developments from southern Lebanon with our correspondent Hashem Al-Sayed Hassan",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785075879817,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 3 officials to CBS: Iran-Oman talks on the Strait of Hormuz have made significant progress",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785075801838,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 3 officials to CBS: Iran-Oman talks on the Strait of Hormuz have made significant progress",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785075864321,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺New Gold Bar Auction; Possibility of Purchasing up to 750 Billion Tomans of Gold🔹The 152nd gold bar auction will be held on Tuesday (July 27, 2026) from 2 PM to 5 PM. Applicants have until July 26 to deposit 500 million Rials for each requested bar. The maximum purchase limit per person is 25 ...",
+    "media": [],
+    "verified": false
   }
 ]
