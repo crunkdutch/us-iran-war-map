@@ -83,14 +83,11 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
       : filteredHormuz.length > 0
         ? hormuzData.slice(Math.max(0, hormuzData.length - 7))
         : []
-    const fpvLaunched = 80
-    const fpvHits = 15
-    const fpvKilled = 5
-    const fpvCost = 300
+
     // Cross-referenced from SimurghRes + Enemy Watch Jul 24
     const confirmedInterceptors = sitreps.filter(function(s) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(s.description); }).length
     const confirmedAttackInterceptors = attacks.filter(function(a) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(a.description); }).length
-    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent, fpvLaunched, fpvHits, fpvKilled, fpvCost, confirmedInterceptors, confirmedAttackInterceptors }
+    return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent, confirmedInterceptors, confirmedAttackInterceptors }
   }, [attacks, sitreps, hormuzData, dateRange])
 
   const filteredStatements = useMemo(() => {
@@ -329,27 +326,6 @@ function StatsContent({ stats }: { stats: any }) {
         )}
       </div>
 
-      {/* Hezbollah FPV Drone Campaign */}
-      <div style={{
-        marginTop: 12, paddingTop: 10,
-        borderTop: '1px solid var(--border-color)',
-      }}>
-        <div style={{ fontSize: 8, color: 'var(--accent-red)', letterSpacing: 1, marginBottom: 6 }}>
-          HEZBOLLAH FPV DRONE CAMPAIGN
-        </div>
-        <div style={{ display: 'flex', alignItems: 'baseline', gap: 6, marginBottom: 4 }}>
-          <span style={{ fontSize: 18, fontWeight: 700, color: 'var(--accent-red)', fontFamily: 'var(--font-mono)' }}>{stats.fpvLaunched}</span>
-          <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>drones launched</span>
-        </div>
-        <div style={{ display: 'flex', gap: 12, marginTop: 2 }}>
-          <span style={{ fontSize: 14, fontWeight: 700, color: "var(--accent-amber)" }}>{stats.fpvHits}</span><span style={{ fontSize: 7, color: "var(--text-dim)", marginLeft: 2, letterSpacing: 1 }}>HITS</span>
-          <span style={{ fontSize: 14, fontWeight: 700, color: "var(--accent-red)" }}>{stats.fpvKilled}</span><span style={{ fontSize: 7, color: "var(--text-dim)", marginLeft: 2, letterSpacing: 1 }}>KILLED</span>
-          <span style={{ fontSize: 14, fontWeight: 700, color: "var(--accent-cyan)" }}>{"$" + stats.fpvCost}</span><span style={{ fontSize: 7, color: "var(--text-dim)", marginLeft: 2, letterSpacing: 1 }}>PER DRONE</span>
-        </div>
-        <div style={{ fontSize: 8, color: 'var(--text-dim)', marginTop: 4 }}>
-          Fiber-optic FPV - jam-proof, no EM signature
-        </div>
-      </div>
     </div>
   </>)
 }
