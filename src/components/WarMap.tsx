@@ -295,6 +295,7 @@ export default function WarMap() {
         visible={showStats}
         selectedSitrep={selectedSitrep}
         onToggle={() => setShowStats(s => !s)}
+        dateRange={dateRange}
       />
 
       <IncidentPanel attack={selectedAttack} visible={showPanel} onClose={handleClose} />

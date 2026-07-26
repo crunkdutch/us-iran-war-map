@@ -26,9 +26,10 @@ interface Props {
   visible: boolean
   selectedSitrep: SitRep | null
   onToggle: () => void
+  dateRange?: number
 }
 
-export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
+export default function StatsSidebar({ attacks, sitreps, visible, dateRange = Infinity }: Props) {
   const [tab, setTab] = useState<'stats' | 'stmts' | 'sitreps' | 'losses'>('stats')
   const [stmtFilter, setStmtFilter] = useState<'all' | 'CENTCOM' | 'Khatam al Anbiya'>('all')
   const [expandedId, setExpandedId] = useState<number | null>(null)
@@ -69,9 +70,14 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     for (const s of sitreps) {
       if (interceptorKeywords.test(s.description)) sitrepInterceptors++
     }
-    const currentHormuz = hormuzData.length > 0 ? hormuzData[hormuzData.length-1].daily : 0
-    const peakHormuz = hormuzData.length > 0 ? Math.max(...hormuzData.map(d => d.daily)) : 0
-    const hormuzRecent = hormuzData.slice(-7)
+    // Filter hormuz data by selected date range (respects time period selector)
+    const cutoff = dateRange === Infinity ? null : Date.now() - dateRange * 86400000
+    const filteredHormuz = cutoff
+      ? hormuzData.filter(d => new Date(d.date).getTime() >= cutoff)
+      : hormuzData
+    const currentHormuz = filteredHormuz.length > 0 ? filteredHormuz[filteredHormuz.length-1].daily : 0
+    const peakHormuz = filteredHormuz.length > 0 ? Math.max(...filteredHormuz.map(d => d.daily)) : 0
+    const hormuzRecent = filteredHormuz.slice(-7)
     const fpvLaunched = 80
     const fpvHits = 15
     const fpvKilled = 5
