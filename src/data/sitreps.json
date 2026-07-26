@@ -79523,5 +79523,35 @@
     "description": "⚡️ Prime Minister Najib Salam arrived in the Iraqi capital, Baghdad, at the head of a ministerial delegation at the start of an official visit to Iraq.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785059654457,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syrian President: We do not intend to carry out any military intervention in #Lebanon",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785059658842,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syrian President: We do not intend to carry out any military intervention in #Lebanon",
+    "media": [],
+    "verified": false
   }
 ]
