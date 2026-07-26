@@ -78385,6 +78385,51 @@
     "verified": false
   },
   {
+    "id": 1785052350813,
+    "type": "airstrike",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Official: 26 Arbaeen round-trip flights scheduled from Tabriz to Najaf📌 Tabriz, IRNA – The number of special round-trip flights for Arbaeen pilgrims from Tabriz’s Shahid Madani International Airport has reached 26, the director general of East Azarbaijan Province’s Airports has said.Mohammad Ali...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052394455,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Official: 26 Arbaeen round-trip flights scheduled from Tabriz to Najaf📌 Tabriz, IRNA – The number of special round-trip flights for Arbaeen pilgrims from Tabriz’s Shahid Madani International Airport has reached 26, the director general of East Azarbaijan Province’s Airports has said.Mohammad Ali...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052390858,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇱🇦🇿Dozens of Israeli social media sites and channels have begun mocking the Republic of Azerbaijan's Karabakh War martyrs, likening them to donkeys (considered stupid in that region) or describing them as mentally disabled.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -78981,6 +79026,111 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Syria: Local sources: Israeli occupation forces fire artillery shells in the vicinity of the lands of the village of Trunje in the northern Quneitra countryside",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052384833,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: Residents of towns and villages in the West Bank confront the assaults of the occupation forces and settlers themselves.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052407650,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Premature reopening of damaged infrastructure in HormozganChief Justice of Hormozgan:🔹All damaged tunnels, bridges, and communication routes in Hormozgan, which were damaged during the American enemy's attack on the province's infrastructure, have been reopened ahead of schedule.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052371289,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: For a week, there has been no fuel in the West Bank, in addition to the cessation of salaries for most Palestinians, and the closure of schools.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052416247,
+    "type": "airstrike",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Possibility of hearing an explosion sound in southern Isfahan🔹The operation to detonate unexploded ordnance from the Third Imposed War is being carried out in the south of Isfahan city, in the vicinity of Kuh-e Soffeh, Baharestan.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052402029,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shuaib:Since midnight, the Israeli enemy has continued its attacks on southern Lebanon, carrying out two bombings in the towns of Majdal Zoun and Hadatha, coinciding with an intensive combing campaign with machine guns towards Al-Mansouri and Bayt al-Siyad. Ene...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052335423,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shuaib:Since midnight, the Israeli enemy has continued its attacks on southern Lebanon, carrying out two bombings in the towns of Majdal Zoun and Hadatha, coinciding with an intensive combing campaign with machine guns towards Al-Mansouri and Bayt al-Siyad. Ene...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785052339634,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent: The Lebanese army continues search operations in the town of Zawtar al-Gharbiya in the south, in conjunction with rubble removal operations.",
     "media": [],
     "verified": false
   }
