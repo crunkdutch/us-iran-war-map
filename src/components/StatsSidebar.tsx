@@ -3,7 +3,7 @@
 import { useState, useMemo, useRef, useCallback, useEffect } from 'react'
 import type { AttackEvent, SitRep } from './WarMap'
 import statementsData from '@/data/statements.json'
-import hormuzData from '@/data/hormuz-data.json'
+import hormuzData from '@/data/hormuz-data'
 
 interface Statement {
   [key: string]: any
