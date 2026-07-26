@@ -78188,5 +78188,35 @@
     "description": "⚡️ To the government of Israel, the IDF, the Shin Bet, and the police: You are feeding a misleading idea in the West Bank, an idea that is escalating in the face of renewed rising Arab terrorism.Whoever shamelessly promotes \"the danger of Jewish revenge\" and \"mutual clashes\" is unworthy of their pos...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785025808578,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: The Zionist occupation army is launching a wide-ranging campaign of raids and arrests in the West Bank governorates.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785025863684,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli media: Channel 12: Fears of further escalation led Trump not to expand the military \"campaign\" against Iran at this stage. • 23:48 — The New York Times: Trump decided not to expand the war against Iran due to fear of a shortage of Patriot missiles…",
+    "media": [],
+    "verified": false
   }
 ]
