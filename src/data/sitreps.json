@@ -78925,6 +78925,21 @@
     "verified": false
   },
   {
+    "id": 1785090515325,
+    "type": "naval",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-25",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Response of the Leader of the Islamic Revolution, Ayatollah Sayyed Mojtaba Khamenei, to the pledge of allegiance sent by the faithful and courageous fighters of Hezbollah in proud LebanonIn the Name of Allah, the Most Gracious, the Most Merciful \"O you who have believed, fight those disbelievers who...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -81756,6 +81771,171 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/simurgh",
     "description": "🇾🇪🇸🇦Yemen's Ansarallah has published a video of the downed Turkish-manufactured \"Akinci\" UCAV.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090527207,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The occupation launches a campaign of raids and arrests in the West Bank",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090530162,
+    "type": "naval",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-07-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Exclusive source to Al Mayadeen: The Yemeni Armed Forces targeted 3 Saudi oil tankers during the past 48 hours.• 18:16 — Al Mayadeen's special source: The number of Saudi ships that returned and were not allowed to pass since last Monday until today, Sunday, reached 16 ships.; Since the Yemeni bl...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090488705,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Exclusive source to Al Mayadeen: The Yemeni Armed Forces targeted 3 Saudi oil tankers during the past 48 hours.• 18:16 — Al Mayadeen's special source: The number of Saudi ships that returned and were not allowed to pass since last Monday until today, Sunday, reached 16 ships.; Since the Yemeni bl...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090498719,
+    "type": "drone",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Romanian Defense: For the third time in just three days, a Romanian F-16 fighter jet shot down what is believed to be a Russian drone that violated Romanian airspace. The downings occurred",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090526696,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Urgent | Ansar Allah movement leader in Yemen, Mohammed Al-Bukhaiti, to Al-Manar: The Bab Al-Mandeb Strait has become completely closed to Saudi navigation.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090518626,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Urgent | Israeli occupation forces raid the towns of Deir Jarir and Tuqu in the occupied West Bank",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090555258,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Urgent | Israeli occupation forces raid the towns of Deir Jarir and Tuqu in the occupied West Bank",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090547184,
+    "type": "missile",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Missile models installed in Iraqi Husseini processions in the holy province of Karbala, mimicking the missiles of the Islamic Republic of Iran to confront American arrogance in the world.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090467483,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli enemy army hands over the body of Sufyan Abu Lail after detaining him for about 4 months",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090468339,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ German police announce the death of the German-Lebanese suspect who drove his vehicle into a gay pride parade, in an attack that killed one woman and injured nearly thirty people on Saturday.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785090514820,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen– Images from the downing and wreckage of the Saudi enemy's Bayraktar Akıncı drone, which was shot down while carrying out hostile missions in the airspace over Al-Jawf Governorate – July 26, 2026.#Escalation_For_Escalation",
     "media": [],
     "verified": false
   },
