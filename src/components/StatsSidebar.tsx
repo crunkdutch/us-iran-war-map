@@ -49,6 +49,7 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
   }, [])
 
   const stats = useMemo(() => {
+    const cutoff = dateRange === Infinity ? null : Date.now() - dateRange * 86400000
     const byType: Record<string, number> = {}
     const byStatus: Record<string, number> = {}
     let iranMil = 0, iranCiv = 0, usMil = 0, usCiv = 0, kurdish = 0, other = 0
@@ -71,7 +72,6 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
       if (interceptorKeywords.test(s.description)) sitrepInterceptors++
     }
     // Filter hormuz data by selected date range (respects time period selector)
-    const cutoff = dateRange === Infinity ? null : Date.now() - dateRange * 86400000
     const filteredHormuz = cutoff
       ? hormuzData.filter(d => new Date(d.date).getTime() >= cutoff)
       : hormuzData
@@ -86,7 +86,7 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
     const confirmedInterceptors = sitreps.filter(function(s) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(s.description); }).length
     const confirmedAttackInterceptors = attacks.filter(function(a) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(a.description); }).length
     return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent, fpvLaunched, fpvHits, fpvKilled, fpvCost, confirmedInterceptors, confirmedAttackInterceptors }
-  }, [attacks, sitreps, hormuzData])
+  }, [attacks, sitreps, hormuzData, dateRange])
 
   const filteredStatements = useMemo(() => {
     const list = stmtFilter === 'all' ? allStatements : allStatements.filter(s => s.source === stmtFilter)
