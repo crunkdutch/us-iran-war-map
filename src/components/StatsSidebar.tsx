@@ -309,9 +309,10 @@ function StatsContent({ stats }: { stats: any }) {
           <span style={{ fontSize: 9, color: 'var(--text-dim)' }}>of peak</span>
         </div>
         {stats.hormuzRecent && stats.hormuzRecent.length > 0 && (
-          <div style={{ display: 'flex', gap: 2, alignItems: 'flex-end', height: 24, marginTop: 4 }}>
+          <div style={{ display: 'flex', gap: 2, alignItems: 'flex-end', height: 24, marginTop: 4, overflow: 'hidden' }}>
             {stats.hormuzRecent.map((d: any, i: number) => {
-              const barH = Math.max(4, (d.daily / Math.max(stats.peakHormuz, 1)) * 22);
+              const barPeak = Math.max(...stats.hormuzRecent.map((x: any) => x.daily), 1)
+              const barH = Math.min(22, Math.max(4, (d.daily / barPeak) * 22));
               return (
                 <div key={i} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                   <div style={{
