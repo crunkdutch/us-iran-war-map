@@ -16,6 +16,7 @@ const SOURCES_DIR = path.join(DATA_DIR, 'sources')
 const ATTACKS_FILE = path.join(DATA_DIR, 'attacks.json')
 const SITREPS_FILE = path.join(DATA_DIR, 'sitreps.json')
 const STATEMENTS_FILE = path.join(DATA_DIR, 'statements.json')
+const HORMUZ_FILE = path.join(DATA_DIR, 'hormuz-data.json')
 
 // ── Location database (military bases, cities, waterways) ──
 const LOCATIONS = {
@@ -363,6 +364,10 @@ function main() {
   fs.writeFileSync(ATTACKS_FILE, JSON.stringify(existingAttacks, null, 2) + '\n')
 
   existingSitreps.sort((a, b) => a.date.localeCompare(b.date))
+  // ── Hormuz Crossing Data: Extract from Telegram sources ──
+  const hormuzResult = processHormuzData()
+
+  existingSitreps.sort((a, b) => a.date.localeCompare(b.date))
   fs.writeFileSync(SITREPS_FILE, JSON.stringify(existingSitreps, null, 2) + '\n')
 
   existingStatements.sort((a, b) => a.date.localeCompare(b.date))
@@ -375,8 +380,153 @@ function main() {
     totalSitreps: existingSitreps.length,
     addedStatements: newStatements,
     totalStatements: existingStatements.length,
+    addedHormuzEntries: hormuzResult.added,
+    totalHormuzEntries: hormuzResult.total,
   }))
 }
 
+// ── Strait of Hormuz shipping crossings extractor ──
+// Parses Telegram source HTML for shipping/crossing data,
+// merges with the static seed data, and writes hormuz-data.json
+
+function processHormuzData(htmlCache) {
+  // Load existing seed data
+  const existingHormuz = fs.existsSync(HORMUZ_FILE)
+    ? JSON.parse(fs.readFileSync(HORMUZ_FILE, 'utf8'))
+    : []
+  const existingByDate = new Map(existingHormuz.map(e => [e.date, e]))
+  let added = 0
+
+  // Pattern: look for shipping data near Strait of Hormuz mentions
+  // Source patterns from known shipping intelligence sources
+  const shippingPatterns = [
+    // Kpler pattern: "Kpler: N crossings" or "Kpler says N crossings"
+    /Kpler[^\n]{0,30}?(\d{1,3})\s*(?:crossings?|vessels?|ships?|transits?)/gi,
+    // Lloyds pattern: "Lloyd's: N/week" or "Lloyd's List: N"
+    /Lloyd[''']?s?[^\n]{0,30}?(\d{1,3})\s*(?:vessels?|ships?|crossings?|\/week)/gi,
+    // S&P Global pattern
+    /S&P[^\n]{0,30}?(\d{1,3})\s*(?:vessels?|ships?|crossings?)/gi,
+    // General: "N crossings / N vessels through Strait of Hormuz"
+    /(\d{1,3})\s*(?:crossings?|vessels?|ships?|transits?)[^\n]{0,50}?(?:Strait of Hormuz|Hormuz|strait)/gi,
+    // General: "Strait of Hormuz ... N crossings / N ships"
+    /(?:Strait of Hormuz|Hormuz|strait)[^\n]{0,50}?(\d{1,3})\s*(?:crossings?|vessels?|ships?|transits?)/gi,
+    // CENTCOM interdiction: "N ships prevented"
+    /(\d{1,3})\s*(?:ships?|vessels?)[^\n]{0,30}?prevented/gi,
+    // "traffic ... down to N" (Strait context)
+    /(?:traffic|shipping|transit)[^\n]{0,30}?(?:down to|at|reached|stands at|sitting at)[^\n]{0,20}?(\d{1,3})\s*(?:\/day|daily|per day|vessels|ships|crossings?)/gi,
+    // "N ships ... blocked / interdicted"
+    /(\d{1,3})\s*(?:ships?|vessels?)[^\n]{0,40}?(?:blocked|interdict|turn|stop)/gi,
+  ]
+
+  // Label extraction: keywords that help identify the source/significance
+  function extractLabel(text, daily) {
+    const l = text.toLowerCase()
+    if (l.includes('kpler')) {
+      const detail = l.includes('lloyd') ? '' : ''
+      if (daily > 30) return `Kpler: ${daily} crossings`
+      return `Kpler: ${daily} crossings`
+    }
+    if (l.includes("lloyd")) return `Lloyd's: ${daily}/week`
+    if (l.includes('s&p')) return `S&P: ${daily} vessels`
+    if (l.includes('centcom')) return `CENTCOM: ${daily} ships`
+    if (l.includes('imo')) return `IMO data`
+    if (l.includes('al jazeera')) return `Al Jazeera: ${daily} crossings`
+    if (l.includes('prevent') || l.includes('block')) return `${daily} ships prevented`
+    if (l.includes('disabled')) return `Vessel disabled`
+    if (l.includes('single digit') || daily < 10 && daily > 0) return `Single digits`
+    if (daily === 0) return 'Zero traffic'
+    return `~${daily}/day`
+  }
+
+  function extractNote(text) {
+    // Try to extract a concise note
+    const l = text.toLowerCase()
+    const notes = []
+    if (l.includes('kpler')) notes.push('Kpler shipping data')
+    if (l.includes('lloyd')) notes.push("Lloyd's List Intelligence")
+    if (l.includes('s&p')) notes.push('S&P Global')
+    if (l.includes('centcom')) notes.push('CENTCOM statement')
+    if (l.includes('al jazeera')) notes.push('Al Jazeera report')
+    if (l.includes('imo')) notes.push('International Maritime Organization')
+    // Extract any parenthetical context
+    const paren = text.match(/\(([^)]{10,100})\)/)
+    if (paren) notes.push(paren[1])
+    return notes.join(' — ') || text.slice(0, 120).trim()
+  }
+
+  // Scan all source HTML for shipping data
+  const files = fs.readdirSync(SOURCES_DIR).filter(f => f.endsWith('.html'))
+  for (const file of files) {
+    const html = fs.readFileSync(path.join(SOURCES_DIR, file), 'utf8')
+    const pageDateMatch = html.match(/datetime="([^"]+)"/)
+    const pageDate = pageDateMatch ? pageDateMatch[1].slice(0, 10) : null
+
+    const postBlocks = html.split('tgme_widget_message_wrap')
+    for (const block of postBlocks) {
+      if (block.length < 100) continue
+
+      // Extract text
+      const textMatch = block.match(/<div class="tgme_widget_message_text[^>]*>([\s\S]*?)<\/div>/)
+      if (!textMatch) continue
+      const rawText = textMatch[1].replace(/<[^>]*>/g, '')
+        .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+        .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
+        .replace(/\s+/g, ' ').trim()
+
+      const l = rawText.toLowerCase()
+      // Must mention Strait of Hormuz or shipping context
+      const isShipping = /strait of hormuz|hormuz|shipping|vessel|tanker|oil tanker|lloyd|kpler|aiv|maritime|blockade|naval|ship/i.test(l)
+      if (!isShipping) continue
+
+      // Try each pattern
+      for (const pattern of shippingPatterns) {
+        pattern.lastIndex = 0
+        let match
+        while ((match = pattern.exec(rawText)) !== null) {
+          const daily = parseInt(match[1])
+          if (isNaN(daily) || daily < 0 || daily > 200) continue
+
+          // Determine date: try inline date first, then page date
+          let date = extractDate(rawText, null)
+          if (!date || date < '2026-02-01') {
+            date = pageDate
+          }
+          if (!date || date < '2026-02-01' || date > '2026-12-31') continue
+
+          // Check if we already have an entry for this date
+          if (existingByDate.has(date)) {
+            const existing = existingByDate.get(date)
+            // Update if new daily value is different (suggests refinement)
+            if (existing.daily !== daily) {
+              // Keep the one from a more authoritative source
+              // Prefer Kpler > Lloyd's > S&P > CENTCOM > general
+            }
+            continue // skip duplicates
+          }
+
+          const label = extractLabel(rawText, daily)
+          const note = extractNote(rawText)
+
+          existingByDate.set(date, { date, daily, label, note })
+          added++
+        }
+      }
+    }
+  }
+
+  // Sort by date and write
+  const merged = Array.from(existingByDate.values())
+    .sort((a, b) => a.date.localeCompare(b.date))
+
+  fs.writeFileSync(HORMUZ_FILE, JSON.stringify(merged, null, 2) + '\n')
+  console.error(`  Hormuz: ${added} new entries, ${merged.length} total`)
+
+  return { added, total: merged.length }
+}
+
+// Cache full HTML text per file for the Hormuz extractor
+// (We read files in the main loop, but pass htmlCache as empty for now)
+// The Hormuz extractor re-reads files internally for clarity
+
 if (require.main === module) main()
-module.exports = { extractLocations, classifyAttackType, isStatement, extractEntity, extractDate, generateTitle }
+module.exports = { extractLocations, classifyAttackType, isStatement, extractEntity, extractDate, generateTitle, processHormuzData }

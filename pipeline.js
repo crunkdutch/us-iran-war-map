@@ -60,7 +60,8 @@ async function main() {
   }
 
   // 4. Copy dynamic data to public/ for client-side polling
-  run('Copying data to public/', 'cp src/data/irgc-losses.json public/data/irgc-losses.json')
+  run('Copying irgc-losses to public/', 'cp src/data/irgc-losses.json public/data/irgc-losses.json')
+  run('Copying hormuz-data to public/', 'cp src/data/hormuz-data.json public/data/hormuz-data.json')
 
   // 5. Build the site
   run('Building site', 'npm run build')

@@ -8,14 +8,14 @@
   {
     "date": "2026-02-28",
     "daily": 0,
-    "label": "War begins - zero traffic",
-    "note": "Operation Epic Fury, Khamenei killed"
+    "label": "War begins — zero traffic",
+    "note": "First strikes, complete shutdown"
   },
   {
     "date": "2026-03-01",
-    "daily": 1,
+    "daily": 2,
     "label": "Near-total halt",
-    "note": "Ships attacked/abandoned Mar 1-2"
+    "note": "Only military/Iranian-flagged vessels"
   },
   {
     "date": "2026-03-04",
@@ -37,9 +37,9 @@
   },
   {
     "date": "2026-03-15",
-    "daily": 3,
-    "label": "Sanctioned vessels only",
-    "note": "Iran-friendly flagged vessels"
+    "daily": 4,
+    "label": "Trickle resumes",
+    "note": "Sanctioned/Iranian vessels only"
   },
   {
     "date": "2026-03-27",
@@ -49,7 +49,7 @@
   },
   {
     "date": "2026-04-01",
-    "daily": 4,
+    "daily": 5,
     "label": "April avg: 6.4/day",
     "note": "191 vessels entire month (Kpler/CNN)"
   },
@@ -73,9 +73,9 @@
   },
   {
     "date": "2026-04-30",
-    "daily": 5,
-    "label": "End of April",
-    "note": "Gradual recovery signs"
+    "daily": 7,
+    "label": "Gradual recovery begins",
+    "note": "Some non-sanctioned vessels test route"
   },
   {
     "date": "2026-05-04",
@@ -85,9 +85,9 @@
   },
   {
     "date": "2026-05-15",
-    "daily": 8,
-    "label": "Ceasefire optimism",
-    "note": "Traffic slowly increasing"
+    "daily": 10,
+    "label": "Steady increase",
+    "note": "Ceasefire diplomacy improving outlook"
   },
   {
     "date": "2026-05-29",
@@ -105,7 +105,7 @@
     "date": "2026-06-17",
     "daily": 18,
     "label": "Islamabad MOU signed",
-    "note": "Ceasefire - traffic rebounds"
+    "note": "Ceasefire — traffic rebounds sharply"
   },
   {
     "date": "2026-06-20",
@@ -115,69 +115,15 @@
   },
   {
     "date": "2026-06-25",
-    "daily": 15,
-    "label": "JMIC widens route",
-    "note": "Omani corridor established"
+    "daily": 20,
+    "label": "Post-MOU peak",
+    "note": "Near normal levels for ~3 weeks"
   },
   {
     "date": "2026-06-30",
     "daily": 16,
     "label": "Late June plateau",
     "note": "30-40/day in early July ahead"
-  },
-  {
-    "date": "2026-02-28",
-    "daily": 0,
-    "label": "War begins — zero traffic",
-    "note": "First strikes, complete shutdown"
-  },
-  {
-    "date": "2026-03-01",
-    "daily": 2,
-    "label": "Near-total halt",
-    "note": "Only military/Iranian-flagged vessels"
-  },
-  {
-    "date": "2026-03-15",
-    "daily": 4,
-    "label": "Trickle resumes",
-    "note": "Sanctioned/Iranian vessels only"
-  },
-  {
-    "date": "2026-04-01",
-    "daily": 5,
-    "label": "April avg: 6.4/day",
-    "note": "191 vessels entire month (Kpler/CNN)"
-  },
-  {
-    "date": "2026-04-30",
-    "daily": 7,
-    "label": "Gradual recovery begins",
-    "note": "Some non-sanctioned vessels test route"
-  },
-  {
-    "date": "2026-05-15",
-    "daily": 10,
-    "label": "Steady increase",
-    "note": "Ceasefire diplomacy improving outlook"
-  },
-  {
-    "date": "2026-06-01",
-    "daily": 12,
-    "label": "Pre-MOU recovery",
-    "note": "Shipowners slowly return"
-  },
-  {
-    "date": "2026-06-17",
-    "daily": 18,
-    "label": "Islamabad MOU signed",
-    "note": "Ceasefire — traffic rebounds sharply"
-  },
-  {
-    "date": "2026-06-25",
-    "daily": 20,
-    "label": "Post-MOU peak",
-    "note": "Near normal levels for ~3 weeks"
   },
   {
     "date": "2026-07-03",
