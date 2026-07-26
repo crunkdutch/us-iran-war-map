@@ -80558,5 +80558,95 @@
     "description": "⚡️ 🚨Initial report - Kuwait officially approved a defense cooperation agreement with Pakistan.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785075140146,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Zionist announcement: The Cabinet approves the entry of the so-called \"Peace Council\" into the Gaza Strip.• 13:50 — Enemy Zionist Media - Israel Hayom: The Political-Security Cabinet (the \"Kabinett\") approved the plan that allows the entry of the \"Peace Council\" and multinational internatio...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785075156575,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-26",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Zionist announcement: The Cabinet approves the entry of the so-called \"Peace Council\" into the Gaza Strip.• 13:50 — Enemy Zionist Media - Israel Hayom: The Political-Security Cabinet (the \"Kabinett\") approved the plan that allows the entry of the \"Peace Council\" and multinational internatio...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785075146114,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Editor of Hebrew Affairs at Al-Manar Channel, Hassan Hijazi:Netanyahu: Contrary to what you hear in the media, we have not withdrawn one millimeter from the original Yellow Line in Lebanon.Netanyahu: Regarding the two experimental zones: in one of them, we did not have a single soldier, so we did...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785075163609,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Editor of Hebrew Affairs at Al-Manar Channel, Hassan Hijazi:Netanyahu: Contrary to what you hear in the media, we have not withdrawn one millimeter from the original Yellow Line in Lebanon.Netanyahu: Regarding the two experimental zones: in one of them, we did not have a single soldier, so we did...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785075107337,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: Occupation mechanisms heavily open fire southeast of Deir al-Balah city in the central Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785075112603,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Latest developments from southern Lebanon with our correspondent Hashem Al-Sayed Hassan",
+    "media": [],
+    "verified": false
   }
 ]
