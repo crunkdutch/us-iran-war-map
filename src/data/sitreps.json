@@ -30,6 +30,21 @@
     "verified": false
   },
   {
+    "id": 1785046615502,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Haaretz: Netanyahu's name will be recorded as the worst prime minister in Israel's historyThe Hebrew newspaper \"Haaretz\":History will remember Benjamin Netanyahu as the \"worst prime minister\" of the Zionist regime.His failures are not limited to the events of October 7, 2023 (the start of Operati...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -78250,6 +78265,36 @@
     "verified": false
   },
   {
+    "id": 1785046654535,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran summons Ukrainian chargé d’affaires over attack on commercial vessel📌 Tehran, IRNA – Iran’s Foreign Ministry has summoned Ukraine’s chargé d’affaires in Tehran following a military attack by Ukrainian forces on an Iranian commercial vessel in the Caspian Sea that killed one sailor and injur...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785046645751,
+    "type": "naval",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran summons Ukrainian chargé d’affaires over attack on commercial vessel📌 Tehran, IRNA – Iran’s Foreign Ministry has summoned Ukraine’s chargé d’affaires in Tehran following a military attack by Ukrainian forces on an Iranian commercial vessel in the Caspian Sea that killed one sailor and injur...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -78531,6 +78576,66 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Continuation of the raids and arrests campaign by the Zionist enemy in the West Bank",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785046647117,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew newspaper Haaretz:Senior \"Israeli army\" officers warn that the political echelon is providing support for the violence carried out by settlers in the West Bank.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785046624036,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew newspaper Haaretz:Senior \"Israeli army\" officers warn that the political echelon is providing support for the violence carried out by settlers in the West Bank.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785046672159,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Zionist occupation forces raid a building in Raphidia neighborhood. • 05:52 — Occupation forces arrest a woman during a raid on the Rofidia area in Nablus. (Nablus Gheir) • 05:57 — Our brothers in the Rofidia area who detect the presence of occupation forces…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785046586572,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫🔴Nahed Shuheiber:Does the citizen in Gaza know that the coordination of rat poison was sold by one of the merchants approved by Israel for one million shekels?",
     "media": [],
     "verified": false
   }
