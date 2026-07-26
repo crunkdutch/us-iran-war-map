@@ -3,7 +3,6 @@
 import { useState, useMemo, useRef, useCallback, useEffect } from 'react'
 import type { AttackEvent, SitRep } from './WarMap'
 import statementsData from '@/data/statements.json'
-import hormuzData from '@/data/hormuz-data.json'
 
 interface Statement {
   [key: string]: any
@@ -39,6 +38,15 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
   const [dragging, setDragging] = useState(false)
   const dragRef = useRef(false)
 
+  // ── Hormuz data: runtime fetch from public/ (bypasses Vercel build cache) ──
+  const [hormuzData, setHormuzData] = useState<{date:string;daily:number;label:string;note:string}[]>([])
+  useEffect(() => {
+    fetch('/data/hormuz-data.json')
+      .then(r => r.json())
+      .then(d => { if (Array.isArray(d) && d.length) setHormuzData(d) })
+      .catch(() => {})
+  }, [])
+
   const stats = useMemo(() => {
     const byType: Record<string, number> = {}
     const byStatus: Record<string, number> = {}
@@ -61,10 +69,9 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     for (const s of sitreps) {
       if (interceptorKeywords.test(s.description)) sitrepInterceptors++
     }
-    const hData = hormuzData as { date: string; daily: number; label: string; note: string }[]
-    const currentHormuz = hData.length > 0 ? hData[hData.length-1].daily : 0
-    const peakHormuz = Math.max(...hData.map(d => d.daily))
-    const hormuzRecent = hData.slice(-7)
+    const currentHormuz = hormuzData.length > 0 ? hormuzData[hormuzData.length-1].daily : 0
+    const peakHormuz = hormuzData.length > 0 ? Math.max(...hormuzData.map(d => d.daily)) : 0
+    const hormuzRecent = hormuzData.slice(-7)
     const fpvLaunched = 80
     const fpvHits = 15
     const fpvKilled = 5
@@ -73,7 +80,7 @@ export default function StatsSidebar({ attacks, sitreps, visible }: Props) {
     const confirmedInterceptors = sitreps.filter(function(s) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(s.description); }).length
     const confirmedAttackInterceptors = attacks.filter(function(a) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(a.description); }).length
     return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent, fpvLaunched, fpvHits, fpvKilled, fpvCost, confirmedInterceptors, confirmedAttackInterceptors }
-  }, [attacks, sitreps])
+  }, [attacks, sitreps, hormuzData])
 
   const filteredStatements = useMemo(() => {
     const list = stmtFilter === 'all' ? allStatements : allStatements.filter(s => s.source === stmtFilter)
