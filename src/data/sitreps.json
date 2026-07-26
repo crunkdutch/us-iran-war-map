@@ -73165,6 +73165,21 @@
     "verified": false
   },
   {
+    "id": 1785057642987,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew Newspaper:In light of the security tensions and concerns over escalation with Iran, the \"Israeli\" cabinet meeting scheduled for this afternoon will be held at a secure underground facility.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1784999995303,
     "type": "airstrike",
     "location": "Yemen",
@@ -78460,6 +78475,21 @@
     "verified": false
   },
   {
+    "id": 1785057611081,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Funeral procession for late Akbar Abdi held in Tehran📲 @Irna_en",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -79281,6 +79311,216 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ 🔺Premature reopening of damaged infrastructure in Hormozgan Chief Justice of Hormozgan: 🔹All damaged tunnels, bridges, and communication routes in Hormozgan, which were damaged during the American enemy's attack on the province's infrastructure, have been…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057551613,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Al Mayadeen correspondent in occupied Palestine:Occupation forces close most entrances to West Bank towns and villages.The occupation closes the entrances to West Bank towns and villages with closed checkpoints, preventing entry and exit.Occupation forces establish a new settlement outpost north ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057617575,
+    "type": "rocket",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Local sources in occupied Syria:Israeli occupation forces penetrate the villages of Ma'ariya and Al-Arida in the Yarmouk Basin area in the western Daraa countryside.Israeli occupation forces drop warning leaflets to the residents of the Yarmouk Basin, west of Daraa, warning against closing roads ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057634776,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Local sources in occupied Syria:Israeli occupation forces penetrate the villages of Ma'ariya and Al-Arida in the Yarmouk Basin area in the western Daraa countryside.Israeli occupation forces drop warning leaflets to the residents of the Yarmouk Basin, west of Daraa, warning against closing roads ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057605017,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Kan Hebrew Channel: Israeli security agencies are preparing for the possibility of escalation in the West Bank, amid increasing daily confrontations between settlers and Palestinians, in addition to fears of nationalistically motivated attacks that could lead to an explosion of the situation.• 08...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057582441,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Kan Hebrew Channel: Israeli security agencies are preparing for the possibility of escalation in the West Bank, amid increasing daily confrontations between settlers and Palestinians, in addition to fears of nationalistically motivated attacks that could lead to an explosion of the situation.• 08...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057602954,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #The_Islamic_Republic Reopening of all tunnels, bridges, and traffic arteries damaged by the American attack that targeted infrastructure in Hormozgan Province, southern Islamic Republic of Iran.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057647284,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Martyrdom due to the bombing of a Tucson vehicle south of Deir al-Balah in the central Gaza Strip..• 08:47 — #Photo from the site of the shelling south of Deir al-Balah (Rasd al Maidan)• 08:52 — Occupied Palestine: Al Mayadeen correspondent: A martyr in a vehicle shelling southeast of Deir al-Bal...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057566088,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-07-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Foreign Minister Youssef Reggi: President Joseph Aoun's visit to Washington contributed to breaking the stalemate in the experimental areas file.- Every item in the framework agreement forms a basis upon which future negotiations will be built.- Hezbollah is Lebanese in name, Iranian in essence.-...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057551057,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Foreign Minister Youssef Reggi: President Joseph Aoun's visit to Washington contributed to breaking the stalemate in the experimental areas file.- Every item in the framework agreement forms a basis upon which future negotiations will be built.- Hezbollah is Lebanese in name, Iranian in essence.-...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057559594,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Foreign Minister Youssef Reggi: President Joseph Aoun's visit to Washington contributed to breaking the stalemate in the experimental areas file.- Every item in the framework agreement forms a basis upon which future negotiations will be built.- Hezbollah is Lebanese in name, Iranian in essence.-...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057603075,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Approved rates for 3 dairy productsFood Security and Agricultural Goods Market Regulation Working Group:🔹️One-liter bottled milk with 2.5% fat: 120,000 tomans🔹️900-gram nylon-packaged milk with 2.5% fat: 91,000 tomans🔹️Two-kilogram tub yogurt with 2.5% fat: 265,000 tomans",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057572130,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestine: A number of injuries due to targeting of a civilian jeep in Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057646722,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Prime Minister Najib Salam arrived in the Iraqi capital, Baghdad, at the head of a ministerial delegation at the start of an official visit to Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785057676850,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Prime Minister Najib Salam arrived in the Iraqi capital, Baghdad, at the head of a ministerial delegation at the start of an official visit to Iraq.",
     "media": [],
     "verified": false
   }
