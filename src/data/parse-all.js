@@ -266,6 +266,18 @@ function main() {
   const existingStatements = fs.existsSync(STATEMENTS_FILE) ?
     JSON.parse(fs.readFileSync(STATEMENTS_FILE, 'utf8')) : []
 
+  // Ensure all attacks have the media field
+  let mediaFieldFixed = 0
+  for (const a of existingAttacks) {
+    if (!('media' in a)) {
+      a.media = []
+      mediaFieldFixed++
+    }
+  }
+  if (mediaFieldFixed > 0) {
+    console.error(`  Added media field to ${mediaFieldFixed} existing attacks`)
+  }
+
   const existingAttackKeys = new Set(existingAttacks.map(a =>
     `${a.date}-${a.location}-${a.type}`))
   const existingSitrepKeys = new Set(existingSitreps.map(s =>
