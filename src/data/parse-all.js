@@ -160,13 +160,10 @@ function extractCasualties(text) {
       if (totalForEvent > 3000) break
 
       // ── Affiliation classification ──
-      if (/iranian|irgc|tehran|iran['']?s|sepah|khatam|artesh|iranians/i.test(ctx)) {
-        if (/civilian|children|child|school|women|family|residential|village|town|hospital|mosque|innocent|public/i.test(ctx)) {
-          cas.iranian_civ += num
-        } else {
-          cas.iranian_mil += num
-        }
-      } else if (/us\s|american|centcom|pentagon|us\s+military|us\s+forces|us\s+soldiers|american\s+soldiers|us\s+army/i.test(ctx)) {
+      // Order matters: check most specific first. US/American keywords should be checked
+      // BEFORE Iranian, because context like "iranian strikes killed 21 US army personnel"
+      // contains both "iranian" (distant) and "US" (near the number).
+      if (/us\s|american|centcom|pentagon|us\s+military|us\s+forces|us\s+soldiers|american\s+soldiers|us\s+army|us\s+airbase|us\s+naval|us\s+fleet|us\s+personnel/i.test(ctx)) {
         if (/civilian|children|child|innocent|family/i.test(ctx)) {
           cas.us_civ += num
         } else {
@@ -184,6 +181,12 @@ function extractCasualties(text) {
         }
       } else if (/hezbollah|houthi|ansar|yemen|iraqi|shiite|shia|lebanese/i.test(ctx)) {
         cas.other += num
+      } else if (/iranian|irgc|tehran|iran['']?s|sepah|khatam|artesh|iranians/i.test(ctx)) {
+        if (/civilian|children|child|school|women|family|residential|village|town|hospital|mosque|innocent|public/i.test(ctx)) {
+          cas.iranian_civ += num
+        } else {
+          cas.iranian_mil += num
+        }
       } else if (/civilian|children|child|school|women|family|residential|village|town|hospital|mosque|innocent|public/i.test(ctx)) {
         cas.iranian_civ += num
       } else {

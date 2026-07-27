@@ -1228,9 +1228,9 @@
       }
     ],
     "casualties": {
-      "iranian_mil": 21,
+      "iranian_mil": 0,
       "iranian_civ": 0,
-      "us_mil": 0,
+      "us_mil": 21,
       "us_civ": 0,
       "kurdish": 0,
       "other": 0
@@ -1956,12 +1956,12 @@
       }
     ],
     "casualties": {
-      "iranian_mil": 8,
+      "iranian_mil": 4,
       "iranian_civ": 0,
       "us_mil": 0,
       "us_civ": 0,
       "kurdish": 0,
-      "other": 0
+      "other": 4
     },
     "description": "🇮🇷| 4 Iranian diplomats were martyred in an Israeli attack on a hotel in Beirut.In the early hours of Sunday morning, Israel carried out a attack on the Ramada Hotel in Beirut, killing 4 Iranian diplomats:🕊️Majid Hassani Kandsar (2nd Secretary of the Embassy)🕊️Alireza Bi'azar (3rd Secretary of the Embassy)🕊️ Hossein Ahmadlou (Military Attaché)🕊️Ahmad Rasouli (Military Mission Officer)@FotrosResistancee",
     "satelliteImage": null,
