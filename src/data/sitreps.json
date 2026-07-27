@@ -15,6 +15,51 @@
     "verified": false
   },
   {
+    "id": 1785159548238,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "1988-07-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iranian Army vows stronger response to any possible aggression📌 Tehran, IRNA – The Iranian Army has warned that it will respond with an even harsher and more crushing blow to any possible aggression.In a statement issued on Monday to mark the anniversary of Operation Mersad, the Army said the op...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159558953,
+    "type": "airstrike",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "1988-07-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iranian Army vows stronger response to any possible aggression📌 Tehran, IRNA – The Iranian Army has warned that it will respond with an even harsher and more crushing blow to any possible aggression.In a statement issued on Monday to mark the anniversary of Operation Mersad, the Army said the op...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159478957,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "1988-07-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iranian Army vows stronger response to any possible aggression📌 Tehran, IRNA – The Iranian Army has warned that it will respond with an even harsher and more crushing blow to any possible aggression.In a statement issued on Monday to mark the anniversary of Operation Mersad, the Army said the op...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785086864868,
     "type": "naval",
     "location": "Gilan",
@@ -78940,6 +78985,66 @@
     "verified": false
   },
   {
+    "id": 1785159538992,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇶🇾🇪🇸🇦| Iranian allies reportedly struck ARAMCO refinery related facilities in Abqaiq, Saudi Arabia, with drones. Nasa Firms confirms there are massive fires captured on satellite imagery. Saudi Arabia has blamed resistance groups in Iraq for the attack and says it reserves the right to respon...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159476464,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇶🇾🇪🇸🇦| Iranian allies reportedly struck ARAMCO refinery related facilities in Abqaiq, Saudi Arabia, with drones. Nasa Firms confirms there are massive fires captured on satellite imagery. Saudi Arabia has blamed resistance groups in Iraq for the attack and says it reserves the right to respon...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159561738,
+    "type": "naval",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-07-25",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12:Following the Houthi attacks against Saudi vessels, shipping traffic through the Bab Al-Mandab Strait has declined. Reuters, citing data from Kpler, reported that only 11 vessels transited the strait yesterday—the lowest level recorded in recent months.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159541659,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-25",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian Army: In accordance with the directives of the Commander-in-Chief of the Armed Forces, and in coordination with the other branches of the Armed Forces, the Army remains on the highest level of readiness and more vigilant than ever in confronting any threat or conspiracy by t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -82135,6 +82240,396 @@
     "verified": false
   },
   {
+    "id": 1785136454751,
+    "type": "drone",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇯🇴 | Satellite imagery confirms multiple impacts on Muwaffaq Salti Air Base in Jordan. Notably, the affected areas remained intact prior to this round of strikes. Confirmed damage includes two aircraft shelters, one AN/TPY-2 radar site, U.S. soldier barracks, MQ-9 drone hangars, two newly construc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785136444818,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Sanaa Government Transport Minister Mohammed Quhaim to Al Masirah TV:- Saudi Arabia has been bombing the Port of Al Hudaydah since the very first day of its brutal aggression against Yemen.- The Saudi enemy imposed an inspection and permit mechanism, forcing containers to wait in Djibouti for...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785136397880,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Sanaa Government Transport Minister Mohammed Quhaim to Al Masirah TV:- Saudi Arabia has been bombing the Port of Al Hudaydah since the very first day of its brutal aggression against Yemen.- The Saudi enemy imposed an inspection and permit mechanism, forcing containers to wait in Djibouti for...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785136439959,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Sanaa Government Transport Minister Mohammed Quhaim to Al Masirah TV:- Saudi Arabia has been bombing the Port of Al Hudaydah since the very first day of its brutal aggression against Yemen.- The Saudi enemy imposed an inspection and permit mechanism, forcing containers to wait in Djibouti for...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785136488066,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Sanaa Government Transport Minister Mohammed Quhaim to Al Masirah TV:- Saudi Arabia has been bombing the Port of Al Hudaydah since the very first day of its brutal aggression against Yemen.- The Saudi enemy imposed an inspection and permit mechanism, forcing containers to wait in Djibouti for...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785136401742,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | The Islamic Rituals Revival Authority, affiliated with the Islamic Resistance Kataib Hezbollah, has deployed vehicles to Iraq’s border crossings to transport pilgrims attending Imam Husayn's (a) Arbaeen pilgrimage to the holy shrines, as part of its efforts to serve the visitors.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785136426815,
+    "type": "airstrike",
+    "location": "King Faisal Air Base",
+    "coordinates": [
+      30.05,
+      35.45
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇯🇴 | Footage of the destruction of an aircraft hangar at King Faisal Air Base in Jordan on July 22, reportedly used as an ammunition storage facility for america’s special forces.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785136486775,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇯🇴 | Footage of the destruction of an aircraft hangar at King Faisal Air Base in Jordan on July 22, reportedly used as an ammunition storage facility for america’s special forces.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159469506,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "No one:Saudi Arabia’s Jizan refinery over the past 50 hours…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159531049,
+    "type": "airstrike",
+    "location": "Kharg Island",
+    "coordinates": [
+      29.2352,
+      50.309
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇺🇸 NEW: Trump has started a posting spree on Truth SocialAmong the posts are AI images of strikes on Kharg Island, an imaginary movie poster starring Trump called ‘Cosmic Commander’, and other things.@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159471673,
+    "type": "airstrike",
+    "location": "Kharg Island",
+    "coordinates": [
+      29.2352,
+      50.309
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇺🇸 NEW: Trump has started a posting spree on Truth Social Among the posts are AI images of strikes on Kharg Island, an imaginary movie poster starring Trump called ‘Cosmic Commander’, and other things. @Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159509351,
+    "type": "drone",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇯🇴 BREAKING: Drone launches from Iran towards JordanEdit: Launches by the Iraqis.@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159504362,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇯🇴 BREAKING: Drone launches from Iran towards JordanEdit: Launches by the Iraqis.@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159521823,
+    "type": "drone",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇮🇶 NEW: An Iranian drone attack targets Erbil Governorate, Iraqi Kurdistan@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159504671,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇮🇶 NEW: An Iranian drone attack targets Erbil Governorate, Iraqi Kurdistan@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159553786,
+    "type": "drone",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇯🇴 BREAKING: Drone launches from Iran towards Jordan Edit: Launches by the Iraqis. @Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159517576,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇯🇴 BREAKING: Drone launches from Iran towards Jordan Edit: Launches by the Iraqis. @Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159565889,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇸🇦/🇾🇪 NEW: The ARAMCO refinery at Jizan, Saudi Arabia, is still burning more than 48 hours after it was struck by Yemeni missilesThe fires are so extensive that the entire facility may be out of operation for several years. The smoke trail can be seen from space.@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159555929,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇸🇦/🇾🇪 NEW: The ARAMCO refinery at Jizan, Saudi Arabia, is still burning more than 48 hours after it was struck by Yemeni missilesThe fires are so extensive that the entire facility may be out of operation for several years. The smoke trail can be seen from space.@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159491043,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇺🇸/🇮🇷 NEW: An IRIB poll has found that 78% of Iranians support exercising control and levying tolls over the Strait of Hormuz, even if it leads to another full-scale war with the United States@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159484472,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "It’s actually over for Saudi Arabia if this is the equation set by the Yemenis.Oil facilities in response to an airspace incursion by surveillance UAVs is wild.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159474876,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "It’s actually over for Saudi Arabia if this is the equation set by the Yemenis.Oil facilities in response to an airspace incursion by surveillance UAVs is wild.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159542771,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇸🇦/🇮🇶 NEW: Satellite imagery shows a large fire at the Aramco refinery in Abqaiq, Saudi Arabia, after a drone attack from Iraq@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159535871,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇸🇦/🇮🇶 NEW: Satellite imagery shows a large fire at the Aramco refinery in Abqaiq, Saudi Arabia, after a drone attack from Iraq@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159548775,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇸🇦/🇮🇶 NEW: Fuel depots and oil processing infrastructure were destroyed in the Iraqi drone attack against Abqaiq refinery in eastern Saudi Arabia this morning@Middle_East_Spdctator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159472235,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇸🇦/🇮🇶 NEW: Fuel depots and oil processing infrastructure were destroyed in the Iraqi drone attack against Abqaiq refinery in eastern Saudi Arabia this morning@Middle_East_Spdctator",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785075864321,
     "type": "airstrike",
     "location": "Oman",
@@ -82146,6 +82641,456 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ 🔺New Gold Bar Auction; Possibility of Purchasing up to 750 Billion Tomans of Gold🔹The 152nd gold bar auction will be held on Tuesday (July 27, 2026) from 2 PM to 5 PM. Applicants have until July 26 to deposit 500 million Rials for each requested bar. The maximum purchase limit per person is 25 ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159536040,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "⚡️🇵🇸🇮🇱 A massive archive of evidence showing Israeli war crimes committed over the past 3+ years is now publicly available. The archive is searchable, sorted by various tags, with incidents geolocated on a map. All media is downloadable. New evidence continues to be logged as mew incidents occur...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159562161,
+    "type": "airstrike",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🏴| Martyr Nima Moradi, who was martyred in a Ukrainian attack on an Iranian vessel in the Caspian Sea.🏴@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159502273,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli forces carried out a series of attacks across southern Lebanon. Bombardments targeted Majdal Zoun, Hadatha, Ayta al-Shaab, Mays al-Jabal, the area between Al-Tiri and Bint Jbeil, the area between Konin and Ainata, Al-Tiri, the outskirts of Kafr Tebnit, Al-Qantara, and Rashaf. An Israe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159519007,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli forces carried out a series of attacks across southern Lebanon. Bombardments targeted Majdal Zoun, Hadatha, Ayta al-Shaab, Mays al-Jabal, the area between Al-Tiri and Bint Jbeil, the area between Konin and Ainata, Al-Tiri, the outskirts of Kafr Tebnit, Al-Qantara, and Rashaf. An Israe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159471225,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | One floating-roof crude oil storage tank, two fixed-roof storage tanks, and several pipelines continue to burn at the Jizan refinery in Saudi Arabia.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159547562,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "❇️ Yemen plans to collaborate with the Lebanese and Iraqi resistance movements to restrict access to the Mediterranean Sea. They foresee an escalation in the maritime battle with israel and the US, with potential surprises that could push israel to seek a…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159479942,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "❇️ Yemen plans to collaborate with the Lebanese and Iraqi resistance movements to restrict access to the Mediterranean Sea. They foresee an escalation in the maritime battle with israel and the US, with potential surprises that could push israel to seek a…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159497250,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "❇️ Yemen plans to collaborate with the Lebanese and Iraqi resistance movements to restrict access to the Mediterranean Sea. They foresee an escalation in the maritime battle with israel and the US, with potential surprises that could push israel to seek a…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159547643,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Richard Burgon, a British MP, has stated that over 80 parliamentarians from both chambers of the UK legislature, spanning nine political parties, have endorsed a petition urging the implementation of extensive sanctions against Israel, according to a Rusiya Al-Yaum report.📲 @Irna_en",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159486232,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Ukraine’s attack on Iranian vessel violates states’ obligations to protect human life: Top rights body📌 Tehran, IRNA – Iran’s High Council for Human Rights has condemned Ukraine’s military attack on an Iranian commercial vessel in the Caspian Sea, calling it an unjustifiable act that violated in...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159511644,
+    "type": "naval",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Ukraine’s attack on Iranian vessel violates states’ obligations to protect human life: Top rights body📌 Tehran, IRNA – Iran’s High Council for Human Rights has condemned Ukraine’s military attack on an Iranian commercial vessel in the Caspian Sea, calling it an unjustifiable act that violated in...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159479590,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "An Iranian leopard has been observed in the Lar protected no-hunting zone. Tehran's environmental authorities cited this sighting as evidence of thriving ecosystems and the positive outcome of ongoing protective measures in the area.📲 @Irna_en",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159565268,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Netanyahu:I am on my way to Washington to meet our friend, President Trump. This will be my eighth meeting with him, a number of meetings that exceeds what any other leader has held with him.From my experience, these complex times require very firm action and great wisdom. We will discuss all pen...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159481663,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Satellite images show massive fires at the Abqaiq oil facilities in Saudi Arabia due to this morning's attacks.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159512719,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Medical source: Citizen Muhammad Esleem (38 years old) martyred due to his wounds he sustained as a result of an Israeli targeting this morning south of Deir al-Balah in the central Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159526220,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Medical source: Citizen Muhammad Esleem (38 years old) martyred due to his wounds he sustained as a result of an Israeli targeting this morning south of Deir al-Balah in the central Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159511959,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: The moment young men confronted an Israeli soldier's attack on Masafer Yatta lands south of Hebron, which later developed into the young men seizing his weapon and expelling him with his livestock.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159538087,
+    "type": "naval",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Journalist Khalil Nasrallah: After the harsh Yemeni attack that targeted oil facilities in Jizan and Yanbu, Saudi Arabia did not respond, while Sanaa maintained the counter-naval blockade. What happened curbed a dangerous impulse that would have led the…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159522594,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Journalist Khalil Nasrallah: After the harsh Yemeni attack that targeted oil facilities in Jizan and Yanbu, Saudi Arabia did not respond, while Sanaa maintained the counter-naval blockade. What happened curbed a dangerous impulse that would have led the…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159552422,
+    "type": "naval",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Journalist Khalil Nasrallah: After the harsh Yemeni attack that targeted oil facilities in Jizan and Yanbu, Saudi Arabia did not respond, while Sanaa maintained the counter-naval blockade. What happened curbed a dangerous impulse that would have led the…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159518760,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The strategic goal in Lebanon is to eliminate the presence of Hezbollah...Member of the Loyalty to the Resistance Bloc, MP Hassan Ezzedine",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159551625,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ ⭕️ Sighting of a transport helicopter heading north of occupied Palestine (southern Lebanon) 🌍 [Live Map]",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159550111,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Yesterday Night Iranian Foreign Minister Abbas Araghchi stated:Ukrainian President Zelensky attacked an Iranian commercial ship, resulting in the death of one of the sailors. This is a blatant violation of the United Nations Charter, carried out at the instigation of Israel with the aim of dragging ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159556546,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-27",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "The Iranian Army:The army, following the directives of the Commander-in-Chief of the Armed Forces and in cooperation with the rest of the armed forces, stands fully prepared and more vigilant than ever in the face of any threat or conspiracy from the enemies. It will not show the slightest leniency ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159518832,
+    "type": "naval",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-07-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Following the attacks launched by Ansarallah against Saudi ships, there has been a decrease in ship traffic in the Bab al-Mandab Strait. \"Reuters\" quoted data from the company \"Kpler\" stating that only 11 ships passed through the strait yesterday, which is the lowest level in recent months.@SimurghR...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159566167,
+    "type": "drone",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇯🇴🇮🇷 The Jordanian Armed Forces:The Royal Air Force intercepted and shot down two drones that were targeting Jordanian territory.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159506975,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Al Arabiya: &#036;35 billion in Iraqi government oil revenue has gone missing since 2011.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159492189,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "The Financial Times: US Will Have to Accept Iran’s Control Over the Strait of HormuzEvents have demonstrated that Washington’s military strategy to reopen this waterway has failed.Military experts believe that even weeks of intense bombardment cannot eliminate Iran’s missile threat, and the shipping...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159476616,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇸🇦/🇮🇶 Saudi Arabia Ministry Of defense:- We intercepted drones coming from Iraq, which targeted oil stations at dawn today.- The Kingdom asserts its right to respond to the sources of the aggression.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785159473069,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇸🇦/🇮🇶 Saudi Arabia Ministry Of defense:- We intercepted drones coming from Iraq, which targeted oil stations at dawn today.- The Kingdom asserts its right to respond to the sources of the aggression.@SimurghRes",
     "media": [],
     "verified": false
   }
