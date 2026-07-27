@@ -116590,5 +116590,74 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785175819764,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi Prime Minister:Directs the competent security authorities to open an investigation into allegations regarding the launch of drones from Iraqi territory to target Saudi Arabia.Al-Amin• 17:53 — Iraqi Prime Minister's Office: We once again affirm our commitment not to allow the use of our coun...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785175766757,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi Prime Minister:Directs the competent security authorities to open an investigation into allegations regarding the launch of drones from Iraqi territory to target Saudi Arabia.Al-Amin• 17:53 — Iraqi Prime Minister's Office: We once again affirm our commitment not to allow the use of our coun...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785175764665,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🇮🇶⭕ Following a field investigation by the ICTS (Iraqi Counter-Terrorism System), ISIS elements were arrested in Kirkuk province, and a quantity of grenades and RPG-7s were discovered and seized.🟢 Unlike other decorative paramilitary groups, this has been the 27th successful operation of this ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VCQ3nVRej1d-0gcT363Jy4oRT4dKrnrG-N2nfMXR0L53c86P1Fvfqj9fQ0GPtPz01-sy26oon0Jq4NZwP9akTWbu97aG46p2Vrn7F9aISjspN0gX5ZAfBEcjuy9PWUcxYm_6AaCCRpOZ2aBtYmcCigYCwfMYZASfHoZGPUAY9nUdRPT-ik9nvd7jERvbetxKLcCqBSpij4gDtYgmjynAF8sF400kHYe6ugQ6sN6MxjTdbz4BlXtdbnHf-8PDg5dh5wu6rJEDd_pPaBzWwgp49aCznY3Om-60RJvW1JxL4WHsIHqhCruRyiSTa1cuoEAaopnW3eqeXxuQ6292_mKAWQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/OOgcAnqll3t1knuBjOdRcKc5KNWSz1y3H2mORHcDYnx9YxuuVaYMuQlY7K5RzTVrac20NSFzBu9VWw9RMB_H0DSN8xmnxH69GBKoT4XQv0cMfiJOmKafWV1yD2-h69bV1Yb3IxTFiv0enfoTy1igDRT8vLLQuYNuSFyCbi0U5FBIeOGmaIC5DgCL_YYUm9KYR4A5qSDR2qhO99RAx5vmFxVhYj5VhGRiyiJ55JtOgr8TDYCzPjYsQdX5cK62S9nZmiQcOQUDygD9urL3pnmMSFV8ZHOI0i-RU56PEhRC6ZFQE2ZbbnHfduGrOHEMNO8pGHCaANDEcvRKqr0xoM3VQA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785175753326,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: Occupation forces open fire towards the east of Al-Maghazi refugee camp in the central Gaza Strip",
+    "media": [],
+    "verified": false
   }
 ]
