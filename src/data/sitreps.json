@@ -135,6 +135,26 @@
     "verified": false
   },
   {
+    "id": 1785179399557,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 60 Palestinian Prisoners Released from Zionist Regime Prison in Dire Physical ConditionThe Zionist occupation regime released a group of Palestinian prisoners from the Gaza Strip, who had been arrested after October 7, 2023, through the Kerem Abu Salem crossing, while they were in dire physical c...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/OXyDhshO98-x0Kk9QYZd1Pmx_7P4w5bfe4iadAqhBel2BfkQNHuuLS8MG6TzBVwac-pPuAFGD7-PVPJSYkKMccWLKdWqYnhlQ_ovU5ufSx7vgrSvMZ_wfFggYksd0xv_c0c1_oJVFK3k8wnTFzQYd21rVAHLdq5W8h27zqzlJwPHYJ-3S7OZDfW9e_nd2hjfj3EUcibm2LXTgN0tiVUVp0JZ39hiMuHgScFhgs8fJa4flOl1i4kh3ut-Y5R-Q-uanRmGMEops43jZ22CF8bX6rJlF2C9NCxGP88GVTFNRpB0J0jYPv0LzzZlZERDZiKk8Kp51hqyXzGtjNQuXYBHLA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -116939,6 +116959,172 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785179391206,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📹 Ongoing diplomatic efforts in Tehran to keep pace with developments",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b479819ce3.mp4?token=to020nfUSTGV_OUcMjCwnA-91VBamAvknlcsIfL1ixUt6ZGNe7lwvbGN489admXWTLX645waqmTu-qKrkwaylpCcaxcSm4yQEUnM1xYl9uAXVw4t4n9VXhYD-2TlmWa8E97r1tjvtZDR-1RaKBQTlMzxivCO0T4zmRUWgkq_II6pg99KjEn-wu7Szmxx1ShZjmZR61QawxpIKCSluD7nauDeYDS_X8Hc6LaFfLRSTliL_xrRqRaJsU-SfOt2z1FUFHsnRtTaFzHIjXJUeVr5QrVW0Hgf7fMG7x9s1TvaRL3XyMrsWlIv3hLhar2VC_IPK-Dc4ppIgZD5E_qXpF00-g",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cUXjlAr4MV0Qhd6JEga2d7AtdhDnVPGk_21-JIkevXCnuiM3uWdwW013AgzQcLS7LS-txiQzSZXpVdY9YGuVWAu9sS_uQnHG7D8GNX0m6bcxMxKqB_0wSBNXKksnPtgnPd4vPA7s0-h0mObQ-ENtteMNFoT2Ur8aoCEJrDQSsdEcLTK68hacZD954xIwSp6oFE5f8Y4FJGNOtnOjNX3GDxzGbi79hxX-mWMm0KDcPmp_Oq-vRHfVmI7131Yhfiy4G6OtnRqWSMmFNdrmHJ7F-qrWLXVNu3CYQKn1zAwsEGM-ZdUXUKQxWNBfHa-0mYiATQt6XexrTDA6vqrUcgmbIQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056091",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cUXjlAr4MV0Qhd6JEga2d7AtdhDnVPGk_21-JIkevXCnuiM3uWdwW013AgzQcLS7LS-txiQzSZXpVdY9YGuVWAu9sS_uQnHG7D8GNX0m6bcxMxKqB_0wSBNXKksnPtgnPd4vPA7s0-h0mObQ-ENtteMNFoT2Ur8aoCEJrDQSsdEcLTK68hacZD954xIwSp6oFE5f8Y4FJGNOtnOjNX3GDxzGbi79hxX-mWMm0KDcPmp_Oq-vRHfVmI7131Yhfiy4G6OtnRqWSMmFNdrmHJ7F-qrWLXVNu3CYQKn1zAwsEGM-ZdUXUKQxWNBfHa-0mYiATQt6XexrTDA6vqrUcgmbIQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785179391566,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ One martyr and 3 wounded as a result of an Israeli drone strike on a motorcycle in Jabalia city, northern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785179360274,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ One martyr and 3 wounded as a result of an Israeli drone strike on a motorcycle in Jabalia city, northern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785179356702,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Romanian Ministry of Energy:One of the reactors at the Cernavodă Nuclear Power Plant will be temporarily shut down starting July 28 as a precautionary measure due to low water flow in the Danube River.This measure is preventive and necessary to protect equipment associated with three pumps of the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785179361957,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ US Embassy in occupied Jerusalem: Temporary restrictions will be imposed on personal travel for all US administration employees and their family members to the West Bank due to escalating security concerns.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785179378532,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Wall Street Journal: The burial of this prominent Republican politician, Lindsey Graham, comes at a time when opinion polls show a decline in Israel's standing among both Democrats and Republicans.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/uzZLQrkQFrSg9Gr2ZUQWXE876irPa36IBZ3H4D6a98V1uMkGZPqSZok7fkARwiWNw7O9BLTtXoZ8CLgwIiLt8Uy0DrLw-OPiAhPYjp9ne-9NXztH36V-2BodDn29FQgL3ui8JncgZhkrkBxHHMj5caHQmZfThxdC2qIEZm2621kURMGHxqLLgNBbUQNqWb7cV96RCocPwSRTWgW7lZPP7q2I3w2nhO3OgrUxoUYmyqA8ygDSjM9SIteq4JsUXBl1x-PNaJp18yQ5oqpu7wStsWhnDVQ0zYexuqbuucq3yfnvj7skUIkUrA2QqnJHsdxfpOU0mJQV7hiP8Dry5qpThw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785179435168,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shuaib:Latest Israeli attacks on southern LebanonThe Israeli occupation army carried out a bombing in the town of Kafr Tibnit.Occupation forces also set fire to homes and agricultural lands in the towns of Al-Qantara and Beit Yahoun, and a hostile drone dropped...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785179362483,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shuaib:Latest Israeli attacks on southern LebanonThe Israeli occupation army carried out a bombing in the town of Kafr Tibnit.Occupation forces also set fire to homes and agricultural lands in the towns of Al-Qantara and Beit Yahoun, and a hostile drone dropped...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785179382168,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemeni Al-Masirah channel reveals in a special report shocking paradoxes with numbers and information about the natural movement of Sanaa International Airport before the aggression and siege compared to after it throughout 12 yearsThe movement of Sanaa International Airport during 12 years of ag...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785179430026,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemeni Al-Masirah channel reveals in a special report shocking paradoxes with numbers and information about the natural movement of Sanaa International Airport before the aggression and siege compared to after it throughout 12 yearsThe movement of Sanaa International Airport during 12 years of ag...",
+    "media": [],
     "verified": false
   }
 ]
