@@ -115648,5 +115648,66 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785166819041,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | US MQ-9A Reaper reconnaissance-strike drone appears to have been shot down over Iraq's Babil (Babylon) province.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/75aee7b442.mp4?token=WLUxcxo02nwIFipS7e38gnaqul2zMXlSAJuvfD57U4SHBUkaW04VI69jUmNEkUffBBicExgMl4h8In0xMCgge5_K2bkMqGZytQXqmcc312WmQLVTO7kOUZGahi7ue5pMRTNzubDBqft8gf8iidX-dsde-kIcWrtU8ZbH66wIHvusmNYQi0UfNL_bi8IFZn5OpCf1cSvYlwnd13p2xzJA9-n_X0QGIi9uIW2K_LeXOSvoYnuCLtvPqO2RE-aJmQ5-68T_HxMP4GUL2Z9UhW1HwjvnyoMZVYuwGPOyKszls7QkULgTyXja1BlSz6iWoJgbUcaZdYJAC89EsqG5pfJdapk9c47TH33CJitxQb_nU0hDiAGqTypHlhp0-tEtJh9B0SO7-J_qryDpDIJzNoc-fN72J6qjmjXVkfD7Ii8-SslzhofStIiut29Hr5qRXevjKt7y8OFOJwQ0IM-g6zMKdtPtOFt4HrcVdhIWCgulrwYc3y8UJsft_tVJB6UzQUzJG2eJ2_HJVfGq4YpU7GXTGbs6HLPJCZeWY4ITtzqIcldqcfqNAO9qNGf64RCBxpI3sxQrchnIzFUrhn-gLHOLaxHDnEZfxSTLRXN6W2M4nkyVMwXVzEpnlBjsOi5dfujdRYxg6F6J8zs0DGQvB17o-3acpyxitZL4e8ADfmqASQc",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rsmX2p2QGp6rN0n2UWSdQwRJjXnYUpuLl90JAfJ5NrQ2goK7xixX8Fvi0ovZBAfNfyuG-u29qw1tqWbrmgHMgCJWbFDJzFHVpsFkGX8se53Esx8qkZ8MMplMiwl3a2_Zr6MtQ_WSy3nLpgs76pjrBySc9PGcLC6x7f5GpLbyS3cuNO4_xhQxcTyZWR9VxR45AgO2GwKjUViK01Wol-Xk080nFWWNbcBoTQxOBT4GL8L1oRA1qDL4jqQPUQg09EVpZMqf-bNS4-QvTosLxcpe4iCRCTQeqalgfrswd5eNE9ZZKOCTfIviNVWQq3tnlk2Fv6gizwFNPeOowu6jduEE8Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/60441?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rsmX2p2QGp6rN0n2UWSdQwRJjXnYUpuLl90JAfJ5NrQ2goK7xixX8Fvi0ovZBAfNfyuG-u29qw1tqWbrmgHMgCJWbFDJzFHVpsFkGX8se53Esx8qkZ8MMplMiwl3a2_Zr6MtQ_WSy3nLpgs76pjrBySc9PGcLC6x7f5GpLbyS3cuNO4_xhQxcTyZWR9VxR45AgO2GwKjUViK01Wol-Xk080nFWWNbcBoTQxOBT4GL8L1oRA1qDL4jqQPUQg09EVpZMqf-bNS4-QvTosLxcpe4iCRCTQeqalgfrswd5eNE9ZZKOCTfIviNVWQq3tnlk2Fv6gizwFNPeOowu6jduEE8Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/60442?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jSHMh_oiUQIiVIzwY_V5iJm5m0MhUSyQnlOGM3Vd62_CGq_Ge10K2SQMcuQI_HNL5kkX1L89dv8TK6pj3xtCp_zi6dRZXWeT1DMF2S-uI4S1crGOZkXJ3J0m5qs45aBZQ_HtyPTWtYic0q3cGh2OinSjHhU7qkkg8bKPx7xY5NkSs5K9Y0QMY7QqvbenM9LphU4_E7lZ97WoMEo-LmV6es14VUBzN5VtPa1L-zxoD_o65QgR-GpLxrIzWJ8MnCakWhWaWhZzTnPX132EkNEtQzEM56RHFRj0CUH2eU2HpQ_Ze8dj5gVccKhs_OnQVDDiyBUmK7GF08JddujRNgexnQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785166786476,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Head of the Security and Political Division in the Israeli Ministry of Security from October 7 until the beginning of last March: The war failed a strategic and utter failure on various fronts",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785166768758,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli occupation forces storm Anata town, north of occupied Jerusalem.",
+    "media": [],
+    "verified": false
   }
 ]
