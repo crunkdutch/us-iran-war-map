@@ -118505,5 +118505,35 @@
     "description": "⚡️ Ministry of Interior in Sanaa: We call on honorable citizens not to photograph or publish scenes of locations targeted by enemy shelling, as this represents a direct service to the enemy.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785193844169,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Researcher in regional affairs Hakam Amhaz to Al Jadeed:The leader of the revolution, Sayyed Mojtaba Khamenei, informed all concerned parties in Lebanon and Iran that there will be no negotiations with America before the war in Lebanon ends, and there will be no Iranian-American agreement before ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785193850050,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Saudi Aramco halted operations at its Abqaiq oil processing plant, its largest, after Yemeni drone attacks.",
+    "media": [],
+    "verified": false
   }
 ]
