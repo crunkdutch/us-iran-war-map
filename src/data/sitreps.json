@@ -116045,5 +116045,303 @@
     "description": "⚡️ Movement of Israeli army mechanisms around Arnoun-Yahmar and Al-ShoumariyaThe Secretary",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785172161217,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Four PJAK terrorists killed in western Iran, police say📌 Tehran, IRNA – Four members of the PJAK terrorist group have been killed during a joint operation by Iranian border guards and intelligence forces near the western border town of Baneh, a police spokesperson said on Monday.Saeed Montazerol...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172196086,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The enemy army sets fire to homes and agricultural lands in the town of Beit Yahoun, southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172242155,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📹 Photographic report | Between diplomacy and deterrence… the Strait of Hormuz is a title of Iranian power",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1056021",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785172188591,
+    "type": "drone",
+    "location": "Haifa",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫🌟🌟 Wounded; as a result of an aerial raid by occupation drones targeting a motorcycle on Haifa Street in Jabalia al-Balad, northern Gaza Strip.• 16:57 — #Urgent Mahmoud Taroush was martyred a short while ago, joining his wife, children, and parents, after his motorcycle was bombed in Jabalia ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/pWVU5BWNKhteBT3vqtvt0fKTMb5qx_3Z0t_ukB5VuXBmxP6f720xd0yPuEjYF4WLuGN8mwcl4m1JS_d-8EKabUyi8_Hckv4sFFlrq9UuyYBQ5bOztHPUNNWzIIZbTtWeBLlgArjal8HlxDB1sySgbNB_yY2gahx7Wmns2f5E5JN1qGIvcfSxtVbhx-xzButgAaKIDbNNnrmdAi0C8OAy61yZ94ZEAsDJCzf3Cg-CAHfJbTtHV3xeVPD_Ohxfx6Qb2PwYCcGbW-0TSa3FGBiGUyr2itRtP8ecACDeA15o1HkL3YQkinfk8YEo9y0HJiq8_WrMPPWqe1D54lYpEApsqg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785172175548,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫🌟🌟 Wounded; as a result of an aerial raid by occupation drones targeting a motorcycle on Haifa Street in Jabalia al-Balad, northern Gaza Strip.• 16:57 — #Urgent Mahmoud Taroush was martyred a short while ago, joining his wife, children, and parents, after his motorcycle was bombed in Jabalia ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/pWVU5BWNKhteBT3vqtvt0fKTMb5qx_3Z0t_ukB5VuXBmxP6f720xd0yPuEjYF4WLuGN8mwcl4m1JS_d-8EKabUyi8_Hckv4sFFlrq9UuyYBQ5bOztHPUNNWzIIZbTtWeBLlgArjal8HlxDB1sySgbNB_yY2gahx7Wmns2f5E5JN1qGIvcfSxtVbhx-xzButgAaKIDbNNnrmdAi0C8OAy61yZ94ZEAsDJCzf3Cg-CAHfJbTtHV3xeVPD_Ohxfx6Qb2PwYCcGbW-0TSa3FGBiGUyr2itRtP8ecACDeA15o1HkL3YQkinfk8YEo9y0HJiq8_WrMPPWqe1D54lYpEApsqg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785172250634,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #UrgentInjuries due to Israeli shelling in the vicinity of Hira Mosque in Jabalia al-Balad, northern Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172242332,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #UrgentInjuries due to Israeli shelling in the vicinity of Hira Mosque in Jabalia al-Balad, northern Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172230451,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Iranian Student Team's Success in Robotics Competitions with 5 Medals🔹The Lancer Innovation Center team from Tehran won two silver medals and three bronze medals at the International Robotics Competition IRC Code 2026, held in Malaysia.🔹These competitions were held with the participation of t...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/I6dRhdnoqPpLmqLL5j_qiY2ptxBrwG-hW1DzA3ci3uIWXCa6r44jhV3fk1FDv65UKgPXyJxGz2APOzpms_3ulZMLPK76ubt9wDipR2BTl4W8dq0v-ME5G-j_VkJPYueLWZIpamxJ-s0gdyhDXG9ugm9QTtdQKvuQ9d4m-iBnmmxHQBDTsZuPz5IWRE4YvMHTH_LMZWIHxaH4W8XRdDYalaUYmjxuMZ859Rdkr6yMbWROK0EbFdn0knVdMgMZt2hWn1NFE1fBqbwdnYqzIT21vzSFB1YUg72ecBbIK77Yea3z4NbaRcBS-vhVaLswtdh3NB1yifGRL7UczyumXYQ5qw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785172186151,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Foolish Trump:Turkey is a good ally, and no one dictates to me what military equipment we should sell to it.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172175822,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Massive explosions carried out by the enemy army in the vicinity of Kafr Tibnit • 16:26 — Lebanon: Al Mayadeen correspondent in the South: The Israeli occupation army carried out a bombing in the town of Kafr Tibnit in the Nabatieh district. (Al Mayadeen…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0a9d4f0b94.mp4?token=kTVvNfCU0S15WDXltc4uJxKozPhCUjY3STNd0HtfJw_nT4-c_oaktLWo7Qxy-A71FFGEe6KtIsgg0A787fAleDOi8tUOS5Q_LZOERHtKhdbvXjMmi86lQxsz-Xp1oJxf-hzYTb39bQ6HhST0ZWrnjJgkvVNknc5naRfKeH8zDIYCYFKvoT5HjGbIm2QKhAqSxyyB8ql-zaN_547QsxB3mnzN3-Pe3MDZZe9mMH-YhymRJTPdrmNGe8gPDo-uQkmjU561CoU5PAf0AttGoPYpRtiC5ItTcsPpiEYYNWPVaRacUNINNWqT5LHzQL64UPPdQgdsE2aFLyxF5zbES-pO9w",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZRndWqqSy1qgPq2jKM4FcvZekJ-E1lXoY41IUg-9lzbQT9gsOU2D0huZQ9z6l2wWAuWGhIWrsi852fGZtMiTk0Wn_jtC3Y3HwlyjaJ2QSflsAzO3NMq9iz3BmvKsZdgffSpswxDA9GfY-fzkzCXGT7d1wo_XGKClxf6TyBt8S-RMXg3QJj9yNwup5e7TXEj5yJNP4Eu-miDZk6A5e5ebZEwrQviavvgZxJ3G2e5xsnwo2xPvlGPal3BIKthNTCFgCg4QCRWK7z_9xqbm7sIMVJdn9tY24SvBaBlAaLAi_n8WRduf0X4wdOlnrrY7aY_rb0XRft_Sg70rmAV3kWHHYA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056029",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZRndWqqSy1qgPq2jKM4FcvZekJ-E1lXoY41IUg-9lzbQT9gsOU2D0huZQ9z6l2wWAuWGhIWrsi852fGZtMiTk0Wn_jtC3Y3HwlyjaJ2QSflsAzO3NMq9iz3BmvKsZdgffSpswxDA9GfY-fzkzCXGT7d1wo_XGKClxf6TyBt8S-RMXg3QJj9yNwup5e7TXEj5yJNP4Eu-miDZk6A5e5ebZEwrQviavvgZxJ3G2e5xsnwo2xPvlGPal3BIKthNTCFgCg4QCRWK7z_9xqbm7sIMVJdn9tY24SvBaBlAaLAi_n8WRduf0X4wdOlnrrY7aY_rb0XRft_Sg70rmAV3kWHHYA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785172195166,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Massive explosions carried out by the enemy army in the vicinity of Kafr Tibnit • 16:26 — Lebanon: Al Mayadeen correspondent in the South: The Israeli occupation army carried out a bombing in the town of Kafr Tibnit in the Nabatieh district. (Al Mayadeen…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0a9d4f0b94.mp4?token=kTVvNfCU0S15WDXltc4uJxKozPhCUjY3STNd0HtfJw_nT4-c_oaktLWo7Qxy-A71FFGEe6KtIsgg0A787fAleDOi8tUOS5Q_LZOERHtKhdbvXjMmi86lQxsz-Xp1oJxf-hzYTb39bQ6HhST0ZWrnjJgkvVNknc5naRfKeH8zDIYCYFKvoT5HjGbIm2QKhAqSxyyB8ql-zaN_547QsxB3mnzN3-Pe3MDZZe9mMH-YhymRJTPdrmNGe8gPDo-uQkmjU561CoU5PAf0AttGoPYpRtiC5ItTcsPpiEYYNWPVaRacUNINNWqT5LHzQL64UPPdQgdsE2aFLyxF5zbES-pO9w",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZRndWqqSy1qgPq2jKM4FcvZekJ-E1lXoY41IUg-9lzbQT9gsOU2D0huZQ9z6l2wWAuWGhIWrsi852fGZtMiTk0Wn_jtC3Y3HwlyjaJ2QSflsAzO3NMq9iz3BmvKsZdgffSpswxDA9GfY-fzkzCXGT7d1wo_XGKClxf6TyBt8S-RMXg3QJj9yNwup5e7TXEj5yJNP4Eu-miDZk6A5e5ebZEwrQviavvgZxJ3G2e5xsnwo2xPvlGPal3BIKthNTCFgCg4QCRWK7z_9xqbm7sIMVJdn9tY24SvBaBlAaLAi_n8WRduf0X4wdOlnrrY7aY_rb0XRft_Sg70rmAV3kWHHYA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056029",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZRndWqqSy1qgPq2jKM4FcvZekJ-E1lXoY41IUg-9lzbQT9gsOU2D0huZQ9z6l2wWAuWGhIWrsi852fGZtMiTk0Wn_jtC3Y3HwlyjaJ2QSflsAzO3NMq9iz3BmvKsZdgffSpswxDA9GfY-fzkzCXGT7d1wo_XGKClxf6TyBt8S-RMXg3QJj9yNwup5e7TXEj5yJNP4Eu-miDZk6A5e5ebZEwrQviavvgZxJ3G2e5xsnwo2xPvlGPal3BIKthNTCFgCg4QCRWK7z_9xqbm7sIMVJdn9tY24SvBaBlAaLAi_n8WRduf0X4wdOlnrrY7aY_rb0XRft_Sg70rmAV3kWHHYA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785172184033,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Qatari Foreign Ministry: The Foreign Minister discussed in a call with the Saudi Foreign Minister efforts and coordination to de-escalate the situation in the region.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172218061,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Windward Maritime Data:Saudi Arabia's losses due to the closure of Hormuz and Bab al-Mandab are estimated at &#036;504 million, or 90% of its oil revenues.Al-Amin",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172215912,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Windward Maritime Data:Saudi Arabia's losses due to the closure of Hormuz and Bab al-Mandab are estimated at &#036;504 million, or 90% of its oil revenues.Al-Amin",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172163748,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Names of Palestinian prisoners and laborers who were released and arrived in the Gaza Strip:1. Ayman Hussein Suleiman Qoura - Tal Al-Hawa2. Atef Musleh Mahmoud Wadi - Khan Yunis3. Imad Ahmed Ismail Al-Ghamari - Al-Shaaf4. Baha Jamal Abdel Qader Al-Maharneh - Al-Tuffah5. Karam Ahmed Khuzaymah - Ga...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172172530,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Qatari Ministry of Foreign Affairs: The Foreign Minister discussed in a call with the Jordanian Foreign Minister diplomatic efforts and coordination to de-escalate the situation in the region. Al-Amin",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785172207333,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Qatari Ministry of Foreign Affairs: The Foreign Minister discussed in a call with the Jordanian Foreign Minister diplomatic efforts and coordination to de-escalate the situation in the region. Al-Amin",
+    "media": [],
+    "verified": false
   }
 ]
