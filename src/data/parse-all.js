@@ -293,8 +293,57 @@ function main() {
     console.error(`  Added media field to ${mediaFieldFixed} existing attacks`)
   }
 
-  const existingAttackKeys = new Set(existingAttacks.map(a =>
-    `${a.date}-${a.location}-${a.type}`))
+  // ── Dedup existing data ──
+  // Attack dedup: keys differ because a.location = 'Tel Aviv, Israel' but
+  // new attacks use locations[0].name = 'Tel Aviv'. Fix by normalizing to first location.
+  function normalizeLocation(loc) {
+    return loc.split(',')[0].trim()
+  }
+
+  let dedupedAttacks = 0
+  const attackSeen = new Map()
+  const uniqueAttacks = []
+  for (const a of existingAttacks) {
+    const key = `${a.date}-${normalizeLocation(a.location)}-${a.type}`
+    if (attackSeen.has(key)) {
+      // Merge media from duplicate into the original if original has none
+      const original = attackSeen.get(key)
+      if (a.media && a.media.length > 0 && (!original.media || original.media.length === 0)) {
+        original.media = a.media.slice(0, 10)
+      }
+      dedupedAttacks++
+    } else {
+      attackSeen.set(key, a)
+      uniqueAttacks.push(a)
+    }
+  }
+  if (dedupedAttacks > 0) {
+    console.error(`  Attack dedup: removed ${dedupedAttacks} duplicates, ${uniqueAttacks.length} unique remain`)
+  }
+  existingAttacks.length = 0
+  existingAttacks.push(...uniqueAttacks)
+
+  // Sitrep dedup
+  let dedupedSitreps = 0
+  const sitrepSeen = new Set()
+  const uniqueSitreps = []
+  for (const s of existingSitreps) {
+    const key = `${s.date}-${s.location}-${s.type}-${(s.description || '').slice(0, 80)}`
+    if (sitrepSeen.has(key)) {
+      dedupedSitreps++
+    } else {
+      sitrepSeen.add(key)
+      uniqueSitreps.push(s)
+    }
+  }
+  if (dedupedSitreps > 0) {
+    console.error(`  Sitrep dedup: removed ${dedupedSitreps} duplicates, ${uniqueSitreps.length} unique remain`)
+  }
+  existingSitreps.length = 0
+  existingSitreps.push(...uniqueSitreps)
+
+  // Rebuild key sets with correct format
+  const existingAttackKeys = new Set(attackSeen.keys())
   const existingSitrepKeys = new Set(existingSitreps.map(s =>
     `${s.date}-${s.location}-${s.type}-${(s.description || '').slice(0, 80)}`))
   const existingStatementKeys = new Set(existingStatements.map(s =>
