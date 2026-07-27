@@ -118146,5 +118146,87 @@
     "description": "Sources talk about explosions heard in the Strait of Hormuz.@SimurghRes",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785190242153,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🎦Media reported the destruction of a US drone in Anbar province in western Iraq and its fall inside a residential complex",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/665cf9d86c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nQC_kXdhuZgNl7aqA4T-yagrI-kadgidkttzQp0aH766mFJ7XFGizpLTH5009joAklOy6r8p4xiNiRG9SUvSBPwNgmmgcpxiypxWPtNwdVS3nSo6A_Jarg_aU41K_DdTu7A1v3rVFdcx55Op8ep0Dx02pdVajDEJ_VzlP1q1MrN04IP8eVcd5RZJEhgOoXX4uzNkEGCiQJ6rwTjZst01D_so3Sg_XJBHZpR3FOAy_e-Qps6O1D3mNjI_o7Oq4kW5KNfCvPrjGjgP9Gar3NoEuWgBcg5tf5sx8dhMqFxL2y8knhUvvhj3qWXYb2-lD3dl05V-QebJGfvao8Pn1Irs6g"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056198",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nQC_kXdhuZgNl7aqA4T-yagrI-kadgidkttzQp0aH766mFJ7XFGizpLTH5009joAklOy6r8p4xiNiRG9SUvSBPwNgmmgcpxiypxWPtNwdVS3nSo6A_Jarg_aU41K_DdTu7A1v3rVFdcx55Op8ep0Dx02pdVajDEJ_VzlP1q1MrN04IP8eVcd5RZJEhgOoXX4uzNkEGCiQJ6rwTjZst01D_so3Sg_XJBHZpR3FOAy_e-Qps6O1D3mNjI_o7Oq4kW5KNfCvPrjGjgP9Gar3NoEuWgBcg5tf5sx8dhMqFxL2y8knhUvvhj3qWXYb2-lD3dl05V-QebJGfvao8Pn1Irs6g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785190242723,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: Israeli occupation artillery targeted Ali al-Taher heights in the Nabatieh district.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785190187923,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: Israeli occupation artillery targeted Ali al-Taher heights in the Nabatieh district.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785190244721,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇮🇶 Moment of an Iranian arrival in Iraqi Kurdistan@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/22643fcb89.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dsg5IYhLXYyVijtcEZZtWdzfReTbyYdAWNfg627zvVgneTCcS5rE4cssWSGys0TJ1qY4xlSIBkzn4f9bi17_bRZgU8jlIdCWvphhTQBIpa_puhNHwswY1VjXtp8eCMGyn5zcfNsqrq5Hx4TdYhHr8C6KUZDcWRq-r-GiREVyPADHLuRfATTuBTvvJ4Q5syP4_G5Qfx0GmrxBblJ7PBzdlHTo_148K67A5WvXjIrksxfyMM0rUpfb6b3AX8Rml6PAngsBgeGUYlc3-oZkLQD0_fq9dL00x_J8ei_2NOZoFK2sTFOI4qEUauf1qKsgLW3N1-XbMJuKPIgBipX_Ob_juw"
+      },
+      {
+        "url": "https://t.me/Middle_East_Spectator/35538",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dsg5IYhLXYyVijtcEZZtWdzfReTbyYdAWNfg627zvVgneTCcS5rE4cssWSGys0TJ1qY4xlSIBkzn4f9bi17_bRZgU8jlIdCWvphhTQBIpa_puhNHwswY1VjXtp8eCMGyn5zcfNsqrq5Hx4TdYhHr8C6KUZDcWRq-r-GiREVyPADHLuRfATTuBTvvJ4Q5syP4_G5Qfx0GmrxBblJ7PBzdlHTo_148K67A5WvXjIrksxfyMM0rUpfb6b3AX8Rml6PAngsBgeGUYlc3-oZkLQD0_fq9dL00x_J8ei_2NOZoFK2sTFOI4qEUauf1qKsgLW3N1-XbMJuKPIgBipX_Ob_juw"
+      }
+    ],
+    "verified": false
   }
 ]

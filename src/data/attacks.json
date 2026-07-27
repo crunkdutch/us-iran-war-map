@@ -30236,5 +30236,42 @@
         "thumbnail": "https://cdn4.telesco.pe/file/MPCC_oVNkA9pOtNhhlWuydJJOzKWoCV76Cd6o6WJByMvVppfMcds_wsNZTnRFY69y9MmHMmgG-npvYgzrR9nPCvd3WfT501nxgFNebzYf01w2PX72GpCCVym2ynkg3JYb1wAe-5B0MZt6wiKudInuwDJvg3_Lh2THBUnRiruLjotu-stnp_1iC0Pj25LKtxFzLbqCVMWdsQYZU7B2VJM8O7ai10LfN5i4Yo3s7831uytlxH8iih83oCFFXTDmoO_I5KRDaEidFnP_54rd5mfooM0BBW8A3MzmIJVONeOGt7T4YXgmZepGgfmWMh2K-nD8G7CCZHFylF-pcX73zMjHQ"
       }
     ]
+  },
+  {
+    "id": 475163411,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-27",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Lebanon, Israel: Lebanon Mayadeen correspondent South Israeli occupation",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: Israeli occupation artillery targeted Ali al-Taher heights in the Nabatieh district.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bhd9OUGRbwDkgC2njai6KyRNta1O5WBbmrBQTvIhJcWGHTWMkYKxpJJM48bTZfz-lgnF6u1_cvjrY6pYWXmaxg7nQwM_8WJXUl5HyehgOgxVfr3i1Gv2Do07uGmR661qqnSnRuQDc5NOe7EAFqa7GJFWMF1tx6WqLg5HFb4VznB-b52V4-0bHeZmdM-YzeUQLT7FjRbPRjRmsDx6lf6Hycs94eeJ2Il0Du5wa9QreEEyB2rWk3OtFOoBM6yzy7n2UTJ0RbB8QH6ExgoJcTMWU0L6OiI7Pv_J-if4nGjcBDUdyvklPjk7AgiFbEKZAXS1_saEZjNHo4yAwaiwTG31vA.jpg",
+        "type": "photo"
+      }
+    ]
   }
 ]
