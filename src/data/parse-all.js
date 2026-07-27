@@ -374,6 +374,16 @@ function main() {
           })
           existingAttackKeys.add(attackKey)
           newAttacks++
+        } else if (media.length > 0) {
+          // Backfill media onto existing attacks
+          const existing = existingAttacks.find(a =>
+            a.date === date &&
+            a.location.split(',')[0].trim() === locations[0].name &&
+            a.type === attackType
+          )
+          if (existing && (!existing.media || existing.media.length === 0)) {
+            existing.media = media.slice(0, 10)
+          }
         }
       }
 
@@ -416,11 +426,75 @@ function main() {
             })
             existingSitrepKeys.add(sitrepKey)
             newSitreps++
+          } else if (media.length > 0) {
+            // Backfill media onto existing sitreps
+            const existing = existingSitreps.find(s =>
+              s.date === date &&
+              s.location === loc.name &&
+              s.type === attackType &&
+              s.description.startsWith(rawText.slice(0, 60))
+            )
+            if (existing && (!existing.media || existing.media.length === 0)) {
+              existing.media = media.slice(0, 10)
+            }
           }
         }
       }
     }
   }
+
+  // ── Media backfill: scan ALL posts for media and attach to existing attacks ──
+  let backfilledMedia = 0
+  let attacksWithMediaCount = existingAttacks.filter(a => a.media && a.media.length > 0).length
+
+  for (const file of files) {
+    const html = fs.readFileSync(path.join(SOURCES_DIR, file), 'utf8')
+    const channelKey = file.split('-')[0]
+    const pageDateMatch = html.match(/datetime="([^"]+)"/)
+    const pageDate = pageDateMatch ? pageDateMatch[1].slice(0, 10) : '2026-07-24'
+    const postBlocks = html.split('tgme_widget_message_wrap')
+
+    for (const block of postBlocks) {
+      if (block.length < 100) continue
+
+      // Extract text (needed for location/date matching)
+      const textMatch = block.match(/<div class="tgme_widget_message_text[^>]*>([\s\S]*?)<\/div>/)
+      if (!textMatch) continue
+      const rawText = textMatch[1].replace(/<[^>]*>/g, '')
+        .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+        .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
+        .replace(/\s+/g, ' ').trim()
+      if (rawText.length < 30) continue
+
+      const media = extractMediaFromBlock(block)
+      if (media.length === 0) continue
+
+      const locations = extractLocations(rawText)
+      if (locations.length === 0) continue
+
+      const attackType = classifyAttackType(rawText)
+      const date = extractDate(rawText, pageDate)
+      if (date < '2026-02-01' || date > '2026-12-31') continue
+
+      // Try to match this post to an existing attack by date + first location + type
+      const existing = existingAttacks.find(a =>
+        a.date === date &&
+        a.location.split(',')[0].trim() === locations[0].name &&
+        a.type === attackType &&
+        (!a.media || a.media.length === 0)
+      )
+      if (existing) {
+        existing.media = media.slice(0, 10)
+        backfilledMedia++
+      }
+    }
+  }
+
+  if (backfilledMedia > 0) {
+    console.error(`  Media backfill: ${backfilledMedia} attacks got media`)
+  }
+  const totalWithMedia = existingAttacks.filter(a => a.media && a.media.length > 0).length
+  console.error(`  Attacks with media: ${totalWithMedia}`)
 
   // Deduplicate attacks by title+date+near match
   existingAttacks.sort((a, b) => a.date.localeCompare(b.date) || (a.id || 0) - (b.id || 0))
