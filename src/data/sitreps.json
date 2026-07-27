@@ -115709,5 +115709,65 @@
     "description": "⚡️ Israeli occupation forces storm Anata town, north of occupied Jerusalem.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785168611774,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza Civil Defense: We have so far recovered 99 bodies of martyrs from the Abu Sharia and Al-Hasayna families who were martyred during the war.• 15:59 — Journalistic sources The Palestinian Civil Defense has so far recovered 99 martyrs from the homes of the Abu Sharia and Al-Hasayna families in t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785168646413,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 The Rafah crossing will be open tomorrow, Tuesday, in both directions.Here are the latest updates:110 citizens returning from Egypt have arrived in the Gaza Strip, where they were gathered in front of the Palestinian Embassy in Egypt in preparation for their return.Additionally, 50 citizens wh...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785168578899,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: Israeli artillery shelling east of Khan Yunis, southern Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785168580623,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: Israeli artillery shelling east of Khan Yunis, southern Gaza Strip",
+    "media": [],
+    "verified": false
   }
 ]
