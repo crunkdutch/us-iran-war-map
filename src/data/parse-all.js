@@ -153,6 +153,64 @@ function extractEntity(text) {
   return null
 }
 
+// ── Extract media URLs from a post block HTML ──
+function extractMediaFromBlock(block) {
+  const media = []
+
+  // Single photos: <a class="tgme_widget_message_photo_wrap" style="...background-image:url('...')">
+  // Need to handle: style="width:800px;background-image:url('...')" — there may be other CSS before bg-image
+  const photoRe = /<a[^>]*class="[^"]*tgme_widget_message_photo_wrap[^"]*"[^>]*style="[^"]*background-image:url\('([^']+)'\)/gi
+  let match
+  while ((match = photoRe.exec(block)) !== null) {
+    let url = match[1].replace(/&amp;/g, '&')
+    // Prefer full https:// URLs
+    if (url.startsWith('//')) url = 'https:' + url
+    if (!media.find(m => m.url === url)) {
+      media.push({ url, type: 'photo' })
+    }
+  }
+
+  // Video sources: <video src="..." class="tgme_widget_message_video"
+  const videoRe = /<video[^>]*src="([^"]+)"[^>]*class="tgme_widget_message_video[^"]*"/gi
+  while ((match = videoRe.exec(block)) !== null) {
+    let url = match[1].replace(/&amp;/g, '&')
+    if (url.startsWith('//')) url = 'https:' + url
+    if (!media.find(m => m.url === url)) {
+      // Try to find the thumbnail for this video
+      const thumbRe = /<i[^>]*class="[^"]*tgme_widget_message_video_thumb[^"]*"[^>]*style="background-image:url\('([^']+)'\)/i
+      const thumbMatch = block.match(thumbRe)
+      let thumb = null
+      if (thumbMatch) {
+        thumb = thumbMatch[1].replace(/&amp;/g, '&')
+        if (thumb.startsWith('//')) thumb = 'https:' + thumb
+      }
+      media.push({ url, type: 'video', thumbnail: thumb })
+    }
+  }
+
+  // Video player links without direct <video> in block
+  const playerRe = /<a[^>]*class="[^"]*tgme_widget_message_video_player[^"]*"[^>]*href="([^"]+)"[^>]*>/gi
+  while ((match = playerRe.exec(block)) !== null) {
+    const postUrl = match[1].replace(/&amp;/g, '&')
+    // Extract thumbnail from the player's inner <i class="tgme_widget_message_video_thumb">
+    const playerBlock = block.slice(match.index, match.index + 2000)
+    const thumbRe = /<i[^>]*class="[^"]*tgme_widget_message_video_thumb[^"]*"[^>]*style="background-image:url\('([^']+)'\)/i
+    const thumbMatch = playerBlock.match(thumbRe)
+    let thumb = null
+    if (thumbMatch) {
+      thumb = thumbMatch[1].replace(/&amp;/g, '&')
+      if (thumb.startsWith('//')) thumb = 'https:' + thumb
+    }
+    // Check if we already have this video by URL (from direct <video> src)
+    // If not, store the Telegram post URL as the media reference
+    if (!media.find(m => m.url === postUrl || m.url.includes(postUrl))) {
+      media.push({ url: postUrl, type: 'video', thumbnail: thumb })
+    }
+  }
+
+  return media
+}
+
 // ── Extract date from text (flexible) ──
 function extractDate(text, fallback) {
   // Look for ISO dates
@@ -238,6 +296,9 @@ function main() {
     for (const block of postBlocks) {
       if (block.length < 100) continue
 
+      // Extract media from this post block
+      const media = extractMediaFromBlock(block)
+
       // Extract text
       const textMatch = block.match(/<div class="tgme_widget_message_text[^>]*>([\s\S]*?)<\/div>/)
       if (!textMatch) continue
@@ -309,6 +370,7 @@ function main() {
             description: rawText.slice(0, 500),
             satelliteImage: null,
             videoUrl: null,
+            media: media.length > 0 ? media.slice(0, 10) : [],
           })
           existingAttackKeys.add(attackKey)
           newAttacks++
@@ -349,7 +411,7 @@ function main() {
               source: entity ? entity.canonical : `Telegram (${channelKey})`,
               sourceUrl: `https://t.me/s/${channelKey}`,
               description: rawText.slice(0, 300) + (rawText.length > 300 ? '...' : ''),
-              media: [],
+              media: media.length > 0 ? media.slice(0, 10) : [],
               verified: false,
             })
             existingSitrepKeys.add(sitrepKey)

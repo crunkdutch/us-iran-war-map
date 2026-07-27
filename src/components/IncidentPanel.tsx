@@ -43,8 +43,6 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
     (attack.casualties.kurdish || 0) + (attack.casualties.other || 0)
   const sourceUrl = attack.sources.find(s => s.url && s.url !== '#')?.url || null
   const sourceName = attack.sources.find(s => s.url && s.url !== '#')?.name || null
-  const multimediaUrl = attack.satelliteImage || attack.videoUrl || sourceUrl
-  const sourceTypes = [...new Set(attack.sources.map(s => s.type))]
 
   return (
     <div className="incident-panel" style={{
@@ -210,57 +208,21 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
           </div>
         </div>
 
-        {/* Multimedia section — only show when actual media/source links exist */}
-        {multimediaUrl && (
-          <div style={{ display: 'flex', gap: 8 }}>
-            <a
-              href={multimediaUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                flex: 1,
-                border: '1px solid var(--border-color)',
-                padding: 16,
-                textAlign: 'center',
-                fontSize: 11,
-                color: 'var(--accent-cyan)',
-                textDecoration: 'none',
-                cursor: 'pointer',
-                transition: 'border-color 0.2s',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                gap: 6,
-              }}
-              onMouseEnter={e => (e.currentTarget.style.borderColor = 'var(--accent-cyan)')}
-              onMouseLeave={e => (e.currentTarget.style.borderColor = 'var(--border-color)')}
-            >
-              🛰 SATELLITE IMAGERY
-            </a>
-            <a
-              href={multimediaUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                flex: 1,
-                border: '1px solid var(--border-color)',
-                padding: 16,
-                textAlign: 'center',
-                fontSize: 11,
-                color: 'var(--accent-amber)',
-                textDecoration: 'none',
-                cursor: 'pointer',
-                transition: 'border-color 0.2s',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                gap: 6,
-              }}
-              onMouseEnter={e => (e.currentTarget.style.borderColor = 'var(--accent-amber)')}
-              onMouseLeave={e => (e.currentTarget.style.borderColor = 'var(--border-color)')}
-            >
-              📹 VIDEO FOOTAGE
-            </a>
+        {/* Media gallery — extracted from Telegram posts */}
+        {attack.media && attack.media.length > 0 && (
+          <div>
+            <div style={{ fontSize: 9, color: 'var(--accent-green)', letterSpacing: 2, marginBottom: 8 }}>
+              EVIDENCE MEDIA ({attack.media.length})
+            </div>
+            <div style={{
+              display: 'grid',
+              gridTemplateColumns: '1fr 1fr',
+              gap: 6,
+            }}>
+              {attack.media.map((item, i) => (
+                <MediaThumb key={i} item={item} />
+              ))}
+            </div>
           </div>
         )}
 
@@ -281,6 +243,110 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
         )}
       </div>
     </div>
+  )
+}
+
+function MediaThumb({ item }: { item: { url: string; type: string; thumbnail?: string | null } }) {
+  if (item.type === 'video') {
+    return (
+      <a
+        href={item.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{
+          position: 'relative',
+          display: 'block',
+          aspectRatio: '16/9',
+          background: 'var(--bg-tertiary)',
+          backgroundImage: item.thumbnail ? `url(${item.thumbnail})` : undefined,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          border: '1px solid var(--border-color)',
+          cursor: 'pointer',
+          overflow: 'hidden',
+          transition: 'border-color 0.2s',
+        }}
+        onMouseEnter={e => (e.currentTarget.style.borderColor = 'var(--accent-amber)')}
+        onMouseLeave={e => (e.currentTarget.style.borderColor = 'var(--border-color)')}
+      >
+        {/* Play button overlay */}
+        <div style={{
+          position: 'absolute',
+          inset: 0,
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          background: 'rgba(0,0,0,0.4)',
+        }}>
+          <div style={{
+            width: 36,
+            height: 36,
+            borderRadius: '50%',
+            background: 'rgba(0,0,0,0.7)',
+            border: '2px solid rgba(255,255,255,0.8)',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            fontSize: 16,
+            color: '#fff',
+          }}>
+            ▶
+          </div>
+        </div>
+        <div style={{
+          position: 'absolute',
+          bottom: 4,
+          right: 4,
+          fontSize: 8,
+          padding: '1px 4px',
+          background: 'rgba(0,0,0,0.7)',
+          color: 'var(--accent-amber)',
+          letterSpacing: 1,
+        }}>
+          VIDEO
+        </div>
+      </a>
+    )
+  }
+
+  return (
+    <a
+      href={item.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{
+        display: 'block',
+        aspectRatio: '4/3',
+        background: 'var(--bg-tertiary)',
+        backgroundImage: `url(${item.url})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        border: '1px solid var(--border-color)',
+        cursor: 'pointer',
+        transition: 'border-color 0.2s, transform 0.2s',
+      }}
+      onMouseEnter={e => {
+        e.currentTarget.style.borderColor = 'var(--accent-cyan)'
+        e.currentTarget.style.transform = 'scale(1.02)'
+      }}
+      onMouseLeave={e => {
+        e.currentTarget.style.borderColor = 'var(--border-color)'
+        e.currentTarget.style.transform = 'scale(1)'
+      }}
+    >
+      <div style={{
+        position: 'absolute',
+        bottom: 4,
+        right: 4,
+        fontSize: 8,
+        padding: '1px 4px',
+        background: 'rgba(0,0,0,0.7)',
+        color: 'var(--accent-cyan)',
+        letterSpacing: 1,
+      }}>
+        PHOTO
+      </div>
+    </a>
   )
 }
 

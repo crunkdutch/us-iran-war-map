@@ -27,12 +27,13 @@ export interface AttackEvent {
     kurdish: number; other: number;
   }
   description: string; satelliteImage: string | null; videoUrl: string | null
+  media: { url: string; type: string; thumbnail?: string | null }[]
 }
 
 export interface SitRep {
   id: number; type: string; location: string; coordinates: number[]
   date: string; source: string; sourceUrl: string
-  description: string; media: { url: string; type: string }[]; verified: boolean
+  description: string; media: { url: string; type: string; thumbnail?: string | null }[]; verified: boolean
 }
 
 const allAttacks = attackData as AttackEvent[]
