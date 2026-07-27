@@ -118535,5 +118535,81 @@
     "description": "⚡️ Saudi Aramco halted operations at its Abqaiq oil processing plant, its largest, after Yemeni drone attacks.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785195604829,
+    "type": "airstrike",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ ‼️A video published by Fars of the moments two agents burning in fire were hit&#33;The murderers of these devoted loved ones will be punished for their heinous acts in the coming hours.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5e67230207.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ee5WJNx2f6frP6eK71V29U5O9siwln5RSYkzmBLTaJoEjcH0lGNoMl1lAyU_4MV02eQpKmqz1Rh8p1Daa9hSF5HX7-s_1WGSb37jlQVpgdPu5h6MMJEO8AAbR3iXih1XMm6TvyfIIo43L-Z6UtIdh836S-CNPZDbAlFtmGlC0iXuHD6EuuIVYcu3vTZhcKFU2qnnK8gGUCYgtwXKIFoT8BNSQR4nYJSTm0M3DsEqokNMbuOHbTqpbKtLU6ARcwbVfYWl7-L4s319Gsb5EhvmgtbNt11eLM7OKIDpfdVXyDytVxHJNJguBZtdlUrI59RkMNeClWi02KKt1Ta-WklDHw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056236",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ee5WJNx2f6frP6eK71V29U5O9siwln5RSYkzmBLTaJoEjcH0lGNoMl1lAyU_4MV02eQpKmqz1Rh8p1Daa9hSF5HX7-s_1WGSb37jlQVpgdPu5h6MMJEO8AAbR3iXih1XMm6TvyfIIo43L-Z6UtIdh836S-CNPZDbAlFtmGlC0iXuHD6EuuIVYcu3vTZhcKFU2qnnK8gGUCYgtwXKIFoT8BNSQR4nYJSTm0M3DsEqokNMbuOHbTqpbKtLU6ARcwbVfYWl7-L4s319Gsb5EhvmgtbNt11eLM7OKIDpfdVXyDytVxHJNJguBZtdlUrI59RkMNeClWi02KKt1Ta-WklDHw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785195587340,
+    "type": "naval",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Kepler Company Data: Commercial ship traffic in the Bab al-Mandab Strait decreased by 56%.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785195571522,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: A martyr and wounded arrived as a result of the occupation targeting near Hira Mosque in Jabalia al-Balad, northern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785195600891,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Trump to Host Netanyahu and Zelensky at White House Today, Tuesday🔹According to CNN, the focus of discussions between Trump and Netanyahu will be the war in Iran, the negotiation process with Lebanon, and efforts to expand the Abraham Accords.🔹In the meeting with Zelensky, the two sides are exp...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/n7YggxnwUq-3sPORLxFiLPqUyHQ3qp8wvFI26Yt80YP4r5yia_8shu33DVA8xDdKrLvJWE5azEjWZIROMl5NQiZ5fRxFkw6jLwLF_lIJgFr1hATFtsK7V7ngj8NL-aKNok7asTt9KDcyadAgDXyLGl_WH2lpXVpXalbZOWWVDKjD9qauqTAt-Y_9XIUggFEklRZYC_syoYxce4Mm4LcWvCtu79OaofxUrt9sNntuCbU8FTtf1bLaFralhsEbRR0yRfGxq6to69jJFwqr3SGrcPxHJiJ_3Om4Wmm80paI9X8isQCStClOGtahkwczYNSUMtJy4Fys95m2iNHidk2W_g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
