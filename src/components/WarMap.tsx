@@ -42,12 +42,17 @@ const allSitreps = sitrepData as SitRep[]
 const TILE_URL = 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
 const TILE_ATTR = '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>'
 
+// ── Performance limits ──
+const MAX_ATTACK_MARKERS = 5000
+const MAX_SITREP_MARKERS = 2000
+
 // ── DATE PRESETS ──
 const DATE_PRESETS = [
   { label: '24H', days: 1 },
   { label: '3D', days: 3 },
   { label: '7D', days: 7 },
   { label: '30D', days: 30 },
+  { label: '90D', days: 90 },
   { label: 'ALL', days: Infinity },
 ] as const
 
@@ -120,13 +125,15 @@ function MarkerLayers({
 
   // ── Setup cluster groups once ──
   useEffect(() => {
+    const isHeavy = attacks.length > 3000
     const ac = L.markerClusterGroup({
       chunkedLoading: true,
-      maxClusterRadius: 50,
+      chunkInterval: isHeavy ? 200 : 100,
+      maxClusterRadius: isHeavy ? 80 : 55,
       spiderfyOnMaxZoom: true,
       showCoverageOnHover: false,
       zoomToBoundsOnClick: true,
-      disableClusteringAtZoom: 7,
+      disableClusteringAtZoom: isHeavy ? 6 : 7,
       iconCreateFunction: (cluster) => {
         const count = cluster.getChildCount()
         let color = '#2ecc71'
@@ -168,22 +175,28 @@ function MarkerLayers({
     }
   }, [map])
 
-  // ── Sync attack markers ──
+  // ── Sync attack markers (capped at MAX_ATTACK_MARKERS for perf) ──
   useEffect(() => {
     const cluster = attackClusterRef.current
     if (!cluster) return
     const prevMap = attackDivMap.current
 
+    // Cap markers for performance when dataset is huge
+    const capped = attacks.length > MAX_ATTACK_MARKERS
+      ? attacks.slice(attacks.length - MAX_ATTACK_MARKERS)
+      : attacks
+    const attackSet = new Set(capped.map(a => a.id))
+
     // Remove stale markers
     for (const [id, marker] of prevMap) {
-      if (!attacks.find(a => a.id === id)) {
+      if (!attackSet.has(id)) {
         cluster.removeLayer(marker)
         prevMap.delete(id)
       }
     }
 
     // Add/update markers
-    for (const a of attacks) {
+    for (const a of capped) {
       if (prevMap.has(a.id)) {
         // Update icon if selection changed
         const m = prevMap.get(a.id)!
@@ -200,20 +213,25 @@ function MarkerLayers({
     }
   }, [attacks, attackIcon, onSelect, selectedId])
 
-  // ── Sync sitrep markers ──
+  // ── Sync sitrep markers (capped at MAX_SITREP_MARKERS for perf) ──
   useEffect(() => {
     const cluster = sitrepClusterRef.current
     if (!cluster) return
     const prevMap = sitrepDivMap.current
 
+    const capped = sitreps.length > MAX_SITREP_MARKERS
+      ? sitreps.slice(sitreps.length - MAX_SITREP_MARKERS)
+      : sitreps
+    const sitrepSet = new Set(capped.map(s => s.id))
+
     for (const [id, marker] of prevMap) {
-      if (!sitreps.find(s => s.id === id)) {
+      if (!sitrepSet.has(id)) {
         cluster.removeLayer(marker)
         prevMap.delete(id)
       }
     }
 
-    for (const s of sitreps) {
+    for (const s of capped) {
       if (!prevMap.has(s.id)) {
         const m = L.marker(s.coordinates as [number, number], {
           icon: sitrepIcon(s),
@@ -322,15 +340,35 @@ export default function WarMap() {
         ))}
       </div>
 
-      {/* ── Marker count badge ── */}
-      <div style={{
-        position: 'fixed', top: 92, left: '50%', transform: 'translateX(-50%)',
-        zIndex: 1001, fontSize: 9, color: 'var(--text-dim)',
-        fontFamily: 'var(--font-mono)', letterSpacing: 1,
-        background: 'rgba(0,12,6,0.7)', padding: '2px 10px',
-      }}>
-        {dateLabel} · {filteredAttacks.length} strikes · {filteredSitreps.length} reports
-      </div>
+      {/* ── Marker count badge + performance warning ── */}
+      {(() => {
+        const capped = filteredAttacks.length > MAX_ATTACK_MARKERS
+        const sitrepCapped = filteredSitreps.length > MAX_SITREP_MARKERS
+        const showWarning = capped || sitrepCapped
+        const shownAttacks = capped ? filteredAttacks.slice(-MAX_ATTACK_MARKERS) : filteredAttacks
+        const shownSitreps = sitrepCapped ? filteredSitreps.slice(-MAX_SITREP_MARKERS) : filteredSitreps
+        return (
+          <div style={{
+            position: 'fixed', top: 92, left: '50%', transform: 'translateX(-50%)',
+            zIndex: 1001, fontSize: 9, color: 'var(--text-dim)',
+            fontFamily: 'var(--font-mono)', letterSpacing: 1,
+            background: showWarning ? 'rgba(231,76,60,0.12)' : 'rgba(0,12,6,0.7)',
+            border: showWarning ? '1px solid rgba(231,76,60,0.3)' : '1px solid transparent',
+            padding: '4px 10px',
+            display: 'flex', alignItems: 'center', gap: 8,
+            maxWidth: 'calc(100vw - 200px)',
+          }}>
+            <span>
+              {dateLabel} · {shownAttacks.length} strikes · {shownSitreps.length} reports
+            </span>
+            {showWarning && (
+              <span style={{ color: '#e74c3c', fontSize: 8 }}>
+                ⚠ {filteredAttacks.length.toLocaleString()} total — map shows newest {MAX_ATTACK_MARKERS.toLocaleString()}
+              </span>
+            )}
+          </div>
+        )
+      })()}
 
       <button className="stats-toggle" onClick={() => setShowStats(s => !s)} style={{
         position: 'fixed', top: 56, right: 16, zIndex: 1001,
