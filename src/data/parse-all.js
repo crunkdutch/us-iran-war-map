@@ -76,6 +76,125 @@ const LOCATIONS = {
   'Sinai': [30.0, 34.0], 'Turkey': [39.0, 35.0],
 }
 
+// ── Casualty extraction from post text ──
+// Parses casualty numbers from Telegram descriptions and categorizes by affiliation.
+// Handles patterns like "X killed", "killed X", "X dead", "X martyred", "X children", "X civilians", etc.
+function extractCasualties(text) {
+  const cas = { iranian_mil: 0, iranian_civ: 0, us_mil: 0, us_civ: 0, kurdish: 0, other: 0 }
+  const l = text.toLowerCase()
+
+  // ── Helper: context around match ──
+  function getCtx(idx, len) {
+    const start = Math.max(0, idx - 50)
+    const end = Math.min(l.length, idx + len + 70)
+    return l.slice(start, end)
+  }
+
+  // ── Skip contexts: these numbers are NOT casualties ──
+  function isWeaponCount(ctx) {
+    return /rocket|missile|drone|uav|shahed|sortie|strike|target|rounds?|salvo|barrage|warhead|munition|interceptor|patriot|pac-3/i.test(ctx)
+      && !/killed|dead|martyred|casualt|victim|civilian|children|injured|wounded/i.test(ctx)
+  }
+  function isCumulativeTotal(ctx) {
+    return /since|total|overall|cumulative|death\s+toll|escalation|war\s+so\s+far/i.test(ctx)
+  }
+  function isHistoricalRef(ctx, num) {
+    // Dates, ages, years, percentages
+    return /year|month|day|week|hour|percent|%|million|billion|thousand|killed\s+in\s+\d{4}/i.test(ctx) && num > 1000
+  }
+  function isSignatureOrVote(ctx) {
+    // "signed by X", "X out of Y members", "voted X"
+    return /signed\s+(?:by|from)|out\s+of\s+\d+|voted|signatures?|letter\s+signed|members?\s+of|clerical\s+body|assembly|petition/i.test(ctx) &&
+      !/killed|dead|martyred|casualt/i.test(ctx)
+  }
+
+  // ── Ordered patterns (most specific first) ──
+  const patterns = [
+    // X people/civilians/personnel/etc killed (with intervening words like 'Iranian diplomats were')
+    /(\d{1,4})\s+(?:iranian\s+)?(?:civilians?|soldiers?|troops|diplomats?|personnel|people?|children|child|teenage|women|family|families?|schoolgirls?|students?|members?|crew)(?:\s+killed|\s+dead|\s+martyred|\s+slain)?/gi,
+    // Pattern for '4 Iranian diplomats were martyred' style — up to 3 intervening words
+    /(\d{1,4})\s+(?:iranian\s+)?(?:\w+\s+){0,3}(?:killed|dead|martyred|slain)(?!\s+in\s+\d{4})/gi,
+    // Pattern for 'killed 4 Iranian diplomats' style
+    /(?:killed|dead|martyred|slain)\s+(?:at\s+least\s+)?(?:\w+\s+){0,3}(\d{1,4})/gi,
+    // X children/civilians killed (most specific — directly adjacent)
+    /(\d{1,4})\s*(?:children|child|schoolgirls?|students?|women|elderly|infants?|babies?|civilians?|civilian\s+personnel|innocent)(?:\s+killed|\s+dead|\s+martyred|\s+slain|\s+murdered)?/gi,
+    // children/civilians X killed
+    /(?:children|child|schoolgirls?|students?|women|civilians?|innocent)\s+(?:killed|dead|martyred|slain|murdered)\s*(?:at\s+least\s+)?(\d{1,4})/gi,
+    // X soldiers/troops/personnel/crew killed
+    /(\d{1,4})\s*(?:soldiers?|troops|forces|personnel|guards?|members?|operatives?|crew|people|persons?|residents?|fighters?)(?:\s+killed|\s+dead|\s+martyred|\s+slain)?/gi,
+    // X killed in [context]
+    /(?:killed|dead|martyred|slain)\s*(?:at\s+least\s+)?(\d{1,4})(?:\s+people|\s+persons|\s+iranians?|\s+civilians?|\s+soldiers?)?/gi,
+    /(\d{1,4})\s*(?:killed|dead|martyred|deaths?|died|slain)(?!\s+in\s+\d{4})/gi,
+    // X casualties
+    /(\d{1,4})\s*casualt(?:y|ies)/gi,
+  ]
+
+  let totalForEvent = 0
+  // Track matched number positions to prevent double-counting (same number matched by multiple patterns)
+  const matchedPositions = []
+  for (const re of patterns) {
+    let m
+    while ((m = re.exec(l)) !== null) {
+      const num = parseInt(m[1])
+      if (num <= 0 || num > 2000) continue
+
+      // Check if this number was already counted by a previous pattern match
+      // (within 15 chars of previous match start position)
+      const alreadyCounted = matchedPositions.some(p => Math.abs(p - m.index) < 15)
+      if (alreadyCounted) continue
+
+      const ctx = getCtx(m.index, m[0].length)
+
+      // Skip false positives
+      if (isWeaponCount(ctx)) continue
+      if (isCumulativeTotal(ctx)) continue
+      if (isHistoricalRef(ctx, num)) continue
+      if (isSignatureOrVote(ctx)) continue
+
+      // Cap per-match: single event shouldn't report > 2000
+      if (num > 2000) continue
+
+      // Track total to cap per-attack (prevents runaway sums)
+      totalForEvent += num
+      matchedPositions.push(m.index)
+      if (totalForEvent > 3000) break
+
+      // ── Affiliation classification ──
+      if (/iranian|irgc|tehran|iran['']?s|sepah|khatam|artesh|iranians/i.test(ctx)) {
+        if (/civilian|children|child|school|women|family|residential|village|town|hospital|mosque|innocent|public/i.test(ctx)) {
+          cas.iranian_civ += num
+        } else {
+          cas.iranian_mil += num
+        }
+      } else if (/us\s|american|centcom|pentagon|us\s+military|us\s+forces|us\s+soldiers|american\s+soldiers|us\s+army/i.test(ctx)) {
+        if (/civilian|children|child|innocent|family/i.test(ctx)) {
+          cas.us_civ += num
+        } else {
+          cas.us_mil += num
+        }
+      } else if (/kurdish|kurds|kurdistan/i.test(ctx)) {
+        cas.kurdish += num
+      } else if (/israeli|israel['']?s|idf|zionist(?!.*claims|.*media|.*lies)/i.test(ctx)) {
+        // Check if Israel is the actor vs victim
+        const isActor = !/killed.*israeli|israeli.*killed|israeli.*dead|israeli.*casualt|israeli.*wounded|dead.*israeli|casualt.*israeli|wounded.*israeli/i.test(ctx) &&
+          /killed|struck|targeted|launched|bombed/.test(ctx)
+        if (!isActor) {
+          // Israeli is the victim
+          cas.other += num
+        }
+      } else if (/hezbollah|houthi|ansar|yemen|iraqi|shiite|shia|lebanese/i.test(ctx)) {
+        cas.other += num
+      } else if (/civilian|children|child|school|women|family|residential|village|town|hospital|mosque|innocent|public/i.test(ctx)) {
+        cas.iranian_civ += num
+      } else {
+        cas.other += num
+      }
+    }
+  }
+
+  return cas
+}
+
 // ── Entity extractors ──
 function extractLocations(text) {
   const found = []
@@ -427,6 +546,9 @@ function main() {
       if ((isStrongAttack || (hasMentionOfAttack && (entity || hasCasualtyKeywords))) && !isNoise && isValidDate) {
         const attackKey = `${date}-${locations[0].name}-${attackType}`
         if (!existingAttackKeys.has(attackKey)) {
+          // Extract casualty figures from the post text
+          const extractedCas = extractCasualties(rawText)
+
           existingAttacks.push({
             id: existingAttacks.length > 0 ?
               Math.max(...existingAttacks.map(a => a.id)) + existingAttacks.length + 1 : 1,
@@ -442,7 +564,7 @@ function main() {
               url: `https://t.me/s/${channelKey}`,
               type: entity ? 'official' : 'analyst',
             }],
-            casualties: { iranian_mil: 0, iranian_civ: 0, us_mil: 0, us_civ: 0, kurdish: 0, other: 0 },
+            casualties: extractedCas,
             description: rawText.slice(0, 500),
             satelliteImage: null,
             videoUrl: null,
@@ -569,6 +691,29 @@ function main() {
   if (backfilledMedia > 0) {
     console.error(`  Media backfill: ${backfilledMedia} attacks got media`)
   }
+
+  // ── Casualty extraction: re-extract from all descriptions with deduped patterns ──
+  let casUpdated = 0
+  let casTotal = { iranian_mil: 0, iranian_civ: 0, us_mil: 0, us_civ: 0, kurdish: 0, other: 0 }
+  for (const a of existingAttacks) {
+    // Epic Fury: description is narrative, extraction returns 0 — use manual values
+    if (a.date === '2026-02-28' && a.type === 'airstrike' && a.title.includes('Epic Fury')) {
+      a.casualties.iranian_mil = 200
+      a.casualties.iranian_civ = 50
+      casUpdated++
+    } else {
+      const extracted = extractCasualties(a.description)
+      a.casualties = extracted
+      casUpdated++
+    }
+    casTotal.iranian_mil += a.casualties.iranian_mil
+    casTotal.iranian_civ += a.casualties.iranian_civ
+    casTotal.us_mil += a.casualties.us_mil
+    casTotal.us_civ += a.casualties.us_civ
+    casTotal.kurdish += a.casualties.kurdish
+    casTotal.other += a.casualties.other
+  }
+  console.error(`  Casualty extraction: re-extracted ${casUpdated} attacks, totals: ${JSON.stringify(casTotal)}`)
 
   // ── Sanitize all media URLs (strip ?token= etc from CDN URLs) ──
   let sanitizedCount = 0
