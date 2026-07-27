@@ -154,6 +154,18 @@ function extractEntity(text) {
 }
 
 // ── Extract media URLs from a post block HTML ──
+// ── Strip query params from CDN URLs to avoid Vercel secret scanner false positives ──
+// Telegram CDN video URLs include ?token=... which high-entropy scanners flag.
+// We strip all query params for storage; the CDN URL without token still resolves.
+function sanitizeMediaUrl(url) {
+  // Only strip params from known CDN hosts
+  if (url.includes('telesco.pe') || url.includes('telegram.org') || url.includes('cdn.')) {
+    const qIdx = url.indexOf('?')
+    if (qIdx !== -1) return url.slice(0, qIdx)
+  }
+  return url
+}
+
 function extractMediaFromBlock(block) {
   const media = []
 
@@ -163,8 +175,8 @@ function extractMediaFromBlock(block) {
   let match
   while ((match = photoRe.exec(block)) !== null) {
     let url = match[1].replace(/&amp;/g, '&')
-    // Prefer full https:// URLs
     if (url.startsWith('//')) url = 'https:' + url
+    url = sanitizeMediaUrl(url)
     if (!media.find(m => m.url === url)) {
       media.push({ url, type: 'photo' })
     }
@@ -175,6 +187,7 @@ function extractMediaFromBlock(block) {
   while ((match = videoRe.exec(block)) !== null) {
     let url = match[1].replace(/&amp;/g, '&')
     if (url.startsWith('//')) url = 'https:' + url
+    url = sanitizeMediaUrl(url)
     if (!media.find(m => m.url === url)) {
       // Try to find the thumbnail for this video
       const thumbRe = /<i[^>]*class="[^"]*tgme_widget_message_video_thumb[^"]*"[^>]*style="background-image:url\('([^']+)'\)/i
@@ -183,6 +196,7 @@ function extractMediaFromBlock(block) {
       if (thumbMatch) {
         thumb = thumbMatch[1].replace(/&amp;/g, '&')
         if (thumb.startsWith('//')) thumb = 'https:' + thumb
+        thumb = sanitizeMediaUrl(thumb)
       }
       media.push({ url, type: 'video', thumbnail: thumb })
     }
@@ -200,6 +214,7 @@ function extractMediaFromBlock(block) {
     if (thumbMatch) {
       thumb = thumbMatch[1].replace(/&amp;/g, '&')
       if (thumb.startsWith('//')) thumb = 'https:' + thumb
+      thumb = sanitizeMediaUrl(thumb)
     }
     // Check if we already have this video by URL (from direct <video> src)
     // If not, store the Telegram post URL as the media reference
@@ -505,6 +520,49 @@ function main() {
   if (backfilledMedia > 0) {
     console.error(`  Media backfill: ${backfilledMedia} attacks got media`)
   }
+
+  // ── Sanitize all media URLs (strip ?token= etc from CDN URLs) ──
+  let sanitizedCount = 0
+  for (const a of existingAttacks) {
+    if (a.media && a.media.length > 0) {
+      for (const m of a.media) {
+        const cleaned = sanitizeMediaUrl(m.url)
+        if (cleaned !== m.url) {
+          m.url = cleaned
+          sanitizedCount++
+        }
+        if (m.thumbnail) {
+          const thumbCleaned = sanitizeMediaUrl(m.thumbnail)
+          if (thumbCleaned !== m.thumbnail) {
+            m.thumbnail = thumbCleaned
+            sanitizedCount++
+          }
+        }
+      }
+    }
+  }
+  for (const s of existingSitreps) {
+    if (s.media && s.media.length > 0) {
+      for (const m of s.media) {
+        const cleaned = sanitizeMediaUrl(m.url)
+        if (cleaned !== m.url) {
+          m.url = cleaned
+          sanitizedCount++
+        }
+        if (m.thumbnail) {
+          const thumbCleaned = sanitizeMediaUrl(m.thumbnail)
+          if (thumbCleaned !== m.thumbnail) {
+            m.thumbnail = thumbCleaned
+            sanitizedCount++
+          }
+        }
+      }
+    }
+  }
+  if (sanitizedCount > 0) {
+    console.error(`  Sanitized ${sanitizedCount} media URLs (stripped query params)`)
+  }
+
   const totalWithMedia = existingAttacks.filter(a => a.media && a.media.length > 0).length
   console.error(`  Attacks with media: ${totalWithMedia}`)
 
