@@ -118721,5 +118721,20 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785204568593,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hearing the sound of violent explosions in southern Lebanon.Following up...",
+    "media": [],
+    "verified": false
   }
 ]
