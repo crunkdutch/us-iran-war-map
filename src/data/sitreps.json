@@ -121844,5 +121844,35 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785260494368,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:We carried out a military operation targeting the Saudi oil tanker NCC GHAZAL after it violated the naval blockade imposed on Saudi Arabia and ignored repeated warning calls. The vessel was targeted with several ballistic missiles and was forced to retreat and turn ba...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785260520306,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:We carried out a military operation targeting the Saudi oil tanker NCC GHAZAL after it violated the naval blockade imposed on Saudi Arabia and ignored repeated warning calls. The vessel was targeted with several ballistic missiles and was forced to retreat and turn ba...",
+    "media": [],
+    "verified": false
   }
 ]

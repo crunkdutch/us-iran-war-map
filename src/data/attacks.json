@@ -30714,5 +30714,37 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 475172945,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen, Saudi Arabia: Yemeni Armed ForcesWe carried military operation",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:We carried out a military operation targeting the Saudi oil tanker NCC GHAZAL after it violated the naval blockade imposed on Saudi Arabia and ignored repeated warning calls. The vessel was targeted with several ballistic missiles and was forced to retreat and turn back, by the grace of Allah.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
