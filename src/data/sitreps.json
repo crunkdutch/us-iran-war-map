@@ -118895,6 +118895,36 @@
     "verified": false
   },
   {
+    "id": 1785217173875,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Up to 6 million Iranian pilgrims expected to attend Arbaeen march: Official📌 Tehran, IRNA – The head of the representative office of Iran’s Hajj and Pilgrimage Organization in Iraq has forecast that between five and six million Iranian pilgrims will take part in this year’s Arbaeen march.Speakin...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785217164873,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Up to 6 million Iranian pilgrims expected to attend Arbaeen march: Official📌 Tehran, IRNA – The head of the representative office of Iran’s Hajj and Pilgrimage Organization in Iraq has forecast that between five and six million Iranian pilgrims will take part in this year’s Arbaeen march.Speakin...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785208229481,
     "type": "rocket",
     "location": "Lebanon",
@@ -119396,6 +119426,122 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785217209734,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Israeli occupation army burned homes in the towns of Al-Qusayr and Al-Qantara during the night hours.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785217212866,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🎦 IRIB reporter's report from the great Arbaeen march in the Rumaitha region of Iraq🌐 iribnews.ir🆔",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4c56d7276a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZyVNWwRMaYpwaV_LEuyQ0nCQwHKnWnI1uLLg6F454D0JXKf-DiZNhZFBLLjxlihvypRQl4z-wjIebAiDAqtA3C7HDcFcSyDtV8QEWl577JhGHmmYiaPJ8rh_DbwxZjiwSeJen-kRP_Z9_ZL7RPPQ0BFHxyCw0Wi4JQglm_jYdylBcTVJv9mlHNeyxjMFTIByBL7wqAY-PqiLI3hUHUenX8vUijypMFC09bYG47QEpSeuvacNIp-_jmupsd0e1Oqs_nVYSmOSDobNZVZQtA-QYX-g4bFRSZkClzoZyP_FFgbP5flGPxA6UrpFIeSEKXH-Zo_lrBZ8mII9chYnQk_dmQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056304",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZyVNWwRMaYpwaV_LEuyQ0nCQwHKnWnI1uLLg6F454D0JXKf-DiZNhZFBLLjxlihvypRQl4z-wjIebAiDAqtA3C7HDcFcSyDtV8QEWl577JhGHmmYiaPJ8rh_DbwxZjiwSeJen-kRP_Z9_ZL7RPPQ0BFHxyCw0Wi4JQglm_jYdylBcTVJv9mlHNeyxjMFTIByBL7wqAY-PqiLI3hUHUenX8vUijypMFC09bYG47QEpSeuvacNIp-_jmupsd0e1Oqs_nVYSmOSDobNZVZQtA-QYX-g4bFRSZkClzoZyP_FFgbP5flGPxA6UrpFIeSEKXH-Zo_lrBZ8mII9chYnQk_dmQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785217226476,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi source: Enemy American unmanned aircraft are roaming the skies of Diyala Governorate",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785217159213,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Violent explosions shake the Eastern Province of Saudi Arabia. Six explosions were clearly heard near oil and gas facilities without activation of air raid sirens in the Eastern Province of Saudi Arabia.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785217178819,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraq: Al Mayadeen correspondent in Sulaymaniyah Governorate: The night hours witnessed an intensive bombing operation and targeting of American camps on the outskirts of Erbil.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785217251969,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraq: Al Mayadeen correspondent in Sulaymaniyah Governorate: The night hours witnessed an intensive bombing operation and targeting of American camps on the outskirts of Erbil.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785217245526,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - Israel Hayom: The Supreme Court will discuss today the judicial petition against the law preventing the arrest of those evading military service.",
+    "media": [],
     "verified": false
   }
 ]
