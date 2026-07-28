@@ -181,6 +181,66 @@
     "verified": false
   },
   {
+    "id": 1785226165018,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Pro-Palestinians gather outside White House to protest Netanyahu’s visit, US support for Israel📌 Tehran, IRNA – Pro-Palestinian activists have rallied outside the White House to protest Israeli Prime Minister Benjamin Netanyahu’s visit to Washington, DC, and US support for the Tel Aviv regime.Th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226226572,
+    "type": "rocket",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Pro-Palestinians gather outside White House to protest Netanyahu’s visit, US support for Israel📌 Tehran, IRNA – Pro-Palestinian activists have rallied outside the White House to protest Israeli Prime Minister Benjamin Netanyahu’s visit to Washington, DC, and US support for the Tel Aviv regime.Th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226220577,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Pro-Palestinians gather outside White House to protest Netanyahu’s visit, US support for Israel📌 Tehran, IRNA – Pro-Palestinian activists have rallied outside the White House to protest Israeli Prime Minister Benjamin Netanyahu’s visit to Washington, DC, and US support for the Tel Aviv regime.Th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226218232,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Pro-Palestinians gather outside White House to protest Netanyahu’s visit, US support for Israel📌 Tehran, IRNA – Pro-Palestinian activists have rallied outside the White House to protest Israeli Prime Minister Benjamin Netanyahu’s visit to Washington, DC, and US support for the Tel Aviv regime.Th...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -119056,6 +119116,76 @@
     "verified": false
   },
   {
+    "id": 1785226181826,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 UN slams Israeli settlement activities as clear violation of international law📌 New York, IRNA – United Nations Deputy Spokesperson Farhan Haq has said that all Israeli settlement activities constitute a clear violation of international law.Haq said on Monday that all settlements in the occupied...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226207761,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 UN slams Israeli settlement activities as clear violation of international law📌 New York, IRNA – United Nations Deputy Spokesperson Farhan Haq has said that all Israeli settlement activities constitute a clear violation of international law.Haq said on Monday that all settlements in the occupied...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226196773,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇶🇹🇷 Iraqi Prime Minister heading to Turkey on official visit@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/TqgBK2w4a9a6dmb1hf9DOgPVk4Zm5JqMbpAJbZn2_TR3x9FVPqrIuwyXwLzSlj0wYC31XJMcfvv2UXr85mxuSiTYRMxvJ2DA07fpaOWwxmtMJyRdbQGXBtbnm8U1Q2s6N7uuQtgDT2fmKKyw9WSXM_Qse7a5lvbWbZdQpsWAXPAplFf7v67JcyplymH1YLPKw7s5ZNneOqtu5iKfTNOPR21L-BnMd5MAKON1ltVDX-mja3hJeAtIXGa5dqJqXN3RpmG76OI_JCeTTOlkBXeJvbgcQMvHSeoiJfDwp_tXHmX3ih6ndxuB-P0PFgzhm94VJpWeG-Qi2uVxZoqLir_-mg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785226232706,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇶🇹🇷 Iraqi Prime Minister heading to Turkey on official visit@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/TqgBK2w4a9a6dmb1hf9DOgPVk4Zm5JqMbpAJbZn2_TR3x9FVPqrIuwyXwLzSlj0wYC31XJMcfvv2UXr85mxuSiTYRMxvJ2DA07fpaOWwxmtMJyRdbQGXBtbnm8U1Q2s6N7uuQtgDT2fmKKyw9WSXM_Qse7a5lvbWbZdQpsWAXPAplFf7v67JcyplymH1YLPKw7s5ZNneOqtu5iKfTNOPR21L-BnMd5MAKON1ltVDX-mja3hJeAtIXGa5dqJqXN3RpmG76OI_JCeTTOlkBXeJvbgcQMvHSeoiJfDwp_tXHmX3ih6ndxuB-P0PFgzhm94VJpWeG-Qi2uVxZoqLir_-mg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785208229481,
     "type": "rocket",
     "location": "Lebanon",
@@ -120103,6 +120233,111 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ 🤔Iranian Government Spokesperson: Bushehr Airport disrupted due to American attacks.• 07:33 — 🔺Mohajerani: More than 350 government employees achieved the high rank of martyrdom while serving 🔹We traveled to Bushehr province and visited the airport of this city; an airport that has practically...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226246598,
+    "type": "cyber",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Claim of a woman killed in Alikhani Square, Isfahan, is false🔹Since an hour ago, claims have been raised in cyberspace by some hostile media outlets, stating that a woman with a known identity was killed last night near Alikhani Square, Isfahan.🔹According to the Isfahan Provincial Judiciary, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226161981,
+    "type": "cyber",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Claim of a woman killed in Alikhani Square, Isfahan, is false🔹Since an hour ago, claims have been raised in cyberspace by some hostile media outlets, stating that a woman with a known identity was killed last night near Alikhani Square, Isfahan.🔹According to the Isfahan Provincial Judiciary, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226210396,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Finance Minister of Israel: The West Bank is an integral part of Israel and constitutes its security zone.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226211764,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Finance Minister of Israel: The West Bank is an integral part of Israel and constitutes its security zone.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226177487,
+    "type": "drone",
+    "location": "Sinai",
+    "coordinates": [
+      30,
+      34
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hostile drone over towns:#Jiyeh #Saadiyat #Damour#Naameh #Khaldeh #Jadra #Ansar#Khraib #Sinai #Mazraat_Koutharieh_Al_Riz#Kfar_Djal #Choukin #Adchit_Al_Chqif#Kfour #Sharqiyah #Numeiriya #Hannawiyeh.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226248558,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi Prime Minister heads to Turkey on an official visit",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785226176105,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi Prime Minister heads to Turkey on an official visit",
     "media": [],
     "verified": false
   }
