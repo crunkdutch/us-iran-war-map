@@ -118736,5 +118736,80 @@
     "description": "⚡️ Hearing the sound of violent explosions in southern Lebanon.Following up...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785206408333,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Columns of smoke rise from inside a headquarters belonging to Kurdish separatists in Sulaymaniyah Governorate, northern Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785206373947,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Targeting one of the Kurdish opposition headquarters in Sulaymaniyah Governorate, northern Iraq, with a swarm of suicide drones.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785206404195,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli media: Sirens blare in Kissufim in the Gaza envelope",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785206439736,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza: Israeli artillery shelling south of Khan Yunis in the southern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785206392430,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza: Israeli artillery shelling south of Khan Yunis in the southern Gaza Strip.",
+    "media": [],
+    "verified": false
   }
 ]
