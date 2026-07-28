@@ -211,23 +211,33 @@ function extractLocations(text) {
 // ── Attack type classification ──
 function classifyAttackType(text) {
   const l = text.toLowerCase()
-  if (l.includes('drone') || l.includes('uav') || l.includes('shahed') || l.includes('arash') ||
-      l.includes('owa drone')) return 'drone'
+  // Intercept/down patterns first — highest specificity
+  if (/intercept|shot\s+down|downed|air\s+defense|patriot|thaa?d|c-ram|iron\s+dome|david['']?s\s+sling/i.test(l) &&
+      /(?:intercept|shot\s+down|downed|destroyed)\s+(?:cruise\s+missile|drone|uav|ucav|missile|projectile)/i.test(l)) return 'intercept'
+  if (l.includes('intercept') || l.includes('patriot') || l.includes('air defense') ||
+      l.includes('thaa') || l.includes('c-ram') || l.includes('iron dome') ||
+      l.includes("david's sling") || l.includes("davids sling")) return 'intercept'
+  // Drone
+  if (l.includes('drone') || l.includes('uav') || l.includes('ucav') || l.includes('shahed') || l.includes('arash') ||
+      l.includes('owa drone') || l.includes('ucav')) return 'drone'
+  // Missile
   if (l.includes('missile') || l.includes('ballistic') || l.includes('cruise') ||
       l.includes('shahab') || l.includes('emad') || l.includes('khorramshahr') ||
       l.includes('qadr') || l.includes('qiam') || l.includes('fateh') ||
       l.includes('zolfaghar') || l.includes('dezfoul')) return 'missile'
+  // Rocket/artillery (shelling, shells, mortar too)
   if (l.includes('rocket') || l.includes('katyusha') || l.includes('mortar') ||
-      l.includes('artillery') || l.includes('shelling')) return 'rocket'
+      l.includes('artillery') || l.includes('shelling') || l.includes('shells') ||
+      l.includes('bombardment')) return 'rocket'
+  // Airstrike
   if (l.includes('airstrike') || l.includes('bomb') || l.includes('fighter jet') ||
-      l.includes('sortie') || (l.includes('air strike') || l.includes('strike')) &&
-      !l.includes('missile') && !l.includes('drone')) return 'airstrike'
-  if (l.includes('naval') || l.includes('ship') || l.includes('warship') ||
+      l.includes('sortie') || l.includes('air strike') || 
+      (l.includes('strike') && !l.includes('missile') && !l.includes('drone') && !l.includes('rocket'))) return 'airstrike'
+  // Naval
+  if (l.includes('naval') || l.includes('warship') || l.includes('navy') ||
       l.includes('boat') || l.includes('carrier') || l.includes('frigate') ||
-      l.includes('destroyer') || l.includes('blockade')) return 'naval'
-  if (l.includes('intercept') || l.includes('patriot') || l.includes('air defense') ||
-      l.includes('thaa') || l.includes('c-ram') || l.includes('iron dome') ||
-      l.includes('david\'s sling')) return 'intercept'
+      l.includes('destroyer') || l.includes('blockade') || l.includes('submarine')) return 'naval'
+  // Cyber
   if (l.includes('cyber') || l.includes('hack') || l.includes('malware')) return 'cyber'
   return 'airstrike'
 }
@@ -521,32 +531,58 @@ function main() {
       // Categorize the post
       const l = rawText.toLowerCase()
 
-      // Strong attack signal — requires explicit military action language
-      const isStrongAttack = /(?:struck|destroyed|targeted|launched|shelled|bombed)\s+(?:a\s+)?(?:US|Iranian|IRGC|Israeli|Hezbollah|Houthi|Saudi|military|base|site|position|depot|hangar|barrack|airbase|airfield|refinery|storage|warehouse|data center|hq|headquarters|ammunition|fuel|drone|missile|naval|ship|carrier)/i.test(l) ||
-        /(?:missile|rocket|drone|artillery|airstrike|barrage|salvo|wave|bombardment)\s+(?:struck|hit|targeted|launched|fired|destroyed)/i.test(l) ||
-        /(?:targeted|attacked|struck)\s+(?:by|using|with|via)\s+(?:missile|drone|rocket|airstrike|artillery)/i.test(l) ||
-        /(?:Intercept|Intercepted|shot down|destroyed)\s+(?:cruise missile|drone|missile|projectile)/i.test(l) ||
-        /(?:Iran|IRGC|Artesh|Iranian Army|Army)\s+(?:hit|struck|targeted|destroyed|launched|fired)/i.test(l) ||
-        /(?:US|CENTCOM|American|US forces)\s+(?:hit|struck|targeted|destroyed|launched|fired|strike)/i.test(l) ||
-        /(?:Hezbollah|Houthi|Ansar)\s+(?:hit|struck|targeted|destroyed|launched|fired|rocket|missile|drone)/i.test(l)
+      // ── Expanded attack signal detection ──
+      // Strong attack signal — explicit military action language
+      const isStrongAttack =
+        // X verbed Y pattern (struck/destroyed/targeted military or infrastructure target)
+        /(?:struck|destroyed|targeted|launched|shelled|bombed|hit)\s+(?:a\s+|an\s+|the\s+)?(?:US|Iranian|IRGC|Israeli|Hezbollah|Houthi|Saudi|military|base|site|position|depot|hangar|barrack|airbase|airfield|refinery|storage|warehouse|data center|hq|headquarters|ammunition|fuel|drone|missile|naval|ship|carrier|port|airport|oil|tanker|convoy|vehicle|patrol|checkpoint|radar)/i.test(l) ||
+        // weapon/vehicle followed by action verb
+        /(?:missile|rocket|drone|uav|ucav|artillery|airstrike|barrage|salvo|wave|bombardment|shelling|artillery\s+shells?)\s+(?:struck|hit|targeted|launched|fired|destroyed|landed|impacted)/i.test(l) ||
+        // targeted/attacked/struck using/with weapon
+        /(?:targeted|attacked|struck|hit)\s+(?:by|using|with|via)\s+(?:missile|drone|rocket|airstrike|artillery|bomb|explosive|ied)/i.test(l) ||
+        // intercept/destroy patterns with intervening words allowed
+        /(?:(?:intercept|intercepted|shot\s+down|downed|destroyed|captured)\s+(?:a\s+|an\s+|the\s+|us\s+|israeli\s+|iranian\s+|houthi\s+|hezbollah\s+|yemeni\s+|iraqi\s+)*(?:cruise\s+missile|drone|uav|ucav|missile|projectile|boat|vessel|ship|aircraft|helicopter))/i.test(l) ||
+        // Actor + action pattern
+        /(?:Iran|IRGC|Artesh|Iranian\s+Army|Iranian\s+Army\s*|US\s+military|CENTCOM|American\s+forces|US\s+forces|Hezbollah|Houthi|Ansar|Iraqi\s+(?:Resistance|factions?)|Yemeni\s+(?:Armed\s+)?Forces|Saudi|Israel[\'']?s?)\s+(?:hit|struck|targeted|destroyed|launched|fired|carried\s+out|conducted|attacked|bombed|shelled|intercepted|shot\s+down|downed)/i.test(l) ||
+        // military operation targeting pattern
+        /(?:military\s+operation|operation)\s+(?:targeting|against|on)\s+(?:a\s+)?(?:US|Iranian|Israeli|Hezbollah|Houthi|Saudi|military|base|vital\s+target|site|position|depot)/i.test(l) ||
+        // explosion/damage reports at military/strategic targets
+        /(?:explosion|explosions|explosive|blasts?|smoke|fire)\s+(?:heard|reported|seen|detected|observed)\s+(?:at|in|near)\s+(?:a\s+)?(?:military|base|airbase|airfield|refinery|port|airport|depot|barrack|storage|oil|gas|facility)/i.test(l) ||
+        // damage/impact confirmed at target
+        /(?:impact|damage|strike|hits|hit|destroyed|burning)\s+(?:confirmed|reported|detected|visible|seen)\s+(?:at|on|in|near)\s+(?:a\s+)?(?:military|base|airbase|airfield|refinery|port|airport|depot|barrack|barracks|storage|hangar|shelter|radar|facility|installation|position|oil|tanker|ship)/i.test(l) ||
+        // artillery/mortar/shelling activity patterns
+        /(?:artillery|mortar|shelling|bombardment|barrage)\s+(?:reported|heard|observed|detected|ongoing|hit|struck|targeted|fired|launched)/i.test(l) ||
+        // drone/UAV/UCAV activity
+        /(?:drone|uav|ucav|unmanned)\s+(?:strike|attack|hit|target|downed|shot\s+down|intercepted|crashed|destroyed)/i.test(l) ||
+        // barriers/waves/volleys of weapons
+        /(?:barrage|salvo|wave|volley)\s+(?:of\s+)?(?:missile|rocket|drone|artillery|mortar)/i.test(l)
 
-      const hasMentionOfAttack = /strike|struck|attack|hit|target|destroyed|launch|fired|shelled|barrage|salvo/i.test(l) && 
-        /missile|drone|rocket|airstrike|bomb|artillery|naval|military|base|airbase|barrack|depot|hangar|refinery/i.test(l)
+      // Medium signal — attack-adjacent context (military action but less explicit)
+      const hasMentionOfAttack =
+        // Has attack-verb AND weapon/military context
+        (/strike|struck|attack|hit|target|destroyed|launch|fired?|shell|explosion|barrage|salvo|bombard|intercept|downed|bomb|fire\b|firing|shot\s+down/i.test(l) &&
+          /missile|drone|rocket|airstrike|bomb|artillery|naval|military|base|airbase|barrack|depot|hangar|refinery|explosive|ied|shell|uav|ucav|port|airport|radar|patrol|convoy|tanker|oil|facility|munition|weapon|interceptor|anti-air|aircraft/i.test(l)) ||
+        // military/naval operation language
+        /(?:military|naval|air\s+force)\s+(?:operation|exercise|maneuver|response|action)\s+(?:targeting|against|on|in)/i.test(l) ||
+        // report of strikes/attacks in progress (news-style)
+        /(?:strike|attack)s?\s+(?:on|against|at)\s+(?:a\s+|the\s+)?(?:military|base|airbase|airfield|refinery|port|city|town|village|position|site|oil|facility|depot)/i.test(l) ||
+        // satellite imagery confirming damage at military sites
+        /(?:satellite\s+imagery|imagery|satellite\s+image)\s+(?:confirms?|shows?|reveal|reveals|detect|indicate)\s+(?:damage|impact|smoke|fire|destruction)/i.test(l)
 
-      const hasCasualtyKeywords = /killed|injured|wounded|civilian|casualty|martyr|death/i.test(l)
+      const hasCasualtyKeywords = /killed|injured|wounded|civilian|casualty|martyr|death|dead|victim|slain/i.test(l)
       const isStatementPost = isStatement(rawText)
       const hasMediaRefs = /🎥|video|footage|satellite image|imagery|photo|picture/i.test(l)
 
-      // Skip blatant non-war content
-      const isNoise = /^(?:published|this is|check out|follow|subscribe|donate|support|ko-fi|patreon|link)/i.test(l.trim()) ||
-        /t.me\/\w+/i.test(l.trim()) && l.trim().length < 80 ||
-        /letter|article|published|read more/i.test(l) && !/(?:Iran|IRGC|Hezbollah|strike|missile|drone|attack|military)/i.test(l)
+      // Skip blatant non-war content — narrowed substantially
+      const isNoise = /^(?:published|this is|check out|follow|subscribe|donate|support|ko-fi|patreon)/i.test(l.trim()) && l.trim().length < 60 ||
+        /letter|article|published|read more|click here|more info/i.test(l) && l.trim().length < 80 &&
+          !/(?:Iran|IRGC|Hezbollah|strike|missile|drone|attack|military|killed|civilian|war|casualties)/i.test(l)
 
       // Validate attack has strong enough signal and good date
       const isValidDate = date >= '2026-02-01' && date <= '2026-12-31'
 
-      // 1. Attack events — only create if strong signal + valid date + not noise
-      if ((isStrongAttack || (hasMentionOfAttack && (entity || hasCasualtyKeywords))) && !isNoise && isValidDate) {
+      // 1. Attack events — broader criteria to capture more relevant posts
+      if ((isStrongAttack || (hasMentionOfAttack && !isNoise && isValidDate)) && !isNoise && isValidDate) {
         const attackKey = `${date}-${locations[0].name}-${attackType}`
         if (!existingAttackKeys.has(attackKey)) {
           // Extract casualty figures from the post text
