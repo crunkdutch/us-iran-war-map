@@ -118701,5 +118701,25 @@
     "description": "⚡️ CNN, citing a US enemy State Department official: Talks between Lebanon and Israel will be held in Rome from August 4 to 6.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785202804604,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Atlantic: Trump Cannot Force Iran to Reopen the Strait of HormuzThe American magazine The Atlantic, in an article titled \"Time is Running Out and Trump Cannot Force Iran to Reopen the Strait of Hormuz,\" writes:🔹The war with Iran has not only failed to solidify American control over the Strai...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qdiHkFcBAwAlqewF6aG_8tOEDSfh19YFyXBtA4Tns6D5zWLH2r2aDwBYh3b0IbSjbRnjOxuHB6cmnqAC8AVQZ8J-7bp04utgbi7-H1tC5rfgrBlf9OYJCG9r8NGdedp7lDHe-YwxUSJC5gv_x8uqJ_UIrr_fPlp7a4XqKK8l-n-m-Prq1b4LX9VQcI-GdezJwNjPn2BRSd77-kApSeemfVI2kbli6s8rIhJ3RFsUgo6JwB4dGrztSAXQH0ZkwrKuY8nrxHUhb_ur1jmxxrDZDDP87l9ZAnkJuryE5zhnf_eMOEsNjNCivB6NqfI4Ct7FxEJefqxh5z3-YJ8ktM_sog.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
