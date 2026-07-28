@@ -30273,5 +30273,46 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 475164200,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-27",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen, Saudi Arabia: Yemeni Missile Attack Targets Saudi Arabia",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Yemeni Missile Attack Targets Saudi Arabia",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/EkxRRuHnUdd_6O6zOgzGd3Q_Ys_YyKMWt744RDg7rjrm85rONPehdVnacuBgCZ__iFypLDGI69G5iLohEN_RaQiNuM2QoaEbkvF_a79TgA8OI5RnEG7M49QixvsxvEeAfZBMzMeMFpTrO25hHgN2GYGSe-petdJMl9MdrU2b3MCkEtKS3xtuw5y_DMeV7wLbZo3_PzD65qCFtCQaM4Gyb3dkGvdsLKt04vJk7Tui0U4vkfgH4Vvh8tlOQ8VlTNgxyXGz6fIn1dqTixeHjA16J0uvBjmiFNwiK6-dCgx2107dRnAsl6U9lXlv_8dmad9UAURtBWzYRerCftKF642QXQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/sDJN1rgFg6t82YEocxLUVdgk4vB5cK5LqNHu3z1CpGMDlqFG0aP-RB0tT5Yds5UkLg3WRn23Ziw-cbiQqoOoNs8_xbBvR-yZF17tUmKYJJozEM1m1iqf8Nm8ElZqlzR4CT3DksZnngBp6dXNaENFDQh-NsDQL9UQERYNJk34Hq2Vw7lCnUd9Pk5YDPtUS1HrMn--aQIxFdKCa4C_7VHEpN58kq_Pjmzm9VNwCPHMOl3dgJMU5xJUlNyJ81vORWXxG3CLMZ7XHMjiOd_S6C_1R7GIIYbYvc9P9H8BZ_I7X_p2MxeK1Iw7v1Y4TxE-zowx5_f7DCzomAAOcHfAFJR6wA.jpg",
+        "type": "photo"
+      }
+    ]
   }
 ]

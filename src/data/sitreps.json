@@ -118611,5 +118611,50 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785197424479,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew sources: An Israeli female soldier working in a secret position within the Glilot base committed suicide after her request to shorten her service due to her psychological condition was rejected.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785197437826,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemeni Missile Attack Targets Saudi Arabia",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785197451683,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemeni Missile Attack Targets Saudi Arabia",
+    "media": [],
+    "verified": false
   }
 ]
