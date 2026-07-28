@@ -120520,5 +120520,123 @@
     "description": "⚡️ Iran: \"Execution of defendants in the crime of killing security forces in Isfahan.\"",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785229847920,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: Two citizens injured by Israeli occupation forces' gunfire east of Deir al-Balah city in the central Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785229760840,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: Two citizens injured by Israeli occupation forces' gunfire east of Deir al-Balah city in the central Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785229790005,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🎦 The government spokesman, showing a blessed rosary from the mother of one of Minab's martyrs, said: Let us not forget that we are forever indebted to these children, children who withered before they bloomed.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b24d1370c9.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ezxhj60IE2njBuhzY-XQx13tKSJ-EvEW5978e862qgxPGdlmsmkIz_LVNoJxgNUr-HXVWDwxcbZNYJuTXeDL7yrlGfNG2HAEdZwOEsIKeM-9bk0puQqWNtbwgq_fj3U20XZQlTHWEDQ2aUsLLShT17f6pR8PBgTWRs_flWl813d6a-bDUpGaq-BWNzbLWG-2UYhKeNBl0bASuLcAjIg2krLf529G6wMizVExIzTpKcLtL8aKgK_7phBXPmaYJ6KiH_FPIIHk_p0OM1y5LqjGasvJKTrFzwD76rNAYl2o-_oq4P4tPqUD-rqX03dwt50czKTeCcP7b10wY_YSPmSMqQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056453",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ezxhj60IE2njBuhzY-XQx13tKSJ-EvEW5978e862qgxPGdlmsmkIz_LVNoJxgNUr-HXVWDwxcbZNYJuTXeDL7yrlGfNG2HAEdZwOEsIKeM-9bk0puQqWNtbwgq_fj3U20XZQlTHWEDQ2aUsLLShT17f6pR8PBgTWRs_flWl813d6a-bDUpGaq-BWNzbLWG-2UYhKeNBl0bASuLcAjIg2krLf529G6wMizVExIzTpKcLtL8aKgK_7phBXPmaYJ6KiH_FPIIHk_p0OM1y5LqjGasvJKTrFzwD76rNAYl2o-_oq4P4tPqUD-rqX03dwt50czKTeCcP7b10wY_YSPmSMqQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785229823111,
+    "type": "missile",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ ⚠️ Another JASSM that crashed in Iran in the middle of the war.⏺Initial examination of the discovered wreckage in the Fin Plain area of Bandar Abbas indicates that some technical features, including the use of a Parker-made Elevator Servo Control Actuator, the component's manufacturing date in 20...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cBH5ALlJkqZfktS3vYpsWbyENpMAN4tld77RzuViT81QfLHWaM8u-Ec3SAEZchNBjQqH8Iv6mfdE9BTZZmm_4kbfA0Qm5LplQqANeXd4lQJviJAx1JGJlIxnqOm_S2Mu3wHght1yFd_0IgWERHv_5dpEzQA3gW2B5Jzq3Jj8LhI1_dkXCgcJOAPZO5cS178OA2OC5bOVsouuq4Mwk5urhMSQ_VpimeUV67vJvmUzFYjeeeYQzAWq7subWuJj-KsB8IkZkxfCIMNSGT2CLL72XONo5susxaZXMOWsJpQNKXuGfzATQ-4Z-LxL4sTDjn_uraWK04gMoIBrSGZnn1fZwQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ERYVvqD8K_ds_CeJfgJzWUhTFAkthqzCwzxmjpVe9kWD5xOCZrRWiRzXexlUBo2CZO1VX9ZIyQUOjIRDPnpgqZiCy6TVxkxezjuvY8ulALaGX4h7pJTA9gdcvmGmf6cpbcUagUgJeqeeLRC_xppHQAbznNPpE_jSuYvA46QTtnEIa7XIiWi_dP-8vMvHibeZ5ziD3nUvcaQqErKMOvjt59bQZ-pMrzVv63MjZ4Q8TTR-3yv9luZxA82CG8TnUCD2TrBPSJRqXzNqn42Y97_QFcdbfzRJyRaXhVtVuU3k_gz3L68PuRx9kogwWIxssIwhD_pR0xOKjHWbbsJnI2W3wQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WyuE1YcZidx3CmBu-1AiNX_6dfs3IAzIDXZLe09nvP-lBlifTsoKe68iBpdhrDwnLmdHxlMYibPrK8nHdE4DHCjh6U2r6tyCikAta_EGsWn9nifBPBhl-FOMyqjdIf_LWxWUKp20Qmy90meG2snSXOMRcfz4TqK32GEgfPauFZroRQyerHP_WaxMhW_mDpO-akWmncUGF6XfvxEU0dhRuGsFy1g59OLJZfMy4BY081rLbQrjPezX5LOecwUCLt6w9JIc6L6gA__O8Vpwv7sCuyiPC8kel2hqW8h5dXA5JrsYr_xQN8b4tRMy1rwMf-M2ZJeWnSeASt9Kn3-WQihlCw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fWMFFbn_VrlG5HYjqg3k6CjV0L8DdsBeDwwZB04y5eTiZ2cN-RO6jsiUeyEvqW-nEEOwHa4-7PZFoTuwz4c9Obr2NQJ1oPzhM08AJqGwTRPSElx5_DilfDFUx3erJkxYVlHbs5GjpG15-5IVOhjtFC0uwGPE-hqaoXGm7m0FYFMlLEcqymVcBl2-rWu-Z2Hi-Kf7HjNwerBl3bNQxdZrZVyGYniGoWep7z0B2jak9LqyzY4S71RH1oDfpda5zhth34I_0emkC1itpIKfZfXTJuLO39Mq0G4Kx0WxyJU1gwEvkdR8AEAjJegeo2uDm6mNiuHqOHSSljfQrnGJlHbswA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Vo2T5nI1-yLi2UiPrwXoa3BNDF-5iltbqQVOpEPZK0zgbfsN2UeSwT_NcbU-4s8cOphJt1yHlT2jP-_OXFfvA6Q9Wp4NomUvZAo96K92z9aWpe6QJgLP-9MnE2C0RXpYKD5U-BQjcGyrw-ATcltFf1Z1rJafa67ft5stGBXACP7JdAGwNiJDaLvKOSaz1E5e6TlvVARgEsXAEBwmMnk8L88KJU2IJ71x7GVN328JxAUnxsuR-Bq3QKg90S9bGAJaxEIG-cftGJbCQi8G3J5T1Y72sGM_AL5vEWSR6WCmacXnfRjILBoxVGtWd9ef1IfNnKZrBIhYoXJAyIk4LjCHzQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785229764784,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Three bears photographed in Gilan forests🔹The head of the Langesar County Environmental Protection Department announced the recording and documentation of images of three brown bears with camera traps in the Hyrcanian forest highlands of this county, and said: This event is a sign of the ecolo...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b1898dd5b7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ETflRSSxPUxRStq_rLnP6hlMaY43VG93aEuix35Vi8aoqQCwdo-aSwmO6c8ZK9evg90KbgahIxKzioSjgsmqI5pCXOXS0Mwwin_D1qbbKQBSho9mKhX_7-YCwy4mJAxr_-tVB-N_dV3D2ZYEjQkbqota9K5DnCQbiaNqnMY-dzF8Lotv97IXv_y_pnBXsPakM9GtLLjWFG0XJYBSSlR57OAlbKFNi55DCEDvmD4AGsDJEmnvcktqCJvM4rsAduBAtHm_t8NATdcAdN5epYqdiBZK0r4EdPbPYbWmXxqAAZUPHbUf0cWmtGsC0ayckjFXrVPxHt9xErxZkQrk_BplIA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056462",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ETflRSSxPUxRStq_rLnP6hlMaY43VG93aEuix35Vi8aoqQCwdo-aSwmO6c8ZK9evg90KbgahIxKzioSjgsmqI5pCXOXS0Mwwin_D1qbbKQBSho9mKhX_7-YCwy4mJAxr_-tVB-N_dV3D2ZYEjQkbqota9K5DnCQbiaNqnMY-dzF8Lotv97IXv_y_pnBXsPakM9GtLLjWFG0XJYBSSlR57OAlbKFNi55DCEDvmD4AGsDJEmnvcktqCJvM4rsAduBAtHm_t8NATdcAdN5epYqdiBZK0r4EdPbPYbWmXxqAAZUPHbUf0cWmtGsC0ayckjFXrVPxHt9xErxZkQrk_BplIA"
+      }
+    ],
+    "verified": false
   }
 ]
