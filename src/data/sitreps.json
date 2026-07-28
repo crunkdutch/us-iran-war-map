@@ -119041,6 +119041,21 @@
     "verified": false
   },
   {
+    "id": 1785224417850,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇶🇺🇦Iraqi National Security Advisor:We have an intelligence unit tasked with analyzing intelligence data, and they have concluded that Ukraine is involved in [terrorist] activities within Iraq.We apprehended a number of groups that carried out attacks and targeted several facilities on Iraqi soi...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785208229481,
     "type": "rocket",
     "location": "Lebanon",
@@ -120004,6 +120019,91 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785224469114,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza: Occupation artillery targets the eastern areas in Jabalia, northern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785224375321,
+    "type": "airstrike",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Controlled explosions in Omidiyeh, Ahvaz🔹Omidiyeh Governorate: The sound of today's explosions is due to controlled unexploded ordnance disposal operations, and there is no cause for concern for citizens.• 07:35 — 🤔 An official in the Iranian city of Ahvaz: The sounds of explosions today are ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785224380952,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Kermanshah Closed on Wednesday\"Balaei,\" Deputy for Management Development and Resources of Kermanshah Governorate:🔹Due to the increase in air temperature, government administrative and executive agencies, banks, insurance companies, and non-governmental public institutions will be closed on Wedn...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/uqYg7EzBEm0IEzGZojz_7nsKFJlwJv2eEk8RYncC3obHy2CH5CLa0dpn8z-LGoxAFCUVtQPfIJsp2gWDq5ihdSrpEyN-DJWxITTMdH_LHTBlwLpzyjKSy9HbOG38EyAHyLDxj5n7q98x2fCKObLSB0LHBb1cPaW_cyxqZ32gjELDwQo21DWZtRm12z8y6Fz1Cn_QwW061TAAFLmvhjCeXeYcUi-320BSECaDbpyX8C_qLbBYgRFAIYO7OtASua-JCuiwdkanIyIC1B9eUPsqFRVbjVGFaTVfgPG168VoikputLy5fTA3fnY2JVBi-un4RmrPrMDBYcD2sgFXabHZcw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785224405614,
+    "type": "airstrike",
+    "location": "Kermanshah",
+    "coordinates": [
+      34.3,
+      47.1
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Kermanshah Closed on Wednesday\"Balaei,\" Deputy for Management Development and Resources of Kermanshah Governorate:🔹Due to the increase in air temperature, government administrative and executive agencies, banks, insurance companies, and non-governmental public institutions will be closed on Wedn...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/uqYg7EzBEm0IEzGZojz_7nsKFJlwJv2eEk8RYncC3obHy2CH5CLa0dpn8z-LGoxAFCUVtQPfIJsp2gWDq5ihdSrpEyN-DJWxITTMdH_LHTBlwLpzyjKSy9HbOG38EyAHyLDxj5n7q98x2fCKObLSB0LHBb1cPaW_cyxqZ32gjELDwQo21DWZtRm12z8y6Fz1Cn_QwW061TAAFLmvhjCeXeYcUi-320BSECaDbpyX8C_qLbBYgRFAIYO7OtASua-JCuiwdkanIyIC1B9eUPsqFRVbjVGFaTVfgPG168VoikputLy5fTA3fnY2JVBi-un4RmrPrMDBYcD2sgFXabHZcw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785224381789,
+    "type": "airstrike",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🤔Iranian Government Spokesperson: Bushehr Airport disrupted due to American attacks.• 07:33 — 🔺Mohajerani: More than 350 government employees achieved the high rank of martyrdom while serving 🔹We traveled to Bushehr province and visited the airport of this city; an airport that has practically...",
+    "media": [],
     "verified": false
   }
 ]
