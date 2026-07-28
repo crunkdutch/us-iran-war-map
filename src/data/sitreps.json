@@ -119271,5 +119271,40 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785211787086,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Bloomberg report on fire at Saudi Arabia's Abqaiq oil facility🔹Bloomberg reported that satellite images show a fire is occurring at the Abqaiq oil processing plant in eastern Saudi Arabia.🔹This facility is of high strategic importance due to its processing capacity of approximately seven mill...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/eAqgJhNC9S5ufD79UDQGyKxI3CF_OfgZ6axFCa165rYfpnn_mIQlYOCduqrRqFtBEeNSBfcJ4nShR7BWY_ZN1xxxP1Z0nDAC1g8-Llo0s0s9fBfGLtYIO62gmB50OqahVsSkLydemtB5v6AhrtznDLhLq3zfAc2PqA7qnIsW5eNBcqr5eVOz6N-2j9e1DRWbJXntir26iTwYkhZWeNvqxsbKcDFRZe-CXxrlbmTlmnLsT21G_xQL7NAyXfcPUHdumx_96BKPKOPMVO7IuyxcdDMW1SQNllY4aofRJFCQEFP2qvSe-zwSILOWodR7QXcuV2_GQKrcrHODo28_ZCbHxg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785211808180,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Injuries as Zionist settlers attack the Khairi Abu Tuhfa family in the Khallet al-Homs area, south of Yatta in the occupied West Bank of Palestine.",
+    "media": [],
+    "verified": false
   }
 ]
