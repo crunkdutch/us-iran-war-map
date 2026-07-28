@@ -121889,5 +121889,35 @@
     "description": "🇮🇶| Breaking — A strong explosion was heard in Erbil a short while ago.🔻@enemywatch+",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785273163683,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli occupation forces have continued their attacks across southern Lebanon with a series of bombardments, artillery shelling, drone strikes, tank fire, machine gun attacks, sound bombs, and flare bombs. Bombardments targeted Hadatha, Al-Qusayr, Zawtar Al-Sharqiyah (multiple strikes), the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785273108760,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli occupation forces have continued their attacks across southern Lebanon with a series of bombardments, artillery shelling, drone strikes, tank fire, machine gun attacks, sound bombs, and flare bombs. Bombardments targeted Hadatha, Al-Qusayr, Zawtar Al-Sharqiyah (multiple strikes), the ...",
+    "media": [],
+    "verified": false
   }
 ]
