@@ -114927,6 +114927,36 @@
     "verified": false
   },
   {
+    "id": 1785276720328,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸🇯🇴| BREAKING: At least 3 ballistic missiles were launched by Iran reportedly against targets in Jordan.@FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/X2fKfMYeLmxHPicEprSU3jdrPms0TYGqtTge6l-mk3k3HMj51w0fDgUoPfZv0NT_DBwy2WHkdKHGGRd4ArfsvrCr1G93urHyAxlnIq51BMgdUMlPGJJZrQbKUJW0h3EOrjMwnvU7FBhIUKu6WgWScZ4E_EwK4d5Nw2nFnLNiU3wcvoAh7b2MaqJWA8dn7FwZCSZ-ylI8tMyXr-GmrsWYE5Wk1xA2YbCofUvaaFSbWxjyD9NMytYYuxOUv_vjjm_cYw0QE3b1H4TlBBYVXqrHai895u3v2GMv8EKvILnotlEJcECGd4cNa-GwzvMn4L1aLtDd7pp0jYks0heORWeeYQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/13905b7686.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/u62tnsdRulF10lggWdQiev0msp81ks2IwCwqRJEVohx26rgSBtVDMiJgxRQgc_mjNadT9vFRYhskYwi4duHoIPWmSrrqtQ92lVFObw37joTJGmQKz6oVPbR5IXEmYBdHibYWTwSFhTSyzxF0NF0_5x-a9AJcE8C0r8OYWge2SCbxzXPmnl-mrLOVEkNgRD4UJwLHjOVr3sElUblXWEjdvjj_7ppaBp0pVpMo4FszH5DlsXGKiL39zo4dNa6Ka1i8B6CTrFwjQdWWceQfmQoye141Qa0xuV8XYVhYYuWdJsL5-AfHXCxEIue_gewYzayDrbX_dYaMuJKPM5eM-DY0yw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23355?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/u62tnsdRulF10lggWdQiev0msp81ks2IwCwqRJEVohx26rgSBtVDMiJgxRQgc_mjNadT9vFRYhskYwi4duHoIPWmSrrqtQ92lVFObw37joTJGmQKz6oVPbR5IXEmYBdHibYWTwSFhTSyzxF0NF0_5x-a9AJcE8C0r8OYWge2SCbxzXPmnl-mrLOVEkNgRD4UJwLHjOVr3sElUblXWEjdvjj_7ppaBp0pVpMo4FszH5DlsXGKiL39zo4dNa6Ka1i8B6CTrFwjQdWWceQfmQoye141Qa0xuV8XYVhYYuWdJsL5-AfHXCxEIue_gewYzayDrbX_dYaMuJKPM5eM-DY0yw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785075864321,
     "type": "airstrike",
     "location": "Oman",
