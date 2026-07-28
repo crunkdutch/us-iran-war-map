@@ -118656,5 +118656,50 @@
     "description": "⚡️ Yemeni Missile Attack Targets Saudi Arabia",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785201019704,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ US official: US sanctions and naval blockade will take longer to force Tehran to the negotiating table.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785201013475,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ CNN, citing a US enemy State Department official: Talks between Lebanon and Israel will be held in Rome from August 4 to 6.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785200992494,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ CNN, citing a US enemy State Department official: Talks between Lebanon and Israel will be held in Rome from August 4 to 6.",
+    "media": [],
+    "verified": false
   }
 ]
