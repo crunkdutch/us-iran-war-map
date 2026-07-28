@@ -30596,5 +30596,37 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 475171346,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "Saudi Arabia Drone Strike — Jordan, Saudi Arabia, Iraq: Hebrew Channel claimsAbout drones were launched",
+    "location": "Jordan, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🚫Hebrew Channel 15 claims:About 20 drones were launched by Shiite factions in Iraq towards Israel, Jordan, and Saudi Arabia.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]

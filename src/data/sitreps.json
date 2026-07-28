@@ -119186,6 +119186,36 @@
     "verified": false
   },
   {
+    "id": 1785228026292,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-27",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran’s Armed Forces stand strong against enemy: Army commander’s advisor📌 Amol, IRNA – Advisor to the Iranian Army’s chief commander, Brigadier General Mojtaba Jafari, has said that the country’s Armed Forces stand with authority against the enemy.The Iranian nation, through unity, will stand ag...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785228027926,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Alert | Crossing movement for Tuesday, 28/07/2026:🚧 Rafah Border Crossing ✅ Open🚧 Kerem Shalom Crossing ✅ Open🚧 Zikim Crossing ❌ Closed🚧 Kissufim Crossing ❌ Closed• 08:30 — 🚦 📦 Truck movement into the Gaza Strip 📅 Monday – 2026-07-27 ━━━━━━━━━━━━━━ 🔸 Total truck movement: ▪️ 🚚 Total truc...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785208229481,
     "type": "rocket",
     "location": "Lebanon",
@@ -120338,6 +120368,156 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Iraqi Prime Minister heads to Turkey on an official visit",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785228023460,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media: Again... Former occupation prime minister Naftali Bennett: I don't know why \"Netanyahu\" doesn't immediately declare Qatar an enemy state.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785228034373,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Israeli Army Radio: The number of settler attacks in the West Bank increased to 660 attacks during the first half of the current year.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785228018551,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Israeli Army Radio: The number of settler attacks in the West Bank increased to 660 attacks during the first half of the current year.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785227968630,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Abu Ali Express blog: Recently, we have seen several cases where the killing of Hamas operatives, who were targets of raids, was announced on social media in Gaza and by the Israeli army spokesperson, while they were in fact alive (seriously wounded) and died later. For example, policeman Yaman O...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785227981820,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-28",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Abu Ali Express blog: Recently, we have seen several cases where the killing of Hamas operatives, who were targets of raids, was announced on social media in Gaza and by the Israeli army spokesperson, while they were in fact alive (seriously wounded) and died later. For example, policeman Yaman O...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785228014270,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Israeli Energy Minister: If Turkey establishes military bases in Syria, we will also establish bases there.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785227981060,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Israeli Energy Minister: If Turkey establishes military bases in Syria, we will also establish bases there.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785227966723,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Israeli Energy Minister: If Turkey establishes military bases in Syria, we will also establish bases there.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785228003579,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupation ArmyWe arrested 30 Palestinians last night from various areas of the occupied West Bank.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785228001576,
+    "type": "airstrike",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: \"Execution of defendants in the crime of killing security forces in Isfahan.\"",
     "media": [],
     "verified": false
   }
