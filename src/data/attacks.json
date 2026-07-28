@@ -30316,6 +30316,49 @@
     ]
   },
   {
+    "id": 475168160,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-27",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Iraq, Israel: Commemoration Irans martyred Leader held Iraqs",
+    "location": "Tehran, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Commemoration for Iran’s martyred Leader held in Iraq’s Najaf📌 Tehran, IRNA – A ceremony commemorating the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, has been held at the holy shrine of Imam Ali (PBUH) in the Iraqi city of Najaf.Iranian and Iraqi officials, along with pilgrims attending the annual Arbaeen pilgrimage, took part in the ceremony held on Monday night.​Iranian cleric Alireza Panahian highlighted the martyred Leader’s special attention to Arbaeen, sa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0ea9535399.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qcM3h6d2K6uB5AZ54F5MhFXyBzWMuy6sTpdw8PiAnUC7pGSY9f3KsN_TfIvFRpdxHifCXr2o3f_qnsUKfVhdEwcNn9lQ-zni0icnQiFZVdTchCQnlOXjjrMbuWzmWoq1UDAkaSglfn9ZTklwL_ODngR8Wd8kB3T2lAqTu1rgW8ygtGMEZ3ix5lhhOM4Iy1-KrYvoR00dCZmtW58V0INqWr6rFNvKi4QbpXg-FQHTeMmi-6MFrh05i1Hl61sTTMVjIZ7Ys0C4d2EYU1wBn1T3U6z7mMIBRuplYxx4I0yQkLgZtqYEtqvjcZAsUtw1Tk5k-XSV93o8_RRzAVb9cyZoFw"
+      },
+      {
+        "url": "https://t.me/Irna_en/37543",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qcM3h6d2K6uB5AZ54F5MhFXyBzWMuy6sTpdw8PiAnUC7pGSY9f3KsN_TfIvFRpdxHifCXr2o3f_qnsUKfVhdEwcNn9lQ-zni0icnQiFZVdTchCQnlOXjjrMbuWzmWoq1UDAkaSglfn9ZTklwL_ODngR8Wd8kB3T2lAqTu1rgW8ygtGMEZ3ix5lhhOM4Iy1-KrYvoR00dCZmtW58V0INqWr6rFNvKi4QbpXg-FQHTeMmi-6MFrh05i1Hl61sTTMVjIZ7Ys0C4d2EYU1wBn1T3U6z7mMIBRuplYxx4I0yQkLgZtqYEtqvjcZAsUtw1Tk5k-XSV93o8_RRzAVb9cyZoFw"
+      }
+    ]
+  },
+  {
     "id": 475164990,
     "type": "drone",
     "status": "confirmed",
@@ -30452,5 +30495,37 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 475168955,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Riyadh, Strait of Hormuz, Bab al-Mandab: volume maritime traffic through alMandab Strait",
+    "location": "Riyadh, Strait of Hormuz, Bab al-Mandab",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ The volume of maritime traffic through the Bab al-Mandab Strait has significantly decreased, and passage through it has almost halted after the naval blockade announced by the Ansar Allah Houthi group against Saudi ports, and the attacks that targeted two Saudi oil tankers.Reuters reported that only 11 commercial vessels crossed the strait on Sunday, and that the weekly traffic volume decreased to an average of 30 vessels per day. This waterway is important for the Saudi port of Yanbu, where ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
