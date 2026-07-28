@@ -110350,6 +110350,26 @@
     "verified": false
   },
   {
+    "id": 1785237028035,
+    "type": "naval",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ ⏺Sentinel-2 satellite on July 25, 2026, recorded the American ship USS Comstock (LSD-45) operating off the coast of Oman.Distance: Approximately 44 kilometers from Aselah BeachShip type: Whidbey Island-class dock landing ship",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/JmZ46VI6mwgtYnjeQnS2eUxcwp5p5zpSznHKq8Gw0uj-_wCbYUvl0pZj1PgMIACt-ZyYBaozJEHjoCUY_0E7NKdq-dRi8V5pHqF47xqWXfTcrfqW00vD7KW4DcNE_NztYRvC_P6aqsuvOnJgLA8E_gcKM9qb2S_YOtCjaMICpqLMqFO3-Y13EJrmy-TCpDTjejjjR2xWLCdPlxiutbpdSijVZ2mQsDkxAG3rTCWcbxUVi_xsHZ4VMIUEGx5B-d-2nG332yQnzd8M-VRwLfAnVZf9Zu5smLUmcDrUPTcJAebl1nRznc3Vofq4gSECd0Si0xS1Mt-0tsduqssZW-ukxQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -119321,6 +119341,32 @@
     "verified": false
   },
   {
+    "id": 1785237044520,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇾🇪🇸🇦The recent attack by the Ansarallah forces on the Abqaiq refinery in Saudi Arabia targeted the exact same crucial production and storage units that had been struck seven years earlier.It will be a long time before Abqaiq comes back online.Geographical coordinates of the target site:25.9287, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1e7b0e084c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qCAemLm4MAFmZKhI6kQ5HVs563ZxkLK7Y0wRuWEUYResNRDi6QpZ4bXsY2_X0hBCknzuzXDQ_E-bDJTyXvhg9G5ycJ15C8ziww1VTG6swd7q3POcltpxWYcv3vX6uXNhnIKWXFvBpY2JYV1LxTmwCdMiTdU5YiqzhCn8XGqzGu5JUEVNrTXGPbtg94vNEceY9QEm6dHpwgyEvjnTHanVHZlorpUDP4ult4KFL7d9WL5_Swmdx7HFbN6K6Xddqifv1E9fehymTmAvj5Cf7TXW_gRw4t829h3hBf-zehJaHPoTbC3K8qYoj23W3R_wkIkrOiCbaq7HQXbiSbrMHeI1JQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8190",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qCAemLm4MAFmZKhI6kQ5HVs563ZxkLK7Y0wRuWEUYResNRDi6QpZ4bXsY2_X0hBCknzuzXDQ_E-bDJTyXvhg9G5ycJ15C8ziww1VTG6swd7q3POcltpxWYcv3vX6uXNhnIKWXFvBpY2JYV1LxTmwCdMiTdU5YiqzhCn8XGqzGu5JUEVNrTXGPbtg94vNEceY9QEm6dHpwgyEvjnTHanVHZlorpUDP4ult4KFL7d9WL5_Swmdx7HFbN6K6Xddqifv1E9fehymTmAvj5Cf7TXW_gRw4t829h3hBf-zehJaHPoTbC3K8qYoj23W3R_wkIkrOiCbaq7HQXbiSbrMHeI1JQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785208229481,
     "type": "rocket",
     "location": "Lebanon",
@@ -121115,6 +121161,108 @@
         "url": "https://t.me/me_observer_TG/1056506",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/l7iFZUKs8y6VbC0XQ5FlNkOW-woolmlZWDcql4i0oYXr6SrF3oPpJbPRbXN_YWafmu0NOfKwt2BG7kTad5cdMaOr3uEv58LcZYIkQ0nxRIw01MpR5iklSkFnyND41l_InTg29HObGtaXjBhsSu6zAWlAk3liJE-tMKIwBYaiSV5l-6k-_ykP6fSXAbrKCQ2Bm7aC-N-Wc2leP9ikVhEgUJIGo93qUCVAjOSAgjUF-Ht7fWxf-xRm8q7ItorCr48kLaELh8WchtdHhg8222--htU_fE_63cVXWffNUsfWQ1tfRTW6aa_lzLT6py4wCYz75h_oZIzuFv5J92EHEAuaKw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785236966607,
+    "type": "airstrike",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The trial process, reconstruction of the scene, and confessions of the terrorist criminals who burned alive the guardians of the people's security in the most horrific way possible during the great coup crime of January in Isfahan, and were hanged this morning.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5c87a6d193.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/j0Lb5rq8JK37f1Ghlj88DdUz8EMgLakVpLS0HjjTmTYpXCoPHf9basao4HhCojwTGjlzYaAEW1U1NxkG6jU0OrQnflExj0o4AygH2swvTB8PF94IWOuK0X5n8u3jmrcvGJOwWMF4RYHupL_2KYxyVgxe8rPKxUQG2GpTYW6d1FS5dE6ouLaiwxoV1EAkfl9dUOilatSi4d4zqlbIIKDXuRrAN59EsChBrXHiVZRGs7voWyQqpeAOmdNP3VXzZFkYOeXeV-yY-16QxYr0RP2WypTMCYHwBsuOGR4l9yz0eSTsoZBVXAWfLFdsotODmHG9rAUzu4bqPE1CTZCFGSGdaQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056509",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/j0Lb5rq8JK37f1Ghlj88DdUz8EMgLakVpLS0HjjTmTYpXCoPHf9basao4HhCojwTGjlzYaAEW1U1NxkG6jU0OrQnflExj0o4AygH2swvTB8PF94IWOuK0X5n8u3jmrcvGJOwWMF4RYHupL_2KYxyVgxe8rPKxUQG2GpTYW6d1FS5dE6ouLaiwxoV1EAkfl9dUOilatSi4d4zqlbIIKDXuRrAN59EsChBrXHiVZRGs7voWyQqpeAOmdNP3VXzZFkYOeXeV-yY-16QxYr0RP2WypTMCYHwBsuOGR4l9yz0eSTsoZBVXAWfLFdsotODmHG9rAUzu4bqPE1CTZCFGSGdaQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785236974293,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Where are the people of good deeds? Your people in the northern Gaza Strip announce a shortage of drinking water.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785237005035,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Ministry of Health:4 martyrs and 14 injured arrived at Gaza Strip hospitals during the past 24 hours.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785237016622,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupation bulldozers demolish residential facilities in Ain al-Hilweh in the northern Jordan Valley.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1a621a9f5c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LE9nLV5zU3fIajNIPF2AYhXk7BzlCLe8R7iApD1Z_bRB5GkMkH8P3ZX0v6V1vjoIRl1L32f5rB-HWV4nj2pr9aADX0h4IIeiUl66XYV_7JBx0snMdrQLbj0S7P048uBxUW2dgp-477Pj5gSo-hfk90zrgjzrnSDaMoHLvc6xFlQly2iQY481Rsv6gnKpe0Y7TwT2kWuTpk7wZsGiZM1Fcjvc5ZjlWLyuTKFqQY5F7aTp1MK5AVnPs4UClTU_ggKo1fTUKporcBLy5HVlnrtOZ8ga6qq55-Q4QTjG7VKX8Wagnm4bHYLz11cl63Kq1pnujMtyD3IWWx_U7zUhDRSnsg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056514",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LE9nLV5zU3fIajNIPF2AYhXk7BzlCLe8R7iApD1Z_bRB5GkMkH8P3ZX0v6V1vjoIRl1L32f5rB-HWV4nj2pr9aADX0h4IIeiUl66XYV_7JBx0snMdrQLbj0S7P048uBxUW2dgp-477Pj5gSo-hfk90zrgjzrnSDaMoHLvc6xFlQly2iQY481Rsv6gnKpe0Y7TwT2kWuTpk7wZsGiZM1Fcjvc5ZjlWLyuTKFqQY5F7aTp1MK5AVnPs4UClTU_ggKo1fTUKporcBLy5HVlnrtOZ8ga6qq55-Q4QTjG7VKX8Wagnm4bHYLz11cl63Kq1pnujMtyD3IWWx_U7zUhDRSnsg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785236957708,
+    "type": "drone",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫 Interception or downing of an Arash drone over the Sar Ramah area in the city of Ankhil in the Daraa countryside, Syria; day five of the 40-day war&#33;",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/NmSYsQfthSznCujp4Ngdv5T3wAUpl5G-k7OkxhdnzYUGsZpnGN57N8TJOcGYoJiDp39mswVxMAoBBtCEWHrn6hJFnmm58dUM6pRD8IrH85PY7vEvOILCGfM4JHE5cy4DZfsOcCRwcW80bSAH1VFKBOz7xwW70F4luW--k0w8Y-ePFhdYTcnZhwIq7zM1vnXkbtCWYuJGudt_6czFQ5sbgmDcOVXmTzA6cAKtqsAPSut1Y5LXYJzyxsn7W8mUsrDuGuLUgxwPL3rjjaEqU0IuUieWzr-8ewheBEZGGQzXU3Sm5AWMLfw5LktQokYMoYUu58bnJwrKpbepEiFOwAV-VQ.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
