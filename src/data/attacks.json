@@ -30415,5 +30415,42 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 475167366,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel, Gaza Strip: Martyrdom Three Palestinians Gaza StripNews sources",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Martyrdom of Three Palestinians in Gaza StripNews sources reported the martyrdom of three Palestinians and the injury of more than 15 others from Monday morning to Tuesday dawn due to Israeli regime attacks on various areas of the Gaza Strip.In an Israeli air attack on Monday afternoon in the Jabalia area of the northern Gaza Strip, one Palestinian was martyred and several others were injured. Also, a 38-year-old Palestinian youth was martyred on Monday morning due to injuries sustained from ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/M6WbVsG2Kqt5DCkWFgwjY9Q8FHQLw_QEPqcGFFaEk_QxGb66x_EcKCGrtcJzYQn39rptx0PZrOVUklNHlioF5xSvBIGzLYBTTMeuu1Mbh07ae1hT2QuRyJcMY6Mwm7QMhp-WBRxTPXjZOmSukNOk2Bgrw64PkrD63JbzUmrhZxZjb1GZgqQ79siE6gZ58RcDo5wt2JqFHH0HD72pr77zLtvUwk7ybdY53qbS4o5OmrR8jGxOQUtAytHBUEgK-euTxprCVrhW0tnINKa9QQr-iaFDBnNMXPa5y7PkKTKn-NkUFRG1vJQExUMvrTpaoejNMZvDGI7gKOv6E58NFVvFjw.jpg",
+        "type": "photo"
+      }
+    ]
   }
 ]
