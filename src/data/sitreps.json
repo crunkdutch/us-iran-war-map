@@ -119306,5 +119306,46 @@
     "description": "⚡️ Injuries as Zionist settlers attack the Khairi Abu Tuhfa family in the Khallet al-Homs area, south of Yatta in the occupied West Bank of Palestine.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785213618669,
+    "type": "airstrike",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Today and tomorrow, stable weather prevails in most parts of the country. Meteorological Organization: 🔹The maximum air temperature in most cities of Khuzestan will exceed 45 degrees today. 🔹Only in some areas located in the northern foothills of Alborz…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/15e02444b5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GW-x-STKvS7pxW3n-dXkySiYsUjiI736m6Hcz4LLVD_SLg29IzsO6NEK8pQI6njp2CS2jxcY51JH6vMHucFmAqciioCgpO0NopXrp8jE_3rBTrmz0IabgH1W2bYoR-k96o4VFZ5ULor38HUtPEoNwSjN_icnpjelcvXprGGNtgCixcHFu0KrNF7lV6zK6aV-NiU5Dn7dlvKXTNXTvK-Q9BjR9iRed9ozOVKLJJmYJAquikM6WBpHTlMw8bCu1X4i9C_0QE_3YEJiEJFohvdHFk2HKU8aodFuzVRJrI8RtIAvJEBXU3InpJonqZLjoAj2cpjV2nBGuIDaAMZryR6PAA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1056290",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GW-x-STKvS7pxW3n-dXkySiYsUjiI736m6Hcz4LLVD_SLg29IzsO6NEK8pQI6njp2CS2jxcY51JH6vMHucFmAqciioCgpO0NopXrp8jE_3rBTrmz0IabgH1W2bYoR-k96o4VFZ5ULor38HUtPEoNwSjN_icnpjelcvXprGGNtgCixcHFu0KrNF7lV6zK6aV-NiU5Dn7dlvKXTNXTvK-Q9BjR9iRed9ozOVKLJJmYJAquikM6WBpHTlMw8bCu1X4i9C_0QE_3YEJiEJFohvdHFk2HKU8aodFuzVRJrI8RtIAvJEBXU3InpJonqZLjoAj2cpjV2nBGuIDaAMZryR6PAA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785213594757,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Zionist enemy arrested military officer Amjad Al-Fahmawi from the Customs Department after raiding his home in Tulkarm city in the occupied West Bank of Palestine.",
+    "media": [],
+    "verified": false
   }
 ]
