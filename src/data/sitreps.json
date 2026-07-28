@@ -4760,6 +4760,26 @@
     "verified": false
   },
   {
+    "id": 1785281151540,
+    "type": "airstrike",
+    "location": "Khomeyn",
+    "coordinates": [
+      33.6449,
+      50.0789
+    ],
+    "date": "2026-03-07",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸🇮🇱| This is a school on Shahid Beheshti Street in Khomeyn that was bombed by the US/Israel. @FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mg-qBc3dqRXkDPjI_FP9Tn86H7gYmAWQ2GBLMC4ZW3eNdkgNZhIKCmaQMR1-WcXdzQmf0gdAanXkKsFk3xkNpcKCHOCLPBJ_hDdFx6N5oWfk3CAAUJFQAHqxquLizAB2s2Vc0XZVbK7URTYF9H-v66GKfiSYgFNoHOaK8t_cw97yV8UvcC4VIPrNtsC-ussvwhZDDBQTZKhLwy8doR5eOF9nAvYGkdRTDUBoQ6y2GNI0h60rlMcZJpj2IUNGzdJEPw334w8Tr9Ab5utMNksryCnED1OBnhnlturN2E93BzrGYtwCuBEbFPed3_4Jqg6M5n00VDV-6_M9nyP_XYkKpg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1784999939482,
     "type": "airstrike",
     "location": "Haifa",
@@ -5980,6 +6000,32 @@
         "url": "https://t.me/FotrosResistancee/19487",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/bAKx2vBcgwQCz6SNbNoWzbjSUl5liRH_VjretYB60zrgguz_Wcv5DFce9VS1mmUoG8Qx-QHCmG6wfASHFjikSkW260DLS_bJqPVpw9qyFXXURHEAO8enInF_SJ5Y3uELqLqybVG6qQ98yIfy7tfvaLz9-AkK1G-bpR2RYL6UFZjtUPYo_UMuZs0wLEgEl8SS7xcTnah2ygxeCnyjgC1JM9wKiDmxZlG_ybOBzKyyABVvdIZH5pNFUyOG48BheL_z9wkJUPDePC1zmDtNJl7X6oULJY5F484eVtxEoczzGn9aXWoLrHIqDSCeX_HaX2JTbmXTtMW7cmq2yUJSqZRxkA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281199646,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-03-08",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷| The snow did not stop grieving Iranians to rally in support of the Islamic Republic in Abhar county, near Zanjan. @FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d30767d0b5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mV1P7ow3CjydPH9a9zWmi5mWd4rztECRje-XnlKswnEiSicW4Z2CuKKbWIm-mYfvOjm21cIRjesUX6_uz2rDFtAU1qcqGCRDTk-y94irL5iMhFSHjguhzZlqT26r4v9_OioQu_6I9g-zU25YE_rqTu1cI-msGAJjDwupouiLTxBMvWAnaBkfbSk1FK8-8QoPcGJNR2YOnBQphrFqYk3IzzU1LmiMMWMOJhjYvfAvdsSkqHQcIeOC_v3FK9d0dOkQ_Tb3b0eACGqpJjsKwqgg4gu2EI7g5bo_nZBSje4OBJnT2pWnNxG2-YXYaRk2FZp9DJCpbGZlcA6QvF-ouqu21g"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/19512",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mV1P7ow3CjydPH9a9zWmi5mWd4rztECRje-XnlKswnEiSicW4Z2CuKKbWIm-mYfvOjm21cIRjesUX6_uz2rDFtAU1qcqGCRDTk-y94irL5iMhFSHjguhzZlqT26r4v9_OioQu_6I9g-zU25YE_rqTu1cI-msGAJjDwupouiLTxBMvWAnaBkfbSk1FK8-8QoPcGJNR2YOnBQphrFqYk3IzzU1LmiMMWMOJhjYvfAvdsSkqHQcIeOC_v3FK9d0dOkQ_Tb3b0eACGqpJjsKwqgg4gu2EI7g5bo_nZBSje4OBJnT2pWnNxG2-YXYaRk2FZp9DJCpbGZlcA6QvF-ouqu21g"
       }
     ],
     "verified": false
@@ -9616,6 +9662,21 @@
         "thumbnail": "https://cdn4.telesco.pe/file/mOeWkppaowM29hyT1lQyyQAU39U6zWIrvE0zLsJMevcKUkLuP_cwJbsmcsTZxP5EgUgJRVX8WMOXOqztl6Bj7GCGpat4xD5H2IsqkTakvoJQMGbelK2Jc7oy4zcqIK1i5y2HC8rpZ02dMyWPnsSWKZhnBPdJl6bEQOAEBmQQGB1WNYEGs0XoqAQrClfJETfaekcoN00aDI64MF1tUV4czsiTPbMj2vTU5VIYZuVlpEzXZpZcjQuv72AuHJnPxmarDBAtr0EnBXc6ezTFsxlrDVcZNKdk3Fo1M0Ppp8__Vv9BbmP77YgcLyOKREwtEAyOAzyGCbxPre5gxK1ckNFBKA"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785281226349,
+    "type": "airstrike",
+    "location": "Golestan",
+    "coordinates": [
+      36.8,
+      54.4
+    ],
+    "date": "2026-03-11",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇺🇸🇮🇱🇮🇷| Moments ago, according to Iranian media, the US/Israel bombed a residential apartment complex in the Golestan area of Ahvaz.2 people were martyred and 5 were injured.@FotrosResistancee",
+    "media": [],
     "verified": false
   },
   {
@@ -20370,6 +20431,62 @@
     "sourceUrl": "https://t.me/s/fotros",
     "description": "I’m in Iran and I could just not connect to the internet at all. I don’t know for how long I’ll have a stable connection. But in general, I only encountered one attack (near Tabriz) where Iranian air defenses were countering an aerial threat. Air defenses were successful because no explosions occure...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785281218797,
+    "type": "drone",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-03-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran has published satellite images of its missile/drone impacts on US assets in the region, specifically in UAE.• Fuel storage pumping station at the port of Fujairah seems to be damaged.• Iran destroyed an AN/FPS-117 early-warning radar site in northeastern Saudi Arabia, near Rafha / Al-...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/smBb5tVlhRKBqCG6jmVvxHvxLs7kIQZI7JP8jp5ohcqehIp5nWzzP8-8qizVXfMt19eY3VOd0RXqSNzKMIzBOF-3QLhxkIIRvwwTN19aR40HMnDkZJkHCk-LUyI0Y1L6AiT_yED72PSB_5Yt1mgg0tG4jsRqRBdNh3tUMseI7T-jbeB4DhFK5umO2xFimSGYtFLzdXsFwb6iXCWYDk0EFcw6MONyv5oB2KwQ9coFBUR8oJa6QBqLWUi04nT2HlIMH8Hre8mlzB39z32h3NT3V_ralXAL4ZJe6FJsLcu1U7VVEY0My_XowDB493FWa-Bue2B05xISIBXDusONVB9TuQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vP3u0vpsrW6qOels9Y3LdZOJQkAjRsqp0FpAhZg_jtI2qy-J7T9vyDhq5xoNGA9EMQE-y7DVDFWN6DX39TV9527HUtOikELBIAR0LX7fkLImWXOivZYBUXqfN8HF-UIOoYj_zQ9BDXmS37L2MDuQVQ7BNwKb0JX6tXQ5IY9DUj5gMG_G7lZ78pqtmFiK79lAbftOyROaf4cOZ6EFSnQx-QWpAp9aRiwnxGygnJuj5wCQDoyZRLBFteE2lI7TWkQirzrjshOQ01JlOtzVpJz77mJJZLaItd4UsyvRazT1D7IbtOHb9ZPOFsm4Z2_GJmbXqfcasjYsG4QyQc5yvBg-jg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a9ME6gB2cEFm0G8xyW5h-7t8_WAN2IK5GPRdIgC3QQyybPFjL8knpml3v33a2T8HqnErvQLhTXme9-6jo2dvOfqpIeYYHtsIt3ZVSwrlmeuu4XmEU028VGi1OE-SgazuaLvZ1_8CDjrvJ4BjTskhLDF0KTxKEM1ZO_NUjZJy9DVbgA-q-ysicf1KnIJSoM7C2gp41mOiG2moBPgQfmikcuQwTSy0esy4T-5ev8I7WcIN8Gntk-ZaY4T0YU_I20fWR8IUc-r2FOXP6efbU8P3Xo1r_ccvMD2K3tgj_agya-TVAJHB-KODGh-vHFaQqklMtSOB4pcJS06iYhYXBQ2J3A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b6jvq0mBGYH0pUAv53B1gfKddvmJvy2dkjUzmXKdkrKDAHqaq4IkPStsX8rDHWB7H7ETR2PhAdeCohN-iTdVoAq5Q6EmQ70l1z6h5G2lJTqgD-UF7qz0PfVE5N5Y7osah2LOiNDt2qEPrINRV4K4tFfi7rc51vikP1S987Ze7kZWjvzSfvK1Ixo2P045VnuJB0z-2KhdGYmmn5R6N-W4fZRy6bunQQyiwdZhrWYIIOK9GtCmFLUhyj3xSv1ffJX5WQt5Lii6LNImsDHIkAYNbOWk3BqisW7HPCugP5NjrNQYxnD20s_qnvQJQ4W-WZIXtEavwrilYK0YkhiRrFPDnQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/liLdaHnGJhKomrzxtH8_GrhDKHzHTcNDyta7Jrw_E_ovLPW3e81XktdlP_5yR6DVKhWjM9RELZehJEdOrBjlXyzNg8BO9qfNTTR_ogpD8Gc5ONW62TysnlcjNYbYHIF7GjSoq1gVL7tFMLRKjwZg3atHGuv9Po7U-5HdLGWMWyGVhuq7ADMSLK12hTmMeBqBjVHmAcs-v4sBBnMWz9Zv2RLgTfJDI9527-tO32dvdA2MrV_NkTAp1xQGHS0OuMYMDBJT4GDQMExZS6keUDFAbztvrss4_ReRptR1DfbRGZ4WTIJZA0RZVbZ1S2bjmqKQEvHv1qrRFgLwPyxs1zTqrg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JGU9GRqN0Kumrj2E6sfYtYisy9hyObZguK37wMN0VGY8dHAvgaLUsKho1AlHs1mCOQeVS26_Uq5Qf-bWVWFtMQ_i4LbWfcdH-LiktRTDwgBFF7PBYG-EDwFXgqCmFEh3Vd_rkEhoZ-73VASXddLE9Goh2bCWztiei4AIpedBLc5qQaTZ_DHBnozPqYpuRwyUpVD65rImb7gHZIn-DDfXKfGBpsGNiKNlD-Bnxploxhi1r6KOx2djGkJHv_qw3WbGVMG3JzE653lexdBhQEPh1b21XMmFpWZLoBJ55N3yaimTRDa_ZKh129m5YptAD6u7tnm9PoImTdas_s9U0S7w6w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tAmTtwZHfsdxTNCGobOTWWbHFa0wsTkkCOU6xn9v20QlPm4_tB-8Ox9gp9Mbnedi1pUlnJTK8iKB1WATkVS761BS0j9VxV2ff3rCGwnRQhWyrwbmykrnrBKsUwdmpO0jTJMN69vTlSVzfBTnMNHJldfGX73LcdffiQQSAbXVKsjB6BhcP2OoodgoXqP1O_aZXXiZK_9UZmXQwHaB7_NaWBcrnrcR4y45URTCruKOODldeOHprOkIbTA8aRCu8yh9182ej1NQBIjZXTe4wisGK3gPpF77P5mSuA7EVxsFk-pseOfcr2NNKjlQbnxvtlUjsoYAtOlGERRpJzXFNOgDUQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ZI5UEBGH0WvmV2v4Z5y0K2d_ICV4CK1BWPOUBPB_HUZcmWBASTO9eG-P5vCSZVzZJEDZPxbuYq1e19WvxdCWdJCa5iIlGQPOUaG43ph5DeJxxvEcfKcfCViOge--o0pTB3zkW2R0hjntTsNEjDzikh-q1C8iBkOb8NvELpfS04MMmYbZOPlmQY5lvdYX9YyK8zRDofDjHvSM6_XEKdb8J9_szI3YES2FmMh7Pw14sGpFa2RVLLjW4D85-YjVF4hWhJe8ZBkATcYigKL_sgH2dx6wrA0TkD0hGQNGoEKVVZ6ysLW1SBeMAAxr_pLYVy9JjJQz62zDKJBxYruC0QXnhw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/E0oCX33ggGhyCa9JdGH3c5eRyXsbnzN1L9_6rmIIs6Hk3TKPVrC75OIR20OvCU5C8oVhlWOc85R2cfOaKh1Zt8WGwN383sIMoMFsqyN4Ri1H7Sga0Uvk3-ITd9C8b-uSNTXI2jE86D1lBcNjJonsirs9rzSIVsuB-hloPwT-AC60dYl62RhX7WdVIJVDhLe8hdj5x1iT_EqlJW_XxIAo5x7pXOtpzY2NCyjY7Mvh7NZfNozT6rWERiyu2aJ2SYofKl2HaZlRO0_uQ8gv7PkhClCsJpnI71d2l0SZ5ti99Bm8e4wq_ygHySgiJldpW37ePesozvMuFce9JjHZnCtlgQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jYWEksQNHSY2o7gUXZy1XZn2hDuF9ndA_huWjw3Xh8rNkFvCg-YBd3JBBe4NTIQ21ZEWeVQ0wukfmOJlI04lQr3dVumNi3NyVSLZccEMUo64DF83cr5O3v2UltemgYrp9yzzegsaRjbbAVYRSKfWEPcr9wEuT7aue4iS0YNGRGNetn79XwPgml8URfz5lnmNEU10rsJyhBK1Qo3s9z9_v_V2h5nbgAQtTNHcaQmegZWsDvNQZKusiKUTiPWdAHxdiaa50X607fMzErVg4Ii7WE-YGg5qo2EW_MQUu27Wk4WigoTJZxpor1eNnWGYAg7yxDMUcltXeoFNgdlpt11a9A.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
@@ -46550,6 +46667,71 @@
     "verified": false
   },
   {
+    "id": 1785281237250,
+    "type": "intercept",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-06-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | U.S. Aggression Against Iran: 11 June 2026: In the past four houds, after the Qatari mediator departed Tehran after discussions aimed at finalizing a ceasefire-related agreement. According to Iranian officials, several disputes remain unresolved due to American amendments to the proposed agre...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785281202679,
+    "type": "missile",
+    "location": "Khomeyn",
+    "coordinates": [
+      33.6449,
+      50.0789
+    ],
+    "date": "2026-06-10",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | At least 6 ballistic missiles have been launched from Khomeyn, Markazi Province, Iran, toward American bases in Persian Gulf states.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785281167011,
+    "type": "intercept",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-06-10",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷| Air defense activity has been reported around Asaluyeh. @FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/FY0onstMsX2WaAdXyvB9tI05PAklBWgU9-A6yuMfRBUBKi3MbIuC4QunZPTdvy7RaWaevSyvAHBueo8CDe1mnZt28Ly7MyiPSKXs64vue9aWN9QQv1eDWjFc9HtFn5JzfsVOE_FRRhJPLToEZN0bVCdvkhMugGlrIiXikqFVXcVxSun0Rw1ukWsUSrwuwiUUggWVoMvrbJmuNg2v7jQnWkh8olanCFPjXKOJOi_i7vuXNInvHjGvm8HVQfVvD-FGI04Z3SkfdKisp-HNt0tUVUVgS-Hv1blsW1Cflh5IG8MhW-TGN1QFf0I5Do9LlkDH9G177gImEFLl3oHBjvln9w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281225385,
+    "type": "intercept",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-06-10",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| 3 cruise missiles were intercepted in Asaluyeh by Iranian air defenses. @FotrosResistancee",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1784999981571,
     "type": "airstrike",
     "location": "Tehran",
@@ -69677,6 +69859,118 @@
     "verified": false
   },
   {
+    "id": 1785281193615,
+    "type": "missile",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-07-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🏴| During the ongoing aggression, which continued even as the funeral ceremonies of Martyr Imam Sayyid Ali Khamenei (r) were taking place, additional Iranian personnel were reported martyred in attacks and security operations across the country. Firefighter Khaled Qadri was martyred in the rep...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/YmguJz0zfdwkhtzewOVsUAyweZI_rLqdCKev0j6CDfsX0cB4rwnZna4ob64YsRDNnmvtAodIpvdjibgnpKRgIFKg5CsZDHJJjWR45zx5caulyHKFjqo8ZRNe7t7o7q95R2mZjFwpipXgTXlVmAbHr1Bm8LqNZYdRollQaXvzGzMBkrQiL4ug4h43S77r3CmRdB18xuPHBJQNt9-aGoOyIOnpp5JLD0JSr_bMvKAx9YNeolRGiZytt-kTeHUCnpCVIpgxjs3qH3FkBO0NYm4Grz48Bc-_gTGyjMpWonsohgae1kAwg7DgsdtPJwMH1Gchb3EoqlwHrZZp1fPXV8C2ig.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/nbGSRMsZMM_Y4LJXppuIutkCd9Mf-t4AH1xaCj8gs2tT6SYzm-5QkpS3JzWiHV_ntKLLmdFSE-vob4fj5PLOhek2lbO0STQGdOxJjQrSovoNx0T8bMErUHuRuztxOUTiVBRcSzqLHSs49fYGT0o_-qU-Zhk6k9cov1_fHa31XJeeTC7MtnLUQO0dfmUXysDS0JcW0zlh0-KnXnVtNVG4E18_hYm5IOi2ou4_LM56a5SOhEGvO3utFUlhDLVChPJ7I-3Uzt0EEjUi1yg44NcthgTUueomwCuKHFHVdFrlPflnQdsMnubfhS9qAUTQwMsYdKRhwC5oIm23sBo0AiAmjg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/SMlSIqe6Lu4sprbcACNWisAgVx4jBm_Gy7NyFyhvo0j1LSphyxwQROypSeEsEl9MUll5yJ-WVzs9EEaUtohoCJoI3rOjdO2vdJUPWrzpe6Q46XKzRD-RUUmcXYy8lNIvXCQdNWbYyE4yn2mfvnvwPKKUy68Ikqxoauj-OromN0ya0gE14PTQBDdJol6W-_EbvLwUHpCVZZuqqk3XZPjlkL_f83JjM77Y6s7kKO6UiQkx5aMCCqpq1ill0CGPfMOXUPcv24au1ogmeVGiTOqQmd6AedXR85OjCRPcywMHVNal4EH70_9Y8P0y_8BFRQry8xka_MXU63du2MqA_FBGlA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/ZHUqtb6dJHAbJmyLhbue5eieRfqf6A8u60XWWhNQ15u_wL7StG1RI7Ukpj76XBtRnpjKGpfRKeI7ogQ13wowmdn1U_nZUPRBXBVmIx2Dw8PNTH2TRrJOHeD_g9eE6R7wz5JL-3NIXsB_R6Ile8NbDJ78Qu2QIxowRsDlNBnGcswivCFU2wRN35k4kLLozRxPVmrf9uAJGBtnu2554mXIy-EkgVWcLqZJsgkS7_GdRx_TAy8sw7lFMe7qx8eAr8mIrqXaCnfw-gZqxA-eUyTVMwJ-kGdGQxJ9zsuVBsfvw-7H2as2PeEgYuQboRRfAGSXxAHOpXy-CGLutROI30fg5A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/adGmcy3t1or6J5yj_DB0J04TYK31PHxNMMTBSPAVcu9zDvQPLb_qwYpzLDC5lclKpIrpvBPFxToZxT4iWzJf3fcqY5oad3kU7dNvO08tAF3oaExQ9zqSoN0ARQP1UHFqk_f-FpDNJqg0cdlEOB1YpcCyYmUBCxYjEsUqhwf9fAYqIQWdRvl5RG5hIo_t_K4qOvatKogpTUs6-LUMVBPOXp4QZ2Dyf2LzeBd3H4c_k9yYoMytCiy7xZKq0bioqlhZtpGGCR6pvgkoREMgngllnHgCCUSm9BYWM4R7ei142gR0RhtLzZYtWphoGxGSoHG8swRpH7GZudjOXZPC5p13mA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281180406,
+    "type": "airstrike",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-07-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| The US has once again bombed fishing boats under the pretext of hitting IRGC fast attack boats, in Asaluyeh. @FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/k_YUq8JS3eXwqJv6OjyORN58Sraa0jiWzZKf7e41_8Cu2uhVlVKNJRaUpkhJoZdbDRyB_MJ_D0sYfxTv9xzneoCWr496CPV1wZOZ_Thk_1PGnLUVPg6yK6Szi--OYGKD2oolGyw_L2EuSW8T1cg5q0peT6ivxDomqQnelqt0JYd-XFB9VptKdJa7xNJbig3HmzQtq5iTnGJoVaixGZAR69jJTsx-Ffb07xRUoutadswdEgoKDNZBiv_79fduTlOlH0HJRt_ber9hDdlOy9MTy1JIfJhuEOkt3vSN7PnqqEVg286mrkvgpdLrKrUPQ43JpYk6pbz9tL3GuoMtelZoWA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jbtlKCrhWzOXIcz5QsL-k86F5Cah7Tg37zvjGmqeTwTjXtV09z6xiB7UyFQkpSZwDqdaT2RqgMiODgCnmEU3TUUme9t2IJaNxc_GEjUvtP1Ev2enWvy8rU5uHT0FgpbBAJNAm0hS5t1716iNC8PbcoDQCWx0EJ_d4bmoxnHWXPsrpAZ4Zn1MB-pJyMpWnZfFb4HLnULEk8hDR2AyfkRiQO5T6AGH0uwN5JdM5sCghxbCrm2YAQe6PfddENxcauLvkNE6HvkeghK3S1eB1l22UAP9lqYaqVfNzxGZZ1FfGM9YzibxlU-_ngrGAVlzx074IKEdsjAM-r7I6kXUX9eqrw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281210693,
+    "type": "missile",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-07-09",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Missile launches from Zanjan, Khomeyn, and Tabriz towards US bases in Jordan & Kuwait. @FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bd0c4cb53d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XEBllli2xfY0VpVCCF7RS6y9Whut8TMpg_Rgn6utCr3ZyuCGpPnpj0RWXoY06QRx1O-O-paDrrNTpKBQv_l-41UVcsTNiJQBVp-zBliSrxiBTYJZ_Y348PeWJRTtyq95MvxrLuEbSn7RI-AxcqZTST82v6ifmOoA6J4uf-3H-nBo9KaJQFuCSVmBz3Fm7E3XjkbIHdYLUgUutFACjUMmxZ6IXX597tJ9NInGS9kr_C2Kfl5l1dDiquBSLwzO8Tna1Vf23K3pQSaSoQ5hRLjJrsIHvXNHZ70mKdW2JDClLEthZjkhQ8wPlc0XevQILIhfnFYxS3_ulXbBLVHnlWVSyA"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/22862",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XEBllli2xfY0VpVCCF7RS6y9Whut8TMpg_Rgn6utCr3ZyuCGpPnpj0RWXoY06QRx1O-O-paDrrNTpKBQv_l-41UVcsTNiJQBVp-zBliSrxiBTYJZ_Y348PeWJRTtyq95MvxrLuEbSn7RI-AxcqZTST82v6ifmOoA6J4uf-3H-nBo9KaJQFuCSVmBz3Fm7E3XjkbIHdYLUgUutFACjUMmxZ6IXX597tJ9NInGS9kr_C2Kfl5l1dDiquBSLwzO8Tna1Vf23K3pQSaSoQ5hRLjJrsIHvXNHZ70mKdW2JDClLEthZjkhQ8wPlc0XevQILIhfnFYxS3_ulXbBLVHnlWVSyA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281249354,
+    "type": "missile",
+    "location": "Khomeyn",
+    "coordinates": [
+      33.6449,
+      50.0789
+    ],
+    "date": "2026-07-09",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Missile launches from Zanjan, Khomeyn, and Tabriz towards US bases in Jordan & Kuwait. @FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bd0c4cb53d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XEBllli2xfY0VpVCCF7RS6y9Whut8TMpg_Rgn6utCr3ZyuCGpPnpj0RWXoY06QRx1O-O-paDrrNTpKBQv_l-41UVcsTNiJQBVp-zBliSrxiBTYJZ_Y348PeWJRTtyq95MvxrLuEbSn7RI-AxcqZTST82v6ifmOoA6J4uf-3H-nBo9KaJQFuCSVmBz3Fm7E3XjkbIHdYLUgUutFACjUMmxZ6IXX597tJ9NInGS9kr_C2Kfl5l1dDiquBSLwzO8Tna1Vf23K3pQSaSoQ5hRLjJrsIHvXNHZ70mKdW2JDClLEthZjkhQ8wPlc0XevQILIhfnFYxS3_ulXbBLVHnlWVSyA"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/22862",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XEBllli2xfY0VpVCCF7RS6y9Whut8TMpg_Rgn6utCr3ZyuCGpPnpj0RWXoY06QRx1O-O-paDrrNTpKBQv_l-41UVcsTNiJQBVp-zBliSrxiBTYJZ_Y348PeWJRTtyq95MvxrLuEbSn7RI-AxcqZTST82v6ifmOoA6J4uf-3H-nBo9KaJQFuCSVmBz3Fm7E3XjkbIHdYLUgUutFACjUMmxZ6IXX597tJ9NInGS9kr_C2Kfl5l1dDiquBSLwzO8Tna1Vf23K3pQSaSoQ5hRLjJrsIHvXNHZ70mKdW2JDClLEthZjkhQ8wPlc0XevQILIhfnFYxS3_ulXbBLVHnlWVSyA"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1784999931835,
     "type": "drone",
     "location": "Erbil",
@@ -71500,6 +71794,86 @@
         "url": "https://t.me/SimurghRes/6962",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/gGC25VEHgzJQQTzEvmJW5jdFMBmrswcbo-3AttIYhvSXa1-PZj2yR8gKEX6CokNJjDkrq5AptFNVYuoGnZh958Ldz6ijVJ2DYMRK38Rn5saSF-uQs35vsR1G7AAS4DvNlCP-hIWz9alwODWKWgmryhD_WQ3AxF1aHkF2CQQhBSCyTeRjgrxmaKw1nCJu0Eic1yTUGpmNLu3yG0bbwfDS-n6CYmm9WGOAHTdbkdXLOIsUaaQJhu7qYNSFan9qU-II4jWmO1-JC4Rf1Ixl3GQcxuaFCWtikQr4UXt_vqN7vH8DiOVm2IQ2G1jJz2RfOI2in7Y--M7ATzffTNO_oQfbpg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281241250,
+    "type": "airstrike",
+    "location": "Aqqala",
+    "coordinates": [
+      37.0139,
+      54.4558
+    ],
+    "date": "2026-07-11",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Among the targets of the US last night was interestingly on the transit bridge and railway line in Aqqala, which is Golestan Province of Iran, all the way northeast, close to Turkmenistan. It’s unclear what type of weapon was used (doesn’t look like…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785281165467,
+    "type": "airstrike",
+    "location": "Golestan",
+    "coordinates": [
+      36.8,
+      54.4
+    ],
+    "date": "2026-07-11",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Among the targets of the US last night was interestingly on the transit bridge and railway line in Aqqala, which is Golestan Province of Iran, all the way northeast, close to Turkmenistan. It’s unclear what type of weapon was used (doesn’t look like…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785281225270,
+    "type": "missile",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-07-11",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| BREAKING: Iran-US escalation • Iran fully closed off the Strait of Hormoz• Iran struck 2 vessels that ignored warnings and turned off radio signal• IRGC announced:Strait of Hormoz fully closed until US ceases its interference in this region. No vessel will be permitted to pass through.• Fo...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Ogn9YjN6LOF7_kOcoo-e6ehsg-Eu9phMxLicd9Fv4pQRsSK4C-PHuRqdUD8NezsCPOIq0KD-IYOtlBs01qplLgIP-z9SzMPIw2c8QPZmP_CCjBAz35mhhpvPh3wxkPp40WfuAEMpgo5sC69Y8bR3uIIndntFVGDHMgJHcc6932BytBib3WibMGbKlpl_st1kUB2uI1wbCLA1S9RXxPpipYL1FGwg7HDwEqYigsAFpxDv1uUK8VbsKhzfuMD-b1svict7aqIcUqfPCr7MngwvjNTr3JO3vpnoH5Fn7joyY1WD5j6TvHXNMADXzB8PoRYzwD1Dbjes_y4SjUB3TNmiJg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/057695281b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/IjtGrUF9V18ZpRF3DBe5T67g_1tF1_9aKbOeA9y7NYjKH8T0afC8Z7d1qAbHSU-RkXkfY-UlN3EWdO4QkA3LbbAXHwbofZouFIJVx8fpW7Z4iA60n6thZO2s-tWhNAq5l7zRbcwOWBhj_opu61FQzNqT5z7w62CCGvuf9icHAXuGaolRE3K6Ph5Or24Tbne9-UQgpC0YxFMPFqp_2-KosVF9wD8s64NGLMRVavuktx5H8zN48UywYidnrHbZSht_dLDzN_4MU1SL41CyMh-krcXRZJlFkEiVRC87lFzehyuacWEIQ9_9u4BFTpjIq1N0S0UXjuMaptGutdL_SJFgQA"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/22946?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/IjtGrUF9V18ZpRF3DBe5T67g_1tF1_9aKbOeA9y7NYjKH8T0afC8Z7d1qAbHSU-RkXkfY-UlN3EWdO4QkA3LbbAXHwbofZouFIJVx8fpW7Z4iA60n6thZO2s-tWhNAq5l7zRbcwOWBhj_opu61FQzNqT5z7w62CCGvuf9icHAXuGaolRE3K6Ph5Or24Tbne9-UQgpC0YxFMPFqp_2-KosVF9wD8s64NGLMRVavuktx5H8zN48UywYidnrHbZSht_dLDzN_4MU1SL41CyMh-krcXRZJlFkEiVRC87lFzehyuacWEIQ9_9u4BFTpjIq1N0S0UXjuMaptGutdL_SJFgQA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281231189,
+    "type": "airstrike",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-07-11",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "So far, all the targets designated by the Americans (as far as we know) are located on Iran’s southern coast:Bandar Abbas&nbsp; Sirik&nbsp; Qeshm Island&nbsp; Asaluyeh&nbsp; Bushehr Province&nbsp; Jask&nbsp; Konarak&nbsp; Chabahar&nbsp; Mahshahr, Khuzestan Province@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/J7SQjtQLbDcA2jkKe_84AWEylzC57CdEPBw3J9gWFyDavE31ncoSP76OHd6jdg8gl5Lu_PeR3kcICjrhtXJ0OdZOqPW0yhhyjmoEC2KY8fn8CYRGmJtKD6KK0AplqPF8Ewt8zSui1X-jhix-H84xOkshItmTHbrK6l6Ep2iUVA4Io8lvyS7T1kectCTox1DdOvtZNRlu-oO62Dt28L_4Hr7KQASCoeGApbuxcigqRfr924JwiVRhQ6-Qtz4qV76fjUWTTxJNut_3jKCHLmmfD0rfPT0xUqCFIbA885XXrN6s9mWTdXsdlDIrpXqRtcHLp-0JZvBAs57wW9m6KFdFTA.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -74878,6 +75252,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785281153716,
+    "type": "missile",
+    "location": "Khomeyn",
+    "coordinates": [
+      33.6449,
+      50.0789
+    ],
+    "date": "2026-07-12",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️: 🇮🇷 | American aggression expands across southern and central Iran:In the past hours, American aggression has expanded across southern and central Iranian territories, with reports indicating strikes on ports, military positions, transport infrastructure, communications facilities and strate...",
+    "media": [],
     "verified": false
   },
   {
@@ -96268,6 +96657,26 @@
     "verified": false
   },
   {
+    "id": 1785281225663,
+    "type": "airstrike",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-07-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️| Abbas Araghchi gave a propaganda interview to Narrative No. 20.During the interview, Foreign Minister Abbas Araghchi stated:“If we had accepted the ceasefire 10 days earlier, we would still have had [Dr. Ali] Larijani, [Hujjat al-Islam Esmail] Khatib, Asaluyeh, and Mobarakeh Steel [Industries...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ZZDTHsmACabnWxv3snPLEMT8TModq8BOQNWzPuLSYK-IjRNRqa27yUaY6FL5dBl4s3y1xgdEGBtAKBvA5Z1KhJIxCGK4XAsMYj_8kcZxDn37y9HJZwuiSDxkXS_5OLzfARzgmd1w7ym1_kZ3tcQaicSyaKx5rYBiyP9BMT8pC7zwRraBPUcKWSmNQdNSb7dseWnj1P5ejZD5pDTpIGCxjsFaUwHhkJFaSclvvuhaMdA23ZdeWttTwJ6yfUQ8meeUur8mOIffe6-Fu_iokaNWI3fDi7xBq5StK7Y5UFSP6kFvMm-r4-hED8kYVOKM0mKB7W8FDFAE2z1gKe4EOjlvEw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785000016630,
     "type": "airstrike",
     "location": "Erbil",
@@ -99025,6 +99434,32 @@
     "sourceUrl": "https://t.me/s/simurgh",
     "description": "🇮🇷❌🇺🇸一 Fars: An MQ-9 drone was shot down over Ahvaz by the IRGC Aerospace Force's air defense system. @SimurghRes",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785281210551,
+    "type": "drone",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-07-19",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Footage shows the destruction and recovery of the wreckage of an MQ-9 Reaper drone belonging to the U.S. military by fighters of the Islamic Revolutionary Guard Corps (IRGC) Navy in the Asaluyeh region of southern Iran.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e6daaa9359.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ukWSKA8FHBeYtFYAUw-D08DPU44kI0XkYtUpCKOtY1BWyGyD2WoMaPK-0HSkSbzhziuNZZiEvEmtPASKzRRy7sUX0AVPeq5Hg6igAfx_VVC8fCeVxsuYxJWQy7X9sThWwxf-LDeAHBX-mapiY4CY2sX-YdxtDlR_gDc6cI29ryTRBV45nZWkL4VAL3QLJsDkd7-i7nsyJ102PaTCTmdIJkt00g9u5CDSRhpGp2dAWDEsK2FdqNcEGhDQo_cGn9EyKlMMAoDriErxmIIP-sOlmEcUMw7tO0vpjTLMpVcoBR5R8HPB2I58RFOKZxhFYusWxON__nDgHi-h0dXO3pNtMQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/59936",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ukWSKA8FHBeYtFYAUw-D08DPU44kI0XkYtUpCKOtY1BWyGyD2WoMaPK-0HSkSbzhziuNZZiEvEmtPASKzRRy7sUX0AVPeq5Hg6igAfx_VVC8fCeVxsuYxJWQy7X9sThWwxf-LDeAHBX-mapiY4CY2sX-YdxtDlR_gDc6cI29ryTRBV45nZWkL4VAL3QLJsDkd7-i7nsyJ102PaTCTmdIJkt00g9u5CDSRhpGp2dAWDEsK2FdqNcEGhDQo_cGn9EyKlMMAoDriErxmIIP-sOlmEcUMw7tO0vpjTLMpVcoBR5R8HPB2I58RFOKZxhFYusWxON__nDgHi-h0dXO3pNtMQ"
+      }
+    ],
     "verified": false
   },
   {
@@ -101834,6 +102269,21 @@
         "thumbnail": "https://cdn4.telesco.pe/file/AIhImCQPc-HPw4ILqnGTuV1S9gwpOgbtIKbSukffHHTUyjzo6YA9fOnrjH0Yv-NP1JH5ZUwUbzdKtiPOkZDTERe-JfbI5SKouYH6YiHYtfKWFn_eGJszPPWEYDmT3WufJ7N-59fVTFbKnJvc7OVbnqD75qF5d06BRw5KkfB-Av3cPu8nYKpIWQBHudtAfTFomm1aspK7Te6-iu758A9_G76RXDZPzHU6PG8rF-9rKDQ5WuIYUBVs5jgWbTRWTalK-zMsNK7e5UomC0QzXvHIjfZFk_e8cSrjXWtyusMvQf28f7aFc_vixWEiqcdafPL49F3-uGP436_LCkxztxlB9A"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785281196036,
+    "type": "airstrike",
+    "location": "Khomeyn",
+    "coordinates": [
+      33.6449,
+      50.0789
+    ],
+    "date": "2026-07-20",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "IRIB: Around 50 minutes ago, an industrial zone on the outskirts of Khomeyn, Markazi Province, Iran was targeted by a US strike.@SimurghRes",
+    "media": [],
     "verified": false
   },
   {
@@ -128704,6 +129154,47 @@
     "verified": false
   },
   {
+    "id": 1785281196003,
+    "type": "airstrike",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-07-25",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🎦 First Payment of Reconstruction Facilities for War DamagesChairman of the Board of Directors of the National Development Fund:🔹The fund has entered the field of reconstructing factories damaged by the Third Imposed War, including steel complexes and projects in the Asaluyeh region (the common...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c7c662f987.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/u3oBM7AT-LwnlomCDKQFnMRSzg0HpGOCByM0tswT190CqKKGrIyXHmlZfNP65b3QikfSJRDmUMmkdBY10NoQE3Xz5IN6pMdkByLZilg4klw2dDNfKOUzwSo7BAOlGhvofRUbfhSh6NT3F1MVg7hZvYNRFV6K0P1cKa5NDl1VoAPlLIPhKCiEPCT33_oEW39QR-w4pic1MsJQ43ykpikRlr6OH6_edg60ElIF2tGllTAAuoMBjR3_BUpWEaMF-PcxarzQ20T-0dlPJTN4Fh2NXZqG6flgMA3o7wxaAxskX8qcm-weEQwRqb09Aascyk61MtfwJM6q8t4FEkyD0-tSpw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1054460",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/u3oBM7AT-LwnlomCDKQFnMRSzg0HpGOCByM0tswT190CqKKGrIyXHmlZfNP65b3QikfSJRDmUMmkdBY10NoQE3Xz5IN6pMdkByLZilg4klw2dDNfKOUzwSo7BAOlGhvofRUbfhSh6NT3F1MVg7hZvYNRFV6K0P1cKa5NDl1VoAPlLIPhKCiEPCT33_oEW39QR-w4pic1MsJQ43ykpikRlr6OH6_edg60ElIF2tGllTAAuoMBjR3_BUpWEaMF-PcxarzQ20T-0dlPJTN4Fh2NXZqG6flgMA3o7wxaAxskX8qcm-weEQwRqb09Aascyk61MtfwJM6q8t4FEkyD0-tSpw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281156352,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-07-25",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Possibility of hearing an explosion in ZanjanZanjan IRGC:🔹There is a possibility of hearing the sound of a controlled explosion in western Zanjan on Sunday, July 26, from 9 AM to 12 PM.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785034813300,
     "type": "airstrike",
     "location": "Iraq",
@@ -133510,6 +134001,26 @@
         "url": "https://t.me/SimurghRes/8122",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/m9vOfpQGxDa5K8t56oXClRs5L2OV2iIYb7Pv2btShBVZ_BQjzVy4zLfEmALYowgPdG2ie1L-xAa6uHI88339VHJWaBD4pNQN23DNwNh-lkM3uStnyJ8JtCkI3b7t_RAy6dz-mscg5_Kd33PI5yaTkJmiZWzsp-FJcpJDPTpaDoeZUKh6idwgFm0s5GxGIsmt244SmrqfYzL3kbgoonmbiystU2hJ4YwnhhDz7aRWVS0rs9_9WsJbErvA08TjhPyxZwP1wvdUUA4eNky0o5uaGah2BJo_bkR5yWUHv6XR9FnJBvHdoTufZ-pHWe1T-s50VOJ6Us7XLZW2qeiok46BPw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785281224413,
+    "type": "airstrike",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺668 MW increase in power generation capacity last week; 100 MW of solar power plants to come online this weekAliabadi, Minister of Energy:🔹Approximately 100 MW is added to the country's generation capacity every week. A 160 MW combined cycle power plant unit in Asaluyeh, valued at 26 trillion ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DH8z4-gOJsPIL6QtBDzygyFHjHYEe3Ay5uR4V9rZU0wQ18pzA4vu02G8qQrKKIASXaFAJC70qkwNu5ihIIULT30mzDE32S9Qg8RPJcZcYnGuZgGTKMj0sbbWROVDi_OACDKu6OHmTk5zPHzHtaBmH8-DR2GhSZXGPvEpnIG38QKwmRau3tNCZXEr9mE35Aa02_SzAtbseqEIwhi04E_4K_isYwEdFclvholwJdMi47Zfwqd9dPFm0WnDs-WkI0dwIzzRYSi7IlXMExeuo6iTjIaxLKMi9xi5o8t5iUYnYxVisRJ3eaKx_0v424VtGH9LzDpSxz-MPOuhm-bI4XC7RQ.jpg",
+        "type": "photo"
       }
     ],
     "verified": false

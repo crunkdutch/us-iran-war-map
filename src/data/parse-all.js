@@ -38,7 +38,9 @@ const LOCATIONS = {
   'Khuzestan': [31.3, 48.7], 'Gilan': [37.3, 49.6],
   'Fars': [29.6, 53.0], 'Kermanshah': [34.3, 47.1],
   'Hormozgan': [27.2, 56.3], 'Larak Island': [26.8500, 56.3500],
-  'Abadan': [30.3392, 48.3043],
+  'Abadan': [30.3392, 48.3043], 'Asaluyeh': [27.4761, 52.6075],
+  'Aqqala': [37.0139, 54.4558], 'Golestan': [36.8, 54.4],
+  'Zanjan': [36.6769, 48.4963], 'Khomeyn': [33.6449, 50.0789],
   // Regional cities
   'Baghdad': [33.3152, 44.3661], 'Erbil': [36.1915, 43.9794],
   'Tel Aviv': [32.0853, 34.7818], 'Haifa': [32.7940, 34.9896],
@@ -534,40 +536,53 @@ function main() {
       // ── Expanded attack signal detection ──
       // Strong attack signal — explicit military action language
       const isStrongAttack =
-        // X verbed Y pattern (struck/destroyed/targeted military or infrastructure target)
-        /(?:struck|destroyed|targeted|launched|shelled|bombed|hit)\s+(?:a\s+|an\s+|the\s+)?(?:US|Iranian|IRGC|Israeli|Hezbollah|Houthi|Saudi|military|base|site|position|depot|hangar|barrack|airbase|airfield|refinery|storage|warehouse|data center|hq|headquarters|ammunition|fuel|drone|missile|naval|ship|carrier|port|airport|oil|tanker|convoy|vehicle|patrol|checkpoint|radar)/i.test(l) ||
-        // weapon/vehicle followed by action verb
-        /(?:missile|rocket|drone|uav|ucav|artillery|airstrike|barrage|salvo|wave|bombardment|shelling|artillery\s+shells?)\s+(?:struck|hit|targeted|launched|fired|destroyed|landed|impacted)/i.test(l) ||
+        // X verbed Y pattern — uses word-root matching (launch(?:es|ed|ing)? matches all forms)
+        /(?:strik(?:e|es|ing|en|es)?|destroy(?:s|ed|ing)?|target(?:s|ed|ing)?|launch(?:es|ed|ing)?|shell(?:s|ed|ing)?|bomb(?:s|ed|ing)?|hit)\s+(?:a\s+|an\s+|the\s+)?(?:US|Iranian|IRGC|Israeli|Hezbollah|Houthi|Saudi|military|base|site|position|depot|hangar|barrack|airbase|airfield|refinery|storage|warehouse|data center|hq|headquarters|ammunition|fuel|drone|missile|naval|ship|carrier|port|airport|oil|tanker|convoy|vehicle|patrol|checkpoint|radar)/i.test(l) ||
+        // weapon/vehicle followed by action verb ("missile launches", "drones targeting")
+        /(?:missile|rocket|drone|uav|ucav|artillery|airstrike|barrage|salvo|wave|bombardment|shelling|artillery\s+shells?)\s+(?:strik(?:e|es|ing|en)?|hit|target(?:s|ed|ing)?|launch(?:es|ed|ing)?|fir(?:e|es|ed|ing)|destroy(?:s|ed|ing)?|landed|impacted)/i.test(l) ||
         // targeted/attacked/struck using/with weapon
-        /(?:targeted|attacked|struck|hit)\s+(?:by|using|with|via)\s+(?:missile|drone|rocket|airstrike|artillery|bomb|explosive|ied)/i.test(l) ||
+        /(?:target(?:s|ed|ing)?|attack(?:s|ed|ing)?|strik(?:e|es|ing|en)?|hit)\s+(?:by|using|with|via)\s+(?:missile|drone|rocket|airstrike|artillery|bomb|explosive|ied)/i.test(l) ||
         // intercept/destroy patterns with intervening words allowed
-        /(?:(?:intercept|intercepted|shot\s+down|downed|destroyed|captured)\s+(?:a\s+|an\s+|the\s+|us\s+|israeli\s+|iranian\s+|houthi\s+|hezbollah\s+|yemeni\s+|iraqi\s+)*(?:cruise\s+missile|drone|uav|ucav|missile|projectile|boat|vessel|ship|aircraft|helicopter))/i.test(l) ||
-        // Actor + action pattern
-        /(?:Iran|IRGC|Artesh|Iranian\s+Army|Iranian\s+Army\s*|US\s+military|CENTCOM|American\s+forces|US\s+forces|Hezbollah|Houthi|Ansar|Iraqi\s+(?:Resistance|factions?)|Yemeni\s+(?:Armed\s+)?Forces|Saudi|Israel[\'']?s?)\s+(?:hit|struck|targeted|destroyed|launched|fired|carried\s+out|conducted|attacked|bombed|shelled|intercepted|shot\s+down|downed)/i.test(l) ||
+        /(?:(?:intercept(?:s|ed|ing)?|shot\s+down|down(?:s|ed|ing)?|destroy(?:s|ed|ing)?|captured)\s+(?:a\s+|an\s+|the\s+|us\s+|israeli\s+|iranian\s+|houthi\s+|hezbollah\s+|yemeni\s+|iraqi\s+)*(?:cruise\s+missile|drone|uav|ucav|missile|projectile|boat|vessel|ship|aircraft|helicopter))/i.test(l) ||
+        // Actor + action pattern — flexible verb root matching
+        /(?:Iran|IRGC|Artesh|Iranian\s+Army|Iranian\s+Army\s*|US\b|CENTCOM|American\s+(?:forces|military)|Hezbollah|Houthi|Ansar|Iraqi\s+(?:Resistance|factions?)|Yemeni\s+(?:Armed\s+)?Forces|Saudi|Israel[\'']?s?)\s+(?:hit|strik(?:e|es|ing|en)?|target(?:s|ed|ing)?|destroy(?:s|ed|ing)?|launch(?:es|ed|ing)?|fir(?:e|es|ed|ing)|shell(?:s|ed|ing)?|bomb(?:s|ed|ing)?|attack(?:s|ed|ing)?|intercept(?:s|ed|ing)?|carried\s+out|conducted|shot\s+down|down(?:s|ed|ing)?)/i.test(l) ||
         // military operation targeting pattern
         /(?:military\s+operation|operation)\s+(?:targeting|against|on)\s+(?:a\s+)?(?:US|Iranian|Israeli|Hezbollah|Houthi|Saudi|military|base|vital\s+target|site|position|depot)/i.test(l) ||
         // explosion/damage reports at military/strategic targets
-        /(?:explosion|explosions|explosive|blasts?|smoke|fire)\s+(?:heard|reported|seen|detected|observed)\s+(?:at|in|near)\s+(?:a\s+)?(?:military|base|airbase|airfield|refinery|port|airport|depot|barrack|storage|oil|gas|facility)/i.test(l) ||
+        /(?:explosion|explosions|explosive|blasts?|smoke|fire|sounds\s+of\s+explosion)\s+(?:(?:was|were|is|are|being)\s+)?(?:heard|reported|seen|detected|observed|sounds?|visible|visible\s+from)\s+(?:at|in|near|from)\s+(?:a\s+|the\s+|the\s+area\s+of\s+)?(?:military|base|airbase|airfield|refinery|port|airport|depot|barrack|storage|oil|gas|facility|complex|installation|plant)/i.test(l) ||
         // damage/impact confirmed at target
         /(?:impact|damage|strike|hits|hit|destroyed|burning)\s+(?:confirmed|reported|detected|visible|seen)\s+(?:at|on|in|near)\s+(?:a\s+)?(?:military|base|airbase|airfield|refinery|port|airport|depot|barrack|barracks|storage|hangar|shelter|radar|facility|installation|position|oil|tanker|ship)/i.test(l) ||
         // artillery/mortar/shelling activity patterns
-        /(?:artillery|mortar|shelling|bombardment|barrage)\s+(?:reported|heard|observed|detected|ongoing|hit|struck|targeted|fired|launched)/i.test(l) ||
+        /(?:artillery|mortar|shelling|bombardment|barrage)\s+(?:reported|heard|observed|detected|ongoing|hit|struck|targeted|fired|launched|active|sound)/i.test(l) ||
         // drone/UAV/UCAV activity
-        /(?:drone|uav|ucav|unmanned)\s+(?:strike|attack|hit|target|downed|shot\s+down|intercepted|crashed|destroyed)/i.test(l) ||
+        /(?:drone|uav|ucav|unmanned)\s+(?:strike|attack|hit|target|downed|shot\s+down|intercepted|crashed|destroyed|launch|launches|launched|activity)/i.test(l) ||
         // barriers/waves/volleys of weapons
-        /(?:barrage|salvo|wave|volley)\s+(?:of\s+)?(?:missile|rocket|drone|artillery|mortar)/i.test(l)
+        /(?:barrage|salvo|wave|volley)\s+(?:of\s+)?(?:missile|rocket|drone|artillery|mortar)/i.test(l) ||
+        // weapon launching towards targets (handles "missiles targeting X", "missiles towards Y")
+        /(?:missile|rocket|drone|ballistic)\s+(?:launch(?:es|ed|ing)?|target(?:s|ed|ing)?|towards|fir(?:e|es|ed|ing))\s+(?:from|towards|at|against|on)\s+(?:a\s+|the\s+)?(?:US|Iranian|Israeli|Jordan|Kuwait|Saudi|Yemen|Iraq|base|facility|target|position)/i.test(l) ||
+        // sirens/alarms + country/city context (handles both "sirens in X" and "sirens heard in X")
+        /(?:siren|alarm|air\s+raid|air\s+defense)\s+(?:(?:sound|sounds|sounding|heard|active|trigger|activity)\s+)?(?:in|at|over|across)\s+(?:a\s+|the\s+)?(?:Jordan|Kuwait|Israel|Iran|Iraq|Saudi|Bahrain|Qatar|city|base|area)/i.test(l) &&
+          !/test|exercise|drill/i.test(l) ||
+        // report/announcement style: "Reports of [weapon] [action] [in/on] [target]" or "BREAKING: [actor] [verb] [target]"
+        /(?:report|reports?|BREAKING)\s+(?:of|that|coming\s+in|indicate)\s+(?:a\s+|an\s+|the\s+)?(?:missile|drone|rocket|airstrike|strike|attack|launch|explosion|fire)/i.test(l) &&
+          /(?:Iran|IRGC|US|Israeli|Jordan|Kuwait|Saudi|Yemen|Iraq|military|base|target|facility|complex|city)/i.test(l)
 
       // Medium signal — attack-adjacent context (military action but less explicit)
       const hasMentionOfAttack =
         // Has attack-verb AND weapon/military context
-        (/strike|struck|attack|hit|target|destroyed|launch|fired?|shell|explosion|barrage|salvo|bombard|intercept|downed|bomb|fire\b|firing|shot\s+down/i.test(l) &&
-          /missile|drone|rocket|airstrike|bomb|artillery|naval|military|base|airbase|barrack|depot|hangar|refinery|explosive|ied|shell|uav|ucav|port|airport|radar|patrol|convoy|tanker|oil|facility|munition|weapon|interceptor|anti-air|aircraft/i.test(l)) ||
+        (/strike|struck|attack|hit|target|destroyed|launch(?:es|ed|ing)?|fir(?:e|es|ed|ing)|shell|explosion|barrage|salvo|bombard|intercept|downed|bomb|shot\s+down|siren|air\s+raid|air\s+defense|blockade|military\s+operation|naval\s+operation/i.test(l) &&
+          /missile|drone|rocket|airstrike|bomb|artillery|naval|military|base|airbase|barrack|depot|hangar|refinery|explosive|ied|shell|uav|ucav|port|airport|radar|patrol|convoy|tanker|oil|facility|munition|weapon|interceptor|anti-air|aircraft|siren|air\s+defense|complex|industrial|electronics|bridge|railway|power|energy|chemical/i.test(l)) ||
         // military/naval operation language
         /(?:military|naval|air\s+force)\s+(?:operation|exercise|maneuver|response|action)\s+(?:targeting|against|on|in)/i.test(l) ||
         // report of strikes/attacks in progress (news-style)
-        /(?:strike|attack)s?\s+(?:on|against|at)\s+(?:a\s+|the\s+)?(?:military|base|airbase|airfield|refinery|port|city|town|village|position|site|oil|facility|depot)/i.test(l) ||
+        /(?:strike|attack|barrage|bombardment)s?\s+(?:on|against|at|in)\s+(?:a\s+|the\s+)?(?:military|base|airbase|airfield|refinery|port|city|town|village|position|site|oil|facility|depot|complex|industrial)/i.test(l) ||
         // satellite imagery confirming damage at military sites
-        /(?:satellite\s+imagery|imagery|satellite\s+image)\s+(?:confirms?|shows?|reveal|reveals|detect|indicate)\s+(?:damage|impact|smoke|fire|destruction)/i.test(l)
+        /(?:satellite\s+imagery|imagery|satellite\s+image)\s+(?:confirms?|shows?|reveal|reveals|detect|indicate)\s+(?:damage|impact|smoke|fire|destruction)/i.test(l) ||
+        // generic target/launch against military infrastructure
+        /(?:target|strike|attack|hit|launch)\s+(?:against|on|at)\s+(?:a\s+|the\s+)?(?:US|Iranian|Israeli|Jordan|Kuwait|Saudi|Yemen|military|base|facility|installations?|complex|refinery|port|airbase|depot|position|site)/i.test(l) &&
+          /(?:military|missile|drone|rocket|bomb|war|strike|launch|attack|base)/i.test(l) ||
+        // BREAKING/NEW: [actor] [verb] [location] (with no weapon keywords — relies on location match)
+        /(?:breaking|new|report|update|alert|just\s+in)\s*:?\s*(?:the\s+)?(?:US\b|CENTCOM|Iran|IRGC|Israeli|Hezbollah|Houthi|Iraqi|Yemeni|Saudi)\s+(?:attack(?:s|ed|ing)?|hit|strik(?:e|es|ing|en)?|launch(?:es|ed|ing)?|bomb(?:s|ed|ing)?|target(?:s|ed|ing)?|destroy(?:s|ed|ing)?)/i.test(l)
 
       const hasCasualtyKeywords = /killed|injured|wounded|civilian|casualty|martyr|death|dead|victim|slain/i.test(l)
       const isStatementPost = isStatement(rawText)
