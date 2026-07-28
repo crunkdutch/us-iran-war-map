@@ -114769,6 +114769,21 @@
     "verified": false
   },
   {
+    "id": 1785233366144,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Occupation Army Radio:The \"Israeli\" military has reduced the number of soldiers in a reserve battalion currently assigned to a sensitive operational sector along the Lebanese border, cutting the battalion's manpower by approximately 30% compared to its original strength.The bat...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785075864321,
     "type": "airstrike",
     "location": "Oman",
@@ -119216,6 +119231,96 @@
     "verified": false
   },
   {
+    "id": 1785233359416,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Exclusive | German activist says Iranians stand on the right side of history📌 Tehran, IRNA – A German political and social activist has praised the Iranian nation’s resilience in defending its independence and national sovereignty, saying the Iranian people are “standing on the right side of his...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785233385687,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Exclusive | German activist says Iranians stand on the right side of history📌 Tehran, IRNA – A German political and social activist has praised the Iranian nation’s resilience in defending its independence and national sovereignty, saying the Iranian people are “standing on the right side of his...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785233433958,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iranian nation remains strong to overcome challenges: Administration spokesperson📌 Tehran, IRNA – Administration spokesperson Fatemeh Mohajerani, referring to the devastation caused by the renewed US war of aggression against Iran, has said that the resilient Iranian nation remains steadfast in ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785233364827,
+    "type": "naval",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-07-27",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iranian nation remains strong to overcome challenges: Administration spokesperson📌 Tehran, IRNA – Administration spokesperson Fatemeh Mohajerani, referring to the devastation caused by the renewed US war of aggression against Iran, has said that the resilient Iranian nation remains steadfast in ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785233377410,
+    "type": "naval",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-27",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iranian nation remains strong to overcome challenges: Administration spokesperson📌 Tehran, IRNA – Administration spokesperson Fatemeh Mohajerani, referring to the devastation caused by the renewed US war of aggression against Iran, has said that the resilient Iranian nation remains steadfast in ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785233444141,
+    "type": "naval",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-27",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iranian nation remains strong to overcome challenges: Administration spokesperson📌 Tehran, IRNA – Administration spokesperson Fatemeh Mohajerani, referring to the devastation caused by the renewed US war of aggression against Iran, has said that the resilient Iranian nation remains steadfast in ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785208229481,
     "type": "rocket",
     "location": "Lebanon",
@@ -120767,6 +120872,51 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: 4 injuries by occupation army fire in Mawasi Khan Yunis, southern Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785233371895,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Katz:\"The United States has interests in Iran that go beyond those of Israel.\"",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785233393944,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hostile drone overflight in the airspace of the towns of Harouf, Doueir, and Sharqiyeh in southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785233404756,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Office of the Criminal Occupation Defense MinisterThe occupation's defense minister directs the expansion of military operations in the West Bank, and preparation for controlling an additional refugee camp, according to the model applied in Jenin, Tulkarm, and Nur Shams, with continued military p...",
     "media": [],
     "verified": false
   }

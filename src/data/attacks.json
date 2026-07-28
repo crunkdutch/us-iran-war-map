@@ -30628,5 +30628,42 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 475172145,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Former Minister Mustafa Bayram turn Lebanese",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Former Minister Mustafa Bayram: Do not turn the Lebanese Army into a police force that carries out what the occupation failed to do.Former Minister of Labor Mustafa Bayram called for not turning the Lebanese Army into \"a police force that carries out what the Israeli army failed to achieve,\" affirming his confidence in the wisdom and awareness of the military establishment's leadership.Bayram criticized the silence of the Lebanese authorities regarding the bombing, destruction, and bulldozing",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qVZBOqMUwOEIZRbQplDsZKeNE6hNaTy_4WnmfvCZJyPwBvfhJsERwg-jWUKLHYPF4vz6amiyzfHYNc-UuiT_YDd0E_W7Tc5kaiCfQreyup9efYrDj6J54DBMJbdmrOep5mP6eVlLwwlkeOHlLB5D_n6wMCGhrx9DIlQLMC-rciMFkIje_jL1igZdO6HZ7nLkphvq6UvVEbzIwiqiio1X-QzHok8Y3LwYim7sHsYmSUOWBVQrC0jXieqtGYLbqPrz1LORNvpIMiZ5hcA5_sJtaeQkVKwcKrklR-HyUk707cW_P0JCBk_QkOwFukSHhXU7GVxbWQpfCP660Yogy8nP9A.jpg",
+        "type": "photo"
+      }
+    ]
   }
 ]
