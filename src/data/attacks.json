@@ -30314,5 +30314,106 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 475164990,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Erbil, Iraq: past hours IRGC forces launched largescale",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | In the past few hours, IRGC forces launched a large-scale drone operation targeting multiple headquarters, gathering points, and facilities associated with Kurdish terrorist groups across northern Iraq. The operation primarily focused on Erbil Governorate, with additional strikes reported in Sulaymaniyah Governorate and activity extending toward Duhok. Drones were observed across the skies of Erbil, Haji Omran, Akre, Khalifan, and Bahrka, while coalition aircraft reportedly attempted to i",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 475165781,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Strait of Hormuz, Red Sea, Yemen: Saudi Aramco suspended operations largest processing",
+    "location": "Strait of Hormuz, Red Sea, Yemen, Saudi Arabia",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | Saudi Aramco has suspended operations at its largest oil processing complex in Abqaiq following Yemen’s drone attacks.Earlier today, Yemen announced that it had targeted the east-west crude oil pipeline with drones. The pipeline transports oil from eastern Saudi Arabia to the port of Yanbu on the Red Sea, allowing exports to bypass the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/JQwXt1GAui4Lq65tV6ZtVx2nNaGxTRmENxgL8uJUXYy_e0QeUP-gsYpzCxegMR8MAvmcaXEEQWUiIrWUyFDxHKUVRnjIWSp3eB-damZ911TbbJ3W3PNSor2aR4kNeK3iImnOGhTMHFTMENugTwSRaVudTMwUTzW8QobXkuAkjw6mMFQwaeVyrJtpAlvbrvc2wUW6h-P0QmdRZYQwMQwlMSlCB13D6h97L75CcjnOpQ7XgTwl_LfBaTKIt_Sx1Ed0DR02y-jy5OEBUHR_2EH-y8xm5CuIkHuKAOVQ8Fl73zIJVtK6lYPBG5-YHZTSToB7v-NEspsbZ5aopa3yYaa4xg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 475166573,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Source Yemeni Ministry Defense statements issued",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Source in the Yemeni Ministry of Defense:• The statements issued by the Saudi Ministries of Defense and Foreign Affairs are an attempt to cover up the failure of their air defense systems to detect and intercept Yemeni drones, which successfully reached their intended targets.• Yemen has exercised patience in the face of Saudi violations for many years throughout the de-esescalation period.• The Saudi side must end the blockade imposed on the Yemeni people by reopening airports and seapor",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
