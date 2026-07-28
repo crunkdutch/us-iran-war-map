@@ -119543,5 +119543,90 @@
     "description": "⚡️ Enemy Media - Israel Hayom: The Supreme Court will discuss today the judicial petition against the law preventing the arrest of those evading military service.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785219006787,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔳 Field sources say that the shooting near army positions in Kafr Tibnit, Zawtar al-Gharbiyah, and other areas is no longer just a marginal violation, but has turned into a direct factor hindering the implementation of the military establishment's missions. The army is accompanying the return of...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/n69TGU-oqR8gwpdKNJ9XRF7mY7FNd2Ahv16qaHSHOEj8FjWQl1-vYNGzOF4ZWZSKMAUI3yqUzV6H-CbY03imKw3bU7NLG6jj24fwjy4stiR6uwJ84jkKllHJdTxV-Tjf3cLBqAWu_Lq3JKqARWHth7eUeSbsj_9PnS-wzFcgY-4QTRJzC1e-QakFA4axAcRUjLEXjVBsNp8bSTTSvW0EF6Cr9cQP_reM3LQSBt_5mxGqImNhodWK8cphFrecqilZszvNHl850a9Dt2bhdZfPemAZbF84o082dYhhtDnWzYjXR23j7zJlqXwRXFQiUXL3dhtJNPgvsRkh7mtdmFBNwg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785218996561,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔳 Field sources say that the shooting near army positions in Kafr Tibnit, Zawtar al-Gharbiyah, and other areas is no longer just a marginal violation, but has turned into a direct factor hindering the implementation of the military establishment's missions. The army is accompanying the return of...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/n69TGU-oqR8gwpdKNJ9XRF7mY7FNd2Ahv16qaHSHOEj8FjWQl1-vYNGzOF4ZWZSKMAUI3yqUzV6H-CbY03imKw3bU7NLG6jj24fwjy4stiR6uwJ84jkKllHJdTxV-Tjf3cLBqAWu_Lq3JKqARWHth7eUeSbsj_9PnS-wzFcgY-4QTRJzC1e-QakFA4axAcRUjLEXjVBsNp8bSTTSvW0EF6Cr9cQP_reM3LQSBt_5mxGqImNhodWK8cphFrecqilZszvNHl850a9Dt2bhdZfPemAZbF84o082dYhhtDnWzYjXR23j7zJlqXwRXFQiUXL3dhtJNPgvsRkh7mtdmFBNwg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785218962591,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Bloomberg report on fire at Saudi Arabia's Abqaiq oil facility 🔹Bloomberg reported that satellite images show a fire is occurring at the Abqaiq oil processing plant in eastern Saudi Arabia. 🔹This facility is of high strategic importance due to its processing…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785219015955,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Axios, citing a US official:- A round of talks between Israel and Lebanon will be held under Washington's patronage in Rome from August 4 to 6.- The meeting will focus on strengthening the full implementation of the framework agreement, expanding the scope of experimental areas, and resolving all...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785219020715,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Axios, citing a US official:- A round of talks between Israel and Lebanon will be held under Washington's patronage in Rome from August 4 to 6.- The meeting will focus on strengthening the full implementation of the framework agreement, expanding the scope of experimental areas, and resolving all...",
+    "media": [],
+    "verified": false
   }
 ]
