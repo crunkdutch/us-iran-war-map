@@ -30527,5 +30527,42 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 475169751,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Continuation Zionist Regimes Attacks Southern LebanonAlNashr...",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Continuation of the Zionist Regime's Attacks on Southern LebanonAl-Nashra: The Lebanese news agency reported explosions due to Israeli regime army attacks in the towns of Majdal Zoun, Al-Mansouri, and Bint Jbeil.• 06:59 — Page of the martyred journalist Ali Shuaib: Since midnight, the Israeli occupation army has continued its attacks on southern Lebanon, carrying out a bombing operation in the town of Hadata, and firing its machine guns… (Ali Choeib)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/PAz2RulGB2L81y45V7MOJDaHNQI2exwO1gg4ymPG9wE20L92NI5Ei6iDg8FbQ5oPLBTGMBBQikH4YD5bwA4kU7lNF-hNTsiLXYPgI0sVygYIB2s6rGLqkoOOBnlduXM3EhsRYyplbeQ1fSEwmyF7eqpXfGu6Xlug6eYC3XCsBDBgkOMvu0jVW4XjyeG1WAYHbs_a1l3kBUYIys3pDc7WzD2xXWemo31cTL21hHWQr1rxkA_ZUs7lfbIpoOMnUwdO8wKPdbs2tqbF-mH282PAQmfSr3Js4u89ne9EDct8wOICv99kSXBXfK4zNY4147u4Go2kwFNanWnwKXi1mIVGuw.jpg",
+        "type": "photo"
+      }
+    ]
   }
 ]
