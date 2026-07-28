@@ -114804,6 +114804,21 @@
     "verified": false
   },
   {
+    "id": 1785240586338,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Occupation Army Radio:\"Israeli\" War Minister \"Israel Katz\" violated military censorship regulations today, revealing during an interview with Channel 14 that U.S. aircraft had taken off from bases in \"Israel\" and carried out strikes in Iran in recent weeks.This information conc...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785075864321,
     "type": "airstrike",
     "location": "Oman",
@@ -119367,6 +119382,21 @@
     "verified": false
   },
   {
+    "id": 1785240578258,
+    "type": "drone",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-07-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Legal action underway over Ukrainian attack on Iranian ship ‘Anna’: Diplomat📌 Moscow, IRNA – Iran’s Consul General in Russia’s Astrakhan, Ahmad Heydarian says that legal action is underway against Ukraine over a drone attack on the Iranian vessel “Anna” in the Caspian Sea, which he condemned as ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785208229481,
     "type": "rocket",
     "location": "Lebanon",
@@ -121386,6 +121416,189 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785240590781,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Office of the Criminal Occupation Defense Minister The occupation's defense minister directs the expansion of military operations in the West Bank, and preparation for controlling an additional refugee camp, according to the model applied in Jenin, Tulkarm…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785240650527,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-07-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫Saudi Arabia is about to raise the salaries of its mercenaries residing in Aden, Yemen.From ≈ &#036;27 to &#036;266.It seems they are planning to start a war against Yemen's Ansar Allah very soon.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O8mXZxflzbA4THT4ztpM_yNgUPjenmbkO0F54KIpYdG3up-C04W9wVtcAbnbCJTGb0t5x30MXcjbMqtlDgUy2zjmQQMj0R79GmpZ_vdEJPDg9g_u7UBXq3bzPqs8ukCEGoq6pReMMtNLUwYgR_c5hAgrXuS5_SW5I-lUxnhSPAmAWISP5G1svPml1AtZRaukGSEhnxgmLSk6LICm2Bsz7g0wnLzreED95qOQIfrFUoZJjb65Y984hVL2uCEpZu7gM1qzSTEv8q9uBq6ylFn8c_ta9H2ccJyqTM0xEoo7D0Z-tYvoIHMbN0AB1q6ugo-LQ6AntY3dnGfk_4FwqkMnOA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/SPWFcFejQHOMoaqv2-KQmYyKKhaQG-zyu1fU5GgWdkp3E0xpeqqXE2WeVJpu0k7J2BT2hx-4ZomwvZJxMQ_IjKOcaAl3oN7LBo-e_qK1x_Y0Er7QEvR6kLMgtD8ygharluiU_b7FmpBNoxtEUL3a1a_krs0HxTr6GZYDoMTa9Nkl887vXbpRkYng1QcXfgTpGepGP8X4ALRwqNw0xX5FjTlDHAkcLw3WJXOePgWsGW28Pk5o-7IGspuahOk9cLIfcq20YbNmJMlclz7CuzxhleJPBLxvxtPqZnaarDsLtE_3TRyl6v2QEn0-Z8qzn3NA2yAWdB_jIDkGTkzVyHvNtQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785240599130,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫Saudi Arabia is about to raise the salaries of its mercenaries residing in Aden, Yemen.From ≈ &#036;27 to &#036;266.It seems they are planning to start a war against Yemen's Ansar Allah very soon.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O8mXZxflzbA4THT4ztpM_yNgUPjenmbkO0F54KIpYdG3up-C04W9wVtcAbnbCJTGb0t5x30MXcjbMqtlDgUy2zjmQQMj0R79GmpZ_vdEJPDg9g_u7UBXq3bzPqs8ukCEGoq6pReMMtNLUwYgR_c5hAgrXuS5_SW5I-lUxnhSPAmAWISP5G1svPml1AtZRaukGSEhnxgmLSk6LICm2Bsz7g0wnLzreED95qOQIfrFUoZJjb65Y984hVL2uCEpZu7gM1qzSTEv8q9uBq6ylFn8c_ta9H2ccJyqTM0xEoo7D0Z-tYvoIHMbN0AB1q6ugo-LQ6AntY3dnGfk_4FwqkMnOA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/SPWFcFejQHOMoaqv2-KQmYyKKhaQG-zyu1fU5GgWdkp3E0xpeqqXE2WeVJpu0k7J2BT2hx-4ZomwvZJxMQ_IjKOcaAl3oN7LBo-e_qK1x_Y0Er7QEvR6kLMgtD8ygharluiU_b7FmpBNoxtEUL3a1a_krs0HxTr6GZYDoMTa9Nkl887vXbpRkYng1QcXfgTpGepGP8X4ALRwqNw0xX5FjTlDHAkcLw3WJXOePgWsGW28Pk5o-7IGspuahOk9cLIfcq20YbNmJMlclz7CuzxhleJPBLxvxtPqZnaarDsLtE_3TRyl6v2QEn0-Z8qzn3NA2yAWdB_jIDkGTkzVyHvNtQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785240570410,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫Saudi Arabia is about to raise the salaries of its mercenaries residing in Aden, Yemen.From ≈ &#036;27 to &#036;266.It seems they are planning to start a war against Yemen's Ansar Allah very soon.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O8mXZxflzbA4THT4ztpM_yNgUPjenmbkO0F54KIpYdG3up-C04W9wVtcAbnbCJTGb0t5x30MXcjbMqtlDgUy2zjmQQMj0R79GmpZ_vdEJPDg9g_u7UBXq3bzPqs8ukCEGoq6pReMMtNLUwYgR_c5hAgrXuS5_SW5I-lUxnhSPAmAWISP5G1svPml1AtZRaukGSEhnxgmLSk6LICm2Bsz7g0wnLzreED95qOQIfrFUoZJjb65Y984hVL2uCEpZu7gM1qzSTEv8q9uBq6ylFn8c_ta9H2ccJyqTM0xEoo7D0Z-tYvoIHMbN0AB1q6ugo-LQ6AntY3dnGfk_4FwqkMnOA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/SPWFcFejQHOMoaqv2-KQmYyKKhaQG-zyu1fU5GgWdkp3E0xpeqqXE2WeVJpu0k7J2BT2hx-4ZomwvZJxMQ_IjKOcaAl3oN7LBo-e_qK1x_Y0Er7QEvR6kLMgtD8ygharluiU_b7FmpBNoxtEUL3a1a_krs0HxTr6GZYDoMTa9Nkl887vXbpRkYng1QcXfgTpGepGP8X4ALRwqNw0xX5FjTlDHAkcLw3WJXOePgWsGW28Pk5o-7IGspuahOk9cLIfcq20YbNmJMlclz7CuzxhleJPBLxvxtPqZnaarDsLtE_3TRyl6v2QEn0-Z8qzn3NA2yAWdB_jIDkGTkzVyHvNtQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785240595235,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🤔 Knesset Foreign Affairs and Security Committee Chairman Boaz Bismuth:The battle against Iran is not over, and now we have what I call a \"truce between battles,\" as in a three-act play. The first and second acts are behind us; the third act will come and settle the matter.Iran knows very well t...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VghWsFO2Vq3P3BV15-mQ63WChG1Zbjfe3J0AVVvvCeqwN3REoaJKtmJWJcW3PtIR8Gm3oEnk-QpH8klYbrpNM_UTkXL7ydIQYZXZxpsUm7k3Y4N15G5Pxd_QlfBvImiOYs9Kza46_sJhrNV4tY67ZZZjm8IrGqh9QJjhCK-eRn9rF6z3rqWsT6GPIJFUydtthYoaMBKvJ3xaCdlP8_eZ7C9xZ-6R8akOSHrPvy_3PoZXOmpEhj-qvfhBoqt7QFSK8AMYlWNp-kPuPVpAAcdp59RgRlHI086ZvpXusw_L_xQt4SRHkH11laGEcki01cEps0gmg_qlu8x9TJLxFhNyaA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785240577811,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫Reza Pahlavi (without laughing):In my opinion, we are very close to a change of government.This government is in its weakest state in the past 47 years.- A Turkish user commented under Pahlavi's message: The regime will change, and the president that we (Turkey) want will rule Iran. Look at Syr...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b3xWsMOawZjHnK7AypVafvK97DWGCL6ABxGzM3wyUYeiGC9RoaLHa2auCv060ecYhZVaZhi1SN4TJW2flDQGGk6Uml56IO0LjWM6nGcjVJytK-VMxzyGNY7c-N2Os3dnGmpQZ5J6eA8g8KwBEw8Q6oWMQhuwygoWwbCNIDG4PoUqOFoow-fXL08AaTIegWQh0Bc1lCQvymjjj7yg4f98WNIfS98vtchCmCLAJrT82SwzaUZJaVbiNzkytahVukTNMK8rvPJeDlhrFA9HzzfDVuoqECHiyx1Ugl93nY3gSVmR0c_C_kkcm9VSPhmMAJsdcrMSanEldD1Rw2BH6Wcejg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785240599533,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫Reza Pahlavi (without laughing):In my opinion, we are very close to a change of government.This government is in its weakest state in the past 47 years.- A Turkish user commented under Pahlavi's message: The regime will change, and the president that we (Turkey) want will rule Iran. Look at Syr...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b3xWsMOawZjHnK7AypVafvK97DWGCL6ABxGzM3wyUYeiGC9RoaLHa2auCv060ecYhZVaZhi1SN4TJW2flDQGGk6Uml56IO0LjWM6nGcjVJytK-VMxzyGNY7c-N2Os3dnGmpQZ5J6eA8g8KwBEw8Q6oWMQhuwygoWwbCNIDG4PoUqOFoow-fXL08AaTIegWQh0Bc1lCQvymjjj7yg4f98WNIfS98vtchCmCLAJrT82SwzaUZJaVbiNzkytahVukTNMK8rvPJeDlhrFA9HzzfDVuoqECHiyx1Ugl93nY3gSVmR0c_C_kkcm9VSPhmMAJsdcrMSanEldD1Rw2BH6Wcejg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785240575663,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The extremist settler \"Baruch Marzel\" boasting about his crimes: An American delegation asked me how many Arabs I had killed? I told them, \"Not enough yet,\" and I used to return from Lebanon with bodies, not Arab prisoners&#33;",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1056555",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CupWVlIYQ7sKmxKHcgMclm7b3a3R5yaym5CzlWwS8mxA33NXhWsKe9kJCjGUupmVrT_w3HTtMR971vjCjuHQCghTNpeRMfWWx8MHZLMvSYh60amGE-dkf3J_KLL70yhHkFzjvuvGiYLl1pHVQMg8ogF2TNR_y117k1GEkdlK6mojEDPy8kqMzlpGfQ8Q1oNnrteK3vHU3flgtuh8Cqkjd4-hE36oxf1EfAaMe2_r_KcpHOOsWBr0iL5M28J6m7DNGnrRWMKzdc3E_PIc8ZfSZd5pHG3uHY-0mceFMD_xtcCSwqH_hgUbOdD9G09vS3G6WC8GaP17bj89gc4ZXb28qA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785240606896,
+    "type": "drone",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Continued hostile drone flights in the skies of the capital Beirut and its suburbs",
+    "media": [],
     "verified": false
   }
 ]
