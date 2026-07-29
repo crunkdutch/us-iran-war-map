@@ -141488,5 +141488,50 @@
     "description": "🇮🇶 | Popular Mobilization Forces (PMF):Several of our official headquarters across Iraq were targeted this morning by treacherous terrorist attacks carried out by American and Saudi forces. According to initial reports, the attacks resulted in the deaths and injuries of several individuals, as wel...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785294711698,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 🏴 | Martyrdom toll rises following joint Saudi-American aggression against Iraq:Updated reports indicate that the casualties from the Saudi-American attacks across Iraq continue to rise. In Nineveh (Mosul) Governorate, the total number of casualties has reached 8 martyrs and 4 wounded. Accordi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785294692240,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 🏴 | Martyrdom toll rises following joint Saudi-American aggression against Iraq:Updated reports indicate that the casualties from the Saudi-American attacks across Iraq continue to rise. In Nineveh (Mosul) Governorate, the total number of casualties has reached 8 martyrs and 4 wounded. Accordi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785294725693,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-29",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed ForcesThe Yemeni Armed Forces, by the grace of God, have successfully shot down a 'Cariyal' reconnaissance aircraft belonging to the Saudi enemy while it was carrying out hostile operations in the airspace of Saada Governorate at dawn today, using an appropriate weapon.The Yemeni...",
+    "media": [],
+    "verified": false
   }
 ]

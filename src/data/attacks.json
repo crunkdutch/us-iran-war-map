@@ -73580,5 +73580,69 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 476698626,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Baghdad, Iraq: Martyrdom toll rises following joint SaudiAmerican",
+    "location": "Baghdad, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 🏴 | Martyrdom toll rises following joint Saudi-American aggression against Iraq:Updated reports indicate that the casualties from the Saudi-American attacks across Iraq continue to rise. In Nineveh (Mosul) Governorate, the total number of casualties has reached 8 martyrs and 4 wounded. According to the Joint Operations Command in Nineveh, 6 of the martyrs and all 4 of the wounded were from incidents within the Nineveh operational area, while the remaining 2 martyrs belonged to the Armored ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 476700548,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni Armed ForcesThe Yemeni Armed Forces",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed ForcesThe Yemeni Armed Forces, by the grace of God, have successfully shot down a 'Cariyal' reconnaissance aircraft belonging to the Saudi enemy while it was carrying out hostile operations in the airspace of Saada Governorate at dawn today, using an appropriate weapon.The Yemeni Armed Forces affirm that they will continue to protect the country's sovereignty, and it is our legitimate right to respond to any violation🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
