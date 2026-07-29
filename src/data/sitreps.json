@@ -156251,6 +156251,36 @@
     "verified": false
   },
   {
+    "id": 1785363498420,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-07-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇸🇦 NEW: Two unknown explosions were heard above Riyadh, Saudi Arabia; air traffic was temporarily put on hold@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785363453673,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇸🇦 NEW: Two unknown explosions were heard above Riyadh, Saudi Arabia; air traffic was temporarily put on hold@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785294711698,
     "type": "airstrike",
     "location": "Baghdad",
@@ -163597,6 +163627,223 @@
       {
         "url": "https://cdn4.telesco.pe/file/hmG_CIqOLgnRiOH1gYJL2vMsp1yrDDN2jzouQ2QrAnOgvA7n8Jf9LcTs0CgsEm70LExUUJzVHDp3t0bjxwsRNdTYEdrf1Ss1yWkPIOxvZ1jhQutgd9VdZsxREY-k5LvCOEUxqNQ_vZRFyW9CC8zDqiHuxbv6n9caHrizc0YGnuhItOIbFaEJ7yQ3QK6HKFJMtiaFEuR25DbAVeq1NU9OLCpHW6fDgOj1Oep7NmF4tvQUMghJUvUAYBATNxKwfPbNvAmAzjf0nECOA9I-RIFZbHYNNXF6VHkRsWlTWiYb5vY_jBCMh6R-7dMOW92O--Uo4YJgcV8AqRSGVfC5RVruIA.jpg",
         "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785363495058,
+    "type": "intercept",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ News of an explosion in the city of Tabriz, northwest Iran.• 21:48 — Air defenses activated in Tabriz (Rasd Akhbar Shehaba)• 21:52 — Iranian source: There is no security incident in Tabriz as of this moment. (Rasd Akhbar Shehaba)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785363494170,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hadashot Lo Tsensura:Widespread alert in Israel and fears of imminent regional escalation in the coming hours.Saleh• 21:56 — Enemy media: Israel has been placed on high alert in preparation for what will happen during the night. (Rasd Akhbar Shehaba)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785363481999,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ News of an explosion heard in Erbil",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785363471112,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A US Boeing KC-135R refueling aircraft takes off from US bases in Al-Kharj, Saudi Arabia, heading towards Yemen.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785363467935,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A US Boeing KC-135R refueling aircraft takes off from US bases in Al-Kharj, Saudi Arabia, heading towards Yemen.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785363448064,
+    "type": "airstrike",
+    "location": "Prince Sultan Air Base",
+    "coordinates": [
+      24.0767,
+      47.58
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ E-11A airborne from Prince Sultan Air Base",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/KAwBMP0oiGCJ0EwoE6MnsBxBFvrkz64T4S_4DWCWx4hu8fzE2NA6ZpJD-lPy_9N7Gsh8dq4R1USZikz5uPecNcwOIZLbm6URbfDXzQxsqGAob7e5_iDqg4p_pAl5gukSAK9__pf8FqtC6KySFRkR_mJMexKl9ot723Bh1t8c3V9iehEPRkmGzhR5gY8jn4SVJ6RD6yxnBkU_a7mpIPSgftBCwA__6SKpOyaHBURioCQfFZjphjGzxl0Z4vmxAMpLAKgPmk3geSIwAM4Qtp_QAVr2ExHMF_W9rYQHh4zoZTbGgWQRd-z02-2XFkg7em64nOTtRm4jl_q27XXjUkXE4g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785363500251,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Saudi Defense Minister Met with Trump's Deputy, Pence, in Washington on WednesdayCNN reported:🔹This meeting took place one day after joint US and Saudi attacks on Hashd al-Shaabi positions in Iraq.🔹During the meeting, Khalid bin Salman discussed these attacks and Saudi Arabia's response to atta...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jOag7EZKXkM9ujvzJoEonnU83iFDa4w-7Zw2l5F5P3P3M4fV1pwzAYgYm5znvN8wkn89Zkt5qmjqCqubPKX-FKFprlcwjDmQ-6BA3ZPSAhvbsSZo70-14p603bpLdbzf1nIFuFB8qD_EckZPEDxjaTSmHAJXwckr1jBjn_amYbD4wmOuOYAyMe5IS8cx2cqgNHD_lLQTfCz7eShXg70tqpzBfRz4wXy3-CB4XwKvMVhSr332QZntSuZMnFIXDMnBau-872ETYZGbg0_MMKyuFUflJtfqxzwBoSv_CNk_4xz0glVACYx64fVlmQyk3CDfrxTcuMv6RVVjaX7QJyPkdQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785363443228,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Saudi Defense Minister Met with Trump's Deputy, Pence, in Washington on WednesdayCNN reported:🔹This meeting took place one day after joint US and Saudi attacks on Hashd al-Shaabi positions in Iraq.🔹During the meeting, Khalid bin Salman discussed these attacks and Saudi Arabia's response to atta...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jOag7EZKXkM9ujvzJoEonnU83iFDa4w-7Zw2l5F5P3P3M4fV1pwzAYgYm5znvN8wkn89Zkt5qmjqCqubPKX-FKFprlcwjDmQ-6BA3ZPSAhvbsSZo70-14p603bpLdbzf1nIFuFB8qD_EckZPEDxjaTSmHAJXwckr1jBjn_amYbD4wmOuOYAyMe5IS8cx2cqgNHD_lLQTfCz7eShXg70tqpzBfRz4wXy3-CB4XwKvMVhSr332QZntSuZMnFIXDMnBau-872ETYZGbg0_MMKyuFUflJtfqxzwBoSv_CNk_4xz0glVACYx64fVlmQyk3CDfrxTcuMv6RVVjaX7QJyPkdQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785363495340,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇶🇮🇷Erbil in Iraqi Kurdistan Region, is getting ploughed again.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785363481202,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇶🇮🇷Erbil in Iraqi Kurdistan Region, is getting ploughed again.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785363457780,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇮🇶Two explosions and a fire have been reported in the Qasri area, located in the Soran district of Erbil, northern Iraq. The area is dotted with CIA/Mossad/MI6-supported Kurdish militants' bases.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f94b94c10c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nWvYrWcML_802Lrd7jPs-foFlxDa6_JidrQAllnI5l8-0xjovyUx6RhK6mogp-4E1PGD6fq16aj8YOwi6xBTIX1mlO_U_jlMo6URDpShPnKFee4fjZWkGU-eM0BdiN1fjYZCqUXhb-gjeoIQN_iHFI4WZ-UaH42vur9buB-su2yCx36nJBhyMHc7FPqWu1M3mxH6RSqMs26e8LYWhinO6FU1tNbz6VsJfU2QBqmTLTFp2JF_nEOaW_45R4NWDZ5ux9wLqSMfuPe3S_u54k0p_x4MUYHNTgBAUR8KQ26sEWAqTVXcU05fe5yc1qaG0prbBmMMumnBqOhK22uvvqbWZQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8273",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nWvYrWcML_802Lrd7jPs-foFlxDa6_JidrQAllnI5l8-0xjovyUx6RhK6mogp-4E1PGD6fq16aj8YOwi6xBTIX1mlO_U_jlMo6URDpShPnKFee4fjZWkGU-eM0BdiN1fjYZCqUXhb-gjeoIQN_iHFI4WZ-UaH42vur9buB-su2yCx36nJBhyMHc7FPqWu1M3mxH6RSqMs26e8LYWhinO6FU1tNbz6VsJfU2QBqmTLTFp2JF_nEOaW_45R4NWDZ5ux9wLqSMfuPe3S_u54k0p_x4MUYHNTgBAUR8KQ26sEWAqTVXcU05fe5yc1qaG0prbBmMMumnBqOhK22uvvqbWZQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785363450649,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇮🇶Two explosions and a fire have been reported in the Qasri area, located in the Soran district of Erbil, northern Iraq. The area is dotted with CIA/Mossad/MI6-supported Kurdish militants' bases.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f94b94c10c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nWvYrWcML_802Lrd7jPs-foFlxDa6_JidrQAllnI5l8-0xjovyUx6RhK6mogp-4E1PGD6fq16aj8YOwi6xBTIX1mlO_U_jlMo6URDpShPnKFee4fjZWkGU-eM0BdiN1fjYZCqUXhb-gjeoIQN_iHFI4WZ-UaH42vur9buB-su2yCx36nJBhyMHc7FPqWu1M3mxH6RSqMs26e8LYWhinO6FU1tNbz6VsJfU2QBqmTLTFp2JF_nEOaW_45R4NWDZ5ux9wLqSMfuPe3S_u54k0p_x4MUYHNTgBAUR8KQ26sEWAqTVXcU05fe5yc1qaG0prbBmMMumnBqOhK22uvvqbWZQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8273",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nWvYrWcML_802Lrd7jPs-foFlxDa6_JidrQAllnI5l8-0xjovyUx6RhK6mogp-4E1PGD6fq16aj8YOwi6xBTIX1mlO_U_jlMo6URDpShPnKFee4fjZWkGU-eM0BdiN1fjYZCqUXhb-gjeoIQN_iHFI4WZ-UaH42vur9buB-su2yCx36nJBhyMHc7FPqWu1M3mxH6RSqMs26e8LYWhinO6FU1tNbz6VsJfU2QBqmTLTFp2JF_nEOaW_45R4NWDZ5ux9wLqSMfuPe3S_u54k0p_x4MUYHNTgBAUR8KQ26sEWAqTVXcU05fe5yc1qaG0prbBmMMumnBqOhK22uvvqbWZQ"
       }
     ],
     "verified": false

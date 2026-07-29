@@ -79209,5 +79209,112 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 476983625,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Interception — Tabriz: News explosion city Tabriz northwest Iran",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ News of an explosion in the city of Tabriz, northwest Iran.• 21:48 — Air defenses activated in Tabriz (Rasd Akhbar Shehaba)• 21:52 — Iranian source: There is no security incident in Tabriz as of this moment. (Rasd Akhbar Shehaba)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 476985690,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Tabriz, Bandar Abbas, Riyadh: Aggression against IranExplosions heard Tabriz Bandar",
+    "location": "Tabriz, Bandar Abbas, Riyadh, Saudi Arabia",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Aggression against IranExplosions heard in Tabriz and Bandar Abbas• 21:53 — Sound of explosion in Tabriz, Bandar Abbas, and Urmia in Iran. Reports of explosion in Riyadh, Saudi Arabia. (Iran Militarism)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 476987756,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Erbil, Iraq: explosions fire have been reported Qasri",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (simurgh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷🇮🇶Two explosions and a fire have been reported in the Qasri area, located in the Soran district of Erbil, northern Iraq. The area is dotted with CIA/Mossad/MI6-supported Kurdish militants' bases.@SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f94b94c10c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nWvYrWcML_802Lrd7jPs-foFlxDa6_JidrQAllnI5l8-0xjovyUx6RhK6mogp-4E1PGD6fq16aj8YOwi6xBTIX1mlO_U_jlMo6URDpShPnKFee4fjZWkGU-eM0BdiN1fjYZCqUXhb-gjeoIQN_iHFI4WZ-UaH42vur9buB-su2yCx36nJBhyMHc7FPqWu1M3mxH6RSqMs26e8LYWhinO6FU1tNbz6VsJfU2QBqmTLTFp2JF_nEOaW_45R4NWDZ5ux9wLqSMfuPe3S_u54k0p_x4MUYHNTgBAUR8KQ26sEWAqTVXcU05fe5yc1qaG0prbBmMMumnBqOhK22uvvqbWZQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8273",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nWvYrWcML_802Lrd7jPs-foFlxDa6_JidrQAllnI5l8-0xjovyUx6RhK6mogp-4E1PGD6fq16aj8YOwi6xBTIX1mlO_U_jlMo6URDpShPnKFee4fjZWkGU-eM0BdiN1fjYZCqUXhb-gjeoIQN_iHFI4WZ-UaH42vur9buB-su2yCx36nJBhyMHc7FPqWu1M3mxH6RSqMs26e8LYWhinO6FU1tNbz6VsJfU2QBqmTLTFp2JF_nEOaW_45R4NWDZ5ux9wLqSMfuPe3S_u54k0p_x4MUYHNTgBAUR8KQ26sEWAqTVXcU05fe5yc1qaG0prbBmMMumnBqOhK22uvvqbWZQ"
+      }
+    ]
   }
 ]
