@@ -162873,5 +162873,133 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785351026377,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Army Chief: Armed Forces will defend Iran’s soil and independence against aggressors to their last breath📌 Tehran, IRNA – The Commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami,&nbsp;has congratulated and offered condolences on the martyrdom of Brigadier General Majid Ka...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350959100,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza:Targeting by warplanes west of Gaza City.• 18:41 — Second targeting now... (Ba2s Jenin)• 18:41 — Violent targeting shakes Gaza City (Ba2s Jenin)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785351020076,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Prime Minister and Commander-in-Chief of the Armed Forces, Ali Falih al-Zaidi, ordered the honoring of the families of the Popular Mobilization Forces martyrs and the transfer of the wounded for treatment outside Iraq if necessary, during his visit today, Wednesday, to the authority's headquarter...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/X73RLsJE9ASFoXc-RU00sk4r-m4GhgR3n7ywsB3jIr3SBnTBOPsmAVxlLqwgiBZIW02C-RvxoFq1FZQZo8cWqQhTFJUSm5TNfe9Y1DmYRFDxosb3qUp3nakWkk7AG6W4MfG4SVhp3yo-u75mU7ifcEo2oex7HEIZM1byqVc9pQj6FHpuUmvrQ1JIzGii1eod8WZb42x_nFzs6VDRxJ46A-nzvh-BwAxhQEf3YW8Cy5tKLKVnFe4916USOudySKGTBZs7BVxJYBM4xZKidUuUiuxJxnjlIP-Pg1Dip2wCzIFh0EFkFU0qgwO4TbajkHIu6ltLsalpry8yg9fQsG7eIA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785350947385,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza: Targeting by warplanes west of Gaza City. • 18:41 — Second targeting now... (Ba2s Jenin) • 18:41 — Violent targeting shakes Gaza City (Ba2s Jenin) • 18:45 — The moment of the occupation aircraft bombing a residential building after threatening it…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/7b6cf4a121.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/PyFQtXjiWy68UWJ_Dg9qvbBL3ByFb3lDRa9Uqz0Zdmo6gUeUH66R5XvJb-tHwtyiMwK0tT4vLr5OCfn1jRmO3F-g-Xk9KLAumKsfuDRX1-IusM49h8v0MwJTeaVxcAZhI4AR1onPxPKWwcHSd_DEz4pkaA1pPZqk_vntwSsuhITru12wdkTgQMWTC5lv8b7CIVe_JwFVAf0gdV8EA-ssWF2sj2qWrkQkDVUW4LHlEB8nCAnM42dPhszNHzSaLQk1JPkN6ESlFCQK39OKazsIH5sT0wxjH4Sg6hCiMfdG7jOZRAv7ITdEiJCnVEUqwT3fGelNIReuwq6XxCu0nG8HMw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057605",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/PyFQtXjiWy68UWJ_Dg9qvbBL3ByFb3lDRa9Uqz0Zdmo6gUeUH66R5XvJb-tHwtyiMwK0tT4vLr5OCfn1jRmO3F-g-Xk9KLAumKsfuDRX1-IusM49h8v0MwJTeaVxcAZhI4AR1onPxPKWwcHSd_DEz4pkaA1pPZqk_vntwSsuhITru12wdkTgQMWTC5lv8b7CIVe_JwFVAf0gdV8EA-ssWF2sj2qWrkQkDVUW4LHlEB8nCAnM42dPhszNHzSaLQk1JPkN6ESlFCQK39OKazsIH5sT0wxjH4Sg6hCiMfdG7jOZRAv7ITdEiJCnVEUqwT3fGelNIReuwq6XxCu0nG8HMw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785350934992,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-29",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew Channel Kan: Israeli army forces arrested three activists from \"Pioneers of Bashan\" in Syrian territory near Mount Hermon, while they were obstructing the activities of Israeli army forces.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f9ebb74f98.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r_2MXw8s27UvWZEPSnRutwhHOr6BaMqwmR_AfESlMt34sjCYRfzdUB08EOnr08MErwXa8w15dUXUw_l1vaF0CIfJbrb2m2R9me4KS38SJN-XupymaHeYAX96gSUm41dzGNqZIeyCLXvIr71nSBAtSdsev1ZgeOX1lW3OBz8Mq7zxproh9m6aaBdfeIQ7N7UkKmj8IEAFs3YYcZr9WthuSeHylCdwcfGUcuv4066HwHLBqej-Xd2zxwXt0nz4Y8sC4OcuRS_t2g1v-yuYqHxNdaZGfW8BHmHUc5eygdmc7qGjk8tbgz7j7XrJKXZzOFZk3hgsJneAJE6EPhBl7jZjPg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057606",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r_2MXw8s27UvWZEPSnRutwhHOr6BaMqwmR_AfESlMt34sjCYRfzdUB08EOnr08MErwXa8w15dUXUw_l1vaF0CIfJbrb2m2R9me4KS38SJN-XupymaHeYAX96gSUm41dzGNqZIeyCLXvIr71nSBAtSdsev1ZgeOX1lW3OBz8Mq7zxproh9m6aaBdfeIQ7N7UkKmj8IEAFs3YYcZr9WthuSeHylCdwcfGUcuv4066HwHLBqej-Xd2zxwXt0nz4Y8sC4OcuRS_t2g1v-yuYqHxNdaZGfW8BHmHUc5eygdmc7qGjk8tbgz7j7XrJKXZzOFZk3hgsJneAJE6EPhBl7jZjPg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785350977803,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew Channel Kan: Israeli army forces arrested three activists from \"Pioneers of Bashan\" in Syrian territory near Mount Hermon, while they were obstructing the activities of Israeli army forces.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f9ebb74f98.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r_2MXw8s27UvWZEPSnRutwhHOr6BaMqwmR_AfESlMt34sjCYRfzdUB08EOnr08MErwXa8w15dUXUw_l1vaF0CIfJbrb2m2R9me4KS38SJN-XupymaHeYAX96gSUm41dzGNqZIeyCLXvIr71nSBAtSdsev1ZgeOX1lW3OBz8Mq7zxproh9m6aaBdfeIQ7N7UkKmj8IEAFs3YYcZr9WthuSeHylCdwcfGUcuv4066HwHLBqej-Xd2zxwXt0nz4Y8sC4OcuRS_t2g1v-yuYqHxNdaZGfW8BHmHUc5eygdmc7qGjk8tbgz7j7XrJKXZzOFZk3hgsJneAJE6EPhBl7jZjPg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057606",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r_2MXw8s27UvWZEPSnRutwhHOr6BaMqwmR_AfESlMt34sjCYRfzdUB08EOnr08MErwXa8w15dUXUw_l1vaF0CIfJbrb2m2R9me4KS38SJN-XupymaHeYAX96gSUm41dzGNqZIeyCLXvIr71nSBAtSdsev1ZgeOX1lW3OBz8Mq7zxproh9m6aaBdfeIQ7N7UkKmj8IEAFs3YYcZr9WthuSeHylCdwcfGUcuv4066HwHLBqej-Xd2zxwXt0nz4Y8sC4OcuRS_t2g1v-yuYqHxNdaZGfW8BHmHUc5eygdmc7qGjk8tbgz7j7XrJKXZzOFZk3hgsJneAJE6EPhBl7jZjPg"
+      }
+    ],
+    "verified": false
   }
 ]
