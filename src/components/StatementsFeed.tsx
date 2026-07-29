@@ -40,8 +40,10 @@ export default function StatementsFeed() {
   }, [])
 
   const filtered = useMemo(() => {
-    if (filter === 'all') return statements
-    return statements.filter(s => s.source === filter)
+    if (filter === 'all') return [...statements].sort((a, b) => b.date.localeCompare(a.date))
+    return statements
+      .filter(s => s.sourceType === filter)
+      .sort((a, b) => b.date.localeCompare(a.date))
   }, [filter])
 
   return (

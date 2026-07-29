@@ -247,12 +247,21 @@ function classifyAttackType(text) {
 // ── Determine if post is a statement ──
 function isStatement(text) {
   const l = text.toLowerCase()
+  // Expanded statement markers — covers official statements, reports, announcements
   const statementMarkers = [
     'statement', 'said', 'says', 'announced', 'announces', 'warned', 'warns',
     'claimed', 'claims', 'condemned', 'condemns', 'vowed', 'vows', 'threatened',
     'threatens', 'declared', 'declares', 'confirmed', 'confirms', 'reports',
     'issued', 'stressed', 'emphasized', 'spokesman', 'spokesperson',
     'general', 'commander said', 'commander says',
+    // Expanded markers:
+    'stated', 'states', 'stating', 'announcing', 'confirming',
+    'according to', 'per sources', 'official said', 'official says',
+    'source said', 'source says', 'spokesperson said', 'spokesperson says',
+    'added that', 'adding that', 'noted that', 'noting that',
+    'reiterated', 'reiterates', 'emphasizing', 'highlighted', 'highlights',
+    'acknowledged', 'acknowledges', 'admitted', 'admits',
+    'said in a statement', 'said in an interview',
   ]
   return statementMarkers.some(m => l.includes(m))
 }
