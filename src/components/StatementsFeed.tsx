@@ -6,16 +6,12 @@ import statementsData from '@/data/statements.json'
 interface Statement {
   id: number
   source: string
-  sourceLabel: string
-  type: string
+  sourceType?: string
   date: string
-  time: string
   title: string
-  summary: string
-  quote: string
-  url: string
-  sourceChannel: string
-  confidence: string
+  sourceUrl?: string
+  description?: string
+  keyPoints?: string[]
 }
 
 const statements = statementsData as Statement[]
@@ -23,6 +19,15 @@ const statements = statementsData as Statement[]
 const SOURCE_COLORS: Record<string, string> = {
   CENTCOM: '#3498db',
   'Khatam al Anbiya': '#2ecc71',
+}
+
+// Map sourceType to display color
+function getSourceColor(s: Statement): string {
+  if (s.sourceType === 'CENTCOM') return '#3498db'
+  if (s.sourceType === 'Khatam al Anbiya') return '#2ecc71'
+  if (s.sourceType === 'Hezbollah') return '#e67e22'
+  if (s.sourceType === 'Ansar Allah') return '#9b59b6'
+  return 'var(--text-dim)'
 }
 
 export default function StatementsFeed() {
@@ -148,7 +153,7 @@ export default function StatementsFeed() {
 
 function StatementCard({ statement }: { statement: Statement }) {
   const [expanded, setExpanded] = useState(false)
-  const color = SOURCE_COLORS[statement.source] || 'var(--text-dim)'
+  const color = getSourceColor(statement)
 
   return (
     <div style={{
@@ -207,19 +212,19 @@ function StatementCard({ statement }: { statement: Statement }) {
             lineHeight: 1.6,
             margin: '6px 0',
           }}>
-            {statement.quote}
+            {statement.description || statement.title}
           </p>
           <div style={{
             fontSize: 10,
             color: 'var(--text-dim)',
             marginBottom: 4,
           }}>
-            {statement.sourceLabel}
+            {statement.source}
           </div>
           <div style={{ display: 'flex', gap: 8 }}>
-            {statement.url && statement.url !== '#' && (
+            {statement.sourceUrl && statement.sourceUrl !== '#' && (
               <a
-                href={statement.url}
+                href={statement.sourceUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={e => e.stopPropagation()}
@@ -232,14 +237,6 @@ function StatementCard({ statement }: { statement: Statement }) {
                 [ SOURCE → ]
               </a>
             )}
-            <span style={{
-              fontSize: 9,
-              color: statement.confidence === 'confirmed' ? 'var(--accent-green)' : 'var(--accent-amber)',
-              letterSpacing: 1,
-            }}>
-              {statement.confidence.toUpperCase()}
-            </span>
-          </div>
         </div>
       )}
     </div>
