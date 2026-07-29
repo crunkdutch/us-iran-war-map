@@ -156236,6 +156236,21 @@
     "verified": false
   },
   {
+    "id": 1785359971340,
+    "type": "missile",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "date": "2026-07-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "No ballistic launches from Yazd, sonic booms from IRIAF jets on patrol were likely mistaken for launch sounds.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785294711698,
     "type": "airstrike",
     "location": "Baghdad",
@@ -163189,6 +163204,179 @@
     "media": [
       {
         "url": "https://cdn4.telesco.pe/file/EaBiwtvL9OvDlvb2nGWTiASqBP1kRoojdp2G1PMINoy7Zo9teuaOQGYCYPo5a2kZQ_e3PAFJCFrQJrWiKKluMg_OZYD_AfW9HA-b83VzQBmXtz3QIXAiCLCyKxRhHJIqRsimeBBBc9Vq_sfmS60_2AL7TBrNcY3PTCWRGaGI5rvl-3kXUqoUF_tkCSZcJoP5rOQpSXfXejAjXTC7sjSzbr8IGztrp9x9Siuys6mDVDepCwx49hQvizMpkwdmZ1LRWLrK0mTAx4jxkj0VpHdGkp9bioQVE0Sqhk3Rb8dmMD75WagcZVphPWZJriT8A9DlVUfTx1ZiplxJjHtOqOlBag.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785360026761,
+    "type": "airstrike",
+    "location": "Prince Sultan Air Base",
+    "coordinates": [
+      24.0767,
+      47.58
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📡 An E-3B Sentry AWACS aircraft took off from Prince Sultan Air Base in Saudi Arabia...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785359975614,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📡 An E-3B Sentry AWACS aircraft took off from Prince Sultan Air Base in Saudi Arabia...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785359933577,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraq: The Coordination Framework holds an emergency meeting in the government palace to discuss the American-Saudi aggressions against the country's sovereignty• 21:09 — Iraq: Coordination Framework: We condemn the aggression that targeted Iraqi territory in a blatant violation of Iraq's sovereig...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785359964662,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Magnificent funeral procession for the bodies of those martyred in the recent attack in Iraq",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b923e6b7b8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J1q96eGOKhpiI1pbf8nbKp0WBEQplmbyNYdzfZ9Sf15ELSl-v7-voGqY06R2_4j34vAbV0a7SE79EOphU5lc9Oh3QRL49d8FdjJqSQn_tx1mg6-gsOXFvcorTucQ9YTRV_QUoxmHsPz9ujUFV2mahhY9kXRTutqcjphFNIH870e1YQN17la9Aw02M-WCfj2gefhIvH7-fvf4Pxe_RibNgjv1yccgjDCxEa4rDFsjVxwcfbggepga1pMR5cy4q8RM4gXmAwrcJ8UQNk9bm7nkXc2SnjZb5Luc_T4cnt7mjJ5sVlQSsClu3An1i8yACkEKdypDE4zuxNJXKdSkQMmang"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057639",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J1q96eGOKhpiI1pbf8nbKp0WBEQplmbyNYdzfZ9Sf15ELSl-v7-voGqY06R2_4j34vAbV0a7SE79EOphU5lc9Oh3QRL49d8FdjJqSQn_tx1mg6-gsOXFvcorTucQ9YTRV_QUoxmHsPz9ujUFV2mahhY9kXRTutqcjphFNIH870e1YQN17la9Aw02M-WCfj2gefhIvH7-fvf4Pxe_RibNgjv1yccgjDCxEa4rDFsjVxwcfbggepga1pMR5cy4q8RM4gXmAwrcJ8UQNk9bm7nkXc2SnjZb5Luc_T4cnt7mjJ5sVlQSsClu3An1i8yACkEKdypDE4zuxNJXKdSkQMmang"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785360005310,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-07-29",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Western media: Saudi Arabia is consulting to form an international coalition aimed at protecting shipping lanes in the Red Sea from Houthi attacks. This report was published citing sources familiar with the negotiation process.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785360010685,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-29",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Western media: Saudi Arabia is consulting to form an international coalition aimed at protecting shipping lanes in the Red Sea from Houthi attacks. This report was published citing sources familiar with the negotiation process.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785359990214,
+    "type": "airstrike",
+    "location": "Prince Sultan Air Base",
+    "coordinates": [
+      24.0767,
+      47.58
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸US Air Force tankers up from Prince Sultan Air Base, others are operating over the Gulf of Oman, with more taking off from the Occupied Palestine.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oeO86LIa8TWKJhvkUfE4iK2PHLn52xUtyD5D8Y7uyBs5i90X6TFHen1HieW5yC83jM6EQ3b6BlM2W_mILa9OkdEU10snQ96q0McIPYQb6J1D-9PCgP4x0U7LB7AqcXR4NXG2iuBIn3R7T5PL29sjatYYX39D3SpAAae1EpXZw0YejcILdqVHe7pfmhhe1awNHb93-UqpcAPQaHiAaJXTngbPW5kcKW4ypnvOFijbUyKDBaGzkLkUojXetR3P95atwoczXrinPHmJjn3FaMuYcZsi6huPdeFktIP4UqVhYHlOgOUPN0jMnTWxeBJgxYRzVLuKyLh_HB-MNp3nPmUX5Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/I2hzY9-VP50CouX93yBJwI3OvirwiWQNmIH6zK8zIFlSCCLzYaQgr-XT5645qNTNBe0XAw1m6qONs9kT9Quh-CrYnpwEMJt6a1mhuhux8Nl-vwTpD2BggSmlpnXKTp0I6hHMdtLk9jk5hBBKxb8tL1ak5cYISZsGiNcpVnIXeMJf8HQ0hBCPpM-XRGczhgFsqC--bGK9gTrYVpfhsCsqvnISXmJsr-A9cc8CeZIs5qHHQbjGEJnEmT_5lDe7zCVVs5gaJMD4n25417ZGpxyr0eqAWE1fN4CYzE2MxkWVBhyg1CDkP3JQQKe0WF3BReRNjMa73oDazSiRLZ1drREmSA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785359987627,
+    "type": "airstrike",
+    "location": "Gulf of Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸US Air Force tankers up from Prince Sultan Air Base, others are operating over the Gulf of Oman, with more taking off from the Occupied Palestine.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oeO86LIa8TWKJhvkUfE4iK2PHLn52xUtyD5D8Y7uyBs5i90X6TFHen1HieW5yC83jM6EQ3b6BlM2W_mILa9OkdEU10snQ96q0McIPYQb6J1D-9PCgP4x0U7LB7AqcXR4NXG2iuBIn3R7T5PL29sjatYYX39D3SpAAae1EpXZw0YejcILdqVHe7pfmhhe1awNHb93-UqpcAPQaHiAaJXTngbPW5kcKW4ypnvOFijbUyKDBaGzkLkUojXetR3P95atwoczXrinPHmJjn3FaMuYcZsi6huPdeFktIP4UqVhYHlOgOUPN0jMnTWxeBJgxYRzVLuKyLh_HB-MNp3nPmUX5Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/I2hzY9-VP50CouX93yBJwI3OvirwiWQNmIH6zK8zIFlSCCLzYaQgr-XT5645qNTNBe0XAw1m6qONs9kT9Quh-CrYnpwEMJt6a1mhuhux8Nl-vwTpD2BggSmlpnXKTp0I6hHMdtLk9jk5hBBKxb8tL1ak5cYISZsGiNcpVnIXeMJf8HQ0hBCPpM-XRGczhgFsqC--bGK9gTrYVpfhsCsqvnISXmJsr-A9cc8CeZIs5qHHQbjGEJnEmT_5lDe7zCVVs5gaJMD4n25417ZGpxyr0eqAWE1fN4CYzE2MxkWVBhyg1CDkP3JQQKe0WF3BReRNjMa73oDazSiRLZ1drREmSA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785359960624,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸US Air Force tankers up from Prince Sultan Air Base, others are operating over the Gulf of Oman, with more taking off from the Occupied Palestine.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oeO86LIa8TWKJhvkUfE4iK2PHLn52xUtyD5D8Y7uyBs5i90X6TFHen1HieW5yC83jM6EQ3b6BlM2W_mILa9OkdEU10snQ96q0McIPYQb6J1D-9PCgP4x0U7LB7AqcXR4NXG2iuBIn3R7T5PL29sjatYYX39D3SpAAae1EpXZw0YejcILdqVHe7pfmhhe1awNHb93-UqpcAPQaHiAaJXTngbPW5kcKW4ypnvOFijbUyKDBaGzkLkUojXetR3P95atwoczXrinPHmJjn3FaMuYcZsi6huPdeFktIP4UqVhYHlOgOUPN0jMnTWxeBJgxYRzVLuKyLh_HB-MNp3nPmUX5Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/I2hzY9-VP50CouX93yBJwI3OvirwiWQNmIH6zK8zIFlSCCLzYaQgr-XT5645qNTNBe0XAw1m6qONs9kT9Quh-CrYnpwEMJt6a1mhuhux8Nl-vwTpD2BggSmlpnXKTp0I6hHMdtLk9jk5hBBKxb8tL1ak5cYISZsGiNcpVnIXeMJf8HQ0hBCPpM-XRGczhgFsqC--bGK9gTrYVpfhsCsqvnISXmJsr-A9cc8CeZIs5qHHQbjGEJnEmT_5lDe7zCVVs5gaJMD4n25417ZGpxyr0eqAWE1fN4CYzE2MxkWVBhyg1CDkP3JQQKe0WF3BReRNjMa73oDazSiRLZ1drREmSA.jpg",
         "type": "photo"
       }
     ],

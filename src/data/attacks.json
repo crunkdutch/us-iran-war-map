@@ -77293,6 +77293,38 @@
     ]
   },
   {
+    "id": 476979498,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Missile Strike — Yazd: ballistic launches from Yazd sonic booms",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "No ballistic launches from Yazd, sonic booms from IRIAF jets on patrol were likely mistaken for launch sounds.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 476698626,
     "type": "airstrike",
     "status": "confirmed",
