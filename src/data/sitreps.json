@@ -162516,5 +162516,59 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785347197501,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Image of Islamic Revolutionary Guard Corps advisors who were martyred in Diyala, Iraq, following recent joint US and Saudi air attacks.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/tUrh9O9kNd9a9Uv7JNX6uchRvsY0DnkKAGdiJWxCU16VzN9V8a-bNS-IB97DVY4AuG7nJE-FLzODKf5aTbLNiUj7lue9bdqmRYF7dkdY6Azojan6XIc5N6OJwwedM9l1pcXxkS-e-6ucmhd0qyTHn4arrFA9sZHZ6Z0mHSIvCSz4geTpBtChrxjLcZ2eKEaR18Mbwt7my7RB00fMQ3GRHKTU15IOEmKrIfGmXTN8C_tba1Pdpp548F2gjBMcBas2C0fuKOjhuxqi4tJUKTPGDqKC9JT7tYK7TUN6gBUiV3MjztY925cCanUqgE7xB2Qh1RoWXaClS9G-DI_2eRYzMw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UWzffAC9PImXzB9tBaGdKbP8m19DphX6Kq6KWp9qw5DNP197AZVMlBK4GE4yj2E-wD1R9lvULJaF40qCuxJO4SQcouFHqAJKA46spTA2sxDsEjGpb63PYS55UrO4GBhEdt50__IUfQ7JBffmxcq22kp26_8RcMT0vTSFzHyzmWfwiJwD6YY8shb4OEuF757Z065Ru9-M-wL-jazXuJ0L72zOqGa7UpWEHzM0k1tnS6vp_sKW5o0P8OiIvyLobsNLWSzrXotjFspOPVy_1ZpdDzFCaIgmnQpmPFTtG6dgSRfg9eniShq5GTMSCZNk0tYef9k4hn6JW5CRTI_l4nL4sw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785347137493,
+    "type": "rocket",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Local sources: The Israeli occupation targets the outskirts of the villages of Maariya and Abedin in the western Daraa countryside, southern Syria, with five artillery shells.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785347172085,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Local sources: The Israeli occupation targets the outskirts of the villages of Maariya and Abedin in the western Daraa countryside, southern Syria, with five artillery shells.",
+    "media": [],
+    "verified": false
   }
 ]

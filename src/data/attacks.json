@@ -79001,5 +79001,37 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 476971256,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Syria, Israel: Syria Local sources Israeli occupation targets",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Syria: Local sources: The Israeli occupation targets the outskirts of the villages of Maariya and Abedin in the western Daraa countryside, southern Syria, with five artillery shells.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
