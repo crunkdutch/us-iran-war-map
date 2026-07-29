@@ -204,8 +204,7 @@ function StatementCard({ statement }: { statement: Statement }) {
       </div>
 
       {/* Expanded content */}
-      {expanded && (
-        <div style={{ animation: 'fadeInUp 0.2s ease-out' }}>
+      {expanded ? <div style={{ animation: 'fadeInUp 0.2s ease-out' }}>
           <p style={{
             fontSize: 11,
             color: 'var(--text-primary)',
@@ -222,7 +221,7 @@ function StatementCard({ statement }: { statement: Statement }) {
             {statement.source}
           </div>
           <div style={{ display: 'flex', gap: 8 }}>
-            {statement.sourceUrl && statement.sourceUrl !== '#' && (
+            {statement.sourceUrl && statement.sourceUrl !== '#' ? (
               <a
                 href={statement.sourceUrl}
                 target="_blank"
@@ -236,9 +235,9 @@ function StatementCard({ statement }: { statement: Statement }) {
               >
                 [ SOURCE → ]
               </a>
-            )}
-        </div>
-      )}
+            ) : null}
+          </div>
+        </div> : null}
     </div>
   )
 }
