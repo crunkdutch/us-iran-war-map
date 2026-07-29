@@ -79316,5 +79316,79 @@
         "thumbnail": "https://cdn4.telesco.pe/file/nWvYrWcML_802Lrd7jPs-foFlxDa6_JidrQAllnI5l8-0xjovyUx6RhK6mogp-4E1PGD6fq16aj8YOwi6xBTIX1mlO_U_jlMo6URDpShPnKFee4fjZWkGU-eM0BdiN1fjYZCqUXhb-gjeoIQN_iHFI4WZ-UaH42vur9buB-su2yCx36nJBhyMHc7FPqWu1M3mxH6RSqMs26e8LYWhinO6FU1tNbz6VsJfU2QBqmTLTFp2JF_nEOaW_45R4NWDZ5ux9wLqSMfuPe3S_u54k0p_x4MUYHNTgBAUR8KQ26sEWAqTVXcU05fe5yc1qaG0prbBmMMumnBqOhK22uvvqbWZQ"
       }
     ]
+  },
+  {
+    "id": 476989823,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Sirik: attacked sirikenemywatch",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ | US attacked sirik.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fw8OhwnLRPQNzb5rtQyiCuUx5zGFZfcWYyq-T497b9Q7vmxJynbdqYJnjkp2eIUMYn0oMFDz59--w6pQqZuAxTMIWQZjsXdi2FYGQkhQM141469ZMyHVVgVJKci9qVPtnSUW7ygTfgaKY-t5Hm-R1cvorBq4OhUllZ2WLAFk2nVyJyr70IrqPtcmYqXA1g3IW_XAMtRP3e76FFRYYPNtJHb-sycWLvQFbxnRJbP9uFBhJTYE2s1utFOFAw9nJu6JtUwLGGwRqrZRbZP6zrVGrVVDVkhY7Eqncwrft_oAIp5G9ca7X2QBm3B1uS0JItE89UwCQEPJ9k2eXePt_2oC_w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 476991891,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Israel: Wall Street JournalAdmiral Brad Cooper commander",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Wall Street Journal:Admiral Brad Cooper, commander of U.S. Central Command, prepared an option for a harsh air campaign against Iran that could last up to two weeks, aimed at crippling its missile capabilities, as Trump considers the extent of escalation he will take after the sudden Iranian missile attack.Officials say Israeli forces could be included if the United States returns to large-scale combat operations against Iran.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/PiOEEi9BPpncPp7sEqv1zu5FNI_23uAW6HaG-PRJnYQ_RZScX--D7J5T2olhW9AShebKhIZJk-PeYfP1u8_uvyN4LDwWX9Yolf0aUdW0usaR3A9DjbN86Wq_AB5GcKDR_mN_EkY4W45y40Dpbho9LO0n4kgwW7erQ98b7NG5FIL5C80iDCxebb-fpnu0AJ0KAFEgl_u_r2YbttS1rOpGYwUp2cRDJV9h1OfyEWZ4iW1AyVr4yKY_HABZTiRjlWAjsiOcY5xzsOJ_nLzFOvWp_qzEACrzLMNkPnhuA6BBWQ8avh2jZ0iS4CD7eVR-zya5Bw8yOj2ehE8vBG-wk0sG4w.jpg",
+        "type": "photo"
+      }
+    ]
   }
 ]
