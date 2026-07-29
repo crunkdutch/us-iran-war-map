@@ -163001,5 +163001,121 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785352595892,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Source at Al-Ahli Baptist Hospital in Gaza: A Palestinian was injured by Israeli drone fire in the Shuja'iyya neighborhood, east of Gaza City.• 19:03 — 🚫🟠🟠 A young man arrived at Al-Ahli Arab Hospital with an abdominal injury resulting from live fire from quadcopter drones in the Shuja'iyya ne...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785352622090,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Source at Al-Ahli Baptist Hospital in Gaza: A Palestinian was injured by Israeli drone fire in the Shuja'iyya neighborhood, east of Gaza City.• 19:03 — 🚫🟠🟠 A young man arrived at Al-Ahli Arab Hospital with an abdominal injury resulting from live fire from quadcopter drones in the Shuja'iyya ne...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785352564887,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Iranian TV: The missile attacks against Muwaffaq Salti Air Base were carried out based on information received by the intelligence of Khatam al-Anbiya Headquarters.• 18:55 — Iran: Iranian TV: The operations came as the Americans redeployed new systems of their A-10 and F-15 fighter jets at ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785352597901,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Kazemi Qomi, Iran's former ambassador to Iraq: Hashd al-Shaabi is an inalienable part of the legal armed forces in Iraq.Attacks on it are a violation of national sovereignty and have no justification.• 19:13 — #Iraq: Former Iranian Ambassador to Iraq Kazem Qomi: The Popular Mobilization Forces ar...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cf042301a2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D-L6wuKtX2cCL-TIzCEnd99yDM0Gmn2g_VH_pJtcooRW2RlFOoYuZLm9nuTchnk8fVVqfhcTu7jPplKLm_lNwP-gAObkIh1jSGhskD8qUsEaOxbTHsE1DKjPFOnhrB94czfU9WqIP9MjZtHL_aJd54_nSm_AblRL88uUJBy17vAxCIOxUt5YXAGVXQdV-PWg04qNqdbjoB3ztHO9NWKEyqc0YD7Pnmld1fq-qYOKx_EweiaAB6XQI6D8yP0gPecCWGXa_abMb5QO_47uyMX4R35uvqJFH5s5MS-hkvS8CqKByT9DafiIhh4QzCw71xubo8esp99tWGSnCJuLQpUuuQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057618",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D-L6wuKtX2cCL-TIzCEnd99yDM0Gmn2g_VH_pJtcooRW2RlFOoYuZLm9nuTchnk8fVVqfhcTu7jPplKLm_lNwP-gAObkIh1jSGhskD8qUsEaOxbTHsE1DKjPFOnhrB94czfU9WqIP9MjZtHL_aJd54_nSm_AblRL88uUJBy17vAxCIOxUt5YXAGVXQdV-PWg04qNqdbjoB3ztHO9NWKEyqc0YD7Pnmld1fq-qYOKx_EweiaAB6XQI6D8yP0gPecCWGXa_abMb5QO_47uyMX4R35uvqJFH5s5MS-hkvS8CqKByT9DafiIhh4QzCw71xubo8esp99tWGSnCJuLQpUuuQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785352619040,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Al-Shifa Hospital received 7 casualties as a result of targeting a Shamiya family home in Al-Shati Camp, west of Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785352638948,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ \"National News Agency\":Prosecutor General Judge Ahmed Rami Al-Haj issued a 30-day search and investigation warrant against Antoine Sahnaoui on charges of dealing with the \"Israeli\" enemy and violating the law of boycotting \"Israel.\"The warrant came after the technical information office's analysi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785352609773,
+    "type": "airstrike",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hostile warplanes fly at high altitude over Beirut and its suburbs.",
+    "media": [],
+    "verified": false
   }
 ]
