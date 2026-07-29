@@ -78856,7 +78856,18 @@
     "description": "Israeli Army Radio: Israel is considering how to respond to Hezbollah's drone attack, and a decision will be made soon.@SimurghRes",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c2b9f26fc5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/W3AHyeorYeOV5eJh6_kWQwctrMViuQh_uLCv4Lnje08OPdx5ykeQ2hvgynBoIDIZIa5kH-e4wLqQA62wWm9btdChpena9o-_9uC7hCh36Xcuzrp53X5pSgUHBv_IKQQ6ID_s-9BEsAK-ZWCAx1DZ5lRHIq2K_f0Z7uzKulwz-ElsLvaidvxpW0NHES8LF84RfDcrhgzRrpn5V_he3fl6QzwacX8OIW9hoa9gLok23tlEye_dDWG2_UgIVCvSfNQAIDqgMRYaFCUndElCCmPSPtlm-HPSnMaZ_UbCPtKGR0SjANPxIy5ACSxa7Tmqh2Cls7UBRF1s87ZM5M9Ftful5Q"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057587",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/W3AHyeorYeOV5eJh6_kWQwctrMViuQh_uLCv4Lnje08OPdx5ykeQ2hvgynBoIDIZIa5kH-e4wLqQA62wWm9btdChpena9o-_9uC7hCh36Xcuzrp53X5pSgUHBv_IKQQ6ID_s-9BEsAK-ZWCAx1DZ5lRHIq2K_f0Z7uzKulwz-ElsLvaidvxpW0NHES8LF84RfDcrhgzRrpn5V_he3fl6QzwacX8OIW9hoa9gLok23tlEye_dDWG2_UgIVCvSfNQAIDqgMRYaFCUndElCCmPSPtlm-HPSnMaZ_UbCPtKGR0SjANPxIy5ACSxa7Tmqh2Cls7UBRF1s87ZM5M9Ftful5Q"
+      }
+    ]
   },
   {
     "id": 476963030,
@@ -79062,6 +79073,75 @@
       "other": 0
     },
     "description": "⚡️ Explosions heard in Sulaymaniyah, northern Iraqi territories• 17:55 — Strong explosions again in Ranya district, Sulaymaniyah Governorate, northern Iraq. (Rasd Akhbar Shehaba)• 17:55 — Missile and drone attack targets headquarters of subversive parties in Sulaymaniyah (Rasd Akhbar Shehaba)• 18:01 — Iraq: Nournews: Several powerful explosions occurred in Sulaymaniyah, northern Iraq. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 476975375,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Red Sea, Saudi Arabia: media Saudi Arabia announces international coalition",
+    "location": "Red Sea, Saudi Arabia",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔴 US media: Saudi Arabia announces a new international coalition to protect navigation in the Red Sea from Houthi attacks.• 18:33 — The Kingdom is seeking assistance from about 50 countries, but the United States has not yet pledged to send troops. (Rasd Akhbar Shehaba)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/hMV2UtQb7PeAQxBkTfFmXl17IsbdoAby7o9ezj-CpqaRqUWdXZszqAO3QHCZGpYX9pfG9B5JI4pHZD9G83DzFwyoe9PLH8-hQ853mZDVvUoeM47n_E5c4meYX-yITo6B3FyDyt37JMUOlLJiL-4rtAEybVWggVpC_6zV5E3E2HT5Z_0vk5yNvPXOeB1PpWRnCixkFb9xC2uAJl3e9OaoobXQ8joRs1r8kedvF1yjB6gzkUbLBAaQNSC0aN-KGXsikp6wQv41rdGuBar542u83SU6DmMWEajqX3204V69P-Q-4ZsvzE_oPc7n_LSFdBrzxoE24ZX1WZdYOifPhWPgOg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 476977436,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: Yemen organizing committee calls millionman march",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Yemen: The organizing committee calls for a million-man march on Friday afternoon, in continuation and support of the equation of blockade for blockade and escalation for escalation.",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

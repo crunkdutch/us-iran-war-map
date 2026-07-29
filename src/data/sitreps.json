@@ -162676,5 +162676,202 @@
     "description": "⚡️ Mashhad Prosecutor: The killers of two Basij martyrs in the shooting incident in the Sarafrazan Boulevard area in Mashhad have been arrested.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785350425241,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Army Chief: Armed Forces will defend Iran's pure soil and its independence against aggressors to their last breath📌 Tehran, IRNA – The Commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami,&nbsp;in a message, congratulated and offered condolences on the martyrdom of Brigadi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350401549,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ An American official told The New York Times: Approximately 20 Iranian advisors and IRGC personnel were killed in the American-Saudi raids in Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350428508,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The fifth martyr among Iran's martyrs in Iraq, Martyr Mohammad Amin Rostami Jalilian",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BA4WY6RoTd4BQUrGz987d4_dG25utrldU7ZA00wisMUCRIRFpLIIoPUB0o4C-4_ldFuj5-yZ6KOB_enrEilb_2ngVhbTUgdp098YmCT9g7YtXF8GuRMwscUCaWqh06at81vs2mAiXv3xhuhQxvcL4qDYnvMkVNw3z0LUhMnJw_tR4OS8K87ISsZprLGvYqBBYJLTtkiImaHMD6o-XZnhNoeR7MTuOlwpJxGEPZaC0kSuFU6bnQ75jYLTh7YuCXlJzgTFUT69W6Z5JBY4o0yI0DHhakkGskfDxd_s3OKwPZi9UCPpbP8z_M1K90zsqhaHGeR_dT5XwYOVkQyqjBNXAw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785350388102,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza:Targeting by warplanes west of Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350417992,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: The Israeli occupation \"army\" carried out a bombing in the town of Houdata.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350414154,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: The Israeli occupation \"army\" carried out a bombing in the town of Houdata.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350445631,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: The organizing committee calls for a million-man march on Friday afternoon, in continuation and support of the equation of blockade for blockade and escalation for escalation.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350383643,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ First evacuation notice published for a house in Al-Shati Camp, west of Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350373356,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew media: The Israeli army is pressuring the political leadership and requesting permission to destroy Hezbollah tunnels in Ali al-Taher, southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350429401,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew media: The Israeli army is pressuring the political leadership and requesting permission to destroy Hezbollah tunnels in Ali al-Taher, southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785350419357,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Saudi Arabia does not want Iraq to be a strong country, and this policy has been continuous from the royal era until today.We follow up with political affairs researcher Talib Al-Ahmad",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1057603",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/B0KzD8V7JL3p6kilDcG1gXcF_yQl7_uq1l-bc9d7pzHsfQAqH4ig2WXeYfty9vyA5tbwj5eY8S6y5XlcmO4iiRa4lEi0i3Rw7iyDRbIGIi4_Sonq6MqMCZm4VXUP7QuLrWPctiW58ssSoaGukbEX-B1JeySFsOPa1wW0ueLTGWgZhHOCSnWHLx9a2D64TmXmQHphW0YvmBdLmPnsc8Ocy1sOJQCpj_-7BSCBpd0RLKdXHuz8VFzKMty5yUtsr_Ure3VElemWFuODTOwSjMQVLfCDP7XLeq8LMJsRLDjU7x6DaVee0nISpRs5V_AO3D34h7j3qLL7h5wU5l0oqQGnZg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785350453975,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Saudi Arabia does not want Iraq to be a strong country, and this policy has been continuous from the royal era until today.We follow up with political affairs researcher Talib Al-Ahmad",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1057603",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/B0KzD8V7JL3p6kilDcG1gXcF_yQl7_uq1l-bc9d7pzHsfQAqH4ig2WXeYfty9vyA5tbwj5eY8S6y5XlcmO4iiRa4lEi0i3Rw7iyDRbIGIi4_Sonq6MqMCZm4VXUP7QuLrWPctiW58ssSoaGukbEX-B1JeySFsOPa1wW0ueLTGWgZhHOCSnWHLx9a2D64TmXmQHphW0YvmBdLmPnsc8Ocy1sOJQCpj_-7BSCBpd0RLKdXHuz8VFzKMty5yUtsr_Ure3VElemWFuODTOwSjMQVLfCDP7XLeq8LMJsRLDjU7x6DaVee0nISpRs5V_AO3D34h7j3qLL7h5wU5l0oqQGnZg"
+      }
+    ],
+    "verified": false
   }
 ]
