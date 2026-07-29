@@ -163117,5 +163117,81 @@
     "description": "⚡️ Hostile warplanes fly at high altitude over Beirut and its suburbs.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785354400185,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: An injury by \"Israeli\" occupation army gunfire east of Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785354368527,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: An injury by \"Israeli\" occupation army gunfire east of Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785354387860,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🎦 Zionist regime on the path to a new occupation?🔹 When Israel's footprint is also seen in Phuket, Thailand&#33;🌐 iribnews.ir🆔",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/706561b791.mp4",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057627",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785354374519,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Brigadier General Javani, IRGC Political Deputy: The Iran-US Memorandum of Understanding was written from a position of honor and powerSome, without knowledge of its provisions, and imagining that this text is a document of surrender and detrimental to the country, took a stand against it and eve...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/EaBiwtvL9OvDlvb2nGWTiASqBP1kRoojdp2G1PMINoy7Zo9teuaOQGYCYPo5a2kZQ_e3PAFJCFrQJrWiKKluMg_OZYD_AfW9HA-b83VzQBmXtz3QIXAiCLCyKxRhHJIqRsimeBBBc9Vq_sfmS60_2AL7TBrNcY3PTCWRGaGI5rvl-3kXUqoUF_tkCSZcJoP5rOQpSXfXejAjXTC7sjSzbr8IGztrp9x9Siuys6mDVDepCwx49hQvizMpkwdmZ1LRWLrK0mTAx4jxkj0VpHdGkp9bioQVE0Sqhk3Rb8dmMD75WagcZVphPWZJriT8A9DlVUfTx1ZiplxJjHtOqOlBag.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
