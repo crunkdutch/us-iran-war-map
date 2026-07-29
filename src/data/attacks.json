@@ -78957,6 +78957,49 @@
     "description": "⚡️ #Urgent | Occupation aircraft launch a raid on northwest Khan Yunis, southern Gaza Strip• 15:33 — Updated: A martyr and injuries after a tent was targeted in the Al-Astal area, north of Al-Majayda Mosque, west of Khan Younis. (Rasd al Maidan)",
     "satelliteImage": null,
     "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d7610f400b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/reoLvwfeaKN2F40ZgEUDjKWCIqR2bwSWVw1UCu6HpNYTDsAWDgqdG5U1M5HB_76YFUNWGigxwkTlWXTzGHgyeYLsiePGHTXbGwbnRycVfdpM369lLxGMZtU89kVPsyMOuyvk_YUfhOwTdFbeJm6_CieGxYqhGYPVCskLSJsvh61SCaGiyQCagNekGU-vtsmeWV3gV_7bSbU6RlnHwQ4BurGeRaUVfYpZ5qZrAqnXvIAbZs3yv10c2-N4sQal8VuJdJWnIbirJFKhb6wlFCWi7PxOPmAWbPgwjx_7cH_CgVV5FXznXtmOwHxPTsbhZ3Ea9Y1AUDUWzCWXx-eYsVa8bw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057490",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/reoLvwfeaKN2F40ZgEUDjKWCIqR2bwSWVw1UCu6HpNYTDsAWDgqdG5U1M5HB_76YFUNWGigxwkTlWXTzGHgyeYLsiePGHTXbGwbnRycVfdpM369lLxGMZtU89kVPsyMOuyvk_YUfhOwTdFbeJm6_CieGxYqhGYPVCskLSJsvh61SCaGiyQCagNekGU-vtsmeWV3gV_7bSbU6RlnHwQ4BurGeRaUVfYpZ5qZrAqnXvIAbZs3yv10c2-N4sQal8VuJdJWnIbirJFKhb6wlFCWi7PxOPmAWbPgwjx_7cH_CgVV5FXznXtmOwHxPTsbhZ3Ea9Y1AUDUWzCWXx-eYsVa8bw"
+      }
+    ]
+  },
+  {
+    "id": 476969198,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran, Strait of Hormuz, Persian Gulf: Bloomberg According American European Iranian officials",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🚨 Bloomberg: According to American, European, and Iranian officials, the war between the US and Iran could last for months, as neither side is able to break the stalemate over the Strait of Hormuz nor achieve a lasting ceasefire.⏺Iran believes it has a relative advantage in this war because it can withstand a US naval blockade for a longer period. Tehran also expects Donald Trump to refrain from a widespread escalation of the conflict, as Iran has the capability to target Arab countries in t",
+    "satelliteImage": null,
+    "videoUrl": null,
     "media": []
   }
 ]

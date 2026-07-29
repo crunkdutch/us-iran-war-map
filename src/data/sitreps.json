@@ -162056,7 +162056,18 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ #Urgent | Occupation aircraft launch a raid on northwest Khan Yunis, southern Gaza Strip• 15:33 — Updated: A martyr and injuries after a tent was targeted in the Al-Astal area, north of Al-Majayda Mosque, west of Khan Younis. (Rasd al Maidan)",
-    "media": [],
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d7610f400b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/reoLvwfeaKN2F40ZgEUDjKWCIqR2bwSWVw1UCu6HpNYTDsAWDgqdG5U1M5HB_76YFUNWGigxwkTlWXTzGHgyeYLsiePGHTXbGwbnRycVfdpM369lLxGMZtU89kVPsyMOuyvk_YUfhOwTdFbeJm6_CieGxYqhGYPVCskLSJsvh61SCaGiyQCagNekGU-vtsmeWV3gV_7bSbU6RlnHwQ4BurGeRaUVfYpZ5qZrAqnXvIAbZs3yv10c2-N4sQal8VuJdJWnIbirJFKhb6wlFCWi7PxOPmAWbPgwjx_7cH_CgVV5FXznXtmOwHxPTsbhZ3Ea9Y1AUDUWzCWXx-eYsVa8bw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057490",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/reoLvwfeaKN2F40ZgEUDjKWCIqR2bwSWVw1UCu6HpNYTDsAWDgqdG5U1M5HB_76YFUNWGigxwkTlWXTzGHgyeYLsiePGHTXbGwbnRycVfdpM369lLxGMZtU89kVPsyMOuyvk_YUfhOwTdFbeJm6_CieGxYqhGYPVCskLSJsvh61SCaGiyQCagNekGU-vtsmeWV3gV_7bSbU6RlnHwQ4BurGeRaUVfYpZ5qZrAqnXvIAbZs3yv10c2-N4sQal8VuJdJWnIbirJFKhb6wlFCWi7PxOPmAWbPgwjx_7cH_CgVV5FXznXtmOwHxPTsbhZ3Ea9Y1AUDUWzCWXx-eYsVa8bw"
+      }
+    ],
     "verified": false
   },
   {
@@ -162252,6 +162263,121 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785341481026,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Report on a warplane raid in southern Lebanon",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/N_qccO8kA6Gjn2EK23poiVvLhMzxhXSRcvfVPanm0LWioSefkeM1Xf5OkhbXjQinfuO7Gbik8BP8GslPHQ4oRPx3TMoq7xCTNCKRf_NHPPiG4Y2vdDx16xaAYHqA5cVZFXxtX5U0fEG5z0EjpgS5ImGJXJ78eBuSjkw_dwb7MYBhkuPoEmyTKqPX8jsBCHA0HCQ3PU2oglOnXjlj1Pg136WYBr6VSD1vRV6ms8oFA0HFaMO2c6zoNncGo805aP3cQZAQ7RfwI9-9ngz0PKN3BwEZOnnTA57b3UZxu8eKAY30I596Yncev4thYhbSOb2Z3h7fm43F4y8oEjrwtTPMYQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785341440983,
+    "type": "rocket",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🎦 Funeral of Iraqi Popular Mobilization Forces Martyrs in American-Saudi Attacks • 16:03 — Security source to Al-Araby TV: Revolutionary Guard advisors among the victims of the American-Saudi shelling of Popular Mobilization Forces headquarters (Ba2s Jenin)",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/E65r-JYNvy_Qot-3vBwzZDwNmab4dICkgQPmupWUn3s0AArG6_-oO2j5A84j6PKH10mfJt0MkM0GDDEnTJluZF2P7TQuYyk5syVOOrBusn9i2O3RP6IoF2p6RSg1WFPE_aV9FTklOfbuvHNqamR-ku_aHJ6MngVlVtwOYLLAk6dUF_3iKu9FCOd5cC6kD_pR5i2rkeQ2AqFQ_H1Q0NE95FHST9lB6pLO6GPaH77Q8fg9I7tw0wM3GDLsmUHCkSe_ZBsdxtvXdJ-OkF4THRtJ7N-XL1I9PXa1chkzXAVpn4UPOuondqSbznj_P1cyBCt8OwSEETFszfykCe72pSArCA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785341425450,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Broadcasting Authority: Trump did not ask Netanyahu to withdraw from Syria",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785341503582,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Broadcasting Authority: Trump did not ask Netanyahu to withdraw from Syria",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785341468274,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Targeting by reconnaissance aircraft in Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785341428586,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent | Channel 13, citing a senior Israeli political official: Iran has begun uranium enrichment in Jabal Faas.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785341413456,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli media citing an Israeli official: Mojtaba Khamenei is definitively alive.",
+    "media": [],
     "verified": false
   }
 ]
