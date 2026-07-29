@@ -41704,6 +41704,43 @@
     "media": []
   },
   {
+    "id": 476960976,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-08",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Kuwait: Iran also launched least ballistic missiles",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇮🇷/🇰🇼 NEW: Iran also launched at least 4 ballistic missiles at Kuwait earlier this morning@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c8zSxNorFbVDCEOB3_KKxCjztUhOCYCK0blOnr4okA5v-5fvKh0VfEr3HMvw6mcLZbSuJxWI2kchRg81DhWW7Aj7pJGwa9C4yuXTtPuLK35FoT4QWdsCmNViM8OKaCU47vLXGnIDUet422VHArdVUh1Q6eZj8uvFCGyCtCiN1-mMrmwG_4z1IpIhqbl6ei6aXRTbzfwTLBlorL1NgvX6YeQiq0v8JQFgNxjo-cgY4lvAl9rZA7ZwYCAnyQqg-HMfKosHJYwtFKDwvFhLtLOSSdP03CtZ-b8iAEwWhdXWzOdRIUKZnjzGJlHusKoq5keNQ4UjkL-H2I5H-gD884I4Hg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 50,
     "type": "airstrike",
     "status": "confirmed",
@@ -42458,7 +42495,12 @@
     "description": "🇰🇼| Attack on US bases in Kuwait as well@FotrosResistancee",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/k-BOlFnjKhRwi80lIPTAT0qviFrJrMnZYAgKKKhb7P_N203HnnX99sFFN6ke3RdRbWtLkCIlNll2OdBKInHMPKaPAIjSwCdjlKvBnVJtwlLS_aoidpQWCkfYE7xTx0zuScGrnmiNWmi98TA7RecBY6jmuHNsyploG2PksFREdZesnJnr80d4SHSbdsgseFR9BWjwe0ICZzdokbcv4Vi5mhs9_b2j8y7lZHiAlh0lC3hciTpsmbyXCqri-gLql15645NSmmE29Z5VHfNOvTVk77ZgOhEq9Vg_6vI-zDY9bm1p1Won7hZDchWAkRkQBFYEPY_SNguZipBhXFEylj-BGg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 475554065,
@@ -42962,7 +43004,12 @@
     "description": "BREAKING 🇺🇸🇮🇷Axios: The United States has given Iran 24 hours to publicly commit to refraining from attacks on ships and to keep the Strait of Hormuz open; the US has informed Iran that, failing this, war will resume after 24-hours.**The US doesn't have what it takes for a prolonged conflict this far away. Even its ships are being supplied by CH-53E Super Stallion helicopters flying out of Saudi bases. This threat is to do with the Iranian infrastructure.@SimurghRes",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Rk-0J1_FSm2jrTfqNJNnjV1NS3saHChFzwsDzSXBw32_lD9u71LWM_F4faNjhWYbxcDvb1GpVv6wkGndkge8Kt9Fi7rQ18YMjzWrKnkdgc_FYMiS7sBBaieG8YAF9YwcH6ebK0pUyOfRSkjA9KVaVhvtPCtADjGsIESl6uT4-F0lVLgEJIqGx-yOPQLfY8L-WeB6ZPX0X7u6d-a6HLaOejQcWnyAaN7NkBM6hPo821v3EWxUdlv3P7TT34Wc8sCBXrxBqpZ5JhUaIb_-7ck0a0HF8_1pZ2QAxUwOScE2UCngTcg_PTnFepR1YZof9Egx_Aj1vd3ooOPLRNMxrz6cqQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 476460866,
@@ -58115,7 +58162,18 @@
     "description": "🇺🇸🇰🇼🇮🇷More missile launches reported from Kuwait against Iran.@SimurghRes",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9a8a7ae089.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nf0T8JDOvF6MWfFLL1sAZKSV26KDAnxBJvXTvXgYXi_a1bJNvkm5laHrSDxgEPDB4CPdan4GpmP_eql8V3OsirYxybBkhTJ-wZOQKSrhc0d4dnGq_HP7N5eR5zCT4mU5XeZ8keG6bPM2Cpa_WgSAfgJ6mElh1Ab2PJRvKAs5KL8Fd7SUSLhSNtq4T0j5W1WbFyew8oRQ5lm97WOc60qRSkTNwxccHRBVbJkyv9BWweBCwlWVKbs2RDsWxqAW6v4UKoOVyzAUujV_QIZ8p2mK2h5cyTapK1-TvglkimQy7XPGaM4-tTtaQnTzVHoi-rLGOc_dVAXuJAHIp5mQP2dplA"
+      },
+      {
+        "url": "https://t.me/Middle_East_Spectator/35168",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nf0T8JDOvF6MWfFLL1sAZKSV26KDAnxBJvXTvXgYXi_a1bJNvkm5laHrSDxgEPDB4CPdan4GpmP_eql8V3OsirYxybBkhTJ-wZOQKSrhc0d4dnGq_HP7N5eR5zCT4mU5XeZ8keG6bPM2Cpa_WgSAfgJ6mElh1Ab2PJRvKAs5KL8Fd7SUSLhSNtq4T0j5W1WbFyew8oRQ5lm97WOc60qRSkTNwxccHRBVbJkyv9BWweBCwlWVKbs2RDsWxqAW6v4UKoOVyzAUujV_QIZ8p2mK2h5cyTapK1-TvglkimQy7XPGaM4-tTtaQnTzVHoi-rLGOc_dVAXuJAHIp5mQP2dplA"
+      }
+    ]
   },
   {
     "id": 476308616,
