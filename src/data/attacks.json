@@ -79033,5 +79033,37 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 476973315,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Iraq: Explosions heard Sulaymaniyah northern Iraqi territories",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Explosions heard in Sulaymaniyah, northern Iraqi territories• 17:55 — Strong explosions again in Ranya district, Sulaymaniyah Governorate, northern Iraq. (Rasd Akhbar Shehaba)• 17:55 — Missile and drone attack targets headquarters of subversive parties in Sulaymaniyah (Rasd Akhbar Shehaba)• 18:01 — Iraq: Nournews: Several powerful explosions occurred in Sulaymaniyah, northern Iraq. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
