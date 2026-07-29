@@ -58,11 +58,14 @@ const DATE_PRESETS = [
 
 function filterByDate<T extends { date: string }>(items: T[], days: number): T[] {
   if (days === Infinity) return items
-  const cutoff = new Date()
-  cutoff.setDate(cutoff.getDate() - days)
+  // Calculate cutoff as ISO date string (local timezone date)
+  const now = new Date()
+  const cutoffDate = new Date(now)
+  cutoffDate.setDate(cutoffDate.getDate() - days)
+  const cutoffStr = cutoffDate.toISOString().slice(0, 10) // YYYY-MM-DD
   return items.filter(item => {
-    const d = new Date(item.date)
-    return d >= cutoff
+    // Compare date strings directly — avoids UTC/local midnight mismatch
+    return item.date >= cutoffStr
   })
 }
 
