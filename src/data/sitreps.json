@@ -164224,6 +164224,21 @@
     "verified": false
   },
   {
+    "id": 1785378664356,
+    "type": "airstrike",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Renewed U.S. strikes were reportedly carried out in Ahvaz.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -164825,6 +164840,174 @@
       {
         "url": "https://cdn4.telesco.pe/file/uCcE6Q9KJBnAD_XQigNcTAXkAeLLAONs7cF3XI9h5lDB1o7iKFrVDsrofDE0vaBkUsjiw3KbCzEbQMcZA7NuBTpPpF7sTQ3kXOH_VrRlRHIpE2lq4VEpPGyg1x55TgsriUdV0J9HAXxArGjLEjScdJ66Vh4INP58_GHyMx3yuKSMzFOKgScI9H1_MlvDoHn8ThCiexlamXEHYp7MxdJExRkvotQic7qRfQywBtCLKheIDTjtfZIH5jx1mDfNSy-B6d666oI2PkRqktQvsbkPpIuzqctWIn9LGEc9JdQFmW1hGoDvZkJpto99vx85XOeU0nQ7I9J74e38EY3rTHjwAw.jpg",
         "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785378671582,
+    "type": "airstrike",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📸 Initial images of the American enemy's attack on a residential house on Qeshm Island",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/tIctiO8KhMgXr2D2ZGcUZRcGjFeQi4IhzEALKOdLBy_00d0urq-ozQsIKYi4Oe3Lkemr7jm6OsRAS2QE9udXTLxAQlge8BMuFPFyhWGrU32nWFxhtnVt88qji9rnZXwvbaXxTpmvAAWTKKkAxGEPdiuQudnwHDrutksGKHj01O3vr7HsOtKpEQuQDlJ_sf6dgZS0KlPhcCQvBHbnaQgdgIAZdj_xBmoFMBtb8epJW68Q0r27KOdFzvQYDv5JRDosCNX1WvYJP-jsNGCjvgaax0gPuKN9TSAMsQRaXDRIPIoyzL0VaCUlFOLsrEmSD0eNwz2KdcbiraFQh9C0kz62xA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/H4AQw96sK058z1qksspNrc8kOW0gKrfYuxgeXD3pk5-QXNOmnw-VBwGAwRwfYyCNd5hX29wgSGlzmzoR6a0JhQhpxr1lQvkfAjLsw6GDsbsnD-QzmnacKE4A03AG2uFyDIiTWvcPsAjpyKvKnVAlrYRw29uNQKMDAlzBAjgE1vg_q58IjZ25NMzb1JdHFjqYAq0tbLiViclZSU_v0x7eoK_NP22vg_y78g0Ju3SdOiIL9NG8DYBmvl-M4qgUrX_Hbq0Lm3zaB4J7Of0lcOvYT9WXHdnZssO6yCOLyUP1Fj0VEI_wQzzg0hNwhGzjup4uy4V2BYUWyPQ3QEPcnrCMOg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785378670538,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📸 Initial images of the American enemy's attack on a residential house on Qeshm Island",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/tIctiO8KhMgXr2D2ZGcUZRcGjFeQi4IhzEALKOdLBy_00d0urq-ozQsIKYi4Oe3Lkemr7jm6OsRAS2QE9udXTLxAQlge8BMuFPFyhWGrU32nWFxhtnVt88qji9rnZXwvbaXxTpmvAAWTKKkAxGEPdiuQudnwHDrutksGKHj01O3vr7HsOtKpEQuQDlJ_sf6dgZS0KlPhcCQvBHbnaQgdgIAZdj_xBmoFMBtb8epJW68Q0r27KOdFzvQYDv5JRDosCNX1WvYJP-jsNGCjvgaax0gPuKN9TSAMsQRaXDRIPIoyzL0VaCUlFOLsrEmSD0eNwz2KdcbiraFQh9C0kz62xA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/H4AQw96sK058z1qksspNrc8kOW0gKrfYuxgeXD3pk5-QXNOmnw-VBwGAwRwfYyCNd5hX29wgSGlzmzoR6a0JhQhpxr1lQvkfAjLsw6GDsbsnD-QzmnacKE4A03AG2uFyDIiTWvcPsAjpyKvKnVAlrYRw29uNQKMDAlzBAjgE1vg_q58IjZ25NMzb1JdHFjqYAq0tbLiViclZSU_v0x7eoK_NP22vg_y78g0Ju3SdOiIL9NG8DYBmvl-M4qgUrX_Hbq0Lm3zaB4J7Of0lcOvYT9WXHdnZssO6yCOLyUP1Fj0VEI_wQzzg0hNwhGzjup4uy4V2BYUWyPQ3QEPcnrCMOg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785378593177,
+    "type": "missile",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Assistant Governor of Khuzestan: The American enemy targeted sites in the vicinity of Abadan with a missile attack.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785378589803,
+    "type": "missile",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Assistant Governor of Khuzestan: The American enemy targeted sites in the vicinity of Abadan with a missile attack.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785378624777,
+    "type": "airstrike",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Rising columns of smoke due to the brutal American terrorist aggression on the city of Ahvaz, southern Iran",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dUXv0AlTTmkf8rO66s1KH2A3KyZYZa0wgoRrYLcDk9rsRbQcpr22SKAzT0nd58FuZLTJ4yDpppXnMOB32T2HwQfLVR3v7eAwK1l9bLLLWNC_RwpMFIhbQQv1rjhoZlvzyiIKBoHvl75j_nJl3kjLYnTM8KeKHjE2vCqszL4BsWNElzmLKt62Khb4578o-xvOdyr_w_mlPc-Nu_5fheUseeCp2ZHtPY2WfK5KvS9dAPLvPUAripjDh9XUckk7bHLD0rccYBvhkYrARHIKKI1NXBBAPYzhh7iJkROdBjtaj1retqXU70G1OgBkEEXI_dWrcMvlG4GPncwtSCNAh57vWQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/3dda242ae1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y1zPa5uNyk03zljnpi6ifqJ0DGZE-7ZYmAnjWCD9K5kbDjdJeFpEdvym-8EWYVUvOChjn8n4_GT1KSeONGZb3-mKdvhhsmaadD8qu9Y4zzi7-XxlbvbGuQtS19BFGCTmkPZhMMFc5HqeKUofZY12U-gUYf47zhxssFYy9pkVNORE7ls3KqvkHhlmSATgyCYHvJ6QS7cwgoX7luNIyRwh8vY34DwSKZnYHsuvvPZ3TMdc1mHqfhpEUgRN6JgpY3MCJ70beC5frfCaAGLO7q22EsPcmFIrYgftRrr0_3Gy_6SdHHhAG26VftD4_6AHCJvP5B_xRZfLqJGIrVTZji8xag"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057747?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y1zPa5uNyk03zljnpi6ifqJ0DGZE-7ZYmAnjWCD9K5kbDjdJeFpEdvym-8EWYVUvOChjn8n4_GT1KSeONGZb3-mKdvhhsmaadD8qu9Y4zzi7-XxlbvbGuQtS19BFGCTmkPZhMMFc5HqeKUofZY12U-gUYf47zhxssFYy9pkVNORE7ls3KqvkHhlmSATgyCYHvJ6QS7cwgoX7luNIyRwh8vY34DwSKZnYHsuvvPZ3TMdc1mHqfhpEUgRN6JgpY3MCJ70beC5frfCaAGLO7q22EsPcmFIrYgftRrr0_3Gy_6SdHHhAG26VftD4_6AHCJvP5B_xRZfLqJGIrVTZji8xag"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785378641108,
+    "type": "airstrike",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ From the brutal American terrorist aggression that targeted Qeshm Island, Iran",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/CSCtI29TABShLLSje4YLHO3cd8_TbDowrP7ant6vC7Y3Lde6t9LBP-c43dSME5-CHLMjOhdTn0xr-lClnyvDIxaSoW_mRZjHiKeWBC1mcj7HEYpoEvwFLlNHeiVEzVVEPQDmAwUVl903N7a7O8a8XQFq93CDj4B3-xTuc9iWbVjVVFzxZuluFe3DPxUFpHWGOtF0oKm5H651yLQ82ud1dIh8sLOELwsVY5WZSf8yc8cFt667I1b7LfLaUBKDgi0SLln_uvZadMcL0b9lCiKKIDu_Rc1deY3N-wYH2UR6oqn04Bdzr6U1O-N6SECHyQrc2v0psORddbi5qCLIM3QcQg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b10808c95a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/T-S3Wq9QTBbA-kVd6q-U5WSMFuXLRS75URR6ZksEC4cxNpXwd-wRDY0LlDFbqQBXzWfysOP9aasbjOoqF_fFANY_L_n08nPPH6Bgq3frB3Thgr3Gpsp7ZpYATMfLxXt6zN3a-mfbRhfMTgATyaO7MdYY0Hr8MezNwoKIlp40sqziEcUxRlN7lDll6lm6pZa64n8gqeduDUgV2jpav97sZR_rykH9zjffRJwq0DcQWi6dp89g-bB9VHe7nHHcOWkeSKWcAR4k3UmOl-H-mdgoRHaDY_QI-3aS2QiUmKIF4PHb29572GsH2wwLlEo-bf63C3gwWbva0GsdngmqtOpZGw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057750?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/T-S3Wq9QTBbA-kVd6q-U5WSMFuXLRS75URR6ZksEC4cxNpXwd-wRDY0LlDFbqQBXzWfysOP9aasbjOoqF_fFANY_L_n08nPPH6Bgq3frB3Thgr3Gpsp7ZpYATMfLxXt6zN3a-mfbRhfMTgATyaO7MdYY0Hr8MezNwoKIlp40sqziEcUxRlN7lDll6lm6pZa64n8gqeduDUgV2jpav97sZR_rykH9zjffRJwq0DcQWi6dp89g-bB9VHe7nHHcOWkeSKWcAR4k3UmOl-H-mdgoRHaDY_QI-3aS2QiUmKIF4PHb29572GsH2wwLlEo-bf63C3gwWbva0GsdngmqtOpZGw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785378660463,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ From the brutal American terrorist aggression that targeted Qeshm Island, Iran",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/CSCtI29TABShLLSje4YLHO3cd8_TbDowrP7ant6vC7Y3Lde6t9LBP-c43dSME5-CHLMjOhdTn0xr-lClnyvDIxaSoW_mRZjHiKeWBC1mcj7HEYpoEvwFLlNHeiVEzVVEPQDmAwUVl903N7a7O8a8XQFq93CDj4B3-xTuc9iWbVjVVFzxZuluFe3DPxUFpHWGOtF0oKm5H651yLQ82ud1dIh8sLOELwsVY5WZSf8yc8cFt667I1b7LfLaUBKDgi0SLln_uvZadMcL0b9lCiKKIDu_Rc1deY3N-wYH2UR6oqn04Bdzr6U1O-N6SECHyQrc2v0psORddbi5qCLIM3QcQg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b10808c95a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/T-S3Wq9QTBbA-kVd6q-U5WSMFuXLRS75URR6ZksEC4cxNpXwd-wRDY0LlDFbqQBXzWfysOP9aasbjOoqF_fFANY_L_n08nPPH6Bgq3frB3Thgr3Gpsp7ZpYATMfLxXt6zN3a-mfbRhfMTgATyaO7MdYY0Hr8MezNwoKIlp40sqziEcUxRlN7lDll6lm6pZa64n8gqeduDUgV2jpav97sZR_rykH9zjffRJwq0DcQWi6dp89g-bB9VHe7nHHcOWkeSKWcAR4k3UmOl-H-mdgoRHaDY_QI-3aS2QiUmKIF4PHb29572GsH2wwLlEo-bf63C3gwWbva0GsdngmqtOpZGw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057750?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/T-S3Wq9QTBbA-kVd6q-U5WSMFuXLRS75URR6ZksEC4cxNpXwd-wRDY0LlDFbqQBXzWfysOP9aasbjOoqF_fFANY_L_n08nPPH6Bgq3frB3Thgr3Gpsp7ZpYATMfLxXt6zN3a-mfbRhfMTgATyaO7MdYY0Hr8MezNwoKIlp40sqziEcUxRlN7lDll6lm6pZa64n8gqeduDUgV2jpav97sZR_rykH9zjffRJwq0DcQWi6dp89g-bB9VHe7nHHcOWkeSKWcAR4k3UmOl-H-mdgoRHaDY_QI-3aS2QiUmKIF4PHb29572GsH2wwLlEo-bf63C3gwWbva0GsdngmqtOpZGw"
       }
     ],
     "verified": false
