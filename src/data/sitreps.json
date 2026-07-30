@@ -164239,6 +164239,51 @@
     "verified": false
   },
   {
+    "id": 1785385452312,
+    "type": "missile",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Ballistic missile launch from Yazd, Iran.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785385475352,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian retaliatory attacks are targeting Muawaffaq Salti military base in Jordan.▪️@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785385382830,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🚀🇯🇴🇺🇸— Missiles launched from Iran towards Muwaffaq Salti Air Base in Jordan @SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -165184,6 +165229,21 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Gaza:- The child Rateel Abdullah (8 years old) and the young man Abdullah Al-Balawi (20 years old) were martyred as a result of the occupation aircraft targeting a tent belonging to the Al-Balawi family in Mawasi Khan Yunis, south of the Gaza Strip.- In the central Strip, the child Zaid Muhammad ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785385410698,
+    "type": "intercept",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Minutes ago, Iranian missiles launched toward American bases in Jordan.• 04:18 — Enemy air defenses failed to intercept Iranian missiles that struck Muwaffaq Salti Air Base in Jordan. (Rasd Akhbar Shehaba)",
     "media": [],
     "verified": false
   }

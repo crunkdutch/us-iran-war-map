@@ -79611,6 +79611,38 @@
     ]
   },
   {
+    "id": 477035550,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Yazd: Ballistic missile launch from Yazd Iranenemywatch",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Ballistic missile launch from Yazd, Iran.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477002246,
     "type": "missile",
     "status": "confirmed",
@@ -80095,5 +80127,37 @@
         "thumbnail": "https://cdn4.telesco.pe/file/W1fjtsn9TtI1uJ-cnCI0PFEOLdAWiyh0Vkx5M7egV-e3Qjc3i7ZlHIDc3C0brlKFKG-zkIkHHYjLPFfyGDd318BUHCbRvsg-_Z4u2k8n1ttQAmD016p4_pap1p66sg_vYzJiKEhvprQWQjALbinGWIFb46TpdJ1XGiCsTQ1eJYD0oGiNTzMbvJEadZ8YW6iLLvelkamZRjXo7hh2FyETihITD_qukkfFwN9KF2OU4DnHSsKK7RRyL-X52fTaxsF5gdWiIzFgUul6SM0zwH57HgcxJaRZfQAEtC3eodF6WAR58fOUPatqE7KGOG8fGX5OShmwta2Z9CuuDUGPSJBzRg"
       }
     ]
+  },
+  {
+    "id": 477037640,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Interception — Jordan: Minutes Iranian missiles launched toward American",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Minutes ago, Iranian missiles launched toward American bases in Jordan.• 04:18 — Enemy air defenses failed to intercept Iranian missiles that struck Muwaffaq Salti Air Base in Jordan. (Rasd Akhbar Shehaba)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
