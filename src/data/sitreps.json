@@ -165246,5 +165246,145 @@
     "description": "⚡️ Minutes ago, Iranian missiles launched toward American bases in Jordan.• 04:18 — Enemy air defenses failed to intercept Iranian missiles that struck Muwaffaq Salti Air Base in Jordan. (Rasd Akhbar Shehaba)",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785388370344,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A Saudi forces \"Saab 2000\" reconnaissance and aerial surveillance aircraft has been flying for hours over northeastern Saudi Arabia, coinciding with unusual air movements.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785388362898,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza: - The child Rateel Abdullah (8 years old) and the young man Abdullah Al-Balawi (20 years old) were martyred as a result of the occupation aircraft targeting a tent belonging to the Al-Balawi family in Mawasi Khan Yunis, south of the Gaza Strip. -…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nJ5T3-BBT0U56UzrNPWpKx4JSE50c0EFo6IvkSD9FnBMy9CfFx_wuyIJFaleFwPqU96N_5-p0pLFbzB4l7a10eKSo3umTzesqlcj0RV-ggAfTesOlPxo9cXY9KAt1ccNPgo1rF5fIiwGCIt9xs1Lp5jQ03lY9Dd2bR7zZOYmZPN_884hPiMgc1Z53hg6s6Z2N8w8evtllHau2rUX3RP2kq6yZ5hzVp2vCxvBvuq2zvG7yn7E1mDQPOC3NI0xO55Ia5Sf496Gj3g4ty_DgqLyc21HWjDfQYSaGbsrLmz5SmoOh95qVDUtcKLk5HGVes1tbKqkitJnbW-lQ3PyQcPqIQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785388342904,
+    "type": "airstrike",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Director of Crisis Management in Hormozgan Province: Two injured children were pulled from under the rubble on Qeshm Island, and the search continues for 3 others.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785388359957,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Director of Crisis Management in Hormozgan Province: Two injured children were pulled from under the rubble on Qeshm Island, and the search continues for 3 others.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785388411139,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Director of Crisis Management in Hormozgan Province: Two injured children were pulled from under the rubble on Qeshm Island, and the search continues for 3 others.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785388359933,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi source: Warplanes roam the skies of Diwaniyah, Iraq",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785388359079,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Director of the \"Youvid\" Center for Studies, Hadi Al-Qubaisi:Trump combined two ideas in one tweet, no one preceded him in this.First: Iran asks us not to strike it.Second: Iran initiated targeting our base in Jordan with missiles.Either Iran is scared and deterred, or Iran is initiating the bomb...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785388376428,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ National Media Agency: After midnight last night and until dawn, echoes of a series of violent explosions carried out by the \"Israeli\" occupation forces were heard in a number of villages in the western sector, and their reverberations reached the city of Tyre. The hostile explosions targeted the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785388424408,
+    "type": "airstrike",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Al Mayadeen analyst for Iranian affairs: The American aggression targeted 9 cities in 4 southern Iranian provinces, and residential neighborhoods were targeted.• 05:11 — Iran: Al Mayadeen analyst for Iranian affairs: The American aggression also targeted a sports hall in Fars province (Al M...",
+    "media": [],
+    "verified": false
   }
 ]

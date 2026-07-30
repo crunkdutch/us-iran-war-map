@@ -79736,7 +79736,12 @@
     "description": "⚡️ Gaza: An apartment was bombed opposite the Bureij Municipality in the central Gaza Strip.",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nJ5T3-BBT0U56UzrNPWpKx4JSE50c0EFo6IvkSD9FnBMy9CfFx_wuyIJFaleFwPqU96N_5-p0pLFbzB4l7a10eKSo3umTzesqlcj0RV-ggAfTesOlPxo9cXY9KAt1ccNPgo1rF5fIiwGCIt9xs1Lp5jQ03lY9Dd2bR7zZOYmZPN_884hPiMgc1Z53hg6s6Z2N8w8evtllHau2rUX3RP2kq6yZ5hzVp2vCxvBvuq2zvG7yn7E1mDQPOC3NI0xO55Ia5Sf496Gj3g4ty_DgqLyc21HWjDfQYSaGbsrLmz5SmoOh95qVDUtcKLk5HGVes1tbKqkitJnbW-lQ3PyQcPqIQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477008471,
@@ -80156,6 +80161,75 @@
       "other": 0
     },
     "description": "⚡️ Minutes ago, Iranian missiles launched toward American bases in Jordan.• 04:18 — Enemy air defenses failed to intercept Iranian missiles that struck Muwaffaq Salti Air Base in Jordan. (Rasd Akhbar Shehaba)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477039731,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: National Media Agency After midnight last",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ National Media Agency: After midnight last night and until dawn, echoes of a series of violent explosions carried out by the \"Israeli\" occupation forces were heard in a number of villages in the western sector, and their reverberations reached the city of Tyre. The hostile explosions targeted the towns of Mansouri, Majdal Zoun, and Mazraat Beit al-Sayyad, coinciding with sweeping operations with machine guns carried out by the occupation forces towards Wadi al-Hujeir and Wadi al-Saluqi.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Qem5lBxwmNnLUGCzDPCZcek3My9qIsvR7Ke0j5PC8YP7DY2yCAnAonKkzTz_Hq09a_H38nCZmcLy52ECJJdt2BWtDfljl3VwtlPuYQOjHMixfEErzknjwBUn2Z2-9TTITJAeouWp2EzBliLn_UGzyIGYcTqNiNJZUe-1oIU3TpCV4JXhPtKaIX9iPyPGRNRf80Tb_HOQxDXT2AFa790uLKi851cWxbNDzQD2k03eCoHkR0ki3gpvERjp4Snh_owlKB6mpJamMgesyhBNnYNDC4Rrl9GP9-BBpWX_jVpvDJpUdfUrf7l7MgSstHCCuU0780PS2_ifLb-NRNmAlLiJwg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477041823,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Fars: Iran Mayadeen analyst Iranian affairs American",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran: Al Mayadeen analyst for Iranian affairs: The American aggression targeted 9 cities in 4 southern Iranian provinces, and residential neighborhoods were targeted.• 05:11 — Iran: Al Mayadeen analyst for Iranian affairs: The American aggression also targeted a sports hall in Fars province (Al Mayadeen Breaking)",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
