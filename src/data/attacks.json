@@ -81550,5 +81550,37 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477111420,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Municipalities affected villages mobilize call peaceful",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Municipalities of affected villages mobilize and call for a peaceful sit-in and movement…&#33;&#33;The municipalities of Kfartibnit, Zawtar al-Sharqiyah, Zawtar al-Gharbiyah, Nabatieh al-Fawqa, Yahmar, and Arnoun called for participation in a peaceful sit-in in front of the Nabatieh Governorate, at 10:00 AM on Saturday, August 1, 2026, in rejection of the continued Israeli aggressions and bombing and demolition operations targeting southern villages, civilian homes, and their properties.The m",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
