@@ -80651,7 +80651,12 @@
     "description": "⚡️ Iran: Al Mayadeen analyst for Iranian affairs: The American aggression targeted 9 cities in 4 southern Iranian provinces, and residential neighborhoods were targeted.• 05:11 — Iran: Al Mayadeen analyst for Iranian affairs: The American aggression also targeted a sports hall in Fars province (Al Mayadeen Breaking)",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mW_QXIrgue3fQylPpnsfUFkDX8bKR9qq4LwRSoTSgEma024th9uUB8mg0SnMpTzr2E5KDt_ffyWQjg_04qKlSPY6n3v_Af3dUc13Il_k01N1R2YKEwZkBz6PtYatujWCcqI-mq0qauhbyLuqC1pMWEpXLs_OoxZxAL0wSfJR25ZT_JnIBORsMabFro09atdhY-41JdC_ckLvsAiJYIj4pE4wLSNDLXuacc4ek5aGoV0mKxFk1MSxRCUiMnKDb9SYJVyuIn0SCq5W5a2v4vtqWzbyXUPTNRuuPe4Hc0Vcd1CnrzRjTTccIfNK-WQj6ENJmaREaNposcEjxK373YoUnA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477043916,
@@ -81285,6 +81290,38 @@
       "other": 0
     },
     "description": "🇾🇪 An explosion was heard in the Yemeni capital, Sanaa. Locals also report hearing the sound of fighter jets. @SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477096566,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qatar: Qatari Foreign Ministry State Qatar condemns",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Qatari Foreign Ministry:- The State of Qatar condemns the targeting of two LNG vessels in Damietta and considers it a threat to energy supplies.- We affirm Qatar's rejection of targeting vital installations and stress the need to spare the region the consequences of unjustified attacks.- We affirm Qatar's solidarity with Egypt and its support for all measures it takes to preserve its sovereignty and security.",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
