@@ -81552,6 +81552,81 @@
     "media": []
   },
   {
+    "id": 477113546,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Gaza City, Israel: Occupied Palestine Israeli occupation artillery shells",
+    "location": "Gaza City, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupied Palestine: The Israeli occupation artillery shells the surroundings of Al-Rida Mosque east of Al-Zaytun neighborhood, southeast of Gaza City",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477115673,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Occupied Palestine Occupation soldiers opened fire",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔴 Occupied Palestine: Occupation soldiers opened fire on a vehicle in the town of Beita, south of Nablus in the West Bank, injuring an elderly man.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f75082fa5a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nKvrx4hiujEldTXKpKbHNQWQQCNGUzbGayOnOVcovioHuZCryhiipHc-uFTkaLiboLNZhiYVKcg0KIMQiLwtiV1KdxJ8HZ-2-devAqRsjwoUVn8b3a7DLKyFFEyIhi1A5YF0PEqDheBO0_s6lzoeQSFmFAiFPrhGi2Mg6gK4-Ltb2R1W3eozo3bxEt9fuZ_eWvE5yb2mVgNiziJxSePP3WY6N3JC56Jlt5sfF7Qwwb9opR_z1u-G15DRfYrTqgnKTerMXljkvg_i3R3bFgEqJ8j0XG-uKAZ8QdDGxeAmXHfubbZwZSJ945SoXMA5-31hdlJ0tuD_8pBgn1I1vIpbiw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058363",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nKvrx4hiujEldTXKpKbHNQWQQCNGUzbGayOnOVcovioHuZCryhiipHc-uFTkaLiboLNZhiYVKcg0KIMQiLwtiV1KdxJ8HZ-2-devAqRsjwoUVn8b3a7DLKyFFEyIhi1A5YF0PEqDheBO0_s6lzoeQSFmFAiFPrhGi2Mg6gK4-Ltb2R1W3eozo3bxEt9fuZ_eWvE5yb2mVgNiziJxSePP3WY6N3JC56Jlt5sfF7Qwwb9opR_z1u-G15DRfYrTqgnKTerMXljkvg_i3R3bFgEqJ8j0XG-uKAZ8QdDGxeAmXHfubbZwZSJ945SoXMA5-31hdlJ0tuD_8pBgn1I1vIpbiw"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",

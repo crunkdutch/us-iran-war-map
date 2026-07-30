@@ -169732,6 +169732,390 @@
     "verified": false
   },
   {
+    "id": 1785440872713,
+    "type": "rocket",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: The Israeli occupation artillery shells the surroundings of Al-Rida Mosque east of Al-Zaytun neighborhood, southeast of Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785440903806,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: The Israeli occupation artillery shells the surroundings of Al-Rida Mosque east of Al-Zaytun neighborhood, southeast of Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785440842047,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli media: \"Israel Hayom\" on the mutiny in the \"Givati\" Brigade: 20 fighters did not return to service and it is expected that the battalion commander and the leaders of the mutiny will be punished",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785440844729,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Occupied Palestine: Occupation soldiers opened fire on a vehicle in the town of Beita, south of Nablus in the West Bank, injuring an elderly man.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f75082fa5a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nKvrx4hiujEldTXKpKbHNQWQQCNGUzbGayOnOVcovioHuZCryhiipHc-uFTkaLiboLNZhiYVKcg0KIMQiLwtiV1KdxJ8HZ-2-devAqRsjwoUVn8b3a7DLKyFFEyIhi1A5YF0PEqDheBO0_s6lzoeQSFmFAiFPrhGi2Mg6gK4-Ltb2R1W3eozo3bxEt9fuZ_eWvE5yb2mVgNiziJxSePP3WY6N3JC56Jlt5sfF7Qwwb9opR_z1u-G15DRfYrTqgnKTerMXljkvg_i3R3bFgEqJ8j0XG-uKAZ8QdDGxeAmXHfubbZwZSJ945SoXMA5-31hdlJ0tuD_8pBgn1I1vIpbiw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058363",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nKvrx4hiujEldTXKpKbHNQWQQCNGUzbGayOnOVcovioHuZCryhiipHc-uFTkaLiboLNZhiYVKcg0KIMQiLwtiV1KdxJ8HZ-2-devAqRsjwoUVn8b3a7DLKyFFEyIhi1A5YF0PEqDheBO0_s6lzoeQSFmFAiFPrhGi2Mg6gK4-Ltb2R1W3eozo3bxEt9fuZ_eWvE5yb2mVgNiziJxSePP3WY6N3JC56Jlt5sfF7Qwwb9opR_z1u-G15DRfYrTqgnKTerMXljkvg_i3R3bFgEqJ8j0XG-uKAZ8QdDGxeAmXHfubbZwZSJ945SoXMA5-31hdlJ0tuD_8pBgn1I1vIpbiw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440889311,
+    "type": "naval",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440831805,
+    "type": "naval",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440841383,
+    "type": "naval",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440836126,
+    "type": "naval",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440901373,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440904399,
+    "type": "naval",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440854248,
+    "type": "naval",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440877319,
+    "type": "naval",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440849767,
+    "type": "naval",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Informed sources: \"After a large number of Arab, Islamic, and European countries refused to participate,\" Saudi Arabia will host the first meeting of the naval coalition to break the embargo imposed on it by Sanaa forces and protect its ships and oil tankers in the Red Sea and Bab al-Mandab, with...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F0_IcgZ9tVH5Sl3XYoUY9iehLs77iz-xOBQxknKqaB-y9yAOhMh_UinRmXkRPyuSmGEa-EIkYthA64ksxKL_a1jWsEPkt5sbB6b9iJJ8fHP9ixGkr0TNmZH-k-svooslQZcAZd8EhyNQRC6DRpV_dUcU8T6HArGi1wehkVO1RXg5gshEfkTYx7Vr1nbA4-px2TDlkIXX2r6a-qEf_oZE-yTriED_81U_sIUf-ndtMTT2qj-k6l6z5wRFutV6N6A_Ylo6yVyIkr-ggqYJ0IZZ-zN0Oc0xFuhfNcCBAHvwgufPE3rUjIJXfjUkZWt_JNDgNSaoD4CFO8la_k5W1KZVhA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440887055,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-30",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - An exceptional notice was distributed to frontline residents:During the night hours, explosions will be heard in the Mount Ramim area, the Hula Valley, and the northern Golan Heights, as a result of Israeli army activity inside Lebanon.\"Due to the force of the explosions, settlers i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785440893210,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - An exceptional notice was distributed to frontline residents:During the night hours, explosions will be heard in the Mount Ramim area, the Hula Valley, and the northern Golan Heights, as a result of Israeli army activity inside Lebanon.\"Due to the force of the explosions, settlers i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785440911976,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The outcome was good since the equation of blockade for blockade was established in targeting Saudi oil ships, preventing their movement, and bringing back 16 ships, and downing spy planes and the planes that Turkey sells to Saudi Arabia and presents as a pride of Turkish industry will turn into ...",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058377",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l6Tn5bTu7R3vjdf34_wf83gzO7YGPMh39MXfPas9xNkQ8GzSCDSpuQraQ0jf3Xa9Uhh4pkgxncaKfbSZzLV49uOxPXIo9IlxRPMkT5EMjV7o2KV0D9xvs2FwnA9Z46J1xyJZdIzGBUS_GFN4PI-qf2VMV6Ig557PpZ-AyohlWjXE9Wa3bfYGJhWdWbPPBGlwnQzXTQMGgTI7HbB3PSBphYapqE-Nvukgj1lBklHEZ6nl7S0C4aJYue7tZYgJDsSQAE2QUJDyczd14Oth6y6TDJGsJKYykzdiutTecz3ZLNw4seZjk7g_hVfm8_PyhWPAtD51EFZ0EFh8ozwe1pglvw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440842963,
+    "type": "naval",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The outcome was good since the equation of blockade for blockade was established in targeting Saudi oil ships, preventing their movement, and bringing back 16 ships, and downing spy planes and the planes that Turkey sells to Saudi Arabia and presents as a pride of Turkish industry will turn into ...",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058377",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l6Tn5bTu7R3vjdf34_wf83gzO7YGPMh39MXfPas9xNkQ8GzSCDSpuQraQ0jf3Xa9Uhh4pkgxncaKfbSZzLV49uOxPXIo9IlxRPMkT5EMjV7o2KV0D9xvs2FwnA9Z46J1xyJZdIzGBUS_GFN4PI-qf2VMV6Ig557PpZ-AyohlWjXE9Wa3bfYGJhWdWbPPBGlwnQzXTQMGgTI7HbB3PSBphYapqE-Nvukgj1lBklHEZ6nl7S0C4aJYue7tZYgJDsSQAE2QUJDyczd14Oth6y6TDJGsJKYykzdiutTecz3ZLNw4seZjk7g_hVfm8_PyhWPAtD51EFZ0EFh8ozwe1pglvw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440905455,
+    "type": "naval",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The outcome was good since the equation of blockade for blockade was established in targeting Saudi oil ships, preventing their movement, and bringing back 16 ships, and downing spy planes and the planes that Turkey sells to Saudi Arabia and presents as a pride of Turkish industry will turn into ...",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058377",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l6Tn5bTu7R3vjdf34_wf83gzO7YGPMh39MXfPas9xNkQ8GzSCDSpuQraQ0jf3Xa9Uhh4pkgxncaKfbSZzLV49uOxPXIo9IlxRPMkT5EMjV7o2KV0D9xvs2FwnA9Z46J1xyJZdIzGBUS_GFN4PI-qf2VMV6Ig557PpZ-AyohlWjXE9Wa3bfYGJhWdWbPPBGlwnQzXTQMGgTI7HbB3PSBphYapqE-Nvukgj1lBklHEZ6nl7S0C4aJYue7tZYgJDsSQAE2QUJDyczd14Oth6y6TDJGsJKYykzdiutTecz3ZLNw4seZjk7g_hVfm8_PyhWPAtD51EFZ0EFh8ozwe1pglvw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440848147,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "2015: A Saudi-led coalition to attack Yemen2026: A Saudi-led coalition to defend Saudi Arabia from Yemen.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/hDwl6bTh4R0mwl_-O8PMYRe2pulIpe_yZhZuXGmOY0MSO9eeFF3fGBRff3gTlfna-haozw1HQdJRiBHQXUhl4yUC5sjXWxA0P3VWL1gmMHnq12ZquDRojaftUAe6ea-hvE-OoI1OzbMLersVqz5R6Wz7T9vF8NHAEvdzks6r2iJGvGmLXJcUwqlxKri44TL8rC_LwhWTXET1tPqqXDbhWdxdghwOKrdjhv11UY1dEcEh7IctPTMTX1vgeWwNLvNIqc-EN1B0ktgWzMVuyiq1yGbfU1FJWv39OHlBxUWgJQHpOm5IInV2zmn7kQPpOuP6CZJI3nIH_ltHCBzovkhfXw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785440847071,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "2015: A Saudi-led coalition to attack Yemen2026: A Saudi-led coalition to defend Saudi Arabia from Yemen.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/hDwl6bTh4R0mwl_-O8PMYRe2pulIpe_yZhZuXGmOY0MSO9eeFF3fGBRff3gTlfna-haozw1HQdJRiBHQXUhl4yUC5sjXWxA0P3VWL1gmMHnq12ZquDRojaftUAe6ea-hvE-OoI1OzbMLersVqz5R6Wz7T9vF8NHAEvdzks6r2iJGvGmLXJcUwqlxKri44TL8rC_LwhWTXET1tPqqXDbhWdxdghwOKrdjhv11UY1dEcEh7IctPTMTX1vgeWwNLvNIqc-EN1B0ktgWzMVuyiq1yGbfU1FJWv39OHlBxUWgJQHpOm5IInV2zmn7kQPpOuP6CZJI3nIH_ltHCBzovkhfXw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
