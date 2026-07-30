@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import type { AttackEvent } from './WarMap'
 
 const TYPE_LABELS: Record<string, string> = {
@@ -247,6 +247,9 @@ export default function IncidentPanel({ attack, visible, onClose }: Props) {
 }
 
 function MediaThumb({ item }: { item: { url: string; type: string; thumbnail?: string | null } }) {
+  const [imgFailed, setImgFailed] = useState(false)
+  const [thumbFailed, setThumbFailed] = useState(false)
+
   if (item.type === 'video') {
     return (
       <a
@@ -258,7 +261,7 @@ function MediaThumb({ item }: { item: { url: string; type: string; thumbnail?: s
           display: 'block',
           aspectRatio: '16/9',
           background: 'var(--bg-tertiary)',
-          backgroundImage: item.thumbnail ? `url(${item.thumbnail})` : undefined,
+          backgroundImage: item.thumbnail && !thumbFailed ? `url(${item.thumbnail})` : undefined,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           border: '1px solid var(--border-color)',
@@ -269,6 +272,12 @@ function MediaThumb({ item }: { item: { url: string; type: string; thumbnail?: s
         onMouseEnter={e => (e.currentTarget.style.borderColor = 'var(--accent-amber)')}
         onMouseLeave={e => (e.currentTarget.style.borderColor = 'var(--border-color)')}
       >
+        {item.thumbnail && !thumbFailed && (
+          <img src={item.thumbnail} alt=""
+            onError={() => setThumbFailed(true)}
+            style={{ display: 'none' }}
+          />
+        )}
         {/* Play button overlay */}
         <div style={{
           position: 'absolute',
@@ -309,6 +318,7 @@ function MediaThumb({ item }: { item: { url: string; type: string; thumbnail?: s
     )
   }
 
+  // Photo — render with <img> for proper error handling
   return (
     <a
       href={item.url}
@@ -318,11 +328,10 @@ function MediaThumb({ item }: { item: { url: string; type: string; thumbnail?: s
         display: 'block',
         aspectRatio: '4/3',
         background: 'var(--bg-tertiary)',
-        backgroundImage: `url(${item.url})`,
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
         border: '1px solid var(--border-color)',
         cursor: 'pointer',
+        overflow: 'hidden',
+        position: 'relative',
         transition: 'border-color 0.2s, transform 0.2s',
       }}
       onMouseEnter={e => {
@@ -334,6 +343,34 @@ function MediaThumb({ item }: { item: { url: string; type: string; thumbnail?: s
         e.currentTarget.style.transform = 'scale(1)'
       }}
     >
+      {imgFailed ? (
+        <div style={{
+          position: 'absolute',
+          inset: 0,
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          justifyContent: 'center',
+          color: 'var(--text-dim)',
+          fontSize: 10,
+          gap: 4,
+        }}>
+          <span style={{ fontSize: 20, opacity: 0.3 }}>🖼</span>
+          <span>UNAVAILABLE</span>
+        </div>
+      ) : (
+        <img
+          src={item.url}
+          alt=""
+          onError={() => setImgFailed(true)}
+          style={{
+            width: '100%',
+            height: '100%',
+            objectFit: 'cover',
+            display: 'block',
+          }}
+        />
+      )}
       <div style={{
         position: 'absolute',
         bottom: 4,
@@ -341,10 +378,10 @@ function MediaThumb({ item }: { item: { url: string; type: string; thumbnail?: s
         fontSize: 8,
         padding: '1px 4px',
         background: 'rgba(0,0,0,0.7)',
-        color: 'var(--accent-cyan)',
+        color: imgFailed ? 'var(--text-dim)' : 'var(--accent-cyan)',
         letterSpacing: 1,
       }}>
-        PHOTO
+        {imgFailed ? 'BROKEN' : 'PHOTO'}
       </div>
     </a>
   )
