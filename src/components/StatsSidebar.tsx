@@ -91,7 +91,7 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
   }, [attacks, sitreps, hormuzData, dateRange])
 
   const filteredStatements = useMemo(() => {
-    const list = stmtFilter === 'all' ? allStatements : allStatements.filter(s => s.source === stmtFilter)
+    const list = stmtFilter === 'all' ? allStatements : allStatements.filter(s => s.sourceType === stmtFilter)
     return [...list].sort((a, b) => (b.date || '').localeCompare(a.date || ''))
   }, [stmtFilter])
 
