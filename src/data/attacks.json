@@ -81325,5 +81325,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477098685,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Sheikh Isa Air Base, Persian Gulf, Bahrain: Phase Operation Thunderbolt Attack Armys Arashes",
+    "location": "Sheikh Isa Air Base, Persian Gulf, Bahrain",
+    "coordinates": [
+      25.9383,
+      50.5917
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Phase 26 of Operation Thunderbolt;🎦 Attack by the Army's Arashes on US centers and bases in Bahrain🔹The destructive drones of the Army of the Islamic Republic of Iran targeted important US centers and bases in Bahrain.🔹Army Public Relations: In the twenty-sixth phase of Operation Thunderbolt and in revenge for the pure blood of Martyr Brigadier General Pilot Majid Kazemi, the brave Sukhoi 24 pilot of the Army Air Force, the destructive drones of the Army of the Islamic Republic of Iran target",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058298",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rR_u0onQHG-m1mFSShq1YSqUAV-Pir41KiCAoHRwN1gMZVsSLo2DUIVTWlceEXRGaKE7VrEUQmGC3KrzrjEP1HXDG4qWr4hOLt6olHzECmmSZxVNm28zPWezcaCrLXsdOeOQSFPGN8QI_TLyzgBsX6EVle5c-TuPwseJN269owCgFmN5atM3esm6qP9WH6G6Vk--6SZHSYt8X5gvwvwS4pVsH0wXY35RVItWEj4eubTDE5GplKT3KyHg6Iu85lXlTkihQCREm4tAB-uQ6JwBhWWLnbkZzSZQ_vmikuSNzExTmSsBxag9Z4rrMHhHqJRjhs7yuZrJxyAm_oqNlXzgKw"
+      }
+    ]
   }
 ]

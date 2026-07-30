@@ -157111,6 +157111,21 @@
     "verified": false
   },
   {
+    "id": 1785433247575,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaKan Hebrew Channel:The \"Israeli\" military, regarding the mutiny in the Givati Brigade: Following the incident that occurred earlier today in the Givati Brigade, the commander of the 162nd Division, Brig. Gen. Shagiv Dahan, and the commander of the Givati Brigade, Col. Netanel Shmukha, ar...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785294711698,
     "type": "airstrike",
     "location": "Baghdad",
@@ -169173,6 +169188,69 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Iran: An informed source in Tehran to Al-Mayadeen: The Ukrainian side continues its efforts through mediators to contain the situation and ease tensions with Iran• 17:12 — Iran: Al-Masdar to Al-Mayadeen: Tehran still considers the attack on an Iranian ship in the Caspian Sea by Kyiv as a \"reckles...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785433171152,
+    "type": "drone",
+    "location": "Sheikh Isa Air Base",
+    "coordinates": [
+      25.9383,
+      50.5917
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "Phase 26 of Operation Thunderbolt;🎦 Attack by the Army's Arashes on US centers and bases in Bahrain🔹The destructive drones of the Army of the Islamic Republic of Iran targeted important US centers and bases in Bahrain.🔹Army Public Relations: In the twenty-sixth phase of Operation Thunderbolt and ...",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058298",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rR_u0onQHG-m1mFSShq1YSqUAV-Pir41KiCAoHRwN1gMZVsSLo2DUIVTWlceEXRGaKE7VrEUQmGC3KrzrjEP1HXDG4qWr4hOLt6olHzECmmSZxVNm28zPWezcaCrLXsdOeOQSFPGN8QI_TLyzgBsX6EVle5c-TuPwseJN269owCgFmN5atM3esm6qP9WH6G6Vk--6SZHSYt8X5gvwvwS4pVsH0wXY35RVItWEj4eubTDE5GplKT3KyHg6Iu85lXlTkihQCREm4tAB-uQ6JwBhWWLnbkZzSZQ_vmikuSNzExTmSsBxag9Z4rrMHhHqJRjhs7yuZrJxyAm_oqNlXzgKw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785433159262,
+    "type": "drone",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "Phase 26 of Operation Thunderbolt;🎦 Attack by the Army's Arashes on US centers and bases in Bahrain🔹The destructive drones of the Army of the Islamic Republic of Iran targeted important US centers and bases in Bahrain.🔹Army Public Relations: In the twenty-sixth phase of Operation Thunderbolt and ...",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058298",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rR_u0onQHG-m1mFSShq1YSqUAV-Pir41KiCAoHRwN1gMZVsSLo2DUIVTWlceEXRGaKE7VrEUQmGC3KrzrjEP1HXDG4qWr4hOLt6olHzECmmSZxVNm28zPWezcaCrLXsdOeOQSFPGN8QI_TLyzgBsX6EVle5c-TuPwseJN269owCgFmN5atM3esm6qP9WH6G6Vk--6SZHSYt8X5gvwvwS4pVsH0wXY35RVItWEj4eubTDE5GplKT3KyHg6Iu85lXlTkihQCREm4tAB-uQ6JwBhWWLnbkZzSZQ_vmikuSNzExTmSsBxag9Z4rrMHhHqJRjhs7yuZrJxyAm_oqNlXzgKw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785433179668,
+    "type": "drone",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "Phase 26 of Operation Thunderbolt;🎦 Attack by the Army's Arashes on US centers and bases in Bahrain🔹The destructive drones of the Army of the Islamic Republic of Iran targeted important US centers and bases in Bahrain.🔹Army Public Relations: In the twenty-sixth phase of Operation Thunderbolt and ...",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058298",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rR_u0onQHG-m1mFSShq1YSqUAV-Pir41KiCAoHRwN1gMZVsSLo2DUIVTWlceEXRGaKE7VrEUQmGC3KrzrjEP1HXDG4qWr4hOLt6olHzECmmSZxVNm28zPWezcaCrLXsdOeOQSFPGN8QI_TLyzgBsX6EVle5c-TuPwseJN269owCgFmN5atM3esm6qP9WH6G6Vk--6SZHSYt8X5gvwvwS4pVsH0wXY35RVItWEj4eubTDE5GplKT3KyHg6Iu85lXlTkihQCREm4tAB-uQ6JwBhWWLnbkZzSZQ_vmikuSNzExTmSsBxag9Z4rrMHhHqJRjhs7yuZrJxyAm_oqNlXzgKw"
+      }
+    ],
     "verified": false
   }
 ]
