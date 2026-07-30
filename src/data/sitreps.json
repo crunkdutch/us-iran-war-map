@@ -165945,6 +165945,66 @@
     "verified": false
   },
   {
+    "id": 1785435217451,
+    "type": "drone",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸 Iran-US war attacks on a map - last 24h US strikes on Iran: Abadan — HIMARS salvo, from 23:00 Ahvaz — HIMARS salvo Shadegan (vic.) — HIMARS salvo Arvandkenar (vic.) — HIMARS salvo Kazerun, Fars — air attack, no casualties reported Farashband, Fars —…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZFkRvcEFAzjv1J79wcjZjrDQpLkkKl1ZC1tFI_5ZhI9Ijw9TV4YtwRAc852FVkWeDCyj8b-xudAttMLWIv4uCKprFu0SfTV6wbHNUwfo0J1R3Qzl1sT8xZ0VMLhDx2qDScAoKi7VyUdOMtGfBw5iJr3vG1LBaSgP-iLEVE7b1cTiDW4g8TI8Lxe8y8ywrZgxr3OYwAxKFRmtdi10DbeXfe1JsQafkAIvVMeg4Bjutamg3G-MxYgMb87ZIEnGgMCwdYpHq7CtQxrW1qO6BeRDJJ6FmQctwerpSgwVgytJTKwNVF8GBItHv5d48MhphY4LRzpJaijGbejMeixROdtfjw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785435239338,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸 Iran-US war attacks on a map - last 24h US strikes on Iran: Abadan — HIMARS salvo, from 23:00 Ahvaz — HIMARS salvo Shadegan (vic.) — HIMARS salvo Arvandkenar (vic.) — HIMARS salvo Kazerun, Fars — air attack, no casualties reported Farashband, Fars —…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZFkRvcEFAzjv1J79wcjZjrDQpLkkKl1ZC1tFI_5ZhI9Ijw9TV4YtwRAc852FVkWeDCyj8b-xudAttMLWIv4uCKprFu0SfTV6wbHNUwfo0J1R3Qzl1sT8xZ0VMLhDx2qDScAoKi7VyUdOMtGfBw5iJr3vG1LBaSgP-iLEVE7b1cTiDW4g8TI8Lxe8y8ywrZgxr3OYwAxKFRmtdi10DbeXfe1JsQafkAIvVMeg4Bjutamg3G-MxYgMb87ZIEnGgMCwdYpHq7CtQxrW1qO6BeRDJJ6FmQctwerpSgwVgytJTKwNVF8GBItHv5d48MhphY4LRzpJaijGbejMeixROdtfjw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785435172277,
+    "type": "drone",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸 Iran-US war attacks on a map - last 24h US strikes on Iran: Abadan — HIMARS salvo, from 23:00 Ahvaz — HIMARS salvo Shadegan (vic.) — HIMARS salvo Arvandkenar (vic.) — HIMARS salvo Kazerun, Fars — air attack, no casualties reported Farashband, Fars —…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZFkRvcEFAzjv1J79wcjZjrDQpLkkKl1ZC1tFI_5ZhI9Ijw9TV4YtwRAc852FVkWeDCyj8b-xudAttMLWIv4uCKprFu0SfTV6wbHNUwfo0J1R3Qzl1sT8xZ0VMLhDx2qDScAoKi7VyUdOMtGfBw5iJr3vG1LBaSgP-iLEVE7b1cTiDW4g8TI8Lxe8y8ywrZgxr3OYwAxKFRmtdi10DbeXfe1JsQafkAIvVMeg4Bjutamg3G-MxYgMb87ZIEnGgMCwdYpHq7CtQxrW1qO6BeRDJJ6FmQctwerpSgwVgytJTKwNVF8GBItHv5d48MhphY4LRzpJaijGbejMeixROdtfjw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -169251,6 +169311,323 @@
         "thumbnail": "https://cdn4.telesco.pe/file/rR_u0onQHG-m1mFSShq1YSqUAV-Pir41KiCAoHRwN1gMZVsSLo2DUIVTWlceEXRGaKE7VrEUQmGC3KrzrjEP1HXDG4qWr4hOLt6olHzECmmSZxVNm28zPWezcaCrLXsdOeOQSFPGN8QI_TLyzgBsX6EVle5c-TuPwseJN269owCgFmN5atM3esm6qP9WH6G6Vk--6SZHSYt8X5gvwvwS4pVsH0wXY35RVItWEj4eubTDE5GplKT3KyHg6Iu85lXlTkihQCREm4tAB-uQ6JwBhWWLnbkZzSZQ_vmikuSNzExTmSsBxag9Z4rrMHhHqJRjhs7yuZrJxyAm_oqNlXzgKw"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785436153630,
+    "type": "drone",
+    "location": "Sheikh Isa Air Base",
+    "coordinates": [
+      25.9383,
+      50.5917
+    ],
+    "date": "2026-07-30",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Iranian Army:- We targeted important American centers and bases in Bahrain with drones.- We targeted the electricity generators, navigation system, and administrative buildings of the terrorist US Army at Sheikh Isa Air Base in Bahrain.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785436183945,
+    "type": "drone",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-30",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Iranian Army:- We targeted important American centers and bases in Bahrain with drones.- We targeted the electricity generators, navigation system, and administrative buildings of the terrorist US Army at Sheikh Isa Air Base in Bahrain.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785436209120,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Saudi Media: The US Embassy in Baghdad issues instructions restricting the movement of its employees.• 18:05 — Western missions in Baghdad have begun activating emergency plans and making arrangements for departure if needed. (Rasd Akhbar Shehaba)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785436249472,
+    "type": "drone",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-30",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Iranian Army: We targeted by drones America's important centers and bases in Bahrain • 17:41 — Iran: Iranian Army: We targeted the power generators, navigation system, and administrative buildings of the terrorist US Army at Sheikh Isa base in Bahrain;…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/k252rMA_G-dwNpKlnMg9ysr9YYgQFzFCBM5prIqTX4cgZ-OqmvQfo4CzlqIg_kOACkU426fUjjeihscgU7AtGMbKMvMWbHJoak1b6elO0VZV62mKt12dE9uJAsuLsmjRrV0hdvfdFqMilH97yCg48pukcPnT6TphzRNnMC7eoCo_06KNbftPr29Y_8OBxu3-FnUNA4HyG4aAp-PzMVDUMsRkqMv8g6dR5mlWWF9HqKTh-Q6PqmTyNPz3LT74s6Ww9eKPpn_j5NB61kLhjqoS7Etgw46J9r9V0JwdcaaisNW3a2YkDQcjhR8Y-3wEkcE_jHQ-bkWU9cYRWb54zCXyVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785436210102,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ This is part of the undisclosed security arrangements in southern Lebanon.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c2addf1f13.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J7RWIDDc2BFuUfRL6jlAgSE6su4y2cFjpAxg_w3i-Gp3lUewEhI1cxPE5yyV6ZbQJa8FFxptxYqyAAiJrsHjI9sf9oE5jhf6qGHH10d9sNNSPrFSWPLdifzOAfPL6_fDaoklSvpWG1bmx-CyRqS79CJD_BqXTFXpIYlbRNkCK74UxoMQslhwJb3rmCNoRcNJlb3vTm5k9oGL3wG6LCdpojg1RiWp-U3SdY9DueTJ501hcUmPnGI8FOHHk1OxEUn2d2dPOU3P4q1llOs354wb3RKzZd1375FU-Wr2D9FuOt3vvQFcyjcN9yjaVXWsGVvetactOgujiNRH1GjMXtSF9g"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058322",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J7RWIDDc2BFuUfRL6jlAgSE6su4y2cFjpAxg_w3i-Gp3lUewEhI1cxPE5yyV6ZbQJa8FFxptxYqyAAiJrsHjI9sf9oE5jhf6qGHH10d9sNNSPrFSWPLdifzOAfPL6_fDaoklSvpWG1bmx-CyRqS79CJD_BqXTFXpIYlbRNkCK74UxoMQslhwJb3rmCNoRcNJlb3vTm5k9oGL3wG6LCdpojg1RiWp-U3SdY9DueTJ501hcUmPnGI8FOHHk1OxEUn2d2dPOU3P4q1llOs354wb3RKzZd1375FU-Wr2D9FuOt3vvQFcyjcN9yjaVXWsGVvetactOgujiNRH1GjMXtSF9g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785436241804,
+    "type": "airstrike",
+    "location": "Ali Al Salem Air Base",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Satellite images confirm the IRGC statement about the targeting of the American Ali Al Salem Air Base in Kuwait at dawn today.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/de2e8d6bcd.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qvDjol6C9rpGWx9XeU6IOzp7LU_81gZqpfDs-dEuLSoiCtZ014h5Q57zFTNa6etnycThlLwAuGGnp_gd3sfuJy6B-4wtWEX5fUdpTpfnajq-vg228w7aBM26PPrIz1mvI_FQgniTW1DbFwAIL-6WXclweVIddoh2AtQrqniFUHLSD-jZujfI0aOFzFZyJFMPcL4QwqfS3XNV3t-tzBIn0VjBv1catN9Czm2oLguGFdfnLZ-WN2sg0sYGXASmXD4IugjV4LolQkAamHAmL-ljGg2izASfUuObegOYUUpobte4JF5yrHJsC-l_sMvHl5yYQB-mo0iIi0Bu7sxc60u8gg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058324",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qvDjol6C9rpGWx9XeU6IOzp7LU_81gZqpfDs-dEuLSoiCtZ014h5Q57zFTNa6etnycThlLwAuGGnp_gd3sfuJy6B-4wtWEX5fUdpTpfnajq-vg228w7aBM26PPrIz1mvI_FQgniTW1DbFwAIL-6WXclweVIddoh2AtQrqniFUHLSD-jZujfI0aOFzFZyJFMPcL4QwqfS3XNV3t-tzBIn0VjBv1catN9Czm2oLguGFdfnLZ-WN2sg0sYGXASmXD4IugjV4LolQkAamHAmL-ljGg2izASfUuObegOYUUpobte4JF5yrHJsC-l_sMvHl5yYQB-mo0iIi0Bu7sxc60u8gg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785436241596,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Satellite images confirm the IRGC statement about the targeting of the American Ali Al Salem Air Base in Kuwait at dawn today.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/de2e8d6bcd.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qvDjol6C9rpGWx9XeU6IOzp7LU_81gZqpfDs-dEuLSoiCtZ014h5Q57zFTNa6etnycThlLwAuGGnp_gd3sfuJy6B-4wtWEX5fUdpTpfnajq-vg228w7aBM26PPrIz1mvI_FQgniTW1DbFwAIL-6WXclweVIddoh2AtQrqniFUHLSD-jZujfI0aOFzFZyJFMPcL4QwqfS3XNV3t-tzBIn0VjBv1catN9Czm2oLguGFdfnLZ-WN2sg0sYGXASmXD4IugjV4LolQkAamHAmL-ljGg2izASfUuObegOYUUpobte4JF5yrHJsC-l_sMvHl5yYQB-mo0iIi0Bu7sxc60u8gg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058324",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qvDjol6C9rpGWx9XeU6IOzp7LU_81gZqpfDs-dEuLSoiCtZ014h5Q57zFTNa6etnycThlLwAuGGnp_gd3sfuJy6B-4wtWEX5fUdpTpfnajq-vg228w7aBM26PPrIz1mvI_FQgniTW1DbFwAIL-6WXclweVIddoh2AtQrqniFUHLSD-jZujfI0aOFzFZyJFMPcL4QwqfS3XNV3t-tzBIn0VjBv1catN9Czm2oLguGFdfnLZ-WN2sg0sYGXASmXD4IugjV4LolQkAamHAmL-ljGg2izASfUuObegOYUUpobte4JF5yrHJsC-l_sMvHl5yYQB-mo0iIi0Bu7sxc60u8gg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785436583934,
+    "type": "intercept",
+    "location": "Sheikh Isa Air Base",
+    "coordinates": [
+      25.9383,
+      50.5917
+    ],
+    "date": "2026-07-30",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Statement issued by the Iranian Army Public Relations:In the twenty-sixth phase of Operation Thunderbolt, and in retaliation for the blood of Martyr Brigadier Pilot Majid Kazemi, the courageous Su-24 pilot of the Iranian Army Air Force, suicide drones belonging to the Army of the Islamic Repu...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bcfe616b23.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n8F__BK1i5FbaffKDmaDwtLDmMOYy9YDp-kOb7S9DqxqhoTEh6w1CqjwF9CctmPJygRR6qk_nFR0dBfDuUEFG5Gmru8QoBi9m2bO1rjFghN-G4lAT4jL7ru6UPTjBXKBTKqAtCyXDQED8OnISLEJFqTpr-eFCvydgueUYyTjqgYX_PabgixEo3DLQrjXD8g_5CFI_LaEEQDTseyHMRrzcUiBzpqABPCi7QD5gR3r_0fZo7LLEVV1U-meSlQYy1vH8OkUSwmVGE1m9p_KFTif3FwAnTOtiRjPmpDqZUPiYCGoTlodW6QmYp-wJjn7EO72iZUB_esHYL_3_hdH_rsnEQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/60579",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n8F__BK1i5FbaffKDmaDwtLDmMOYy9YDp-kOb7S9DqxqhoTEh6w1CqjwF9CctmPJygRR6qk_nFR0dBfDuUEFG5Gmru8QoBi9m2bO1rjFghN-G4lAT4jL7ru6UPTjBXKBTKqAtCyXDQED8OnISLEJFqTpr-eFCvydgueUYyTjqgYX_PabgixEo3DLQrjXD8g_5CFI_LaEEQDTseyHMRrzcUiBzpqABPCi7QD5gR3r_0fZo7LLEVV1U-meSlQYy1vH8OkUSwmVGE1m9p_KFTif3FwAnTOtiRjPmpDqZUPiYCGoTlodW6QmYp-wJjn7EO72iZUB_esHYL_3_hdH_rsnEQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785436538108,
+    "type": "intercept",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-07-30",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Statement issued by the Iranian Army Public Relations:In the twenty-sixth phase of Operation Thunderbolt, and in retaliation for the blood of Martyr Brigadier Pilot Majid Kazemi, the courageous Su-24 pilot of the Iranian Army Air Force, suicide drones belonging to the Army of the Islamic Repu...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bcfe616b23.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n8F__BK1i5FbaffKDmaDwtLDmMOYy9YDp-kOb7S9DqxqhoTEh6w1CqjwF9CctmPJygRR6qk_nFR0dBfDuUEFG5Gmru8QoBi9m2bO1rjFghN-G4lAT4jL7ru6UPTjBXKBTKqAtCyXDQED8OnISLEJFqTpr-eFCvydgueUYyTjqgYX_PabgixEo3DLQrjXD8g_5CFI_LaEEQDTseyHMRrzcUiBzpqABPCi7QD5gR3r_0fZo7LLEVV1U-meSlQYy1vH8OkUSwmVGE1m9p_KFTif3FwAnTOtiRjPmpDqZUPiYCGoTlodW6QmYp-wJjn7EO72iZUB_esHYL_3_hdH_rsnEQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/60579",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n8F__BK1i5FbaffKDmaDwtLDmMOYy9YDp-kOb7S9DqxqhoTEh6w1CqjwF9CctmPJygRR6qk_nFR0dBfDuUEFG5Gmru8QoBi9m2bO1rjFghN-G4lAT4jL7ru6UPTjBXKBTKqAtCyXDQED8OnISLEJFqTpr-eFCvydgueUYyTjqgYX_PabgixEo3DLQrjXD8g_5CFI_LaEEQDTseyHMRrzcUiBzpqABPCi7QD5gR3r_0fZo7LLEVV1U-meSlQYy1vH8OkUSwmVGE1m9p_KFTif3FwAnTOtiRjPmpDqZUPiYCGoTlodW6QmYp-wJjn7EO72iZUB_esHYL_3_hdH_rsnEQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785436514725,
+    "type": "intercept",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-30",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Statement issued by the Iranian Army Public Relations:In the twenty-sixth phase of Operation Thunderbolt, and in retaliation for the blood of Martyr Brigadier Pilot Majid Kazemi, the courageous Su-24 pilot of the Iranian Army Air Force, suicide drones belonging to the Army of the Islamic Repu...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bcfe616b23.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n8F__BK1i5FbaffKDmaDwtLDmMOYy9YDp-kOb7S9DqxqhoTEh6w1CqjwF9CctmPJygRR6qk_nFR0dBfDuUEFG5Gmru8QoBi9m2bO1rjFghN-G4lAT4jL7ru6UPTjBXKBTKqAtCyXDQED8OnISLEJFqTpr-eFCvydgueUYyTjqgYX_PabgixEo3DLQrjXD8g_5CFI_LaEEQDTseyHMRrzcUiBzpqABPCi7QD5gR3r_0fZo7LLEVV1U-meSlQYy1vH8OkUSwmVGE1m9p_KFTif3FwAnTOtiRjPmpDqZUPiYCGoTlodW6QmYp-wJjn7EO72iZUB_esHYL_3_hdH_rsnEQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/60579",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n8F__BK1i5FbaffKDmaDwtLDmMOYy9YDp-kOb7S9DqxqhoTEh6w1CqjwF9CctmPJygRR6qk_nFR0dBfDuUEFG5Gmru8QoBi9m2bO1rjFghN-G4lAT4jL7ru6UPTjBXKBTKqAtCyXDQED8OnISLEJFqTpr-eFCvydgueUYyTjqgYX_PabgixEo3DLQrjXD8g_5CFI_LaEEQDTseyHMRrzcUiBzpqABPCi7QD5gR3r_0fZo7LLEVV1U-meSlQYy1vH8OkUSwmVGE1m9p_KFTif3FwAnTOtiRjPmpDqZUPiYCGoTlodW6QmYp-wJjn7EO72iZUB_esHYL_3_hdH_rsnEQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785436526174,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew Channel 13 from Israeli sources: Hamas continues its procrastination and tries to manipulate us, and we will not succumb to its conditions. • 17:40 — Hebrew Channel Kan (Rasd Akhbar Shehaba)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785436514114,
+    "type": "airstrike",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 Details of last night's attacks by the American enemy on several points in Ahvaz🔹In these attacks, residential buildings and the girls' dormitory of Jundishapur University of Medical Sciences were damaged.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058332",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785436584892,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Former Deputy Speaker of Parliament Elie Ferzli to \"RED TV\":The experimental areas that experienced \"chaos\" and Israel seeks to deepen the internal Lebanese conflict and push the country towards civil war.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785436533451,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Enemy_MediaIsrael Hayom Hebrew newspaper - Amit Segal: \"So when will we eliminate the drone threat?\" the Chief of Staff was asked recently, in the days when Hezbollah was daily striking Israeli army soldiers in southern Lebanon. He looked at the questioner with a look of pity. \"Approximately whe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785436548733,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Enemy_MediaIsrael Hayom Hebrew newspaper - Amit Segal: \"So when will we eliminate the drone threat?\" the Chief of Staff was asked recently, in the days when Hezbollah was daily striking Israeli army soldiers in southern Lebanon. He looked at the questioner with a look of pity. \"Approximately whe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785436511579,
+    "type": "drone",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Enemy_MediaIsrael Hayom Hebrew newspaper - Amit Segal: \"So when will we eliminate the drone threat?\" the Chief of Staff was asked recently, in the days when Hezbollah was daily striking Israeli army soldiers in southern Lebanon. He looked at the questioner with a look of pity. \"Approximately whe...",
+    "media": [],
     "verified": false
   }
 ]
