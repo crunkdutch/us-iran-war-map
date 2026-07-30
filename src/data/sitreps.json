@@ -316,6 +316,21 @@
     "verified": false
   },
   {
+    "id": 1785405489178,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Ministry of Health in Gaza:- The total number of casualties admitted to Gaza Strip hospitals in the past 24 hours:- Number of martyrs: 6 martyrs (4 new martyrs + 1 martyr succumbed to his wounds + 1 martyr recovered)- Number of injuries: 34 injuries.▪️ Since the ceasefire (October 11):• Total num...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -149811,6 +149826,606 @@
     "verified": false
   },
   {
+    "id": 1785399766606,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399736488,
+    "type": "drone",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399744274,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399697930,
+    "type": "drone",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399673139,
+    "type": "drone",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399736805,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399702055,
+    "type": "drone",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399755687,
+    "type": "drone",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399744424,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399693951,
+    "type": "drone",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-07-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last nightUpdates since 11PM Tehran time:• HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz• HIMARS US missile attack on Arvandkenar’s vicinity • US attacks on Kazerun and Farashband, Fars province. ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QPfP0jJ5K5ux2kjuNT_NpY7jy1LctdIPr4zWpk4xsKPK7BtPlQbB3YbNwQX3pFfWDKRsUxDm_rroNPq_SgN1TjYMd_1e0Ha1jaleO61bQrDKZSEyS7Ys5U_CSCChxJq03t4g7gCzvo5c6w1Wn2d6d6arMpZ2z7RaDzFh2s9NH87D-RBVV0J2mfIFmc-sFMpBwN_9I7vLQb9mc1sHr2-Zykv9SWMoomB2sXEndpGm_l9pCRyTK9SQRpqGvEKrd1xFOeWhnCoeTpI3dqSupAilC_LPo-hDJ9rJ1TQD6I1xpBpTQ1reSBmNkPQMd3iD7k1XWNW2ezoOiXGgs7Oojii9tA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/068c5a2283.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a2ed57cc7a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5f3aa203b2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b08fe5e811.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23362?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SNAQMxHN7KmgBP6EelSUASWg-4ykq5Z5W4dWX_zNpSyF-to8lvBF4k6-b9srINlLo7jRiWK8dlKKUXJAj74Co4pcfZoghYIWKUa5g_-142u8PLaHXwD8et4B78klUhmKMmdKR_oIXoHsWOsXDjInS5hkf3mYkRYkhn5w2-Ncz_EqGOh-YIzpYkdzQZGEx1j641YrWbbo5_jxdFjRE44jdpbzVt2zaaVeycC66B7Tajk5QrelmOGz6S7hqnUqkXvQsHDs6LTGTlP-Y82ivskXNvsOGZFBmhVG2ynJiZb5TaVsadpb9J3xAx_rLv8V-hRn4sLHTkpJdj6ITEGzbPaXeQ"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23363?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MAuwe1mEypTtHSUJvJxKri6kx2PTIoOmmVnkviu80hHnzC1xi5eg__BmmRwXj2DuU5ACYZQ6CTwAfVEyus-YqRa3a7_qbAmCGhb-L3m7bOj7wp5HEmQjpwpQDv042hUK0zSMe42wiBK68yDcljnRN0-MiKZHB4yjCtPmPEpvRaonRD43KUf8hl8i3lGmMAAuBJld2_TRMOxvXmTdxtEHbPhRk-TTjYtNiIdLC2rBKocJA6GCPr-QpBZIAQVReq6oGQgmvZlcM6-xbv4e_-O4n3U4NjhdD1dnim9696fOI6drJ2C7fV-Edncz3_o97JDGcWMMJydC6jGIdKSthiYYFw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23364?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dHuJYJiqirII3EXLtXRLk8OdLu5jyUHS30F1u6RiC6kifOf0-snelzKCkJsQbf0lHkB0_bsZFWBtvKpReslZCQnhL3aDhSI126Da1lXGBxmo3s7c3Yp4gPAlx46n4_7ZRRuDq8hkPKNqrqQNXhHK7WUzXFlQHlu_ZT1B12RNPepl0aqe8UibWsFpHFjWHjxImJ8zHNwjGr2PeOeNxzEst2rT3aAXLsWi7Bve_6-9IQ2VDuZe_261F2G7oMvwUEdBhPF-XGzzC81LBHvMVL8NzGkaU0Zh1dPaPv9Tl2pmx1Qxl7xvtmqD02JRqQMsuadx64ki2xBnMKYgb34c07ctTg"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23365?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V6fpFNGQF3wpuafxE29St3WdnPquH3i_Nd0fwCNrLbyRQTyshSJXTRz-fDMQ0IosMjnZSMbhTSnawt82X3zlw1Xi4BNqbgMMJOAnN5Q-0gh1jg14fSw9hIEMwimWhuTTJU-06wXU44mKhF4lDEhmDJzJ8pTF0As5KaQn6xKSFy4GGvucEbJcC5hSWCT4l3z5v6gxvO4Y9_rkowamTLYiDsvUF_UeFemEe0HKvxuOay781AfVbrnPZGftNLdNqiJn2Uwr6VN_6YpasZtToxhQifFw_jE6m42pWD5oLpeKTjMtqK7AnYHDM_tjbftS1Xqb5JIeWX_WbFyzTqsH0eyTnw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785208229481,
     "type": "rocket",
     "location": "Lebanon",
@@ -156308,6 +156923,165 @@
     "sourceUrl": "https://t.me/s/me_spectator",
     "description": "—❗️🇸🇦 NEW: Two unknown explosions were heard above Riyadh, Saudi Arabia; air traffic was temporarily put on hold@Middle_East_Spectator",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785404653325,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran expresses sympathy with Japan after deadly earthquake📌 Tehran, IRNA – Iran's Foreign Minister Abbas Araghchi has expressed sympathy with the Japanese government and people after a major earthquake left a trail of death and destruction in the southeast Asian nation.“I am deeply saddened by t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419720966,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last night Updates since 11PM Tehran time: • HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz • HIMARS US missile attack on Arvandkenar’s vicinity • US attacks…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6e7c961ced.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J49ByhiLXdxZu37W6u7q7WG-DZrIzS-LF_OtbG6sC_GG1nt9i8l6gXYOCZdWSdAC4GS1U3ZQyxbXQ8hJTYv39Yb61I5_AE_gj4AKZBZ-8GoIXN2ILsK-MtDnyaELucfPxWmy2FXfV-FRDfY6RO67bQCqYIVpMl0RtpsUe2XZbZoQanmjI4RGdDShw2haIwXk4X5dBybKWM0qReXE1CZgjhR_BqjXw4kXfdljl5l_pPHu49k4S3reZ1z6uylpvvi_-RlPB4V0CGUZWSO7zILUQFFahaO3caj8xHtIBTVhr5-zAM-yOmzCZX9Y7jeUQnBUJoQDSkT18ktNL3v9zuHcIw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23368",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J49ByhiLXdxZu37W6u7q7WG-DZrIzS-LF_OtbG6sC_GG1nt9i8l6gXYOCZdWSdAC4GS1U3ZQyxbXQ8hJTYv39Yb61I5_AE_gj4AKZBZ-8GoIXN2ILsK-MtDnyaELucfPxWmy2FXfV-FRDfY6RO67bQCqYIVpMl0RtpsUe2XZbZoQanmjI4RGdDShw2haIwXk4X5dBybKWM0qReXE1CZgjhR_BqjXw4kXfdljl5l_pPHu49k4S3reZ1z6uylpvvi_-RlPB4V0CGUZWSO7zILUQFFahaO3caj8xHtIBTVhr5-zAM-yOmzCZX9Y7jeUQnBUJoQDSkT18ktNL3v9zuHcIw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419706917,
+    "type": "missile",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last night Updates since 11PM Tehran time: • HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz • HIMARS US missile attack on Arvandkenar’s vicinity • US attacks…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6e7c961ced.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J49ByhiLXdxZu37W6u7q7WG-DZrIzS-LF_OtbG6sC_GG1nt9i8l6gXYOCZdWSdAC4GS1U3ZQyxbXQ8hJTYv39Yb61I5_AE_gj4AKZBZ-8GoIXN2ILsK-MtDnyaELucfPxWmy2FXfV-FRDfY6RO67bQCqYIVpMl0RtpsUe2XZbZoQanmjI4RGdDShw2haIwXk4X5dBybKWM0qReXE1CZgjhR_BqjXw4kXfdljl5l_pPHu49k4S3reZ1z6uylpvvi_-RlPB4V0CGUZWSO7zILUQFFahaO3caj8xHtIBTVhr5-zAM-yOmzCZX9Y7jeUQnBUJoQDSkT18ktNL3v9zuHcIw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23368",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J49ByhiLXdxZu37W6u7q7WG-DZrIzS-LF_OtbG6sC_GG1nt9i8l6gXYOCZdWSdAC4GS1U3ZQyxbXQ8hJTYv39Yb61I5_AE_gj4AKZBZ-8GoIXN2ILsK-MtDnyaELucfPxWmy2FXfV-FRDfY6RO67bQCqYIVpMl0RtpsUe2XZbZoQanmjI4RGdDShw2haIwXk4X5dBybKWM0qReXE1CZgjhR_BqjXw4kXfdljl5l_pPHu49k4S3reZ1z6uylpvvi_-RlPB4V0CGUZWSO7zILUQFFahaO3caj8xHtIBTVhr5-zAM-yOmzCZX9Y7jeUQnBUJoQDSkT18ktNL3v9zuHcIw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419678391,
+    "type": "missile",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇺🇸| Iran-US war update last night Updates since 11PM Tehran time: • HIMARS US missile attack on Abadan • HIMARS US missile attack on Shadegan’s vicinity • HIMARS US missile attack on Ahvaz • HIMARS US missile attack on Arvandkenar’s vicinity • US attacks…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6e7c961ced.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J49ByhiLXdxZu37W6u7q7WG-DZrIzS-LF_OtbG6sC_GG1nt9i8l6gXYOCZdWSdAC4GS1U3ZQyxbXQ8hJTYv39Yb61I5_AE_gj4AKZBZ-8GoIXN2ILsK-MtDnyaELucfPxWmy2FXfV-FRDfY6RO67bQCqYIVpMl0RtpsUe2XZbZoQanmjI4RGdDShw2haIwXk4X5dBybKWM0qReXE1CZgjhR_BqjXw4kXfdljl5l_pPHu49k4S3reZ1z6uylpvvi_-RlPB4V0CGUZWSO7zILUQFFahaO3caj8xHtIBTVhr5-zAM-yOmzCZX9Y7jeUQnBUJoQDSkT18ktNL3v9zuHcIw"
+      },
+      {
+        "url": "https://t.me/FotrosResistancee/23368",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J49ByhiLXdxZu37W6u7q7WG-DZrIzS-LF_OtbG6sC_GG1nt9i8l6gXYOCZdWSdAC4GS1U3ZQyxbXQ8hJTYv39Yb61I5_AE_gj4AKZBZ-8GoIXN2ILsK-MtDnyaELucfPxWmy2FXfV-FRDfY6RO67bQCqYIVpMl0RtpsUe2XZbZoQanmjI4RGdDShw2haIwXk4X5dBybKWM0qReXE1CZgjhR_BqjXw4kXfdljl5l_pPHu49k4S3reZ1z6uylpvvi_-RlPB4V0CGUZWSO7zILUQFFahaO3caj8xHtIBTVhr5-zAM-yOmzCZX9Y7jeUQnBUJoQDSkT18ktNL3v9zuHcIw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419728349,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "— 🇺🇸/🇯🇴/🇮🇷 NEW: Hundreds of Jordanian political, legal, and public figures have signed an open letter demanding the withdrawal of U.S. forces from JordanThey call the American presence a security, political, and economic risk pulling the country into a war it wants no part of.Most Jordanian ou...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Ssrxi7AhXYRxJPjAT0PgnmPqZp8P2PITo05_FAp3_nFmKag5LzRj7WVepUalFAuFBaEy2bwDthf3wZNgsh490yVrtHlsbu2oJ6Iw83pT7LhHtcFSPQq2z-hCfRusJd99_l9hHyyNBMFY5hLxWti8LUKd9VpncHxNXl03HtazHwvgkv2gnZv9RF0dHAKqy8f8YKBtwDnKfWQ14nYK3d4V10iza70N07CIAXbM00PgJWCubj_0StzmJ8bXT4Rz8I_hk4-FX4H_7AuqRAViEHB7r2ozX-8ddBW5Eiio59l_DxWWKB2S8QxsLHHaFvCGoA2ihJvORAKfCHJkiqu4qnAY0w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419652628,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew Newspaper:A mutiny has erupted at the Sde Teiman base following a dispute with the battalion commander. Over the past several hours, dozens of fighters and commanders from the Tzabar Battalion of the Givati Brigade laid down their weapons and left the base for \"thei...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/NWR2SxJ3eVfM22XpK1t2npRDZIRnykq10pc7gCdTf81DiIcVGAve-D8-8KrCylle-ap0csUy_JW_hkA5-3CBdjBIMixwp-SiLApgV_OmUI4HMswICAgSaPHnZpQOsjRhkCztnn1O9rsauhVzp0rwNaWUP00dx7DjDPstmYZyXVnJSgngggLxMrVjHpcP_aBvEY0bSiWZoa_zPX8hROJgxXYWLX_Z9XeHQDSl7u-Qq77RCPbY7Sub_PMjGE123ouOHnncSaHyCn7qsCS-qGV5kS8rIITn3ErtO9MviSSDbbhHiSduPI2fp14BpHoIRJV2stmILmMozeDi7XDPEnvaDg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419723406,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israel Hayom\" Hebrew Newspaper: A mutiny has erupted at the Sde Teiman base following a dispute with the battalion commander. Over the past several hours, dozens of fighters and commanders from the Tzabar Battalion of the Givati Brigade laid…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e9aaf3b7bf.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D0sASCz3K5wN_tPTKOxGB6BhuOMVLKE4jXN8ur8Vw7eJED8IPRYnTodDGRae7yEAhWmCXwqHd2l_J9XBug9q2GOi0pu9298YVcEuW_GywVoj7InH4qw0jEiZoC5SEq_KUff-vjkjbfQzh3P5cyzr_ww9C68_0CGlgN6Qs-lwHxHokRR50zBt_Eo22DH3J7HgmUwUovzoeriq7xkowfbT600S-H4bO2ZGRNoSbnBPJyheF-QLHOYTfLsHTIObLlrSX_x-EieHWmf-jyIt6rgQQkm9Cu_M3j1N2Y60kXxvQXwq8HgksP1QvgwuWbiPOCAjU-xeTYqT9ZvKfO61938wQQ"
+      },
+      {
+        "url": "https://t.me/mmirlb/40229",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D0sASCz3K5wN_tPTKOxGB6BhuOMVLKE4jXN8ur8Vw7eJED8IPRYnTodDGRae7yEAhWmCXwqHd2l_J9XBug9q2GOi0pu9298YVcEuW_GywVoj7InH4qw0jEiZoC5SEq_KUff-vjkjbfQzh3P5cyzr_ww9C68_0CGlgN6Qs-lwHxHokRR50zBt_Eo22DH3J7HgmUwUovzoeriq7xkowfbT600S-H4bO2ZGRNoSbnBPJyheF-QLHOYTfLsHTIObLlrSX_x-EieHWmf-jyIt6rgQQkm9Cu_M3j1N2Y60kXxvQXwq8HgksP1QvgwuWbiPOCAjU-xeTYqT9ZvKfO61938wQQ"
+      }
+    ],
     "verified": false
   },
   {
@@ -164495,6 +165269,422 @@
     "verified": false
   },
   {
+    "id": 1785404617674,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Security for Arbaeen pilgrims is fully ensured: Iraqi official📌 Qasr-e-Shirin, IRNA – The Iraqi Consul General in Iran's Kermanshah Province says the government in the Arab country has taken extensive measures to ensure security of millions of Arbaeen pilgrims converging on the holy city of Karb...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785404660290,
+    "type": "airstrike",
+    "location": "Kermanshah",
+    "coordinates": [
+      34.3,
+      47.1
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Security for Arbaeen pilgrims is fully ensured: Iraqi official📌 Qasr-e-Shirin, IRNA – The Iraqi Consul General in Iran's Kermanshah Province says the government in the Arab country has taken extensive measures to ensure security of millions of Arbaeen pilgrims converging on the holy city of Karb...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785404641875,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Security for Arbaeen pilgrims is fully ensured: Iraqi official📌 Qasr-e-Shirin, IRNA – The Iraqi Consul General in Iran's Kermanshah Province says the government in the Arab country has taken extensive measures to ensure security of millions of Arbaeen pilgrims converging on the holy city of Karb...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785404626060,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Security for Arbaeen pilgrims is fully ensured: Iraqi official📌 Qasr-e-Shirin, IRNA – The Iraqi Consul General in Iran's Kermanshah Province says the government in the Arab country has taken extensive measures to ensure security of millions of Arbaeen pilgrims converging on the holy city of Karb...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419640924,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-29",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran will never accept US-style ceasefire, will keep responding to aggressor: MP📌 Tehran, IRNA — Alaeddin Boroujerdi, a senior Iranian lawmaker and member of the Parliament’s National Security and Foreign Policy Commission, referring to the United States’ noncompliance with the commitment, says ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419713254,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran will never accept US-style ceasefire, will keep responding to aggressor: MP📌 Tehran, IRNA — Alaeddin Boroujerdi, a senior Iranian lawmaker and member of the Parliament’s National Security and Foreign Policy Commission, referring to the United States’ noncompliance with the commitment, says ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419733975,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC strike obliterates 3 US F-35s, kills troops in Jordan📌 Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419728161,
+    "type": "missile",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC strike obliterates 3 US F-35s, kills troops in Jordan📌 Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419669224,
+    "type": "missile",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC strike obliterates 3 US F-35s, kills troops in Jordan📌 Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419735306,
+    "type": "missile",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC strike obliterates 3 US F-35s, kills troops in Jordan📌 Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419702427,
+    "type": "missile",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC strike obliterates 3 US F-35s, kills troops in Jordan📌 Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419661629,
+    "type": "missile",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC strike obliterates 3 US F-35s, kills troops in Jordan📌 Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419677404,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC strike obliterates 3 US F-35s, kills troops in Jordan📌 Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419721379,
+    "type": "missile",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Footage shows aftermath of a US missile strike on civilian residences in Qeshm.As a result of the US attack on homes in Qeshm's Chah-Tangu, three members of the family were killed, while two of their children sustained injuries and were taken to a hospital for ongoing care.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9894646ac0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ruvxov7Mi5vu9rxJQvnLmP1kQDQh2ASve7mS6_7JhXEuUJD8A602hW5etGouP4DCAroHsNKVOvnG0g2gISxi55bkxoZdxJJJsgxus-JPZU7rMMrF86_z9q_MTu-MRzD8OXkrjxtvXMMrezOynVszxtPa301K7c0yvVVx21sLqaGptnxTUCNr393Um57YN-EH4sXFz9E_ZFKcYK_B0lKw1D4SKDDzlJKk9D8prAm74pnXCRjKxxJgVAEkVKLEZbDsiHf64lvhu6ELpFuQeaC7SA-FX_DJM82DF0EVB41MZWXVPI-croUaXAJ0g_sCm9WoKmidTBQmW8AAO1PM8Bx9OA"
+      },
+      {
+        "url": "https://t.me/Irna_en/37611",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ruvxov7Mi5vu9rxJQvnLmP1kQDQh2ASve7mS6_7JhXEuUJD8A602hW5etGouP4DCAroHsNKVOvnG0g2gISxi55bkxoZdxJJJsgxus-JPZU7rMMrF86_z9q_MTu-MRzD8OXkrjxtvXMMrezOynVszxtPa301K7c0yvVVx21sLqaGptnxTUCNr393Um57YN-EH4sXFz9E_ZFKcYK_B0lKw1D4SKDDzlJKk9D8prAm74pnXCRjKxxJgVAEkVKLEZbDsiHf64lvhu6ELpFuQeaC7SA-FX_DJM82DF0EVB41MZWXVPI-croUaXAJ0g_sCm9WoKmidTBQmW8AAO1PM8Bx9OA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419735450,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Footage from the US attack early on Th morning on the Farashband sports facility.Fars Governorate has confirmed that the strike caused no loss of life.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0d83d01baf.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fH-zr7A24qVH-EEofv7zOJ8K761oJ7NCHW2gjVVmY3iu75CoSpZdaQYNC5WaJ9ORfO9cvQ8t0n5GZMl8ecpMA33ZQdjFrkTUdrgbuCNyTrA19h5yS-pFMh0TIoeb4C0UpuTDdFlssiYbyAljr_lVOjWL0XpyzyAw6qypalsuaOMjxomydF70F4_pFoJ40GGF-s0UDnPUtHt_HEgiEoDDFZ1MVksCdBpuhTlYCY8effERe4Omp3hvY_6EiNw6i9-IhtV80SAqmB2UU-WI3z6bXjT17gR1S0lWcgJpec-gB208ewFEcnImGxZS2Peqs0BxL_P44qo8dGY_wvtohk3diQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/37612",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fH-zr7A24qVH-EEofv7zOJ8K761oJ7NCHW2gjVVmY3iu75CoSpZdaQYNC5WaJ9ORfO9cvQ8t0n5GZMl8ecpMA33ZQdjFrkTUdrgbuCNyTrA19h5yS-pFMh0TIoeb4C0UpuTDdFlssiYbyAljr_lVOjWL0XpyzyAw6qypalsuaOMjxomydF70F4_pFoJ40GGF-s0UDnPUtHt_HEgiEoDDFZ1MVksCdBpuhTlYCY8effERe4Omp3hvY_6EiNw6i9-IhtV80SAqmB2UU-WI3z6bXjT17gR1S0lWcgJpec-gB208ewFEcnImGxZS2Peqs0BxL_P44qo8dGY_wvtohk3diQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419711463,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 US missile strike on Qeshm kills 3 family members, says Iranian official📌 Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.Ahmad Nafisi said on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419700223,
+    "type": "missile",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 US missile strike on Qeshm kills 3 family members, says Iranian official📌 Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.Ahmad Nafisi said on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419716091,
+    "type": "missile",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 US missile strike on Qeshm kills 3 family members, says Iranian official📌 Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.Ahmad Nafisi said on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419644376,
+    "type": "missile",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 US missile strike on Qeshm kills 3 family members, says Iranian official📌 Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.Ahmad Nafisi said on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419686139,
+    "type": "missile",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 US missile strike on Qeshm kills 3 family members, says Iranian official📌 Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.Ahmad Nafisi said on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419684283,
+    "type": "missile",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 US missile strike on Qeshm kills 3 family members, says Iranian official📌 Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.Ahmad Nafisi said on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419718411,
+    "type": "missile",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 US missile strike on Qeshm kills 3 family members, says Iranian official📌 Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.Ahmad Nafisi said on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419647409,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇺🇸/🇮🇷 NEW: In an American strike on a civilian area in Qeshm last night, an Iranian family was martyred@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/aitXW_DflRzX37kQsPG-m0CDLf1n9OHkfyl2pHkcda12SFFE67X_B6GYbJuSG-y71_ztk2hqGkQ9BqLfKUbeZGrTMy600_3K1skK2GxMu6N-BdeTtHPGzpBW0jOiNEWFEYU5chi0elJjs7IBo3MBa3GLB0Wvf5utSxYrAZSpDKOnr8N7fnlAwXpZwYsJ3m3kPKLrcHlb0rhflXsMs9NR5pq4JakQ-ODxf3tfYbkTHe1gyH-p6076P6xfZYE7dWEJl8n-U3ztZs0yqA7fjeqmy0An_bi58-hevtomiIGhWcyOTEbdumGNHkZ90o02CZYB6pFLyHcyPNiibn_LfVbBuQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UK8rQaGqCmlmDxNWdv9Nh9_aw5-ZCsiyOz17uNRYJ_2aS1gUTHAAKc0JVWoFGBsRujJyNEnb5WmtNofBcsoWU8NuC-tSvcSiCj14kTqzbUdRDSnVy03EWcY16zmsTzVh58y0XYBqSYsGE8bfmrYZQvygnRs-rpIx_F4_5K4FhfvuoaX5HQWQWPt6_x1l68iv34fTR37-sMFShfT9vgRmCu0dkcoIuvCvvNGhbnkB3yjztoyMHEYYCnD1PUHNRcNS0TD5TrB5zYGfd5NSg5sXgxLgd7ebj6ecFNrlARjYeNEA4L-ISdEkiSIjGKIQIbC4GZDM-Tlk4oefsEFohDIRkA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419726149,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇮🇶/🇸🇦 NEW: Iraq has begun the first phase of its retaliation against Saudi Arabia@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/et1-M2LPS6BVxxDq_Zgfk3n0GhSRZjQ7QqdisoxQGXuPUG6P3Sd67oDyKHU-fZKgyiMQ5qxGDHMzwoq6HhNtyt5jkx8klL2Tfzfn0rFwsGf-mlU1PNzM9l75YX8SnRmbSaBM-nifhEWtIt-GTjgiT4e-s4RTdy_h9asJwIXQmFb3XvQl6lrGtYCpJeFs8QulzmI0wf1VlhWx6DKAr2LXXqBdeBsQFd4YETeVI2Py3cIm140QYsSxv9gHw3dc-lW3rQPjSHz8HH0tlUhGuGThm5SeC2hdXSwiyKnkQIuTacJ2f6ylD85tgBmPJk1ovMrxQVTjHD3CGo6rQKZhPnuHag.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419648452,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇮🇶/🇸🇦 NEW: Iraq has begun the first phase of its retaliation against Saudi Arabia@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/et1-M2LPS6BVxxDq_Zgfk3n0GhSRZjQ7QqdisoxQGXuPUG6P3Sd67oDyKHU-fZKgyiMQ5qxGDHMzwoq6HhNtyt5jkx8klL2Tfzfn0rFwsGf-mlU1PNzM9l75YX8SnRmbSaBM-nifhEWtIt-GTjgiT4e-s4RTdy_h9asJwIXQmFb3XvQl6lrGtYCpJeFs8QulzmI0wf1VlhWx6DKAr2LXXqBdeBsQFd4YETeVI2Py3cIm140QYsSxv9gHw3dc-lW3rQPjSHz8HH0tlUhGuGThm5SeC2hdXSwiyKnkQIuTacJ2f6ylD85tgBmPJk1ovMrxQVTjHD3CGo6rQKZhPnuHag.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -166126,6 +167316,675 @@
     "media": [
       {
         "url": "https://cdn4.telesco.pe/file/US2sHKvWlhoAzGwpcpxDTJ6VyAPMjRyWX1b5FdDXZ_lR-_s1Z53dq7w9n293jRb7Bt_DGeQj7FRfkxlhCrVEYMJRBhgY_2lA3WzVsr-E66aUzIxJ46p_KMBbQbGtvnOf89E5dTjkyFfVgjLUeYxY7Q29Wpz8Ef6hrbvD2gDYwcw1q943qGjyotpYxMke99tsa0yPmYzaytsPKca1OQDTExmfeOYdn_oXNnnOw1PaWMmJGB58l0MRa3wrg-W3n4UVn95Q9zLwFQF9g_1n0D2R3g00W_80mvxO1wKoYgeF393jGA4aLQQZFrpB1gEUG3L1cBUa3YDnkcMUKxdBEO9n4A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399703594,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The locals gathered after a raid by the occupation aircraft targeted a tent in the vicinity of Al-Yarmouk Stadium in Gaza City",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QLL2j7IA70LYVQDmc6XAFLXqgX9Vo91C3AuRYmaYygUbcgd-XBy7BfFHZUi7gts94d78WkvWVp_HXO5QCRls9RrbH-B4jnXQWeqxpDx5qOOnm9b_JzUIpAYOuVaf6MZFChLegqwBd6JTNRLXMizcbnzFjani_8dHEbMddzZP7lmbQJk0acb-Ap_mpJeiVQbGhZfslJHqWHaVmSr55kfRW14HFYB8ZJAbov1Yc3KI_MC6cnQJN5VslVePJ4me2NjNsyyapWtTFk6_2sW_fu0QdEkdhCG7IAEwaOB2PRfVKnPxgfL1mZyc_AoCk-Bv5YeQFrBGD3vMwE3IouSAHge7eA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ijJGdcFNoJfmEoaPU2rLG6Z66XwFl1abSXCrMyLzP3qGP1eKONpbOaUb52hE-q_mjIuTHrCzx0dNiySPCFpjfTMLWdAB-rBrNueDLUsz3XPifc-fBdFFq-AYL4M3-ksZN9xhcVhrsBlLuZODFgY3Fe_a4MeZoCwgSCHaQVpngxEbdDQOZTy6VR7ewlSLkn-i9R4A2zLB_k6--3omz0QgKtCftXxKTjfrWIT9XZ6Uvd5Yf5xteBFQ-1COEpBsmNpuElzznVNu8mmXwBIl_HOxB22nTyPIp2Cvex2-xTLWWHxqqUfq6kDKJRonjd9s6_xbNdDPhAEpja6v-tLDnkzIrA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399687432,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Unit 55 of the Israeli regime's army identified dozens of Hezbollah weapons in the heart of civilian infrastructure in the Majdal area of southern Lebanon.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1057958",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Vj_2d14_nZAKfyCpHMgA9tqO65XZXKHW1O1esr_KywPBCbM-PYcV9b0o1I2_ARhw-gMye1RlhMI-x1dJO-ag_GvGf-yrOC7idjnLQiU81rOYEDtVxpSg40SjYxm5dB18GKDeMQyRUmpBJxl38qfRDLl6fV5hxfvPF-ZU8DdLLnfAlz1z-z1jwp2JiyHebrl76Twa9F-0ShKAkhan7RLhO7qMDIhqO_5TrwVGxOANbmPX-MZeSRvNHWRI7fItEteDQLiu1TpdRcw5CDO18t96LRTYtUG-QON-RWxw8PWMrq3vTPyP1wjWHSlaYZtKw9aIK6PbpV30Rteaq91ww-gpUg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399766159,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Unit 55 of the Israeli regime's army identified dozens of Hezbollah weapons in the heart of civilian infrastructure in the Majdal area of southern Lebanon.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1057958",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Vj_2d14_nZAKfyCpHMgA9tqO65XZXKHW1O1esr_KywPBCbM-PYcV9b0o1I2_ARhw-gMye1RlhMI-x1dJO-ag_GvGf-yrOC7idjnLQiU81rOYEDtVxpSg40SjYxm5dB18GKDeMQyRUmpBJxl38qfRDLl6fV5hxfvPF-ZU8DdLLnfAlz1z-z1jwp2JiyHebrl76Twa9F-0ShKAkhan7RLhO7qMDIhqO_5TrwVGxOANbmPX-MZeSRvNHWRI7fItEteDQLiu1TpdRcw5CDO18t96LRTYtUG-QON-RWxw8PWMrq3vTPyP1wjWHSlaYZtKw9aIK6PbpV30Rteaq91ww-gpUg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399737213,
+    "type": "intercept",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The New York Times: Hundreds of Jordanian political, legal, and public figures have signed an open letter demanding the withdrawal of American forces from Jordan. They consider the American presence a security, political, and economic danger that is dragging the country into a war in which it wan...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/M_El-pyBigbt5csJqXPmiyEhOeRo0lBT-XpxcuSY5XdgpVTWNOXE4LWHRDUtJ2oV0wWchLsefViK9XT8bsEYwLakd8yZDOTkTjWLJGrwIqk2Yelt2kzWcKrq4HW_wJWXeKMvm08Va4O3YEoHRQUzc9KL-msPjuyVvX12uUgHbkR0mi7bqF_Fvh9R75kudx8SmTrLygUv7yi21kKfcpaeQga5vVxrEfWYbn0JpogouVzB_sOAe1JgUcHgab9wpBtQffBEZViA45KmU6YjylaIbnYw63HcncUt69OXlqFu16UkPQGvO5bCefyj8teRbCjGFL50xCqXEw0S57q-m7UVZQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785399702912,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 4 martyrs, including two children, and more than 20 injured in the Gaza Strip since dawn today.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785405521680,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Urgent | Abd al-Rahman al-Kurd was martyred as a result of an Israeli drone strike on a bicycle on al-Wahda Street in Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785405501081,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Urgent | Abd al-Rahman al-Kurd was martyred as a result of an Israeli drone strike on a bicycle on al-Wahda Street in Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785405490537,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫 A large fire has occurred in a warehouse on the Erbil-Kirkuk road.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/49f0e4a56a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fck-WDQueMYcx00Ese5OykyJ_scLeE_-GSsFie_jiRAro5hyo5FpJ7AYzcX3Ozr3EpC4vUuo3J0ABxMZVPbfm2XSCK1Jg-hfi734so_QWm6m_vpe1Fwypc2uKvHClRAA4E7ARHKpGbXVwmQSy9yMcP3e2DYyGcjK8tlHp4VcM7-hH-ETJwzj8KOa25lN8y9okW1fvJHIEM02YJWODoME1hED-ehCVedGtE53MKJKMgK9jW1tWWHPja8EevmmxmVuJ4kA9iZWyUjQJndGLP1k62kORL1cgR_L5FdXPSAPafpdCw93uWHqmZOfDid7nY_K95WTQ4VBlHHrtWS3vQHUxA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058012",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fck-WDQueMYcx00Ese5OykyJ_scLeE_-GSsFie_jiRAro5hyo5FpJ7AYzcX3Ozr3EpC4vUuo3J0ABxMZVPbfm2XSCK1Jg-hfi734so_QWm6m_vpe1Fwypc2uKvHClRAA4E7ARHKpGbXVwmQSy9yMcP3e2DYyGcjK8tlHp4VcM7-hH-ETJwzj8KOa25lN8y9okW1fvJHIEM02YJWODoME1hED-ehCVedGtE53MKJKMgK9jW1tWWHPja8EevmmxmVuJ4kA9iZWyUjQJndGLP1k62kORL1cgR_L5FdXPSAPafpdCw93uWHqmZOfDid7nY_K95WTQ4VBlHHrtWS3vQHUxA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785405483393,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli vehicles approach Salah al-Din Street in the vicinity of the Gaza Valley Bridge.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1c59a34a7e.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iEuHIGX_D6TSUULv7MF7di0YzNHn5JM_0uZN5ScTB3tdwvQcFe_mUg91HdFU8NY22SfGjCjoDVnEPRdNslx7xZ1g-HPkZVkOZW2v8F55IKG41BiSM-jJBpeMDfMlYO8KBSHU3lMtswzuTa4KgoyhOzOq4SaIXG-zKAhkw3TaaTmwM6H3quLcIRf2H3wL31m94QueIhwQa4FizG9q88AS2OUNmRye04-zlTe3KQ5pzfyxDHc_Zl4ouJEwybOPJXSkROatRJv8Q-1O-nu2eT-xb2VrnRE3epsB7NWmRHyIG4lfAkkAlRNSB17EjCA6oTSb4nZ4E6qqF_m8U_3N1Ae-iQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058013",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iEuHIGX_D6TSUULv7MF7di0YzNHn5JM_0uZN5ScTB3tdwvQcFe_mUg91HdFU8NY22SfGjCjoDVnEPRdNslx7xZ1g-HPkZVkOZW2v8F55IKG41BiSM-jJBpeMDfMlYO8KBSHU3lMtswzuTa4KgoyhOzOq4SaIXG-zKAhkw3TaaTmwM6H3quLcIRf2H3wL31m94QueIhwQa4FizG9q88AS2OUNmRye04-zlTe3KQ5pzfyxDHc_Zl4ouJEwybOPJXSkROatRJv8Q-1O-nu2eT-xb2VrnRE3epsB7NWmRHyIG4lfAkkAlRNSB17EjCA6oTSb4nZ4E6qqF_m8U_3N1Ae-iQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419701683,
+    "type": "missile",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Statement No. 55To the honorable and vigilant people of Jordan:Your solidarity and sincere cooperation, especially the clear positions taken by a number of Jordanian intellectuals, have tightened the noose around the enemy and placed it in a position of weakness.At dawn today, the americ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/66c62c7834.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UHubdkhWJVJnGTnkl0Ma0O_6qC9NGvET1-flF6EOAAoRmEE-OwHIf-AhyI1xUVxxoQG2cXwArrlsf4OFE3I96we_sz7acPiGo_CqBZCMTVL3pBoBo8HToLaZNccfRwFbKXTREybP0htlXZimlRcNlhK-CNB3wmU_QPxm79DU8k0ETjH_pedixcEokDGiam0lNypDiIJcQLFqoE_uOSYt0FWhT50-yr7PeY0LQesaPlfklc9sSLzyYDgtXNt7lNTtkDd209poSAX5htRrl9UIBydLnGFkfj03QwMn968GMw6WkwU2sp7SefROUflbO3j8JGDKaM0fvHVL53s0qChHXA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60555",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UHubdkhWJVJnGTnkl0Ma0O_6qC9NGvET1-flF6EOAAoRmEE-OwHIf-AhyI1xUVxxoQG2cXwArrlsf4OFE3I96we_sz7acPiGo_CqBZCMTVL3pBoBo8HToLaZNccfRwFbKXTREybP0htlXZimlRcNlhK-CNB3wmU_QPxm79DU8k0ETjH_pedixcEokDGiam0lNypDiIJcQLFqoE_uOSYt0FWhT50-yr7PeY0LQesaPlfklc9sSLzyYDgtXNt7lNTtkDd209poSAX5htRrl9UIBydLnGFkfj03QwMn968GMw6WkwU2sp7SefROUflbO3j8JGDKaM0fvHVL53s0qChHXA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419703410,
+    "type": "missile",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Statement No. 55To the honorable and vigilant people of Jordan:Your solidarity and sincere cooperation, especially the clear positions taken by a number of Jordanian intellectuals, have tightened the noose around the enemy and placed it in a position of weakness.At dawn today, the americ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/66c62c7834.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UHubdkhWJVJnGTnkl0Ma0O_6qC9NGvET1-flF6EOAAoRmEE-OwHIf-AhyI1xUVxxoQG2cXwArrlsf4OFE3I96we_sz7acPiGo_CqBZCMTVL3pBoBo8HToLaZNccfRwFbKXTREybP0htlXZimlRcNlhK-CNB3wmU_QPxm79DU8k0ETjH_pedixcEokDGiam0lNypDiIJcQLFqoE_uOSYt0FWhT50-yr7PeY0LQesaPlfklc9sSLzyYDgtXNt7lNTtkDd209poSAX5htRrl9UIBydLnGFkfj03QwMn968GMw6WkwU2sp7SefROUflbO3j8JGDKaM0fvHVL53s0qChHXA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60555",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UHubdkhWJVJnGTnkl0Ma0O_6qC9NGvET1-flF6EOAAoRmEE-OwHIf-AhyI1xUVxxoQG2cXwArrlsf4OFE3I96we_sz7acPiGo_CqBZCMTVL3pBoBo8HToLaZNccfRwFbKXTREybP0htlXZimlRcNlhK-CNB3wmU_QPxm79DU8k0ETjH_pedixcEokDGiam0lNypDiIJcQLFqoE_uOSYt0FWhT50-yr7PeY0LQesaPlfklc9sSLzyYDgtXNt7lNTtkDd209poSAX5htRrl9UIBydLnGFkfj03QwMn968GMw6WkwU2sp7SefROUflbO3j8JGDKaM0fvHVL53s0qChHXA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419659957,
+    "type": "missile",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Statement No. 55To the honorable and vigilant people of Jordan:Your solidarity and sincere cooperation, especially the clear positions taken by a number of Jordanian intellectuals, have tightened the noose around the enemy and placed it in a position of weakness.At dawn today, the americ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/66c62c7834.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UHubdkhWJVJnGTnkl0Ma0O_6qC9NGvET1-flF6EOAAoRmEE-OwHIf-AhyI1xUVxxoQG2cXwArrlsf4OFE3I96we_sz7acPiGo_CqBZCMTVL3pBoBo8HToLaZNccfRwFbKXTREybP0htlXZimlRcNlhK-CNB3wmU_QPxm79DU8k0ETjH_pedixcEokDGiam0lNypDiIJcQLFqoE_uOSYt0FWhT50-yr7PeY0LQesaPlfklc9sSLzyYDgtXNt7lNTtkDd209poSAX5htRrl9UIBydLnGFkfj03QwMn968GMw6WkwU2sp7SefROUflbO3j8JGDKaM0fvHVL53s0qChHXA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60555",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UHubdkhWJVJnGTnkl0Ma0O_6qC9NGvET1-flF6EOAAoRmEE-OwHIf-AhyI1xUVxxoQG2cXwArrlsf4OFE3I96we_sz7acPiGo_CqBZCMTVL3pBoBo8HToLaZNccfRwFbKXTREybP0htlXZimlRcNlhK-CNB3wmU_QPxm79DU8k0ETjH_pedixcEokDGiam0lNypDiIJcQLFqoE_uOSYt0FWhT50-yr7PeY0LQesaPlfklc9sSLzyYDgtXNt7lNTtkDd209poSAX5htRrl9UIBydLnGFkfj03QwMn968GMw6WkwU2sp7SefROUflbO3j8JGDKaM0fvHVL53s0qChHXA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419658372,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Statement No. 55To the honorable and vigilant people of Jordan:Your solidarity and sincere cooperation, especially the clear positions taken by a number of Jordanian intellectuals, have tightened the noose around the enemy and placed it in a position of weakness.At dawn today, the americ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/66c62c7834.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UHubdkhWJVJnGTnkl0Ma0O_6qC9NGvET1-flF6EOAAoRmEE-OwHIf-AhyI1xUVxxoQG2cXwArrlsf4OFE3I96we_sz7acPiGo_CqBZCMTVL3pBoBo8HToLaZNccfRwFbKXTREybP0htlXZimlRcNlhK-CNB3wmU_QPxm79DU8k0ETjH_pedixcEokDGiam0lNypDiIJcQLFqoE_uOSYt0FWhT50-yr7PeY0LQesaPlfklc9sSLzyYDgtXNt7lNTtkDd209poSAX5htRrl9UIBydLnGFkfj03QwMn968GMw6WkwU2sp7SefROUflbO3j8JGDKaM0fvHVL53s0qChHXA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60555",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UHubdkhWJVJnGTnkl0Ma0O_6qC9NGvET1-flF6EOAAoRmEE-OwHIf-AhyI1xUVxxoQG2cXwArrlsf4OFE3I96we_sz7acPiGo_CqBZCMTVL3pBoBo8HToLaZNccfRwFbKXTREybP0htlXZimlRcNlhK-CNB3wmU_QPxm79DU8k0ETjH_pedixcEokDGiam0lNypDiIJcQLFqoE_uOSYt0FWhT50-yr7PeY0LQesaPlfklc9sSLzyYDgtXNt7lNTtkDd209poSAX5htRrl9UIBydLnGFkfj03QwMn968GMw6WkwU2sp7SefROUflbO3j8JGDKaM0fvHVL53s0qChHXA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419730508,
+    "type": "intercept",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🏴| In last night’s American strike on a civilian area in Qeshm, an Iranian family was martyred. During the overnight attacks, three members of the Islamic Revolutionary Guard Corps (IRGC) Air Defense Unit of the 36th Ansar al-Mahdi Brigade (Zanjan) were also martyred: Martyr Colonel Mahmoud M...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/T0-ORbOhCzoPXudtiIf6uWs_JMaYY1tuE9WHdmEIPeI-Rdv6LvKcVKLhf7irTxpxArpzt0AivJqxK1aby3JKzxIcZ8rvw7lTrGvXGiIWWgykGEXzy-GTZtWJrc9ofmo5iL6RWgTuSHTSQHFdTYQDmwDS4jjcMYV5_9Cs-AhpaKzewElj8BTCyWYjdem0aTvzq97ItMoY3bGx2fyPlO6e_uDqqpm-NujzUKMXP6NBID5z5SXkTnzrl4rpJ6k2L8dSvTU-EgQnAehDqsW2Hs8AuVmGxT5TuVa2WZMj-AOJnMD0ceY-ZHnvPfvt8svjbBJkQY6z9cS6H69GupyDnysI3g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419730987,
+    "type": "intercept",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🏴| In last night’s American strike on a civilian area in Qeshm, an Iranian family was martyred. During the overnight attacks, three members of the Islamic Revolutionary Guard Corps (IRGC) Air Defense Unit of the 36th Ansar al-Mahdi Brigade (Zanjan) were also martyred: Martyr Colonel Mahmoud M...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/T0-ORbOhCzoPXudtiIf6uWs_JMaYY1tuE9WHdmEIPeI-Rdv6LvKcVKLhf7irTxpxArpzt0AivJqxK1aby3JKzxIcZ8rvw7lTrGvXGiIWWgykGEXzy-GTZtWJrc9ofmo5iL6RWgTuSHTSQHFdTYQDmwDS4jjcMYV5_9Cs-AhpaKzewElj8BTCyWYjdem0aTvzq97ItMoY3bGx2fyPlO6e_uDqqpm-NujzUKMXP6NBID5z5SXkTnzrl4rpJ6k2L8dSvTU-EgQnAehDqsW2Hs8AuVmGxT5TuVa2WZMj-AOJnMD0ceY-ZHnvPfvt8svjbBJkQY6z9cS6H69GupyDnysI3g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419659001,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Leader of Yemen's Ansarullah: US and Saudi Attacks on Iraq Are \"Treacherous\" and OppressiveSayyed Abdul-Malik Badr al-Din al-Houthi:The US and Saudi attacks on Iraq are \"treacherous\" and oppressive, and we express our sympathy with the Iraqi nation, security forces, and families of martyrs.The en...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419700686,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Leader of Yemen's Ansarullah: US and Saudi Attacks on Iraq Are \"Treacherous\" and OppressiveSayyed Abdul-Malik Badr al-Din al-Houthi:The US and Saudi attacks on Iraq are \"treacherous\" and oppressive, and we express our sympathy with the Iraqi nation, security forces, and families of martyrs.The en...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419664540,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Leader of Yemen's Ansarullah: US and Saudi Attacks on Iraq Are \"Treacherous\" and OppressiveSayyed Abdul-Malik Badr al-Din al-Houthi:The US and Saudi attacks on Iraq are \"treacherous\" and oppressive, and we express our sympathy with the Iraqi nation, security forces, and families of martyrs.The en...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419712716,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: Sayyed al-Houthi: The Israeli enemy continues its crimes, aggression, and various atrocities against the Palestinian people.• 13:22 — Yemen: Sayyed al-Houthi: The nation is supposed to confront the aggressive Zionist entity as a nation aware of the exposed Zionist scheme that targets it. (...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419714016,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: Sayyed al-Houthi: The Israeli enemy continues its crimes, aggression, and various atrocities against the Palestinian people.• 13:22 — Yemen: Sayyed al-Houthi: The nation is supposed to confront the aggressive Zionist entity as a nation aware of the exposed Zionist scheme that targets it. (...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419642887,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Satellite images show that the damage to the Abqaiq refinery in Saudi Arabia is greater than just damage to pressure tanks, as the damage appears in multiple areas. It is likely that the refinery will remain out of service for some time.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/108dde275a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ujPP4fnVqO172qNyvHp6EHv5T5lCmCzEIftqPaU7CcrlZoFqPwII25J23rEeaXJL3cgzZ9z6fQpYFZqUTkthFD2xaYrpcz6rZ0sYYY9CeBlLWtiiMc9pOLtVYbgDfozV2SLzcMKV5MgZGm8SM1A5PJ6MVUfn9Y_22xd4u1T_V7FgCPmYcOZBKkXvtDO2LKxQ6SeBnt6T2-NJstiWgQ1RrhHi5c5bLUwemeCrtIG8xmbVM1Xn_nGwL05xMztuG1LVxl2GM5MooN4ztx0ztSuYTeIfsFbRM3qFwts3CJaZoon7zYKmAa8EIjw957yaKh5VEEzQT671_eRovXiReRKZHQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/8349617d7b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ujPP4fnVqO172qNyvHp6EHv5T5lCmCzEIftqPaU7CcrlZoFqPwII25J23rEeaXJL3cgzZ9z6fQpYFZqUTkthFD2xaYrpcz6rZ0sYYY9CeBlLWtiiMc9pOLtVYbgDfozV2SLzcMKV5MgZGm8SM1A5PJ6MVUfn9Y_22xd4u1T_V7FgCPmYcOZBKkXvtDO2LKxQ6SeBnt6T2-NJstiWgQ1RrhHi5c5bLUwemeCrtIG8xmbVM1Xn_nGwL05xMztuG1LVxl2GM5MooN4ztx0ztSuYTeIfsFbRM3qFwts3CJaZoon7zYKmAa8EIjw957yaKh5VEEzQT671_eRovXiReRKZHQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058136?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ujPP4fnVqO172qNyvHp6EHv5T5lCmCzEIftqPaU7CcrlZoFqPwII25J23rEeaXJL3cgzZ9z6fQpYFZqUTkthFD2xaYrpcz6rZ0sYYY9CeBlLWtiiMc9pOLtVYbgDfozV2SLzcMKV5MgZGm8SM1A5PJ6MVUfn9Y_22xd4u1T_V7FgCPmYcOZBKkXvtDO2LKxQ6SeBnt6T2-NJstiWgQ1RrhHi5c5bLUwemeCrtIG8xmbVM1Xn_nGwL05xMztuG1LVxl2GM5MooN4ztx0ztSuYTeIfsFbRM3qFwts3CJaZoon7zYKmAa8EIjw957yaKh5VEEzQT671_eRovXiReRKZHQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058137?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Q-l4Bo7A5t14HZaWUTbf875Mza5WjWKsD3-sya1e6lBnE6vyqoTZURnO8QSL3ic3CunMdU3SkxYbFKny5pqWuEgnLuCRhXnvdULs5fZSmmPxYURHWqaZ29KvwWfT5nt0PaOT39mCaTy5ozeZ9TONeeUAWC62xvDpXZRzNG-oIUGQ0oCVvCMJwSb5gUVkoU130ixG3RaIZI0U7STaGkEkJAkapU0MVbb-p8i_tb0XG4TXS5x_tTSZwzaHsxDe725BgZA02yywNxCpQYYAeiZfJunyuZnUoTPw41-oJZegYyJx2WHQp1pJiStHzjr_16_FZZDF0hV1AOamJBPUTHxUCA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419665064,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: Sayyed al-Houthi: No party has the right to confiscate the humanitarian rights of our people, which are recognized rights in international covenants and laws.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419727584,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Unfortunately, we were unable to complete the amount for the drinking water truck for our people in the northern Gaza Strip for tomorrow.We received...5 shekels1000 Egyptian pounds, equivalent",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419652661,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: Al-Houthi: The aggression against Iran, Lebanon, and Palestine is part of a path aimed at removing obstacles that prevent the achievement of its goals in the region. • 13:19 — Yemen: Al-Houthi: Zionist brutality and American-Israeli aggression against…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419637538,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: Al-Houthi: The aggression against Iran, Lebanon, and Palestine is part of a path aimed at removing obstacles that prevent the achievement of its goals in the region. • 13:19 — Yemen: Al-Houthi: Zionist brutality and American-Israeli aggression against…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419662883,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: Al-Houthi: The aggression against Iran, Lebanon, and Palestine is part of a path aimed at removing obstacles that prevent the achievement of its goals in the region. • 13:19 — Yemen: Al-Houthi: Zionist brutality and American-Israeli aggression against…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419715742,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇱An Israeli ambulance driver has been arrested on charges of espionage and carrying out intelligence-gathering missions for Iran.According to the \"Yedioth Ahronoth\" newspaper, the 34-year-old individual exploited his access to hospitals to gather intelligence and photograph sensitive locations.@S...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419675285,
+    "type": "intercept",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🏴🇮🇷🏴Three Sepah (IRGC) members from the air defense unit of the 36th Ansar al-Mahdi Brigade (Zanjan) were martyred during US attacks overnight.⚫️Martyr Colonel Mahmoud Mollajabbari⚫️Martyr Major Mohammad-Reza Cheraghi⚫️Martyr Captain Jamal Amiri@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785419734810,
+    "type": "missile",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇺🇸| BREAKING: IRGC says it struck 3 F-35 US fighter jetsIRGC announced Iranian missile struck the Muwaffaq al Salti Air Base, in Jordan, targeting & destroying 3 US F-35 fighter jets & damaging 3 others. The attack also killed several US officers & technicians.This was in retaliation for the U...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6e7c961ced.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y72MIW_AICl7JkJ-md6qsDcM569XuGm3d68VqP73oh5VrzL4YWbJMDnOPbWEQ8LeMM-DyhbbFhervz2WQuWqOH-Avgvq1cEKkrOuoadkpC2mmj1N5QMmHD1OfD2Dt8sRU5ugFCTK6WSorfD0WMmeneQcct-mfmmydBMuofl1iisokHyA7WYvxQQ4kiHg6hmwJNqZ3Uqpy8Iw0UPnKghXTjCF-X5dP7E394wi0SKC4iNlDI0nsurai4BaHsIT16MPeZzLxYqsW6HwVPOKkFVNRcEiTLB-qFAdN-oIG2WY59--nDysiDNS28MssxZUBJebh5tD_-h2H6Fiq_ZbDFeLHA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8296",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y72MIW_AICl7JkJ-md6qsDcM569XuGm3d68VqP73oh5VrzL4YWbJMDnOPbWEQ8LeMM-DyhbbFhervz2WQuWqOH-Avgvq1cEKkrOuoadkpC2mmj1N5QMmHD1OfD2Dt8sRU5ugFCTK6WSorfD0WMmeneQcct-mfmmydBMuofl1iisokHyA7WYvxQQ4kiHg6hmwJNqZ3Uqpy8Iw0UPnKghXTjCF-X5dP7E394wi0SKC4iNlDI0nsurai4BaHsIT16MPeZzLxYqsW6HwVPOKkFVNRcEiTLB-qFAdN-oIG2WY59--nDysiDNS28MssxZUBJebh5tD_-h2H6Fiq_ZbDFeLHA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419733769,
+    "type": "missile",
+    "location": "Muwaffaq al Salti Air Base",
+    "coordinates": [
+      31.8825,
+      36.0444
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇺🇸| BREAKING: IRGC says it struck 3 F-35 US fighter jetsIRGC announced Iranian missile struck the Muwaffaq al Salti Air Base, in Jordan, targeting & destroying 3 US F-35 fighter jets & damaging 3 others. The attack also killed several US officers & technicians.This was in retaliation for the U...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6e7c961ced.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y72MIW_AICl7JkJ-md6qsDcM569XuGm3d68VqP73oh5VrzL4YWbJMDnOPbWEQ8LeMM-DyhbbFhervz2WQuWqOH-Avgvq1cEKkrOuoadkpC2mmj1N5QMmHD1OfD2Dt8sRU5ugFCTK6WSorfD0WMmeneQcct-mfmmydBMuofl1iisokHyA7WYvxQQ4kiHg6hmwJNqZ3Uqpy8Iw0UPnKghXTjCF-X5dP7E394wi0SKC4iNlDI0nsurai4BaHsIT16MPeZzLxYqsW6HwVPOKkFVNRcEiTLB-qFAdN-oIG2WY59--nDysiDNS28MssxZUBJebh5tD_-h2H6Fiq_ZbDFeLHA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8296",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y72MIW_AICl7JkJ-md6qsDcM569XuGm3d68VqP73oh5VrzL4YWbJMDnOPbWEQ8LeMM-DyhbbFhervz2WQuWqOH-Avgvq1cEKkrOuoadkpC2mmj1N5QMmHD1OfD2Dt8sRU5ugFCTK6WSorfD0WMmeneQcct-mfmmydBMuofl1iisokHyA7WYvxQQ4kiHg6hmwJNqZ3Uqpy8Iw0UPnKghXTjCF-X5dP7E394wi0SKC4iNlDI0nsurai4BaHsIT16MPeZzLxYqsW6HwVPOKkFVNRcEiTLB-qFAdN-oIG2WY59--nDysiDNS28MssxZUBJebh5tD_-h2H6Fiq_ZbDFeLHA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419711037,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇺🇸| BREAKING: IRGC says it struck 3 F-35 US fighter jetsIRGC announced Iranian missile struck the Muwaffaq al Salti Air Base, in Jordan, targeting & destroying 3 US F-35 fighter jets & damaging 3 others. The attack also killed several US officers & technicians.This was in retaliation for the U...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6e7c961ced.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y72MIW_AICl7JkJ-md6qsDcM569XuGm3d68VqP73oh5VrzL4YWbJMDnOPbWEQ8LeMM-DyhbbFhervz2WQuWqOH-Avgvq1cEKkrOuoadkpC2mmj1N5QMmHD1OfD2Dt8sRU5ugFCTK6WSorfD0WMmeneQcct-mfmmydBMuofl1iisokHyA7WYvxQQ4kiHg6hmwJNqZ3Uqpy8Iw0UPnKghXTjCF-X5dP7E394wi0SKC4iNlDI0nsurai4BaHsIT16MPeZzLxYqsW6HwVPOKkFVNRcEiTLB-qFAdN-oIG2WY59--nDysiDNS28MssxZUBJebh5tD_-h2H6Fiq_ZbDFeLHA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8296",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y72MIW_AICl7JkJ-md6qsDcM569XuGm3d68VqP73oh5VrzL4YWbJMDnOPbWEQ8LeMM-DyhbbFhervz2WQuWqOH-Avgvq1cEKkrOuoadkpC2mmj1N5QMmHD1OfD2Dt8sRU5ugFCTK6WSorfD0WMmeneQcct-mfmmydBMuofl1iisokHyA7WYvxQQ4kiHg6hmwJNqZ3Uqpy8Iw0UPnKghXTjCF-X5dP7E394wi0SKC4iNlDI0nsurai4BaHsIT16MPeZzLxYqsW6HwVPOKkFVNRcEiTLB-qFAdN-oIG2WY59--nDysiDNS28MssxZUBJebh5tD_-h2H6Fiq_ZbDFeLHA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419703031,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷We reported on the interchange getting witnessed on Iranian ballistic missiles.This design flexibility allows for any booster to carry a variety of warheads.Other than the obvious multimission adaptability, it significantly cuts down on production lead time and costs.The above is a tribute to Ma...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/pAa5BoxMH13ERQ4U5WnJIE6nvteBe7_LLErpgZSLy1hpTSd9v_q-OIkRRZh4_guTV2OmvZiSzKbPyDI_O2xNtypYXFs7drEVTavKFU1bD85It3RfDaNvdrRkboaupWeg-WBL9I-4QBG5yrzU7YfZWJLNZVjezT9nvMjyH6ri62ovB4qbqE1ech6LBo5Uts0BAzzAARnEMLeBD2R7IPltJM82gmKBvH-EQbXNArD1T_6SbQI3X4DKx81tp8Kw9Rv4MZFj0sNJcg2NRHG4VjxfbqI7MjHHuyz-iQmJ_1U0ln9sXR0PgCpNwxmoclX7mOBLeG5r_6E8SqmfCf0RJP0pVg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/EE3zihxMpO7i2TQabaK5qGG7UFKv7eyuhLR0o7al5l7NJz1K7KIajhWSePygTGYOBWwnkZa_fM5F-55c3cT0hZ59fMdbhoG5duzjdvbZLhNXhrUjOLGG_HRCw4olemGFrPGA59V2IQdeVckf0Vx6MJ3sWudHkbBZuv9-k5dOAXWWQyY--dvyyUcs53s9TIgGMoGSOmGo7DZPT1DmRzrWLZ7--Vv1zppSJLMQR-z-JgToX67mpcGdkZZZsGgY9kbpR_gpFbzaGiil5wmKstVDHbnVKl3F5mLf-8BYTl5o-MstltUVXg0CLQI_SiWQ77i_GEjfC_pKUCV3NoCefaJgKA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cCyCtKcDEDq1mPfXKOEHMCfNh5ZhPeameQynXkmWSn6uYAi-8c0VWkpXVCXhsF_eyT-5oYSHeUYHe4hzjDbiI4JeeV5yc22vq1Eq09Xd12pFr0TPCUiRhjgIFUKONRot440cUfFRP4maI0sip3F-wRrh_kLrBVc-t3fH5Ij6mFxGN6SNR51U3PSLDc7C-Y-NKtEqm5qaXnPBmCjuEsl8HIi8WU-ya5GTzsi1TCtzFqOUGLKas9ZdQoeXy6aVdAVuTtjSYQ0I8mhe69c9Z2pWcBQPt04hPQmSQiXv4TjfBjRXMlDXXJMd8XQ_6_EX9eR82yxcQHrfjT8CPwhV8nSUgw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785419714055,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "How dare you oppose americans destroying your country ?On a serious note, several Jordanian political figures wrote an open letter asking for us army to leave the country forever instead of dragging the country in a war it never wanted.They don’t only risk jail, but torture under their secret servic...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/niGjZQPNIUda8PyL38NhO4EhsNdfOVLk0dCzEel_Ld9xOuNK6sUiPQpuJTnZ_CRT2J5r9tHdx7R-HIRereRsYp0_oV3MoyxoOua5QQaZ52u1q2WpDN0hZczG6wfEywMjQ1jpSibNDiaFlOVv65aCQpu9LooFBc_ZqyJeB0_aaeY2rLvs2V_6KkMnb6je-SGxID15G4tB2hveGgxWlGmvLGXYcBDEQ3R3-6fHcx6KtRPvNTn1dSl4YEsfvmJTMouCIQJWIYEm_Ozgi1ZhjtRv-5rTysHmx2LrEJRwe2YwJGPRWT9aZUj9Fw_vyBOm2oRROPAmU3W1BgDB-0QSdzkOwA.jpg",
         "type": "photo"
       }
     ],
