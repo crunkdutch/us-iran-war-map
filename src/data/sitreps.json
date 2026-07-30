@@ -166110,5 +166110,25 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785397726871,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The occupying regime has extended the restrictions imposed on the camps in the northern West Bank and cut off electricity to villages in Ramallah.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/US2sHKvWlhoAzGwpcpxDTJ6VyAPMjRyWX1b5FdDXZ_lR-_s1Z53dq7w9n293jRb7Bt_DGeQj7FRfkxlhCrVEYMJRBhgY_2lA3WzVsr-E66aUzIxJ46p_KMBbQbGtvnOf89E5dTjkyFfVgjLUeYxY7Q29Wpz8Ef6hrbvD2gDYwcw1q943qGjyotpYxMke99tsa0yPmYzaytsPKca1OQDTExmfeOYdn_oXNnnOw1PaWMmJGB58l0MRa3wrg-W3n4UVn95Q9zLwFQF9g_1n0D2R3g00W_80mvxO1wKoYgeF393jGA4aLQQZFrpB1gEUG3L1cBUa3YDnkcMUKxdBEO9n4A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
