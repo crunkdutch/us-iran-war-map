@@ -27283,6 +27283,38 @@
     ]
   },
   {
+    "id": 477145556,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-06-02",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Taba: Military advisor ImamMujtaba Khamenei Sardar Mohsen",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Military advisor to ImamMujtaba Khamenei (H); Sardar Mohsen Rezaei:“We will not allow the United States to impose excessive demands, neither in the negotiations nor in the ceasefire process. The response to any attack or act of aggression will be a barrage of missiles and drones. History does not move backward, and any aggressor will be swiftly punished.”🔹@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 55097,
     "type": "drone",
     "status": "confirmed",
@@ -29847,6 +29879,43 @@
     ]
   },
   {
+    "id": 477143415,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-07",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: will wonder what those things over",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "✅ | We will wonder what those things are over which the rounds of fire stop and are then called ceasefires. There is no ceasefire or settlement mechanism other than wasted time and foreign travel to mediating countries. This is a clear issue: Iran wants A and America wants B, and neither side is even fitting into any shared framework. The reality is fear. Even in fantasy, it looks impossible for America to accept Iran’s demands: allowing enrichment, keeping nuclear reactors operational, having a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/X9cZ58ilJ9rmNwmYqmIaW-OIMrkADnPl5dkI4q72zmq4r-ZeKBE9xLjGgEx-j0a3EIG6hHoJgQj3gpP6X5X6a4D3ssTUJTPtiQ3K6Rbqb9CoyVcFL1R5XPHJuB36e5WU0RwnFzILCEKpb-UyQfA73OrChY8YcSu4nPQt6OGZ3oWCMCG827_R9oreMsyHbiyi5zQFVanrrdfG32R-iIdxcEC4oVfu0IqECYoxhbsSASOzFq5KXRxUGd_h22cAJlQDjnvVVfFVYdCr1J2kaGwsOqTzGfIIeJQ2fzBnhcJkjCkd5HpfxsyP19hSe3i2n5NsI5sbzsUubfCats3lb3ledw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 42813,
     "type": "rocket",
     "status": "confirmed",
@@ -32140,6 +32209,43 @@
     "media": [
       {
         "url": "https://cdn4.telesco.pe/file/FK5FaU0SQeM6kF-zyaAZi9PCKEFWImuN1E10s00ifgAw31LbG43sQ19S56tc_CN4WsauDsjdMKOJXi8TXRdmdpQoWpUx0PPALylnj1Ix5q0VgfpUIFf_2vXOp1dywEhkNEilbHwnYVL6rDyfOdXb_Nw9DGDYeXqcpYDwfD9PJtm2Qk1V2cMCoDwsH0Kx0oJ2dZMASH-gguu0ItxirbMUgqhC6XEaINZkF-i_jWDbjJ3BQDkLO-Ye93SVWvB3zfdvoG8jxGkQJ3eB6XMfifqWNE8dnH6rxV7dTcsH2HgfHhhc5jZsJwv9COupb68QFKj5SNufKMQH0al49f8SZk8nlg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477141275,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-09",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: managing editor Javan newspaper Abdollah Ganji",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The managing editor of Javan newspaper, Mr. Abdollah Ganji, stated that the report published regarding an injury to the Leader of the Islamic Revolution, Imam Mujtaba Khamenei’s foot, is false.News had circulated that a respected member of the Assembly of Experts in Sirjan had said that “the injury of the Leader on 9 Esfand was to the extent of amputation of the leg, which was later resolved through the wisdom of physicians.”Mr. Ganji said he personally spoke with the treating physicians.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/CLBs2w3w-ejtgWf2it-XdWwPO-sxC8LnMLuWdq4BK1fP7h3-H0cTkdcg1mM7lqusOU_XJMpCAjR6rG4KbIbAiq3AnzgmbT0XRMsqo3KRZNkQL-tHzR9jAExThhJnGJUigC_N_ICVKY5Bc3QrqX-2IRzu9hgKoiFvaBT4fD5PRsqyX5ydQy2W1uuPOjRqu8uDCEAgOV__i-4uKdnIwHjjfoG1nWiHH7O6PWqBvBDDLwLDQQ31lqCGpzmmi2nWsXZDVKIcdkuew3CqP5kTsbgARfyMhTwb7VL9SA1vWQfVVL4zfifpeDDqnUQIVeKa3FR6zGVjQa__udsfknUbLFd5Ug.jpg",
         "type": "photo"
       }
     ]
@@ -34502,6 +34608,43 @@
     "media": []
   },
   {
+    "id": 477139136,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-11",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Imam Mujtaba Khamenei only religious scholar",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Imam Mujtaba Khamenei is not only a religious scholar in traditional ways; he is also a fighter with experience in face-to-face combat from the Saddam-imposed war. Since then, he has mastered and developed deep understanding and control of ideas, concepts, and formulas of military sciences. In the coming months, we may be able to understand the important role he has played behind the scenes, standing shoulder to shoulder in support of shadow commanders like Sayyid Hasan Nasrallah, Soleima",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/KjYA4-RmoMow3j3Hpsivo5DJ8ycqPnQaPx863yYxLDQtMWFJuW5s7EEWNNSD1fTnN542t2F2CZ1dwJsTdg_xHmzY6N23xGCfACPQ3H5NdCW2XcfQ8gpUa95DCpMY8AJU68vYDT0roLpQ2e3KS03BZE8U32Kc1EzyqLoTwt7pVEJ1exkKm8kscTjNOLdrzoj5FpvjIfPmHPGCfTEJ8pmjS22QfgBwMDEMpBKa5hExmuObbunRdZvpmy4gxhxFMOr80fAtqg1Q4A8oUT6OS9i8fsStOSc4v3gld_p2yQvyvbwt7d7YnLbInjn4immka67ix8o6kAqYmuMmhWKWvZhxSA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 35288,
     "type": "drone",
     "status": "confirmed",
@@ -35650,6 +35793,81 @@
     "media": []
   },
   {
+    "id": 477134861,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-06-14",
+    "time": "TBD",
+    "title": "Unknown Interception — Taba: Khatm alAnbiya HQIn message addressed commander",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟦 | Khatm al-Anbiya HQ:In a message addressed by the commander of the Khatm al-Anbiya Central Headquarters Commander Major General Abdollahi to the Iranian people:Your steadfastness and resurgence have drawn a new chapter in international transformations and have solidified the position of the Islamic Republic of Iran as an influential global power. Your sons in the armed forces, especially the martyred commanders who were raised in the school of Imam Khomeini (r) and the martyred Imam Khamenei",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Xd21iCJeOmIcjaYquH8-y2agQm1uqspPAfScdfw8XIqxq50iyOD-vh8H9pjDrIE3efbzyYpcBtGcA9n44Mn5Uiky73Cbcb1-hSz3yx8sDdhvOR5A9CQEGypAbCkBQthv3x9M5vheqBsIoDOt-Mc8wxLY1e3aPWD7ntV2c2A07puTVh9zGHQGO-WvO7Y4Fd3hjlljrRXVf8PM2WW1hxhdcqHq6I-z5GNoKgON8-djCHVLXDEqAxYcVL-3xDRM6f04tXjK32ppfvKuUuYqt2tH9JPU9Zt8DOAIw7KGnfFVmp2DtqEuAW2htfZDE2osNJ8dnWERDjRGhIKCPDH7Obk6Ng.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477136998,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-14",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: does Leader Revolution Imam Mujtaba Khamenei",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | How does the Leader of the Revolution Imam Mujtaba Khamenei view the ceasefire negotiations?1. The wisdom behind not publicly addressing the details of the negotiationsThe first point is that the Leader has not publicly commented on the substance of the negotiations, their requirements, red lines, or conditions. He has not, in specific terms, instructed what should or should not be done during the negotiations, nor has he publicly evaluated the negotiating team’s performance.His decision ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/57075",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YgPPqBRPjWF4eBX6KOI-7KWvG19IiQWYnb_pWvq0c6hQ4MMYbEgTRSg_lljSgyD8Ch2a7HrHssmtzzXnfsvD-7I3UtB4UpAppzNpH6AstGW9EdYXkBVhfuhR8V2yAfbTyzKtF7o3J3prSoMEjEUlN4Sd2fGhUNezlXwU-zBuf9N0QvTgIhKA--uleBrPeVpQRKGFsh6we3nH9scN1doV-Dlybp-kupzcIhalGK7UxDWlfUrhq7RQjAs9fWXl9_2CIaCEuSfT0pBJMT1t8IsFdBD-lQwcYnTB3rAGsLrSTDljXTRuJlQGT54a56xGcU451UbmDRESDGhm7KGcE8qYjg"
+      }
+    ]
+  },
+  {
     "id": 34,
     "type": "airstrike",
     "title": "Strike on IRGC Command Center",
@@ -36431,6 +36649,70 @@
       "other": 0
     },
     "description": "🇱🇧🇮🇷| Hezbollah Leader, Sheikh Naeem Qassem, in a letter to Qalibaf:“We have always said that Iran has given everything to Hezbollah, the resistance, and the people of Lebanon and has taken nothing from them.Iran has provided us with facilities, the power to liberate our land, to heal the wounds of our society, and to help it. Now Iran is shedding blood, confronting the Zionist regime's attack in response to its assault on southern Beirut's Dahieh, and enduring the consequences that herald a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477130590,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-06-16",
+    "time": "TBD",
+    "title": "Egypt Rocket Attack — Egypt: Hourly Updates Pakistans Foreign Ministry announced",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📢 | Hourly Updates 9. Pakistan's Foreign Ministry announced that the foreign ministers of Pakistan and Egypt held a phone call to discuss U.S.-Iran understandings and the meeting of the regional quartet mechanism. 10. Artillery shelling reportedly targeted…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477132725,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-16",
+    "time": "TBD",
+    "title": "Egypt Airstrike — Egypt, Taba: Ayatollah Sayyed Ahmad Alamolhoda member Assembly",
+    "location": "Egypt, Taba",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷| Ayatollah Sayyed Ahmad Alamolhoda, a member of the Assembly of Experts, in a special interview with Al Mayadeen:- The Shah’s intelligence services monitored the martyred Sayyed Khamenei and criticized his support for Gamal Abdel Nasser’s Egypt and Arab countries.- The Shah’s regime tortured and arrested the martyred Sayyed Khamenei due to his supportive stance toward Egypt and Arab states.- The martyred Sayyed Hassan Nasrallah acted as a representative of the martyred Sayyed Khamenei with ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
@@ -39411,6 +39693,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477128456,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-28",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Full text message from Leader Islamic",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | 🇮🇷 | Full text of the message from the Leader of the Islamic Revolution Imam Sayyid Mujtaba Husayni Khamenei on the occasion of Judiciary Week and the anniversary of the martyrdom of Ayatollah Beheshti and his companions: (1/2):In the Name of Allah, the Most Compassionate, the Most MercifulI extend my condolences to the people of Iran and the entire Islamic Ummah on the days of mourning for the Family of Allah and the martyrdom of Hazrat Tharullah (The Blood related to Allah), Imam Husa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/UV90v3sFZGT_0GvVKWx1L1ZCEL--AWNoP_ZLMsE7yYBe2uvMpdvqjcv8IQmtgFf-r_vsAUH77rHuLdPJeHjkx6Ck8B2BWcQtoVucj7El5UT7Hgb335ytu-KpJqasuD_VrFwz49a66xPA2_eccBtYlHeAYiomd3n76Xk8DwG5ctUczlw-4KnZPRIIK8BEDJWu3aQV2mKxJ2hXnveweAkqo3ViSXIV7pH8VFOE5EbmFVigZJebhtNX15FZHnoLQE5LOoFPaglbl8bSyjd9ryMqfcmVkyYkPYmIGsf0ZEkWnrzW2j0UvpADzeESJ9YXlT5wd0BFSK0z7rjSDoD5fgI62w.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 44,
@@ -43141,6 +43460,43 @@
     ]
   },
   {
+    "id": 477126323,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-10",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Ayatullah Sayyid Khomeini beloved grandson Imam",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇮🇷 | Ayatullah Sayyid Ali Khomeini, the beloved grandson of Imam Khomeini (r) and a jurist based in Najaf, was the appointed speaker at the first khatm ceremony for Imam Sayyid Ali Khamenei, organized by Imam Mujtaba Husayni Khamenei (H) in Qom. One can now judge the current position of the leadership. Those who still claim that the situation is normal, or that the Leader holds a different opinion merely to create the appearance of democracy or to act as a fatherly figure, are mistaken.We",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rN4l-9kxGWw_L6VBPzSuV2bWO3oOlqwnKCfQGawVjZbcs9NcOyWXKcJMr1HkmbQQil4zgkhB_cip0ErLaIkUdi4R0lHZQlxuBKkdAwhOhG50tGaHcznCYnRZ1CavrDoTQKT7uOfBud5BaxUW6lSnFaFIKThH_14A6Hni9NxnTWI3B816HuZxLnLkNkSp5feTH7UzFc24LYPJ4P6MwpGTpN1T38vc6DMtDQSe4-SNyIWoyVKsGhWh3p4ZBYcUrJViOrGgPFujPnzJqv-yzM07k54lo-TH0Gaf_Siq9QU3aT8CBNdSwHy8lAudWbs957ySQJa9s9eaPPZ_l6oi38iXMg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 52,
     "type": "airstrike",
     "status": "confirmed",
@@ -43919,6 +44275,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477124191,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-11",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: People might grasp weight seriousness this",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "▪️ | People might not grasp the weight and seriousness of this movement because of the regular repetition of events and the ongoing situation surrounding the funeral, along with the fear of an outbreak of war. Imam Mujtaba Khamenei was essentially waiting for the burial of his father, and today he has started his full phase as the new leader with a new website portal and a statement that contains some of the most serious lines so far. This was already evident in his very first statement after th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/A8p7AiLbxRHREXjLmYQ1IJme-tAlXwPa31jeS13_JXiODzbZ83p8x9m4ruJcQ15rT8uXPW78IiqeAPEdsLr7AxEzELnlqkSuGoipXvDLYFdofPObAYz0dr9F4JY9QLSqMSChZzfJ1F0v3Hb7yccdpASOGHHOeogsCVmfL26JqV2nXP3oLUtHuwJbh1e0jFS8OQq4Aj8ReHzqij0XM-N_6ZaFE1G4rjhpdfGmHoaWAG4-fcdLCvTQqHpE1eb4EXEkcK2tnAdeHGg_TkwWhtSLr99RFJepz0BlGhBeaWPXSjbBcgGg-LFsC0hla8_FQlB0VKJ-tvGhogMBaN3PfpGiiA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 16677,
@@ -45798,6 +46191,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477122060,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: individual whose face covered during Imam",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📌 | The individual whose face was covered during Imam Sayyid Ali Khamenei’s funeral ceremonies is not Imam Mujtaba Khamenei.He is reported to be one of Imam Sayyid Ali Khamenei’s eldest grandsons. Like many members of the Imam’s family, he conceals his identity when attending public gatherings. This practice is not necessarily due to fears of being targeted, but rather to preserve his privacy and avoid public attention and media exposure.Various accounts speculated that the individual was Imam ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/swcb6G26P8cAq9Jabw3eRxD8LEhjDQ5NpUMGTs47oiIv8Eo3pb5Y_Evgl6ySPNMhxLJy0MoSWWscQXXs8WEv0MOf2mWLFipmOi3-6HC4qAr9H5q2PcQ5KO_tGU1rrNS9-aRJewzQWXGrttrRYK06cuOw-R868HH7HYLq_ZCB_LUGL9ij7w2EJOrDxdw3fxvOCGZN1vkJZP_Ql0m2kd0QX84taLr-PqtCSmjDatC1yUoxkHwNwJHhbiR3cgrDwtvAvyGk9TtaZ7YnNwIKIr1b0XEw0KYJ-5mTU97x77ZGoxd3pUMM9-uSik2kQrv50tS5Y1yyxQGQxcX6nB0J81bzzw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 53,
@@ -62838,6 +63268,43 @@
     ]
   },
   {
+    "id": 477119930,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-21",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Sunni Friday prayer leader assassinated MirjavehAt",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷/ 🏴| Sunni Friday prayer leader assassinated in Mirjaveh:At around 4:00 a.m. on Monday, 29 Tir, Molavi Mohammad Anwar Rigi (r), the Sunni Friday prayer leader of Ali ibn Abi Talib Mosque in Mirjaveh, of Iran was assassinated by unidentified assailants.Mostafa Mohami, the representative of Imam Mujtaba Khamenei for Sunni affairs in Sistan and Baluchestan Province, stated:“With profound sorrow and grief, I received the news of the oppressed martyrdom of Molavi Mohammad Anwar Rigi, the Sunni F",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cT4OUeLoeZZmerra5lrs9qxMVZpVSnQeHweLcALpPFof7eJBp5fz7B5FLEmd-rWFYTvbfrAsm2gn1AdBxlbyKm4OWh6AViS14kBROeDQC-Z7eONJ8ULVetoUT1KlDBvIHnThrkbIA2CrpklQT_QRK5MEW_tRATbilWBoaABAoWYYGHYu9IYt-JPq2AtN1UTfoQrcT4rEBFG-8SEtfbCn9YIcd4UITkzdJ23YZZekAeaR-x-ifK9y0CaB4JYltOCXGigQRJmQd0XwiHtfv2Br2FKVKscjI0OW_w6gkWzcAM-3qk5rgajY2AcwD_sb_jforyvRM02TpOkDGhM7gd6V9Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 105,
     "type": "airstrike",
     "status": "confirmed",
@@ -72129,6 +72596,81 @@
     "media": []
   },
   {
+    "id": 477117801,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Indias Union Education Minister Dharmendra Pradhan",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇳 | India’s Union Education Minister, Dharmendra Pradhan, has tendered his resignation to Prime Minister Narendra Modi following weeks of relentless, youth-led demonstrations sparked by entrance examination paper leaks and systemic testing irregularities. Spearheaded by the self-styled \"Cockroach\" movement, the protests rapidly expanded into the most significant public challenge to Modi’s third term, culminating in tens of thousands of students massing at Jantar Mantar in New Delhi to demand ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/19c7342ca8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jAPm-pgZjsjDd2YrERI5acQB-r03-XW3N1D2WgSwthxJpua2yah_r9XNw1ninvoXBhoRdVwW1KuFIgr74q1gqd-JmdEn2zLzUgaFQ7Aizf-4Qcz_aoCj7jkokSwBWXUdcLxpdI6_XmUEeONI4VZ_A4dQi36fzEPBR4M6ec1YefxzNYfPVIaYlP-ZEFLATOQ9XLB87wpg4pBTirOf1OqTls0ncxVRid8gLeuVhhV3LEyVv_TqiNJyeN2hVxos_xdR0UAfjyQO70RHEQ8J8kD2JSJp13fwuX-0pUgV9DeAOa4xuuU-WwV16LVMnAt12guMB_BY1k3PmNiWtFEA5JpKfw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1054543",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jAPm-pgZjsjDd2YrERI5acQB-r03-XW3N1D2WgSwthxJpua2yah_r9XNw1ninvoXBhoRdVwW1KuFIgr74q1gqd-JmdEn2zLzUgaFQ7Aizf-4Qcz_aoCj7jkokSwBWXUdcLxpdI6_XmUEeONI4VZ_A4dQi36fzEPBR4M6ec1YefxzNYfPVIaYlP-ZEFLATOQ9XLB87wpg4pBTirOf1OqTls0ncxVRid8gLeuVhhV3LEyVv_TqiNJyeN2hVxos_xdR0UAfjyQO70RHEQ8J8kD2JSJp13fwuX-0pUgV9DeAOa4xuuU-WwV16LVMnAt12guMB_BY1k3PmNiWtFEA5JpKfw"
+      }
+    ]
+  },
+  {
+    "id": 477147698,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qusayr: __Correction____Hostile warplanes carry airstrikes outskirts...",
+    "location": "Qusayr",
+    "coordinates": [
+      26.1015,
+      34.2802
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ __#Correction____Hostile warplanes carry out two airstrikes on the outskirts of the town of Alaman Al-Shoumariya, in the direction of Al-Qusayr.__",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 66124422,
     "type": "airstrike",
     "status": "confirmed",
@@ -77402,6 +77944,94 @@
     "media": []
   },
   {
+    "id": 477149841,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qusayr: Enemy army bombing AlQusayr town",
+    "location": "Qusayr",
+    "coordinates": [
+      26.1015,
+      34.2802
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Enemy army bombing in Al-Qusayr town",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nF8neeQF0CskUU7mvP6UpaPJ99hZCAzFa-TgktBYtM_cPLlSxoDr707pxBGOLuAV7hDvIwYtldtxeOqk4tYeI779ppXtItDqNmVaMiVRXJv3NmfW4ozq52TMoNpye52HFEuyH4H34xhk1kCaFY8hq5-kPrDd7tSNdrl8mqHS4CaC4LrAmLfDz4iwd3SONJJbwWH8fm9gdXutIDakOztvQ_-QS087y6TiODVJAtdJmiOTFGzLyK-Gq4wONio9A-m5qja-DZmOq8MzlmFYXaQqK6Lzpa_5meA4lMJXkiQN96fJIBpvqvkL-iqbKDNjnTzvUDzj6aXLrJ5joD_ZRo3sdQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/PZGv6x2Ix8VSmVRYRrJxtprQGNnhIWTPqf9won6qIEStld-w2QEjSBvzk8FURO9Z582JF2YkAmzqhhEoE95FNe8G-YWTF87RfqtRvtlTpWmTM2KkAhw_gC5DZ4hRwgB77Xd0p6aykD6c0Phqrmm3na0DmXgUtXYUmK3Vmyunhf-poFTWyf9vW5KIu1gDI--aUZcSuPPsbA2T3htpQ-TtRuQ2Wj5hv2CohMelHNj3Z6kAOql4IkgI-KjmWYzbooOwHoZNLAg9OJuXqC9KJAcRGC7G7SM0Gs_XuYg3VZbZa2A3hKe4z7YTM1-VEWTSd7EgLCDCEV8o0W573rukL9R58A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477164870,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-28",
+    "time": "TBD",
+    "title": "Egypt Drone Strike — Egypt: BREAKING American tanker drone Damietta Port",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/me_spectator",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇺🇸/🇪🇬 BREAKING: An American LNG tanker was hit by a drone in Damietta Port, Egypt@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/C0BrW9fCxEn7_W2jCdtATT3B7rMS5ziJ3PKQptgPTiA6FR3AlvKe2Qlg7f9aleuCVEvSOp2o9aVqpRt9IXEZQruFIjSqqaeJRRA6u-sAuRi83lNNoFMB6XJ91WUWzZVsNe0cP1RIYiP8S-Ld2b_8A2G4mz7WXW2fzaCEQAklivfgGxJoPdsz4pHv8EHxM99m3YiqVXVit8d95dlemprdCWT2LWyALWI-846M3kDci77iEZDp0uuHguRfOoF2tx9H5daWY1ktPTNP7hvD2njhz6dZm8fTnXK6ko_r0iGQenqPDwn4FamHnamFm9VnmCKQc6LWmHDZ8Kj0bGLHwJUObg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/0e67021c8d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/pq4s8LBOAw159oVvWP-ZcDt7EhDg5e7IZN9rMfVIVCmaLUXqr89pgOusrCUpUssnIWpGRuCAUQkJktdkBZNcicuktD5Wzc-UoKBQOCU0RuOvChAH0qtbsEyUf789BZaewchB9xOrp_-6Ib48Se3ot7MrDmU9YZJRM5Kpu-MjGBU79ExwyDB06s-FixiVHc__aQ5I6FIEI58LnfwY2a8jSlV1qFlN3g9GXvf2QJN8NxdYXyTdPb1IA18YeRbkZ9Pouu0LnVM4B37gR9UgIXLcMLKHnuqfQsK7fL8gsy8msTna7eawcTjEWBNRZEicLg6hhHlTmXMNQTyw7pe8gJV75w"
+      },
+      {
+        "url": "https://t.me/Middle_East_Spectator/35576?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/pq4s8LBOAw159oVvWP-ZcDt7EhDg5e7IZN9rMfVIVCmaLUXqr89pgOusrCUpUssnIWpGRuCAUQkJktdkBZNcicuktD5Wzc-UoKBQOCU0RuOvChAH0qtbsEyUf789BZaewchB9xOrp_-6Ib48Se3ot7MrDmU9YZJRM5Kpu-MjGBU79ExwyDB06s-FixiVHc__aQ5I6FIEI58LnfwY2a8jSlV1qFlN3g9GXvf2QJN8NxdYXyTdPb1IA18YeRbkZ9Pouu0LnVM4B37gR9UgIXLcMLKHnuqfQsK7fL8gsy8msTna7eawcTjEWBNRZEicLg6hhHlTmXMNQTyw7pe8gJV75w"
+      }
+    ]
+  },
+  {
     "id": 476698626,
     "type": "airstrike",
     "status": "confirmed",
@@ -80043,6 +80673,163 @@
     ]
   },
   {
+    "id": 477151985,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Egypt Interception — Egypt: China Army contract sale J10s J35s",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ China Army: The contract for the sale of 48 J-10s, 24 J-35s, and 4 WJ-700 drones, along with various air defense systems, to Egypt is on the verge of finalization.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ru9A-5vGqa7ebDnh1aV4hRhC-_eAZk094u5i4Kxj7bTrHMnSvkS3fxK2z9ed6iqUzPr5-vU3JRdCyqBH1WC_qwdj2KVrsBsDvp1OS7jMMrkz6RHuTa_uSlbDZB-AVuBIwHTVp1dwz_RbAzZfiFgQWcIcP-JASCVxoNFyL2StkkjFtmSayO5Hu7DtMPNi1X-UX0hHYOeb9Bwx_9eiTh9fWHLAN77UfkRyKeWSZBHuw5cI7xC3BvNcxnrMUT5EOu4dclm61lmYpi_gnTEVc59FDEJyNb-KeGIvs-KSxdlPF9HTbjDintbpCmd4mb10Y3ONKVEwy3ApgwvZlL3_o5dOxw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/M2dj7QCoPwWsBJZDalWLlGTSHgS1SWQbWeCJTUt1icsKaEaoc2AIIMziun9ZLafVn7eTiQYXzsutJxLyF3OgsL7FiXggs-0vdm_LHkBkA0DLSOd4uzHXrY_-I_0oHFhaib_PzjniJFKmOvb3ct47gwZgTaSqpSduErbz5vLOUlOHFov5ieGiXSyyo4swJ1xLxOYAv8dUFLp66pSuQi3KtkMB0jUNHhLGngYsBC1MI6CQDlA6Cx4gc6f6O5Dl61XA3xhuYbprR6y9GeqatYxjTE8x3gaspo3vdhIe6zducYtLn9h38k761mLw47tQQYQGEwb3agPEvnOnmuTuRSi5sA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/rB1AJdcMEM_aWk2u9wuRk0EQ8fZ7U46cAsLd_YdWiwuJ5RRDr2Za6Tn3CsgYro975COrMxJxMHHB5b7d0CNVHJ3VEGk9QfSSebzDuf92wtKQ1iJqklc9dhCoU7ZFLA6ZrZowuF6QlbhmulnDHWS6xjXzIz-mdf0Smknznywg5ec4CtMGbzj3Xd2DyrSt3481ezchS3V1qQ1Kdi6IzsbmdopvQ1Hzd7l6NaNH1gB-9dC167mzOmgT88h_ekBjoaOwV1MzIRoA4fF13g-1fhXpycCHdr29aOuAT6Ps4fiE9wg5hH08-uzrF26h3PwmqPl_HYY3n5zo8vF42e8PCmjnQA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477154130,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Cairo: Hamas delegation arrived yesterday Cairo complete",
+    "location": "Cairo",
+    "coordinates": [
+      30.0444,
+      31.2357
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ A Hamas delegation arrived yesterday in Cairo to complete negotiations on consolidating the ceasefire and moving to the second phase of US President Donald Trump's plan. According to informed sources in Hamas, the delegation carried a new formulation for the future of the resistance's weapons and the settlement of the status of Gaza's government employees, which are the most sensitive and complex files, and have caused an obstruction to the maturation of any understanding formula during the n",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/orCPNs0ily3eJypPdXUWg3T0O2hEROw6oNCv2bjDsbUTsBDqBftojiU3yKbbA9xcvz9QPGFshto0fcnlKaPiekw7BH6qbHTOsXWrP3KXz0HkG29UPxhB3FRF2cdxkNcwdI7GTGCaD1ilRJ8LNqMb4L85uC5adBIUi_A-bpC7YkkQqHJZ3QVeiuU7vexvnSog-mH19ZgrZdwvbXKHnVdh1oZofeQRhfmxgHqOJVOev29XLfSaUI6SKKuhflCl7gSRj2q-vL9m177t0J9Adw22jKLIzZ-9JRopIMITfhu1CWLA-anE_F66-FUcnKPBk9jSyGjDzTVTtTwKN0Qyl58O0A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477156276,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Egypt Drone Strike — Egypt: Explosion liquefied natural station Egypts Damietta",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Explosion at the liquefied natural gas station in Egypt's Damietta port during cargo unloading.• 15:57 — Reuters: A US-owned and operated floating liquefied natural gas storage facility was attacked by a drone while in Damietta, Egypt. (Rasd Akhbar Shehaba)• 16:00 — 🚫 Reuters: Two security sources announced that gas storage vessels in the Egyptian port of Damietta have likely been targeted by drone attacks. ⚠️ Ambrey, a maritime security company, also announced that a floating liqu… (Iran Mi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a56330d852.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/pksyFFM_TS3bgd6JR3JSQSS2h4cQVdcXvDHFAmAx7B9ECJ0tY9q_W1wvKYQXE9PyKHx2fdwqwyzlv3_JhaYXjKfMhshGuIlg5f0Yq6cE4fDgnXhTiIFTO5BtSrn3T7MVUndcND-0ABb25jma8VNTcPGKJUVr90VjPPWiyF1iykRtAr1VR7XB5C0YEjCHL14XzP8Z8S2AmXF2rNBNFkm7G--VqpfbJ4qjWogYo2M6sdgjKQsvrPWPCfqSySx_AOJlJu09Cqa6V9yzJqYYwIxLjSgqdQnsfM15ZwPdvaKlqlCBN46GsQ0zufqk9o4D-JyRvv8cp6A2oxvLcY2E3uGpqw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057540",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/pksyFFM_TS3bgd6JR3JSQSS2h4cQVdcXvDHFAmAx7B9ECJ0tY9q_W1wvKYQXE9PyKHx2fdwqwyzlv3_JhaYXjKfMhshGuIlg5f0Yq6cE4fDgnXhTiIFTO5BtSrn3T7MVUndcND-0ABb25jma8VNTcPGKJUVr90VjPPWiyF1iykRtAr1VR7XB5C0YEjCHL14XzP8Z8S2AmXF2rNBNFkm7G--VqpfbJ4qjWogYo2M6sdgjKQsvrPWPCfqSySx_AOJlJu09Cqa6V9yzJqYYwIxLjSgqdQnsfM15ZwPdvaKlqlCBN46GsQ0zufqk9o4D-JyRvv8cp6A2oxvLcY2E3uGpqw"
+      }
+    ]
+  },
+  {
+    "id": 477158423,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Egypt Airstrike — Egypt: Egyptian Ministry PetroleumA fire regasification vessel",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Egyptian Ministry of Petroleum:A fire on the regasification vessel and storage vessel located in Damietta port, and the situation was dealt with immediately.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477002246,
     "type": "missile",
     "status": "confirmed",
@@ -81623,6 +82410,75 @@
         "url": "https://t.me/me_observer_TG/1058363",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/nKvrx4hiujEldTXKpKbHNQWQQCNGUzbGayOnOVcovioHuZCryhiipHc-uFTkaLiboLNZhiYVKcg0KIMQiLwtiV1KdxJ8HZ-2-devAqRsjwoUVn8b3a7DLKyFFEyIhi1A5YF0PEqDheBO0_s6lzoeQSFmFAiFPrhGi2Mg6gK4-Ltb2R1W3eozo3bxEt9fuZ_eWvE5yb2mVgNiziJxSePP3WY6N3JC56Jlt5sfF7Qwwb9opR_z1u-G15DRfYrTqgnKTerMXljkvg_i3R3bFgEqJ8j0XG-uKAZ8QdDGxeAmXHfubbZwZSJ945SoXMA5-31hdlJ0tuD_8pBgn1I1vIpbiw"
+      }
+    ]
+  },
+  {
+    "id": 477160571,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Egypt Airstrike — Egypt: American enemy media claims Iran targeted",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ The American enemy media claims: Iran targeted two liquefied natural gas (LNG) ships in the Egyptian port of Damietta.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477162720,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Egypt Drone Strike — Egypt: Hebrew newspaper Haaretz drones launched Egypt",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Hebrew newspaper \"Haaretz\": The drones launched at Egypt came to confirm that Iran is capable of disrupting the flow of American fuel in the region.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/m7nUzrvnyFd7C-yF1QgG48PXi5jZcITHaJ0nIY1XrFl9zQsJw5Hkh6uVPaXIHiGy1Xr6_yD_j3kxiHqES39Z1zf4G3wEfWe5mAQIozEr0spzV_qmheV0zVjSZhMHccTKpv-hPrNe9QyT7AGya_I4U9eiL-8e6zleLo03DLXsJGmn0Ej2o8S6hA1FSznKufQ0enUeKESd_M4OWRcj1QTmJLNRbs-0P2wdnFuN6pXWEzGYGaCuDTa_tm_i308ZIrK1kTeLJGAzWF6N_MlMph3qUA0F37ZayZ0j7chgopyYR1eBnTdWDadG_yPFRO6YrMjpb0w6R3AgnI9m8N1-ERawrQ.jpg",
+        "type": "photo"
       }
     ]
   },
