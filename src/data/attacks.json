@@ -79913,6 +79913,43 @@
     "media": []
   },
   {
+    "id": 477090215,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Yemen: BREAKING Initial reports Saudi airstrikes Sanaa",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_spectator",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇸🇦/🇾🇪 BREAKING: Initial reports of Saudi airstrikes in Sanaa, the capital of Yemen@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cTEYUoBNF2z4utwI9bZwhkxyJwaQtvapjF7QITU-KZh2dauvQuOJBaMjliPRIW5nx-Oeu-W0UpGaVMJ1ErO08njiuxVd7KS1n3ny60WDzefh1zNWozHEd-0zvRcCU3qIFftoJH5g-NG6thY4sT3DWdUXdhUGBnLlVLIG0k8FBwubFTn4Dkt4_zDRIxuTqvgxOOSlPrjyapY12Kr0QT3RnEDi4kQ0NUn15-0wvxYWtdcK0UJwsZEM6W4VwLApfkzetglfQCmI3uOqLu9PSi8PE-R_EES9JuK8ucLzAOKMt5DE4EVMs2bdkTM5sq3iuKpgwCKolemhZos33454mcG-CA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477002246,
     "type": "missile",
     "status": "confirmed",
@@ -81014,5 +81051,149 @@
         "thumbnail": "https://cdn4.telesco.pe/file/Y72MIW_AICl7JkJ-md6qsDcM569XuGm3d68VqP73oh5VrzL4YWbJMDnOPbWEQ8LeMM-DyhbbFhervz2WQuWqOH-Avgvq1cEKkrOuoadkpC2mmj1N5QMmHD1OfD2Dt8sRU5ugFCTK6WSorfD0WMmeneQcct-mfmmydBMuofl1iisokHyA7WYvxQQ4kiHg6hmwJNqZ3Uqpy8Iw0UPnKghXTjCF-X5dP7E394wi0SKC4iNlDI0nsurai4BaHsIT16MPeZzLxYqsW6HwVPOKkFVNRcEiTLB-qFAdN-oIG2WY59--nDysiDNS28MssxZUBJebh5tD_-h2H6Fiq_ZbDFeLHA"
       }
     ]
+  },
+  {
+    "id": 477083873,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Lebanon: Artillery shelling targeted outskirts town Shamaa",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Artillery shelling targeted the outskirts of the town of Shamaa.• 15:03 — Lebanon: Al Mayade (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477085986,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Sanaa, Yemen: News explosions heard Yemeni capital Sanaa",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ News of explosions heard in the Yemeni capital, Sanaa• 14:56 — Reports of Saudi airstrikes on Sanaa, the capital of Yemen. (Rasd Akhbar Shehaba)• 15:07 — There is no confirmation yet of an aggression against the Yemeni capital, Sanaa, but reports speak of hearing the sound of one or more explosions, and it is likely that it resulted from air-defense interception missiles… (Rasd Akhbar Shehaba)• 15:12 — I observed at least one impact near the point that was previously targeted. I await your ca",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bc1cf33c74.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qYGJ6jaDRTDA7gm_fyIA2GQBpXJSQ96rkyGx-wok8WDmNxOp249k1bzAZ15Ljhur490C8kUzT1hocn4gly0uA4qNzXbKpjC65pCK-lA9xYhwVL43agV6PwYKFHNrqXGFulKV09LBXxkEPC0mlMp4tfRdb-EOWLI54h1nevgyCebMme_sFbmkR_ZhIrXNZgmMmxSAKNwQKfxxg-DvPtSgpTvgKIWv8C1r6cLC2V6An4jg0LGEAXtTZaHf2RWdyw98YX9mOz6o9xMcEXi_RKIcNUmmtP1qD6gfFzBL3vf_ks09NCogXv3rrlsn7_gdzuX8GXwNH7NKoqviEcPqDlvMGg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058186",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qYGJ6jaDRTDA7gm_fyIA2GQBpXJSQ96rkyGx-wok8WDmNxOp249k1bzAZ15Ljhur490C8kUzT1hocn4gly0uA4qNzXbKpjC65pCK-lA9xYhwVL43agV6PwYKFHNrqXGFulKV09LBXxkEPC0mlMp4tfRdb-EOWLI54h1nevgyCebMme_sFbmkR_ZhIrXNZgmMmxSAKNwQKfxxg-DvPtSgpTvgKIWv8C1r6cLC2V6An4jg0LGEAXtTZaHf2RWdyw98YX9mOz6o9xMcEXi_RKIcNUmmtP1qD6gfFzBL3vf_ks09NCogXv3rrlsn7_gdzuX8GXwNH7NKoqviEcPqDlvMGg"
+      }
+    ]
+  },
+  {
+    "id": 477088100,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Jordan: Initial hits successful Sultanate 1522 First",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🚫 Initial hits in the successful Sultanate• 15:22 — 📡 First satellite images of hits at the King Hussein Air Base in Jordan (Iran Militarism)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VBzQYsD8_hUdiMYl5o_6oIMsGnY5jwajhj_kVFsbgK-yMQ2ag_i74xyHRqowFM6ds3p_L_WD42qbCBaJqNIniEAjo720HVAzU4SDiWi5EP8sAFfCv7BfBfxR8P6JXPHyxu8Pvz4v2_Z8aKFqmPUVp2b02rA-uOXNlYgjCkBoTg1qRbcwaHOFKvU9HrkZHPEanz9EQ6s2Jg5faE6oSREOd_jUqUJTAtOqcB_pbr6WwPWIgJeXhbig8VnWGVN2N5vFpIobbaYNv-MxO5da3Rs13gNz8wFqmnNpXOisGN5c4irThZcwF1ZOPT9uXBn2AgaPmc0GIspVJ8lqdcRp6pSCuQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477092331,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Yemen: explosion heard Yemeni capital Sanaa Locals",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Telegram (simurgh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 An explosion was heard in the Yemeni capital, Sanaa. Locals also report hearing the sound of fighter jets. @SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
