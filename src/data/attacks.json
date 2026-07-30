@@ -79956,5 +79956,101 @@
         "thumbnail": "https://cdn4.telesco.pe/file/GWEDr8VVOvQqgGQkX7E1fREduvLuidFBurpoIiBurgmpwB0Udd_WtbfUu3qmvnKUOJ6Gzfed6_RraCwcZCQzrFX6H3ZiTsoWjlgPxXAMdsy0fART_9xVf6rH-7m4BmPO1XwSGQ9Kr8KJuivt14s6IQU_urb7Fh_1NJdqrRae4uit3KKqeJG6hWCFXYWSYflhkuEqug6tn5FwpfX6NCWcpYfjM7qBPpoAfCeyN8Wivqkr6uAVQnQuWw8PJQgIKsuoe5vm66PCekxTZfxosn41NVjNO6dAjOqd4eobK12FW73ys6N784Mprs-t6lqsAwqLukCLksqfv08Awnj2tvB8gQ"
       }
     ]
+  },
+  {
+    "id": 477027200,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Khuzestan: American aggression vicinity Shadegan city southern",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ American aggression on the vicinity of Shadegan city, southern Iran• 01:21 — Iran: Deputy Governor of Khuzestan: The areas surrounding Shadegan city were subjected to missile attacks launched by the terrorist American enemy. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477029286,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Kuwait: Again rockets launched from bases American",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Again, rockets launched from the bases of the American enemy in the statelet of Kuwait",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477031373,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Ahvaz, Khuzestan: Iran Deputy Governor Khuzestan areas surrounding",
+    "location": "Ahvaz, Khuzestan",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran: Deputy Governor of Khuzestan: The areas surrounding the city of Ahvaz were subjected to a missile attack by the American terrorist enemy• 01:33 — Tasnim Agency: Deputy for Security and Administration in Khuzestan Province: Areas near the city of Ahvaz were subjected to a missile attack by the American terrorist enemy. According to the report of Tasnim Agency's co… (Rasd Akhbar Shehaba)• 01:43 — The power grid in Ahvaz has been disrupted. (Iran Militarism)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
