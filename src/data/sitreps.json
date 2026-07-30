@@ -170097,6 +170097,66 @@
     "verified": false
   },
   {
+    "id": 1785442813632,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-29",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder📌 Tehran, IRNA – The Islamic Republic of Iran Army has successfully executed the 26th phase of Operation Thunder, launching a precise drone strike against the United States military’s Sheikh Isa Air Base in Bahrain.The...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442823279,
+    "type": "intercept",
+    "location": "Sheikh Isa Air Base",
+    "coordinates": [
+      25.9383,
+      50.5917
+    ],
+    "date": "2026-07-29",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder📌 Tehran, IRNA – The Islamic Republic of Iran Army has successfully executed the 26th phase of Operation Thunder, launching a precise drone strike against the United States military’s Sheikh Isa Air Base in Bahrain.The...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442775322,
+    "type": "intercept",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-07-29",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder📌 Tehran, IRNA – The Islamic Republic of Iran Army has successfully executed the 26th phase of Operation Thunder, launching a precise drone strike against the United States military’s Sheikh Isa Air Base in Bahrain.The...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442802854,
+    "type": "intercept",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-29",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder📌 Tehran, IRNA – The Islamic Republic of Iran Army has successfully executed the 26th phase of Operation Thunder, launching a precise drone strike against the United States military’s Sheikh Isa Air Base in Bahrain.The...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -174279,6 +174339,299 @@
     "source": "Egypt",
     "sourceUrl": "https://t.me/s/me_spectator",
     "description": "— 🇪🇬/🇮🇷 Egyptian President El-Sisi: ‘We have launched a thorough investigation to determine the origin of the drones that struck Damietta Port’@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442770666,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Former Minister Walid Fayad:Iran is a friend of Lebanon, and the proof is that it offered to help with the fuel issue when I was in the ministry, &#036;300 million, and a 600,000-ton grant of fuel&#33;",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ce7e490a62.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BTYqI56ETfF-duM4P2gQhGMYc6CRsfVd3LA8KjebeUyBLxFPe_avSXjZmZbmLoe6Y66wbF5yarm9TcLhxDj1tjEuxi2G-JQmUeRVfMPPMzL3d_8pUmOFcNn2GtLCmSG5nJJTCjh7opDMqxeV3dGoAzG89EHkhaP_TSIAxIG9VNeaW7Gz8kro8MU-ijPrRwhKRCoiFu4MHCtWTeBhETLmXHqZ6znpqJ3ZFw3jYdxmfB7-M2JEA0ufZIl5ovZrRT9kAaAksDv0P8sQH72yhhpIQYsxpzRaOOHcKZHCNSZXQ1x3veIyflsmKamAxoY32I5_s2MuUyIGCthdlWn70hfImQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058380",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BTYqI56ETfF-duM4P2gQhGMYc6CRsfVd3LA8KjebeUyBLxFPe_avSXjZmZbmLoe6Y66wbF5yarm9TcLhxDj1tjEuxi2G-JQmUeRVfMPPMzL3d_8pUmOFcNn2GtLCmSG5nJJTCjh7opDMqxeV3dGoAzG89EHkhaP_TSIAxIG9VNeaW7Gz8kro8MU-ijPrRwhKRCoiFu4MHCtWTeBhETLmXHqZ6znpqJ3ZFw3jYdxmfB7-M2JEA0ufZIl5ovZrRT9kAaAksDv0P8sQH72yhhpIQYsxpzRaOOHcKZHCNSZXQ1x3veIyflsmKamAxoY32I5_s2MuUyIGCthdlWn70hfImQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442746072,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 Widespread Iraqi استقبال of Iranian pilgrims🔹Report by IRIB reporter from Amud 285🌐 iribnews.ir",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058381",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442773452,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Again, Israeli warplanes take off towards southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442783919,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Again, Israeli warplanes take off towards southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442763113,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-30",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Foreign Minister Abbas Araghchi: Egypt is an important friend and partner in the region and its security is of utmost importance to us• 20:01 — Araqchi's Warning Against Israeli False Flag Operations in the Region; Let's Be Vigilant&#33; 🔹Egypt is an important friend and partner in the reg...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/AFn6re-1ilTBbalxjq0x_OvF3AvI_c7pTLVM4orWEO_7tH0Z8dd9XUsGfP1-3vWOcBZZzTXQcJM33NC3WZAVS67gCi4peM5xzJrQnM-7xgAUuD1DaXbOVGFBJBNTA4KA6PXkSrnLV5rKltwO8Cd9-Zq1L8QarBVTeF0OyYaF_X9E7y6ktk_V7NRlWAey5zMZduH-rmTuwi_OSQavd9xg_reS0nY074ojfwOjdfDLeo8GMTG4bPkOP_KJrfiVEKo1sp1XOFuDrxzPrsX_Kv_63dW6iccNDN1_UVwDQpXwbbw5W2PGKNGa9AxTpZ8MM88AXwtgTLlulXTVmKVPgcNjFg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442837817,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Foreign Minister Abbas Araghchi: Egypt is an important friend and partner in the region and its security is of utmost importance to us• 20:01 — Araqchi's Warning Against Israeli False Flag Operations in the Region; Let's Be Vigilant&#33; 🔹Egypt is an important friend and partner in the reg...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/AFn6re-1ilTBbalxjq0x_OvF3AvI_c7pTLVM4orWEO_7tH0Z8dd9XUsGfP1-3vWOcBZZzTXQcJM33NC3WZAVS67gCi4peM5xzJrQnM-7xgAUuD1DaXbOVGFBJBNTA4KA6PXkSrnLV5rKltwO8Cd9-Zq1L8QarBVTeF0OyYaF_X9E7y6ktk_V7NRlWAey5zMZduH-rmTuwi_OSQavd9xg_reS0nY074ojfwOjdfDLeo8GMTG4bPkOP_KJrfiVEKo1sp1XOFuDrxzPrsX_Kv_63dW6iccNDN1_UVwDQpXwbbw5W2PGKNGa9AxTpZ8MM88AXwtgTLlulXTVmKVPgcNjFg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442824873,
+    "type": "airstrike",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2026-07-30",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Foreign Minister Abbas Araghchi: Egypt is an important friend and partner in the region and its security is of utmost importance to us• 20:01 — Araqchi's Warning Against Israeli False Flag Operations in the Region; Let's Be Vigilant&#33; 🔹Egypt is an important friend and partner in the reg...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/AFn6re-1ilTBbalxjq0x_OvF3AvI_c7pTLVM4orWEO_7tH0Z8dd9XUsGfP1-3vWOcBZZzTXQcJM33NC3WZAVS67gCi4peM5xzJrQnM-7xgAUuD1DaXbOVGFBJBNTA4KA6PXkSrnLV5rKltwO8Cd9-Zq1L8QarBVTeF0OyYaF_X9E7y6ktk_V7NRlWAey5zMZduH-rmTuwi_OSQavd9xg_reS0nY074ojfwOjdfDLeo8GMTG4bPkOP_KJrfiVEKo1sp1XOFuDrxzPrsX_Kv_63dW6iccNDN1_UVwDQpXwbbw5W2PGKNGa9AxTpZ8MM88AXwtgTLlulXTVmKVPgcNjFg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442773066,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Foreign Ministry #Saudi Arabia: We condemn and denounce Iran's aggression against #Kuwait and Jordan, including the targeting of a company headquarters north of #Kuwait.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442756266,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Foreign Ministry #Saudi Arabia: We condemn and denounce Iran's aggression against #Kuwait and Jordan, including the targeting of a company headquarters north of #Kuwait.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442794122,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Foreign Ministry #Saudi Arabia: We condemn and denounce Iran's aggression against #Kuwait and Jordan, including the targeting of a company headquarters north of #Kuwait.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442839950,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📹 Special Interview | Full video of the interview with the Ambassador of the Islamic Republic of Iran to the Republic of Iraq, Mr. Mohammad Kazem Al Sadiq▪️The KHAMENEI.IR media website publishes the full video of the interview it conducted with the Ambassador of the Islamic Republic of Iran to ...",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058387",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/j0cIqimjSjOu1p6y9ar_JTcoz9_5AKXQ8GC3lIAwIKA2DJWKFQ_IqOrcMI-YeBBvOg_0wdHjNcYONArA7v_gKZmCc85RMr8DQ3APBjoZfAtTi8wyO2cBGmXqhpNhzfKaDgvf2g5CLF70C2AciWGaKyYLmFuO4ehWzLUZkDedDQBSGbixrbYdpgQvnSLNhDNQyblqv046WBg6ZykIw5Xy1NbKqvVPhKglktKlPfPi9KxMcUkijpQprboYIAykhJHsROGPWy939Ye2YKOCHCuclPyzYFr4d3OqU08h2hZe_dbqbdDabyLH0PqykJWCkE6Lw4rbk4dj73BbSvYqyMf9Gw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442750612,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy media: Stabbing of an Israeli at the \"Ozora\" music festival in Hungary.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785442752298,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-30",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇪🇬/🇮🇱 Iran’s Foreign Minister, Abbas Araqchi:‘Egypt is considered a friend and important partner in the region, and its security constitutes an utmost priority for us.We must all remain vigilant toward Israeli schemes and ‘false flag’ operations that aim to undermine regional peace. The ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/U8oAR2TBypIJxMU14wH1R765UJPHO8OajVQjsCt9MBdtLvuFccdGJdRyYKmzrMiZ_MlQ__D_sHgt7Q4_EBFJmwmedmPUWER4xJ6C1dAeMuu6SfOfiApr-0WmXzYKgHIDgYoH_nV8WZnjRzrhN72yoG7cmoW8tUHiN04C34UY9ofTkHvruxoHhgdg5R8l99D68ZfqCYXbUtViDgd6FV-VLSqObTBTbfCihK4mhPfaL4IPcCa48FijPWbpIMJmGWeyJmR2CucIEWRztDkpfoESpB6oN0koUStOrpOnPMvlK0DqHqdNV65Bwvx-uNIZ3fwu_b7v7Tgrz0MU4dokEqtdcg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442818233,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇪🇬/🇮🇱 Iran’s Foreign Minister, Abbas Araqchi:‘Egypt is considered a friend and important partner in the region, and its security constitutes an utmost priority for us.We must all remain vigilant toward Israeli schemes and ‘false flag’ operations that aim to undermine regional peace. The ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/U8oAR2TBypIJxMU14wH1R765UJPHO8OajVQjsCt9MBdtLvuFccdGJdRyYKmzrMiZ_MlQ__D_sHgt7Q4_EBFJmwmedmPUWER4xJ6C1dAeMuu6SfOfiApr-0WmXzYKgHIDgYoH_nV8WZnjRzrhN72yoG7cmoW8tUHiN04C34UY9ofTkHvruxoHhgdg5R8l99D68ZfqCYXbUtViDgd6FV-VLSqObTBTbfCihK4mhPfaL4IPcCa48FijPWbpIMJmGWeyJmR2CucIEWRztDkpfoESpB6oN0koUStOrpOnPMvlK0DqHqdNV65Bwvx-uNIZ3fwu_b7v7Tgrz0MU4dokEqtdcg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442800827,
+    "type": "airstrike",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2026-07-30",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇪🇬/🇮🇱 Iran’s Foreign Minister, Abbas Araqchi:‘Egypt is considered a friend and important partner in the region, and its security constitutes an utmost priority for us.We must all remain vigilant toward Israeli schemes and ‘false flag’ operations that aim to undermine regional peace. The ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/U8oAR2TBypIJxMU14wH1R765UJPHO8OajVQjsCt9MBdtLvuFccdGJdRyYKmzrMiZ_MlQ__D_sHgt7Q4_EBFJmwmedmPUWER4xJ6C1dAeMuu6SfOfiApr-0WmXzYKgHIDgYoH_nV8WZnjRzrhN72yoG7cmoW8tUHiN04C34UY9ofTkHvruxoHhgdg5R8l99D68ZfqCYXbUtViDgd6FV-VLSqObTBTbfCihK4mhPfaL4IPcCa48FijPWbpIMJmGWeyJmR2CucIEWRztDkpfoESpB6oN0koUStOrpOnPMvlK0DqHqdNV65Bwvx-uNIZ3fwu_b7v7Tgrz0MU4dokEqtdcg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785442833096,
+    "type": "drone",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2026-07-30",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "🇪🇬🇺🇸🇮🇷 Iran humbles Egypt, bombs American LNG tanker in DamiettaYesterday, Iranian drones struck two vessels in Damietta Port, Egypt. Subsequently, the price of oil and gas rose by several points.In times of political instability, bitcoin is the move. Wondering how to spot crypto trading oppor...",
     "media": [],
     "verified": false
   },

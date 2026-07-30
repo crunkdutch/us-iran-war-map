@@ -80830,6 +80830,38 @@
     "media": []
   },
   {
+    "id": 477167021,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Interception — Tehran, Sheikh Isa Air Base, Persian Gulf: Iranian Army strikes base Bahrain 26th",
+    "location": "Tehran, Sheikh Isa Air Base, Persian Gulf, Bahrain",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder📌 Tehran, IRNA – The Islamic Republic of Iran Army has successfully executed the 26th phase of Operation Thunder, launching a precise drone strike against the United States military’s Sheikh Isa Air Base in Bahrain.The operation, carried out by advanced destruction drones, targeted critical infrastructure, including power generators, navigation systems, and administrative support buildings of the US military presen",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477002246,
     "type": "missile",
     "status": "confirmed",
