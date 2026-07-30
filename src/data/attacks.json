@@ -80052,5 +80052,48 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477033461,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bahrain, Kuwait: Alhurra Channel report wars effects regions",
+    "location": "Bahrain, Kuwait",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Alhurra US Channel in a report on the war's effects on the region's economy:Bahrain's debts exceed the value of its entire economic outputBahrain's debts this year approached 150% of GDP, meaning that every dollar produced by the Bahraini economy is matched by approximately one and a half dollars in debt.How did things get here? The war with Iran.The war hit the economies of Bahrain and Kuwait hard, and more dangerously, Iran has recently focused its strikes more on these two countries specif",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bb907f6861.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/W1fjtsn9TtI1uJ-cnCI0PFEOLdAWiyh0Vkx5M7egV-e3Qjc3i7ZlHIDc3C0brlKFKG-zkIkHHYjLPFfyGDd318BUHCbRvsg-_Z4u2k8n1ttQAmD016p4_pap1p66sg_vYzJiKEhvprQWQjALbinGWIFb46TpdJ1XGiCsTQ1eJYD0oGiNTzMbvJEadZ8YW6iLLvelkamZRjXo7hh2FyETihITD_qukkfFwN9KF2OU4DnHSsKK7RRyL-X52fTaxsF5gdWiIzFgUul6SM0zwH57HgcxJaRZfQAEtC3eodF6WAR58fOUPatqE7KGOG8fGX5OShmwta2Z9CuuDUGPSJBzRg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057726",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/W1fjtsn9TtI1uJ-cnCI0PFEOLdAWiyh0Vkx5M7egV-e3Qjc3i7ZlHIDc3C0brlKFKG-zkIkHHYjLPFfyGDd318BUHCbRvsg-_Z4u2k8n1ttQAmD016p4_pap1p66sg_vYzJiKEhvprQWQjALbinGWIFb46TpdJ1XGiCsTQ1eJYD0oGiNTzMbvJEadZ8YW6iLLvelkamZRjXo7hh2FyETihITD_qukkfFwN9KF2OU4DnHSsKK7RRyL-X52fTaxsF5gdWiIzFgUul6SM0zwH57HgcxJaRZfQAEtC3eodF6WAR58fOUPatqE7KGOG8fGX5OShmwta2Z9CuuDUGPSJBzRg"
+      }
+    ]
   }
 ]

@@ -165011,5 +165011,110 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785380771402,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Alhurra US Channel in a report on the war's effects on the region's economy:Bahrain's debts exceed the value of its entire economic outputBahrain's debts this year approached 150% of GDP, meaning that every dollar produced by the Bahraini economy is matched by approximately one and a half dollars...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785380745899,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Alhurra US Channel in a report on the war's effects on the region's economy:Bahrain's debts exceed the value of its entire economic outputBahrain's debts this year approached 150% of GDP, meaning that every dollar produced by the Bahraini economy is matched by approximately one and a half dollars...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785380734004,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mehr Iranian Agency: Only 14 commercial ships crossed the Strait of Hormuz during the past 24 hours",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785380718243,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Nasreddin Amer, Deputy Head of the Media Authority of the Ansar Allah movement:• Instead of lifting its unjust blockade on the Yemeni people, the Saudi enemy goes to open a war front and launch an aggression against another Arab Muslim country, Iraq, it and its American master, in alignment with ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785380753257,
+    "type": "naval",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Nasreddin Amer, Deputy Head of the Media Authority of the Ansar Allah movement:• Instead of lifting its unjust blockade on the Yemeni people, the Saudi enemy goes to open a war front and launch an aggression against another Arab Muslim country, Iraq, it and its American master, in alignment with ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785380718923,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Nasreddin Amer, Deputy Head of the Media Authority of the Ansar Allah movement:• Instead of lifting its unjust blockade on the Yemeni people, the Saudi enemy goes to open a war front and launch an aggression against another Arab Muslim country, Iraq, it and its American master, in alignment with ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785380757940,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Continued incursions by the Zionist enemy army in the West Bank",
+    "media": [],
+    "verified": false
   }
 ]
