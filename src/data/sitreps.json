@@ -163952,5 +163952,448 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785372568443,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | US attacked sirik.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372638325,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran attacked US base and Kurd bases in Erbil.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372622661,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | New attacks on Abadan, Khorramshehr, Bandar Abbas and Bushehr.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372595242,
+    "type": "airstrike",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | New attacks on Abadan, Khorramshehr, Bandar Abbas and Bushehr.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372563830,
+    "type": "airstrike",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | New attacks on Abadan, Khorramshehr, Bandar Abbas and Bushehr.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372588484,
+    "type": "airstrike",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | New attacks on Qeshm Island.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372582561,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | New attacks on Qeshm Island.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372630559,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Missiles were launched towards the Strait of Hormuz.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372569374,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "They’re bombing Sirik again, the Kiryat Shmona of Iran.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372589053,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇺🇸 NEW: The U.S. has bombed a pier in Sirik, which it had already bombed 11 previous times@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372612724,
+    "type": "missile",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "U.S. strikes in Abadan, Bushehr, Khorramshahr, Kish, etc.Basically the south again and Ahvaz, same target bank as before.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372633653,
+    "type": "missile",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "U.S. strikes in Abadan, Bushehr, Khorramshahr, Kish, etc.Basically the south again and Ahvaz, same target bank as before.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372623653,
+    "type": "missile",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "U.S. strikes in Abadan, Bushehr, Khorramshahr, Kish, etc.Basically the south again and Ahvaz, same target bank as before.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372619147,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Intense tank fire from the occupation forces in the Al-Mawasi area of Rafah city, southern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372578518,
+    "type": "missile",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent: Missiles launched from Kuwait",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372629067,
+    "type": "airstrike",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Aggression targets Abadan city in southern Iran• 00:05 — Sound of explosion in Kish and Abadan (Iran Militarism)• 00:10 — New explosions heard in Abadan (Rasd Akhbar Shehaba)• 00:27 — Columns of smoke rising due to the brutal American terrorist aggression in Abadan (Rasd Akhbar Shehaba)• 00:47 — ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5b56621fad.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RIhG5VuSlW0ICgBP5_pfhLIfGjITDFBa4l42B6Ctq6bHMq8xIWBns8JaVatVg_6sWUfo2XMboI7uaTmwqa1jfMQH5oVvcjEBAswhR-v2swqEsCfpckriJIhLt6JcAXTOBE6UUcI-X9B40PgYgRWXzOwXxV3M2Yvc0nv187DsM0EqZNc5glh_DcoKUqS-eE182eCXuVbuqpRYUeukdqbFc6C-dro7OdrOrYx5tsz76sMqZWTcoUlEGg0bVcaARqSugC_GSDMgXv8Q7wiAOAgyHS_omaMmILYsQalSJSCjXRPWHrwEBNPRSIWym7do6mthhx17c_A7dGMBml73yb1FZQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057697",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RIhG5VuSlW0ICgBP5_pfhLIfGjITDFBa4l42B6Ctq6bHMq8xIWBns8JaVatVg_6sWUfo2XMboI7uaTmwqa1jfMQH5oVvcjEBAswhR-v2swqEsCfpckriJIhLt6JcAXTOBE6UUcI-X9B40PgYgRWXzOwXxV3M2Yvc0nv187DsM0EqZNc5glh_DcoKUqS-eE182eCXuVbuqpRYUeukdqbFc6C-dro7OdrOrYx5tsz76sMqZWTcoUlEGg0bVcaARqSugC_GSDMgXv8Q7wiAOAgyHS_omaMmILYsQalSJSCjXRPWHrwEBNPRSIWym7do6mthhx17c_A7dGMBml73yb1FZQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785372631785,
+    "type": "airstrike",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Aggression targets Abadan city in southern Iran• 00:05 — Sound of explosion in Kish and Abadan (Iran Militarism)• 00:10 — New explosions heard in Abadan (Rasd Akhbar Shehaba)• 00:27 — Columns of smoke rising due to the brutal American terrorist aggression in Abadan (Rasd Akhbar Shehaba)• 00:47 — ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5b56621fad.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RIhG5VuSlW0ICgBP5_pfhLIfGjITDFBa4l42B6Ctq6bHMq8xIWBns8JaVatVg_6sWUfo2XMboI7uaTmwqa1jfMQH5oVvcjEBAswhR-v2swqEsCfpckriJIhLt6JcAXTOBE6UUcI-X9B40PgYgRWXzOwXxV3M2Yvc0nv187DsM0EqZNc5glh_DcoKUqS-eE182eCXuVbuqpRYUeukdqbFc6C-dro7OdrOrYx5tsz76sMqZWTcoUlEGg0bVcaARqSugC_GSDMgXv8Q7wiAOAgyHS_omaMmILYsQalSJSCjXRPWHrwEBNPRSIWym7do6mthhx17c_A7dGMBml73yb1FZQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057697",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RIhG5VuSlW0ICgBP5_pfhLIfGjITDFBa4l42B6Ctq6bHMq8xIWBns8JaVatVg_6sWUfo2XMboI7uaTmwqa1jfMQH5oVvcjEBAswhR-v2swqEsCfpckriJIhLt6JcAXTOBE6UUcI-X9B40PgYgRWXzOwXxV3M2Yvc0nv187DsM0EqZNc5glh_DcoKUqS-eE182eCXuVbuqpRYUeukdqbFc6C-dro7OdrOrYx5tsz76sMqZWTcoUlEGg0bVcaARqSugC_GSDMgXv8Q7wiAOAgyHS_omaMmILYsQalSJSCjXRPWHrwEBNPRSIWym7do6mthhx17c_A7dGMBml73yb1FZQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785372642746,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Saudi Arabia cancels all flights to its international airports in Jizan, Abha, and Najran.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372619706,
+    "type": "missile",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Explosions heard in Bushehr and Khorramshahr cities.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372606706,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: Occupation artillery targets Al-Bureij refugee camp in the central Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372583851,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Explosions heard in Bandar Abbas",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372606555,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza: An apartment was bombed opposite the Bureij Municipality in the central Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372645769,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Occupation drone aircraft launch a raid on a residential apartment near Al-Ma'mounia School in the center of Gaza City",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ec0202d83a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LMrZDd5zvHNmxpYo5YMpKcTPP2tHNQJPHn74Frhxnw9ykSXqQpvoYt2nNEJHViuvSe3HYULms91hfOALntEn1zxGwZ3D5IsvHl-F3BVO9_qn9c_WqAmmKsNyviBxzXhcEP6-fuDO26VUoTy0kcWG8Z4L_bvq3t7vzW_0DSbbBg3mCflFddC6SwAToNIkdnuu1RveMTRdT90WOGd4LPXZSVTY-0EmD181_o2TJOYIsf2EEiu8wWlIPtkumdaBZwAyYX28Cbq6Pb8vqqUNoHl3P8wLAx4rnWOYKiupcRpTKP0TkvZiw7EtmHOyWotmvJRRCUpiaU9fr8O-psKDUsytGQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057704",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LMrZDd5zvHNmxpYo5YMpKcTPP2tHNQJPHn74Frhxnw9ykSXqQpvoYt2nNEJHViuvSe3HYULms91hfOALntEn1zxGwZ3D5IsvHl-F3BVO9_qn9c_WqAmmKsNyviBxzXhcEP6-fuDO26VUoTy0kcWG8Z4L_bvq3t7vzW_0DSbbBg3mCflFddC6SwAToNIkdnuu1RveMTRdT90WOGd4LPXZSVTY-0EmD181_o2TJOYIsf2EEiu8wWlIPtkumdaBZwAyYX28Cbq6Pb8vqqUNoHl3P8wLAx4rnWOYKiupcRpTKP0TkvZiw7EtmHOyWotmvJRRCUpiaU9fr8O-psKDUsytGQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785372610623,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Axios, citing the US enemy army: Strikes on Iran are a response to an Iranian missile attack that targeted a US base in Jordan",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/EuBqZxUQ4wKenhmE2suRObfM1I6E4qQZOVwvtIaRsEC_BAXlE2EkMeROid-slTGA9Jl40BK2YfQNG5zR2r4jFSDcHzLIZP3DyBF0oNkjFQ7b0MXnWM-zsJH8-vSvIT30kBUu0x5ycD8lWuOsCtZveFAeaDz_Lhjj9NRQqxtZCjT2v_nIqB1ybLVLUxj8ikLx6snoko_A_fPkHjRwj-a36u5fOsIgh1sem_C253Qf-sSZ8go25Yz0ln3Zmuv5405mCR4eX60PDA-MIJ6KQFJvVEipnYhtAHS-4tvf4WbpNoScIg4j3gDpRKQ2B1T_GBfkJj12yTpxgNBdXXA8K5NChQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785372583459,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent:Missiles launched towards the Strait of Hormuz",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372610404,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Israeli helicopter shelling west of Khan Yunis city in the southern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785372569086,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Israeli helicopter shelling west of Khan Yunis city in the southern Gaza Strip.",
+    "media": [],
+    "verified": false
   }
 ]

@@ -79390,5 +79390,384 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 476993960,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Fars: Reports explosion city Noorbabad Fars provinceenemywatch",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Reports of an explosion in the city of Noorbabad, in the Fars province.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/42bf0d90f8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BPxBYiLXdq4Gnvc_OZzYCG0ecdCRjxrnvR-x5BKrp8a0vPjVrOTHgdYOGmlhzXGqRpz5dysZL7Mttp1Vj1IKQANSZq0_g1LBX_vG11qPhRjtjg2AORVYcHs-n6ypj3Norx3ARKpFS9w3ac3kGg1zWFiE9bFLN2nVNsrEukI-grTWvsmzKd9lBz5QUAmzdplUBHHeXMHzarU7hwkC45GXV3pbtv6BmgljfGzCJTaOlkh5hf9vdP7W5fnZ3BmDIYSUfVkIEmgGsGbzxqZ7zLPxHH_9uzcFSi9NiTTLNKknM-4gP941OxjR9t1r1AjnFEOpKWD19xotvBf4DQFCtEPVCQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057369",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BPxBYiLXdq4Gnvc_OZzYCG0ecdCRjxrnvR-x5BKrp8a0vPjVrOTHgdYOGmlhzXGqRpz5dysZL7Mttp1Vj1IKQANSZq0_g1LBX_vG11qPhRjtjg2AORVYcHs-n6ypj3Norx3ARKpFS9w3ac3kGg1zWFiE9bFLN2nVNsrEukI-grTWvsmzKd9lBz5QUAmzdplUBHHeXMHzarU7hwkC45GXV3pbtv6BmgljfGzCJTaOlkh5hf9vdP7W5fnZ3BmDIYSUfVkIEmgGsGbzxqZ7zLPxHH_9uzcFSi9NiTTLNKknM-4gP941OxjR9t1r1AjnFEOpKWD19xotvBf4DQFCtEPVCQ"
+      }
+    ]
+  },
+  {
+    "id": 476996030,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Ahvaz: Reports explosion city Ahvazenemywatch",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Reports of an explosion in the city of Ahvaz.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 476998101,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm Island, Qeshm, Fars: Explosions were reported Parsian Hormozgan Province",
+    "location": "Qeshm Island, Qeshm, Fars, Hormozgan",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Explosions were reported in Parsian, Hormozgan Province. Additional reports indicate an explosion in Lar, Fars Province. Another explosion was also heard on Qeshm Island, coinciding with intense jet activity over the area.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477000173,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Missiles were launched towards Strait Hormuzenemywatch",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Missiles were launched towards the Strait of Hormuz.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477002246,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Kuwait: Urgent Missiles launched from Kuwait",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Urgent: Missiles launched from Kuwait",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477004320,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Gaza Strip: Occupied Palestine Mayadeen correspondent Occupation artille...",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: Occupation artillery targets Al-Bureij refugee camp in the central Gaza Strip",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477006395,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza Strip: Gaza apartment bombed opposite Bureij Municipality",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Gaza: An apartment was bombed opposite the Bureij Municipality in the central Gaza Strip.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477008471,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Gaza City: Palestinian sources Occupation drone aircraft launch",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Palestinian sources: Occupation drone aircraft launch a raid on a residential apartment near Al-Ma'mounia School in the center of Gaza City",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ec0202d83a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LMrZDd5zvHNmxpYo5YMpKcTPP2tHNQJPHn74Frhxnw9ykSXqQpvoYt2nNEJHViuvSe3HYULms91hfOALntEn1zxGwZ3D5IsvHl-F3BVO9_qn9c_WqAmmKsNyviBxzXhcEP6-fuDO26VUoTy0kcWG8Z4L_bvq3t7vzW_0DSbbBg3mCflFddC6SwAToNIkdnuu1RveMTRdT90WOGd4LPXZSVTY-0EmD181_o2TJOYIsf2EEiu8wWlIPtkumdaBZwAyYX28Cbq6Pb8vqqUNoHl3P8wLAx4rnWOYKiupcRpTKP0TkvZiw7EtmHOyWotmvJRRCUpiaU9fr8O-psKDUsytGQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057704",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LMrZDd5zvHNmxpYo5YMpKcTPP2tHNQJPHn74Frhxnw9ykSXqQpvoYt2nNEJHViuvSe3HYULms91hfOALntEn1zxGwZ3D5IsvHl-F3BVO9_qn9c_WqAmmKsNyviBxzXhcEP6-fuDO26VUoTy0kcWG8Z4L_bvq3t7vzW_0DSbbBg3mCflFddC6SwAToNIkdnuu1RveMTRdT90WOGd4LPXZSVTY-0EmD181_o2TJOYIsf2EEiu8wWlIPtkumdaBZwAyYX28Cbq6Pb8vqqUNoHl3P8wLAx4rnWOYKiupcRpTKP0TkvZiw7EtmHOyWotmvJRRCUpiaU9fr8O-psKDUsytGQ"
+      }
+    ]
+  },
+  {
+    "id": 477010548,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Jordan: Axios citing enemy army Strikes Iran",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Axios, citing the US enemy army: Strikes on Iran are a response to an Iranian missile attack that targeted a US base in Jordan",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/EuBqZxUQ4wKenhmE2suRObfM1I6E4qQZOVwvtIaRsEC_BAXlE2EkMeROid-slTGA9Jl40BK2YfQNG5zR2r4jFSDcHzLIZP3DyBF0oNkjFQ7b0MXnWM-zsJH8-vSvIT30kBUu0x5ycD8lWuOsCtZveFAeaDz_Lhjj9NRQqxtZCjT2v_nIqB1ybLVLUxj8ikLx6snoko_A_fPkHjRwj-a36u5fOsIgh1sem_C253Qf-sSZ8go25Yz0ln3Zmuv5405mCR4eX60PDA-MIJ6KQFJvVEipnYhtAHS-4tvf4WbpNoScIg4j3gDpRKQ2B1T_GBfkJj12yTpxgNBdXXA8K5NChQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477012626,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: UrgentMissiles launched towards Strait Hormuz",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Urgent:Missiles launched towards the Strait of Hormuz",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477014705,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Israel, Gaza Strip: Palestinian sources Israeli helicopter shelling west",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Palestinian sources: Israeli helicopter shelling west of Khan Yunis city in the southern Gaza Strip.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
