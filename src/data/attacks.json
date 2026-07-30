@@ -80233,5 +80233,149 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477043916,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: The_Islamic_RepublicIssued Islamic Revolutionary Guard Corps...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ #The_Islamic_RepublicIssued by the Islamic Revolutionary Guard Corps:O zealous and rising Islamic Iranian people; your determination, will, and steadfastness in the field have scattered the enemy's front, strengthened the ranks of Islam's fighters, and given them a new spirit and life.Last night, two oil tankers, instigated by American aircraft, attempted to exit the unsafe route south of the Strait of Hormuz, but after a severe fire broke out in one of them, both ships quickly turned back.Th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477046010,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Shiraz, Qatar: funeral procession Martyr Brigadier General Pilot",
+    "location": "Shiraz, Qatar",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🎦 The funeral procession of Martyr Brigadier General Pilot Majid Kazemi begins in Shiraz🔹 This brave martyr, on March 1, in a courageous act, bombed the American military base in Qatar and suffered an accident upon his return. The body of this martyr is currently being carried on the shoulders of the people of Shiraz, who are loyal to the Velayat-e Faqih.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/79bd9c0ed3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vvjGBX4PAgfp8ip5Iu3H85j9n1IxXONcfeb1JXtVc0qh19uPT2iRYbGAvHzsQGWPwdkmCmNBbQCTyTt7-NnBHmvrEjEBL6trRjnjC5rqwBf9ein7srtG578Y7cIXADMOaiyna_ebf98fBGgvQS2JSkygPu7bMITwtBZZhP7NRZRfsM8sgeZDI3YpX__80H-bhn-ZT6deMKWtHUYi3i8c0uVIa_5b03ZYplJGVrspITZpiLGe1bwPkz2Q1aYYFLk4c4lxKyq_qLW7ClzTQiO9pJ0qetwF9-gQDH8wW_MJ1UuRdiBWGKwDSONYN4E25P0rS20SQ7G-K42jO7zD32eMkA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057806",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vvjGBX4PAgfp8ip5Iu3H85j9n1IxXONcfeb1JXtVc0qh19uPT2iRYbGAvHzsQGWPwdkmCmNBbQCTyTt7-NnBHmvrEjEBL6trRjnjC5rqwBf9ein7srtG578Y7cIXADMOaiyna_ebf98fBGgvQS2JSkygPu7bMITwtBZZhP7NRZRfsM8sgeZDI3YpX__80H-bhn-ZT6deMKWtHUYi3i8c0uVIa_5b03ZYplJGVrspITZpiLGe1bwPkz2Q1aYYFLk4c4lxKyq_qLW7ClzTQiO9pJ0qetwF9-gQDH8wW_MJ1UuRdiBWGKwDSONYN4E25P0rS20SQ7G-K42jO7zD32eMkA"
+      }
+    ]
+  },
+  {
+    "id": 477048105,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia, Iraq: leader Iraqi faction reveals AlAkhbar that",
+    "location": "Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ A leader in an Iraqi faction reveals to Al-Akhbar that resistance forces are moving to implement a response within 72 hours, stressing that Saudi Arabia's targeting of Iraq will not pass without a price. He considers that the aggression has dropped any discussion about handing over weapons, adding that everyone who talked about restricting or disarming weapons has received a practical answer, as the resistance's weapons remain and will not be subject to bargaining. He also reveals that the fa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IzM9OziuapqwtPRsZaPZ9_4hJQD3D0Mh5xRhxYAdE_rTpDDXXRBpeq81x5vaiNjzRmzVY1UBKyEUr692QVoIiqtQfpDm4vN2a1-1P6IoiF_xW-cwaT7BhzNaUF4fA9vmROJlPLOplYg5Vg1c7_lEJM-u-R67yYE7f18gEaDZfmQblePS2eZcNyHD3VQe84VUVBfW8jMIDcm_RdNTonL-YP1Hni7DnsdYk7xszJk8l209x-mOYtXDfZ6OPF2aBCrYPiUNn7oUc5nGSx4itabYgweuTXUf-vLX2PhUSdYANJnz0gv8ccqg15WlKJ0POyZ3FbiZ4zr0m9FTd2JjbB3hJw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477050201,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Sources close alTinehAlDiyar NewspaperPresident Berris visit",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Sources close to Ain al-TinehAl-Diyar NewspaperPresident Berri's visit to Baabda comes within the framework of the ongoing coordination and consultation between them...which was previously present and is still continuing, in light of the circumstances Lebanon is going through.Especially as a result of the dangerous faltering in implementing the framework agreement on the ground, and the accompanying violations.Starting from the Lebanese army being subjected to gunfire, all the way to the Isra",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
