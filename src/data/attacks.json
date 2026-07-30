@@ -42060,6 +42060,139 @@
     ]
   },
   {
+    "id": 477218945,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Bahrain, Kuwait: IRGC says carried initial response aggressionThroughout",
+    "location": "Bahrain, Kuwait",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/me_spectator",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇮🇷/🇧🇭/🇰🇼 NEW: The IRGC says it carried out an ‘initial response’ to the U.S. aggressionThroughout the night, drones were sporadically launched at Bahrain and Kuwait. Sirens were activated several times. These attacks still continue.However, a large scale response has not yet taken place, and Iran may wait until after the funeral to do so.@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477221121,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Kharg Island: BREAKING Initial reports explosions Kharg Island",
+    "location": "Kharg Island",
+    "coordinates": [
+      29.2352,
+      50.309
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇺🇸/🇮🇷 BREAKING: Initial reports of explosions at Kharg Island, Iran’s main oil exporting hub@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477223298,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-08",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Oman: CONFIRMED Iran fired least antiship cruise",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇺🇸/🇮🇷 CONFIRMED: Iran fired at least 2 anti-ship cruise missiles and various drones at U.S. Navy vessels in the Sea of Oman@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477225476,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-08",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Fars, Persian Gulf: Iranian state media Fars News Agency",
+    "location": "Fars, Persian Gulf",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— 🇺🇸/🇮🇷 NEW: Iranian state media, Fars News Agency, confirms that anti-ship missiles were launched, citing Middle East Spectator (MES)After follow up, we can confirm at least half a dozen anti-ship missiles and drones were launched towards targets in the Persian Gulf waters.@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/m0Kk1uO9nut4tOkUiwQbiluF1k00qrbsQnlk_QZgsB-7pvY6TLzI_9_ufmbvg9AfkwwWGu0ZlQAUl6HhkMqYaLomgdl-yoIGsz0NeCCRFT1g2BVBduclXQJMTlGBpTOqtkHHnLVk-PnY_3C8NZKQvzocgj9QanIFe8FbJnEnqPEsJ0f4h7AM9V8l6IOqBLgF1Wv5ju5cazwsmWAlbQtmIKB4MjrlMGI2tvJJnn9kg_2wRknjFnSaSfKZzqqFUEYbwYXF9Oi-UMly87qPkfjtWPOcTM2PHX-GBl1T9GfsYohFehVh-iXyHTPSnIVV_Zcghu-hpNfGm4To9JD2HxfT4A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 50,
     "type": "airstrike",
     "status": "confirmed",
@@ -79707,7 +79840,12 @@
     "description": "⚡️ #Urgent- Drone strike in the vicinity of Al-Kanz Mosque in the Al-Rimal neighborhood, west of Gaza City• 15:33 — Source at Al-Shifa Hospital: A martyr and wounded, including children, in a drone strike on the Rimal neighborhood, west of Gaza (Rasd Akhbar Shehaba)",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/v8og8kS89sGjWSEOIGfAOzS_efO8jzwzbEb-9_iN7KcXtpZn5LiJAjQ-JlKGfumvJr02v4eT70PesPCbbBMXqsfhBrHqb7aSoyG9PEOT90iXCm_SNWu1GaSCFjdtNQCmkaYUzbWuk_TZGfD183xsq2uta1SSGh29MymjOoEry6KMVk4mv6BxSZHeMp1lBnXt6pQHKFdc1-vEGZjuB4eP9NBKrz2C6BNwuOhVcpcbTGricEWMo6f5VY1aOgEKMluYZIZbfNOR1nPATzh5lPmKJ-U2598P8OWu-8Tyucm0otbaM-5Dg11-PEeT992Z0Tb_jHczyiNJ_ICicP9Up0LVcw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 476967141,
@@ -80881,6 +81019,87 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477214596,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Enemy forces fire youths they confront",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Enemy forces fire on youths as they confront a gathering of Zionist settlers on the outskirts of Burin village, south of Nablus in the occupied West Bank.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1057306",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/EA-aLqCJvx1SOcqWWcL848Hh71dcIJhnTV1Zx3vir7y4ocGK1GgMT5Zl-HIBWaacaUrvfkmYWZ63NNTjvCyL3uoHk-xmJwcIh-lwYHUlUsz8eI9VwzHYP4XQbpcDwxFuybbhAFMtQThmpjpDZHSUSXaKe7v9P9ts7r9LVvDoBKiGjjuRsk3xEXVwvtMdXX99H0Og_4wKdnOBP_tUPXlwszPUJs1W089rwepeGJSVoJpwWwPzKeV5rZpnA-y72iPG9DXXKDHbluX5lLWdpBGZVRo7KBvDmWFv-xAPVI0pIYbslfLRO7mIVU8zvH7WimJmMEG5thPO3oTGabPEjAvCrg"
+      }
+    ]
+  },
+  {
+    "id": 477216770,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Interception — Jordan: Army Sitting Ducks33American magazines analysis latest",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🎦 US Army or Sitting Ducks&#33;🔹American Vox magazine's analysis of the latest situation of the US in the war with Iran #withreporter• 16:52 — US Enemy Media: US intelligence assessed that the recent Iranian attack on US sites in Jordan was not intended to be a surprise attack, but rather an attempt to provoke the United States into returning to a low-intensit… (Rasd Akhbar Shehaba)• 17:06 — Center for Strategic and International Studies (CSIS): The outbreak of a new war with Iran would pla",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3cb472df33.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mZmcLyEJGKCVlKw-93uZ8-L4Eg313yUn2YH5G5x-e1h80LZVwpro4oF8Pb8VbCEY58Cy3YkQr6RUekKg7PBSzAzMozfOVA0zG9g6VIJygzpW0uJgnJERFwUSvB4vXWO8ekm5fXrH58C08fDqJ2R60P0BN1RQVOjJohoKmYbaqFHMgcTHjH6WXAbRQtEB2RhPIb_9dzbn3xCJGjwTZRA7-KPSv3lojHrbJw1J021ekFJXgiU6jgrS2ylkaL5erblgYyo7rQgB6mVI_z13dC3j_yBYNdqBkwYUZmJ7j1EbL6G7m9Fh499eMv-gRO-gYUK3cpm8xiZTRcJwnFbU4SZClQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057528",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mZmcLyEJGKCVlKw-93uZ8-L4Eg313yUn2YH5G5x-e1h80LZVwpro4oF8Pb8VbCEY58Cy3YkQr6RUekKg7PBSzAzMozfOVA0zG9g6VIJygzpW0uJgnJERFwUSvB4vXWO8ekm5fXrH58C08fDqJ2R60P0BN1RQVOjJohoKmYbaqFHMgcTHjH6WXAbRQtEB2RhPIb_9dzbn3xCJGjwTZRA7-KPSv3lojHrbJw1J021ekFJXgiU6jgrS2ylkaL5erblgYyo7rQgB6mVI_z13dC3j_yBYNdqBkwYUZmJ7j1EbL6G7m9Fh499eMv-gRO-gYUK3cpm8xiZTRcJwnFbU4SZClQ"
+      }
+    ]
   },
   {
     "id": 477002246,
@@ -82978,6 +83197,373 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477192911,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Interception — Erbil: Reports explosions Erbil 2159 Apparently drone",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Reports of explosions in Erbil• 21:59 — 🚫 Apparently a drone was intercepted over Erbil. Several explosions have been heard in Erbil. (Iran Militarism)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477195075,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz, Israel: Hannity from News these countries region",
+    "location": "Strait of Hormuz, Israel",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Hannity from Fox News: Are these countries in the region that are being attacked by Iran looking to cooperate with Israel?Netanyahu: More than you think. More than I can say.— Hannity from Fox News: If you don't stop Iran from acquiring a nuclear weapon, how will you control the Strait of Hormuz? You have no leverage. It's all over.Netanyahu: You can't. But I am much more optimistic because I see the spirit of our people. They are very brave.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/uFRSisgRNO8d55Tu-YO_Ou1--dLDvkFBOrtmTu_EciIQMhsXs6q4FfQv34X9ny9KGvLXEPx4qFBaIdIY_lFoX-456vj53glhIc193OgpsDwSKYBXr0fMmnbuWqAHYJZctiadXatVCS9RUqq2oQQ9CXbfF5mmeCuUFFgTs0czlK9e7wrhJm1lK7MPlQTsUzw0NjqEMrzqrEZjsMLGIx98u3T_4-POOw6RDmmCn_qWlmFN6n_yfnqS4U9bpCTk3MX69V6y99SoRqJKalus1YmGPZd48Uo-Ujz8Sy6JLqIY6VEPyFGMiT_QrG3-sk4fS8k4BE0WSymR3_fPrzz97gNH4g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477197240,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Gaza City, Israel: UrgentIsraeli raid vicinity Yarmouk Stadium center",
+    "location": "Gaza City, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ #UrgentIsraeli raid in the vicinity of Yarmouk Stadium in the center of Gaza City• 07:49 — #Urgent In the latest toll.. 8 injuries in the occupation aircraft's shelling of a tent opposite the Qattan Center, in the vicinity of Yarmouk Stadium in Gaza City (Rasd al Maidan)• 08:01 — Targeting with two reconnaissance missiles the vicinity of Al-Yarmouk stadium, west of Gaza City (Ba2s Jenin)• 08:01 — #Updated A number of injuries were transferred after the occupation aircraft bombed a tent opposi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477199406,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Syria, Israel: Syrian media Enemy Israeli artillery targets",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Syrian media: Enemy \"Israeli\" artillery targets the vicinity of Tal Al-Ahmar Al-Sharqi in the Quneitra countryside.• 06:49 — Syria: SANA: Israeli occupation forces target the vicinity of eastern Tal Al-Ahmar in the southern Quneitra countryside with three artillery shells, with no casualties. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477201573,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Caspian Sea: tanker targeted drone attack while loading",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ An oil tanker was targeted by a drone attack while loading oil at its anchorage in the Caspian Sea.• 06:48 — Caspian Pipeline Consortium: Oil tanker attacked by a drone while loading oil on a floating pier (Al Mayadeen Breaking)• 06:48 — A fire that broke out after a drone attack on an oil tanker at a Caspian Pipeline Consortium berth has been extinguished. No injuries or casualties were reported. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477203741,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Minab: Reports drone downed Minab Iran",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🇮🇷🇺🇸Reports of a US drone downed in Minab, Iran.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477205910,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Red Sea: Saudi exports from Yanbu decreased from",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Saudi oil exports from Yanbu, on the Red Sea, decreased by 41% from their peak in March, as Houthi attacks on oil tankers increased the risks associated with this route.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/r6fLJXH0kA0RqGiNgZXH2HhzCZUQO9i8mmaBLCvD8lOUxT_wstL7I-vxOipGS_t20_M69TpttCHXWaZxBPYKpRWQ4m0QZYlt5sXJObUhLGa9OqD26lnA0sH-M_Vfyw7SkDjjzg-qhwnCoFlDVuDwntQ4HvI4KWYa4OD287D1cwWfMbrkS6MSBV0e_0I5u1P4-FfTDOPAi515xKQDEphLKjuA6s4KdpOW5OqKWPGw5qW78AGGsx8_T8LzNoEECFSyhOKKgSi46jl7LCNLEyYiftBXvdAMSdqKVQFRI8ds9OkDJY9lTPbNXsvRHI6fFxxStJtHRPzXIlruvaUuyWGc_g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477208080,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — UAE, Saudi Arabia, Iraq: issues statement condemning Iraqi attacks that",
+    "location": "UAE, Saudi Arabia, Iraq",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ The UAE issues a statement condemning \"new Iraqi attacks that targeted Saudi Arabia.\"The strange thing is that Saudi Arabia has not announced that it has been subjected to new attacks&#33; And no Iraqi faction has claimed responsibility for attacks on Saudi Arabia.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cAPimnKFqnh-BucDdSyd3s5ng8W0hbSgXXcrsDYNADIR7_qnZ2bDSu9TE_OsaiU0dLK-IHUn978OGeZ73OfFPBrFRc4le5NrNgp1uLgvDqco6soTNALyDqW9BvKZ4Vv4nBlSL0amPDLzAkpm3UfATGzklnc5i5X5j9KeFvIdCE0mOvHK4vydzKChCSigNXzNlPt-7KdVZRqkX-Lp951dck76WZk-suHmhVIcF5UaTgAu0qqPKvYLB8NR1H0HsktEnsd_N4V5JoeNJ8Kl4Jizt8lZNxGqJmH7RWgOKZ6twVkyivTDmuCMnvY_DaJd6h62dP2EuhOOjxTbTti1aDam8Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477210251,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Abadan, Kuwait: Army M142 HIMARS systems fired ATACMS",
+    "location": "Abadan, Kuwait",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ US Army M142 HIMARS systems fired M57 ATACMS missiles and/or Precision Strike Missiles (PrSM) from Kuwait towards targets in Iran. (Abadan)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8dc626003e.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iHFEj0qi4eGi56KauGgcuo80xwYWh-2MhQIFGS6vWV74srpaig-ixBMxAEppXFYNDbjhZUNINtcn44OhX7SVyZ0ugGwwnTo7cXkrDQt7Nex34Aq4pTEjn8eOOJnTlg6BBzRutnjDvpJuImspkiVSO16ej9TFlmOdWpIto5BrYk83GQgua3jUgqgHyQJJT31UzS2l4i_3GRzJk7CYGXjHn8XMEv4zdfBUKmpzLsY72QiIWdt0SQbZ5GwNIp6H7G0CgR6F_IZOwWSaLmqrxXnoqdl-PDOmvuuzVrobgR680kgZBBXoDGzKZ32feR_1CirHoO85as38WdNvmENHX41EZg"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/c67130daf3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iHFEj0qi4eGi56KauGgcuo80xwYWh-2MhQIFGS6vWV74srpaig-ixBMxAEppXFYNDbjhZUNINtcn44OhX7SVyZ0ugGwwnTo7cXkrDQt7Nex34Aq4pTEjn8eOOJnTlg6BBzRutnjDvpJuImspkiVSO16ej9TFlmOdWpIto5BrYk83GQgua3jUgqgHyQJJT31UzS2l4i_3GRzJk7CYGXjHn8XMEv4zdfBUKmpzLsY72QiIWdt0SQbZ5GwNIp6H7G0CgR6F_IZOwWSaLmqrxXnoqdl-PDOmvuuzVrobgR680kgZBBXoDGzKZ32feR_1CirHoO85as38WdNvmENHX41EZg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057824?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iHFEj0qi4eGi56KauGgcuo80xwYWh-2MhQIFGS6vWV74srpaig-ixBMxAEppXFYNDbjhZUNINtcn44OhX7SVyZ0ugGwwnTo7cXkrDQt7Nex34Aq4pTEjn8eOOJnTlg6BBzRutnjDvpJuImspkiVSO16ej9TFlmOdWpIto5BrYk83GQgua3jUgqgHyQJJT31UzS2l4i_3GRzJk7CYGXjHn8XMEv4zdfBUKmpzLsY72QiIWdt0SQbZ5GwNIp6H7G0CgR6F_IZOwWSaLmqrxXnoqdl-PDOmvuuzVrobgR680kgZBBXoDGzKZ32feR_1CirHoO85as38WdNvmENHX41EZg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057825?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/I2h8wsu50H2o9K7w_rRLv2pmwYKQylclQ71a-1gzqx1ygFkCNWs55GB0ibA6WlWBF2tZG2vhhGkFbbuzGBWP3qU2iwxXLUlmrQYLcliRGYW7yIWE_EO8bDSlT05T2xqk9DG3hZ34o999wwonOvnN0iMiJoIH9KPoKb2dEgsfMJ9gJWhid50OyL3_N2TFeTRHlYgsiipkXCL1VaoC2f04YlmE7FiUqqEEE3vVTeh3r7m7vRAurl09rJNWx2MFkCUve07xQUF220fizo2p-ODGKh2eJx5zOurgn52mgPknxvg80kSk8-MPX2viGgUH6c57O-kXPeAHR1-a5WWObqfi5A"
+      }
+    ]
+  },
+  {
+    "id": 477212423,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bandar Abbas, Hormozgan: Explosions heard Bandar Abbas 0059 IRIB",
+    "location": "Bandar Abbas, Hormozgan",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Explosions heard in Bandar Abbas• 00:59 — IRIB: Two explosion sounds were heard in Bandar Abbas city, and initial investigations indicate they were likely related to the outskirts of the city. 🔹Reports of similar sounds being heard in the islands of Abu Musa an… (IRIB News)• 01:00 — Iran: Iranian TV: Two explosions heard in Bandar Abbas port, likely caused by Iranian armed forces' defense activities (Al Mayadeen Breaking)• 01:03 — Assistant for Political, Security, and Social Affairs in Horm",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/20b64af9cb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/eX9iexzm9D_8vXMiJsj7nGMBEijh9BE4whSGKzIO9tCqeeikVeGmB86rasivSpIG1wQOv8nIytqX9tIzmN4GIMkU_yiKcfAMZ1OcKqlUfdM7_Tft_I-ypxAcCFbBLeeGQ5b_MtsvMvXRhSq5_469NbLeObyJru_WI45PfoD2qQYCkbkArObkb_er4bKYDd1lEr0DEcYJbplJMMfeMBUbZicyshFbFRihlAxBfMVtw2UMugmyxjE0lVg9pjJh8_RnnzieaEJKYDjDLqIKmtidKuH9_3HKQkx0waAqkmzF_JnOxmMLnq17gz4rggYlK28E4oKQcJ2D-NiFzV0t8kOC1A"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057702",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/eX9iexzm9D_8vXMiJsj7nGMBEijh9BE4whSGKzIO9tCqeeikVeGmB86rasivSpIG1wQOv8nIytqX9tIzmN4GIMkU_yiKcfAMZ1OcKqlUfdM7_Tft_I-ypxAcCFbBLeeGQ5b_MtsvMvXRhSq5_469NbLeObyJru_WI45PfoD2qQYCkbkArObkb_er4bKYDd1lEr0DEcYJbplJMMfeMBUbZicyshFbFRihlAxBfMVtw2UMugmyxjE0lVg9pjJh8_RnnzieaEJKYDjDLqIKmtidKuH9_3HKQkx0waAqkmzF_JnOxmMLnq17gz4rggYlK28E4oKQcJ2D-NiFzV0t8kOC1A"
+      }
+    ]
   },
   {
     "id": 477111420,
