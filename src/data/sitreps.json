@@ -164149,6 +164149,36 @@
     "verified": false
   },
   {
+    "id": 1785374452333,
+    "type": "airstrike",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Explosions were reported in Abadan and Bushehr. 🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785374455523,
+    "type": "airstrike",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Explosions were reported in Abadan and Bushehr. 🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -164393,6 +164423,66 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Palestinian sources: Israeli helicopter shelling west of Khan Yunis city in the southern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785374498607,
+    "type": "airstrike",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Sound of explosion heard in Bushehr• 01:03 — Iran: Fars Agency: Explosion sound in Bushehr province (Al Mayadeen Breaking)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785374497408,
+    "type": "airstrike",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Sound of explosion heard in Bushehr• 01:03 — Iran: Fars Agency: Explosion sound in Bushehr province (Al Mayadeen Breaking)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785374435216,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: A fire broke out in a residential apartment after it was targeted by occupation aircraft near Al-Ma'mounia School in the center of Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785374502477,
+    "type": "airstrike",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Brutal American aggression against Kazerun city in Iran's Fars province.",
     "media": [],
     "verified": false
   }

@@ -79531,6 +79531,86 @@
     "media": []
   },
   {
+    "id": 477016785,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bushehr, Abadan: Explosions were reported Abadan Bushehr enemywatch",
+    "location": "Bushehr, Abadan",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Explosions were reported in Abadan and Bushehr. 🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/PpXPpMmDC1ckSJzT0CYtL6dQt84MBF1fk0o_Vb1rRydueOjrJOEN_zvNf13XPL-SXL6HFAAh4wd6EKsnyAVQLxwCngPIvdq-5pvi8kux3tWqWlc6tv2HI7xN9fx9ikAoaOMLlTBo4C3IwqYUh4Cqsf9VNTDoTxwMRHi1LGPKwcyLDP4NlRy87HczD284F5nHSxUqzP1ZbE4RVZ7YKpssVnYaJqPaKcOv0MOnQ0pEVssKYISdj8tlntlWjLAwBfIop0mhQvEUA797JQ-NYuB93h6Y-6B8mJDSwatf0GwaYk4Q0RiD3L0YsEqfpJazKc134_fW8mcTlDhMYx6cy3XQiA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477018866,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Qeshm Island, Qeshm, Hormozgan: enemy strike reportedly targeted residential house",
+    "location": "Qeshm Island, Qeshm, Hormozgan",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "An enemy strike reportedly targeted a residential house in the Chah-Tangu neighborhood of Qeshm City, Hormozgan Province. According to the Deputy Governor of Hormozgan, rescue teams are continuing search operations for two people believed to be trapped under the rubble. Further details and the condition of those trapped will be announced after rescue efforts and field assessments are completed. Initial reports also state that a missile struck a residential area on Qeshm Island.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/53363c86cf.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n6TToC1RAaV69hGQp8nyR89WhB3cA1-ORPlOIjYCHI0IQNin5a0xJbfAaJMd_86Qi4oNWiOhzKUhyb-dc0uS0n4cH0f9-YDQ74qBC01C9OYPCwKf9EIY_fCAydJneW6L9QpxWiiqNPjK6-W5JmqzHjuu7tsKP504fGsC1EKJnOkcWUmJ3rdLt_7W3gphuj2_80nTXTr2iGMCM030t7s5-5WaaWXH0IbnkM06NciU8-aL6zz8D-Jhzx5NpwSk5aAFGVUwE4wO8OaMo1nQgMFjsCsV95HQSEBdLOA7BOYMMQiME2oGkYiAgpIGcXDNViLFsGkAnOUFnBzsG7FBvKEZKA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60541",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n6TToC1RAaV69hGQp8nyR89WhB3cA1-ORPlOIjYCHI0IQNin5a0xJbfAaJMd_86Qi4oNWiOhzKUhyb-dc0uS0n4cH0f9-YDQ74qBC01C9OYPCwKf9EIY_fCAydJneW6L9QpxWiiqNPjK6-W5JmqzHjuu7tsKP504fGsC1EKJnOkcWUmJ3rdLt_7W3gphuj2_80nTXTr2iGMCM030t7s5-5WaaWXH0IbnkM06NciU8-aL6zz8D-Jhzx5NpwSk5aAFGVUwE4wO8OaMo1nQgMFjsCsV95HQSEBdLOA7BOYMMQiME2oGkYiAgpIGcXDNViLFsGkAnOUFnBzsG7FBvKEZKA"
+      }
+    ]
+  },
+  {
     "id": 477002246,
     "type": "missile",
     "status": "confirmed",
@@ -79769,5 +79849,112 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477020948,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Sirik, Hormozgan: Unconfirmed reports attack Sirik Hormozgan province",
+    "location": "Sirik, Hormozgan",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Unconfirmed reports of an attack on Sirik in Hormozgan province",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477023031,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza City: Palestinian sources fire broke residential apartment",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Palestinian sources: A fire broke out in a residential apartment after it was targeted by occupation aircraft near Al-Ma'mounia School in the center of Gaza City.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477025115,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Qeshm Island, Qeshm, Hormozgan: Update Enemy attack residential house Qeshm",
+    "location": "Qeshm Island, Qeshm, Hormozgan",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Update/ Enemy attack on a residential house in Qeshm; search operations continue to find two people under the rubble🔹The Deputy Governor of Hormozgan reported an enemy attack on a residential house in the Chahtangu neighborhood of Qeshm city and said: Rescue teams are searching for two people trapped under the rubble.🔹Further details of this incident and the condition of those trapped will be announced after the completion of rescue operations and field assessments.• 01:14 — Tasnim Agency: ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/53363c86cf.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GWEDr8VVOvQqgGQkX7E1fREduvLuidFBurpoIiBurgmpwB0Udd_WtbfUu3qmvnKUOJ6Gzfed6_RraCwcZCQzrFX6H3ZiTsoWjlgPxXAMdsy0fART_9xVf6rH-7m4BmPO1XwSGQ9Kr8KJuivt14s6IQU_urb7Fh_1NJdqrRae4uit3KKqeJG6hWCFXYWSYflhkuEqug6tn5FwpfX6NCWcpYfjM7qBPpoAfCeyN8Wivqkr6uAVQnQuWw8PJQgIKsuoe5vm66PCekxTZfxosn41NVjNO6dAjOqd4eobK12FW73ys6N784Mprs-t6lqsAwqLukCLksqfv08Awnj2tvB8gQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1057720",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GWEDr8VVOvQqgGQkX7E1fREduvLuidFBurpoIiBurgmpwB0Udd_WtbfUu3qmvnKUOJ6Gzfed6_RraCwcZCQzrFX6H3ZiTsoWjlgPxXAMdsy0fART_9xVf6rH-7m4BmPO1XwSGQ9Kr8KJuivt14s6IQU_urb7Fh_1NJdqrRae4uit3KKqeJG6hWCFXYWSYflhkuEqug6tn5FwpfX6NCWcpYfjM7qBPpoAfCeyN8Wivqkr6uAVQnQuWw8PJQgIKsuoe5vm66PCekxTZfxosn41NVjNO6dAjOqd4eobK12FW73ys6N784Mprs-t6lqsAwqLukCLksqfv08Awnj2tvB8gQ"
+      }
+    ]
   }
 ]
