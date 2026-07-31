@@ -180442,6 +180442,26 @@
     "verified": false
   },
   {
+    "id": 1785475616077,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Right now | Funeral procession for the martyrs of the Islamic Revolutionary Guard Corps amidst a huge crowd of pilgrims of Aba Abdallah. These martyrs were martyred a few nights ago in Iraq alongside Hashd al-Shaabi forces while on an advisory mission.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/C9AS7UUJO-lzpldGxPloyodKlqaATfohoeqLLKmSSqS_SVxgGyXas3d8u_B6KmEGyKqXW_o10lF2qKWSGhYHQQwaa0oDp6-KfPwQWyWTATCCOhcXdMTe1kZykHaUzwyfM44hc2hQMx_WcdgqtDKQ_z0ueDw_fPr-ASFB_Wuit9bZ3zjAszOnmeI5_7dmQbnJzXvdDUjeuzl3eWm4qgYWNiRN_ejza0_ZUvWSyuqmxGFtX_hGvKanrLJtE2oMxuqaY46zKi70urB61EkbwZfYSg0hsryht_mWcTu5_eDKyPURY6hwHxunO8HRNC4WW7GNJGwR2uBfyj5hdH5YlszbIw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
