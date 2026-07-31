@@ -84542,6 +84542,161 @@
     ]
   },
   {
+    "id": 477280251,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Minab: CCTV footage shows moment American missiles",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📹 | New CCTV footage shows the moment American missiles struck the Shajarat Tayyibah School in Minab.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fdabff47fc.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/POzv7q_np_GFsZxdgmGs0YqXr-LclBk6mnx5CR0tnH-pOCYYWvsYkZdjdQkOGvM30JS1YYm15HFtczfLDZsVGpp_ZaSpfS61ohOMahpFkx651oJIwiEdsFzSqElPN4-NlS4X5c9JCTgoIXO6qI5VGatuRsFVLXV-Sgjuk3mtkQAsV4AN_aZ7HA2P_1yGLQgyixCxjgDtupQ2uI_rEkGUD8l2uJui04xEfUZ6I1WfdrYpYqiKmmI-iSD05MeN7M9fu6VKrSksuQpDrH4BPSWd11qtGJBdC0iu0_9KoEL5IfoDuf7WPS2omfotfHnpEJb_OZLewlupXylPtcRyQFrXqA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60603",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/POzv7q_np_GFsZxdgmGs0YqXr-LclBk6mnx5CR0tnH-pOCYYWvsYkZdjdQkOGvM30JS1YYm15HFtczfLDZsVGpp_ZaSpfS61ohOMahpFkx651oJIwiEdsFzSqElPN4-NlS4X5c9JCTgoIXO6qI5VGatuRsFVLXV-Sgjuk3mtkQAsV4AN_aZ7HA2P_1yGLQgyixCxjgDtupQ2uI_rEkGUD8l2uJui04xEfUZ6I1WfdrYpYqiKmmI-iSD05MeN7M9fu6VKrSksuQpDrH4BPSWd11qtGJBdC0iu0_9KoEL5IfoDuf7WPS2omfotfHnpEJb_OZLewlupXylPtcRyQFrXqA"
+      }
+    ]
+  },
+  {
+    "id": 477282455,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran, Jordan: Journalist Youssef Wahbi post platformIran changes",
+    "location": "Tehran, Jordan",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Journalist Youssef Wahbi in a post on the \"X\" platform:Iran changes the scene:American forces in the region are under Iranian fire at a time Tehran deems appropriate, and no negotiations under American fire anymore.The shock is great inside the White House: How can Iran change its strategy from receiving and responding to strikes to initiating shelling?Iran, despite the undeclared truce that America is accustomed to initiating, is shelling newly established military command headquarters in th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477284660,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Occupation ArmyWe received report about settlers",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupation Army:We received a report about settlers vandalizing a cemetery in the Nablus area of the West Bank.Look at the occupation's narrative... The problem is that they attacked the grave of martyr Muhammad al-Junaidi under the protection of occupation soldiers.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/713879b715.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/h7ygchidbbeU76aQyb9LxCcx6XFclK9gQnUAKh96nyyN8oMWvRhvDkts-bMOdT88NnedDLNomtPNEA195RdO6DWYSificeIoz5vTD55EdC7_jY7_B-4z_y-lkeAESiyRLw5lqp1JOePZhdXR8x73tT8uKF04419wT1lbOxABUYuT6lWsOUVSqwrlKY8hrZ21ExcHhcoe1wK1jMnuBq25TaN_2_WtFI19-UCn1ZNStum2Ms6eKztLa_A2kcLsdwSDsIr87dJ-O6Qmp1VcsWJpemJqAj0u2qrmZfpnKofRn3QX4mt8SbG7tfgthgmMg3FrsljIM9eXR8jzDV_GB_DXEQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058618",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/h7ygchidbbeU76aQyb9LxCcx6XFclK9gQnUAKh96nyyN8oMWvRhvDkts-bMOdT88NnedDLNomtPNEA195RdO6DWYSificeIoz5vTD55EdC7_jY7_B-4z_y-lkeAESiyRLw5lqp1JOePZhdXR8x73tT8uKF04419wT1lbOxABUYuT6lWsOUVSqwrlKY8hrZ21ExcHhcoe1wK1jMnuBq25TaN_2_WtFI19-UCn1ZNStum2Ms6eKztLa_A2kcLsdwSDsIr87dJ-O6Qmp1VcsWJpemJqAj0u2qrmZfpnKofRn3QX4mt8SbG7tfgthgmMg3FrsljIM9eXR8jzDV_GB_DXEQ"
+      }
+    ]
+  },
+  {
+    "id": 477286866,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Gaza City, Israel: Urgent Israeli drone targets beginning Mukhabarat",
+    "location": "Gaza City, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Urgent | An Israeli drone targets the beginning of Mukhabarat Street, west of Gaza City.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/i0AZn7mHFiLrmPf0WjV74wsDYsKfmclPdnSfQ6bz-4ujVyPn_5bQCEkE0mcmcbvZseDUIAvxtsV80gZdY_7mVOWCoGu692u5l5R_VbFPANcZYQ344IBUzdhLM9-x34ThJheSmH0qGFH13XhGNAsuqimQcD3NZvU-1RNG-w4INP_2lx08SvKK2y7EfdbdoM-VMi6K4jlMcIEKfazHKGdwoiajO2g8tIN6FACF6sxThZhf3fn9xJjdNC98PIS55-4NQRcDTpJlKdjjcvbTq0YXKC99fT891hslXsm3LkmyyX2O82Z13QZQivazK0FQjS5AWPWBCpKwiC9S9kCq1J9HPQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",

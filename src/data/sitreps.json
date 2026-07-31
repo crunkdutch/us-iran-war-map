@@ -181477,6 +181477,157 @@
     "verified": false
   },
   {
+    "id": 1785487347197,
+    "type": "missile",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📹 | New CCTV footage shows the moment American missiles struck the Shajarat Tayyibah School in Minab.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fdabff47fc.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/POzv7q_np_GFsZxdgmGs0YqXr-LclBk6mnx5CR0tnH-pOCYYWvsYkZdjdQkOGvM30JS1YYm15HFtczfLDZsVGpp_ZaSpfS61ohOMahpFkx651oJIwiEdsFzSqElPN4-NlS4X5c9JCTgoIXO6qI5VGatuRsFVLXV-Sgjuk3mtkQAsV4AN_aZ7HA2P_1yGLQgyixCxjgDtupQ2uI_rEkGUD8l2uJui04xEfUZ6I1WfdrYpYqiKmmI-iSD05MeN7M9fu6VKrSksuQpDrH4BPSWd11qtGJBdC0iu0_9KoEL5IfoDuf7WPS2omfotfHnpEJb_OZLewlupXylPtcRyQFrXqA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60603",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/POzv7q_np_GFsZxdgmGs0YqXr-LclBk6mnx5CR0tnH-pOCYYWvsYkZdjdQkOGvM30JS1YYm15HFtczfLDZsVGpp_ZaSpfS61ohOMahpFkx651oJIwiEdsFzSqElPN4-NlS4X5c9JCTgoIXO6qI5VGatuRsFVLXV-Sgjuk3mtkQAsV4AN_aZ7HA2P_1yGLQgyixCxjgDtupQ2uI_rEkGUD8l2uJui04xEfUZ6I1WfdrYpYqiKmmI-iSD05MeN7M9fu6VKrSksuQpDrH4BPSWd11qtGJBdC0iu0_9KoEL5IfoDuf7WPS2omfotfHnpEJb_OZLewlupXylPtcRyQFrXqA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785487304332,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy vehicles moving on the Deir Syriane-Al-Qusayr road",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/FpjCWjIrBukZwSjH8pKMP1spqRjmerPSKW_v8PNr4MpBLI0oimpsNiYQI-QibgF1AKJqPPJXICMEd5i-vBpSgLC-OtqDwv4op_4eD2ajY-AvQ-xJ4_TbPnMGd2pdMCkG4vBFXbideHK80tgse9EPn6WkWhZf6MeTDfFZZ18AC6T7EONa4SWrpfHCJnf-KKjYb2L5zgwTYDUnKj7NXxvwP8ScgEed41EExop3Hs42ysZQy8deBqGux6NyTZp1XdRf4iGcArZdX7ujaoH6VxxyfBSPcvVSjCotnUB05VAUUF8KMvSN-jwcuyWKsqAiL1CHAEN1ppikvC6Wsxyd_P2jFw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785487329083,
+    "type": "airstrike",
+    "location": "Qusayr",
+    "coordinates": [
+      26.1015,
+      34.2802
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy vehicles moving on the Deir Syriane-Al-Qusayr road",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/FpjCWjIrBukZwSjH8pKMP1spqRjmerPSKW_v8PNr4MpBLI0oimpsNiYQI-QibgF1AKJqPPJXICMEd5i-vBpSgLC-OtqDwv4op_4eD2ajY-AvQ-xJ4_TbPnMGd2pdMCkG4vBFXbideHK80tgse9EPn6WkWhZf6MeTDfFZZ18AC6T7EONa4SWrpfHCJnf-KKjYb2L5zgwTYDUnKj7NXxvwP8ScgEed41EExop3Hs42ysZQy8deBqGux6NyTZp1XdRf4iGcArZdX7ujaoH6VxxyfBSPcvVSjCotnUB05VAUUF8KMvSN-jwcuyWKsqAiL1CHAEN1ppikvC6Wsxyd_P2jFw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785487325968,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupation Army:We received a report about settlers vandalizing a cemetery in the Nablus area of the West Bank.Look at the occupation's narrative... The problem is that they attacked the grave of martyr Muhammad al-Junaidi under the protection of occupation soldiers.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785487326961,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupation Army:The entry of settlers into Area A in the West Bank is prohibited, dangerous, and against the law.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785487337565,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ An explosion rocked Gaza City.• 08:30 — Explosion heard in Gaza City (Rasd Akhbar Shehaba)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785487284264,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent | An Israeli drone targets the beginning of Mukhabarat Street, west of Gaza City.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/i0AZn7mHFiLrmPf0WjV74wsDYsKfmclPdnSfQ6bz-4ujVyPn_5bQCEkE0mcmcbvZseDUIAvxtsV80gZdY_7mVOWCoGu692u5l5R_VbFPANcZYQ344IBUzdhLM9-x34ThJheSmH0qGFH13XhGNAsuqimQcD3NZvU-1RNG-w4INP_2lx08SvKK2y7EfdbdoM-VMi6K4jlMcIEKfazHKGdwoiajO2g8tIN6FACF6sxThZhf3fn9xJjdNC98PIS55-4NQRcDTpJlKdjjcvbTq0YXKC99fT891hslXsm3LkmyyX2O82Z13QZQivazK0FQjS5AWPWBCpKwiC9S9kCq1J9HPQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785487313077,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent | An Israeli drone targets the beginning of Mukhabarat Street, west of Gaza City.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/i0AZn7mHFiLrmPf0WjV74wsDYsKfmclPdnSfQ6bz-4ujVyPn_5bQCEkE0mcmcbvZseDUIAvxtsV80gZdY_7mVOWCoGu692u5l5R_VbFPANcZYQ344IBUzdhLM9-x34ThJheSmH0qGFH13XhGNAsuqimQcD3NZvU-1RNG-w4INP_2lx08SvKK2y7EfdbdoM-VMi6K4jlMcIEKfazHKGdwoiajO2g8tIN6FACF6sxThZhf3fn9xJjdNC98PIS55-4NQRcDTpJlKdjjcvbTq0YXKC99fT891hslXsm3LkmyyX2O82Z13QZQivazK0FQjS5AWPWBCpKwiC9S9kCq1J9HPQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
