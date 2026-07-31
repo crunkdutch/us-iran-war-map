@@ -172012,6 +172012,66 @@
     "verified": false
   },
   {
+    "id": 1785503503401,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHezbollah Statement on the U.S. Aggression Against Iraq:Hezbollah condemns the brutal American aggression against brotherly Iraq and its proud people, which resulted in the martyrdom of a number of righteous martyrs and the injury of others, in a blatant and flagrant violation of internation...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785503550128,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHezbollah Statement on the U.S. Aggression Against Iraq:Hezbollah condemns the brutal American aggression against brotherly Iraq and its proud people, which resulted in the martyrdom of a number of righteous martyrs and the injury of others, in a blatant and flagrant violation of internation...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785503536536,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHezbollah Statement on the U.S. Aggression Against Iraq:Hezbollah condemns the brutal American aggression against brotherly Iraq and its proud people, which resulted in the martyrdom of a number of righteous martyrs and the injury of others, in a blatant and flagrant violation of internation...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785503570166,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHezbollah Statement on the U.S. Aggression Against Iraq:Hezbollah condemns the brutal American aggression against brotherly Iraq and its proud people, which resulted in the martyrdom of a number of righteous martyrs and the injury of others, in a blatant and flagrant violation of internation...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -180496,6 +180556,51 @@
     "verified": false
   },
   {
+    "id": 1785503580628,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran envoy delivers Leader’s message to Russian Orthodox patriarch📌 Moscow, IRNA – Iran’s ambassador to Russia, Kazem Jalali, has delivered a message from the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Khamenei, to the Russian Orthodox Church leader, Patriarch Kirill, during a me...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785503511772,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran envoy delivers Leader’s message to Russian Orthodox patriarch📌 Moscow, IRNA – Iran’s ambassador to Russia, Kazem Jalali, has delivered a message from the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Khamenei, to the Russian Orthodox Church leader, Patriarch Kirill, during a me...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785503586093,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran envoy delivers Leader’s message to Russian Orthodox patriarch📌 Moscow, IRNA – Iran’s ambassador to Russia, Kazem Jalali, has delivered a message from the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Khamenei, to the Russian Orthodox Church leader, Patriarch Kirill, during a me...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -182765,6 +182870,151 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ A statement issued by Hezbollah on the US aggression against Iraq:Hezbollah condemns the brutal US aggression against brotherly Iraq and its noble people, which resulted in the martyrdom of a number of innocent people and the injury of others, in a blatant and flagrant violation of international ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785503501876,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Army:In response to the recent aggressions committed by the terrorist American army against our country and the brutal attack on a residential home on Qeshm Island, \"fighter jet sites,\" \"satellite communication systems,\" and \"equipment depots\" belonging to this murderous army at Ahmad...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4b065ff04b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jXPbckzX7ptYIM8B-RFc2IpnJ6gOhGFXf6iGuRXok9x4NEauVNPtioHXkiipMLqujHmpnoRSDEuPUVYjIcgOP0eTJpwUz5mqf1q0TGjy9R4m00jqZPpSIKUW54goGGMaOfnZyOtfajJUtKF13W-E7KuwDU66SNZfenf8Edr9CPOOsFFIyXTm8uEll39brtqexq0X0UxVfKdEBVCCR4Uuzvk6EYYvtMRAjGlUNabtxoMzMJ_AsQqRtjJPvqzHT28Y16VNy_mI4XwI0lwl4yPHeRNbPWM_yS6_kEMBOA6mToEZa4TjfeRs0RyUCU-qHjqIMlzY_huxx4ULxFf1A8-cnQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/60609",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jXPbckzX7ptYIM8B-RFc2IpnJ6gOhGFXf6iGuRXok9x4NEauVNPtioHXkiipMLqujHmpnoRSDEuPUVYjIcgOP0eTJpwUz5mqf1q0TGjy9R4m00jqZPpSIKUW54goGGMaOfnZyOtfajJUtKF13W-E7KuwDU66SNZfenf8Edr9CPOOsFFIyXTm8uEll39brtqexq0X0UxVfKdEBVCCR4Uuzvk6EYYvtMRAjGlUNabtxoMzMJ_AsQqRtjJPvqzHT28Y16VNy_mI4XwI0lwl4yPHeRNbPWM_yS6_kEMBOA6mToEZa4TjfeRs0RyUCU-qHjqIMlzY_huxx4ULxFf1A8-cnQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785503572214,
+    "type": "intercept",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Army:In response to the recent aggressions committed by the terrorist American army against our country and the brutal attack on a residential home on Qeshm Island, \"fighter jet sites,\" \"satellite communication systems,\" and \"equipment depots\" belonging to this murderous army at Ahmad...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4b065ff04b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jXPbckzX7ptYIM8B-RFc2IpnJ6gOhGFXf6iGuRXok9x4NEauVNPtioHXkiipMLqujHmpnoRSDEuPUVYjIcgOP0eTJpwUz5mqf1q0TGjy9R4m00jqZPpSIKUW54goGGMaOfnZyOtfajJUtKF13W-E7KuwDU66SNZfenf8Edr9CPOOsFFIyXTm8uEll39brtqexq0X0UxVfKdEBVCCR4Uuzvk6EYYvtMRAjGlUNabtxoMzMJ_AsQqRtjJPvqzHT28Y16VNy_mI4XwI0lwl4yPHeRNbPWM_yS6_kEMBOA6mToEZa4TjfeRs0RyUCU-qHjqIMlzY_huxx4ULxFf1A8-cnQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/60609",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jXPbckzX7ptYIM8B-RFc2IpnJ6gOhGFXf6iGuRXok9x4NEauVNPtioHXkiipMLqujHmpnoRSDEuPUVYjIcgOP0eTJpwUz5mqf1q0TGjy9R4m00jqZPpSIKUW54goGGMaOfnZyOtfajJUtKF13W-E7KuwDU66SNZfenf8Edr9CPOOsFFIyXTm8uEll39brtqexq0X0UxVfKdEBVCCR4Uuzvk6EYYvtMRAjGlUNabtxoMzMJ_AsQqRtjJPvqzHT28Y16VNy_mI4XwI0lwl4yPHeRNbPWM_yS6_kEMBOA6mToEZa4TjfeRs0RyUCU-qHjqIMlzY_huxx4ULxFf1A8-cnQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785503521091,
+    "type": "intercept",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Army:In response to the recent aggressions committed by the terrorist American army against our country and the brutal attack on a residential home on Qeshm Island, \"fighter jet sites,\" \"satellite communication systems,\" and \"equipment depots\" belonging to this murderous army at Ahmad...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4b065ff04b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jXPbckzX7ptYIM8B-RFc2IpnJ6gOhGFXf6iGuRXok9x4NEauVNPtioHXkiipMLqujHmpnoRSDEuPUVYjIcgOP0eTJpwUz5mqf1q0TGjy9R4m00jqZPpSIKUW54goGGMaOfnZyOtfajJUtKF13W-E7KuwDU66SNZfenf8Edr9CPOOsFFIyXTm8uEll39brtqexq0X0UxVfKdEBVCCR4Uuzvk6EYYvtMRAjGlUNabtxoMzMJ_AsQqRtjJPvqzHT28Y16VNy_mI4XwI0lwl4yPHeRNbPWM_yS6_kEMBOA6mToEZa4TjfeRs0RyUCU-qHjqIMlzY_huxx4ULxFf1A8-cnQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/60609",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jXPbckzX7ptYIM8B-RFc2IpnJ6gOhGFXf6iGuRXok9x4NEauVNPtioHXkiipMLqujHmpnoRSDEuPUVYjIcgOP0eTJpwUz5mqf1q0TGjy9R4m00jqZPpSIKUW54goGGMaOfnZyOtfajJUtKF13W-E7KuwDU66SNZfenf8Edr9CPOOsFFIyXTm8uEll39brtqexq0X0UxVfKdEBVCCR4Uuzvk6EYYvtMRAjGlUNabtxoMzMJ_AsQqRtjJPvqzHT28Y16VNy_mI4XwI0lwl4yPHeRNbPWM_yS6_kEMBOA6mToEZa4TjfeRs0RyUCU-qHjqIMlzY_huxx4ULxFf1A8-cnQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785503548159,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Clashes between youths and settler militias in the Al-Hawouz area of Tal village, west of Nablus.• 12:53 — \"If you don't arrest him, I will.\" A settler gives orders to an Israeli soldier to arrest journalists during the storming of Tal village, southwest of Nablus in the West Bank. (Rasd Akhbar S...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d0021f9344.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sXJYd2HuluCbxdMaxIZmyTQFgDiDwo_e4Tsj_swSNl9oDxCqBIlHqVfMZlqyNpagECcuwayh3V1fMUdcZnJUdStElqQFs1MRKT2YybFBUKmgQltoh3KQYarPTgCiaGIgTiRpLfBNHCQu6nZgwoLk64gO_v8lC5_aQblL4QTKKS0CEc4I4X289YqDVDgWG83853rcRVJ1u49Ua7PJg8WRHGMOtxNiCOwwK2_ZGsz7mt7QWpISf7ETugrs8zmfx7g8wV3TbQxtTEJD-hrRDpZAZwbTGFqa0DrD2rswrTvl-73QEoZPHYMx4nKF3wdI7bmYkfI3Q0vCQO6Iz0_-AV0wTw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058734",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sXJYd2HuluCbxdMaxIZmyTQFgDiDwo_e4Tsj_swSNl9oDxCqBIlHqVfMZlqyNpagECcuwayh3V1fMUdcZnJUdStElqQFs1MRKT2YybFBUKmgQltoh3KQYarPTgCiaGIgTiRpLfBNHCQu6nZgwoLk64gO_v8lC5_aQblL4QTKKS0CEc4I4X289YqDVDgWG83853rcRVJ1u49Ua7PJg8WRHGMOtxNiCOwwK2_ZGsz7mt7QWpISf7ETugrs8zmfx7g8wV3TbQxtTEJD-hrRDpZAZwbTGFqa0DrD2rswrTvl-73QEoZPHYMx4nKF3wdI7bmYkfI3Q0vCQO6Iz0_-AV0wTw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785503551530,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Clashes between youths and settler militias in the Al-Hawouz area of Tal village, west of Nablus.• 12:53 — \"If you don't arrest him, I will.\" A settler gives orders to an Israeli soldier to arrest journalists during the storming of Tal village, southwest of Nablus in the West Bank. (Rasd Akhbar S...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d0021f9344.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sXJYd2HuluCbxdMaxIZmyTQFgDiDwo_e4Tsj_swSNl9oDxCqBIlHqVfMZlqyNpagECcuwayh3V1fMUdcZnJUdStElqQFs1MRKT2YybFBUKmgQltoh3KQYarPTgCiaGIgTiRpLfBNHCQu6nZgwoLk64gO_v8lC5_aQblL4QTKKS0CEc4I4X289YqDVDgWG83853rcRVJ1u49Ua7PJg8WRHGMOtxNiCOwwK2_ZGsz7mt7QWpISf7ETugrs8zmfx7g8wV3TbQxtTEJD-hrRDpZAZwbTGFqa0DrD2rswrTvl-73QEoZPHYMx4nKF3wdI7bmYkfI3Q0vCQO6Iz0_-AV0wTw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058734",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sXJYd2HuluCbxdMaxIZmyTQFgDiDwo_e4Tsj_swSNl9oDxCqBIlHqVfMZlqyNpagECcuwayh3V1fMUdcZnJUdStElqQFs1MRKT2YybFBUKmgQltoh3KQYarPTgCiaGIgTiRpLfBNHCQu6nZgwoLk64gO_v8lC5_aQblL4QTKKS0CEc4I4X289YqDVDgWG83853rcRVJ1u49Ua7PJg8WRHGMOtxNiCOwwK2_ZGsz7mt7QWpISf7ETugrs8zmfx7g8wV3TbQxtTEJD-hrRDpZAZwbTGFqa0DrD2rswrTvl-73QEoZPHYMx4nKF3wdI7bmYkfI3Q0vCQO6Iz0_-AV0wTw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785503514220,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📰 Russia's Grand Bishop Appreciates Leader of the Islamic Revolution's Message.. Iranian Ambassador: Tehran Ready to Host 13th Round of Interfaith DialogueTo read the full article 👇",
     "media": [],
     "verified": false
   },
