@@ -180666,6 +180666,21 @@
     "verified": false
   },
   {
+    "id": 1785532294098,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Pezeshkian will report to people on second anniversary of his presidential inauguration📌 Tehran, IRNA – President Masoud Pezeshkian will soon report to the public—in an interview marking the second anniversary of his inauguration—on the measures taken and current issues.The report by Masoud Peze...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -185281,6 +185296,131 @@
     "source": "Telegram (simurgh)",
     "sourceUrl": "https://t.me/s/simurgh",
     "description": "—❗️🇺🇸/🇮🇶/🇮🇷 BREAKING: The last 5 remaining Patriot systems have been withdrawn from Erbil AirportIraqi Kurdistan is now left at the mercy of Iranian missiles and drones for the first time ever, with no anti-ballistic missile systems to intercept them.@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785532318586,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📡 At least four American tankers are flying over the Strait of Hormuz; all of these tankers took off from Ben Gurion Airport.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jJiijdFzjAesMIy7hthSqaEZaKc2alJtyO-DcM-HRA3hL0ZeQN4outIRkwaPrglytJwlbDgsxeankZPUclzMVL583qTkVGTNpf8k-t4PUFWi7d7sGuuPVr-uCC052J6pCA2IBb-1juq0Km1cx5Iv-Yi641X2lYmtg9xf6QVbGzlL4Lye5TJ-4zOn9TZr7CevEpn8Xgcn_iY_OIBpJNnlP8ze92Y2su-afortaMbtIqgZPSA2UxQzfAiUm4EuMnfdE0l2H2zpL5PXqbWsursJf_TM_1aOVAqDZ1IeG1ZxRtabpmEqF3jFTeXKYLHipwugR_J3D6lAGx2BVD6hmlQiyA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785532327789,
+    "type": "airstrike",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Erdogan to Aoun: Do not rush into an agreement with IsraelAl-Akhbar newspaper wrote that Erdogan, in a conversation with Lebanese President Aoun, advised him not to rush into an agreement with Israel because Israel's goal is not peace with anyone.Erdogan advised Aoun to try to strengthen his rela...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DHFc7v9GkkxALTt9B66hL4S1uoICQ4f2Hn5xAgdzv6Bnyi8DlPRlUHbwKFWuYQH_USR7-NM6ts2pldsZvjlV6wtXVX71Qd-UubTbOoGtL5Ws_bh7EHbmdUxuCm9g9oEtoi_supq5Rs9rjXuGiGFDsmUtU0mzmZ307KvRQrJDTaQlLXQlRTU79jT7We6ioXrP0xBsi4l5cohI2kJF__EYk9aXiSMGOYPod6518odcEJ1pHgPWjkFmoNTQkesEqlRuLlMtV_lfhjjCBEym2E579IZf8CWio_Kmf5apqpk9XJnJnP1DbN4kYhhOavgKlXg5SmCvNr10exT3jkCKoIqCbg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785532281170,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Erdogan to Aoun: Do not rush into an agreement with IsraelAl-Akhbar newspaper wrote that Erdogan, in a conversation with Lebanese President Aoun, advised him not to rush into an agreement with Israel because Israel's goal is not peace with anyone.Erdogan advised Aoun to try to strengthen his rela...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DHFc7v9GkkxALTt9B66hL4S1uoICQ4f2Hn5xAgdzv6Bnyi8DlPRlUHbwKFWuYQH_USR7-NM6ts2pldsZvjlV6wtXVX71Qd-UubTbOoGtL5Ws_bh7EHbmdUxuCm9g9oEtoi_supq5Rs9rjXuGiGFDsmUtU0mzmZ307KvRQrJDTaQlLXQlRTU79jT7We6ioXrP0xBsi4l5cohI2kJF__EYk9aXiSMGOYPod6518odcEJ1pHgPWjkFmoNTQkesEqlRuLlMtV_lfhjjCBEym2E579IZf8CWio_Kmf5apqpk9XJnJnP1DbN4kYhhOavgKlXg5SmCvNr10exT3jkCKoIqCbg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785532287424,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Erdogan to Aoun: Do not rush into an agreement with IsraelAl-Akhbar newspaper wrote that Erdogan, in a conversation with Lebanese President Aoun, advised him not to rush into an agreement with Israel because Israel's goal is not peace with anyone.Erdogan advised Aoun to try to strengthen his rela...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DHFc7v9GkkxALTt9B66hL4S1uoICQ4f2Hn5xAgdzv6Bnyi8DlPRlUHbwKFWuYQH_USR7-NM6ts2pldsZvjlV6wtXVX71Qd-UubTbOoGtL5Ws_bh7EHbmdUxuCm9g9oEtoi_supq5Rs9rjXuGiGFDsmUtU0mzmZ307KvRQrJDTaQlLXQlRTU79jT7We6ioXrP0xBsi4l5cohI2kJF__EYk9aXiSMGOYPod6518odcEJ1pHgPWjkFmoNTQkesEqlRuLlMtV_lfhjjCBEym2E579IZf8CWio_Kmf5apqpk9XJnJnP1DbN4kYhhOavgKlXg5SmCvNr10exT3jkCKoIqCbg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785532345457,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shoeib:● Summary of Israeli aggressions on southern Lebanon for today:● Artillery shelling:• Thouloseh.• Ali Taher Heights.• Mashaa Al-Mansouri and Majdal Zoun.• Mashaa Al-Mansouri, from a Merkava tank positioned in Al-Bayada.• Jabal Sadana at the outskirts of ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785532326900,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shoeib:● Summary of Israeli aggressions on southern Lebanon for today:● Artillery shelling:• Thouloseh.• Ali Taher Heights.• Mashaa Al-Mansouri and Majdal Zoun.• Mashaa Al-Mansouri, from a Merkava tank positioned in Al-Bayada.• Jabal Sadana at the outskirts of ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785532306787,
+    "type": "drone",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2026-07-31",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇪🇬/🇺🇸/🇮🇷: US-Iran tensions spill over. A drone attack targeted American LNG vessels at Damietta Port.Two LNG tankers were hit by drones at Egypt’s Damietta Port yesterday Oil and gas prices edged higher afterwardDuring geopolitical unrest, Bitcoin attracts many traders Wondering how to spot ...",
     "media": [],
     "verified": false
   },
