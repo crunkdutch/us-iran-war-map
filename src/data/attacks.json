@@ -84697,6 +84697,38 @@
     ]
   },
   {
+    "id": 477289073,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Gilan, Strait of Hormuz: IRGC offending tankers were stopped four",
+    "location": "Gilan, Strait of Hormuz",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ IRGC: Two offending tankers were hit and stopped, and four offending tankers quickly turned back.The Public Relations Department of the Islamic Revolutionary Guard Corps: The valiant and history-making people of Islamic Iran in the IRGC Navy, while continuing to exercise full control over the Strait of Hormuz, continue to safeguard the trust of you, the faithful and vigilant nation of Islamic Iran.In the early hours of today, two offending tankers, under the influence of CENTCOM's inducements",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",

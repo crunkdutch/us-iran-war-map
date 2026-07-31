@@ -180294,6 +180294,32 @@
     "verified": false
   },
   {
+    "id": 1785490901602,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷The Sepah (IRGC) Navy has published footage of a burning tanker in the Strait of Hormuz and warning: The consequence of ignoring the IRGC warnings and moving according to CENTCOM's ordersThe Sepah Navy announced earlier that two tankers had burst into flames, forcing four other tankers to turn b...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0e4b8e2458.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UeCPJ0RjHJE9XKn5IEwPGptjT5iTmfKhyBDnQII5CdaNkKcwpS92n63I9_zyBEIgJLzjKgtMkQ9bJLN5w_SNrl2_myNCHQf5d1EWaw0P42G3ulED7BChtQr2o1f_SodMvy2btLtXgg1ZRBEhkKkbd5xeW-RwBJpeYT4t5kOGNZrP6Mcw_zOKgl8n1tEK8y_9IT9ysP8k1Fcp3njZQcEG6m8TMALzVvvIliOjtLFn8DJS0rP7cxCSJ4j8dWnH-yc_jbbEa8qkyieEVeYQCRSLKZzqoYnuRaS-8X16Emw7VsPxFx3qB6BOzIRBLXmG68pHJkaMSXSjwkAls2Q3Pqu38Q"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8337",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UeCPJ0RjHJE9XKn5IEwPGptjT5iTmfKhyBDnQII5CdaNkKcwpS92n63I9_zyBEIgJLzjKgtMkQ9bJLN5w_SNrl2_myNCHQf5d1EWaw0P42G3ulED7BChtQr2o1f_SodMvy2btLtXgg1ZRBEhkKkbd5xeW-RwBJpeYT4t5kOGNZrP6Mcw_zOKgl8n1tEK8y_9IT9ysP8k1Fcp3njZQcEG6m8TMALzVvvIliOjtLFn8DJS0rP7cxCSJ4j8dWnH-yc_jbbEa8qkyieEVeYQCRSLKZzqoYnuRaS-8X16Emw7VsPxFx3qB6BOzIRBLXmG68pHJkaMSXSjwkAls2Q3Pqu38Q"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -182049,6 +182075,56 @@
     "source": "IDF",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ #Enemy_Media - Channel 14 Hebrew correspondent: The serious incident in the Givati Brigade: It appears that the high command has decided to dismantle the \"Sabbar\" battalion, the superior infantry battalion in the Israeli army, due to the madness of the battalion commander who suffers from a serio...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785490972228,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - Hebrew Channel 12:Fear of escalation - More American refueling planes are on their way to Israel - At Ben Gurion Airport, there is fear of major disruptions",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785490950639,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Columns of smoke rising from Al-Ahdab oil field in Wasit Governorate for unknown reasons• 09:35 — The scene of rising smoke plumes in Wasit, Iraq (Rasd Akhbar Shehaba)",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Zl783elvgP-ShPeYl_SkW7dKiwJIc-SEOgpcvw2C3l3jDW-bWZLRwNDkn3MKQWUfRH6KCmBIut7ZiNwf-Qj-K23fLgd2EKaTQMmOjgmW9UkmBXDwX-UWSIsfeKdfAdjiIYx7r0Ut7KpR6X57QkuieWgZTu61Kpe9R_LOOaiZDwJLHXcqMu9euleP1OgLWg2_cg4vuhxr9yh3KfappQB1WK46oaDtmQcdhKdGxz-ZK4GEO6fLDqVIg6N4h5HWxx8VNmOjKOPNU5a77k3nekyRZD-be8FOhgmA33w4hPt8fYSCDOJ4UhTbOlf6Mk6FRu96JzS6jgFZH_fYtRR2UwJjrA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785490919399,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Al-Qaddoumi: The blood of the great leader Haniyeh represents a source for strengthening the resistance frontThe representative of the Hamas movement in Tehran, Khaled Al-Qaddoumi, affirmed that the blood of the martyrs, especially the leader Ismail Haniyeh, represents a source for strengthening ...",
     "media": [],
     "verified": false
   },
