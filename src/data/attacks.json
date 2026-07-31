@@ -81293,6 +81293,76 @@
     ]
   },
   {
+    "id": 477297911,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Beirut, Lebanon, Israel: LebanonSpeaker Lebanese Parliament Nabih Berri commenting",
+    "location": "Beirut, Lebanon, Israel",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonSpeaker of the Lebanese Parliament Nabih Berri, commenting on yesterday's explosions carried out by the \"Israeli\" occupation forces around Al-Shaqif Castle and the towns of Arnoun, Kfar Tebnit, Yohmor Al-Shaqif, and Hadatha, as well as previous explosions across occupied southern Lebanese towns and villages:\"The repercussions of the terrorist explosions caused by 700 tons of explosives, which registered 3.8 on seismic monitoring stations and were felt by Lebanese citizens from the South ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1057174",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ngL4dDibvdm8iCefZymCCb8JC-689Y-N_EW5FSaub_jRoFP86BTol3VQka59UWrGInWxu5GLC0qTqbCGIbPwCbHhuAUuj7pvASS7iSbKZFPuBcOYQ39cYrZLCOjdrFl8XVJYaB95gAphflkLj0qMKjKdQ8qmz5e1gpWLzwozlbEV0wwZjKY4zWCmUMrPOHD6jtjMNIu9jtdVi-O4pL3kv4Q9nGx46jWFU-QuTCGZRCDTy10-OhUcanmC3-UJe6330pwHziQRhXToPgBbHciBleOvKShKF3l_In1F6C4rpVIBU7gDEWDgjYdS20mV66VHtpIH4MW5ptVM_9WE7Gd5IA"
+      }
+    ]
+  },
+  {
+    "id": 477300123,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-29",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Iraq, Israel, Turkey: Enemy_MediaIsraeli Occupation Army Radio CorrespondentForeig...",
+    "location": "Iraq, Israel, Turkey",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" Occupation Army Radio Correspondent:Foreign media report that Trump and Netanyahu have discussed imposing a \"land blockade\" on Iran.\"So, just to put things into perspective—and for those who forgot to bring a map to class—these are the countries that share land borders with Iran: Pakistan, Afghanistan, Turkmenistan, Azerbaijan, Armenia, Turkey, and Iraq.\"\"Keep that in mind the next time someone talks to you about a 'land blockade' on Iran.\"#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477002246,
     "type": "missile",
     "status": "confirmed",
@@ -84852,6 +84922,43 @@
         "url": "https://t.me/SimurghRes/8340?single",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/DQmXVzjCa5Xn34gv31ER__cBXNphKeGsNxopWtr7PkxXPWOkFhIEmwxAbCi50zgFcW4AI6g4Olx0SERYo2-oRidQZ7i6MRflQd4tvhSI57GTIt2cMoRQPdq0K1sVS4JUUofVW0ZY7I7HpRuUT3c86obLk1umVxK9Zs3i7VG9EXw0euXxszB-l2MVVeEx2ddJJhOPhryoY8_6M3dH3FFg0ynn29sAHkK58F1fpSc5wbZ3238M2XVeCjI55kc6zro1K_4h_Aru6m2RMD5oaZu5-OjfPDFaBvr5lXAp00DaufIBzOn2wzT3m1etbYbzL95PKTyXUAdLS0C3G09DRUfmkA"
+      }
+    ]
+  },
+  {
+    "id": 477302336,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Red Sea, Yemen, Saudi Arabia: Telegraph Saudi Arabia preparing major military",
+    "location": "Red Sea, Yemen, Saudi Arabia",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/simurgh",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇬🇧🇸🇦🇾🇪The Telegraph: Saudi Arabia is preparing for a major military operation against Ansarallah (Houthis), which could include naval operations in the Red Sea and a ground offensive in central Yemen.@SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/WJ38qyIImtwPEWDxWgMB-68rMJ6XXJzXSU_01m769kQQWRiBp9l4y58r64B5_1Op_pshI-8eJDz_3jqAHwy8QWzGOQ8KiwAp0HY7sBBHhu2hFYas6X0Sg8OMGs1aZqrzt2bf72BDKTnyIFyUVKaYycVTqflb-4FJfJQotTp2BWASPRZv6W1UBtrAUYExa9hHRRIdq3pno_LgQOBi3epRGj4Rch_M6yh3r3LT_nLb_x6eTkM1rA-ahnnu5EfyGPFsfspwzLKZz5idj7mDeY9H4KqTTRYv_7KIcR8DymK8oBzgZ1ZWGMdgSa-L4rCO2afMisDs7fArwIkFoanC0gzLfw.jpg",
+        "type": "photo"
       }
     ]
   },
