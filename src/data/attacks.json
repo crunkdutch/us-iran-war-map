@@ -85059,6 +85059,139 @@
     "media": []
   },
   {
+    "id": 477311198,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Tehran, Riyadh, Strait of Hormuz: Irans decision strike American interests Jordan",
+    "location": "Tehran, Riyadh, Strait of Hormuz, Lebanon, Jordan, Yemen, Saudi Arabia, Iraq, Egypt, Turkey",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Iran’s decision to strike American interests in Jordan was intended as a preemptive warning after Tehran received intelligence that the United States, together with some allies, was preparing a ground operation on one of Iran’s coastal islands to alter the situation surrounding the Strait of Hormuz.The Iranian move coincided with Yemeni faction entering the confrontation by striking Saudi Arabia, followed by a rapid American-Saudi response inside Iraq. This occurred on the eve of Iraqi Prime M",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477313416,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Iraq: Iraq SecretaryGeneral Badr Organization Hadi alAmiri",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iraq: Secretary-General of the Badr Organization Hadi al-Amiri: The blood of the martyrs will not be in vain, and we will surely avenge them.• 14:41 — Iraq: Al-Amiri: Those who yesterday sent car bombs and suicide bombers to Iraq have returned today to send missiles. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477315635,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Red Sea, Iraq: Independent Expansion Increases Economic Political Pressure",
+    "location": "Red Sea, Iraq",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ \"Independent\": War Expansion Increases Economic and Political Pressure on Trump🔹The \"Independent\" newspaper reported that Trump's unplanned war against Iran, contrary to promises, has turned into a protracted conflict and has not achieved American objectives.🔹Iran has maintained its missile and drone capabilities, and attacks in the Red Sea, Iraq, and other regions threaten the security of American bases and the global oil and gas transit.🔹The expansion of the war has put pressure on the g",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oWQh_As3oVKNh1E9a95YzSOOhR4ks_b4696NP_feFvjTwzJ4gzdF5EVuCW0WXPtpAjNyeTzofV9zHvgpTDGP2Qbt3JO2WKaIP0sDnZR8tb7yxwkhJ7lbyogDMc6chG5eM9mRvS6RK_fH2lQ0tOL1fsv188OFF3Jz6386ymdkwjiQ5HSrzxjlp6AUWc0B7H45d6LaWRPS23AsNccHbovaeYBxZrH7_WVHoiES9JhFzFvBX9Dgb7IGkWqHPLzWHQbgcBAodhfg6Rt_CdWAiOHgFwrWqt0-4-ZRcRRle2z_0H0ziVrb2ULrETz2coqRPtE0LMoU3NYE6J7-HzeQe_jfOQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477317855,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Iraq, Israel, Turkey: Israeli Army Radio correspondentForeign media report",
+    "location": "Iraq, Israel, Turkey",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (simurgh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Israeli Army Radio correspondent:Foreign media report that Trump and Netanyahu considered imposing a \"land blockade\" on Iran.So, just to put things in perspective, and for anyone who forgot to bring a map to class, these are the countries that share a land border with Iran:Pakistan.Afghanistan.Turkmenistan.Azerbaijan.Armenia.Turkey.Iraq.Remember this the next time they talk to you about a \"land blockade\" on Iran.@SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
