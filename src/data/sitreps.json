@@ -171012,6 +171012,36 @@
     "verified": false
   },
   {
+    "id": 1785462358639,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Baghaei: US attack on a residential home in Qeshm is reminiscent of ISIS's terrorist acts📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei in reaction to the US raid on a home in Qeshm, which resulted in the deaths of the parents of a five-member family, described the atrocity as rem...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785462381405,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Baghaei: US attack on a residential home in Qeshm is reminiscent of ISIS's terrorist acts📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei in reaction to the US raid on a home in Qeshm, which resulted in the deaths of the parents of a five-member family, described the atrocity as rem...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -178665,7 +178695,18 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Drones target opposition headquarters in Sulaymaniyah, northern Iraq• 23:43 — Targeting the weapons depots of separatist terrorists in Sulaymaniyah province in Iraq (Iran Militarism)",
-    "media": [],
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a689ad5c81.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/s--zyvSQ3vvmOPqleQ8IcKvMOuxhSBzspikx1g86l1Vt4nuWbc94GG21rSrejkNwJ0g610uhhwX3tp4ydDaK5vX1GGSSaq6jUo-MtApnzOMh3Tp6q1Hk3yLpu-DpSqcGD-CEYc8Afyvdh1E_SLF0nzRj1h4GZKIdyG84tFGlgp5NLV1DYng9CSUdx9BGEppwwVNiJod0AIZzDrsbNOvLOWGQcnDVE_6JbNEgEKeBCDf-ZrJBSEIPGJAGGG8NjdxUdE0ZStjMraMQeQXBapC0dAnr6JDJNDYqAvN0nIdwfSxhgm52HpJ2HlvrBmSbyD-JG6FaaYcKoDZLqgcC20qdjA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058502",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/s--zyvSQ3vvmOPqleQ8IcKvMOuxhSBzspikx1g86l1Vt4nuWbc94GG21rSrejkNwJ0g610uhhwX3tp4ydDaK5vX1GGSSaq6jUo-MtApnzOMh3Tp6q1Hk3yLpu-DpSqcGD-CEYc8Afyvdh1E_SLF0nzRj1h4GZKIdyG84tFGlgp5NLV1DYng9CSUdx9BGEppwwVNiJod0AIZzDrsbNOvLOWGQcnDVE_6JbNEgEKeBCDf-ZrJBSEIPGJAGGG8NjdxUdE0ZStjMraMQeQXBapC0dAnr6JDJNDYqAvN0nIdwfSxhgm52HpJ2HlvrBmSbyD-JG6FaaYcKoDZLqgcC20qdjA"
+      }
+    ],
     "verified": false
   },
   {
@@ -178808,6 +178849,175 @@
         "thumbnail": "https://cdn4.telesco.pe/file/dczsBoAumbQ-StELXMHMUvSf9Nyn8OWh3_5eyTWXa-2G9FDRYIKX3tLr4wnxd-rrrAMBxII4kbaxBds_W7tqf72U4AdJq-49jy-YIg2-JTg4wXvs_4G2ScU0DQhnlt0jN4hI2BLHARxw2Vbz9WIEdbJGnvrGbhML4v8D5WxW1ViBFXgKqSY6O53OxzSPp8ru0JC_bIBpSQfHJYw3vijHgX0B7LCALa5i9JT06FquuCpD_3hHKDgn9cuQEYsJWu3nl0v6dKag7g_NAWMvhuY05VEV0SRGBqVnwqaXcdGxjIeYctna1psjE2LpvsOniljlXEjVKAxtS31pezs4yRefFw"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785462387445,
+    "type": "intercept",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-31",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Foolish Epstein Trump to Financial Times: We will inflict a crushing defeat on Iran• We simply want to end the war in Ukraine with Russia, and I am not looking for missiles, but rather seeking peace• I have not yet made a decision on allowing Ukraine to produce Patriot surface-to-air interceptor ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785462308527,
+    "type": "airstrike",
+    "location": "Ali Al Salem Air Base",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Satellite images show what appears to be new damage at Ali Al Salem Air Base in Kuwait. A storage area used by US forces shows signs of charring, indicating damage to the facility.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/194254e45f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZkGuBD7ACTm9jnzOt19K_NZkHZpNax0ci21cr5MydoF1UCP8S8_ve6slN9xFS6KREaryk_qWw3eueVuDIyVFprL3pldHWNI671SatWMOwBzAMIELsacl3DgEPU3Z2NUVqxWYKEcgcmeX0HEyOYRQFuNQjCqe_M5jvOU74hGiewIUvuw7_gQjnYR9fo7TF48M_SZtcMfGrRVgjy_0CastKmJj2IoC9vfg6TXskqNnyjjZNbOQArel2VTOJXJqa0b6actTbm_LqG_U4OqOoUhvzeQV4-MZ-gAmwBJReeN-J3IsF73SPS844H6-G-IBu-2qLWiHwaFi304rxjcQKcqt7A"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058517",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZkGuBD7ACTm9jnzOt19K_NZkHZpNax0ci21cr5MydoF1UCP8S8_ve6slN9xFS6KREaryk_qWw3eueVuDIyVFprL3pldHWNI671SatWMOwBzAMIELsacl3DgEPU3Z2NUVqxWYKEcgcmeX0HEyOYRQFuNQjCqe_M5jvOU74hGiewIUvuw7_gQjnYR9fo7TF48M_SZtcMfGrRVgjy_0CastKmJj2IoC9vfg6TXskqNnyjjZNbOQArel2VTOJXJqa0b6actTbm_LqG_U4OqOoUhvzeQV4-MZ-gAmwBJReeN-J3IsF73SPS844H6-G-IBu-2qLWiHwaFi304rxjcQKcqt7A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785462330199,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Satellite images show what appears to be new damage at Ali Al Salem Air Base in Kuwait. A storage area used by US forces shows signs of charring, indicating damage to the facility.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/194254e45f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZkGuBD7ACTm9jnzOt19K_NZkHZpNax0ci21cr5MydoF1UCP8S8_ve6slN9xFS6KREaryk_qWw3eueVuDIyVFprL3pldHWNI671SatWMOwBzAMIELsacl3DgEPU3Z2NUVqxWYKEcgcmeX0HEyOYRQFuNQjCqe_M5jvOU74hGiewIUvuw7_gQjnYR9fo7TF48M_SZtcMfGrRVgjy_0CastKmJj2IoC9vfg6TXskqNnyjjZNbOQArel2VTOJXJqa0b6actTbm_LqG_U4OqOoUhvzeQV4-MZ-gAmwBJReeN-J3IsF73SPS844H6-G-IBu-2qLWiHwaFi304rxjcQKcqt7A"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058517",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZkGuBD7ACTm9jnzOt19K_NZkHZpNax0ci21cr5MydoF1UCP8S8_ve6slN9xFS6KREaryk_qWw3eueVuDIyVFprL3pldHWNI671SatWMOwBzAMIELsacl3DgEPU3Z2NUVqxWYKEcgcmeX0HEyOYRQFuNQjCqe_M5jvOU74hGiewIUvuw7_gQjnYR9fo7TF48M_SZtcMfGrRVgjy_0CastKmJj2IoC9vfg6TXskqNnyjjZNbOQArel2VTOJXJqa0b6actTbm_LqG_U4OqOoUhvzeQV4-MZ-gAmwBJReeN-J3IsF73SPS844H6-G-IBu-2qLWiHwaFi304rxjcQKcqt7A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785462310268,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi sources report new attacks on the positions of separatist terrorists in Erbil and Sulaymaniyah.More than ten points of weapons depots and headquarters have been targeted.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c7615025e0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SSKSr7kZTP11T9yZev2FA0qr5rQ6qx4bXQmwpKu0r_y2IcI-Zc_0EocXNBPv0JZ70Y3Gw1DcWVK1gNfNKXhpwZNS6w-fMusK-5IRjacVG82AOxosg1CVxaAV1K0Qj0SwpIki2utnfatLMaTpZ42rhJibvFcnVMEK6rkoOjEaYLnPx2-vLJB8rx5JkBoOyw5EP08ZyeBX1LYmujx-r2N1upmA3s3f_TUUw-rquhEDk0KztD2wbYuFiZQF_Ezbc9TDvlHaEUws3iNyR7R91Rm-g1G6f0q6O9DsIqgV3v2y2QpJAFGK20gL0NsI1W72ss0X4K8O08H02lpYhkxRLsbepA"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/38ed11afc4.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SSKSr7kZTP11T9yZev2FA0qr5rQ6qx4bXQmwpKu0r_y2IcI-Zc_0EocXNBPv0JZ70Y3Gw1DcWVK1gNfNKXhpwZNS6w-fMusK-5IRjacVG82AOxosg1CVxaAV1K0Qj0SwpIki2utnfatLMaTpZ42rhJibvFcnVMEK6rkoOjEaYLnPx2-vLJB8rx5JkBoOyw5EP08ZyeBX1LYmujx-r2N1upmA3s3f_TUUw-rquhEDk0KztD2wbYuFiZQF_Ezbc9TDvlHaEUws3iNyR7R91Rm-g1G6f0q6O9DsIqgV3v2y2QpJAFGK20gL0NsI1W72ss0X4K8O08H02lpYhkxRLsbepA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058518?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SSKSr7kZTP11T9yZev2FA0qr5rQ6qx4bXQmwpKu0r_y2IcI-Zc_0EocXNBPv0JZ70Y3Gw1DcWVK1gNfNKXhpwZNS6w-fMusK-5IRjacVG82AOxosg1CVxaAV1K0Qj0SwpIki2utnfatLMaTpZ42rhJibvFcnVMEK6rkoOjEaYLnPx2-vLJB8rx5JkBoOyw5EP08ZyeBX1LYmujx-r2N1upmA3s3f_TUUw-rquhEDk0KztD2wbYuFiZQF_Ezbc9TDvlHaEUws3iNyR7R91Rm-g1G6f0q6O9DsIqgV3v2y2QpJAFGK20gL0NsI1W72ss0X4K8O08H02lpYhkxRLsbepA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058519?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CWPBK4PPoauVmD45j8uRXN-w14wHGDJkrU-mrOo9AxIyuzwZKAncOWfjY22thxtI_cyK0bNGnjjTZ10uWXQhxKSznLXUbR-ClbzsjasIxqOPc4eKI3TPdEgP97JePM7VOay9xa8P68XFyIdvuiEfhYZdtlKdZTdAupwNoKUUaSi8jiID2VcFCYqwz1Kp6fQYSh-lifn1ojaSE0ba_jAfaUYjsXSKn8GowMj1vLZdfre3fNfdJXI3TZb9VR0ZTJlKSb1XDA_bj_lgoHg_5RYjDZGrURYY1wuL5OX5kYvKS_XeJYXb-7c0WNYgHdrzx1eAasGcvKLF7fHcjD_8zU3h-A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785462354437,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi sources report new attacks on the positions of separatist terrorists in Erbil and Sulaymaniyah.More than ten points of weapons depots and headquarters have been targeted.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c7615025e0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SSKSr7kZTP11T9yZev2FA0qr5rQ6qx4bXQmwpKu0r_y2IcI-Zc_0EocXNBPv0JZ70Y3Gw1DcWVK1gNfNKXhpwZNS6w-fMusK-5IRjacVG82AOxosg1CVxaAV1K0Qj0SwpIki2utnfatLMaTpZ42rhJibvFcnVMEK6rkoOjEaYLnPx2-vLJB8rx5JkBoOyw5EP08ZyeBX1LYmujx-r2N1upmA3s3f_TUUw-rquhEDk0KztD2wbYuFiZQF_Ezbc9TDvlHaEUws3iNyR7R91Rm-g1G6f0q6O9DsIqgV3v2y2QpJAFGK20gL0NsI1W72ss0X4K8O08H02lpYhkxRLsbepA"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/38ed11afc4.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SSKSr7kZTP11T9yZev2FA0qr5rQ6qx4bXQmwpKu0r_y2IcI-Zc_0EocXNBPv0JZ70Y3Gw1DcWVK1gNfNKXhpwZNS6w-fMusK-5IRjacVG82AOxosg1CVxaAV1K0Qj0SwpIki2utnfatLMaTpZ42rhJibvFcnVMEK6rkoOjEaYLnPx2-vLJB8rx5JkBoOyw5EP08ZyeBX1LYmujx-r2N1upmA3s3f_TUUw-rquhEDk0KztD2wbYuFiZQF_Ezbc9TDvlHaEUws3iNyR7R91Rm-g1G6f0q6O9DsIqgV3v2y2QpJAFGK20gL0NsI1W72ss0X4K8O08H02lpYhkxRLsbepA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058518?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SSKSr7kZTP11T9yZev2FA0qr5rQ6qx4bXQmwpKu0r_y2IcI-Zc_0EocXNBPv0JZ70Y3Gw1DcWVK1gNfNKXhpwZNS6w-fMusK-5IRjacVG82AOxosg1CVxaAV1K0Qj0SwpIki2utnfatLMaTpZ42rhJibvFcnVMEK6rkoOjEaYLnPx2-vLJB8rx5JkBoOyw5EP08ZyeBX1LYmujx-r2N1upmA3s3f_TUUw-rquhEDk0KztD2wbYuFiZQF_Ezbc9TDvlHaEUws3iNyR7R91Rm-g1G6f0q6O9DsIqgV3v2y2QpJAFGK20gL0NsI1W72ss0X4K8O08H02lpYhkxRLsbepA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058519?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CWPBK4PPoauVmD45j8uRXN-w14wHGDJkrU-mrOo9AxIyuzwZKAncOWfjY22thxtI_cyK0bNGnjjTZ10uWXQhxKSznLXUbR-ClbzsjasIxqOPc4eKI3TPdEgP97JePM7VOay9xa8P68XFyIdvuiEfhYZdtlKdZTdAupwNoKUUaSi8jiID2VcFCYqwz1Kp6fQYSh-lifn1ojaSE0ba_jAfaUYjsXSKn8GowMj1vLZdfre3fNfdJXI3TZb9VR0ZTJlKSb1XDA_bj_lgoHg_5RYjDZGrURYY1wuL5OX5kYvKS_XeJYXb-7c0WNYgHdrzx1eAasGcvKLF7fHcjD_8zU3h-A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785462319272,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Israeli artillery shelling south of Khan Yunis, southern Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785462352311,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Israeli artillery shelling south of Khan Yunis, southern Gaza Strip.",
+    "media": [],
     "verified": false
   },
   {
