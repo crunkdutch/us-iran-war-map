@@ -184412,6 +184412,75 @@
     "verified": false
   },
   {
+    "id": 1785523308301,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ \"Palestine Information Center\": 63 qualitative and popular resistance operations in the occupied West Bank and Jerusalem between July 25 and 30, 2026",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785523370606,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: The Lebanese army received this evening a shipment of light weapons from the Fatah al-Intifada movement in the Beddawi camp in Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785523295364,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - Channel 13 Hebrew Poll:62% of Israelis do not trust Trump's ability to prevent Iran from developing its nuclear program.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785523287843,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-31",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸CENTCOM: The Strait of Hormuz is open.🇮🇷IRGC: The Strait of Hormuz is closed.The acid test is in crossing it. So we're calling BS on the CENTCOM claim&#33;@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/P3mghx_jy8E4EH6SvgVFlQlwfK-3q0rGNuDC2Yp1LdlhC8s5Eg6behpcNIC3-8U9V_xis6bX2KDAE3EFtEeasVStYB1oUCCD1DIx-R3j_mVeqCyIVlVz-qgxkCkMosq1FSPGsart0tz86AKk-2sH3ilW72rrtv-wK3blT5UoN6GSOZRKJ6jMv6QlUTKc0ADR83YBtu8i-jIproXPvBMKDSXn3KtD86MOtRx6oK6-kdEBPIWCXPKJEo_-WUZhUDVqibYZNLTw-P9MpgQalZuBp8xLuRRU9sf3L7bMmwn8tSjnfDb4EMTmj_her41d0HgyN6AWFAyqHHIKioGTG4sUZA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fmkt_yUl7WbWY6GsQKoAithuyqQCTXu9gSj9lfDPdQ_IYUcQgk9kOfw1C-TBWF6767iCRzTWpcdvH5bKSpRg5JbYnP8i3lofpszF7OLYu2PKM95SZkoOg4vpnqxOXhEqWkNMQQeMKU4-xMxNJUxv-4fBnIRVlRLgWFYaYjikmKxx7FKEW0wkCueZX3LMuVz_cspxKbgmhYq5YqBE08UK4NK4mt55Fpcv3EaD-MPaDZC3KKZuqEzZi50w724pyzwtYMxiKg9rw6C6IUUpVVTbhb3qZIbUPnip-Vntm1PraIgPqyljAzYvnBQo1wHneVzvpZvBaVWggVHlsVwL3abkPw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
