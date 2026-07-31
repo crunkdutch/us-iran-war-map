@@ -85622,6 +85622,43 @@
     ]
   },
   {
+    "id": 477346806,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz: Araghchi military aggression naval blockade main",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Araghchi: US military aggression and naval blockade are the main causes of insecurity in the region and the Strait of Hormuz.🔹The Foreign Minister, in a phone conversation with his Indian counterpart: Washington's breach of promise and aggression against commercial shipping are destabilizing factors.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bWUrM1aJPBy8tvHH59c1Oba2K40vSj-Fmd54wv9QnQKU2AiErT9QZfIu-QYU9KsWge6ZwR35X9eHCcEBd8Ug9jjA3Xm1yb2PGtsSiOUNbHmyYtZJ9HRg8DLZgXy0SApchjctBPj5sDuD2iAtxBa6whHDIYBWoEmFPvDmblCgDLxXnr0CawPV1qM0jlgw0h6ksq2AwXrlLvYXTCKJPtYfiXEgslKcRB18-IicHMNxZHspvjEt6TKppzh0gvK3OdMhTin8oiGN8LJunq4_a9ATl0FBQpQ2FpexfzgtS06aqSQqET0hbfJKalJyo3jbpyRKm_Kjew9ChZALvhOnijIXwA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",

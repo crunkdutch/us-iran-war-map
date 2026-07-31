@@ -185180,6 +185180,111 @@
     "verified": false
   },
   {
+    "id": 1785530502953,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Journalistic sources:A martyr next to Al-Istijaba Mosque in Al-Sabra neighborhood in Gaza City, and there are difficulties in recovering the martyr's body due to the presence of a low-flying quadcopter drone.• 20:15 — Source in Ambulance and Emergency: A Palestinian martyred in a raid by an Israe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785530480510,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Journalistic sources:A martyr next to Al-Istijaba Mosque in Al-Sabra neighborhood in Gaza City, and there are difficulties in recovering the martyr's body due to the presence of a low-flying quadcopter drone.• 20:15 — Source in Ambulance and Emergency: A Palestinian martyred in a raid by an Israe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785530552139,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Araghchi: US military aggression and naval blockade are the main causes of insecurity in the region and the Strait of Hormuz.🔹The Foreign Minister, in a phone conversation with his Indian counterpart: Washington's breach of promise and aggression against commercial shipping are destabilizing fac...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785530479160,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Urgent | Intense shelling from Israeli tanks towards the tents of displaced persons in Mawasi, Rafah city, southern Gaza Strip.• 20:32 — #Urgent A person injured by Israeli occupation army gunfire in Mawasi, Rafah city, south of the Gaza Strip. (Rasd al Maidan)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785530559134,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Urgent | Intense shelling from Israeli tanks towards the tents of displaced persons in Mawasi, Rafah city, southern Gaza Strip.• 20:32 — #Urgent A person injured by Israeli occupation army gunfire in Mawasi, Rafah city, south of the Gaza Strip. (Rasd al Maidan)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785530517798,
+    "type": "intercept",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "—❗️🇺🇸/🇮🇶/🇮🇷 BREAKING: The last 5 remaining Patriot systems have been withdrawn from Erbil AirportIraqi Kurdistan is now left at the mercy of Iranian missiles and drones for the first time ever, with no anti-ballistic missile systems to intercept them.@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785530568676,
+    "type": "intercept",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "—❗️🇺🇸/🇮🇶/🇮🇷 BREAKING: The last 5 remaining Patriot systems have been withdrawn from Erbil AirportIraqi Kurdistan is now left at the mercy of Iranian missiles and drones for the first time ever, with no anti-ballistic missile systems to intercept them.@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
