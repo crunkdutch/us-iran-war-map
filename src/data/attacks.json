@@ -84963,6 +84963,70 @@
     ]
   },
   {
+    "id": 477304550,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza Strip: HamasHamas Palestinian factions have dealt responsibly",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇵🇸 | Hamas:Hamas and the Palestinian factions have dealt responsibly and positively with the negotiation process and the mediators’ proposals aimed at completing the implementation of the second phase of the ceasefire agreement. This was achieved through national consensus among the Palestinian factions, reflecting a spirit of partnership and responsibility, driven by our commitment to protecting our people, addressing their humanitarian needs, and safeguarding their national rights.The occupa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477306765,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Lebanon, Israel: Lebanon Mayadeen correspondent South Israeli occupation",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: The Israeli occupation \"army\" targets Ali al-Taher heights with incendiary shells",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",

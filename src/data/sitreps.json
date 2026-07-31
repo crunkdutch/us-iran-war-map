@@ -182649,6 +182649,126 @@
     "verified": false
   },
   {
+    "id": 1785501758514,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 | Hamas:Hamas and the Palestinian factions have dealt responsibly and positively with the negotiation process and the mediators’ proposals aimed at completing the implementation of the second phase of the ceasefire agreement. This was achieved through national consensus among the Palestinian fa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785501683993,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: Massive public marches in the capital Sanaa and Yemeni governorates as part of the \"Siege for Siege and Comprehensive Escalation for Comprehensive Escalation\" events.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785501761785,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Yemen: Massive public marches in the capital Sanaa and Yemeni governorates as part of the \"Siege for Siege and Comprehensive Escalation for Comprehensive Escalation\" events.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785501705231,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: The Israeli occupation \"army\" targets Ali al-Taher heights with incendiary shells",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785501714081,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: The Israeli occupation \"army\" targets Ali al-Taher heights with incendiary shells",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785501724601,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-31",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A statement issued by Hezbollah on the US aggression against Iraq:Hezbollah condemns the brutal US aggression against brotherly Iraq and its noble people, which resulted in the martyrdom of a number of innocent people and the injury of others, in a blatant and flagrant violation of international ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785501699623,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A statement issued by Hezbollah on the US aggression against Iraq:Hezbollah condemns the brutal US aggression against brotherly Iraq and its noble people, which resulted in the martyrdom of a number of innocent people and the injury of others, in a blatant and flagrant violation of international ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785501702490,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A statement issued by Hezbollah on the US aggression against Iraq:Hezbollah condemns the brutal US aggression against brotherly Iraq and its noble people, which resulted in the martyrdom of a number of innocent people and the injury of others, in a blatant and flagrant violation of international ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
