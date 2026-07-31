@@ -85728,6 +85728,38 @@
     "media": []
   },
   {
+    "id": 477353511,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Interception — Tehran: European Officials Russia providing Iran with",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ U.S. and European Officials: Russia is providing Iran with satellite surveillance and electronic intelligence that could help Tehran locate U.S. forces, improve its air defenses, and jam U.S.-made weapons.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
