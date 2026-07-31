@@ -185583,6 +185583,142 @@
     "verified": false
   },
   {
+    "id": 1785535891661,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #UrgentEvacuation order in Al-Maghazi camp in the central Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785535890875,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria in 2010 AD1389 Solar Hijri calendar...See what the civil war did to Syria, that all this beauty suddenly turned into nothingness...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1d395676d3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WBfHtYB1MgxZYIuTdm8x-zrfqSsAXQzUEHF1cXjibvYGw5yr1V1TSiOkud57d7qmI3U7phblxpI_VZo9BZ6Ca5I9fLHn_la7RmbgJfv-p1YyUlZ5zvLFUA14spzisj04YrVslAVe2-_4qYlrmdfJcPmSI1mL97_9CjmXvZfoCKUZDNAZVfhPt2embKH0KgtOUJhZMWPnrelEO6BpktiCK-QhpQMI4Pde1_BtvmIfxq7PMvd3BTDiLHzUNX9M9nuLFMN4xO2MnkG7tHfuhXfcHNNjE03hc6-0Ou_kMqwSXTmmQ4Zan1uPr0h96ed-xObN-NRGYwz_NWI66ZJpPXdtdA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059081",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WBfHtYB1MgxZYIuTdm8x-zrfqSsAXQzUEHF1cXjibvYGw5yr1V1TSiOkud57d7qmI3U7phblxpI_VZo9BZ6Ca5I9fLHn_la7RmbgJfv-p1YyUlZ5zvLFUA14spzisj04YrVslAVe2-_4qYlrmdfJcPmSI1mL97_9CjmXvZfoCKUZDNAZVfhPt2embKH0KgtOUJhZMWPnrelEO6BpktiCK-QhpQMI4Pde1_BtvmIfxq7PMvd3BTDiLHzUNX9M9nuLFMN4xO2MnkG7tHfuhXfcHNNjE03hc6-0Ou_kMqwSXTmmQ4Zan1uPr0h96ed-xObN-NRGYwz_NWI66ZJpPXdtdA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785535955048,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew media: Israeli reserve soldier commits suicide at his home in Beersheba.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785535902750,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Message from Mohammad Bagher Zolghadr, Secretary of the Supreme National Security Council: Continued US warmongering will tighten the Strait of Hormuz lock• 22:01 — Iran: Zolghadr: The global economy, the energy market, and American voters will pay the price for the tightening of the closure of H...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Zz82yuTIr71PU_XXKqHwC5fRrQfcXBm0sWZ7GLNESU8HfDhi1vmBThVN8vIJZfnOtHq4nJpcGIo3w5Ve0IvvU1uHO-A8eG3hFP-3KXnJug4JRcWyA6lCeTYU7BZBj0wqlTv-WGuLO5lLgHMErS4QhWd_jF6XGwIm-yOJ1DMy0TJi-hS8e05PU9Vl9BJgL1xt4m3asH_HkzC8idzk3FjKNXMGa8a3FlZVstgrZ_Vv3cjosQ3OcXPx5I_4o-Vur6nIGxEkiiRIr3mQ82zjxYP2J6y0_SZsqt-NSejRDzbdNMpBjdNXrRUKj5QyIh4iv2bJQbjOmEBnSLiQe6ymTP7d5g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785535912525,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Revolutionary Guard: The Strait of Hormuz will not be open as long as the threats and interventions of American officials in maritime traffic in the region persist.• 21:48 — Iran: Revolutionary Guard: American threats and interventions will make the situation more difficult and complicated;...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785535938110,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ White House: Tehran violated the memorandum of understanding, fired on ships, and killed American soldiers.• 22:01 — Enemy Announcement US White House Spokesperson: President Trump is committed to a diplomatic solution but will continue to respond to Iran's attacks. (Rasd Akhbar Shehaba)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785535947390,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Allahu Akbar big Iranian warningSecretary of Iran's Supreme National Security Council, Mohammad Baqer Zolghadr:The continued maritime blockade and provocations by the American regime will not be limited to tightening the closure of the Strait of Hormuz, but will also lead to the closure of other str...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785535980562,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "NBC, citing U.S. officials:Russia is providing Iran with satellite reconnaissance and intelligence-gathering technologies, which could help Tehran locate U.S. forces, improve its air defenses, and disrupt American-made weapons.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
