@@ -184481,6 +184481,47 @@
     "verified": false
   },
   {
+    "id": 1785525127301,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 10 wounded as the occupation bombs a residential building east of Nuseirat camp in the central Gaza Strip.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785525175339,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇧🇭🇮🇷The ruler of Bahrain addressing Iran: After centuries of darkness, Prophet Muhammad (PBUH) endowed Iran with such spiritual, human, and intellectual depth; in gratitude for this, the least you could do is stop attacking Bahrain.**When their retarded brains slowly begin to grasp facts that th...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1843b965d7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vrbi-umIsZmGRZwv4lbxkeCIbwx7IM1tMn55qBxJXzqt7X5a_LW5esrybgWDwOp2jXKO5RxqmrlXZiXfWc3qpZTCoVLt_vLQpmXat7bHP4KffuayDPJX8Xt0MMawhlX6k0S7YUDgct8CTUAA0j4kWyQyo7U6Wd828sS_gIaIS1CcQIEF69JDGuUp5byMtrbDlqPpQqh_f3kxZ_ota-bW29PwuUIg70h7BgWLvMbyRftRV8DXgDwYmYnNdrVbCkgCDfzVG1X9pyII4MhZ62Sq8MspRNnwdzaIGYXklQZhg5LfuGuYGiNiGJtj7S7JcrlScedNH9BTuYwmwG8Gmf2IgA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8368",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vrbi-umIsZmGRZwv4lbxkeCIbwx7IM1tMn55qBxJXzqt7X5a_LW5esrybgWDwOp2jXKO5RxqmrlXZiXfWc3qpZTCoVLt_vLQpmXat7bHP4KffuayDPJX8Xt0MMawhlX6k0S7YUDgct8CTUAA0j4kWyQyo7U6Wd828sS_gIaIS1CcQIEF69JDGuUp5byMtrbDlqPpQqh_f3kxZ_ota-bW29PwuUIg70h7BgWLvMbyRftRV8DXgDwYmYnNdrVbCkgCDfzVG1X9pyII4MhZ62Sq8MspRNnwdzaIGYXklQZhg5LfuGuYGiNiGJtj7S7JcrlScedNH9BTuYwmwG8Gmf2IgA"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
