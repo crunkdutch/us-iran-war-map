@@ -85835,6 +85835,81 @@
     "media": []
   },
   {
+    "id": 477360225,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Israel: also reported that United States planning",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ CNN has also reported that the United States is planning a new wave of attacks against Iran, which could begin this weekend.According to the report, options under consideration include Iranian missile, nuclear, and energy infrastructure targets. Israel is also not currently expected to participate in this operation.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477362465,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Interception — Gaza Strip: Urgent airdefense interception blockade concerning Gaza",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Urgent: An air-defense interception by the blockade concerning Gaza has destroyed a western building of the Al-Aqsa Martyrs Hospital in Deir al-Balah, causing widespread damage that affected the surrounding refugee tents due to the bombing.• 23:36 — 🚫🟠🟠The moment of the last targeting around Al-Aqsa Martyrs Hospital in Deir al-Balah, in the central Gaza Strip.. (Ba2s Jenin)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/23726f63df.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XCnoeII7CrEfPoAXq4Yb7tfbkKDa8QOHQg1-Uu7Tlr-xEi_pRjOiFRc2jRiRtAWZ4YjyVFMPW9xo12a-iNUclJjk87SWx1fLmOD1UMQYMb2CF9c5_6yAcEKgTwtqjxgtkzZdSGqzaS0OCAZbcoPeLzrV_5mONXDS1gikVF9CO3hgrCSoYjmKGD8ZPgtEywO27cDUWt1tdRmfMRM30CcukxEihb8sr9zLYI5Zuw9f9RoWOgw_ERX8cazeZpFaKTm_oAsREBHzeASTds3KVXsV0qzC2JJuL7qYbxPiv4ShtZ0l3OPs_9F8hqmnTdYuXn9OppdXAHvDB1guYH3Ryxw_7w"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059133",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XCnoeII7CrEfPoAXq4Yb7tfbkKDa8QOHQg1-Uu7Tlr-xEi_pRjOiFRc2jRiRtAWZ4YjyVFMPW9xo12a-iNUclJjk87SWx1fLmOD1UMQYMb2CF9c5_6yAcEKgTwtqjxgtkzZdSGqzaS0OCAZbcoPeLzrV_5mONXDS1gikVF9CO3hgrCSoYjmKGD8ZPgtEywO27cDUWt1tdRmfMRM30CcukxEihb8sr9zLYI5Zuw9f9RoWOgw_ERX8cazeZpFaKTm_oAsREBHzeASTds3KVXsV0qzC2JJuL7qYbxPiv4ShtZ0l3OPs_9F8hqmnTdYuXn9OppdXAHvDB1guYH3Ryxw_7w"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",

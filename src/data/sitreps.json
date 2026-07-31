@@ -185993,6 +185993,62 @@
     "verified": false
   },
   {
+    "id": 1785541282412,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: An occupation aircraft raid on Deir al-Balah and another targeted a house in the al-Saftawi neighborhood north of the Gaza Strip• 23:36 — Israeli airstrike targets agricultural land west of Al-Aqsa Martyrs Hospital in Deir al-Balah, central Gaza Stri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785541353358,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: An occupation aircraft raid on Deir al-Balah and another targeted a house in the al-Saftawi neighborhood north of the Gaza Strip• 23:36 — Israeli airstrike targets agricultural land west of Al-Aqsa Martyrs Hospital in Deir al-Balah, central Gaza Stri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785541284556,
+    "type": "intercept",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent: An air-defense interception by the blockade concerning Gaza has destroyed a western building of the Al-Aqsa Martyrs Hospital in Deir al-Balah, causing widespread damage that affected the surrounding refugee tents due to the bombing.• 23:36 — 🚫🟠🟠The moment of the last targeting around A...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/23726f63df.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XCnoeII7CrEfPoAXq4Yb7tfbkKDa8QOHQg1-Uu7Tlr-xEi_pRjOiFRc2jRiRtAWZ4YjyVFMPW9xo12a-iNUclJjk87SWx1fLmOD1UMQYMb2CF9c5_6yAcEKgTwtqjxgtkzZdSGqzaS0OCAZbcoPeLzrV_5mONXDS1gikVF9CO3hgrCSoYjmKGD8ZPgtEywO27cDUWt1tdRmfMRM30CcukxEihb8sr9zLYI5Zuw9f9RoWOgw_ERX8cazeZpFaKTm_oAsREBHzeASTds3KVXsV0qzC2JJuL7qYbxPiv4ShtZ0l3OPs_9F8hqmnTdYuXn9OppdXAHvDB1guYH3Ryxw_7w"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059133",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XCnoeII7CrEfPoAXq4Yb7tfbkKDa8QOHQg1-Uu7Tlr-xEi_pRjOiFRc2jRiRtAWZ4YjyVFMPW9xo12a-iNUclJjk87SWx1fLmOD1UMQYMb2CF9c5_6yAcEKgTwtqjxgtkzZdSGqzaS0OCAZbcoPeLzrV_5mONXDS1gikVF9CO3hgrCSoYjmKGD8ZPgtEywO27cDUWt1tdRmfMRM30CcukxEihb8sr9zLYI5Zuw9f9RoWOgw_ERX8cazeZpFaKTm_oAsREBHzeASTds3KVXsV0qzC2JJuL7qYbxPiv4ShtZ0l3OPs_9F8hqmnTdYuXn9OppdXAHvDB1guYH3Ryxw_7w"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
