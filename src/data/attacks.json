@@ -40993,7 +40993,12 @@
     "description": "🇧🇭| About an hour ago, sirens were re-activated in Bahrain (after the IRGC announcement, in a 2nd attack)@FotrosResistancee",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/HpfWQjaU4cSkfKCg7CVG_WCHGCVyF4q5x7pWsr6vqfuP1AqhzXCo_xyq-YsbbHhP2_mEBmdUZ1x3nqJY3wwhy459LtE93QE8ztErMinnJcJ7MrtUTjAti8KiBEF6leoiF_GSMXb1LXtJvw187DeNlIxVnmQ1uWJ7L7oST_J1vjw58H7Uz7H_eI-ZBKWB4YLEmLdQVobg3KeqnoApzBtNJqxIRoGwXsqFBJkvYQhMW5Z6I0dPSGIZhWX8fioGAmOHk5LBGchbEIHd4zC8s00a7eOva_vxCwJ7mGGv-datq2sHw7Wb9OPDn2AlN6GKllZI9Dyl1Ia8issNY-7ObLL4HQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 476630100,
@@ -41035,6 +41040,181 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 477247311,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-07",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Oman: Iran struck convoy attempting pass through",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇺🇸/🇮🇷 NEW: Iran struck the convoy attempting to pass through Omani waters with U.S. Navy escort At least one ship was hit by a drone. @Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477249500,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-07",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Yemen: Iranian Mahan plane carrying Houthi delegation",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/me_spectator",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— 🇮🇷/🇾🇪 NEW: An Iranian Mahan Air plane, carrying a Houthi delegation back to their country, landed in Sanaa moments agoThree days ago, Iran broke the aerial siege on Yemen for the first time in 11 years by landing at Sanaa International Airport while Saudi jets were threatening to bomb the runway.@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cXjRUZuNxRsfT095KnzsWxYWqxvnGrgYfTZgmDQQQ4tY5wHLC6bS3H6uCVdwtERT7Evo95FS0Cez1ctinAYM-LlSe1pGsG6f-7QtaZUsxvdLeLGp4VzV1Wdta68omdTmjjwpA6Z30EWM0QXFCJHjbp7ToXZgOVJqT7UjRHn1rrkWArGQagOAkMoBmzgb4vsy8YYvJLtSrfCdV5lfHx46fn6B3rQPR7CfoTt1TJNoSUt9sD9sT-FY2Ppx5pl-EJlgEj7a53KYOpK8MiB9vvjVsjZLULWvoh4JMhTcwWCMQndPStDumZOP4deoCXnoc7NXvh0o4ZgWLqOWkJftN3Uqqg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477251690,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-07",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: BREAKING Treasury Department reimposed sanctions Iranian",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇺🇸/🇮🇷 BREAKING: The U.S. Treasury Department has reimposed sanctions on Iranian oil, petrochemical products and gas, revoking the waivers that were issued as part of the MoUThe Treasury Department says it took the move in response to Iran targeting ships in the Strait of Hormuz.@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/kAu3VP90-EYu2De0kXgtMGnhBnuJVy7UZWZtcHP79Rqwqe98rDfUKzO9mzxL0UHfvDtpgXxOx6ImDlRRKfPIvjXNAejDBhvN6Mt70_L2A5cdw2FFsXhVt5Lx7K1_OC-0QX_15JZ2ysZ3wbHQr2bOqh1aiPYH9cCtPCTG_iOlf-LxXucHLFy4bYFlOwoFlvvIBO8Ry58kpBJ8Y7bhnPvrkHzlsIVIgQWyUqnjW_JuiYvGRl1Nz0eBC4LE7EtP_0cUkzh4mxm5DS_34iI5_0ZlvZyYPkECRlH1zaRKZWcJgmqPkgtdeE6uQmmUgj_VxEPXeiwSyHEH71pgQ9n8viyCgQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477253881,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-07",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Sirik: BREAKING Likely airstrikes against Sirik southern",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇺🇸/🇮🇷 BREAKING: Likely U.S. airstrikes against Sirik, southern IranReliable sources to us reported at least half a dozen explosions heard.@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dkkqDU4SMSjTKm16hRifF8K23gdN6VrGzLQ8r6XquJ7aqwWXHxDJKW5w66BtbGaNtFgWE7Z8jpIiDovjVQ8eKy_g12esyg_Mxn8Fvddhe6UZzl1JFlECqBFDkTJ_aGBL65Xav0sKvQq4qMsaRI20nxrgR4Ww1mQw-cxgsr9INgbj7_Efl5v97E9syrQ-9SfL4nLNuYcgb9wWM7zrPW6Hgk9UnHFt72KgiGMquF5C0_MZIoHQPC1Rr1wQ1c9_-HQ9Q73-JOvLCyHw4Xb90B6JJ_4So3IzNxxzLUj4Z0bEH_kZZ-9fas-LxFXP8NvTSWODM8aZLbageK02B0wFKTmIpA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477256073,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-07",
+    "time": "TBD",
+    "title": "Unknown Interception — Bandar Abbas: Bandar Abbas defenses have shot down",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇺🇸/🇮🇷 NEW: Bandar Abbas air defenses have shot down an American drone or cruise missile@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 49,
@@ -57330,7 +57510,18 @@
     "description": "🇮🇷: ▪️ | Strikes have reportedly hit facilities in Saudi Arabia. 🔻@enemywatch +",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6e8354f988.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KIju4p8okhkWouBljOhMbtJ3QdGgz_susX_CCBZeagA4aqdSTrAaoNvLroPJrVSfv-E34N1VpwyuQN8_jZYh-aY45kLW6jNIPYU5kLoai0B1Eca95Ncr1lOIotevtiJzi1oDIethRJN95mJo_G_5AGuYUop8EbX_kiBmLO7iMwMgE5wbzEWqPdrSeBzi43cywWLxFEYvpYZzztXkZ3rMTt4cgzli_ExN932PLmy0BRygdpFy7wlf70ZDG4WlNuZav-ZJaFJxw7Z7ej5SrJPqmg729Vdx7lXcdVrTEeUXWEntAr0W57XaYE5JGrDuXM_kOXCo4Ojv5Lxw4k3Gh4CsEg"
+      },
+      {
+        "url": "https://t.me/Middle_East_Spectator/35092",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KIju4p8okhkWouBljOhMbtJ3QdGgz_susX_CCBZeagA4aqdSTrAaoNvLroPJrVSfv-E34N1VpwyuQN8_jZYh-aY45kLW6jNIPYU5kLoai0B1Eca95Ncr1lOIotevtiJzi1oDIethRJN95mJo_G_5AGuYUop8EbX_kiBmLO7iMwMgE5wbzEWqPdrSeBzi43cywWLxFEYvpYZzztXkZ3rMTt4cgzli_ExN932PLmy0BRygdpFy7wlf70ZDG4WlNuZav-ZJaFJxw7Z7ej5SrJPqmg729Vdx7lXcdVrTEeUXWEntAr0W57XaYE5JGrDuXM_kOXCo4Ojv5Lxw4k3Gh4CsEg"
+      }
+    ]
   },
   {
     "id": 475238426,
@@ -83810,6 +84001,124 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477240750,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Haifa: Nightmare 1956 Returns Southern Explosions Threaten",
+    "location": "Haifa",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ The Nightmare of 1956 Returns: Southern Explosions Threaten a \"Tsunami\" and a Devastating Earthquake Strikes Sidon, Tyre, Haifa, and Nahariya&#33;Information obtained by Bint Jbeil website indicates that seismic fault observatories are concerned about the violent explosions in the South. The information warned that the current and recent tremors are activating the Roum Fault and the Yammouneh Fault segment, which extend from the far South towards northern occupied Palestine. This threat place",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477242936,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Iraq: Urgent Explosions shake Dohuk Governorate 0203",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Urgent: Explosions shake Dohuk Governorate• 02:03 — Suicide drones pound separatist headquarters in Dohuk Governorate, northern Iraq. (Rasd Akhbar Shehaba)• 02:27 — Iraqi media report several strong explosions in Dohuk province in northern Iraq. (IRIB News)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b23757a810.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BMYFrrfLdDJ51tQoOBbaHoojos8J_-3j-pmgWtcbD931Csj6Xd6dpxwVYHvuHZEcPOI3qwTLczM6qGok1CX7CwOaAxkcylll_rnTNQQOky7kAK_PMVrt21PFT-J8DZBM9gkryR1uKtMMFxxMINEz5sgrxh0spMLFe_V9DJGLoSXtlZEOPjR64VTyWjDmeYLBMZvhZAUQRmk0sMVn5NqhqgRxBHJSplkQd31hR7suyLo5t61kB4iLQatjsfrdQN8Bge6L1KihNiiBnAoZw59ieanRywUKujdbBueFGEO6uW85WsYTtIOM1GnTCuj-wQWcyYYaYBAUH5GoU9WlLdMDnA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058505",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BMYFrrfLdDJ51tQoOBbaHoojos8J_-3j-pmgWtcbD931Csj6Xd6dpxwVYHvuHZEcPOI3qwTLczM6qGok1CX7CwOaAxkcylll_rnTNQQOky7kAK_PMVrt21PFT-J8DZBM9gkryR1uKtMMFxxMINEz5sgrxh0spMLFe_V9DJGLoSXtlZEOPjR64VTyWjDmeYLBMZvhZAUQRmk0sMVn5NqhqgRxBHJSplkQd31hR7suyLo5t61kB4iLQatjsfrdQN8Bge6L1KihNiiBnAoZw59ieanRywUKujdbBueFGEO6uW85WsYTtIOM1GnTCuj-wQWcyYYaYBAUH5GoU9WlLdMDnA"
+      }
+    ]
+  },
+  {
+    "id": 477245123,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Ali Al Salem Air Base, Persian Gulf, Kuwait: Newly analyzed satellite images show visible",
+    "location": "Ali Al Salem Air Base, Persian Gulf, Kuwait",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎦 Newly analyzed satellite images show visible damage to a warehouse and military structures in the section of Kuwait's Ali Al Salem Air Base used by American forces.🔹The Wall Street Journal also reported that the United States is considering reducing its presence in Kuwait following developments in the war against Iran.🔹According to the newspaper, Kuwaiti officials, like other Persian Gulf countries, were upset and disturbed that Trump started a war without consulting them, which put them in",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/03a734210c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/JYW77Qq6_9FKow1tkektYnP7pcGW-8HZUJ0waGr2pJQ7NfAVEp1Ph8W4vXf1KLwpAmtN4ReStJFRetzDrrWVTtUYFyzEPPXPTAINk31JzllcTxBkSVZUzrUuB65lTgjwIrktyN6NWBVv5XhlU6m_vjGsoq6HEMWtq9RasIQYohNGce9uh7FI7i3mjtmdjes5sbXaoqe62Rd5rXgqiY6fwucLZnnAewv7mVCNOu4KMydvexbnWJ6zI7p2X32XnoAX2wXrACQ2rEnYGR2HrX04FRs85owbMLfpbylXlyS1N1-HctLZkPl6XtT00EhvbC1AZDeqy8j_ou29GOsE8xp7Lw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058528",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/JYW77Qq6_9FKow1tkektYnP7pcGW-8HZUJ0waGr2pJQ7NfAVEp1Ph8W4vXf1KLwpAmtN4ReStJFRetzDrrWVTtUYFyzEPPXPTAINk31JzllcTxBkSVZUzrUuB65lTgjwIrktyN6NWBVv5XhlU6m_vjGsoq6HEMWtq9RasIQYohNGce9uh7FI7i3mjtmdjes5sbXaoqe62Rd5rXgqiY6fwucLZnnAewv7mVCNOu4KMydvexbnWJ6zI7p2X32XnoAX2wXrACQ2rEnYGR2HrX04FRs85owbMLfpbylXlyS1N1-HctLZkPl6XtT00EhvbC1AZDeqy8j_ou29GOsE8xp7Lw"
+      }
+    ]
   },
   {
     "id": 477111420,
