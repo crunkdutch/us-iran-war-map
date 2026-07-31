@@ -172092,6 +172092,36 @@
     "verified": false
   },
   {
+    "id": 1785516087084,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by Hezbollah:As part of its ongoing criminal, aggressive, and expansionist project, the Israeli enemy continues, before the eyes of the Lebanese authorities and the world, to perpetrate acts of terrorism and aggression against southern Lebanon by destroying villages, burning homes, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785516080024,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by Hezbollah:As part of its ongoing criminal, aggressive, and expansionist project, the Israeli enemy continues, before the eyes of the Lebanese authorities and the world, to perpetrate acts of terrorism and aggression against southern Lebanon by destroying villages, burning homes, ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -183648,6 +183678,111 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ ReportReport of damage to 4 ships off the coast of Kuwait",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785516141106,
+    "type": "drone",
+    "location": "Amman",
+    "coordinates": [
+      31.9454,
+      35.9284
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupation aircraft launch a raid on Deir al-Balah in the central Gaza Strip• 16:12 — 🚫#Urgent- - Drone strike west of Deir al-Balah city (Ba2s Jenin)• 16:12 — Ambulance vehicles arrive at the targeted location in the center of Deir al-Balah. (Ba2s Jenin)• 16:12 — 🚫 #Urgent - - The drone strike...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785516081690,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupation aircraft launch a raid on Deir al-Balah in the central Gaza Strip• 16:12 — 🚫#Urgent- - Drone strike west of Deir al-Balah city (Ba2s Jenin)• 16:12 — Ambulance vehicles arrive at the targeted location in the center of Deir al-Balah. (Ba2s Jenin)• 16:12 — 🚫 #Urgent - - The drone strike...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785516167639,
+    "type": "drone",
+    "location": "Cairo",
+    "coordinates": [
+      30.0444,
+      31.2357
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupation aircraft launch a raid on Deir al-Balah in the central Gaza Strip• 16:12 — 🚫#Urgent- - Drone strike west of Deir al-Balah city (Ba2s Jenin)• 16:12 — Ambulance vehicles arrive at the targeted location in the center of Deir al-Balah. (Ba2s Jenin)• 16:12 — 🚫 #Urgent - - The drone strike...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785516097077,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Idiot Rubio:The International Criminal Court is an illegitimate organization.We have achieved diplomatic successes in the Middle East.The agreement between #Lebanon and Israel is unprecedented.Hamas's agreement to disarm is an achievement.There is still much work to be done regarding #Lebanon and...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785516119072,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Idiot Rubio:The International Criminal Court is an illegitimate organization.We have achieved diplomatic successes in the Middle East.The agreement between #Lebanon and Israel is unprecedented.Hamas's agreement to disarm is an achievement.There is still much work to be done regarding #Lebanon and...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785516129329,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Syrian Al-Ikhbariya: Israeli occupation forces penetrate Ruwayhinah Dam in the central Quneitra countryside.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785516073588,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Syrian Al-Ikhbariya: Israeli occupation forces penetrate Ruwayhinah Dam in the central Quneitra countryside.",
     "media": [],
     "verified": false
   },
