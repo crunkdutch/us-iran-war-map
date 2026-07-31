@@ -171862,6 +171862,51 @@
     "verified": false
   },
   {
+    "id": 1785496326714,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israel Hayom\" Hebrew Newspaper – Amit Segal: \"So when will we eliminate the drone threat?\" the Chief of Staff was recently asked, during the days when Hezbollah was striking \"Israeli\" soldiers in southern Lebanon on a daily basis. He looked at the questioner sympathetically and replied...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785496315978,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israel Hayom\" Hebrew Newspaper – Amit Segal: \"So when will we eliminate the drone threat?\" the Chief of Staff was recently asked, during the days when Hezbollah was striking \"Israeli\" soldiers in southern Lebanon on a daily basis. He looked at the questioner sympathetically and replied...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785496335445,
+    "type": "drone",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-29",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israel Hayom\" Hebrew Newspaper – Amit Segal: \"So when will we eliminate the drone threat?\" the Chief of Staff was recently asked, during the days when Hezbollah was striking \"Israeli\" soldiers in southern Lebanon on a daily basis. He looked at the questioner sympathetically and replied...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -182212,6 +182257,149 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Latest Israeli attacks on southern Lebanon: • A Merkava tank stationed in the town of Markaba targeted the town of Talouseh with several shells. • Occupation forces set fire to fields in the town of Mays al-Jabal. • An enemy drone dropped a sound bomb in…",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785496384169,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "18 Moroccans lost their lives trying to reach the Spanish enclave of Ceuta, while nearly 50,000 others crossed into the territory in what became a major humanitarian crisis. According to widespread allegations, Rabat deliberately allowed the mass crossing as political leverage against Spanish Prime ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785496321723,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇰🇼🇺🇸The US Ahmed al Jaber base in Kuwait has been severely punished for its role in the fatal targeting of the Iranian Qeshm Island. The Iranian Army's drone units launched at least 20 Arash II attack drones (each with a 150kg high explosive and fragmentation warhead) at the sprawling US out...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/05202b7bce.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/64a1f6038c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8339?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8340?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DQmXVzjCa5Xn34gv31ER__cBXNphKeGsNxopWtr7PkxXPWOkFhIEmwxAbCi50zgFcW4AI6g4Olx0SERYo2-oRidQZ7i6MRflQd4tvhSI57GTIt2cMoRQPdq0K1sVS4JUUofVW0ZY7I7HpRuUT3c86obLk1umVxK9Zs3i7VG9EXw0euXxszB-l2MVVeEx2ddJJhOPhryoY8_6M3dH3FFg0ynn29sAHkK58F1fpSc5wbZ3238M2XVeCjI55kc6zro1K_4h_Aru6m2RMD5oaZu5-OjfPDFaBvr5lXAp00DaufIBzOn2wzT3m1etbYbzL95PKTyXUAdLS0C3G09DRUfmkA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785496328330,
+    "type": "drone",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇰🇼🇺🇸The US Ahmed al Jaber base in Kuwait has been severely punished for its role in the fatal targeting of the Iranian Qeshm Island. The Iranian Army's drone units launched at least 20 Arash II attack drones (each with a 150kg high explosive and fragmentation warhead) at the sprawling US out...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/05202b7bce.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/64a1f6038c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8339?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8340?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DQmXVzjCa5Xn34gv31ER__cBXNphKeGsNxopWtr7PkxXPWOkFhIEmwxAbCi50zgFcW4AI6g4Olx0SERYo2-oRidQZ7i6MRflQd4tvhSI57GTIt2cMoRQPdq0K1sVS4JUUofVW0ZY7I7HpRuUT3c86obLk1umVxK9Zs3i7VG9EXw0euXxszB-l2MVVeEx2ddJJhOPhryoY8_6M3dH3FFg0ynn29sAHkK58F1fpSc5wbZ3238M2XVeCjI55kc6zro1K_4h_Aru6m2RMD5oaZu5-OjfPDFaBvr5lXAp00DaufIBzOn2wzT3m1etbYbzL95PKTyXUAdLS0C3G09DRUfmkA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785496335169,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇰🇼🇺🇸The US Ahmed al Jaber base in Kuwait has been severely punished for its role in the fatal targeting of the Iranian Qeshm Island. The Iranian Army's drone units launched at least 20 Arash II attack drones (each with a 150kg high explosive and fragmentation warhead) at the sprawling US out...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/05202b7bce.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/64a1f6038c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8339?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8340?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DQmXVzjCa5Xn34gv31ER__cBXNphKeGsNxopWtr7PkxXPWOkFhIEmwxAbCi50zgFcW4AI6g4Olx0SERYo2-oRidQZ7i6MRflQd4tvhSI57GTIt2cMoRQPdq0K1sVS4JUUofVW0ZY7I7HpRuUT3c86obLk1umVxK9Zs3i7VG9EXw0euXxszB-l2MVVeEx2ddJJhOPhryoY8_6M3dH3FFg0ynn29sAHkK58F1fpSc5wbZ3238M2XVeCjI55kc6zro1K_4h_Aru6m2RMD5oaZu5-OjfPDFaBvr5lXAp00DaufIBzOn2wzT3m1etbYbzL95PKTyXUAdLS0C3G09DRUfmkA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785496398614,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇲🇦🇪🇸/🇮🇱 A Moroccan conquest of Ceuta would mean that for the first time in centuries, the Strait of Gibraltar would not be fully controlled by European powers. It will instead be controlled by an Israeli proxy Arab regime.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/m9-B6k8l6vmNCUrDt5ieb3gzimT-_mB7N072TMFv-kpAHhGkWxtrw6kGx2Ko-RK26AP7-0B6ZYe_YDS7lGvKArs9eNO2DHqyvyT8Xq73QoZp8HB9hUESOTBOQ6q5jOTFBEdCKPQBl6EJ0mf2G8JUHTIjlT0epPmwcSo04Tuy9RroLcv594Fc8PbCeQmb8997gaAI3SH9UI3rq4f3qOq-KtXhm-_SXVhexBJJD-loA3lMLCIC_FPNPfTOA3nhod-iyRoiIRlSG2Cnph_7OF1T2indCsuJLJBH33UY7rjCeO8ZeLXQdKPWzKNKxMrtAaiEdsl3veH5rgRTuAP8zEXYuw.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

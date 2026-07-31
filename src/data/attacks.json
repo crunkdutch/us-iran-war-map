@@ -84766,6 +84766,96 @@
     ]
   },
   {
+    "id": 477293490,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Kuwait: Kuwait says dealt with Iranian drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_spectator)",
+        "url": "https://t.me/s/me_spectator",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇮🇷/🇰🇼 NEW: Kuwait says it dealt with an Iranian drone attack this morning, no sirens were activated@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VO_CQSMfIQcF4airKr4j8g66KlW_N-OnUnSiHcHckRQStdaoCk-pPH_Z17Ldu89GSYl3dG8KBttybC4tX3FdG6HG3kLx6nMaI8cFX8PNGDkCb9U78dRoxyDL6enp8YgxxJYyXSPZZ8dPvU0p11sRhHngA2qiQ_0TTJ4hB5bFS3_3JGYj7TmLwjHNM-60fmncs51IUH8AQblMSEzdRGwCHnC4IjP3EUlN6NLUAK5qiRKmI-1cWgVEUq5TZ9ZVVQ43A66xN6BZzRoxiS2Ebq6SP6AnXPPa9r7PaQhJpBh-kjtzptfC3kuUElElnr6b6PL7ERiU0vx8WSNVw_y6-cm0ug.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477295700,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Drone Strike — Qeshm Island, Qeshm, Kuwait: Ahmed Jaber base Kuwait been severely",
+    "location": "Qeshm Island, Qeshm, Kuwait",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷🇰🇼🇺🇸The US Ahmed al Jaber base in Kuwait has been severely punished for its role in the fatal targeting of the Iranian Qeshm Island. The Iranian Army's drone units launched at least 20 Arash II attack drones (each with a 150kg high explosive and fragmentation warhead) at the sprawling US outpost.Satellite imagery confirms numerous hits on the base.@SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/05202b7bce.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/64a1f6038c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8339?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YX_dPWNZWl-890TLiWymbdmYycUnJC0jMt6q4FyD8k6jqVJV16mt8KcMM1CHmKCJFpVSm0fzqvUwfcy41bqxGImn0J1I2QuFENxer2kIq9AWvuTCrM7iCfpumVW0-c4aCp6yCviT90HJmZf3ilaD67WqQ5Ao6V0xM6rjkf5Vr5VB4zXdO823upyqAfFv5i_PZJQ3UKOay3xWvUkEtBSoU1vLdUZxIQxm6YuJ0Xd_zNggd1fp3-nQWSfsRKfPkYroX2ZS9Ep5gXPHe1gEbVD3dBDF8rBFGXQx6YAdWzmC8QQKZ_SLOWcWnTctL3X7lAkX3eBR9bLKWMf-ETthYrqneA"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8340?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DQmXVzjCa5Xn34gv31ER__cBXNphKeGsNxopWtr7PkxXPWOkFhIEmwxAbCi50zgFcW4AI6g4Olx0SERYo2-oRidQZ7i6MRflQd4tvhSI57GTIt2cMoRQPdq0K1sVS4JUUofVW0ZY7I7HpRuUT3c86obLk1umVxK9Zs3i7VG9EXw0euXxszB-l2MVVeEx2ddJJhOPhryoY8_6M3dH3FFg0ynn29sAHkK58F1fpSc5wbZ3238M2XVeCjI55kc6zro1K_4h_Aru6m2RMD5oaZu5-OjfPDFaBvr5lXAp00DaufIBzOn2wzT3m1etbYbzL95PKTyXUAdLS0C3G09DRUfmkA"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
