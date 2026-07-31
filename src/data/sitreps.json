@@ -180234,6 +180234,21 @@
     "verified": false
   },
   {
+    "id": 1785483804698,
+    "type": "airstrike",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "Launched from Yazd, central Iran, so probably headed for the Gulf regimes.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -181019,6 +181034,133 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Dear Yemen,Mass public turnout in Saada city in the \"Siege for Siege and Escalation for Escalation\" march.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785483845340,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Jumblatt to Turkiye Today:- The framework agreement does not talk about the complete withdrawal of the Israelis from southern Lebanon, but only mentions redeployment, and this is a big trap.- Turkey must be very careful, as in the long run, Israel will try to attack it and will use all its politi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785483799276,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Jumblatt to Turkiye Today:- The framework agreement does not talk about the complete withdrawal of the Israelis from southern Lebanon, but only mentions redeployment, and this is a big trap.- Turkey must be very careful, as in the long run, Israel will try to attack it and will use all its politi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785483803548,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Jumblatt to Turkiye Today:- The framework agreement does not talk about the complete withdrawal of the Israelis from southern Lebanon, but only mentions redeployment, and this is a big trap.- Turkey must be very careful, as in the long run, Israel will try to attack it and will use all its politi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785483843085,
+    "type": "missile",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Missile launches detected from Iran.• 07:24 — Firing has also taken place from Yazd base. (Iran Militarism)• 07:24 — 6 Iranian missiles en route to US bases. (Rasd Akhbar Shehaba)",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a62cc4bf4d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FlRf_mCVvyNXbRspUubWyTeLFXq5KVziMZQ7OURTVGdoZtfy567m7lBqRcaOzGZtZ4yDekWwJl9E3yizg_XTR-4JRg9Nz9H7AJbBwziTNwtXzs1oy1AAkU2a_TeFI5v91bZg3trygPlGinIfZCJApLG1zUzcOJW8E8z0WM6qBFydThx5XQUYkCBGO1-Lc4MgsL85HgvMeEpO58Vz2w-_Xt7Nag0OqUMrZnKryV6niAJd5Ka6fKKRBx52btVOPCxfOQYt8fIr7wWjj4garU4dOzphEGICVqfhQvKN4XM-YB06SBX5M_CpG50uJoPr9f9UxgImPouUmdDjSWMpjzIZSQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058601",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FlRf_mCVvyNXbRspUubWyTeLFXq5KVziMZQ7OURTVGdoZtfy567m7lBqRcaOzGZtZ4yDekWwJl9E3yizg_XTR-4JRg9Nz9H7AJbBwziTNwtXzs1oy1AAkU2a_TeFI5v91bZg3trygPlGinIfZCJApLG1zUzcOJW8E8z0WM6qBFydThx5XQUYkCBGO1-Lc4MgsL85HgvMeEpO58Vz2w-_Xt7Nag0OqUMrZnKryV6niAJd5Ka6fKKRBx52btVOPCxfOQYt8fIr7wWjj4garU4dOzphEGICVqfhQvKN4XM-YB06SBX5M_CpG50uJoPr9f9UxgImPouUmdDjSWMpjzIZSQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785483853351,
+    "type": "missile",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Missile launches detected from Iran. • 07:24 — Firing has also taken place from Yazd base. (Iran Militarism) • 07:24 — 6 Iranian missiles en route to US bases. (Rasd Akhbar Shehaba)",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/99b0a2a4b9.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/e_WHLJTRTRHUg8RDI3fIt4N08DQNrlHG_M_VBlvgBOqX8UdmFUQAv1xp7MHVgFLhZd9-n_kRZfQ2NlsrokvolDvdWGifdndwJ1GjvqrXlA2gUza7npF2MdSQICb7KCgPtn1xQnX9v9XslIirPpZm9ceT_nTk72MNeA2mR3AvytgrgsibWkZKodEB6Hq-xYk01IF1I_vldHH5rHznXv6Q2ZWXgQtK6Pt3LowTLwP9rT3bYZ4qkuwutsewIeGjjl5ZTwaTIJw-GXajFrHSfeOb5CODnoNEyfXcoYcOvofKLWEF5JI0KxvQUzaVyt4mKYJWDmE-YAlMMddpQcQ5xeSWGw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058603",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/e_WHLJTRTRHUg8RDI3fIt4N08DQNrlHG_M_VBlvgBOqX8UdmFUQAv1xp7MHVgFLhZd9-n_kRZfQ2NlsrokvolDvdWGifdndwJ1GjvqrXlA2gUza7npF2MdSQICb7KCgPtn1xQnX9v9XslIirPpZm9ceT_nTk72MNeA2mR3AvytgrgsibWkZKodEB6Hq-xYk01IF1I_vldHH5rHznXv6Q2ZWXgQtK6Pt3LowTLwP9rT3bYZ4qkuwutsewIeGjjl5ZTwaTIJw-GXajFrHSfeOb5CODnoNEyfXcoYcOvofKLWEF5JI0KxvQUzaVyt4mKYJWDmE-YAlMMddpQcQ5xeSWGw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785483778884,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-31",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - Hebrew Channel 14:Report in Britain: Saudi Arabia prepares for a wide-scale attack from sea and land against the Houthis in Yemen",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785483852498,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-31",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - Hebrew Channel 14:Report in Britain: Saudi Arabia prepares for a wide-scale attack from sea and land against the Houthis in Yemen",
     "media": [],
     "verified": false
   },

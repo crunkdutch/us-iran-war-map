@@ -84371,6 +84371,81 @@
     ]
   },
   {
+    "id": 477271445,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Yazd: Missile launches detected from Iran 0724",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Missile launches detected from Iran.• 07:24 — Firing has also taken place from Yazd base. (Iran Militarism)• 07:24 — 6 Iranian missiles en route to US bases. (Rasd Akhbar Shehaba)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a62cc4bf4d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FlRf_mCVvyNXbRspUubWyTeLFXq5KVziMZQ7OURTVGdoZtfy567m7lBqRcaOzGZtZ4yDekWwJl9E3yizg_XTR-4JRg9Nz9H7AJbBwziTNwtXzs1oy1AAkU2a_TeFI5v91bZg3trygPlGinIfZCJApLG1zUzcOJW8E8z0WM6qBFydThx5XQUYkCBGO1-Lc4MgsL85HgvMeEpO58Vz2w-_Xt7Nag0OqUMrZnKryV6niAJd5Ka6fKKRBx52btVOPCxfOQYt8fIr7wWjj4garU4dOzphEGICVqfhQvKN4XM-YB06SBX5M_CpG50uJoPr9f9UxgImPouUmdDjSWMpjzIZSQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058601",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FlRf_mCVvyNXbRspUubWyTeLFXq5KVziMZQ7OURTVGdoZtfy567m7lBqRcaOzGZtZ4yDekWwJl9E3yizg_XTR-4JRg9Nz9H7AJbBwziTNwtXzs1oy1AAkU2a_TeFI5v91bZg3trygPlGinIfZCJApLG1zUzcOJW8E8z0WM6qBFydThx5XQUYkCBGO1-Lc4MgsL85HgvMeEpO58Vz2w-_Xt7Nag0OqUMrZnKryV6niAJd5Ka6fKKRBx52btVOPCxfOQYt8fIr7wWjj4garU4dOzphEGICVqfhQvKN4XM-YB06SBX5M_CpG50uJoPr9f9UxgImPouUmdDjSWMpjzIZSQ"
+      }
+    ]
+  },
+  {
+    "id": 477273645,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: Enemy Media Hebrew Channel 14Report Britain",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Enemy Media - Hebrew Channel 14:Report in Britain: Saudi Arabia prepares for a wide-scale attack from sea and land against the Houthis in Yemen",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
