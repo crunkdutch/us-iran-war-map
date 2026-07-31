@@ -180249,6 +180249,36 @@
     "verified": false
   },
   {
+    "id": 1785485590800,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran, Armenia vow to speed up joint projects📌 Tehran, IRNA – Iran’s Deputy Foreign Minister for Economic Diplomacy, Hamid Ghanbari, and the Minister of Foreign Affairs of Armenia, Ararat Mirzoyan, have emphasized the need to accelerate joint projects between the two countries.Ghanbari met with M...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485572073,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "I suspect it was either a test launch or mass hallucination by Iraqi channels.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -181162,6 +181192,288 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Enemy Media - Hebrew Channel 14:Report in Britain: Saudi Arabia prepares for a wide-scale attack from sea and land against the Houthis in Yemen",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485570431,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Citing Hebrew media:Part of the settler militias' incursion into the Al-Juneid area, west of Nablus, under the title \"More than 200 people participated in a hiking trip in the mountains of Samaria - West Bank.\"",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/713879b715.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/h7ygchidbbeU76aQyb9LxCcx6XFclK9gQnUAKh96nyyN8oMWvRhvDkts-bMOdT88NnedDLNomtPNEA195RdO6DWYSificeIoz5vTD55EdC7_jY7_B-4z_y-lkeAESiyRLw5lqp1JOePZhdXR8x73tT8uKF04419wT1lbOxABUYuT6lWsOUVSqwrlKY8hrZ21ExcHhcoe1wK1jMnuBq25TaN_2_WtFI19-UCn1ZNStum2Ms6eKztLa_A2kcLsdwSDsIr87dJ-O6Qmp1VcsWJpemJqAj0u2qrmZfpnKofRn3QX4mt8SbG7tfgthgmMg3FrsljIM9eXR8jzDV_GB_DXEQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058618",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/h7ygchidbbeU76aQyb9LxCcx6XFclK9gQnUAKh96nyyN8oMWvRhvDkts-bMOdT88NnedDLNomtPNEA195RdO6DWYSificeIoz5vTD55EdC7_jY7_B-4z_y-lkeAESiyRLw5lqp1JOePZhdXR8x73tT8uKF04419wT1lbOxABUYuT6lWsOUVSqwrlKY8hrZ21ExcHhcoe1wK1jMnuBq25TaN_2_WtFI19-UCn1ZNStum2Ms6eKztLa_A2kcLsdwSDsIr87dJ-O6Qmp1VcsWJpemJqAj0u2qrmZfpnKofRn3QX4mt8SbG7tfgthgmMg3FrsljIM9eXR8jzDV_GB_DXEQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785485508102,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ In the name of God, the Most Gracious, the Most MercifulPress Release issued by the Popular Resistance Committees in PalestineOn the occasion of the second anniversary of the martyrdom of the great Islamic, Jihadi, and national leader Dr. Ismail Haniyeh \"Abu Al-Abed\":The Popular Resistance Commit...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485519783,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ US F-35 jets fly over eastern Jordan #Jordan",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/s3OTmGceX2_WYUsXqXOpJUxO73qxkCUP8FiaaNuI2tLfNnSQQQPOkJrQh2BgqA_fcltPwputHIHJp9t4DXZSpDX23kwiHft9Ah1OLPvBddfcHRh_7Be9pWerf2glabIzOmo3p3JXH1ROxJWSOAame0aeAN_1q0HLFBs01YETYAEzh9M2FIvMpHc2M3uGf15N0FAsgMMP61nrOc_d3geiYGtKwXAtTQPseCSnicEQjcURQRFhuXSSCflrUjXR7_ulgI8ENrNA0aBUdVmtOGFzlplYT6c4_TR92Dyaf8fUbf-jlXKoyeJS9lAfj05GeH9EFvRT-9uu2zvlyFlmsdgOWA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785485505995,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Times: A joint secret intelligence operation between the Israeli Mossad and the American Central Intelligence Agency (CIA), aims to locate the new Iranian Supreme Leader, Ayatollah Mojtaba Khamenei, who assumed leadership after the (martyrdom) of his…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YuvDFJzslK1sVkzhClwz8jqF7sz-dNiEZ5Kzbs022y8uo7C8bhx4PfMbsVImjG8TDaZdrFUAuFO4o__llDlEmDoujuNcuuo7KvLME2nJUJa7Tk-Lud2QaU6VhOXd-6UZMK2cTfdLdaO76OrwBB98vMP14-14ZPW-JLTfF9_6_IhUmldbMNHUHvx1HdNs95HyAP5bQX65hzdNSuj4ZIIDYoU48QNLNdX5IhrAjz_Pk_PRH4X-9xdgTpG3frCKEYi4RKRmBhcIZkUWbc-SejNYnqYXAbdYN8Y53DRziAD_TDXu5P20T9YBK2YOqIGu0BAnM7j3uUAzmQ0UkzjLx7efZg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785485527404,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Times: A joint secret intelligence operation between the Israeli Mossad and the American Central Intelligence Agency (CIA), aims to locate the new Iranian Supreme Leader, Ayatollah Mojtaba Khamenei, who assumed leadership after the (martyrdom) of his…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YuvDFJzslK1sVkzhClwz8jqF7sz-dNiEZ5Kzbs022y8uo7C8bhx4PfMbsVImjG8TDaZdrFUAuFO4o__llDlEmDoujuNcuuo7KvLME2nJUJa7Tk-Lud2QaU6VhOXd-6UZMK2cTfdLdaO76OrwBB98vMP14-14ZPW-JLTfF9_6_IhUmldbMNHUHvx1HdNs95HyAP5bQX65hzdNSuj4ZIIDYoU48QNLNdX5IhrAjz_Pk_PRH4X-9xdgTpG3frCKEYi4RKRmBhcIZkUWbc-SejNYnqYXAbdYN8Y53DRziAD_TDXu5P20T9YBK2YOqIGu0BAnM7j3uUAzmQ0UkzjLx7efZg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785485553095,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Urgent... Video of tunnel bombing in Lebanon.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/44f200f20f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BIlk08RCzjAy5xUGaZdi7JZaMEN7-znZfq2FfE9XmbztlfBXLTby5nLNBoNjbogsJPF50U2bxSTkjFJzRSjFnmF-IkF3Qmp3VBY3WhHKTcKerQs1YFuQO8FD3HUIhtWh056-xseJCkxtYPyq_RJpE1K_laWd5PYRnDDa4b0KqmzvhKQngJBUXegsZmOVIC6SmjOfXppGxfVk8VuFD-9IA84sGADQplphxtPKzS4m2_HtgGgrH1xSrCE5D0hSM6HNr-lXWz_URa4aXMf_RaMLPHjpD8mDzS5MOMk8yF5ME5aqKZIrHH0ch1cVqKgD7mk2Mz9MXHg8Sd846LHUizVBgA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058626",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BIlk08RCzjAy5xUGaZdi7JZaMEN7-znZfq2FfE9XmbztlfBXLTby5nLNBoNjbogsJPF50U2bxSTkjFJzRSjFnmF-IkF3Qmp3VBY3WhHKTcKerQs1YFuQO8FD3HUIhtWh056-xseJCkxtYPyq_RJpE1K_laWd5PYRnDDa4b0KqmzvhKQngJBUXegsZmOVIC6SmjOfXppGxfVk8VuFD-9IA84sGADQplphxtPKzS4m2_HtgGgrH1xSrCE5D0hSM6HNr-lXWz_URa4aXMf_RaMLPHjpD8mDzS5MOMk8yF5ME5aqKZIrHH0ch1cVqKgD7mk2Mz9MXHg8Sd846LHUizVBgA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785485583347,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 #Urgent... Netanyahu's Office:- Based on the directives of Prime Minister Netanyahu and Defense Minister Katz, the Israeli army has now destroyed the tunnels in the Qalaat al-Shaqif area of southern Lebanon, which are underground infrastructure belonging to Hezbollah.- The tunnels were blown u...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485557792,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 #Urgent... Netanyahu's Office:- Based on the directives of Prime Minister Netanyahu and Defense Minister Katz, the Israeli army has now destroyed the tunnels in the Qalaat al-Shaqif area of southern Lebanon, which are underground infrastructure belonging to Hezbollah.- The tunnels were blown u...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485577322,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 #Urgent... Trump: The agreement is a decisive step towards the Gaza Strip being subject to the rule of a new Palestinian government.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485550560,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 #Urgent... Trump: Israeli forces will withdraw from Gaza upon completion of the disarmament process.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485567284,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 #Urgent.. Trump:The \"Peace Council\" today reached a historic agreement for the complete disarmament of the Hamas movement and all other armed groups in Gaza. This is a pivotal step towards achieving lasting peace and security.This agreement constitutes a decisive step towards a new Palestinian...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485577972,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 #Urgent.. Trump:The \"Peace Council\" today reached a historic agreement for the complete disarmament of the Hamas movement and all other armed groups in Gaza. This is a pivotal step towards achieving lasting peace and security.This agreement constitutes a decisive step towards a new Palestinian...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485580564,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 #Urgent... Hebrew Channel 12 Trump:- The \"Peace Council\" reaches an agreement to disarm the Hamas movement.- The agreement stipulates its administration through a new Palestinian administration.- An anticipated Israeli withdrawal after the completion of the disarmament process.- Deployment of ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485540445,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Geophysics Center of the National Council for Scientific Research reported that \"at 12:02 AM on Friday, July 31, 2026, ground waves were recorded at all its seismic stations, resulting from the explosion carried out by the Israeli enemy in the Shaqif area, resembling an earthquake with a magn...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485579873,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hamas official to Reuters:Israel must withdraw its forces from Gaza.When both parties agree on the text of the agreement, Israel must begin implementing the first phase.Armed groups supported by Israel will be dismantled.If Israel does not agree to the agreement, we will not implement it.• 07:51 ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785485575781,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ An Israeli Merkava tank stationed in the town of Markaba targets the town of Tlousa with several shells.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nLjRo7FV7akEGv77OeWl3lXmKyTylX57JQP3YpFZ6EGChPpSXRCEeGcrLYEh5p5r1ZlsL_s7VM1B1LdA5FVIrYSnKmMw292I-97cjk1-_z6KnLHRpjmXnnTcNqDi4agp4woTf-mFZgBfJM59TMmohdj-vssaydfCDPsDP2BHu8KKbYb8OjA_KO52V8LmqOJk3Z5alBxKmEGNwiht_83Lg25OYxWBrKOwHGOh9vJoR5_YfQDlt301VNp7I6uz8VtjyUgTxGJcPTtyyvoJWfsocNYBAK7hGJEZySUVqAJBv7sT-DAz-CLnE2CaXQofVEpH2d0k2KTXuR_T-SU6lb9ioA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

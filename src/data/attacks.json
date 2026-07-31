@@ -84170,7 +84170,12 @@
     "description": "⚡️ Palestinian sources: Israeli artillery shelling south of Khan Yunis, southern Gaza Strip.",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nLjRo7FV7akEGv77OeWl3lXmKyTylX57JQP3YpFZ6EGChPpSXRCEeGcrLYEh5p5r1ZlsL_s7VM1B1LdA5FVIrYSnKmMw292I-97cjk1-_z6KnLHRpjmXnnTcNqDi4agp4woTf-mFZgBfJM59TMmohdj-vssaydfCDPsDP2BHu8KKbYb8OjA_KO52V8LmqOJk3Z5alBxKmEGNwiht_83Lg25OYxWBrKOwHGOh9vJoR5_YfQDlt301VNp7I6uz8VtjyUgTxGJcPTtyyvoJWfsocNYBAK7hGJEZySUVqAJBv7sT-DAz-CLnE2CaXQofVEpH2d0k2KTXuR_T-SU6lb9ioA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477240750,
@@ -84443,7 +84448,98 @@
     "description": "⚡️ Enemy Media - Hebrew Channel 14:Report in Britain: Saudi Arabia prepares for a wide-scale attack from sea and land against the Houthis in Yemen",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qSsXStchkzdGCQEHFNa4nyxpnDv9hHyoku29kPECbefl2pN4jNH7UN8-G6DkD6FL_4-v3nWTyJbG5qOErVSVrrl8Ca29Uhyhm0gK38LU8DDkpEtp1Pdns0AKd-uy9-FkAkA4cvsoVtHPvQJlIPURxWP4T7QSDQVm3vz_jkrr3xrtE6UBFHS7stf022jCNzwFDcSaVm5hGp4QqOUDfKQiFr8sLQW_WbFMDpfSRTConMfkQP4svvbYQ7fHUqcJky9T7b1m4qNWNrK7Jr-6EnN4AN7Nefay0k5li860aDD1nw1bGHgvQ4IV8TZCoUjvQIrAvE5uzj0umrePmeKrGlQGuw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477275846,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Lebanon: Urgent Video tunnel bombing Lebanon",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ #Urgent... Video of tunnel bombing in Lebanon.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/44f200f20f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BIlk08RCzjAy5xUGaZdi7JZaMEN7-znZfq2FfE9XmbztlfBXLTby5nLNBoNjbogsJPF50U2bxSTkjFJzRSjFnmF-IkF3Qmp3VBY3WhHKTcKerQs1YFuQO8FD3HUIhtWh056-xseJCkxtYPyq_RJpE1K_laWd5PYRnDDa4b0KqmzvhKQngJBUXegsZmOVIC6SmjOfXppGxfVk8VuFD-9IA84sGADQplphxtPKzS4m2_HtgGgrH1xSrCE5D0hSM6HNr-lXWz_URa4aXMf_RaMLPHjpD8mDzS5MOMk8yF5ME5aqKZIrHH0ch1cVqKgD7mk2Mz9MXHg8Sd846LHUizVBgA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058626",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BIlk08RCzjAy5xUGaZdi7JZaMEN7-znZfq2FfE9XmbztlfBXLTby5nLNBoNjbogsJPF50U2bxSTkjFJzRSjFnmF-IkF3Qmp3VBY3WhHKTcKerQs1YFuQO8FD3HUIhtWh056-xseJCkxtYPyq_RJpE1K_laWd5PYRnDDa4b0KqmzvhKQngJBUXegsZmOVIC6SmjOfXppGxfVk8VuFD-9IA84sGADQplphxtPKzS4m2_HtgGgrH1xSrCE5D0hSM6HNr-lXWz_URa4aXMf_RaMLPHjpD8mDzS5MOMk8yF5ME5aqKZIrHH0ch1cVqKgD7mk2Mz9MXHg8Sd846LHUizVBgA"
+      }
+    ]
+  },
+  {
+    "id": 477278048,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Israel: North News Hebrew website spokesperson Israeli",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ North News Hebrew website, spokesperson for the Israeli army:- In a limited operation within the security zone in Lebanon, forces of the 36th Division, led by the Northern Command, destroyed several tunnels a short while ago in the Qal'at al-Shaqif heights area.- The infrastructure network served as a central command center, from which combat operations were managed and fire was directed against Israeli army forces and citizens of Israel.- This network is considered a strategic infrastructure",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/eef076c458.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ic8wBgYa0Yw1FrUK_9Fp4jmDC4Z4RjtsXV1SW7Oj3_3Lw6LpnATBp_eq1b_3e3XBlXhTdUsecdt9Cy6nUgRV6FAEECfdTcvZIIJwyIl8yX2jIHIFifR2TlylPl8YezPAvd-j_16SQ2LLNH1jsWJEHKCK3MZ4ko_3D3V7mOb7pHriyFWzLjp97HH2oD9X9riUyul5vJY4hnhIGp42ck8jy3U8ynp3iWRXNFxOaeIET1OeTd0fFj8_mKv57zNKHRd6O_WUBZzckf_rOGLhW_Wnc5bFpDqct_HeL9g2n8A2MY_cEX8txkTjwAoUWCDOw6aD_SGaiZ-iKeXQ0FrnRP4sow"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058629",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ic8wBgYa0Yw1FrUK_9Fp4jmDC4Z4RjtsXV1SW7Oj3_3Lw6LpnATBp_eq1b_3e3XBlXhTdUsecdt9Cy6nUgRV6FAEECfdTcvZIIJwyIl8yX2jIHIFifR2TlylPl8YezPAvd-j_16SQ2LLNH1jsWJEHKCK3MZ4ko_3D3V7mOb7pHriyFWzLjp97HH2oD9X9riUyul5vJY4hnhIGp42ck8jy3U8ynp3iWRXNFxOaeIET1OeTd0fFj8_mKv57zNKHRd6O_WUBZzckf_rOGLhW_Wnc5bFpDqct_HeL9g2n8A2MY_cEX8txkTjwAoUWCDOw6aD_SGaiZ-iKeXQ0FrnRP4sow"
+      }
+    ]
   },
   {
     "id": 477111420,
