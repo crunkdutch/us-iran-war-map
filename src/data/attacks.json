@@ -84121,6 +84121,49 @@
     ]
   },
   {
+    "id": 477258266,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Qeshm Island, Qeshm, Kuwait: 27th Phase Armys Operation LightningUS Strategic",
+    "location": "Qeshm Island, Qeshm, Kuwait",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "27th Phase of the Army's Operation Lightning;🔺US Strategic Centers in Kuwait Targeted by Army DronesArmy Public Relations:🔹In the 27th phase of Operation Lightning and in response to the recent aggressions of the terrorist US army against our country and the brutal attack on a residential house on Qeshm Island, hours ago, the \"fighter jet hangars,\" \"satellite communication systems,\" and \"equipment warehouses\" of this child-killing army, at the Ahmad al-Jaber Air Base in Kuwait, were targeted b",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4b065ff04b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XB6Ndih-0Yki9RK1QV4vqQsE2pEtnlq4VcK4K1HohbR1QDzzqhmJ0MNI9bKMWnSnO6YW6cVCmWz3-ay4betHE9E6VPzcBRTLRLOgDuJBKlxkN8cwp4mnK-K7z3G235lXL1DiBd81IVGNwncRlDPrfRb5eui33HjpQbIV3kt5siR9iUv-jVvknfJn7wfslLj3jOTo-vweg_P_WpC5ks2MyfIXJqiVts1slcZ9ApVbki_ZhT9t9nE3YCbtFFCryg_37d60yfyQszw4NHCiP4yLtUlsc1BHcmzbY8w6-cAS8kYmpbHcHULxrkJ4bIKea9WI-7kM06rkfcYZ7pyDzjQjvg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058531",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XB6Ndih-0Yki9RK1QV4vqQsE2pEtnlq4VcK4K1HohbR1QDzzqhmJ0MNI9bKMWnSnO6YW6cVCmWz3-ay4betHE9E6VPzcBRTLRLOgDuJBKlxkN8cwp4mnK-K7z3G235lXL1DiBd81IVGNwncRlDPrfRb5eui33HjpQbIV3kt5siR9iUv-jVvknfJn7wfslLj3jOTo-vweg_P_WpC5ks2MyfIXJqiVts1slcZ9ApVbki_ZhT9t9nE3YCbtFFCryg_37d60yfyQszw4NHCiP4yLtUlsc1BHcmzbY8w6-cAS8kYmpbHcHULxrkJ4bIKea9WI-7kM06rkfcYZ7pyDzjQjvg"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
