@@ -180256,6 +180256,47 @@
     "verified": false
   },
   {
+    "id": 1785471166030,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent: Explosions shake Dohuk Governorate • 02:03 — Suicide drones pound separatist headquarters in Dohuk Governorate, northern Iraq. (Rasd Akhbar Shehaba) • 02:27 — Iraqi media report several strong explosions in Dohuk province in northern Iraq. (IRIB…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/7afbeab68c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/utpiQg27pF-wWi_H32Q5Vd3WmaIl1AXIKed7K9sbfBPpsSHxg-R76TdA-p0loSE84IHqnpa2RjmnzW7QtEI-X3L9_Nb8zHpyOFu6y8-19YgF0S8Q-0mNfs_Kv8HFMhNaLAcfgKeGK7XUKGJ2p3XsSOcUYznI6vnXhXtDJHDIKnwsViRCueQYwgFCGQU6lHQb-fz0alvrE6-PFNnOgl79iaLyWzdkdGcaL5NntRBoHq3I5zrs_SJsUOn5JXO0Vt3qNvNBlSQiv1WbUyESAmf-5bDlTlNYdob_q87VOqPZg2WX6UeMljIgJ9y4CYBBBoraVJSMElMdIVRvlyPUhLN2mQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058533",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/utpiQg27pF-wWi_H32Q5Vd3WmaIl1AXIKed7K9sbfBPpsSHxg-R76TdA-p0loSE84IHqnpa2RjmnzW7QtEI-X3L9_Nb8zHpyOFu6y8-19YgF0S8Q-0mNfs_Kv8HFMhNaLAcfgKeGK7XUKGJ2p3XsSOcUYznI6vnXhXtDJHDIKnwsViRCueQYwgFCGQU6lHQb-fz0alvrE6-PFNnOgl79iaLyWzdkdGcaL5NntRBoHq3I5zrs_SJsUOn5JXO0Vt3qNvNBlSQiv1WbUyESAmf-5bDlTlNYdob_q87VOqPZg2WX6UeMljIgJ9y4CYBBBoraVJSMElMdIVRvlyPUhLN2mQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785471249086,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Iranian Army: We targeted by marches the aircraft warehouses and satellite communication systems at \"Ahmad Al-Jaber\" base in Kuwait",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
