@@ -85553,6 +85553,75 @@
     ]
   },
   {
+    "id": 477342341,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Egypt Missile Strike — Gaza City, Gaza Strip, Egypt: Total incidents Gaza Strip since dawn",
+    "location": "Gaza City, Gaza Strip, Egypt",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Total incidents in the Gaza Strip since dawn on Friday, July 31, 2026:- Targeting of a group of citizens on Al-Mukhabarat Street, northwest of Gaza - two injuries- Targeting of a citizen near the Egyptian Committee barracks in Al-Zawaida town, central Gaza Strip - one martyr- Targeting of a citizen in the Al-Maslakh area of Khan Younis city - one serious injury- Targeting of a group of citizens on Abu Aref Street in Deir al-Balah - several injuries- Targeting of a group of citizens in the Al-",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477344573,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Saudi Arabia, Israel: Enemy Media Haaretz AnalysisNetanyahu faces main",
+    "location": "Saudi Arabia, Israel",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Enemy Media - Haaretz Analysis:Netanyahu faces two main political paths. The first is to officially accept the Trump plan, then work to delay its implementation and add new conditions to it, thereby preserving his coalition and avoiding a direct confrontation with his far-right partners.This scenario aligns with the position of National Security Minister Itamar Ben-Gvir, who rejected the draft agreement and demanded continued assassinations in Gaza and \"encouraging emigration,\" which would ma",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Optc1eEYQ3QhwAuPBbm9vTnIpEwSFT43sPkNn_tIGDwdfoP9IIVsr2e27oL-HwvXjUz0FxitD5XCQAjyS5Q40eGvPOhbDgMYJViu9tZjbHcIy8lrXOoAjMhfvGjKVbzkJaUgVU0_BXA1irZScdHKDOJ8Y53gNkm5a_rSXJCxYkNTVq5vIqjEsGpxGkQ4QKyR1bnLMZ5UPpoKgJ2TS7C148PBL9_Fl1zObqSH31ew4VaZIcsGHcV3uXm54XIyM2fXr_6o-yfcjOLQlEwJ-xTM45u6ZTgEgyUoCBrquoUI6-jxTje0_YFcK7Tn08LgfToK9A7Iv4cT_rUTfyJowYWwGw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
