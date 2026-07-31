@@ -85029,7 +85029,18 @@
     "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: The Israeli occupation \"army\" targets Ali al-Taher heights with incendiary shells",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8b59e5924b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/AZxI97VR9PiC6M7qVLxDxnKR3YJkre5imzTE9kCp3-vaxPWTttU3CnLlF-03oeb9_tdbyDffof8VVhDkz9zEapEXE7G7_zrS3S8FaR1-TLfykcKIXH0XPr5Mu-9ChOQWPnaIH_qSHrUditlFekYlC_4qAplMWWW5v4P9rjEuJq5vBiZNlkIl_I9ASQfwtW4vvA6azhXMRSLQviIKWeVLHuW_go50lWMEhkzTmRFXMoC9tOSyJBDh5YeWUCePyqQgqWblGIvcokdBbBfkhVh1WZFoIZ2ixuqUaVQwCYkGmIYGa40cLgbuL3Vxfx9mQTuZcG8afmKWLRzcAatTavBcIg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058972",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/AZxI97VR9PiC6M7qVLxDxnKR3YJkre5imzTE9kCp3-vaxPWTttU3CnLlF-03oeb9_tdbyDffof8VVhDkz9zEapEXE7G7_zrS3S8FaR1-TLfykcKIXH0XPr5Mu-9ChOQWPnaIH_qSHrUditlFekYlC_4qAplMWWW5v4P9rjEuJq5vBiZNlkIl_I9ASQfwtW4vvA6azhXMRSLQviIKWeVLHuW_go50lWMEhkzTmRFXMoC9tOSyJBDh5YeWUCePyqQgqWblGIvcokdBbBfkhVh1WZFoIZ2ixuqUaVQwCYkGmIYGa40cLgbuL3Vxfx9mQTuZcG8afmKWLRzcAatTavBcIg"
+      }
+    ]
   },
   {
     "id": 477308981,
@@ -85483,6 +85494,63 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477340110,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Gaza Strip: scene destruction caused aerial bombardment AlHawajri",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ A scene of the destruction caused by aerial bombardment of the Al-Hawajri family's house in Al-Nusairat camp in central Gaza Strip",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QSAvQTRlAccCECWckbInmQtHrzM3owsaW1Mg_9fVGsGqB84lS_hIPk3iK60Gp-eO6APc0qvFhGxX9YVQ6d35LsK_SfC2uR61I26EszJr6lZ1xT48tJKufMDwPr1hjXkp6PZhfPCZgbQuQom3_7h4t2HTzAjkTh66rb1ReXr0-__OqGbeo0qH7iaj5vJtWeEdihB-gCeKCYyACKMj_kdMAazSu5NhjgvdWdVfx0Kr_YjO6IjcTRyBQ5TBEGLfCEKLa1D38_2rkX98t_Ksq7VCthWC0t0PpzPn6VMum2uEhXfgu4dkmpYsgQtSRqi3XMS-7XsApJ7qXYfV3xuUiMbG5g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/V3EQC30IYVUpC7_kzFPN-aAsErWzsQGAPSQp6lLbqE_tfqt7ssxitGa93jXEXkNIS3xjcSm2xdNLKYu02XVUrFfvBKApovkFgr9MF-KG-CKGCermjrjcuTW5a1k-1m66QF3USDKFG5fOn9Nokc-a0eucnHCsQnVmjc_BrqtsAZaMOqguNQRRGnAdHc6abQDh7E5C9Q6h82ltOf-ogR__C1tOiJzO3JklZLgwNgPPJ8dK0VW26NUUR8tPbDRPQrtSwu3keTcq4pIhUO5O5S91tD8yRWsvlL57D-VBErvymVyNQAxwrvhUtpFbyF8nkrzwdefS1-VBYDvZkuXWww0MNg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/IEpps2z0jc7s-wYTqBMbWMh6fSZL_yBLVPMXUcsKoDOBnbPy1c6yjhN4pMx8zRXv9jM_Fit0Xwv77RPwG-r3BZn1DXitLXBHgwpsFTcC-e4pGoFkOCabi3tzjm6fyrbsDEOrF1JbH_sbv6ysAmuUA-Ch1v8x674UlTpXbh_zrzdJrWj3i4-FFMhOKBGL-N8LVPYND6g60cWMUjVM30U1N-nzUfEM60PLHGDMQMxz_LA6bgsccg_-oOjPR7pYziAL_HF0__P8VIlIzUBObDbRjemdkp9sYBsMaF-nTcqtDFY4RspFfRrbywyEeQqqA-zrxidCc6eflPXHU3D16TH41w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jo5FQxHE9NgXGVEIU84RJnzgzCQB6HS6-0dkPzBmiHF312NKDjoI4esumpYBNBRoZD2YTRQ_JyiB2TC9zozxanKoKSl8dM0pTSYkPvAFeVRtXEzEY5Y7hf2mmQKTPhfry9CVXaTxlBCHdPgWQGkB2sifDYBDtMX3FZVF3KFsxwFX6Eq_y9p_OH0MCRZmhoJPfNQ9L_2leLt0zevecA9xTATtS8lc2MumjXIqTQsnPu0XeZp7yJHNjmmlvBpmNF7eDmONUHcVaJHP-sQ9cAeTLhicaTD5HouX8lABGPnTbabDGcKEdpAMxjXTl3Hb4F1rIGoON8ltUIb49sT2rVgg6g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/F8-9EuWuhTc3py6l3JJ2NXjXKGXAJ_g_9xQvcCjHSDSMo928vG7bmSStlD2wwmo8vJ-boAVQVYrdO3oxJoCb0Fii-NYpENe2FjsSJ95NnDc6nMsICYdfNpLADQEUq27bhLQ23i0_8eiwKmesdYJUB7knjEPurKyCvvNSvNOyGZYNB1uQWFKKM56KOCiu_7YKiduv-b893rLjVFmwzEUTaOQ3nIdKgqLasismJR9LuvuytdEFx0eGSXwbzm52ck8Uqj6v-h4EmwKZ0QL5WuqsLLHo1U1ddnilSa39YBDk23QFHSbc6bA3WlMtSP-sploGIK-jIYBGPKT9hCye0OrTJQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Mp73rF541FJbtj9BH-v4Y-FSUqRxOWdc-m41zByIZBIJfjqB6PDoFKdIrk0CVAVpfEqVfLA_lrx5sEII-T3ZrV-lKtZuvIFNdW-S7b7e3cPUo90pYHJJDc99B4f6lFBB1af6BRFVRLSMhlwZPw134CQssOhpw_A4q23c5cxtPxpd4G4cUZKmaviQkMqFI5WZAtWWF03K49eZ85Jys1qYITYxLJ7UNZ4UW0bdmsipya2jpc7zUsla8-ysiqlLJatxReRvGl3ou2O2g8UuE8koPWbUZqQCISBLgu3b1lsofo2D1LvBIhLbYZT7NdIbVCWhD1POhgJTdtjCmFg-X1xScg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477111420,
