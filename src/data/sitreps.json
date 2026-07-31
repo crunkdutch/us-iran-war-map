@@ -182855,7 +182855,12 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ A statement issued by Hezbollah on the US aggression against Iraq:Hezbollah condemns the brutal US aggression against brotherly Iraq and its noble people, which resulted in the martyrdom of a number of innocent people and the injury of others, in a blatant and flagrant violation of international ...",
-    "media": [],
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/WLD-07MLx9gRAF_Wd70noWUyOana4fIY4VICT9ZDQC2IHmq2FUzvYx_V34AHHeGFRBLLsA-mzCGTntzhmRDnNO0FhcvLO-IqezOhhn1LGg45KIg6ScWaOxGyiN9T9rvcFZKCyknTFF2gWRK8SiO2z-KDDkjgyJSZCocKpt07HRNKvtYxIi481I2giKM3MBnCoc7y--UDatuRqixelnnSum-JyDVvoqK1VFC96TGLOrsCS3oRCnnKfSHaPuN2TNInZmhqr6-d-2fmGyrS4LKNswa7mQrCh9P7j4bWKbXGY84VBMKDBdakgg7V5c_wOX_M04EtIL2o8MDJHGh-gxxKTA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
@@ -183164,6 +183169,42 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Occupation patrols and vehicles are firing heavily at homes near the \"Yellow Line\" east of Al-Tuffah neighborhood, east of Gaza City.",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785507111832,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Maariv ~~Israeli~~ newspaper poll: Eisenkot significantly outperforms Netanyahu in the question of suitability for prime minister.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785507130702,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 Commander of the NAJA Border Guard: The traffic situation at the Khosravi border is proceeding with utmost security and calm.🔹Pilgrims cross the borders with ease in less than 4 seconds, and interaction with Iraqi border guards is established.🌐 iribnews.ir",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1058772",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
     "verified": false
   },
   {
