@@ -185719,6 +185719,41 @@
     "verified": false
   },
   {
+    "id": 1785537759496,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Activity of seven American fuel suppliers in the southern Persian Gulf region",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jbesDBs3OlPDV1YVTp02L4Y_Bl31B5LbGO0-QjCUYoiIItJtHM3UUt-fn0GRCF3Z3xwIDqyJmEjjinUUPLwuMzq_hHGIngixyYlnqhr13TH8FcafzdgfSh_LwoPu0sOLgOJBtQcYrMtyNMYroGHmBflYUbZszla9--nbM95mRhcFLHn64hF4zCas3eS8eWNLQ3rGJLjFmUCYkylMyk5fBb7XiEt2CfKkLbHN4oNQrN42cPuTwdso1YZrOMeD2wmH-AGRsJBNzscUNKdInYajXVUyDZFbx9ftceHd2yR5MG4B82MJB5VJX2LJv_wunAQpFWCF170HboShW58Yu0MxfA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785537675573,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent in Gaza: Occupation aircraft destroy a house in Al-Maghazi camp in the central Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
