@@ -85384,6 +85384,38 @@
     ]
   },
   {
+    "id": 477333423,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Gaza Strip: Occupation aircraft launch raid Deir alBalah",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupation aircraft launch a raid on Deir al-Balah in the central Gaza Strip • 16:12 — 🚫#Urgent- - Drone strike west of Deir al-Balah city (Ba2s Jenin) • 16:12 — Ambulance vehicles arrive at the targeted location in the center of Deir al-Balah. (Ba2s Jenin)…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
