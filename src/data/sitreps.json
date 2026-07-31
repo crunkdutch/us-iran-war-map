@@ -180320,6 +180320,32 @@
     "verified": false
   },
   {
+    "id": 1785493040377,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇲🇦🇪🇸 The second day of the invasion of Spain by immigrants from Morocco has begun.Many Spaniards have called on the King of Spain to dismiss Pedro Sánchez and deploy the Spanish army to the southern borders.The administration of the charismatic Spanish Premier Pedro Sanchez, has maintained its s...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/eec20bbb5b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Q8HqmeX5KXGqcye_qRGJwoe8VzXoMkZ0CaoOeBYDsNXyGJO83XxHIo9Nwwl05BJY0LHfQgHsQhA-HtHfNXQs7dTUDgTX06jQzFY3_SP0YNyeI2a1Nay80_WLa03SwbaU3K66sDPauIdIQUGRopfWIlHG_Gx-uZ3zsGBYe8AdiHyg8y6KPUkTXMNkyX1SHprKSQGPW2PRDoX5olOOt6A2StEjyTCCFG56G1_qicXZ46caB2yn21_qxGm0Ck9hN9tR7syHQEg3DXOw1UKVsDx1ne5jqc9FUooOkq3TBMbysjhFD98Zpti1M27TyMzsu3fu800JpfxQbMQQ5JnWyy1EJQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8338",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Q8HqmeX5KXGqcye_qRGJwoe8VzXoMkZ0CaoOeBYDsNXyGJO83XxHIo9Nwwl05BJY0LHfQgHsQhA-HtHfNXQs7dTUDgTX06jQzFY3_SP0YNyeI2a1Nay80_WLa03SwbaU3K66sDPauIdIQUGRopfWIlHG_Gx-uZ3zsGBYe8AdiHyg8y6KPUkTXMNkyX1SHprKSQGPW2PRDoX5olOOt6A2StEjyTCCFG56G1_qicXZ46caB2yn21_qxGm0Ck9hN9tR7syHQEg3DXOw1UKVsDx1ne5jqc9FUooOkq3TBMbysjhFD98Zpti1M27TyMzsu3fu800JpfxQbMQQ5JnWyy1EJQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -182125,6 +182151,66 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Al-Qaddoumi: The blood of the great leader Haniyeh represents a source for strengthening the resistance frontThe representative of the Hamas movement in Tehran, Khaled Al-Qaddoumi, affirmed that the blood of the martyrs, especially the leader Ismail Haniyeh, represents a source for strengthening ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785493066250,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Saudi enemy sources announce: The airstrike on Iraq was not directed against the Iraqi people or the Iraqi government. We are keen on our relationship with the government of Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785493017064,
+    "type": "airstrike",
+    "location": "Semnan",
+    "coordinates": [
+      35.5724,
+      53.3972
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ An earthquake measuring 4.6 on the Richter scale shook the borders of Semnan and Mazandaran provinces, near the Dibaj area in northern Iran.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785493054654,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Latest Israeli attacks on southern Lebanon: • A Merkava tank stationed in the town of Markaba targeted the town of Talouseh with several shells. • Occupation forces set fire to fields in the town of Mays al-Jabal. • An enemy drone dropped a sound bomb in…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785493077900,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Latest Israeli attacks on southern Lebanon: • A Merkava tank stationed in the town of Markaba targeted the town of Talouseh with several shells. • Occupation forces set fire to fields in the town of Mays al-Jabal. • An enemy drone dropped a sound bomb in…",
     "media": [],
     "verified": false
   },

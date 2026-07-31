@@ -84729,6 +84729,43 @@
     "media": []
   },
   {
+    "id": 477291281,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Iraq: Saudi enemy sources announce airstrike Iraq",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Saudi enemy sources announce: The airstrike on Iraq was not directed against the Iraqi people or the Iraqi government. We are keen on our relationship with the government of Iraq.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/C9AS7UUJO-lzpldGxPloyodKlqaATfohoeqLLKmSSqS_SVxgGyXas3d8u_B6KmEGyKqXW_o10lF2qKWSGhYHQQwaa0oDp6-KfPwQWyWTATCCOhcXdMTe1kZykHaUzwyfM44hc2hQMx_WcdgqtDKQ_z0ueDw_fPr-ASFB_Wuit9bZ3zjAszOnmeI5_7dmQbnJzXvdDUjeuzl3eWm4qgYWNiRN_ejza0_ZUvWSyuqmxGFtX_hGvKanrLJtE2oMxuqaY46zKi70urB61EkbwZfYSg0hsryht_mWcTu5_eDKyPURY6hwHxunO8HRNC4WW7GNJGwR2uBfyj5hdH5YlszbIw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
