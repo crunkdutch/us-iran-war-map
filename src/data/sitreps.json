@@ -180174,6 +180174,66 @@
     "verified": false
   },
   {
+    "id": 1785481992121,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 US–Saudi strikes on PMF launched without Baghdad’s knowledge, says Iraqi gov’t spox📌 Tehran, IRNA — The Iraqi government spokesperson says that the US–Saudi airstrikes targeting the Popular Mobilization Forces (PMF) were carried out without Baghdad’s prior knowledge.“The government had no prior ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785481950594,
+    "type": "rocket",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 US–Saudi strikes on PMF launched without Baghdad’s knowledge, says Iraqi gov’t spox📌 Tehran, IRNA — The Iraqi government spokesperson says that the US–Saudi airstrikes targeting the Popular Mobilization Forces (PMF) were carried out without Baghdad’s prior knowledge.“The government had no prior ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785481915622,
+    "type": "rocket",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 US–Saudi strikes on PMF launched without Baghdad’s knowledge, says Iraqi gov’t spox📌 Tehran, IRNA — The Iraqi government spokesperson says that the US–Saudi airstrikes targeting the Popular Mobilization Forces (PMF) were carried out without Baghdad’s prior knowledge.“The government had no prior ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785481921446,
+    "type": "rocket",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 US–Saudi strikes on PMF launched without Baghdad’s knowledge, says Iraqi gov’t spox📌 Tehran, IRNA — The Iraqi government spokesperson says that the US–Saudi airstrikes targeting the Popular Mobilization Forces (PMF) were carried out without Baghdad’s prior knowledge.“The government had no prior ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -180874,6 +180934,91 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ A camp belonging to the Iranian terrorist opposition was targeted in Erbil a short while ago.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785481905844,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli occupation army radio: A senior Hamas official on the agreement: \"We will not allow Israel to interfere in the collection and storage of weapons.\"",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785481946386,
+    "type": "drone",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hostile drone flying over the southern suburb of Beirut at low altitude.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785481971758,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Times:A joint secret intelligence operation between the Israeli Mossad and the American Central Intelligence Agency (CIA), aims to locate the new Iranian Supreme Leader, Ayatollah Mojtaba Khamenei, who assumed leadership after the (martyrdom) of his father, Ali Khamenei.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/X8w9ZXS-R6eysr34HUneXoOVa9weAjEAEmae-80co-huwxdl3bC7YHJ3HILljZ4JU5Siprnx_CV6AFVTtOCRagLUr-_YIMIhGdaH57RA4oukjgX6w5dALM4Iq_xJBkZDFYVlHrzFWbd4atNYMKNqPW3l0kyp0-9gH9N2xHn-qjgXDzx5winvgsCAy9Fb7XLCmFc1xxhrDxtZAlkwH4Nl9to3MiXJw6Db_USTXojG9_dGqIBzcwHObI5i4a_AQuAnB69RB0BRadI8oXod_dh3q82cRlGm1ZuEGvrgIG2_iPANPL4Iomdp23zmN85jHN7293S5p-ceoDEPnZ9EAmQDwg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785481990205,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The Times:A joint secret intelligence operation between the Israeli Mossad and the American Central Intelligence Agency (CIA), aims to locate the new Iranian Supreme Leader, Ayatollah Mojtaba Khamenei, who assumed leadership after the (martyrdom) of his father, Ali Khamenei.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/X8w9ZXS-R6eysr34HUneXoOVa9weAjEAEmae-80co-huwxdl3bC7YHJ3HILljZ4JU5Siprnx_CV6AFVTtOCRagLUr-_YIMIhGdaH57RA4oukjgX6w5dALM4Iq_xJBkZDFYVlHrzFWbd4atNYMKNqPW3l0kyp0-9gH9N2xHn-qjgXDzx5winvgsCAy9Fb7XLCmFc1xxhrDxtZAlkwH4Nl9to3MiXJw6Db_USTXojG9_dGqIBzcwHObI5i4a_AQuAnB69RB0BRadI8oXod_dh3q82cRlGm1ZuEGvrgIG2_iPANPL4Iomdp23zmN85jHN7293S5p-ceoDEPnZ9EAmQDwg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785481994855,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Dear Yemen,Mass public turnout in Saada city in the \"Siege for Siege and Escalation for Escalation\" march.",
     "media": [],
     "verified": false
   },

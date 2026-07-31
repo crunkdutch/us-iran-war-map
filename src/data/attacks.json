@@ -83981,6 +83981,38 @@
     ]
   },
   {
+    "id": 477269246,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Saudi Arabia Rocket Attack — Tehran, Baghdad, Riyadh: USSaudi strikes launched without Baghdads knowledge",
+    "location": "Tehran, Baghdad, Riyadh, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 US–Saudi strikes on PMF launched without Baghdad’s knowledge, says Iraqi gov’t spox📌 Tehran, IRNA — The Iraqi government spokesperson says that the US–Saudi airstrikes targeting the Popular Mobilization Forces (PMF) were carried out without Baghdad’s prior knowledge.“The government had no prior knowledge of the attacks carried out on Iraqi territory,” Haider al-Aboudi told the state-owned Iraqi News Agency (INA) late on Thursday, noting, “The government has not granted any approval to carry ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477232016,
     "type": "intercept",
     "status": "confirmed",
