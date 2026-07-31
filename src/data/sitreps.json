@@ -65212,6 +65212,26 @@
     "verified": false
   },
   {
+    "id": 1785470282123,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-06",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇮🇷 The coffin of the pure martyr, Ayatollah Khamenei, in Tehran@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VFVQ59kZ4CB8emzsFU8yapnJrUYcseLtXAdLpL8Pv8U7kUoc11NrsWEZocvkK1fIp4m69nV2IyEInNxL43sbQlNJK0Hj6hjgZyTpfDLSJ71_5hJ37_J6e-vf21vOLQ3lQn_vYJ87QJO5CQ5RIbMykay8A83wofsWa30SSrnquCurY40IropfhdiX3Dmwx80KgxqBwnjjQfkKk3KE-XNBp1Q9V4ZsWqLKBtDon_c9wGw2ik85jJKUTgNysEPbuzAWo4cXN4HBXtKwU66VWbdc--2IFTAXFEz301WSMZFlIsA7F5_gt1Dqa3cxycWB-QFzba0OKBOrpCPBZaqMqSOU_w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1784999945823,
     "type": "airstrike",
     "location": "Iraq",
@@ -180153,6 +180173,84 @@
         "url": "https://t.me/me_observer_TG/1058531",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/XB6Ndih-0Yki9RK1QV4vqQsE2pEtnlq4VcK4K1HohbR1QDzzqhmJ0MNI9bKMWnSnO6YW6cVCmWz3-ay4betHE9E6VPzcBRTLRLOgDuJBKlxkN8cwp4mnK-K7z3G235lXL1DiBd81IVGNwncRlDPrfRb5eui33HjpQbIV3kt5siR9iUv-jVvknfJn7wfslLj3jOTo-vweg_P_WpC5ks2MyfIXJqiVts1slcZ9ApVbki_ZhT9t9nE3YCbtFFCryg_37d60yfyQszw4NHCiP4yLtUlsc1BHcmzbY8w6-cAS8kYmpbHcHULxrkJ4bIKea9WI-7kM06rkfcYZ7pyDzjQjvg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785470282856,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-31",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 US strategic centers in Kuwait targeted by army dronesArmy: In the 27th phase of Operation Lightning and in response to the recent aggressions of the terrorist US army against our country and the brutal attack on a residential house on Qeshm Island, hours ago, the fighter jet hangars, satellit...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/972d98a60d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CemqLqUAPtZ-vDFUSOIVoXGOOMM50RtaKQj4LBOIFxkapEhjoGJL6qeL401VYHJPK0F036SQwpefJQWnuYecP6zYq7fxmCSWPzv2S3J-p8gUnnoJ82zR6zUv5Zmt4hCveW2XYbRgF7MmS2pLJXUO0yK7ypwicoLwzFEUyx-hsWxP1ttrpL_rKQoTWqrvF4DdfGd81uHtm1EUzc_NhzhIaSaP2n_S-IqOvUJjuHmpINWVEpMcBVM8wRX7ob55E3ksyR-NGTX0DcukDuV6yfMG9qzy0DGdlmPF2H7xT6kyAyr1N4hHJT1tNo2HmP8OoEEz8pUGrrG2EhLMv1Vpe9yAlQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058532",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CemqLqUAPtZ-vDFUSOIVoXGOOMM50RtaKQj4LBOIFxkapEhjoGJL6qeL401VYHJPK0F036SQwpefJQWnuYecP6zYq7fxmCSWPzv2S3J-p8gUnnoJ82zR6zUv5Zmt4hCveW2XYbRgF7MmS2pLJXUO0yK7ypwicoLwzFEUyx-hsWxP1ttrpL_rKQoTWqrvF4DdfGd81uHtm1EUzc_NhzhIaSaP2n_S-IqOvUJjuHmpINWVEpMcBVM8wRX7ob55E3ksyR-NGTX0DcukDuV6yfMG9qzy0DGdlmPF2H7xT6kyAyr1N4hHJT1tNo2HmP8OoEEz8pUGrrG2EhLMv1Vpe9yAlQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785470220200,
+    "type": "intercept",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-07-31",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 US strategic centers in Kuwait targeted by army dronesArmy: In the 27th phase of Operation Lightning and in response to the recent aggressions of the terrorist US army against our country and the brutal attack on a residential house on Qeshm Island, hours ago, the fighter jet hangars, satellit...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/972d98a60d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CemqLqUAPtZ-vDFUSOIVoXGOOMM50RtaKQj4LBOIFxkapEhjoGJL6qeL401VYHJPK0F036SQwpefJQWnuYecP6zYq7fxmCSWPzv2S3J-p8gUnnoJ82zR6zUv5Zmt4hCveW2XYbRgF7MmS2pLJXUO0yK7ypwicoLwzFEUyx-hsWxP1ttrpL_rKQoTWqrvF4DdfGd81uHtm1EUzc_NhzhIaSaP2n_S-IqOvUJjuHmpINWVEpMcBVM8wRX7ob55E3ksyR-NGTX0DcukDuV6yfMG9qzy0DGdlmPF2H7xT6kyAyr1N4hHJT1tNo2HmP8OoEEz8pUGrrG2EhLMv1Vpe9yAlQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058532",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CemqLqUAPtZ-vDFUSOIVoXGOOMM50RtaKQj4LBOIFxkapEhjoGJL6qeL401VYHJPK0F036SQwpefJQWnuYecP6zYq7fxmCSWPzv2S3J-p8gUnnoJ82zR6zUv5Zmt4hCveW2XYbRgF7MmS2pLJXUO0yK7ypwicoLwzFEUyx-hsWxP1ttrpL_rKQoTWqrvF4DdfGd81uHtm1EUzc_NhzhIaSaP2n_S-IqOvUJjuHmpINWVEpMcBVM8wRX7ob55E3ksyR-NGTX0DcukDuV6yfMG9qzy0DGdlmPF2H7xT6kyAyr1N4hHJT1tNo2HmP8OoEEz8pUGrrG2EhLMv1Vpe9yAlQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785470231063,
+    "type": "intercept",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-31",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 US strategic centers in Kuwait targeted by army dronesArmy: In the 27th phase of Operation Lightning and in response to the recent aggressions of the terrorist US army against our country and the brutal attack on a residential house on Qeshm Island, hours ago, the fighter jet hangars, satellit...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/972d98a60d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CemqLqUAPtZ-vDFUSOIVoXGOOMM50RtaKQj4LBOIFxkapEhjoGJL6qeL401VYHJPK0F036SQwpefJQWnuYecP6zYq7fxmCSWPzv2S3J-p8gUnnoJ82zR6zUv5Zmt4hCveW2XYbRgF7MmS2pLJXUO0yK7ypwicoLwzFEUyx-hsWxP1ttrpL_rKQoTWqrvF4DdfGd81uHtm1EUzc_NhzhIaSaP2n_S-IqOvUJjuHmpINWVEpMcBVM8wRX7ob55E3ksyR-NGTX0DcukDuV6yfMG9qzy0DGdlmPF2H7xT6kyAyr1N4hHJT1tNo2HmP8OoEEz8pUGrrG2EhLMv1Vpe9yAlQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058532",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/CemqLqUAPtZ-vDFUSOIVoXGOOMM50RtaKQj4LBOIFxkapEhjoGJL6qeL401VYHJPK0F036SQwpefJQWnuYecP6zYq7fxmCSWPzv2S3J-p8gUnnoJ82zR6zUv5Zmt4hCveW2XYbRgF7MmS2pLJXUO0yK7ypwicoLwzFEUyx-hsWxP1ttrpL_rKQoTWqrvF4DdfGd81uHtm1EUzc_NhzhIaSaP2n_S-IqOvUJjuHmpINWVEpMcBVM8wRX7ob55E3ksyR-NGTX0DcukDuV6yfMG9qzy0DGdlmPF2H7xT6kyAyr1N4hHJT1tNo2HmP8OoEEz8pUGrrG2EhLMv1Vpe9yAlQ"
       }
     ],
     "verified": false

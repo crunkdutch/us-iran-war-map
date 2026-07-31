@@ -83854,6 +83854,49 @@
     ]
   },
   {
+    "id": 477260460,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Jordan, Yemen, Bahrain: naval coalition announced Saudi Arabia comprising",
+    "location": "Jordan, Yemen, Bahrain, Kuwait, Oman, Saudi Arabia",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The naval coalition announced by Saudi Arabia, comprising Morocco, Bahrain, Kuwait, Jordan, Oman, Yemen (the parasite proxy against AnsarAllah), Sudan, Bangladesh, the Maldives, and New Zealand, is reportedly preparing to participate in military operations against Ansar Allah blockade. 🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/81b8670751.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/k7tRiNkZeZpLbMmLUhmva8zmVkyuX8f2_G-CRoEGgCBO1kRspWvjd2kV1szjbD51h7sRG7R8ux3Rx23F0Fl31AjuHlKYcvTU-ALJINZL2_DRC_lZSKhY3RU3Ty2mG1vmCrOgF2R_MoV4Gpoh_nYjT41qGeWsl9UIdvZEiLVpA6w9QXRyHrjmbttmXp4b0qyWk7rIKGOV1YzSgPwKS5HPeKiZ30noQK1OCzaQCNOWnl94jzAFUsxpHQTuG4uBTLCljM8BnY6fOCJFCm1OChWasF7oByaUqpew83WHh8cJ9MFNDoT6dEVBUBSQT06dtKLDV9R-m3UHa8NBqvvFecK0RA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60598",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/k7tRiNkZeZpLbMmLUhmva8zmVkyuX8f2_G-CRoEGgCBO1kRspWvjd2kV1szjbD51h7sRG7R8ux3Rx23F0Fl31AjuHlKYcvTU-ALJINZL2_DRC_lZSKhY3RU3Ty2mG1vmCrOgF2R_MoV4Gpoh_nYjT41qGeWsl9UIdvZEiLVpA6w9QXRyHrjmbttmXp4b0qyWk7rIKGOV1YzSgPwKS5HPeKiZ30noQK1OCzaQCNOWnl94jzAFUsxpHQTuG4uBTLCljM8BnY6fOCJFCm1OChWasF7oByaUqpew83WHh8cJ9MFNDoT6dEVBUBSQT06dtKLDV9R-m3UHa8NBqvvFecK0RA"
+      }
+    ]
+  },
+  {
     "id": 477232016,
     "type": "intercept",
     "status": "confirmed",
