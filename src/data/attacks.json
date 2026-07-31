@@ -85582,7 +85582,18 @@
     "description": "⚡️ Total incidents in the Gaza Strip since dawn on Friday, July 31, 2026:- Targeting of a group of citizens on Al-Mukhabarat Street, northwest of Gaza - two injuries- Targeting of a citizen near the Egyptian Committee barracks in Al-Zawaida town, central Gaza Strip - one martyr- Targeting of a citizen in the Al-Maslakh area of Khan Younis city - one serious injury- Targeting of a group of citizens on Abu Aref Street in Deir al-Balah - several injuries- Targeting of a group of citizens in the Al-",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3f43dde24f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KQXHVVaSiMug4iItlKSRsdgXh446rAYTS98aXgPXf8VtFCH5Tj_8JgEmltRpErhTr-tZgzg9Exrz-L8etFUK_ZpdZaPf8B0y2ZPYZzQiJ7l34DewsSwe_lNEKLYpCg4oqSjbMTpWTghbDfMw6WEUF4BWw4WIHItBhKHm0Z76cKB2FPu6nN1h83HXRKs_2kuU-gjS8x6I15zRsLMMOaQxHeAlrUYgSxnIwVYQBgXbdC4KhKpOy7HIv6y8UnO_KVSd3GNiudU2Urdqh8NmG3xTAnif4rHhzU7sRnVt21sITV5vC13kTWGQ87qE_y8wBr6fJ_XRaGNYxC0be_a4WOU3Pg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059106",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KQXHVVaSiMug4iItlKSRsdgXh446rAYTS98aXgPXf8VtFCH5Tj_8JgEmltRpErhTr-tZgzg9Exrz-L8etFUK_ZpdZaPf8B0y2ZPYZzQiJ7l34DewsSwe_lNEKLYpCg4oqSjbMTpWTghbDfMw6WEUF4BWw4WIHItBhKHm0Z76cKB2FPu6nN1h83HXRKs_2kuU-gjS8x6I15zRsLMMOaQxHeAlrUYgSxnIwVYQBgXbdC4KhKpOy7HIv6y8UnO_KVSd3GNiudU2Urdqh8NmG3xTAnif4rHhzU7sRnVt21sITV5vC13kTWGQ87qE_y8wBr6fJ_XRaGNYxC0be_a4WOU3Pg"
+      }
+    ]
   },
   {
     "id": 477344573,
@@ -85755,6 +85766,70 @@
       "other": 0
     },
     "description": "⚡️ U.S. and European Officials: Russia is providing Iran with satellite surveillance and electronic intelligence that could help Tehran locate U.S. forces, improve its air defenses, and jam U.S.-made weapons.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477355748,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Israel, Gaza Strip: Occupied Palestine Mayadeen correspondent Israeli warships",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: Israeli warships open fire in the sea off the city of Rafah, south of the Gaza Strip",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477357986,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Fars, Israel: Iran Fars agency publishes targets says",
+    "location": "Fars, Israel",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran: Fars agency publishes a set of targets and says they are within range of Iranian missiles if Iranian power plants are targeted• 22:47 — Iran: Fars Agency: Among the targets are oil and gas fields and stations operated by America in the region, and the Leviathan and Tamar gas fields in the Israeli entity. (Al Mayadeen Breaking)• 22:47 — Iran: Fars: America is well aware that the most important energy facilities in the world are within range of Iran's precise and destructive missiles. (Al",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
