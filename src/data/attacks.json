@@ -83958,7 +83958,18 @@
     "description": "⚡️ Wall Street Journal, citing US officials: The United States is currently reconsidering the scope of its military presence in Kuwait.• 00:55 — Wall Street Journal, citing officials: The Pentagon was already studying the issue of reducing its forces before the outbreak of war with Iran. • The Pentagon reduced its presence in Kuwait in response to #Iran's attack… (Rasd Akhbar Shehaba)• 01:05 — The Wall Street Journal, citing informed American officials: The United States is currently reconsideri",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0d3e0d6ca8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/js41QzbvBWMV5mxVleeDPMVtMNGO0bGSGN6Dt9ZeY2mQsTi9MPWQpKX7hGb7n4nxLV7uiTo5H9zI8ypDMajVXIN33OYbQ_uZBOKatzZ70W4uv4eHqGyy4F0UgBu1A2vxwJvQLV-OW6ICkQMysnp3Mmg4u97ZNlbBpzU_VrCUpAXxuXtc4sioKItUfanest9BYleq-xr_sCLM1UaJs3ccGgYgG31argrEvRvt1SZyd90M6B3owZ1at-ms0BTY4x5BtyzIUEksKdo9kuzDrkCiHPUQ0oIh2OdaezsJsUvzVZy-99aAhaTPwkU1M90GcKcDFS5ANBEQvAV_U6xBQrzyzQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1058543",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/js41QzbvBWMV5mxVleeDPMVtMNGO0bGSGN6Dt9ZeY2mQsTi9MPWQpKX7hGb7n4nxLV7uiTo5H9zI8ypDMajVXIN33OYbQ_uZBOKatzZ70W4uv4eHqGyy4F0UgBu1A2vxwJvQLV-OW6ICkQMysnp3Mmg4u97ZNlbBpzU_VrCUpAXxuXtc4sioKItUfanest9BYleq-xr_sCLM1UaJs3ccGgYgG31argrEvRvt1SZyd90M6B3owZ1at-ms0BTY4x5BtyzIUEksKdo9kuzDrkCiHPUQ0oIh2OdaezsJsUvzVZy-99aAhaTPwkU1M90GcKcDFS5ANBEQvAV_U6xBQrzyzQ"
+      }
+    ]
   },
   {
     "id": 477236381,
@@ -84205,6 +84216,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/XB6Ndih-0Yki9RK1QV4vqQsE2pEtnlq4VcK4K1HohbR1QDzzqhmJ0MNI9bKMWnSnO6YW6cVCmWz3-ay4betHE9E6VPzcBRTLRLOgDuJBKlxkN8cwp4mnK-K7z3G235lXL1DiBd81IVGNwncRlDPrfRb5eui33HjpQbIV3kt5siR9iUv-jVvknfJn7wfslLj3jOTo-vweg_P_WpC5ks2MyfIXJqiVts1slcZ9ApVbki_ZhT9t9nE3YCbtFFCryg_37d60yfyQszw4NHCiP4yLtUlsc1BHcmzbY8w6-cAS8kYmpbHcHULxrkJ4bIKea9WI-7kM06rkfcYZ7pyDzjQjvg"
       }
     ]
+  },
+  {
+    "id": 477262655,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, Taba: American Israeli media outlets have started",
+    "location": "Israel, Taba",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— American and Israeli media outlets have started publishing reports and narratives related to the possible tracking of Imam Mujtaba Khamenei and alleged plans to assassinate him. Enemy-linked publications have reported difficulties in locating him, claiming that he does not use electronic devices, making tracking more difficult.These reports resemble previous enemy narratives regarding alleged plans to assassinate Imam Ali Khamenei before the 12 June war. Regardless of the reason behind such re",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 477111420,
