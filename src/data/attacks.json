@@ -85192,6 +85192,43 @@
     "media": []
   },
   {
+    "id": 477320076,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Interception — Erbil, Iraq: Several aircraft were spotted landing Erbil",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Several C17 aircraft were spotted landing in Erbil to withdraw Patriot air defense systems from the airbase, as it appears the United States is withdrawing from this base due to the fierce attacks it has been subjected to.• 15:19 — Earlier this week, several C-17 aircraft landed in Erbil. They flew the entire way without transponders. They removed the Patriots from the Iraqi airbase. It has now been confirmed that the United States is withdrawing… (Iran Militarism)• 15:30 — Al-Monitor Newspap",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/R96YckTDmxEWG1ykv0kYv-lLFcQO4Rn5BM7FjJnX-Q5ncTVLt8dXBVsVEV51J4MlmFib-CyqS99x22-waROqTpUwZ5YOTKzV9uodvp_Zyed1vXv-TtdBBMLoNyqidQj6u62Bkcs6TsXVb4kOVeX3KiLdp-pAHeiueHzVub9k9ehbKlzU8oQct4X2GwIKLSI5YXKgAzqdlBwxIDbp0XjNAWG_CdQwm6W7-m4_1HJgDkGaNJkb53U47ZIAPyzUuZbqVJVwTK4zFGWOC46WKPT46PpBTeKwIhe0AvbqPwwshOXRDIwbhZCXjut-vQSOtGx-CB_DMl4lQywv2UU57f1VKw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",

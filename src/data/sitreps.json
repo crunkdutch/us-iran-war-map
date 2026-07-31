@@ -183421,6 +183421,101 @@
     "verified": false
   },
   {
+    "id": 1785512517736,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-31",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ For the second consecutive day, Saudi Arabian Airlines suspended all its flights to and from airports in southern Saudi Arabia for fear of attacks by the Yemeni Armed Forces.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785512518717,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-31",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ For the second consecutive day, Saudi Arabian Airlines suspended all its flights to and from airports in southern Saudi Arabia for fear of attacks by the Yemeni Armed Forces.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785512516386,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ News sources report explosions in Kuwait.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785512565043,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Lebanese President Joseph Aoun: The massive bombings in southern Lebanon constitute a very dangerous escalation and a direct threat to the course of the \"framework agreement.\"• 15:21 — Lebanon: Aoun: The timing of these attacks in southern Lebanon on the eve of the Rome session on the im...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785512536739,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ One of the things that should be mentioned is that Turkey, after being sidelined• 15:31 — Among the points that should be mentioned is that after being excluded from the F-22 program, despite being a development and production partner from day one, the Turks decided to reduce their dependence on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785512532538,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-31",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "— 🇸🇦/🇮🇷 NEW: Due to the war with Iran, Saudi Arabia’s economy has shrunk by 4.8%, the largest in a single quarter since COVID-19@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Optc1eEYQ3QhwAuPBbm9vTnIpEwSFT43sPkNn_tIGDwdfoP9IIVsr2e27oL-HwvXjUz0FxitD5XCQAjyS5Q40eGvPOhbDgMYJViu9tZjbHcIy8lrXOoAjMhfvGjKVbzkJaUgVU0_BXA1irZScdHKDOJ8Y53gNkm5a_rSXJCxYkNTVq5vIqjEsGpxGkQ4QKyR1bnLMZ5UPpoKgJ2TS7C148PBL9_Fl1zObqSH31ew4VaZIcsGHcV3uXm54XIyM2fXr_6o-yfcjOLQlEwJ-xTM45u6ZTgEgyUoCBrquoUI6-jxTje0_YFcK7Tn08LgfToK9A7Iv4cT_rUTfyJowYWwGw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
