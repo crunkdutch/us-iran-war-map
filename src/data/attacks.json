@@ -85027,6 +85027,38 @@
     "media": []
   },
   {
+    "id": 477308981,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza City: Occupation patrols vehicles firing heavily homes",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupation patrols and vehicles are firing heavily at homes near the \"Yellow Line\" east of Al-Tuffah neighborhood, east of Gaza City.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",
