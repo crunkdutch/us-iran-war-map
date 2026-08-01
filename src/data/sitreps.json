@@ -186651,6 +186651,21 @@
     "verified": false
   },
   {
+    "id": 1785582705387,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "The US Embassy in Iraq:The security situation remains complex in the Middle East, and there is a possibility of unexpected escalation.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -188036,6 +188051,123 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Follow-up || Shelling by a Zionist drone on Mawasi, Al-Qarara town, north of Khan Yunis city, southern Gaza Strip.• 10:14 — Occupied Palestine: Al Mayadeen correspondent: Casualties due to an Israeli drone strike in Mawasi, Al-Qarara town, north of Khan Yunis city, southern Gaza Strip (Al Mayadee...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785582689716,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦The smoke of misplaced trust in Americans in the Strait of Hormuz🔹Images of the offending vessel burning in the Strait of Hormuz, in the fire of trust in Americans.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059371",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785582685006,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴🌟🌟 Total events in the Gaza Strip since dawn on Saturday, August 1, 2026, until 1:30 PM:🤔 Targeting of Al-Salahat family home in Al-Maghazi camp, central Gaza Strip🤔 Targeting of a warehouse and storage facility for medical supplies at Al-Aqsa Martyrs Hospital, central Gaza Strip🤔 Israeli ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785582740938,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴🌟🌟 Total events in the Gaza Strip since dawn on Saturday, August 1, 2026, until 1:30 PM:🤔 Targeting of Al-Salahat family home in Al-Maghazi camp, central Gaza Strip🤔 Targeting of a warehouse and storage facility for medical supplies at Al-Aqsa Martyrs Hospital, central Gaza Strip🤔 Israeli ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785582703013,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴🌟🌟 Total events in the Gaza Strip since dawn on Saturday, August 1, 2026, until 1:30 PM:🤔 Targeting of Al-Salahat family home in Al-Maghazi camp, central Gaza Strip🤔 Targeting of a warehouse and storage facility for medical supplies at Al-Aqsa Martyrs Hospital, central Gaza Strip🤔 Israeli ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785582709739,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Bloomberg Agency: An LNG tanker carrying a shipment from Qatar was struck by a projectile while transiting the Strait of Hormuz.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785582753415,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Bloomberg Agency: An LNG tanker carrying a shipment from Qatar was struck by a projectile while transiting the Strait of Hormuz.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785582763963,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "The families of the martyrs of Minab, heartbroken by the great sorrow but with heads held high, visited the Master and Chief of Martyrs.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059380",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
     "verified": false
   }
 ]
