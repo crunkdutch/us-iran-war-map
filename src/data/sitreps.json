@@ -172122,6 +172122,21 @@
     "verified": false
   },
   {
+    "id": 1785571922208,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-29",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇰🇼🇺🇸🇮🇷| The Kuwaiti Army says Iran launched drone attacks and struck several places, including government facilities in the north, as well as “civilian” vehicles belonging to one of the civil companies on Bubiyan Island. Bubiyan island and the north of Kuwait are locations where US has HIMARS ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785372619147,
     "type": "airstrike",
     "location": "Gaza Strip",
@@ -186491,6 +186506,21 @@
     "verified": false
   },
   {
+    "id": 1785571886619,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Mazandaran wins Iran’s women’s Alysh wrestling championships📌 Tehran, IRNA – The women’s Alysh wrestling (belt wrestling) championships have concluded in the capital, with the Mazandaran team from northern Iran claiming the team title.The national women’s Alysh wrestling competitions took place ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -187047,6 +187077,140 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Gaza:Targeting by reconnaissance aircraft west of Gaza CityTargeting with two reconnaissance missiles in the vicinity of Third Street in Sheikh Radwan neighborhood",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785571945639,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ An Israeli occupation bombing destroyed a medicine shed for the kidney department at Al-Aqsa Martyrs Hospital in Deir al-Balah, central Gaza Strip, and targeted a displacement camp adjacent to it.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YT6Nvk9w2ptomdGp88kWDZikigb7CEKtfDx38KOJP4kPx3e1mDlex6G6xHJZYzf_I0d34fU1EeHSEVE-n1NoZZImT2G4zD_qi3O4xbC9uTVOTrhmO5OHvOSozKcwiTkPKH0x_H5ZaipHcwnGS2P0wiJ5v1_UNYqNOHyYwwfDnfLZf0qKzIDUC8FJGMqBGj5mInBRjYdwreGDn8EAdZ7OBXdn-rcjtrSQunvmkmZEI7pVC5xbWsoEvm2s8fMNrnEjMP81ODYLHlMhqFJ3h5XCH_OZDBHZTJUcmmT8Y9SfO01Z7dt5BzFHTlihNbvjig8LCB7w2b_d9x3P5_BpCHqqsA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/prdOxyb3ryLi5t79umYVg0J68BhrWsB5Lp1hBH_UpzAUrxMdnPP8NhgSVDdmMAdz-WRblgi_KGh1I5yiQUgkR6Ew7C2wkLT09NybScSyPuOMc3Mp57E6_qBL5IXjKu3DmvD0aWWWsk6PHd2NBaaGoj6_A8k66snvMowWHWNePNFLwmyb3AsWnqgxg5Ae9LAVWxsu_CpSXT03uPWfyng2wMbsRhkjHpixn9GrjizRF0yjp9Sfi4HCSJ7GfTwJoarYabrHBhq8CFECng7RjmV04tPP94x3ZxxwmHO95PJdGQWIy21uJ0Wmr99dv64IpPA2Ch9ehQzzhxkKJXnZ2ciafA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jJ174511_gKfF4ZUxrZMPJVDOv2pvxbucASRZUN_9RnwbHjOy7fVcAufc7tRrdFxVPamVukaxY4xAsV-cn_gk5MBm76n4TLphsA_ldGXj2PugQN0bvakpuWIaobtr75a7eHGNEEh0H_YelZ1Fc3_8KEQrTiybLFWsN-ejJ0Stnp5_rnyEKnx3xunUFAmpzd7-iwg2LPhke2LwNBrbUKmR2o4wsBfxKMW-MGsbFhVpDnWvI8R6tiCgkDo9Ib6RjtmHTyBmq-ymFhf7JJIWOD4R76qKp6Z2OItF9td5XM1TrvHFcmOtF8XNw7pG-j9dax3vdJGD4CmuqMGUqYbQgcCdA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/beFRJ2dob2cgvw_dYKWYIjzLQoUuoXwfdKTnMkJwT64TFwGtlaoO_U45cVYcX--lcykWvisJ3pgcDVXpxloWkE1tskp8-qI4pp4yg7vhWquJpqZN7MeWCYEGBpoVn8jwve9GFbiwVUNwUThV1qR5gFHDKP9lsT_v3npoQL_x0NTatEaBmLvS1vr4QI2XsXCjv-LQ9Dn1TN-AIxLeN9jAkqc_fhxfxcTEmvyCzPZ0zFXOMJkQwKTYl94LUN_9jN8nImE5KrwMq_LHsXf7dj4pGMGNztvyePuEwJR0K-6qG0GPD2TOeX1OSS4G9HgbOaFGfUhB-XnsldmPyP5W0d-26w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785571928085,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ An Israeli occupation bombing destroyed a medicine shed for the kidney department at Al-Aqsa Martyrs Hospital in Deir al-Balah, central Gaza Strip, and targeted a displacement camp adjacent to it.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YT6Nvk9w2ptomdGp88kWDZikigb7CEKtfDx38KOJP4kPx3e1mDlex6G6xHJZYzf_I0d34fU1EeHSEVE-n1NoZZImT2G4zD_qi3O4xbC9uTVOTrhmO5OHvOSozKcwiTkPKH0x_H5ZaipHcwnGS2P0wiJ5v1_UNYqNOHyYwwfDnfLZf0qKzIDUC8FJGMqBGj5mInBRjYdwreGDn8EAdZ7OBXdn-rcjtrSQunvmkmZEI7pVC5xbWsoEvm2s8fMNrnEjMP81ODYLHlMhqFJ3h5XCH_OZDBHZTJUcmmT8Y9SfO01Z7dt5BzFHTlihNbvjig8LCB7w2b_d9x3P5_BpCHqqsA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/prdOxyb3ryLi5t79umYVg0J68BhrWsB5Lp1hBH_UpzAUrxMdnPP8NhgSVDdmMAdz-WRblgi_KGh1I5yiQUgkR6Ew7C2wkLT09NybScSyPuOMc3Mp57E6_qBL5IXjKu3DmvD0aWWWsk6PHd2NBaaGoj6_A8k66snvMowWHWNePNFLwmyb3AsWnqgxg5Ae9LAVWxsu_CpSXT03uPWfyng2wMbsRhkjHpixn9GrjizRF0yjp9Sfi4HCSJ7GfTwJoarYabrHBhq8CFECng7RjmV04tPP94x3ZxxwmHO95PJdGQWIy21uJ0Wmr99dv64IpPA2Ch9ehQzzhxkKJXnZ2ciafA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jJ174511_gKfF4ZUxrZMPJVDOv2pvxbucASRZUN_9RnwbHjOy7fVcAufc7tRrdFxVPamVukaxY4xAsV-cn_gk5MBm76n4TLphsA_ldGXj2PugQN0bvakpuWIaobtr75a7eHGNEEh0H_YelZ1Fc3_8KEQrTiybLFWsN-ejJ0Stnp5_rnyEKnx3xunUFAmpzd7-iwg2LPhke2LwNBrbUKmR2o4wsBfxKMW-MGsbFhVpDnWvI8R6tiCgkDo9Ib6RjtmHTyBmq-ymFhf7JJIWOD4R76qKp6Z2OItF9td5XM1TrvHFcmOtF8XNw7pG-j9dax3vdJGD4CmuqMGUqYbQgcCdA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/beFRJ2dob2cgvw_dYKWYIjzLQoUuoXwfdKTnMkJwT64TFwGtlaoO_U45cVYcX--lcykWvisJ3pgcDVXpxloWkE1tskp8-qI4pp4yg7vhWquJpqZN7MeWCYEGBpoVn8jwve9GFbiwVUNwUThV1qR5gFHDKP9lsT_v3npoQL_x0NTatEaBmLvS1vr4QI2XsXCjv-LQ9Dn1TN-AIxLeN9jAkqc_fhxfxcTEmvyCzPZ0zFXOMJkQwKTYl94LUN_9jN8nImE5KrwMq_LHsXf7dj4pGMGNztvyePuEwJR0K-6qG0GPD2TOeX1OSS4G9HgbOaFGfUhB-XnsldmPyP5W0d-26w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785571883438,
+    "type": "drone",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hostile drone flies over Beirut's southern suburb.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785571924933,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Submitted Vessel in queue awaiting transit through the closed Strait of Hormuz",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/T137lr1Ol1w-L0C3DYpuyHFiTZxZPDnseXvoDLZCdrR9PeFx7G68GGpq0hYh3J4ZanKGmTxDAMo5eLe3heSIdX4GlP-G5K9lVoRiGk3jZIfXyeGZsEmhvFlioU7Z8hQQfDMRsrTNEsc9h5aex601Dr9Q7KsXuOhyBjdjP3mrIg-jx6FHREn7eMIeoyLU_I1_BHhzlz0La5D5WSFF5gt5t5Vzn1P2WjmHTMD_sbhAcI_jj-Y8aKi-gKosw-WazyBL3XPqK6pOc5OipxpDcQABii0uhtWcVV9BSe3vG3R-QQsEWaVEU_1U-2WkoMUi1bbBeS2Vhso-avz_Qm7VkLDqSA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785571966865,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺US child-killing in Qeshm with a 2,000-pound bomb🔹The New York Times reported that the US used a 2,000-pound bomb called the Mark-84, \"one of the largest conventional bombs used by the United States military,\" in the terrorist attack that led to the martyrdom of two-year-old Sina Jafari in Qes...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fcgxOomZ0jTRyUDFbGQiEfRais8jru8py40caMNloEAD7g-4su_cPDAdns7oAzTRq7BnCrO-ouj6gy7ID2VbkqBE4su2C5OE4DPXasgl5l6I4l2vA84kqezHSHYh6mbBjEf2AKrr8hhu8CSBSiZkTx8RB6f2hf8JbiphHep8eHiVJaiaKrG4VBl_LF40nVygisB5lXqU-yVD3ncMYobOPzLRed3zyhX9hgzurk8ZwPUk4nLw_Pzn3oPCsoP01E5lguryQKvytC9UrboUIhaGjy_1pK5xfHg5--hnhGa8cUBvyVPVn1xUxvAqC9eWyoYE6traUiTdHc-O7OrexNBiPg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785571884083,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ In the name of God, the Most Gracious, the Most MercifulA statement issued by the Palestinian Mujahideen MovementThe criminal escalation in Gaza confirms the Zionist insistence on continuing the war of extermination and striking all efforts aimed at stopping the aggression.We affirm that the cont...",
     "media": [],
     "verified": false
   }

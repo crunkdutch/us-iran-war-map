@@ -86008,7 +86008,24 @@
     "description": "⚡️ Municipalities of affected villages mobilize and call for a peaceful sit-in and movement…&#33;&#33;The municipalities of Kfartibnit, Zawtar al-Sharqiyah, Zawtar al-Gharbiyah, Nabatieh al-Fawqa, Yahmar, and Arnoun called for participation in a peaceful sit-in in front of the Nabatieh Governorate, at 10:00 AM on Saturday, August 1, 2026, in rejection of the continued Israeli aggressions and bombing and demolition operations targeting southern villages, civilian homes, and their properties.The m",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YT6Nvk9w2ptomdGp88kWDZikigb7CEKtfDx38KOJP4kPx3e1mDlex6G6xHJZYzf_I0d34fU1EeHSEVE-n1NoZZImT2G4zD_qi3O4xbC9uTVOTrhmO5OHvOSozKcwiTkPKH0x_H5ZaipHcwnGS2P0wiJ5v1_UNYqNOHyYwwfDnfLZf0qKzIDUC8FJGMqBGj5mInBRjYdwreGDn8EAdZ7OBXdn-rcjtrSQunvmkmZEI7pVC5xbWsoEvm2s8fMNrnEjMP81ODYLHlMhqFJ3h5XCH_OZDBHZTJUcmmT8Y9SfO01Z7dt5BzFHTlihNbvjig8LCB7w2b_d9x3P5_BpCHqqsA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/prdOxyb3ryLi5t79umYVg0J68BhrWsB5Lp1hBH_UpzAUrxMdnPP8NhgSVDdmMAdz-WRblgi_KGh1I5yiQUgkR6Ew7C2wkLT09NybScSyPuOMc3Mp57E6_qBL5IXjKu3DmvD0aWWWsk6PHd2NBaaGoj6_A8k66snvMowWHWNePNFLwmyb3AsWnqgxg5Ae9LAVWxsu_CpSXT03uPWfyng2wMbsRhkjHpixn9GrjizRF0yjp9Sfi4HCSJ7GfTwJoarYabrHBhq8CFECng7RjmV04tPP94x3ZxxwmHO95PJdGQWIy21uJ0Wmr99dv64IpPA2Ch9ehQzzhxkKJXnZ2ciafA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jJ174511_gKfF4ZUxrZMPJVDOv2pvxbucASRZUN_9RnwbHjOy7fVcAufc7tRrdFxVPamVukaxY4xAsV-cn_gk5MBm76n4TLphsA_ldGXj2PugQN0bvakpuWIaobtr75a7eHGNEEh0H_YelZ1Fc3_8KEQrTiybLFWsN-ejJ0Stnp5_rnyEKnx3xunUFAmpzd7-iwg2LPhke2LwNBrbUKmR2o4wsBfxKMW-MGsbFhVpDnWvI8R6tiCgkDo9Ib6RjtmHTyBmq-ymFhf7JJIWOD4R76qKp6Z2OItF9td5XM1TrvHFcmOtF8XNw7pG-j9dax3vdJGD4CmuqMGUqYbQgcCdA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/beFRJ2dob2cgvw_dYKWYIjzLQoUuoXwfdKTnMkJwT64TFwGtlaoO_U45cVYcX--lcykWvisJ3pgcDVXpxloWkE1tskp8-qI4pp4yg7vhWquJpqZN7MeWCYEGBpoVn8jwve9GFbiwVUNwUThV1qR5gFHDKP9lsT_v3npoQL_x0NTatEaBmLvS1vr4QI2XsXCjv-LQ9Dn1TN-AIxLeN9jAkqc_fhxfxcTEmvyCzPZ0zFXOMJkQwKTYl94LUN_9jN8nImE5KrwMq_LHsXf7dj4pGMGNztvyePuEwJR0K-6qG0GPD2TOeX1OSS4G9HgbOaFGfUhB-XnsldmPyP5W0d-26w.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477364706,
@@ -86481,6 +86498,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477398441,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm: childkilling Qeshm with 2000pound bombThe York",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 3,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔺US child-killing in Qeshm with a 2,000-pound bomb🔹The New York Times reported that the US used a 2,000-pound bomb called the Mark-84, \"one of the largest conventional bombs used by the United States military,\" in the terrorist attack that led to the martyrdom of two-year-old Sina Jafari in Qeshm.🔹\"Images show the United States dropped a 2,000-pound bomb on a house in Iran, killing 3 people.\"🔹The American media outlet clarified that it \"found no indication of a military site near the fami",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fcgxOomZ0jTRyUDFbGQiEfRais8jru8py40caMNloEAD7g-4su_cPDAdns7oAzTRq7BnCrO-ouj6gy7ID2VbkqBE4su2C5OE4DPXasgl5l6I4l2vA84kqezHSHYh6mbBjEf2AKrr8hhu8CSBSiZkTx8RB6f2hf8JbiphHep8eHiVJaiaKrG4VBl_LF40nVygisB5lXqU-yVD3ncMYobOPzLRed3zyhX9hgzurk8ZwPUk4nLw_Pzn3oPCsoP01E5lguryQKvytC9UrboUIhaGjy_1pK5xfHg5--hnhGa8cUBvyVPVn1xUxvAqC9eWyoYE6traUiTdHc-O7OrexNBiPg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477331196,
