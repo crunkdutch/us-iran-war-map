@@ -186884,6 +186884,58 @@
     "verified": false
   },
   {
+    "id": 1785589956458,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇺🇸/🇮🇷/🇮🇶 NEW: An American C-130 plane is seen in the sky over Iraqi KurdistanPossibly leaving Erbil ahead of an anticipated escalation with Iran.@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/702f0771bd.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Oh4dNmsS7P_vI5FvX3cU_NPyM7qzV0qj6dr-viTzjsJ-nscnx2mzKdEUbUGOeHLPXnIaAnWvFOoLW3fYcquRhv_WqGqcjrk1AYn2GIkGfPcVd-_Lxms22rVFjYbgBMQqPdou21DAhuFzIkaV6MiezYf3VzI7-y1FA3YzclcYc9iG9Sf8juruEQu3wdfbbPuuZVR9u2g3ZLUnP_aFUlVoomY6bMfv_weM8yLQfjXSOyGdwLiqFvrbJwy6O5E6V00l-s-gqKvOIWXITa0kld40cT_2uD4nmbiTepMoH-X86SHsSu1R8rpXxaoJ4ctKoR6P1ohmJJlZPuGfYSxlWCNi3A"
+      },
+      {
+        "url": "https://t.me/Middle_East_Spectator/35673",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Oh4dNmsS7P_vI5FvX3cU_NPyM7qzV0qj6dr-viTzjsJ-nscnx2mzKdEUbUGOeHLPXnIaAnWvFOoLW3fYcquRhv_WqGqcjrk1AYn2GIkGfPcVd-_Lxms22rVFjYbgBMQqPdou21DAhuFzIkaV6MiezYf3VzI7-y1FA3YzclcYc9iG9Sf8juruEQu3wdfbbPuuZVR9u2g3ZLUnP_aFUlVoomY6bMfv_weM8yLQfjXSOyGdwLiqFvrbJwy6O5E6V00l-s-gqKvOIWXITa0kld40cT_2uD4nmbiTepMoH-X86SHsSu1R8rpXxaoJ4ctKoR6P1ohmJJlZPuGfYSxlWCNi3A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785589972814,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇺🇸/🇮🇷/🇮🇶 NEW: An American C-130 plane is seen in the sky over Iraqi KurdistanPossibly leaving Erbil ahead of an anticipated escalation with Iran.@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/702f0771bd.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Oh4dNmsS7P_vI5FvX3cU_NPyM7qzV0qj6dr-viTzjsJ-nscnx2mzKdEUbUGOeHLPXnIaAnWvFOoLW3fYcquRhv_WqGqcjrk1AYn2GIkGfPcVd-_Lxms22rVFjYbgBMQqPdou21DAhuFzIkaV6MiezYf3VzI7-y1FA3YzclcYc9iG9Sf8juruEQu3wdfbbPuuZVR9u2g3ZLUnP_aFUlVoomY6bMfv_weM8yLQfjXSOyGdwLiqFvrbJwy6O5E6V00l-s-gqKvOIWXITa0kld40cT_2uD4nmbiTepMoH-X86SHsSu1R8rpXxaoJ4ctKoR6P1ohmJJlZPuGfYSxlWCNi3A"
+      },
+      {
+        "url": "https://t.me/Middle_East_Spectator/35673",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Oh4dNmsS7P_vI5FvX3cU_NPyM7qzV0qj6dr-viTzjsJ-nscnx2mzKdEUbUGOeHLPXnIaAnWvFOoLW3fYcquRhv_WqGqcjrk1AYn2GIkGfPcVd-_Lxms22rVFjYbgBMQqPdou21DAhuFzIkaV6MiezYf3VzI7-y1FA3YzclcYc9iG9Sf8juruEQu3wdfbbPuuZVR9u2g3ZLUnP_aFUlVoomY6bMfv_weM8yLQfjXSOyGdwLiqFvrbJwy6O5E6V00l-s-gqKvOIWXITa0kld40cT_2uD4nmbiTepMoH-X86SHsSu1R8rpXxaoJ4ctKoR6P1ohmJJlZPuGfYSxlWCNi3A"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -188833,6 +188885,155 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ For the first time, the US Embassy in Egypt issues a warning:- Americans in the region should consider departing or preparing to depart if tensions escalate.",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785589926081,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Local sources: Two explosive devices defused near the entrance to the al-Daatour neighborhood in Latakia city, northwestern Syria",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785589932552,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The occupation is carrying out bulldozing operations in the vicinity of Shaqif Castle, south Lebanon.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/67bd9e5544.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/EShkAkexMPAM5gguenSE8WXF6EdaL1NHzUvlZbl4LP1PZfYj9GnQXVAeDDLKatXo2H19V0hXmtm1HbXEr7V71VaqS-kaNFb5fQa18SILHAzb0lk5863y_sLPeTkrqw9kNVLvz9-hPw_iEPKTPMVu6aOr7TvNZ3xPnD6liihD999f4QHeBZwvqOaziLvds11rsEYQsPoTbT3kaq-bQbm9NoXjkUY9S8yjt2k5zLSuJY1YhrsUexQaCVvp0GpsvXG4iXqx_9WjwhV8VTyPg9MObw4DopBklFoObQkoAwhgYhYcRjeGSx3wRkokYggYwJ3zqWoGlO3zhhSzBsZjimllEw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059450",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/EShkAkexMPAM5gguenSE8WXF6EdaL1NHzUvlZbl4LP1PZfYj9GnQXVAeDDLKatXo2H19V0hXmtm1HbXEr7V71VaqS-kaNFb5fQa18SILHAzb0lk5863y_sLPeTkrqw9kNVLvz9-hPw_iEPKTPMVu6aOr7TvNZ3xPnD6liihD999f4QHeBZwvqOaziLvds11rsEYQsPoTbT3kaq-bQbm9NoXjkUY9S8yjt2k5zLSuJY1YhrsUexQaCVvp0GpsvXG4iXqx_9WjwhV8VTyPg9MObw4DopBklFoObQkoAwhgYhYcRjeGSx3wRkokYggYwJ3zqWoGlO3zhhSzBsZjimllEw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785589998662,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A small-scale exercise was held between Cyprus and the Royal Jordanian Air Force.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785589992331,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Turkey: Turkish Parliament Speaker: The \"Turkey Free of Terrorism\" bill will be presented to Parliament as a joint proposal by the parties next week",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785589961554,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 Father of student martyr Mehdi Salari: I always feel that Mehdi is with us.🔹 Imam Hussein is the refuge for the hearts of the fathers and mothers of the martyrs of Shajareh Tayebeh Minab School.",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/79d7daeb5d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/f-6qtrheI6ZImFayeR4lq4pjglu7GM6Cz-N_udVq-6FkszOyVtQ2QB-M3FvxcQHHxN0s8M0FId5nNfBG4xIZesVj49sNYey-Rx56M0XZnfFyEHzNpJWo74MpQnIi7O5g72ptbegysvdbuOjUdIsPmMMPCM4TuS7FYh0pfmLMN7C9Ol94XDlom4Ig_HuCfdCxTkxyAva0GsffxcHemZbUtjQdwD8Ij8_-Rui4qMhhi6yfUsof3w3W3MvKsQiB6iKfcYkU1wL57VG2hVIQqX8zxa5eefTIBY8U1_ecayas9AO4qXKH5Pm8CVAJPw6Ot7LVKaxRbVSRu09omFCfHtrYNg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059456",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/f-6qtrheI6ZImFayeR4lq4pjglu7GM6Cz-N_udVq-6FkszOyVtQ2QB-M3FvxcQHHxN0s8M0FId5nNfBG4xIZesVj49sNYey-Rx56M0XZnfFyEHzNpJWo74MpQnIi7O5g72ptbegysvdbuOjUdIsPmMMPCM4TuS7FYh0pfmLMN7C9Ol94XDlom4Ig_HuCfdCxTkxyAva0GsffxcHemZbUtjQdwD8Ij8_-Rui4qMhhi6yfUsof3w3W3MvKsQiB6iKfcYkU1wL57VG2hVIQqX8zxa5eefTIBY8U1_ecayas9AO4qXKH5Pm8CVAJPw6Ot7LVKaxRbVSRu09omFCfHtrYNg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785589966774,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Israeli army spokesperson: Last night, an Israeli army officer was moderately wounded during a military operation in southern Lebanon. The soldier was taken to the hospital for treatment, and his family has been notified. @SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ec042f9857.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RMoarPmYe--HKylcFKMEBpZgsGXPWwIBvStbrNTDdBA8LyjrwgLyg6HVXeieMxAFbLU7V5SAjGfGtTkWjxDCu1MlF5H8gIuGGVZUmDtNHxKK1n7bRI4n3GQSjZRjzvQSzohzr4WlzhegQAsQy5G0liRUQOdf0AuxQg4SPPnkjZDEYpR6uQtvhYSSEG97Gav00EXdG7Z9WigZNeJ2fKlIAsegpI0C9TrFAXp0AKkm-c7K0B9xVskrH_bIK8naOD4uU_XOeRpY_5BVLWlA3W2z2V47jGfRbJN4myFPwOgtwE3cCM3KZDfgT44jZ9Wemd2hxJlsvnPrJSqus6v_ptWUqg"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8405",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RMoarPmYe--HKylcFKMEBpZgsGXPWwIBvStbrNTDdBA8LyjrwgLyg6HVXeieMxAFbLU7V5SAjGfGtTkWjxDCu1MlF5H8gIuGGVZUmDtNHxKK1n7bRI4n3GQSjZRjzvQSzohzr4WlzhegQAsQy5G0liRUQOdf0AuxQg4SPPnkjZDEYpR6uQtvhYSSEG97Gav00EXdG7Z9WigZNeJ2fKlIAsegpI0C9TrFAXp0AKkm-c7K0B9xVskrH_bIK8naOD4uU_XOeRpY_5BVLWlA3W2z2V47jGfRbJN4myFPwOgtwE3cCM3KZDfgT44jZ9Wemd2hxJlsvnPrJSqus6v_ptWUqg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785589993513,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Israeli army spokesperson: Last night, an Israeli army officer was moderately wounded during a military operation in southern Lebanon. The soldier was taken to the hospital for treatment, and his family has been notified. @SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ec042f9857.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RMoarPmYe--HKylcFKMEBpZgsGXPWwIBvStbrNTDdBA8LyjrwgLyg6HVXeieMxAFbLU7V5SAjGfGtTkWjxDCu1MlF5H8gIuGGVZUmDtNHxKK1n7bRI4n3GQSjZRjzvQSzohzr4WlzhegQAsQy5G0liRUQOdf0AuxQg4SPPnkjZDEYpR6uQtvhYSSEG97Gav00EXdG7Z9WigZNeJ2fKlIAsegpI0C9TrFAXp0AKkm-c7K0B9xVskrH_bIK8naOD4uU_XOeRpY_5BVLWlA3W2z2V47jGfRbJN4myFPwOgtwE3cCM3KZDfgT44jZ9Wemd2hxJlsvnPrJSqus6v_ptWUqg"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8405",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RMoarPmYe--HKylcFKMEBpZgsGXPWwIBvStbrNTDdBA8LyjrwgLyg6HVXeieMxAFbLU7V5SAjGfGtTkWjxDCu1MlF5H8gIuGGVZUmDtNHxKK1n7bRI4n3GQSjZRjzvQSzohzr4WlzhegQAsQy5G0liRUQOdf0AuxQg4SPPnkjZDEYpR6uQtvhYSSEG97Gav00EXdG7Z9WigZNeJ2fKlIAsegpI0C9TrFAXp0AKkm-c7K0B9xVskrH_bIK8naOD4uU_XOeRpY_5BVLWlA3W2z2V47jGfRbJN4myFPwOgtwE3cCM3KZDfgT44jZ9Wemd2hxJlsvnPrJSqus6v_ptWUqg"
+      }
+    ],
     "verified": false
   }
 ]

@@ -87124,6 +87124,38 @@
     "media": []
   },
   {
+    "id": 477436946,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "CENTCOM Missile Strike — Red Sea, Israel: Washington Post newspaper Supreme Commander Forces",
+    "location": "Red Sea, Israel",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Washington Post newspaper:- The Supreme Commander of US Forces in Europe warns the Pentagon of the insufficient number of naval destroyers, stressing that they cannot protect Israel from Iranian ballistic missile attacks while simultaneously meeting US defense needs.- The destroyers are under great pressure as a result of operations in the Mediterranean Sea, the Red Sea, and around Iran, while maintenance problems have further reduced their readiness.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
