@@ -85942,6 +85942,38 @@
     "media": []
   },
   {
+    "id": 477364706,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Oman: Reuters Maritime Trade Operations agency says",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Reuters: The UK Maritime Trade Operations agency says a tanker was hit by an unknown projectile northeast of Lima in the Sultanate of Oman.• 03:32 — Reuters: The tanker was hit by a projectile, causing it to lose control after the engine room was damaged. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
