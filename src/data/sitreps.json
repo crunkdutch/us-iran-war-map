@@ -186375,5 +186375,25 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785561082822,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 UK Maritime Trade Operations: - We received a report of an incident 11 nautical miles northeast of Lima, Oman. - The engine room of an oil tanker was damaged after being hit by a projectile off Lima, Oman.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ob-aF79cb2Nqeqd_IVcUZTa7CRkT7-PVh-4MQzAcPxvVul0DLQ71_RRb2P5bN6_MvkWusDHdSFFA7cEJcmlOuYqVc5xnfzyHljO7m4pthwUVfXnm2gZoebihHkgi1JFhnmH-ool-4Yh2MKUZUPaMkPNRgQskiyXAsWuYkkCE_MgVGoR2u7wGHDpnbM4o8BZ3VsDMxJYA4IKR-TSb0m42ZTU8VF-3oHzIMCytJFUvD6zZt8wifxHZSzLKIWu2SLhCz8N7DGVfNO5_7MwC97djs4yCHq8EGllbCmSI0j-1-4Bno3QMIWDBxnEJBt-uhyXj9S_bmUafA80SA5dZOuQ6Ew.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
