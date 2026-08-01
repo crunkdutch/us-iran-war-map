@@ -191089,5 +191089,95 @@
     "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: Israeli occupation forces carry out a demolition operation north of Beit Lahia, northwest of the Strip",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785609404576,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Occupation Economy Minister Nir Barkat:We do not want Palestinian workers working for us, and we will destroy and dismantle the Palestinian Authority, and we will bring in more foreign workers.Our goal is to reach 0% reliance on Palestinian labor very soon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785609414151,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Channel 12 Hebrew: The security establishment is preparing for several scenarios that may develop regarding Iran, perhaps even in the coming days. The first scenario: the Iranians decide to open fire on \"Israel,\" the reason being the understanding that…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785609380720,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iran: Al Mayadeen correspondent in Tehran: The enemy has come to realize that its bet on separating the street and the people from the leadership is a failed and unrealistic one.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785609411641,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Development and Liberation Bloc member MP Mohammad Khawaja via the X platformAs long as Netanyahu and his army commanders openly declare that they will not withdraw from the occupied territories in southern Lebanon, and persist in committing crimes of burning towns and villages, systematic destru...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785609389287,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Jordan has informed Iraq that it will attack the pro-Iranian militias",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785609389277,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Jordan has informed Iraq that it will attack the pro-Iranian militias",
+    "media": [],
+    "verified": false
   }
 ]

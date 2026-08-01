@@ -87598,6 +87598,38 @@
     "media": []
   },
   {
+    "id": 477464300,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Bahrain, Israel: Baqaei Those invoking Prophets message must",
+    "location": "Tehran, Bahrain, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Baqaei: Those invoking Prophet's message must first assess their own conduct📌 Tehran, IRNA – Iran’s Foreign Ministry spokesperson Esmaeil Baqaei has criticized the stance of some neighboring countries during the recent US-Israeli aggression, saying those who invoke the message of Prophet Muhammad (PBUH) should assess their own governments’ conduct against Islamic principles.In a post on X on Saturday in the Arabic language, Esmaeil Baqaei said Iran is a nation with an ancient and rich civili",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
