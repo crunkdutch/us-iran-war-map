@@ -186471,6 +186471,26 @@
     "verified": false
   },
   {
+    "id": 1785570147248,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iranian Arbaeen pilgrims entering Iraq through Chazabeh border crossing📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/j05l4FB4qSeO8Pv7fiG_EQPfWbgu8a0heEpfVsw9IBL_GwLGTe7meDkPlXAb0NRslJe_QH48HB2SUAGOMIPEQ8CdnvXKHv0z8lUQaG1fomanFexTbV0N4i4OCB2pB0cdwBajwuU4PI4OF0FqHVezjDOcRRejH_KcdCAE8ZS87Oje1udpC_1upNR6L4ujfUZXzpnvukBqBiIRSaw5zSyOGoi8lpxz7vt0LnLcWCrsjO_t1GgIEcvjYWO-Hh1SAG2E-kG10dI8aLtlajRdbA7Exsi32aMUAF4kZELkN0n3kYFeDGL2V4IaM9K9G6s93DyRP3wngnByzxuyIZTIIBizSA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -187012,6 +187032,21 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Iranian Revolutionary Guard Corps: The Strait of Hormuz is closed, and passage or navigation through it will not be possible except in coordination with our naval forces.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785570174610,
+    "type": "missile",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza:Targeting by reconnaissance aircraft west of Gaza CityTargeting with two reconnaissance missiles in the vicinity of Third Street in Sheikh Radwan neighborhood",
     "media": [],
     "verified": false
   }

@@ -86451,6 +86451,38 @@
     "media": []
   },
   {
+    "id": 477396185,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Gaza City: GazaTargeting reconnaissance aircraft west Gaza CityTargetin...",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Gaza:Targeting by reconnaissance aircraft west of Gaza CityTargeting with two reconnaissance missiles in the vicinity of Third Street in Sheikh Radwan neighborhood",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
