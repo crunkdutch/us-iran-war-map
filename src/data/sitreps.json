@@ -180711,6 +180711,51 @@
     "verified": false
   },
   {
+    "id": 1785566503470,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Five flights leave Iran’s Rasht for Iraq’s holy cities📌 Rasht, IRNA — The Director General of Sardar Jangal Rasht International Airport announces that five Arbaeen flights have departed Rasht, carrying Iranian pilgrims to the holy cities of Najaf and Baghdad.Speaking to IRNA late on Friday, Mohs...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785566571382,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Five flights leave Iran’s Rasht for Iraq’s holy cities📌 Rasht, IRNA — The Director General of Sardar Jangal Rasht International Airport announces that five Arbaeen flights have departed Rasht, carrying Iranian pilgrims to the holy cities of Najaf and Baghdad.Speaking to IRNA late on Friday, Mohs...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785566506494,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Five flights leave Iran’s Rasht for Iraq’s holy cities📌 Rasht, IRNA — The Director General of Sardar Jangal Rasht International Airport announces that five Arbaeen flights have departed Rasht, carrying Iranian pilgrims to the holy cities of Najaf and Baghdad.Speaking to IRNA late on Friday, Mohs...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -186718,6 +186763,103 @@
         "url": "https://t.me/me_observer_TG/1059220",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/H3fUIRpaQqp6iTjv9Pt7xbOsC715ZdRUEmciZZbxDjAwZiq85_Efc-x9BfvWZoXXakzBXnpxdizyGO1ztNf2xDRTTSUZjvKuEID2jPRAgmInLEO3G8viSn_LlLYtxJ_BlxFga38vrl6bUP6nnT-NBTNAlOeeMFdrtEyyitQvHd1U6GL0WAOFSV90VbbF8wtQ41VEJaXzARjnGvMj0KjNYNuGRgnB0MGTjjXwS43NJbofEpbZB1qDH_XMmQIFUjljbj9O5_p_FBAnL3c3ErNJSQxI3o6upLcAjM0Fp0kJ0_w0eRQWGt8ALK28Qb-UI3NSkkUnLYaTAyoYhJ4viCR6nw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785566503082,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ • Israeli Kan Channel:The United Arab Emirates welcomed the agreement reached between Hamas and the Peace Council: \"An important development towards ending the conflict, enhancing security and stability, and providing the necessary conditions for launching a political process that leads to sustai...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785566508934,
+    "type": "intercept",
+    "location": "Ali Al Salem Air Base",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Air defenses activated at Ali Al Salem Air Base.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785566518464,
+    "type": "missile",
+    "location": "Ali Al Salem Air Base",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ ⭕️ Ali Al Salem Air Base targeted by missiles, smoke plumes rising",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785566512300,
+    "type": "airstrike",
+    "location": "Al Udeid Air Base",
+    "coordinates": [
+      25.1175,
+      51.318
+    ],
+    "date": "2026-08-01",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🎥 The fate of the three pilots present in the Iranian Army's March 1 operation against the US Al Udeid Air Base in Qatar",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fdd7256329.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/oojEVqZolapVz5Fvnv33X7GB4unWOIwHEB-AGlNF3F5TU1AuI-gHFea5tBARdehTsxtGI2pFGHIijq0sY97Cxv80Fxyoi4NqaYZCj5wAudru0O8d7KVY3-25P9NHYVEjHmZDZqQrFzaIVTPuXJ9frzuHzUCN1q6AbSEA9I2FfwSHipjBJ_X7Euaej6abJwSQKhhvBNY4e9wNmUJ2QHtyi4_tP9ZTpxF9QB0lP_4W52jlopzji5oCMbjFJxG4LSHvrwpE2nQ0uyZ3B3oCGhxg3J3LTaUitayCkyjH5ZwMptrIN78rmnvaYYB73Ad2ITPuQeqx87samqCqvUJho0b-Hw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059232",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/oojEVqZolapVz5Fvnv33X7GB4unWOIwHEB-AGlNF3F5TU1AuI-gHFea5tBARdehTsxtGI2pFGHIijq0sY97Cxv80Fxyoi4NqaYZCj5wAudru0O8d7KVY3-25P9NHYVEjHmZDZqQrFzaIVTPuXJ9frzuHzUCN1q6AbSEA9I2FfwSHipjBJ_X7Euaej6abJwSQKhhvBNY4e9wNmUJ2QHtyi4_tP9ZTpxF9QB0lP_4W52jlopzji5oCMbjFJxG4LSHvrwpE2nQ0uyZ3B3oCGhxg3J3LTaUitayCkyjH5ZwMptrIN78rmnvaYYB73Ad2ITPuQeqx87samqCqvUJho0b-Hw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785566552052,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-08-01",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🎥 The fate of the three pilots present in the Iranian Army's March 1 operation against the US Al Udeid Air Base in Qatar",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fdd7256329.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/oojEVqZolapVz5Fvnv33X7GB4unWOIwHEB-AGlNF3F5TU1AuI-gHFea5tBARdehTsxtGI2pFGHIijq0sY97Cxv80Fxyoi4NqaYZCj5wAudru0O8d7KVY3-25P9NHYVEjHmZDZqQrFzaIVTPuXJ9frzuHzUCN1q6AbSEA9I2FfwSHipjBJ_X7Euaej6abJwSQKhhvBNY4e9wNmUJ2QHtyi4_tP9ZTpxF9QB0lP_4W52jlopzji5oCMbjFJxG4LSHvrwpE2nQ0uyZ3B3oCGhxg3J3LTaUitayCkyjH5ZwMptrIN78rmnvaYYB73Ad2ITPuQeqx87samqCqvUJho0b-Hw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059232",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/oojEVqZolapVz5Fvnv33X7GB4unWOIwHEB-AGlNF3F5TU1AuI-gHFea5tBARdehTsxtGI2pFGHIijq0sY97Cxv80Fxyoi4NqaYZCj5wAudru0O8d7KVY3-25P9NHYVEjHmZDZqQrFzaIVTPuXJ9frzuHzUCN1q6AbSEA9I2FfwSHipjBJ_X7Euaej6abJwSQKhhvBNY4e9wNmUJ2QHtyi4_tP9ZTpxF9QB0lP_4W52jlopzji5oCMbjFJxG4LSHvrwpE2nQ0uyZ3B3oCGhxg3J3LTaUitayCkyjH5ZwMptrIN78rmnvaYYB73Ad2ITPuQeqx87samqCqvUJho0b-Hw"
       }
     ],
     "verified": false

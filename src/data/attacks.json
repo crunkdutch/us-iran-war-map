@@ -86355,6 +86355,102 @@
     ]
   },
   {
+    "id": 477389423,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Interception — Ali Al Salem Air Base: defenses activated Salem Base",
+    "location": "Ali Al Salem Air Base",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Air defenses activated at Ali Al Salem Air Base.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477391676,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Ali Al Salem Air Base: Salem Base targeted missiles smoke plumes",
+    "location": "Ali Al Salem Air Base",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ ⭕️ Ali Al Salem Air Base targeted by missiles, smoke plumes rising",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477393930,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Interception — Kuwait: Kuwait Armed Forces General StaffCurrently Kuwaits",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Kuwait Armed Forces General Staff:Currently, Kuwait's air defense is confronting hostile drone attacks that have been carried out following the Iranian attack.The General Staff of the Kuwaiti Armed Forces announced that if an explosion sound is heard, it is due to the interception and destruction of hostile targets by air defense systems.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
