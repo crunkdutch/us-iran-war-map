@@ -186936,6 +186936,21 @@
     "verified": false
   },
   {
+    "id": 1785597194296,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷 Secretary of Iran's Supreme National Security Council, Mohammad Baqer Zolghadr:The continued maritime blockade and provocations by the American regime will not be limited to tightening the closure of the Strait of Hormuz, but will also lead to the closure of other straits and waterways. The glo...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -189672,6 +189687,111 @@
     "source": "Telegram (simurgh)",
     "sourceUrl": "https://t.me/s/simurgh",
     "description": "The US Embassy in the UAE is urging its citizens to leave the region.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785597178199,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Turkish Energy Minister: Turkey and Iraq sign a one-year agreement to use the oil pipeline leading to Ceyhan port",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785597176875,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Turkish Energy Minister: Turkey and Iraq sign a one-year agreement to use the oil pipeline leading to Ceyhan port",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785597139426,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Washington Post, citing an Israeli official: Israel demands the complete disarmament of Hamas as a precondition for any operation",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785597105212,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Washington Post, citing an Israeli official: We will not withdraw from the Yellow Line before disarming Hamas and making the Gaza Strip a demilitarized zone.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785597111740,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Washington Post, citing an Israeli official: We will not withdraw from the Yellow Line before disarming Hamas and making the Gaza Strip a demilitarized zone.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785597098583,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hostile drone overflight in the airspace of: Al-Qassibeh - Kfarsir - Breiqa.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785597109466,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸The US Embassy in the UAE is urging its citizens to leave the region.@SimurghRes",
     "media": [],
     "verified": false
   }
