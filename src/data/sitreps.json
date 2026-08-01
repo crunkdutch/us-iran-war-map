@@ -192387,5 +192387,25 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785625101726,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📸 Israel's plot against Spain by creating a migration crisis for the country is the subject of Arab cartoonist \"Alfon al-Muqawim\"🔹Israel wants to bring down the Sanchez government (a critic of Israel) by creating a migration crisis. The Zionist lobby tolerates no opposition in the world.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/NCHgBiezFi8BYEgIjboRtDe1-2w14pTZ6YlN7k3AvDjMGEHTitB3AEJgQbZyZd9fe-kDB1N-YcERxKS6hsQBxjAKFZ67DaC2hNaGxKcHdk3vAOJ3JxKqIwwQe8T8zkveC5gQcp5Chkqxn2jM4R9t8bu4gDqcxdcGogFOCXfymuSAxg34MFItTyB4RVvXobX0wi4Sg0SWhrptp4DcoYufax8TB2eTEudl-w54OZqeH4VO8EvhrK5d4vHN6kIRXUvICzLH-CgeP9SwKsw1x4SB9w-5fpg4GnsXQSgmZVbxwKBVUsVkXEFMX9pxKrR7ykUMMcTCol4xR-cQl7JbyQuEUw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
