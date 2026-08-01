@@ -361,6 +361,51 @@
     "verified": false
   },
   {
+    "id": 1785588167569,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Eight Palestinians killed in Gaza; death toll nears 73,350📌 Tehran, IRNA – At least eight Palestinians have been killed in the latest Israeli attacks on the Gaza Strip, bringing the total number of fatalities from the nearly three-year-long war to 73,349.According to a statement by the Gaza Heal...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785588126521,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Eight Palestinians killed in Gaza; death toll nears 73,350📌 Tehran, IRNA – At least eight Palestinians have been killed in the latest Israeli attacks on the Gaza Strip, bringing the total number of fatalities from the nearly three-year-long war to 73,349.According to a statement by the Gaza Heal...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785588121485,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Eight Palestinians killed in Gaza; death toll nears 73,350📌 Tehran, IRNA – At least eight Palestinians have been killed in the latest Israeli attacks on the Gaza Strip, bringing the total number of fatalities from the nearly three-year-long war to 73,349.According to a statement by the Gaza Heal...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -188773,6 +188818,21 @@
         "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785588156843,
+    "type": "airstrike",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2026-08-01",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ For the first time, the US Embassy in Egypt issues a warning:- Americans in the region should consider departing or preparing to depart if tensions escalate.",
+    "media": [],
     "verified": false
   }
 ]

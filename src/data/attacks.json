@@ -87092,6 +87092,38 @@
     ]
   },
   {
+    "id": 477434673,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Lebanon, Syria, Jordan: expansion disruption satellite positioning systems Zionist",
+    "location": "Lebanon, Syria, Jordan, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ The expansion of disruption in satellite positioning systems (GPS) by the Zionist regime, which has extended to parts of Lebanon and Syria, indicates that electronic warfare has become a constant component of Israel's layered defense. In such an environment, any weapon system that relies on satellite navigation for part of its trajectory and does not possess effective compensatory methods may face reduced accuracy and an increased circular error probable (CEP). Therefore, electronic warfare c",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
