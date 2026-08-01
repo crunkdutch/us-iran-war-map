@@ -187671,5 +187671,20 @@
     "description": "⚡️ European Union Naval Force: A merchant ship crossed the Red Sea safely under the protection of an Italian frigate",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785578532572,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Reuters: German company Fuchs halts operations at its facility in Yanbu, Saudi Arabia",
+    "media": [],
+    "verified": false
   }
 ]
