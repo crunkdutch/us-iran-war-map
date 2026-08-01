@@ -86769,7 +86769,12 @@
     "description": "⚡️ An occupation drone strike in the vicinity of the Deir al-Balah roundabout in the central Gaza Strip.",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qTdpdYOrd6S_UE2CTnZYY7BaqyqJWrLVSg4iUZ5ZzqQpmWbVNQINzftPRwRpvhNvnXKBJOWKDbn-RUJt8Mgx7iQ39wAVrdCm3XKMUqIoXwV9M0uDF8g86x60S9-NZN9I7_IMl8SgOe0fXrVPCRPA7HXCuFAo1yXy10yKUS5GVUmtQZ_HRjevmpn0HY_Y3tIqjRfxJEk7Op2Fsm4I19qHoal-bUrYHuHKbfxtHOwQPb3DEzWp9D0woeUGNECCiFiW5zU9iiR_v2hKyACI1IZcR8N5-Mz46sEpGYGQ5YlDJgUIUfnnqmIXrAP29S4-L1DVkzePkkdD86KCYSZ-wX4lFg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477416525,
@@ -86874,6 +86879,145 @@
       "other": 0
     },
     "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: A martyr and a critically injured person arrived at Al-Aqsa Martyrs Hospital as a result of the recent Israeli attacks.• 09:27 — Occupied Palestine: Al Mayadeen correspondent: 3 martyrs in Israeli raids on Gaza City and Deir al-Balah since this morning (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477423323,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Isfahan: Possibility hearing controlled explosions south west",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔺Possibility of hearing controlled explosions in the south and west of Isfahan🔹Director General of Crisis Management of Isfahan Governorate: Technical and specialized teams started controlled explosion operations at 11 AM today to destroy unexploded ordnance remaining from the Ramadan War, and these operations will continue until the afternoon.🔹These operations are being carried out in the vicinity of Abrisham city, the southern areas of Isfahan city, Baharestan, and the Sofeh area, and th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477425591,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Israel, Gaza Strip: UrgentTargeting with reconnaissance missile Mawasi Khan",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ #UrgentTargeting with a reconnaissance missile in Mawasi Khan Yunis echoes• 10:13 — Local Palestinian sources: Reconnaissance aircraft targeted a tent north of Mawasi Khan Yunis (Rasd Akhbar Shehaba)• 10:21 — Urgent | Casualties in Israeli shelling targeting a group of citizens in Mawasi Khan Yunis, southern Gaza Strip (Rasd al Maidan)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477427860,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz: Iran threatens resort tightening closure Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran threatens to resort to tightening the closure of the Strait of Hormuz and other strategic passages and straits.Mohammad Baqer Zolghadr, Secretary of Iran's Supreme National Security Council, affirmed that the United States' continued \"fueling the fires of war\" will further tighten the closure of the Strait of Hormuz and other strategic passages and straits.Zolghadr wrote in a post on his social media accounts on Friday evening: \"The continuation of the naval blockade and the American reg",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/7336c00b73.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/LICneVQ9PI8AyYwwsKnYEquIpFH_d0fGDS5X7hNKv7GsSUXy1IKKTJFCM8WunAkaqpou-VdI2LLiJomoKiwu4cptHrJIvwkeU2ehMtD5CSuh1NygqBTaqS0YEBRIesYu1JC44lmamRhDxhf2QKSMgCrdXNt8Il3KP6ds-OH9Z_DfC8h_SfuF9aU9hffgB4C-YMH3niHdR028UONvSrbpUNBZXgxWsS1iL5TJkBG0nVTZ9-7Aj_muInMV3WzX-jz5c39MW7ZYM7flR2-lcXY1fkibOqoT759ARJPzZGyxqU5Uw4cNlrSmRck5BFiCIWWsGlD_os8nP56YPI1_750bwg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059138",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/LICneVQ9PI8AyYwwsKnYEquIpFH_d0fGDS5X7hNKv7GsSUXy1IKKTJFCM8WunAkaqpou-VdI2LLiJomoKiwu4cptHrJIvwkeU2ehMtD5CSuh1NygqBTaqS0YEBRIesYu1JC44lmamRhDxhf2QKSMgCrdXNt8Il3KP6ds-OH9Z_DfC8h_SfuF9aU9hffgB4C-YMH3niHdR028UONvSrbpUNBZXgxWsS1iL5TJkBG0nVTZ9-7Aj_muInMV3WzX-jz5c39MW7ZYM7flR2-lcXY1fkibOqoT759ARJPzZGyxqU5Uw4cNlrSmRck5BFiCIWWsGlD_os8nP56YPI1_750bwg"
+      }
+    ]
+  },
+  {
+    "id": 477430130,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel, Gaza Strip: Followup Shelling Zionist drone Mawasi AlQarara",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Follow-up || Shelling by a Zionist drone on Mawasi, Al-Qarara town, north of Khan Yunis city, southern Gaza Strip.• 10:14 — Occupied Palestine: Al Mayadeen correspondent: Casualties due to an Israeli drone strike in Mawasi, Al-Qarara town, north of Khan Yunis city, southern Gaza Strip (Al Mayadeen Breaking)",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
