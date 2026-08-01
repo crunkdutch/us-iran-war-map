@@ -187041,6 +187041,51 @@
     "verified": false
   },
   {
+    "id": 1785606487778,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 13:Trump is on the verge of making a decision to launch an attack on Iran. In \"Israel,\" officials say: \"These are decisive hours.\"#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785606444565,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12:Amid the possibility of an expanded conflict, the \"Israeli\" Air Force, the Military Intelligence Directorate (Aman), and other relevant branches of the \"Israeli\" military have been placed on a very high level of alert in light of developments over the past 24 hours.The ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785606410766,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12:It can be disclosed this evening that, on several occasions in recent weeks, \"Israel\" assessed that Iran might launch ballistic missiles toward \"Israel.\"These assessments led to a significant increase in the \"Israeli\" military's state of alert over recent weeks, althoug...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -190655,6 +190700,103 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Channel 12 Hebrew:It can be revealed this evening that on several occasions during the recent period, Israel estimated at different points in time that Iran might launch ballistic missiles towards Israel, which also led, during recent weeks, to a significant increase in the Israeli army's alert l...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785606409718,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The political scene from Al Jadeed:Political sources to Al Jadeed:-Parallel diplomatic efforts are being made by Lebanon through Arab and Gulf countries with the aim of reaching a solution to be undertaken by the Lebanese Army and including guarantees that enable it to carry out the required task...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785606446786,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The political scene from Al Jadeed:Political sources to Al Jadeed:-Parallel diplomatic efforts are being made by Lebanon through Arab and Gulf countries with the aim of reaching a solution to be undertaken by the Lebanese Army and including guarantees that enable it to carry out the required task...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785606419864,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ US Army amphibious operation exercise last night off the coast of Bahrain",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/46e911a90e.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mjrpGRgsi2jI4_SSclEWhU938fI6aGTMxQAh43HPSsIqq32YgPe1y5DjlSnMwv1PzajnmiMdVwrvH53bbZVbECRIVE-U7pHBPxAbuKSxHbjRuDdVXX_O5Z97ekI6C7v7JFc9oeB7V9uEkLSXBOa42gFs5UMJQf1M7MZuo3dfB5SuzziWmGqn5CDb-K0tPY_d4-KaM3mnGdzIFy_XrfOnIfIZaTKNshCizQeJ6HXBqV70lwvlmmoNL2aFNOqVTDckrFGiOJU8wZnMFHIUkudUryqqSG54MM6iZ_jjuesN41zYm84gzy954XR9-F_a3h4akbUf0sNA3pMuVmQxRpB2Ug"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059628",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mjrpGRgsi2jI4_SSclEWhU938fI6aGTMxQAh43HPSsIqq32YgPe1y5DjlSnMwv1PzajnmiMdVwrvH53bbZVbECRIVE-U7pHBPxAbuKSxHbjRuDdVXX_O5Z97ekI6C7v7JFc9oeB7V9uEkLSXBOa42gFs5UMJQf1M7MZuo3dfB5SuzziWmGqn5CDb-K0tPY_d4-KaM3mnGdzIFy_XrfOnIfIZaTKNshCizQeJ6HXBqV70lwvlmmoNL2aFNOqVTDckrFGiOJU8wZnMFHIUkudUryqqSG54MM6iZ_jjuesN41zYm84gzy954XR9-F_a3h4akbUf0sNA3pMuVmQxRpB2Ug"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785606419174,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 Judicial action was taken against three airlines that sold Tehran-Najaf tickets to Arbaeen pilgrims at prices higher than the approved rate.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059630",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785606467274,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ German Embassy sends new warning to its citizens residing in Lebanon a few minutes agoThe German Embassy urges its citizens in the Middle East to exercise the utmost caution, warning of continued military tension in the region and the possibility of escalation. It called for avoiding military ins...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/E-OW4JrJdu9KF5-HRfA9qyjV7eTSOQpmhAiWeC4C4BGsQztexnWUQ_95Fo9bM9j2QXvs-AHP24V3YaC9PgT3ZxemkPnE2wPJXXyxvnYuyrxY99rG4p8biVrQ-1up1TLy-04yd6fUZi6RQ7c6WxuQ5ZSWWYUsssoVHSKhUDPwybKDqVji6cZIiRxq_Juj3CGy0pzaccVszy8jrdWFaNFq0WBkee7SlQXgTizkSIkug7QIJ_Brj9X7FK1gyyq0eNEfdOdDiAgS0LABJxOMlAIBa70oQMSEKKRTzwyIV5PHbZ0ADz6CY4N3FKapJfAvIzuSv11CEDXWt1y67492VX7PZA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   }
 ]
