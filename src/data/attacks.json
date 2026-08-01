@@ -86043,6 +86043,38 @@
     "media": []
   },
   {
+    "id": 477371435,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Sanaa, Prince Sultan Air Base: Three major mistakes made Saudi Arabia",
+    "location": "Tehran, Sanaa, Prince Sultan Air Base, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Three major mistakes made by Saudi Arabia since the start of the American-Israeli war on Iran:- Allowing Washington to use military bases, which the US President confirmed when Tehran struck refueling aircraft at Prince Sultan Air Base.- Escalating the blockade in Yemen instead of moving towards implementing the roadmap with Sanaa (it preferred to use force against Sanaa, which moved towards breaking the blockade, and its consequences included bringing a naval blockade and bombing of oil faci",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

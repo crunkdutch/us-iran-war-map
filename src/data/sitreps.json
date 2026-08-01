@@ -186334,5 +186334,46 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785559307003,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴Occupation forces raid the villages of Aqraba and Einabus south of Nablus in the West Bank and storm residents' homes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785559326644,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴Cadena SER Radio: The number of migrants who died while attempting to infiltrate Spanish Ceuta from Morocco has risen to 61 cases.• 04:37 — More than 50,000 migrants return from the Spanish enclave of Ceuta to Morocco - Local media reported that more than 53,000 people voluntarily returned from...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/aa49f1a3f9.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gy3D8t5v3gQ3HSD_O5JAMv0q9O-mmpfT75Kd5cMNyM4rmVKYZOX4GtQRTYpPJTQ4tEplt_ZKtS0ZVYjQ6ZLrGXHJAXWbThXGr7EdRkDxObTJYphwgmUGuEDbXwajtamPtnbZnPDKFl1Loqd5qxbNzad8JDImi764SaIp6Dy4gSBDz3zR-KWvVyet5GONgAdHE2Z8f5k5xuMK_T7NdfmG_8bIP_UhLj3GtlMkmZ6yaYE8iPq9kRC_RfOod2O4XwxzN8fQg0SRG3wQP4U6Jmdy9ZurEkS-wFNI4CgoFei1qmJQvwmczYzg4WZg2QrZ3GKSwSrKDFVUD_Ww7LOpG0XFhQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059175",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gy3D8t5v3gQ3HSD_O5JAMv0q9O-mmpfT75Kd5cMNyM4rmVKYZOX4GtQRTYpPJTQ4tEplt_ZKtS0ZVYjQ6ZLrGXHJAXWbThXGr7EdRkDxObTJYphwgmUGuEDbXwajtamPtnbZnPDKFl1Loqd5qxbNzad8JDImi764SaIp6Dy4gSBDz3zR-KWvVyet5GONgAdHE2Z8f5k5xuMK_T7NdfmG_8bIP_UhLj3GtlMkmZ6yaYE8iPq9kRC_RfOod2O4XwxzN8fQg0SRG3wQP4U6Jmdy9ZurEkS-wFNI4CgoFei1qmJQvwmczYzg4WZg2QrZ3GKSwSrKDFVUD_Ww7LOpG0XFhQ"
+      }
+    ],
+    "verified": false
   }
 ]
