@@ -191245,5 +191245,65 @@
     "description": "⚡️ Dr. Muhammad Hassan Suwaidan:Constants that must remain present:- All parties to the conflict in the region today face a real existential threat. The battle is about existence itself. Each party fights because it sees that its loss means threatening its future and its place in the region. And who...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785613310226,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew Channel 13:Dramatic hours; senior officials in Israel believe that Trump will soon renew the war against Iran.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785613316981,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Attack on Sulaymaniyah, northern Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785613381923,
+    "type": "rocket",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Wounded in Israeli enemy artillery shelling in the vicinity of the Dawla intersection in the Al-Zaytoun neighborhood, southeast of Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785613356519,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian sources: Wounded in Israeli enemy artillery shelling in the vicinity of the Dawla intersection in the Al-Zaytoun neighborhood, southeast of Gaza City.",
+    "media": [],
+    "verified": false
   }
 ]

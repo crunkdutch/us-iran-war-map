@@ -87683,6 +87683,51 @@
     ]
   },
   {
+    "id": 477468873,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Statement Ministry Foreign Affairs continued epic",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Statement of the Ministry of Foreign Affairs on the continued epic defense of Iranians of Iran's entity against illegal American threats and attacks🔹Iran, relying on the inexhaustible divine power and under the wise measures of the Supreme Leader, His Eminence Ayatollah Seyed Mojtaba Khamenei, with the unparalleled support of the great people of Iran and the accumulated capacities of the armed forces, intelligent diplomacy, and the solidarity and companionship of Muslims and free people in t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/vTAbKkzOFr4YW0IyeK-dctKUHemSH4URP0EWIbrsa00ppqmCpOxvl9U7Zax2A6RlNo2EgHrpLwW3grcnwEpJfZZJNCPeC76vrtr-I-TysXyI_kmn5B6geKHAp6GOJ5iIMhiCGSc7XfIkwpJ_x9LlLaMNbfluxU8CSxUOt0BhG2gN_T16t34mCo1rcnqQEze0wP9LIPhfCyRXMijlmOtqaH0KGAyZlNxCv-iDiHEeCfMVvUzqCm3en_fWYt-OAypeeUmb97ySRNdJKWj5dJ2aoexe82xP8QaseCMfoKdGhgqMKGYeNP0csggOxWO1A8CCYqOIrCdI-D_2fktGYls8rQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/BZu2VYmkCT1RVJ7cdBrkpIEJYUbwcsPFJnmAIoUvXJlC9_yMQLz_SkapMS6bdqpvuho68MxaXTxyCzFwao73R02wp4foHeOwuao-u4V84JInrZ0jomWyH3ACAfCmASiSe_Yxu9HQwlvDt4ncgLQ4A_RMVvcQpsCmZkh_RLzCpQFazdsRB0sxzUHmNLHkyrhwUBYYSVwEvnx68leDAbc1fGiQQRfmeoYeSy1O2zLLz0Ew-elUl1DUb-YDoxHMlYSiVRhfU9fVInl_6jtyKL8wZfzmubmeZNlOAKQUFGQ07eW_84lblqtwVbadRq1BdJKfkfvXhjedH7kbM2ENRnMxgA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/sBz2gYhb9T2o7_RxWNY8ux9_TrwMrU6o5eXgnR51k72J9pSjrfc4qvckB5W3H_IKIpqZNGsP389x865HAdPy0BkY4rKt2Y_u05g1sTex4EuLllAbtxcUN99WzuQswmWJpE9-MuKKPh8wiDgZTp71CjdQmvnBsRQwOnhQbbRMTANrb8SV68o4enBsybrsqb5F_6kj8ILYSqjYKTSSjuiRPCSCzkR8lvZqQsnFdKJFRdR-SzicF2IQpygCFd0ahfqrIVgYTOPe7In_zKd0pUIx8GpF0x2O13SO-qKVQd9xI3MH8mu0wymtQpxzMHIrF2MF6NtHPjbgBo0IQ-9t4q-8yQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
