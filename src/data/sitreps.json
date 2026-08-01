@@ -191536,5 +191536,140 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785616939526,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Two US K35R refueling aircraft departed from Ben Gurion Airport towards the Middle East.• 20:31 — Two American planes took off from Tel Aviv. (Ba2s Jenin)",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qV1fHwWU93TktCG3989Iqe7eb1eetmLZlOrtOjoo0FOxtgFjVvaE7DRn7yHlNbFPgSARPEnoKa7xy4x5Qz4pc-Rqjt1mTo-z43Jg1pSjlhmPpLScgJJ1JHQkV4vlrRIf3awsUzmeyvH5XjE07Xx5lep82z2oLSr6vTn6fkre0ynDHi2z_Dq1Wd3rP-tsJ7IJaOWrRT0JBnp75e_i5V0GRhAmpF5jDPV1Dse3JJ5kgnbqm6LeCJ3eCYs4-z9ooyzI5_y4KQACwhHvoHkM0iKV_-5gzwjlrWV_mNZMS6-oRHg6uHYy1MpjSr5MjkkAn0nxTFsIdKXDsiAbWEa5UMiPRA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785616892864,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Also, an E-3 early warning aircraft took off from King Salman Air Base in Saudi Arabia.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785616913873,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-01",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The killing of \"Osama Al-Radfani\", commander of the Fourth Brigade in the Saudi-backed Homeland Shield mercenaries, along with a number of his men, in an armed ambush on Al-Abra road in the Hadhramaut region of Yemen.The \"Homeland Shield\" militias accused the Ansar Allah group of being the main s...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YsI4fUjcFeN38TqIZw-aCV-ZHFxGPtGLXK34Kg2wKaDwCCscjLc4nQtSU9WwFm69RbOSO6Z6Rmzc29fD6tk-Jnk00TmeTaFLnd724T_TlT1LaGBbVhe9VtWgCwChmplgAo1uskDnSuUMedb8ZQBmpSyCL69YrxqaRU1Q3UOqb7TDTtGYcavzREN1kwxwdplIIK7_roMUlhFye-9GdXW8GdubeECm79zHI52WiLA9yvxyRHGsaLn_HfLQVUXPymJveK98zs4QhA1cfV5iJHlpf2onjaruXn9h5NmI5dr7Ufk8ddR5k-ZZTwv39CO3UZ-98SsAbXamN-7Bmjsd3iouWg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785616984751,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi Prime Minister Ali Al-ZaidiThe armed forces renew their firm commitment not to allow the use of Iraqi territory as a launching pad or transit route for aggression against brotherly and friendly countries.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785616931400,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israel Hayom: Israel will not be involved in potential American attacks on Iran unless it is attacked.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785616994646,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Iranian MP Ibrahim Rezai:“Any response to a potential attack will not be limited to the Persian Gulf region.In the event of any attack by the enemy, we will respond to all of its bases, including the source of the attacks, wherever it may be.”@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785616960408,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Iranian MP Ibrahim Rezai: “Any response to a potential attack will not be limited to the Persian Gulf region. In the event of any attack by the enemy, we will respond to all of its bases, including the source of the attacks, wherever it may be.” @SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785616931265,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷A placard at one of Iranian people's nightly gatherings in support of the Islamic Republic reads:Lucky Yemen; it doesn't have a Pezeshkisn, a Ghalibaf or an Araghchi.This notion is echoed by most Iranians.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nva75AbIn-i04xfRzQVgPTB9V9T6Noq5eTXChrZv__PvLi-E7Uvo2GxkQjzAEh1foUHKBgpM6Ti060SlUUmdbY0W9Xed8spL2RTnhljyVkyTp9vHysny6DqNZt7fFm-GJ-VEoCobI-F2mkpZxfEK_rcYopGk0QG7XdWKjXuqF8uLmJNSVc5oY1wsUJEa4puJbR9BAWAq8IrtrHX1SRlNDEyoyxB_ZjWpxZkjo516oicl-Ar-t2tVdQfrE6hi2YGZMDDGkges4Jd7GL3AVuxwBXEwBaa5xsRuoaS5hsls4yAfxQTA-r-uTRwrEiTs10bB8YAFIrIKcDWcqaqd93Gypw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
