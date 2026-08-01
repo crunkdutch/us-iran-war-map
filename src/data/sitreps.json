@@ -186191,6 +186191,21 @@
     "verified": false
   },
   {
+    "id": 1785544930836,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy media: A security incident in the Israeli army, details to follow.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
