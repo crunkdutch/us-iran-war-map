@@ -180864,6 +180864,66 @@
     "verified": false
   },
   {
+    "id": 1785586373855,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Media:A clash reportedly took place overnight between fighters from the Egoz Unit and Hezbollah fighters. \"Israeli\" military casualties were evacuated to Rambam Hospital.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586325955,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaSpokesperson for the \"Israeli\" Occupation Army: During the night, an \"Israeli\" military officer was moderately wounded during a military operation in southern Lebanon.The officer was evacuated to hospital for medical treatment, and his family has been notified.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586374413,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaSpokesperson for the \"Israeli\" Occupation Army: During the night, an \"Israeli\" military officer was moderately wounded during a military operation in southern Lebanon.The officer was evacuated to hospital for medical treatment, and his family has been notified.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586383060,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Occupation Army Radio:Hezbollah confronted an \"Israeli\" force from the Egoz Unit overnight after it attempted to infiltrate the Ali Al-Taher area, and engaged it in combat.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -188528,6 +188588,191 @@
     "sourceUrl": "https://t.me/s/simurgh",
     "description": "🇱🇧 Israeli media: A clash occurred between Egoz elements and Hezbollah elements during the night. Wounded Israeli soldiers were transferred to Rambam Hospital. @SimurghRes",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586367237,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫🔴🚨Nahed Shbeir:The Sons of Sinai Company is forcing Palestinian pharmaceutical companies in Gaza to pay &#036;300,000 in exchange for allowing a shipment of medicines into the Gaza Strip, which is equivalent to 15,600,000 Egyptian pounds.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586380103,
+    "type": "airstrike",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2026-08-01",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫🔴🚨Nahed Shbeir:The Sons of Sinai Company is forcing Palestinian pharmaceutical companies in Gaza to pay &#036;300,000 in exchange for allowing a shipment of medicines into the Gaza Strip, which is equivalent to 15,600,000 Egyptian pounds.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586316072,
+    "type": "airstrike",
+    "location": "Sinai",
+    "coordinates": [
+      30,
+      34
+    ],
+    "date": "2026-08-01",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫🔴🚨Nahed Shbeir:The Sons of Sinai Company is forcing Palestinian pharmaceutical companies in Gaza to pay &#036;300,000 in exchange for allowing a shipment of medicines into the Gaza Strip, which is equivalent to 15,600,000 Egyptian pounds.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586352638,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Civil Defense recovers the remains of 112 martyrs from under the rubble of homes belonging to the Al-Hasayna family in the Al-Sabra area, south of Gaza City, after search operations that lasted about two weeks.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/pmX8FtnSn9fAtWLqLAcaupdVr9sotcoy349eNLC8-xrK_BmcER68cpdurIzgyi7Tl0dAMi5LKaJk7gGNfzPydAb5nACD2_60luxvkak21TUcTTHVlETSN9gOAb74aPGYTgh3HdUIlHLyp6suhlrsM5uw3LGUMtzdZkwzJsNzrcebN_sNIJ1YM9jyTuDaWrMRduKbBuZYAHm1SFSVC8PVSzlKl29-4Y0hxSmchiWads-xcZ6R6f8TNRubpa91tUqjZzKGX8kTZmmgT19M0hNQGbrT-oo5ttqGEpsIwFGKQkXc0WGLIhBY94nFAO60DJfVzxQTvlE8WhcHhO4tQNCC2A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/n7WeZicmAkZv5M59gPYm6k46GMhr9csC9Rs8rdvBTHgj6Kt6eXyLhNU-6PwItNi_eTL1D2ycZJ05uJiAnLMUPnLT4IxxIfgWChU7qoum4Y1sQA6lgyrdWIXBtMork4op0b-Gws6kxlt6DamvGVICJ73U7o3EL_b9zPFTb3SYvBdnJ3tquUVXBTbzo-V9jpx1nMdSWXBWITTMz0eXKOdXRr3ciM07YzedqhntaWkA8b6Qg-qDKdA4KQhGCfT5PXCX6icWk56Vp3ZtMMss9xbB68A9uBsGPdVrxj02UjyevhG5HlgJux3RDYbiu9UE5Sx6zd14xZ-smsGaVQm2u8I0hg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Q8xzEVgDWdALbXaPQfeyjvq5HkyGWvLpGSWMIRDxCekd5emPA7AwejnMmz8-Fk04dj4FNERrSizJhJ1mrFJUe2Ollaah9bxyX5tehLd4HFyD2Ak7s9ZBIQ8-K8MAF8OnsrJ4obscsfGfOpDDuEWWhfKaK14zdICjR8uEM6acR3NJu74LWSZvrQgJbHfgaUY9EskXAuS-BL-DqNmio8_rxJYEh9fZpepnvKbC2VY2VW0wDsrkJLPolZlcvaP9B2jrVtiaaEPuSJMSsU77ZZgfkU-FNJ-OA61MNzx4AWGgAmA0tTEJn8vp_SQdOk66fnnsl4ZRHz3D9YuzmOlpCUNeSQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/EmWZFKii3JNvU9bYvOsQ9t7GecHzyhoOVm5H4tvl9ZngsKb09_bPMywgrOJVT2MZrDJvyWj64jvKM62QGvfVSyOPS_iXT23moIb1_8NdJa2hkdLiP8DHaYmPoYfw8Yh-sELC6BMhhESgI5JTLryYcFao0rFJfcWlGCh0ub_r45tE3FcQqOSDl4gJnHvWDPPgKGW4VbgHwNOo1k1a270fQMsz5IuQgvUcYWvptXLEZ3AlAqejiW7EXbfvfcF4NgknHqIhh64W0BzayoU91-uS43Dvz_q-N4WHctgFfHjATHS1F9exginewdD4_b62XLuyG4-mb-vp4OvHkMnpyg4dcA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785586342774,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanese source to Al Hadath: The 7th round of negotiations between Lebanon and Israel in Rome begins on Tuesday and lasts for 3 days.• 12:04 — Lebanese source to Al Hadath: Lebanon will propose in the 7th round of negotiations moving to the second phase of the experimental areas. The Lebanese de...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586362083,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanese source to Al Hadath: The 7th round of negotiations between Lebanon and Israel in Rome begins on Tuesday and lasts for 3 days.• 12:04 — Lebanese source to Al Hadath: Lebanon will propose in the 7th round of negotiations moving to the second phase of the experimental areas. The Lebanese de...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785586312502,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📡📡🛰 \"Israel and Cyprus have begun widespread operations to disrupt satellite positioning systems (GPS) across their territories. The scope of these disruptions has also extended to parts of Lebanon and Syria.\"🛰The expansion of electronic warfare and disruption of satellite navigation systems ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/87fd9d03ec.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059427",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785586339688,
+    "type": "drone",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📡📡🛰 \"Israel and Cyprus have begun widespread operations to disrupt satellite positioning systems (GPS) across their territories. The scope of these disruptions has also extended to parts of Lebanon and Syria.\"🛰The expansion of electronic warfare and disruption of satellite navigation systems ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/87fd9d03ec.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059427",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785586361904,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 📡📡🛰 \"Israel and Cyprus have begun widespread operations to disrupt satellite positioning systems (GPS) across their territories. The scope of these disruptions has also extended to parts of Lebanon and Syria.\"🛰The expansion of electronic warfare and disruption of satellite navigation systems ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/87fd9d03ec.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059427",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
+      }
+    ],
     "verified": false
   }
 ]
