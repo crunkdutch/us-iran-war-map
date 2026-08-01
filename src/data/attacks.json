@@ -87630,6 +87630,59 @@
     "media": []
   },
   {
+    "id": 477466586,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Iraq: Arab sources report large fire Sulaymaniyah",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🎦 Arab sources report a large fire in Sulaymaniyah, Iraq.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/45a52f306e.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/k6B24HkaQ2Dk4ZXZStiIZcmAYP-_1f7eYopNA2ZxGJ-q9D5QPvLQ4NIV5AYQZogAKFvI2aSg47pfq0-csy-DRh2cE11fCYATl8vTU_VHDwM_d5pm-EpSovM9VZl3S79osg-Y1D4wexPAbxHnWrQV6SI-4xRFjL8HXBA3pEsffypgVZmnbaSJsjsg0FEI1aUGpbMb1R4lmP_eP9ZwAa_SQeMEP-s8h0NjFXY8Y1wdzc4Kf2rbA59KLPbPAbrhXEPWMqr5fhLa24GczCc_jSCcbxo50zFLg7JGEvQscHFaGa_1ZjdJolgBChZjnX9JOks7eEosNE87WmENaX0xKIGxrg"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fcfd9dc676.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/k6B24HkaQ2Dk4ZXZStiIZcmAYP-_1f7eYopNA2ZxGJ-q9D5QPvLQ4NIV5AYQZogAKFvI2aSg47pfq0-csy-DRh2cE11fCYATl8vTU_VHDwM_d5pm-EpSovM9VZl3S79osg-Y1D4wexPAbxHnWrQV6SI-4xRFjL8HXBA3pEsffypgVZmnbaSJsjsg0FEI1aUGpbMb1R4lmP_eP9ZwAa_SQeMEP-s8h0NjFXY8Y1wdzc4Kf2rbA59KLPbPAbrhXEPWMqr5fhLa24GczCc_jSCcbxo50zFLg7JGEvQscHFaGa_1ZjdJolgBChZjnX9JOks7eEosNE87WmENaX0xKIGxrg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059691?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/k6B24HkaQ2Dk4ZXZStiIZcmAYP-_1f7eYopNA2ZxGJ-q9D5QPvLQ4NIV5AYQZogAKFvI2aSg47pfq0-csy-DRh2cE11fCYATl8vTU_VHDwM_d5pm-EpSovM9VZl3S79osg-Y1D4wexPAbxHnWrQV6SI-4xRFjL8HXBA3pEsffypgVZmnbaSJsjsg0FEI1aUGpbMb1R4lmP_eP9ZwAa_SQeMEP-s8h0NjFXY8Y1wdzc4Kf2rbA59KLPbPAbrhXEPWMqr5fhLa24GczCc_jSCcbxo50zFLg7JGEvQscHFaGa_1ZjdJolgBChZjnX9JOks7eEosNE87WmENaX0xKIGxrg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059692?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GDgR_AFreo-ON4IXBF3GgdTN0SztqKPe_nRfMtrkMhec06RixSwF3TwNnD12TWodlKFmFiJQfnG9vObgGvHCv3OhmnyYdQ2nMkyTuD2U6lJjhmr4ogX87UbIFIr8lLNgR3tgK0y_ECxaLyfK15QcBcnk_rk0tJPc8Lkn7MTh3pOV4qJERZD3MT6lEuWYYsZ_5N6DjEXkbFXmmfnfUkWnc1aF6axV7ko1eqzQshmB7dKOZeuGCsh--Ne2TVedtHbEOHObeoH8pxYvUxNiC6keRNU-AkB7RL8p4niuQuryCMCShQ5aL39T7-lpBaYlFJAevHP596pi3FSNPGUdXy3IEA"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
