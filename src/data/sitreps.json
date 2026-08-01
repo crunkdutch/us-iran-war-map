@@ -192076,5 +192076,316 @@
     "description": "🇮🇶Strong explosions have just rocked Erbil, Iraq's Kurdistan Region. @SimurghRes",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785624131518,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Foreign Ministry: Iran to use all means for legitimate defense of national rights and security📌 Tehran, IRNA – In a statement regarding the continued epic defense of Iran’s sovereignty against unlawful US threats and attacks, the Ministry of Foreign Affairs of the Islamic Republic of Iran emphas...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624125870,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Foreign Ministry: Iran to use all means for legitimate defense of national rights and security📌 Tehran, IRNA – In a statement regarding the continued epic defense of Iran’s sovereignty against unlawful US threats and attacks, the Ministry of Foreign Affairs of the Islamic Republic of Iran emphas...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624105898,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Drone attacks on Sulaymaniyah are underway.• 22:20 — Explosion in Sulaymaniyah, Iraq 🔹Iraqi sources report drone attacks on the headquarters of separatist terrorists in Sulaymaniyah, Iraq. (IRIB News)• 22:22 — Violent explosions and rising flames from the headquarters of the Kurdish opposition i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624171555,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Drone attacks on Sulaymaniyah are underway.• 22:20 — Explosion in Sulaymaniyah, Iraq 🔹Iraqi sources report drone attacks on the headquarters of separatist terrorists in Sulaymaniyah, Iraq. (IRIB News)• 22:22 — Violent explosions and rising flames from the headquarters of the Kurdish opposition i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624115433,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Explosion sound in Deir al-Balah• 22:10 — Follow-up: The explosion resulted from shelling by warships on the beaches of Deir al-Balah. (Rasd al Maidan)• 22:16 — Israeli warships fire shells off the coast of Deir al-Balah in the central Gaza Strip (Rasd Akhbar Shehaba)• 22:37 — Targeting west o...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624173628,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Explosion sound in Deir al-Balah• 22:10 — Follow-up: The explosion resulted from shelling by warships on the beaches of Deir al-Balah. (Rasd al Maidan)• 22:16 — Israeli warships fire shells off the coast of Deir al-Balah in the central Gaza Strip (Rasd Akhbar Shehaba)• 22:37 — Targeting west o...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624161711,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Channel 14 Israeli hospitals entered a state of maximum alert",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624183844,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Intense warplane activity on the Iraqi-Kuwaiti-Iranian border strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624132220,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Intense warplane activity on the Iraqi-Kuwaiti-Iranian border strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624137626,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent | Injuries due to targeting by helicopter gunships in the Al-Masha'la neighborhood, southwest of Deir al-Balah city, in the central Gaza Strip• 22:26 — Occupied Palestine: Al Mayadeen's correspondent in Gaza: Casualties due to Israeli shelling targeting a house in the Al-Masha'la area, sou...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624088288,
+    "type": "missile",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent | Injuries due to targeting by helicopter gunships in the Al-Masha'la neighborhood, southwest of Deir al-Balah city, in the central Gaza Strip• 22:26 — Occupied Palestine: Al Mayadeen's correspondent in Gaza: Casualties due to Israeli shelling targeting a house in the Al-Masha'la area, sou...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624130605,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: An Israeli raid targets a residential apartment west of Gaza City• 22:37 — Targeting in Al-Sousi Tower opposite Al-Hesba in the southwest of Gaza City (Ba2s Jenin)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624120320,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: An Israeli raid targets a residential apartment west of Gaza City• 22:37 — Targeting in Al-Sousi Tower opposite Al-Hesba in the southwest of Gaza City (Ba2s Jenin)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624150884,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Explosions heard in Erbil Governorate, northern Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624094185,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Explosions heard in Erbil Governorate, northern Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624149062,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent A source in the Palestinian factions told Quds Network: Mladenov and the mediators informed us that the Israeli occupation will stop military escalation and assassination operations starting tomorrow, Sunday, and we are awaiting the occupation's…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624184321,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent A source in the Palestinian factions told Quds Network: Mladenov and the mediators informed us that the Israeli occupation will stop military escalation and assassination operations starting tomorrow, Sunday, and we are awaiting the occupation's…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624118143,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Targeting by helicopter aviation in Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624173983,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Low-flying warplanes circle over cities in the Kurdistan Region of Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785624157833,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇮🇶Iranian missiles/drones strike the CIA/MI6/Mossad-backed militant bases and ammunition depots in Iraq’s Sulaymaniyah.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ed2eb2830f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/oImEJ9LfWQt-oSRuX187fQznChS3gXXKc75erqQ3a70amulvpYjB934SFJj2LKZ_nOqvZZB3B9Gv7r7KCP27Px1p3_0vPBVBZ9rihb3rCfe4wiiLYZhaxRMi-VFzW9s-qABGuzfkynlSYcu4bTcgLL5-CoHz3B8VOUI0cG_4SqE1dlYufpB25aNsoX8XEiTAPzoe1uEK11Y9i8Z-hj0sxg3Ha9iFZk1iRuxQXBo8kPS6cDMqpsd6eRkHTLvacTxo4ATGILhJUpwTEnPIapHycdg2TDWjEpPVb7gj2AU6w5dJ9rQ9LgffUY-bOxbFRk488mXWTw8hMYaVA-xTCg39Og"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8454",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/oImEJ9LfWQt-oSRuX187fQznChS3gXXKc75erqQ3a70amulvpYjB934SFJj2LKZ_nOqvZZB3B9Gv7r7KCP27Px1p3_0vPBVBZ9rihb3rCfe4wiiLYZhaxRMi-VFzW9s-qABGuzfkynlSYcu4bTcgLL5-CoHz3B8VOUI0cG_4SqE1dlYufpB25aNsoX8XEiTAPzoe1uEK11Y9i8Z-hj0sxg3Ha9iFZk1iRuxQXBo8kPS6cDMqpsd6eRkHTLvacTxo4ATGILhJUpwTEnPIapHycdg2TDWjEpPVb7gj2AU6w5dJ9rQ9LgffUY-bOxbFRk488mXWTw8hMYaVA-xTCg39Og"
+      }
+    ],
+    "verified": false
   }
 ]
