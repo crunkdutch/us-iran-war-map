@@ -87529,6 +87529,75 @@
     ]
   },
   {
+    "id": 477459731,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Israel, Gaza Strip: death young Salem Jamal Lebda injuries",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ The death of young man \"Salem Jamal Abu Lebda\" due to injuries from an Israeli bombardment of the Moassi area west of Khan Yunis city, this afternoon.• 17:48 — Abu Ali Al-Hebri's Blog Site: Salem Abu Labda was killed in a tent targeting near Al-Sumoud School in the Al-Mawasi area, south of the Gaza Strip. (Ba2s Jenin)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YJ3bcRPF0UHuMJz8yT22oiim7mR3rjj5VhlwoI6BGuL9kmtGeKLDVE5NJ4b0LQsFB3IhDfhOpgRy3716Sb_7WgG9PiVbn6WDX_TOBeYy4hOmFdiuhqsy191RXGjhwyr4JdmpEvFEzx0du082MzZX83S1FscZCLCs61uXmGybM0UvdhYpj8xQ0q_yq63EnKScUz2269bB-T9-wefefTtGAuLkweOpF99vDJEnV95rbJ4kcOutfvCQ4JY4eL2dYgTU6z6miyYuvjKit8zJl6FKAgHzmq3UB68z3Yq-GAUP_zCeQTfVWurTa10wsGkJtsjh3JaDX1l2P2h9Q6wFXgfFIQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477462015,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Israel: Hebrew Code Code Platform Against backdrop",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Hebrew Code Code Platform: Against the backdrop of tension with Iran: The alert level in Israeli defenses has been raised. • 16:54 — Yedioth Ahronoth citing sources: The Air Force intensifies air defense readiness (Rasd Akhbar Shehaba) • 16:56 — A senior…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

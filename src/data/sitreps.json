@@ -181059,6 +181059,26 @@
     "verified": false
   },
   {
+    "id": 1785608219388,
+    "type": "missile",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇮🇷🇮🇶| Iraqi people put up a banner addressed to Iranian pilgrims for the Arbaeen walk currently:“Our sky is for your missiles, and our land is for your pilgrims.”@FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/FJbFB4X2OZf87TCXk-SHZbgLcw-CJ1Sp17Ajn_kQWuStA5yNJDsP4l4mrOjoh8OX7_eacxml7dREXRFFJgUPF_9CkKQK02whXtPjlqZv5cEOuOB8fxO0E9mTMYLImem2dl3rHfVDg7sazXEPDl4BitPkznDdfahJni12Z0rkSiRrfrtI00skq8QLsHgo6I_UnGT5AmBbHMIxAm7vc0Jtb8DhlCvKb4zEcUbziTDS2bqXX1_Xk3Z-hQYmBlPDbmMHJRv_UP4exc3Xxl0DdFcJZ7Pbzoz-KQfbySwjRL2I3DLCbXkBBgEQAPC4HSvVKDoCX1mxpIiK07ush1o8OMno8g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -187086,6 +187106,26 @@
     "verified": false
   },
   {
+    "id": 1785608297563,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "🇺🇸🇮🇷⚡️ — A U.S. official told Axios that Iran has been \"very aggressive\" in recent days, with some U.S. officials surprised by the extent to which Tehran has been willing to escalate the war.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/naZUrgGMlD_NyD_eolclrs9zImAgujXvHQqQBi57ZfFuywo3ubPh1gh-W8_vhg9520X2X_W-5zIL79sYw6fUbcSFKYTQDMRGCd93nIjtx9EVs77zTK9ke2UFf_sF2u58GXFe5EFvuAPaHzIYBsJW0kiPmGcGJk1SsIxSLYQw3Wk07W6jlDkKsyYpoZRtZrMmfSGsmtIgpBRuOeRQ0DgP6hqPSIwRY45m1R8_pp6XjIjjzB_CNt7QoNEv59XrWordl4b7a7vrYSHZJvoJEi0MIKTMSY_U4QXUmh_2ohkJy_WrIsxXS3oLK4s20WNIlZUKgxymA4meAWWapEvvySr18g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -190797,6 +190837,257 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785608248262,
+    "type": "rocket",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Targeting in the Tal al-Hawa neighborhood, south of Gaza City • 17:11 — Two injuries in an occupation aircraft shelling of a house roof in the vicinity of the industrial area in the Tal al-Hawa neighborhood, Gaza City. (Rasd Akhbar Shehaba) • 17:13 — Occupied…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608246219,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Army Commander General Rudolph Hekal today rejected the Israeli occupation's presence in any part of Lebanese territory, adding: We believe that every inch of our land is our right, stressing that the sacrifices of our martyrs and wounded will not be in vain, and we will continue to stand by our ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608271091,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: Israeli occupation forces carry out an explosion in the town of Zawtar al-Sharqiyah",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608265066,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: Israeli occupation forces carry out an explosion in the town of Zawtar al-Sharqiyah",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608212413,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Naftali Bennett:Hamas has more fighters today than it did before October 7.Qatar is a terrible cancer.Qatar operates Al Jazeera, which is a cancer.Qatar is an enemy working against us and must be defined as an enemy.There are research centers, lecturers, and perhaps journalists and public figures...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608286065,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Naftali Bennett:Hamas has more fighters today than it did before October 7.Qatar is a terrible cancer.Qatar operates Al Jazeera, which is a cancer.Qatar is an enemy working against us and must be defined as an enemy.There are research centers, lecturers, and perhaps journalists and public figures...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608293103,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Local sources: An Israeli occupation patrol infiltrates the village of Al-Ajraf in the central Quneitra countryside, sets up a checkpoint, and searches passersby",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608266174,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Local sources: An Israeli occupation patrol infiltrates the village of Al-Ajraf in the central Quneitra countryside, sets up a checkpoint, and searches passersby",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608287085,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The death of young man \"Salem Jamal Abu Lebda\" due to injuries from an Israeli bombardment of the Moassi area west of Khan Yunis city, this afternoon.• 17:48 — Abu Ali Al-Hebri's Blog Site: Salem Abu Labda was killed in a tent targeting near Al-Sumoud School in the Al-Mawasi area, south of the Ga...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YJ3bcRPF0UHuMJz8yT22oiim7mR3rjj5VhlwoI6BGuL9kmtGeKLDVE5NJ4b0LQsFB3IhDfhOpgRy3716Sb_7WgG9PiVbn6WDX_TOBeYy4hOmFdiuhqsy191RXGjhwyr4JdmpEvFEzx0du082MzZX83S1FscZCLCs61uXmGybM0UvdhYpj8xQ0q_yq63EnKScUz2269bB-T9-wefefTtGAuLkweOpF99vDJEnV95rbJ4kcOutfvCQ4JY4eL2dYgTU6z6miyYuvjKit8zJl6FKAgHzmq3UB68z3Yq-GAUP_zCeQTfVWurTa10wsGkJtsjh3JaDX1l2P2h9Q6wFXgfFIQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785608259260,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The death of young man \"Salem Jamal Abu Lebda\" due to injuries from an Israeli bombardment of the Moassi area west of Khan Yunis city, this afternoon.• 17:48 — Abu Ali Al-Hebri's Blog Site: Salem Abu Labda was killed in a tent targeting near Al-Sumoud School in the Al-Mawasi area, south of the Ga...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YJ3bcRPF0UHuMJz8yT22oiim7mR3rjj5VhlwoI6BGuL9kmtGeKLDVE5NJ4b0LQsFB3IhDfhOpgRy3716Sb_7WgG9PiVbn6WDX_TOBeYy4hOmFdiuhqsy191RXGjhwyr4JdmpEvFEzx0du082MzZX83S1FscZCLCs61uXmGybM0UvdhYpj8xQ0q_yq63EnKScUz2269bB-T9-wefefTtGAuLkweOpF99vDJEnV95rbJ4kcOutfvCQ4JY4eL2dYgTU6z6miyYuvjKit8zJl6FKAgHzmq3UB68z3Yq-GAUP_zCeQTfVWurTa10wsGkJtsjh3JaDX1l2P2h9Q6wFXgfFIQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785608247882,
+    "type": "rocket",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent | Two martyrs due to the occupation's shelling of a house roof in \"Harat al-Rayyes\" south of Gaza City• 18:08 — Moment of arrival of two martyrs after the occupation aircraft bombed the roof of a house in Al-Rayes neighborhood in Gaza City. (Ba2s Jenin)",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d829b96002.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OqolCy8KBvzRHs6akWKosEfZ7Sn3_qw9IlOJztxF7lNoqbbwtyDCZ04i3CWEcH-8tnjEjSS672VU3XIt40qK3yRMLuPgnLrzE5XbfrsMnsAtc6OFCpkK-DoLhqKkp5tqr05mw0j8nVHqbukkzCEeNzanGOTCBIpG_zh-RBcjv21avm8PHuZN_3VtoajWbpw-xZhGKj0x0-Yhahf3h1UT-wsY-U6WY_3oqaOQ4AWVu_K5OuARyfJnhxzHGVskdb6ulEoyc3rJk4CXiiX5LClkuhPDU0TeD4Pkp9MP5K389fL7M2ppUzkoGRIwWUTHpwHlN9ySFb7FQcQjmhXqRhkumA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059637",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OqolCy8KBvzRHs6akWKosEfZ7Sn3_qw9IlOJztxF7lNoqbbwtyDCZ04i3CWEcH-8tnjEjSS672VU3XIt40qK3yRMLuPgnLrzE5XbfrsMnsAtc6OFCpkK-DoLhqKkp5tqr05mw0j8nVHqbukkzCEeNzanGOTCBIpG_zh-RBcjv21avm8PHuZN_3VtoajWbpw-xZhGKj0x0-Yhahf3h1UT-wsY-U6WY_3oqaOQ4AWVu_K5OuARyfJnhxzHGVskdb6ulEoyc3rJk4CXiiX5LClkuhPDU0TeD4Pkp9MP5K389fL7M2ppUzkoGRIwWUTHpwHlN9ySFb7FQcQjmhXqRhkumA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785608207737,
+    "type": "intercept",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hebrew Code Code Platform: Against the backdrop of tension with Iran: The alert level in Israeli defenses has been raised. • 16:54 — Yedioth Ahronoth citing sources: The Air Force intensifies air defense readiness (Rasd Akhbar Shehaba) • 16:56 — A senior…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608250190,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Channel 14 Hebrew: No immediate Israeli offensive military plans in Iran",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785608299512,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A US C-17A aircraft flew from a base in Turkey to Ayni base in Tajikistan and is now returning. The Ayni Air Force Base, also known as Gissar Air Base, is located in Tajikistan, 10 kilometers (6.2 miles) west of the capital Dushanbe.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dKbk1WMuG5z_2-G0AfeqEJf4tqDEx4pRd6jxhSNezO83-rGBZjXUJ5ZFc5TZ4KGFx4kNzeIGJhJL3rRALgHH9n5ML6JJd3gZHRhBBhO3N4-Mpk179JDPzAH0VVBwfYD7Of1b8KjhooWOc2x8StKXRQ05FrOLuR9cjesnXVV-jVuWIu9kfGGfnV--VPa-Aw4KPFTmSHPXgMEf6LsKdDqB3v6A6ojw2DM51DLjgxRRxkh0CFxpwPqnzQcS4uPUcxRsjunpa3RNvjIqMFVSaALx1MiPJMzjqqLZyAqbpab2IW-IuXD0kdWBFk9pKWyKRRco9KgrfZrsyRX0AOdYWnAWqA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785608296999,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: Israeli occupation forces carry out a demolition operation north of Beit Lahia, northwest of the Strip",
+    "media": [],
     "verified": false
   }
 ]
