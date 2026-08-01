@@ -86149,6 +86149,112 @@
     ]
   },
   {
+    "id": 477378173,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Saudi Arabia, Iraq, Israel: leader resistance factions Kadhim alIbrahimi confirms",
+    "location": "Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ ▪️ The leader in the resistance factions, Kadhim al-Ibrahimi, confirms to Al-Akhbar that the issue of handing over weapons needs a complete review after what happened, considering that disarming the resistance practically means ending the axis of resistance and all forces confronting the Israeli project and normalization.Al-Ibrahimi points out that the Saudi aggression brings back to mind the years in which Saudi Arabia flooded Iraq with terrorists and booby-trapped cars, and today it returns",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/vTjFIe0dgxcrkqCiITl3WSxtq0PMUnoMYB4bPESMhX2xRzowVJWvQTuIVTdDe-JEQW5w--JU3p_b2KVXAntGUFX06r_3AyD_7nw0FEXHIqLMYgF1aZZcGzS2ZyGTBce2oWu4sLmw-thWuunF_tFx1Kipjvwqdl4ruDyav5eAPtJBscwfIgUQS_9j-WLlvf9XeMaddzhe0SyiNVnVYhTejO_RCCGNuFUOSe-vgv15xEWaikBGP6LVbPZTuaNR2HBmh_4vOsOu85_mxL-b0soqHAamS9RRnrCFLAtcsLH_zpeVeIasncIIKJqBLsnWontvq_ZzvXqOr-ydUbRvXU4B7w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477380421,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Lebanon, Israel: Paiger Party Failed Israeli Plan Lebanon",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Has the \"Paiger\" Party Failed a New Israeli [Plan]?🖇️ Lebanon DebateAbout three weeks ago, the Israeli army, through its media, leaked its intention to begin a military advance towards Ali al-Taher hill in Kafr Tibnit.It was promoted at the time that Hezbollah had a facility at the site, and that dozens of fighters were entrenched there.Shortly thereafter, the Israeli political level adopted this narrative, and similar statements emerged...They carried a threatening tone, from Prime Minister",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477382670,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Maritime Trade Organization Iranian forces attacked",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ UK Maritime Trade Organization: Iranian forces attacked another oil tanker last night in the Strait of Hormuz, while it was transiting a US-monitored route. Following the projectile's impact on the engine room, the vessel has lost control. • 04:59 — UK…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Bd6oaOukoW-kbYpfo6luSP6d3Z4m5v25RRmJxGbCr77NZI6al8Nn1Dvv8F4lN2kIPv1xSyNhdkbHmT9gTKZkXENe-PWd8kHitLTHK1bM03IYTBa2B217d6mdAcgFHa5eLfYIcQE1rOCZO46KtdzwcS5UGwRrMIr9_V8h9M7bmq1jpw8XAqFnSJcKz1OqK_3gbwD4y6-65B7JtGQbHpnhhjMI2EY-h_1o_ITR2TCPEwL540I8oVwTkOXllNwH3d3_F_kOhCijSUtIhmafOrN01mZCLobT1mSn-cNiDOUu-F6kbfcgBZnsOpzS24XYtSVnZT70gZpCSnMxVdBmpDZaYA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
