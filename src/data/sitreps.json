@@ -191671,5 +191671,20 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785617819665,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Channel 14Israeli hospitals entered a state of maximum alert",
+    "media": [],
+    "verified": false
   }
 ]
