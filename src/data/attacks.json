@@ -84083,6 +84083,43 @@
     "media": []
   },
   {
+    "id": 477450605,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-30",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Hodeidah, Yemen, Saudi Arabia: Yemen bombed ARAMCO hours Yemens AnsarAllah",
+    "location": "Hodeidah, Yemen, Saudi Arabia",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/fotros",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇸🇦| Yemen bombed ARAMCO Few hours ago, Yemen’s AnsarAllah struck the ARAMCO refinery in Jazan, Saudi Arabia in retaliation for their attacks against Al Hodeidah port. Sirens were also additionally activated at Yanbu where the east-west pipeline goes through…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/G32te5Vc_A9pZRWfZTHUPyBBoorhUhGGhV1vtsVXAX74eLEsCyEXvreAiR4d_qr5qhBlkfJ55VC51Zfxaatp7l7z6Mq9e9StAaS9A1GiANQuVoKWBZuBYdBIaIS8ItVlviCTOUyk69gwCIrSywrWQrGoz-Iy1cmM8nAigTbBcGSlxcPLEL95dsmdmq7g-TpjPoRt-X6YLT21zo5YQnSq1YyirixKUsii1BFT9zBjU0rm2le3Ha_98wUMbfgjKs_YmUpqieQkzVI0ET143b5zcg2md0uL7r0AGmpM_Dtz1MiiXQyrr0nWoiXWca0iDHBAmymUsQU7ANqajpeaE1sbww.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477232016,
     "type": "intercept",
     "status": "confirmed",
@@ -87344,6 +87381,75 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477452885,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Iraq: Explosive drones bomb headquarters Iranian Kurdish",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔴 Explosive drones bomb the headquarters of Iranian Kurdish terrorist opposition parties in Dukan district, Sulaymaniyah Governorate, Iraq.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477455166,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Jordan, Bahrain, Kuwait: Mohammad Marandi advisor Iranian negotiating team",
+    "location": "Jordan, Bahrain, Kuwait, Qatar, Oman, Saudi Arabia, Israel",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Mohammad Marandi, who was an advisor to the Iranian negotiating team in talks with the United States, stated:\"Based on the Trump administration's statements, it seems highly likely that after months of brutal threats, today may be the last day of normalcy in Qatar, Saudi Arabia, Kuwait, Bahrain, the United Arab Emirates, and perhaps even in Oman. If attacks are carried out on civilian infrastructure in Iran – on the key facilities of these countries that are closely linked to the infrastructu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fQ7LXYP3nEdVGyrlS-O_2hpF6-DYCVmKPp19DEYaHKDB23UYVywcLrVfh-CG7WCiDz3zIgy7Q95gJSkDtDGxG5OENAopbpsliZx3qVQqsDnURosEjelh98yz74HFaRVWZFmx6dVJiJQK86dyKrrGvmb0mkH6nLydO55PbIZBV7T_85hjAu7EnkiPWInTTVEfvhqwkQwqD08Hz4not_FPiKC__3nSpRuXRlIGlRcLxFCzrCVMszuV01qTwsemXEa5kbssxiQW5-GoQQE_d3b8KfF-Nm_k1418u9x76aBEXD6fQV0Fvrp6qIs4_OhgZQfc_Pm3QJB-1eatOc1W-jatVQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477331196,

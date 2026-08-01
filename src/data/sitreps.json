@@ -496,6 +496,36 @@
     "verified": false
   },
   {
+    "id": 1785601112177,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2024-07-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Pezeshkian calls Iranian people ‘real heroes’ for standing strong in difficult times📌 Tehran, IRNA – President Masoud Pezeshkian has praised the Iranian people for their resilience and steadfastness, calling them the real heroes, who he said stood firmly against every challenge over the past two...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601108458,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2024-07-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Pezeshkian calls Iranian people ‘real heroes’ for standing strong in difficult times📌 Tehran, IRNA – President Masoud Pezeshkian has praised the Iranian people for their resilience and steadfastness, calling them the real heroes, who he said stood firmly against every challenge over the past two...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785002024075,
     "type": "airstrike",
     "location": "Gilan",
@@ -180969,6 +180999,66 @@
     "verified": false
   },
   {
+    "id": 1785601085819,
+    "type": "airstrike",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇾🇪🇸🇦| Yemen bombed ARAMCO Few hours ago, Yemen’s AnsarAllah struck the ARAMCO refinery in Jazan, Saudi Arabia in retaliation for their attacks against Al Hodeidah port. Sirens were also additionally activated at Yanbu where the east-west pipeline goes through…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/G32te5Vc_A9pZRWfZTHUPyBBoorhUhGGhV1vtsVXAX74eLEsCyEXvreAiR4d_qr5qhBlkfJ55VC51Zfxaatp7l7z6Mq9e9StAaS9A1GiANQuVoKWBZuBYdBIaIS8ItVlviCTOUyk69gwCIrSywrWQrGoz-Iy1cmM8nAigTbBcGSlxcPLEL95dsmdmq7g-TpjPoRt-X6YLT21zo5YQnSq1YyirixKUsii1BFT9zBjU0rm2le3Ha_98wUMbfgjKs_YmUpqieQkzVI0ET143b5zcg2md0uL7r0AGmpM_Dtz1MiiXQyrr0nWoiXWca0iDHBAmymUsQU7ANqajpeaE1sbww.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601118984,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇾🇪🇸🇦| Yemen bombed ARAMCO Few hours ago, Yemen’s AnsarAllah struck the ARAMCO refinery in Jazan, Saudi Arabia in retaliation for their attacks against Al Hodeidah port. Sirens were also additionally activated at Yanbu where the east-west pipeline goes through…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/G32te5Vc_A9pZRWfZTHUPyBBoorhUhGGhV1vtsVXAX74eLEsCyEXvreAiR4d_qr5qhBlkfJ55VC51Zfxaatp7l7z6Mq9e9StAaS9A1GiANQuVoKWBZuBYdBIaIS8ItVlviCTOUyk69gwCIrSywrWQrGoz-Iy1cmM8nAigTbBcGSlxcPLEL95dsmdmq7g-TpjPoRt-X6YLT21zo5YQnSq1YyirixKUsii1BFT9zBjU0rm2le3Ha_98wUMbfgjKs_YmUpqieQkzVI0ET143b5zcg2md0uL7r0AGmpM_Dtz1MiiXQyrr0nWoiXWca0iDHBAmymUsQU7ANqajpeaE1sbww.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601035228,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇾🇪🇸🇦| Yemen bombed ARAMCO Few hours ago, Yemen’s AnsarAllah struck the ARAMCO refinery in Jazan, Saudi Arabia in retaliation for their attacks against Al Hodeidah port. Sirens were also additionally activated at Yanbu where the east-west pipeline goes through…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/G32te5Vc_A9pZRWfZTHUPyBBoorhUhGGhV1vtsVXAX74eLEsCyEXvreAiR4d_qr5qhBlkfJ55VC51Zfxaatp7l7z6Mq9e9StAaS9A1GiANQuVoKWBZuBYdBIaIS8ItVlviCTOUyk69gwCIrSywrWQrGoz-Iy1cmM8nAigTbBcGSlxcPLEL95dsmdmq7g-TpjPoRt-X6YLT21zo5YQnSq1YyirixKUsii1BFT9zBjU0rm2le3Ha_98wUMbfgjKs_YmUpqieQkzVI0ET143b5zcg2md0uL7r0AGmpM_Dtz1MiiXQyrr0nWoiXWca0iDHBAmymUsQU7ANqajpeaE1sbww.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -189897,6 +189987,322 @@
         "thumbnail": "https://cdn1.telesco.pe/file/f6G_8fN_w6KBBq9Y2v1tRGzbgvPnvzzG9qgInZGkQtUIu55AvcX3SB7qpNuUj5LSxIRwQqOQ0I-dDlTAKK79Ddgp5JUA6BqP4TBQ-1YXBq5X0OK7R7Ck_s2GBxhVI8UQqsxVwid_0eZx2fRCCvi1cyoLdMe4d3jYpiHqNVRT7KOwSv45WMRfqnD2NYz7Qf7XZiBzH8siLnDJ5y2lGMptT__mkLqPEuQsvZDdz9aK-ajViBiIqT7pP9rOBtKsYZTVac8gJv3ycDK8WSC0YgVMOE8-WYOAKJJg_TCzlivbYsQRCuZs4cvQnE7MKu2P-197_3I7bZnfD-EdhVvDLJvGNA"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785601112448,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 A citizen was injured by occupation forces' bullets targeting the tents of displaced persons in the Al-Iqlimi area, south of Mawasi Khan Yunis, southern Gaza Strip.• 16:05 — Occupied Palestine: Al Mayadeen's correspondent in Gaza: One injured by occupation \"army\" bullets in the regional area o...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601031762,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Explosive drones bomb the headquarters of Iranian Kurdish terrorist opposition parties in Dukan district, Sulaymaniyah Governorate, Iraq.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601032488,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Urgent The martyrdom of the injured Salem Abu Labda, who was wounded this afternoon as a result of an Israeli airstrike that targeted him in the Al-Mawasi area, west of Khan Yunis.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601085965,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Hadashot LeTsenzura Hebrew:Americans withdraw from military base in Bahrain",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601090168,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "Tehran Chamber of Guilds Chairman: In today's meeting with the First Vice President, it was decided that the connection between the beginning of the chain and the end of the chain, which is the consumer, will be established by transferring market authorities to the guilds.",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/687001e873.mp4",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059548",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601084577,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ ⏺Statement by the Israeli regime's army:🚫Throughout last night (Saturday), Israeli Defense Forces soldiers identified several Hezbollah members in the \"Ali al-Taher\" area, within the security zone. This area is under the control and operation of the Israeli Defense Forces. Following the identifi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601087259,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ ⏺Statement by the Israeli regime's army:🚫Throughout last night (Saturday), Israeli Defense Forces soldiers identified several Hezbollah members in the \"Ali al-Taher\" area, within the security zone. This area is under the control and operation of the Israeli Defense Forces. Following the identifi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601080399,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #UrgentIsraeli vehicles open fire west of the town of Beit Lahia, northwest of the Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601076034,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #UrgentIsraeli vehicles open fire west of the town of Beit Lahia, northwest of the Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601042489,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Israeli media: 3 bases in Israel received instructions to restrict movement outside the bases except for emergencies. Most air force and army bases are also on high alert throughout the country.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785601039114,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mohammad Marandi, who was an advisor to the Iranian negotiating team in talks with the United States, stated:\"Based on the Trump administration's statements, it seems highly likely that after months of brutal threats, today may be the last day of normalcy in Qatar, Saudi Arabia, Kuwait, Bahrain, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fQ7LXYP3nEdVGyrlS-O_2hpF6-DYCVmKPp19DEYaHKDB23UYVywcLrVfh-CG7WCiDz3zIgy7Q95gJSkDtDGxG5OENAopbpsliZx3qVQqsDnURosEjelh98yz74HFaRVWZFmx6dVJiJQK86dyKrrGvmb0mkH6nLydO55PbIZBV7T_85hjAu7EnkiPWInTTVEfvhqwkQwqD08Hz4not_FPiKC__3nSpRuXRlIGlRcLxFCzrCVMszuV01qTwsemXEa5kbssxiQW5-GoQQE_d3b8KfF-Nm_k1418u9x76aBEXD6fQV0Fvrp6qIs4_OhgZQfc_Pm3QJB-1eatOc1W-jatVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601036254,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mohammad Marandi, who was an advisor to the Iranian negotiating team in talks with the United States, stated:\"Based on the Trump administration's statements, it seems highly likely that after months of brutal threats, today may be the last day of normalcy in Qatar, Saudi Arabia, Kuwait, Bahrain, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fQ7LXYP3nEdVGyrlS-O_2hpF6-DYCVmKPp19DEYaHKDB23UYVywcLrVfh-CG7WCiDz3zIgy7Q95gJSkDtDGxG5OENAopbpsliZx3qVQqsDnURosEjelh98yz74HFaRVWZFmx6dVJiJQK86dyKrrGvmb0mkH6nLydO55PbIZBV7T_85hjAu7EnkiPWInTTVEfvhqwkQwqD08Hz4not_FPiKC__3nSpRuXRlIGlRcLxFCzrCVMszuV01qTwsemXEa5kbssxiQW5-GoQQE_d3b8KfF-Nm_k1418u9x76aBEXD6fQV0Fvrp6qIs4_OhgZQfc_Pm3QJB-1eatOc1W-jatVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601087878,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mohammad Marandi, who was an advisor to the Iranian negotiating team in talks with the United States, stated:\"Based on the Trump administration's statements, it seems highly likely that after months of brutal threats, today may be the last day of normalcy in Qatar, Saudi Arabia, Kuwait, Bahrain, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fQ7LXYP3nEdVGyrlS-O_2hpF6-DYCVmKPp19DEYaHKDB23UYVywcLrVfh-CG7WCiDz3zIgy7Q95gJSkDtDGxG5OENAopbpsliZx3qVQqsDnURosEjelh98yz74HFaRVWZFmx6dVJiJQK86dyKrrGvmb0mkH6nLydO55PbIZBV7T_85hjAu7EnkiPWInTTVEfvhqwkQwqD08Hz4not_FPiKC__3nSpRuXRlIGlRcLxFCzrCVMszuV01qTwsemXEa5kbssxiQW5-GoQQE_d3b8KfF-Nm_k1418u9x76aBEXD6fQV0Fvrp6qIs4_OhgZQfc_Pm3QJB-1eatOc1W-jatVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601054626,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mohammad Marandi, who was an advisor to the Iranian negotiating team in talks with the United States, stated:\"Based on the Trump administration's statements, it seems highly likely that after months of brutal threats, today may be the last day of normalcy in Qatar, Saudi Arabia, Kuwait, Bahrain, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fQ7LXYP3nEdVGyrlS-O_2hpF6-DYCVmKPp19DEYaHKDB23UYVywcLrVfh-CG7WCiDz3zIgy7Q95gJSkDtDGxG5OENAopbpsliZx3qVQqsDnURosEjelh98yz74HFaRVWZFmx6dVJiJQK86dyKrrGvmb0mkH6nLydO55PbIZBV7T_85hjAu7EnkiPWInTTVEfvhqwkQwqD08Hz4not_FPiKC__3nSpRuXRlIGlRcLxFCzrCVMszuV01qTwsemXEa5kbssxiQW5-GoQQE_d3b8KfF-Nm_k1418u9x76aBEXD6fQV0Fvrp6qIs4_OhgZQfc_Pm3QJB-1eatOc1W-jatVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601047822,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mohammad Marandi, who was an advisor to the Iranian negotiating team in talks with the United States, stated:\"Based on the Trump administration's statements, it seems highly likely that after months of brutal threats, today may be the last day of normalcy in Qatar, Saudi Arabia, Kuwait, Bahrain, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fQ7LXYP3nEdVGyrlS-O_2hpF6-DYCVmKPp19DEYaHKDB23UYVywcLrVfh-CG7WCiDz3zIgy7Q95gJSkDtDGxG5OENAopbpsliZx3qVQqsDnURosEjelh98yz74HFaRVWZFmx6dVJiJQK86dyKrrGvmb0mkH6nLydO55PbIZBV7T_85hjAu7EnkiPWInTTVEfvhqwkQwqD08Hz4not_FPiKC__3nSpRuXRlIGlRcLxFCzrCVMszuV01qTwsemXEa5kbssxiQW5-GoQQE_d3b8KfF-Nm_k1418u9x76aBEXD6fQV0Fvrp6qIs4_OhgZQfc_Pm3QJB-1eatOc1W-jatVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601093539,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mohammad Marandi, who was an advisor to the Iranian negotiating team in talks with the United States, stated:\"Based on the Trump administration's statements, it seems highly likely that after months of brutal threats, today may be the last day of normalcy in Qatar, Saudi Arabia, Kuwait, Bahrain, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fQ7LXYP3nEdVGyrlS-O_2hpF6-DYCVmKPp19DEYaHKDB23UYVywcLrVfh-CG7WCiDz3zIgy7Q95gJSkDtDGxG5OENAopbpsliZx3qVQqsDnURosEjelh98yz74HFaRVWZFmx6dVJiJQK86dyKrrGvmb0mkH6nLydO55PbIZBV7T_85hjAu7EnkiPWInTTVEfvhqwkQwqD08Hz4not_FPiKC__3nSpRuXRlIGlRcLxFCzrCVMszuV01qTwsemXEa5kbssxiQW5-GoQQE_d3b8KfF-Nm_k1418u9x76aBEXD6fQV0Fvrp6qIs4_OhgZQfc_Pm3QJB-1eatOc1W-jatVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601065811,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mohammad Marandi, who was an advisor to the Iranian negotiating team in talks with the United States, stated:\"Based on the Trump administration's statements, it seems highly likely that after months of brutal threats, today may be the last day of normalcy in Qatar, Saudi Arabia, Kuwait, Bahrain, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fQ7LXYP3nEdVGyrlS-O_2hpF6-DYCVmKPp19DEYaHKDB23UYVywcLrVfh-CG7WCiDz3zIgy7Q95gJSkDtDGxG5OENAopbpsliZx3qVQqsDnURosEjelh98yz74HFaRVWZFmx6dVJiJQK86dyKrrGvmb0mkH6nLydO55PbIZBV7T_85hjAu7EnkiPWInTTVEfvhqwkQwqD08Hz4not_FPiKC__3nSpRuXRlIGlRcLxFCzrCVMszuV01qTwsemXEa5kbssxiQW5-GoQQE_d3b8KfF-Nm_k1418u9x76aBEXD6fQV0Fvrp6qIs4_OhgZQfc_Pm3QJB-1eatOc1W-jatVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785601072416,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "⚠️🇺🇸🇧🇭— US air bases in Bahrain have been evacuated.@SimurghRes",
+    "media": [],
     "verified": false
   }
 ]
