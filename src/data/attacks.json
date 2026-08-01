@@ -86639,6 +86639,102 @@
     ]
   },
   {
+    "id": 477407475,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel, Gaza Strip: BenYishai military analyst Yedioth Ahronoth ceasefire",
+    "location": "Lebanon, Israel, Gaza Strip",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Ron Ben-Yishai, military analyst for Yedioth Ahronoth: The ceasefire plan in Gaza will keep Hamas the strongest party in the Strip behind the scenes, and will tie the hands of the Israeli army.The vague statement of intent from the World Peace Council makes the reality of Hamas in the Gaza Strip exactly like the reality of Hezbollah in Lebanon, and Hamas will obtain immunity from assassination, and achieve a gain in awareness in the form of a path to an independent Palestinian state, all this",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477409736,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Qatar, Israel, Gaza Strip: UrgentTwo informed Palestinian sources told Asharq",
+    "location": "Qatar, Israel, Gaza Strip, Egypt, Cairo, Turkey",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🚫🔴🚨Urgent:Two informed Palestinian sources told Asharq Al-Awsat on Friday that the implementation of the understandings reached in Cairo regarding the second phase of the ceasefire agreement in the Gaza Strip is likely to face an obstacle due to reservations from Israel and the Iran-aligned Islamic Jihad movement, especially concerning the disarmament clause. At the same time, they expect the agreement to be passed under pressure from America and the mediators.The ceasefire agreement in th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477411998,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Gaza City: group casualties transferred after reconnaissance aircraft",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ A group of casualties was transferred after a reconnaissance aircraft shelling of a group of citizens near Ahmed Pharmacy in Third Street, north of Gaza City.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

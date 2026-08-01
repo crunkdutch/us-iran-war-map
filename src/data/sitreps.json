@@ -187294,5 +187294,149 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785575527628,
+    "type": "airstrike",
+    "location": "Amman",
+    "coordinates": [
+      31.9454,
+      35.9284
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Follow-up || A fuel/diesel tanker arrived at the Masir gas station on Amman Street, east of Nablus, and the traffic jam extends to the Othman Mosque.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/UYvhLsu1-ydiVQIjKnP5AA96Kdph6OkoMCTZH0AugCE1ebjA5uE7ShhZYznNfJ3YToV1fjoxRKWi95-ccMWUAh44kKq94qFovZoJDerRAp3QUgb_k6ryxhTKZtRZwj3UmWHofOsSJ9IvsrYDgOjdIM9yfHca0eygRMrM202LLfM2_8QUjJpnIBwWxZHdX3zLJcpmoakGL8Dhd6oakcW9rqkbNYvIUpCpyIkqyg6pRz5Loh_XXW1GS45Lk_U-pq9Yur0nYud9rJBCLevo-WPBC5yC0SqP3rlTDX86BbcfDF2c8xt_ljHdM8VexZ4gyskt8l_CckNmgn3o_zCB2Te4iA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785575503667,
+    "type": "intercept",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Haaretz:Air defenses activated in Kuwait following missile launches from Iran",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785575513193,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Syria: Local sources: An occupation patrol consisting of 6 military vehicles penetrates towards the Wadi al-Raqad area in the western Daraa countryside and sets up a checkpoint.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785575490953,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 Tongues of fire from the heart of Southern European forests🔹 The evacuation of several villages and the destruction of vegetation in vast areas of Mediterranean forests; wildfires have engulfed forests from France to Turkey.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059296",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785575485246,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Targeting of a second vessel now near the coasts of Oman",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785575540710,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ British maritime authority: Report of an incident northeast of Lima's coasts in the Sultanate of Oman",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785575491944,
+    "type": "rocket",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A group of casualties was transferred after a reconnaissance aircraft shelling of a group of citizens near Ahmed Pharmacy in Third Street, north of Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785575511811,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Significant damage was inflicted on a multi-story house belonging to the Al-Hawajri family in Nuseirat camp in the central Gaza Strip, after being targeted by the occupation aircraft, causing widespread destruction of the house and neighboring houses.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/p7wCgQxJZetAnaUV3_9zQa0aNRGsy3g_240OdO5VUELqKxK6tjqgc302OegUiUuUih7fPnleQmwN0DOm8Ds3kn2RRvNjcuH2Ld0WyMRZGfCnyqXzyhO6mK-Aex78GjjcZFGC-wTaOo1H7jvOZ2NGBGaGspKyvXJapBw_H8Ar4RmP8CKh1kXQUiWWGBHt_jUhVwIYnJQYRbAqYPQweFLGKelvjNT9JckRH7AzEr8vuby2k-yWkMYybh-ajMxd_G39A4UZ3Vt5H5CK4HFXr8mdOdP_w61hI6BIC_2G1Tj6OYHX8mTVO9_mF9n5VP4DINj6Y1AmrGDjzV6vVD9fqadkbg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kfv3KMjGFf_BEmu5o6_fhg12xWaeJYmiGI2dFUMz4sAimkNYDMq1ZOSsbARHvz6Pbuwx6qQD5NnLQiIXBjnvToHtb7evxF0Le9xMdQUpOvGSAiL8dwUa0Rd37Huk_rVAncfAZziNPJuzxsUji5n7riNfOUh1_BsJXh2zcAvqs3OnrJ1YJEKVd4-g19NcQqZBPcz4LHtuullInaXWiJ5wxTVspqYqjGIEj7hi5f77LGdcwyB1f9LK2cVwJbO8Rp_TCteGHUgtx5f7h8I2u_lDb0wZneDsTt8qa176IO-qK60J7h6k_4Pr2Wch3MoEhVG8bQHj8tc9DSuwwW3fzScT-w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CIE4JFtcMDJnzGH-Vq0aFj14q7boTB1UKKa9hp8pcDVVoeZq53klSYNewTcZG3Dvr2U9ASBPbgOuWg89WGnNK7bKciTUjkgBV6aSnEkca1n3mLSKkd8-3XTw0iy4jTusT6k6Icarut-A-qv7vB2ggVcJNNFp0AC2dZ-m4baSfmwDwjQZMqokPIiZX1HtNig9Qquu8k0yDYhN6tr9qeaW_POtEdy2U-v6xlfxGKL3JPVzB_42BNJRHSTiWFHlbPe656YM8Bwx0W9BMBnLqAJpLpjn6or3f_BtVnZPrA9Hu1g5coCVpNvlwSKL8GSEKHEg4C59S1yo76hkYUlAg8Wx3A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
