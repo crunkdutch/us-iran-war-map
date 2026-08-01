@@ -87777,6 +87777,70 @@
     ]
   },
   {
+    "id": 477473450,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Lebanon, Israel, West Bank: Summary Israeli enemy media Potential escalation",
+    "location": "Lebanon, Israel, West Bank, Gaza Strip",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Summary of Israeli enemy media:● Potential escalation against Iran:Israeli and American media are reporting on American-Israeli preparations to launch strikes on energy facilities and power plants in Iran over the weekend, with the final decision remaining with US President Donald Trump and the operation's date not yet finalized.CBS News +1● American position:Israeli and American reports indicate Washington's desire to resolve the Iranian strike issue before markets open on Monday, while othe",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477475740,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Doha, Abu Dhabi, Dubai: Iran drawn list targets that would",
+    "location": "Doha, Abu Dhabi, Dubai, Riyadh, Red Sea, Lebanon, Jordan, Bahrain, Kuwait, Qatar, UAE, Saudi Arabia, Israel",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran has drawn up a list of targets that would destroy the economy of the region and the world, including Israel. It would destroy all power plants, water desalination plants, nuclear reactors, oil refineries, and gas platforms.Israel would become like Lebanon, or even worse.The list of targets that Iran has threatened to strike if the coalition attacks its territory includes:Saudi Arabia.Ras Al-Khair complex: one of the largest hybrid power generation and water desalination plants in the wor",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
