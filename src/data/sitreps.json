@@ -190545,5 +190545,116 @@
     "description": "⚡️ Israeli drone strike on Thalatheeni Street in Gaza City• 16:20 — Occupied Palestine: Al Mayadeen correspondent: An Israeli drone strike in the vicinity of Al-Thalatheeni Street in Al-Sabra neighborhood, south of Gaza City (Al Mayadeen Breaking)",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785604689103,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The United Nations expresses its deep concern regarding the demolition and bombing operations carried out by \"Israel\" in southern Lebanon.• 16:50 — United Nations: The necessity of ending this escalation in the pace of destruction, as diplomatic channels are available to address any outstanding i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785604638749,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The United Nations expresses its deep concern regarding the demolition and bombing operations carried out by \"Israel\" in southern Lebanon.• 16:50 — United Nations: The necessity of ending this escalation in the pace of destruction, as diplomatic channels are available to address any outstanding i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785604618326,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 What was the reason for the formation of Hezbollah in Lebanon?#withreporter",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059605",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785604635550,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Urgent: Hadshot LeLo Tsenzura: Americans withdraw from military base in Bahrain.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785604644865,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Fierce Zionist enemy raid on Gaza City",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785604682175,
+    "type": "rocket",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Targeting in the Tal al-Hawa neighborhood, south of Gaza City• 17:11 — Two injuries in an occupation aircraft shelling of a house roof in the vicinity of the industrial area in the Tal al-Hawa neighborhood, Gaza City. (Rasd Akhbar Shehaba)• 17:13 — Occupied Palestine: Al Mayadeen correspondent: W...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785604642670,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Channel 12 Hebrew:It can be revealed this evening that on several occasions during the recent period, Israel estimated at different points in time that Iran might launch ballistic missiles towards Israel, which also led, during recent weeks, to a significant increase in the Israeli army's alert l...",
+    "media": [],
+    "verified": false
   }
 ]
