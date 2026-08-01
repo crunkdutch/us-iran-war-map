@@ -87239,6 +87239,81 @@
     ]
   },
   {
+    "id": 477443771,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Israel: Israeli drones raided AlAqida neighborhood town",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Israeli drones raided the Al-Aqida neighborhood in the town of Nabatieh Fawqa.• 14:07 — Lebanon: Al Mayadeen correspondent: An attack by a drone strike targeted Nabatieh al-Fawqa in southern Lebanon (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/87fd9d03ec.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059427",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BfdBQapRnvca6_I7Zv8V873TLknzhL_1W1k_5BtewRENsAF9Z1OJyCRPhRGkIdqNoPz9ZYM1D-vOyDPyR0CQcjEE9cAK5Nen2_8dn_fLMuTWzM2h2NmduFblTbvKGrjX-J6z7w9EbFB6Al4Z8AZeoJFAABgVeecyPEk7sJXs6GoaCQKl3wph1oTvdevLfj_wyAr68VMaFJaHGZQubGa6ypjv5L1MsAJ1urmKNBmbm5oYxupHFInH90A2dPXKhfEIoCMEDCZbPLqPs_TPJ5Ao4tDwuLXcCPjkdChxfd6Na5l6gdGOi8qIOrIzecyNVnyE6M53y80D9XSCxLtpeGCM5Q"
+      }
+    ]
+  },
+  {
+    "id": 477446048,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Fars, Strait of Hormuz, Qatar: Iran Fars Satellite data show that",
+    "location": "Fars, Strait of Hormuz, Qatar",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran: Fars: Satellite data show that a vessel loaded with liquefied natural gas was hit by a projectile while transiting the southern lane of the Strait of Hormuz.• 13:57 — Iran: Fars: The ship is named \"Gaslog Shanghai\" and flies the flag of Bermuda, and was carrying a shipment of Qatari liquefied natural gas. (Al Mayadeen Breaking)• 13:57 — Iran: Fars: The ship had turned off its GPS system while crossing the illegal route (Al Mayadeen Breaking)• 14:02 — Gaslog company confirms one of its s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
