@@ -180756,6 +180756,51 @@
     "verified": false
   },
   {
+    "id": 1785568326406,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Five flights leave Iran’s Rasht for Iraq’s holy cities📌 Rasht, IRNA — The director general of Sardar Jangal Rasht International Airport has announced that five Arbaeen flights departed Rasht, carrying Iranian pilgrims to the holy cities of Najaf and Baghdad.Speaking to IRNA late on Friday, Mohse...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785568288952,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Five flights leave Iran’s Rasht for Iraq’s holy cities📌 Rasht, IRNA — The director general of Sardar Jangal Rasht International Airport has announced that five Arbaeen flights departed Rasht, carrying Iranian pilgrims to the holy cities of Najaf and Baghdad.Speaking to IRNA late on Friday, Mohse...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785568353766,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Five flights leave Iran’s Rasht for Iraq’s holy cities📌 Rasht, IRNA — The director general of Sardar Jangal Rasht International Airport has announced that five Arbaeen flights departed Rasht, carrying Iranian pilgrims to the holy cities of Najaf and Baghdad.Speaking to IRNA late on Friday, Mohse...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -186386,6 +186431,46 @@
     "verified": false
   },
   {
+    "id": 1785568282853,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇺🇸🇮🇷We were wondering why Iran's recent missile and drone responses were rather muted using old Emad-1 stocks with movements kept to a minimum.The Resistance must have known ahead of time.The Epsteinist regimes' retarded persistence will be the end of Israel.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dG4doDRb3xhoZyh6fIoMjWenPFwYoKrj9e8RPsfg3iGeJojSqLiLH-A0GCV5Cl_qrKK50BnSGndAWmly1muxYMC685crgjmdgrE2lL3yjTb2kSfPl6N0ZveUUSPrLW2oUweRTT4KqrZugycsGAblMyRONTHQr8szI_asRUzuR0p3qYEhSQlgZ5OJa0arHkeuIK-9zmBGEy1depXqJ6zE6ExiaZH74EzhFKGzI8zYrEBSAAIwNT_o-avzjXeUSKVqAdaoz-28Frotmpb26ISQWHTN17aEsaFvanuV95N1YL80VoOidArY8B8yZeKlK9Xbiy0S5nC32eq7cXlHFUjqAA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785568321526,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇺🇸Two tankers escorted by dozens of US fighter jets and intelligence aircraft have been struck by projectiles near the Strait of Hormuz.One ship is on fire and abandoned by its crew.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IySvorxO3aTEF2rvHjTtR-7Pv13qCekbqWzm2oNLagd4pNMwJxWvzCwd7V2x9TXPM07bIE1-W_QqF3Ia04nkbnBYbHOBOWuh8W8uvuoi2GrlMrzA6bsc9nUv_mkiL0PaU_t9l-jyPJpTlBrftSFYPfRqbT_Suis73Mt38unpDnv0lLAtXbdZknPjnAVsB4Opf5a94WtFQYOxKuKdMUoZFFypXqQ3WBEJOAqPGYuRI3Hru846tzcjZ1n5vgmcVnHip2H4277X_U6QnE8k9yAQ-CKEQJ8ho7yhhJsbYTQA0DjYuaED75Uiz1UNvegqp-uNpMPBr0YUYyNHlj2dWLoSJA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -186862,6 +186947,72 @@
         "thumbnail": "https://cdn4.telesco.pe/file/oojEVqZolapVz5Fvnv33X7GB4unWOIwHEB-AGlNF3F5TU1AuI-gHFea5tBARdehTsxtGI2pFGHIijq0sY97Cxv80Fxyoi4NqaYZCj5wAudru0O8d7KVY3-25P9NHYVEjHmZDZqQrFzaIVTPuXJ9frzuHzUCN1q6AbSEA9I2FfwSHipjBJ_X7Euaej6abJwSQKhhvBNY4e9wNmUJ2QHtyi4_tP9ZTpxF9QB0lP_4W52jlopzji5oCMbjFJxG4LSHvrwpE2nQ0uyZ3B3oCGhxg3J3LTaUitayCkyjH5ZwMptrIN78rmnvaYYB73Ad2ITPuQeqx87samqCqvUJho0b-Hw"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785568329855,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 First reaction of Iraqis when they see IRIB reporter on Arbaeen route🌐 iribnews.ir🆔",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059237",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785568315161,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli media: \"Zman Yisrael\" website: The Israeli public awaits \"absolute victory\" but all fronts that opened remain without resolution.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785568310177,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli media: \"Zman Yisrael\" website: It seems that another round against Iran is useless",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785568322131,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iranian Revolutionary Guard Corps: The Strait of Hormuz is closed, and passage or navigation through it will not be possible except in coordination with our naval forces.",
+    "media": [],
     "verified": false
   }
 ]
