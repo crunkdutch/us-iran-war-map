@@ -86255,6 +86255,63 @@
     ]
   },
   {
+    "id": 477384920,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza Strip: occupation army commits crime after bombing",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ The occupation army commits a new crime after bombing a pharmacy warehouse in Al-Aqsa Martyrs Hospital in Deir Al-Balah, central Gaza Strip, dozens of families are displaced again due to the destruction that hit the place.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/KA0tjQ1EmAOlH8KEiAxlPfjHdM44zh4tqaC-j6nfJQkH_7A83LBBSEwKmmPYFQxC2lUX_mCksQqcxgFF6RAwL0vqs8Nt5wAqbycmjtbNSd1yvnu0DtjLZ27-iHgallKI_i_gIYudS6ANcSo350-e-Gae7TYRYW21QeT2rMT_KJMdumJ4oxrwY-dIsC7F7rcjHfiS7w5x9SMkR3Od6Iy3-wmldkXmqqDHxAPVpHJL0wUN5z4f0y2lAP-NoRwZ55loAcmpfmO11l_C-rhJMzRQjyP-17UdfxwRJeB2dkxJx_hjB7uqvebkITyR3MhAKRQ6h-CX4eKmKg2BB7Yv0Pn22Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/OLuRQzCCpEWpRJuf8eb32d2atMHLkdJ3IblCGgxSIlIkFS5jnTi8PT-PSlGU4Tn-bRLhbsaVxGsb5lJRRr_lv7KyqC5zTlD0q5zBJmdNeAVT6O1v5TefdZUS5uRIUsK2QCHpnXrvTHA_O-uXJWMLDPaA4pvp5UnhNE1uLURHMIXalAtYJe-QUPDxxfEHGDNm4paD5y1ZaimQ0wiNj_FJS8YFR28_u0mOQPjcvCHw9SGlJGeKnHCt-fZA5smvSDZ-YuOwOVEorA5RmiqdrYlJP0UTtLTAbepKRkTF_ihb1fphkJIi47MfaB_2F1Aku49-4IpTrqwpaUf9k0ueIPZJIg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/KF7b12yAuvhXXt7IwDu4so3QIAmwMpcXnQSHWsQqLBOOW_jlgtBdilxTwfLCfF9rTO7bQ6fdK6CPTo6Z3_DkCaM2iJl31RQwkRXUyFgP5nXaImi0-Nuve1S58M1yNPgpGP5JTsQYrP6h8MsAUauFt14idg5Ys9I6JUcLbplUxKR1cAUH_ipCy-uLdwxmzZxbnB_DO1lf69X9adq4PNdmxbwyfhwntckdNTlUA-hx5PG1cuTdUeIyXgu-wcxnKPiGV6n6aZw-kx9_Hq2xms8G5fQy70YvcwSla6i8LtjcoaOX6vRtor_c-jagQB8VW7uIT4V9nC8dt_uMXbbXHgldQw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ryYbclG-9grB1R7LzdyRbmB-bVX895Qlt8T4-qREsTEQHxe0GJRxbK3c7iAJug3YhdxUSFYFQmJ00v2xcN1lQgXT0p6VE5TjgYusJ9oBfacisUNkUyxpXH034NguHlqC3u06kpjtrDOOrCQXqry76wXSUgMzC8kZ1i5n9YZuQdpG3ifh6lDavkV0F4lmdnaenWLBdT6P6WXqhsil2kMdpW-JnjVPT8zRFJiHp3zDD3JgXSvfP42GWAmkBV9lmxSpyUPUD6ngifj5f9DR1DKvS5RFHaCPfnJkNXan2pUgq1wgYVCsrnSM9kf6OFoZlgN_0kCrQ3BvmTQNp-e4bbHpbA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/mWWgMgrD3uu-hm8FZNRjmjk1XODk58mJ-4RpB9GtVjcmnqua3X1RBEWPxBm2qFjb4haaPqjHqgjCXApp4ufAg1gjOxBrn3UI-CkAO_qjl2AmnXV7CokTzGUlkEIsowV689qV6tQhCClJt12aiD3POPyQOVIjn6YFTpRS0TSzcsPCUAIjmCxufwmiAQTSHoYNRJCuUX_CSMCnKsgjXcPon6opM8DbbX57Tfl5KbG9pKyWXtsveW1ziy3WLm9jEK1cCAqvQlPlZ0n3-R9l-MMWN_zaUwIO_Y6wb2_DdY1d4Fe81Wxo6iPMrXKkt8v96XDWHscPbH7FN29z0yakDlvG3w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kOwvrxnXjsiU-GJJ2fgj-qVNa5AbLYUIH8gQMBJJ5_jK4u0S6dub40GA1f58wHk6NjOxK9EsLj22vVQEkMP1vSsluphYu-v_IrOy5MY6hzQIjOfFMyYVqiMD8qBLxCZkwAY4QfDsQUroDzy4HXNvsduIzNj9Va_d0fa6tEVOtyiVwfy1Eb1WK2jRFU4Hm1XL10WHXqUzr7Li3gwNOTpUrrjNcHKGEjSqEU90dKJ5bPOMuxrEfn0LR6HI9GmxBenXBt3tBB0PsUD5X9C52_I6UO92zVy9Zc6kEpodcWdaed6ZHeoievAWPLOKC7nosAQgdeQCXlWkoOAGf-3YpMcVig.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
