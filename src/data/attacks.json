@@ -86136,7 +86136,12 @@
     "description": "⚡️ Three major mistakes made by Saudi Arabia since the start of the American-Israeli war on Iran:- Allowing Washington to use military bases, which the US President confirmed when Tehran struck refueling aircraft at Prince Sultan Air Base.- Escalating the blockade in Yemen instead of moving towards implementing the roadmap with Sanaa (it preferred to use force against Sanaa, which moved towards breaking the blockade, and its consequences included bringing a naval blockade and bombing of oil faci",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/CjS4YhMwUb5nu6myy07r5CgoEDDnDYhdKwcYpadKQBG7Plrv3DH-APZ_0NaIeoL5qSX3HV6n-jcUEnxx3_iNi5g4orDEy8EElAiUklCvLNTHwX-wYALYYsr5-SwovIWTTHLKy49nPoZytHTfWq3VuTEYmKxf2LB0e7_wcUvzIlsF8a4Suvly-5z6tAsAD1SrrfJAHx5IepRSoEAkOpHs6nGMVIWCSmykGgTR2zDLQLclDjQQ8xkwpPmAOTiaXBOLGFpC2KNdolilklEX7OKTcH6wlCMAZP1vvak-ZmMsrjoqIw2XI75be5g_7VIKVwrBY09zmydFW5Dosl3N2pTrFA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477373680,
@@ -87154,6 +87159,84 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477439220,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Aden, Yemen, Suez: Saudiowned tankers which approached Gulf Aden",
+    "location": "Aden, Yemen, Suez, Suez Canal",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/simurgh",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇸🇦Six Saudi-owned oil tankers, which had approached the Gulf of Aden from the east intending to pass through the Bab-el-Mandeb Strait, have altered their course due to the Yemeni Ansarallah blockade —imposed in response to the 11-year old Saudi siege of Yemen— and will now circumnavigate the entire African continent to reach Saudi shores through the Mediterranean and the Suez Canal.@SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GqgmSgv6XRphRnfkAuYKe1vztTNe0EwuI05bU8xD6DkmPW4V3h_Cz2s5lOpL_CvDB_RhdmKxenlFrQTdj7yForaV2AKEylqhsyca7O-42NgAyqDAlcsbDbWWW1CdNVvvoI9i-5UO2kD87-EaQDD52zHtRMOq6KRPYVXM8IjHoNStZPVBzRujWFAnJWPCos_Ub3qA5e0HmHWqiQzv-CNuR48-azdwom0VRD8Igc-fhQcPEC9VHAZGj3ssbnNUD2vrAjuNVyLkcLl1-klLHnNTg92bvwHhDGE3-Lyi98IHTuXCeCW_faWgyFoSkDf5X-3lsxTSlzUmhHsiP7MvdITvIw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/nL1h7x-Utnbl4EXaQjokOzWYxMtTEuKMsNVz2_QzgoE1WEs1CqgClZzMuS6CxtlecQH3BcWkdiqB3iQh11gKjSW5ExlCzTFHYTBu43GwCccTi_spRVqRZexmAYcHL_dHCG3dw_npN6ynoQMGa-e-GmyuU-n9OGl6sxE6ZRq_7kDmGkgokke1N0zSVBq-Ym7LSRKZfbTtHOYPsHrdtpZQCNMTR1UKQhEK299JLoGYnTv7pQiLh3flwduxsg-JQkQJRViiABi1Y4ecyAS_VPxh0uFHRszBVmbjiYC6eJVeGCGrXBkbgUwBySGxr72CYKubNMvKkJNeElMJzblwWsfDAQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477441495,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gilan: State DepartmentAmericans currently Middle East should",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (simurgh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "US State Department:Americans currently in the Middle East should exercise caution and heightened vigilance and should be prepared for flight cancellations, periodic airspace closures, and potential travel disruptions. Some airlines in the region have postponed resumption of earlier flight schedules; others have cancelled some routes. Americans outside the Middle East should seriously reconsider travel to and through the region. Those whe do travel to or from the region should monitor informatio",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ALV3z4ADcP0Qa4K3Lo-xAfl6DodPPst_4Jl_bcghaqULLkTr0yzAsOnvwRfShlTT93lckKHRxFHgBdeYk-N4VwKNLHcAUBEicFbi0fdJ8tkOycIwvCFjK2Pivv_w230bzdySIuYCVQKNWFT7jG_hCL4wWIf92d2fSMbfkZRgPOfka1AAabIfoynHOJly-LuoH93EHbi6MCiAHon9fCbY8snmuu90m5TYvMQGbnaWg2TYjx6Igj6AIgH5zf9kypK5ekYbUpM5CnJOY0MMDaLQBtqeM68LnAcOoj-x45StG-L-m42YbBbrjXeqQLHpqy8wfDvoLTuj0-t2kxEwZlf0nw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477331196,
