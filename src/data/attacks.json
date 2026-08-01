@@ -86668,7 +86668,12 @@
     "description": "⚡️ Ron Ben-Yishai, military analyst for Yedioth Ahronoth: The ceasefire plan in Gaza will keep Hamas the strongest party in the Strip behind the scenes, and will tie the hands of the Israeli army.The vague statement of intent from the World Peace Council makes the reality of Hamas in the Gaza Strip exactly like the reality of Hezbollah in Lebanon, and Hamas will obtain immunity from assassination, and achieve a gain in awareness in the form of a path to an independent Palestinian state, all this",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/lSW7kzfOBdtBMwtRL72dYHSIL50P8hvcOGrJbrPVZgPvsvHuG8PVLFImXWDNiXJw9s6ZuR63pAx6v2jZj5k4JavvwGG-yqFRcNrx3E9D9kuyZG_GAoc6okRJrygYEkw6tIvRu032ztvEBhaBWIRkuxVEPjdRsToA8rLoNYdnTLf2Jd_oqi9VhVrNS1JzQwE8QDoE4eRE8Ym910FpcvFM7T9n_6IglFwkOPOIkDjBrHrzvhkMhRQZs3ioyCj9GuSYwZ13V-JzQtQmyxTiJUnp1cofwqDROkvpManM_BNfEYm87KYmVoeYp8B14I4IFq-OzybVG0aeAFkAfcocDssvAw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477409736,
@@ -86730,6 +86735,145 @@
       "other": 0
     },
     "description": "⚡️ A group of casualties was transferred after a reconnaissance aircraft shelling of a group of citizens near Ahmed Pharmacy in Third Street, north of Gaza City.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477414261,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Gaza Strip: occupation drone strike vicinity Deir alBalah",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ An occupation drone strike in the vicinity of the Deir al-Balah roundabout in the central Gaza Strip.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477416525,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Erbil: Fire breaks Berdawd refinery Erbil",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Fire breaks out at Berdawd refinery in Erbil",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0d92e20ce0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TJJMZr2ke5UMWwMqVTewlOd7SYihdZK4hc2-N7DJGyX5LUKA2a6hBCU-fBeU8KsWhoX7yLKB3P9MD3F2i2YGNinw4C0BnmqRXnSi7BGPjB-UDydtthu7lUfd1gnoy0PnNvtoRJwDCASOPpJdwQP0UiW-uumWth2FK8wrLrAp-i1njLu1adHWgWE6I2LUa4X94fOTQXF4_N_NzYoy2EhHD_gErEH1-Zm4RXvvH5dv7LA__VFZc1M2Ch_o9aD_6CrcL5dK9CccQvOerTYsHf6hpgMIQ3bvZTrDZgPeUbdgSAwC7AAvOLjnmCaM2UgKk3P0bX5JPV_0XCtdYBF8hn7RuQ"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059312",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TJJMZr2ke5UMWwMqVTewlOd7SYihdZK4hc2-N7DJGyX5LUKA2a6hBCU-fBeU8KsWhoX7yLKB3P9MD3F2i2YGNinw4C0BnmqRXnSi7BGPjB-UDydtthu7lUfd1gnoy0PnNvtoRJwDCASOPpJdwQP0UiW-uumWth2FK8wrLrAp-i1njLu1adHWgWE6I2LUa4X94fOTQXF4_N_NzYoy2EhHD_gErEH1-Zm4RXvvH5dv7LA__VFZc1M2Ch_o9aD_6CrcL5dK9CccQvOerTYsHf6hpgMIQ3bvZTrDZgPeUbdgSAwC7AAvOLjnmCaM2UgKk3P0bX5JPV_0XCtdYBF8hn7RuQ"
+      }
+    ]
+  },
+  {
+    "id": 477418790,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Gaza Strip: Occupied Palestine Ministry Health Gaza Strip",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupied Palestine: Ministry of Health in the Gaza Strip: We condemn the heinous crime committed by the occupation forces at dawn today, by directly and systematically targeting the medicine warehouses in Al-Aqsa Martyrs Hospital.• 09:20 — Occupied Palestine: Ministry of Health in the Gaza Strip: The destructive power of the missiles used led to the obliteration of two out of four warehouses from the targeted location, in addition to causing severe and ex…; The targeting caused extensive dama",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477421056,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Gaza City, Israel: Occupied Palestine Mayadeen correspondent martyr critically",
+    "location": "Gaza City, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: A martyr and a critically injured person arrived at Al-Aqsa Martyrs Hospital as a result of the recent Israeli attacks.• 09:27 — Occupied Palestine: Al Mayadeen correspondent: 3 martyrs in Israeli raids on Gaza City and Deir al-Balah since this morning (Al Mayadeen Breaking)",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
