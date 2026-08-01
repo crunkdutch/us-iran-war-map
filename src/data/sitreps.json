@@ -186281,6 +186281,21 @@
     "verified": false
   },
   {
+    "id": 1785562939599,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "UK Maritime Trade Operations:We have received a report of an incident that occurred 11 nautical miles northeast of the port of \"Lima\" in Oman.In this incident, the engine room of the oil tanker was damaged as a result of being hit.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -186394,6 +186409,141 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785562914778,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Municipalities of:Kafartibnit, Zawtar Al-Sharqiyah, Zawtar Al-Gharbiyah, Nabatieh Al-Fawqa, Yahmar, and ArnounCalled for participation in a peaceful sit-in in front of the Nabatieh Governorate building at 10 AM, protesting the continued Israeli aggression and the bombing and demolition operations...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785562935329,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Media Office of the Presidency of the Republic:The President of the Republic, General Joseph Aoun, congratulated the army, its command, officers, non-commissioned officers, and individuals on Army Day, which falls today, August 1st.President Aoun said on the occasion:The Lebanese Army is not an i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785562898568,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Media Office of the Presidency of the Republic:The President of the Republic, General Joseph Aoun, congratulated the army, its command, officers, non-commissioned officers, and individuals on Army Day, which falls today, August 1st.President Aoun said on the occasion:The Lebanese Army is not an i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785562884994,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Intense gunfire from occupation vehicles south of Khan Yunis, southern Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785562876999,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iranian media: The American attack on Iran's energy infrastructure is not just a war with Tehran, but a gamble with global energy security. All will burn: Saudi Arabia's Ghawar, Qatar's Ras Laffan, UAE's Zakum, Israel's Leviathan, and others. The first missile is the beginning of a crisis that no...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785562891239,
+    "type": "missile",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iranian media: The American attack on Iran's energy infrastructure is not just a war with Tehran, but a gamble with global energy security. All will burn: Saudi Arabia's Ghawar, Qatar's Ras Laffan, UAE's Zakum, Israel's Leviathan, and others. The first missile is the beginning of a crisis that no...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785562961334,
+    "type": "missile",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iranian media: The American attack on Iran's energy infrastructure is not just a war with Tehran, but a gamble with global energy security. All will burn: Saudi Arabia's Ghawar, Qatar's Ras Laffan, UAE's Zakum, Israel's Leviathan, and others. The first missile is the beginning of a crisis that no...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785562892634,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iranian media: The American attack on Iran's energy infrastructure is not just a war with Tehran, but a gamble with global energy security. All will burn: Saudi Arabia's Ghawar, Qatar's Ras Laffan, UAE's Zakum, Israel's Leviathan, and others. The first missile is the beginning of a crisis that no...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785562886040,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iranian media: The American attack on Iran's energy infrastructure is not just a war with Tehran, but a gamble with global energy security. All will burn: Saudi Arabia's Ghawar, Qatar's Ras Laffan, UAE's Zakum, Israel's Leviathan, and others. The first missile is the beginning of a crisis that no...",
+    "media": [],
     "verified": false
   }
 ]

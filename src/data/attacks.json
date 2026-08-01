@@ -86080,6 +86080,75 @@
     "media": []
   },
   {
+    "id": 477373680,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Saudi Arabia Missile Strike — Tehran, Qatar, UAE: Iranian media American attack Irans energy",
+    "location": "Tehran, Qatar, UAE, Saudi Arabia, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iranian media: The American attack on Iran's energy infrastructure is not just a war with Tehran, but a gamble with global energy security. All will burn: Saudi Arabia's Ghawar, Qatar's Ras Laffan, UAE's Zakum, Israel's Leviathan, and others. The first missile is the beginning of a crisis that no one will be able to contain.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477375926,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Beirut, Lebanon, Israel: According news information information coming from",
+    "location": "Beirut, Lebanon, Israel",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ ▪️ According to news information, the information coming from the American capital does not indicate any change in Washington's position. It turned out that it did not demand from the enemy government's prime minister, Benjamin Netanyahu, during his recent visit there, a new step, although it called on him to accelerate the withdrawal from Lebanon, but it did not set a timetable for that. When officials reviewed the American administration, its answer was that it obligated Netanyahu not to ex",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DchHdUqOxid9camDL2m8K3oQ6O701uuKGuki2iYMXYFaWQ5lAtNmUlR3s32wjV9vwJ_0R3I_W0S1kpRBSiEpakvYWstEFSemNxyn8fboY1mjoaSmn_YhMxez-kvjrUEHDFBnIj-0UFfhJWUgS8E9Hu77nQfn7YpkZn26TU4YDqw29W3dxNvTsBmBxATx89cpvNEZ6-zk2-2bdlXMVDpRpR6cseO2S9t65twJMaIsSmmDBEtC9OOaRj6j6LTxMOTT2tRE1a6pQGITQAn1I9iXuejqNp91Hqs6XMtPK3_DmKLa2-8pbtWiII0_nriOIPrdT19Idvn1WHVAQdQxuoKPVg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
