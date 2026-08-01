@@ -192407,5 +192407,205 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785627712037,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Drone attacks on Sulaymaniyah are underway. • 22:20 — Explosion in Sulaymaniyah, Iraq 🔹Iraqi sources report drone attacks on the headquarters of separatist terrorists in Sulaymaniyah, Iraq. (IRIB News) • 22:22 — Violent explosions and rising flames from…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785627697598,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Explosion in the middle of the Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785627773059,
+    "type": "drone",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "Iraqi sources report a renewed drone attack on the bases of anti-Iranian terrorists in Erbil and Sulaymaniyah, Iraq.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/61c75ffb7c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XZ40tRPMK-DTGim9SrhcoFkVn_c9Hs6KMaAmwF2Ej7jjXFoPkpOIq3a09cjj9fYdC6XpkC9y-qiM4cLvPfdA9dAdfQOpW088AhkiIzz2C4kebek3IxBiJOYOuIG66dT3t6Yloqb3cY01WidlrbBqKyCvWuu09BwowUKjq7QOTdvwy3pbnFu7Rl_AEnRqNjSVZiVYPW6robxlvafHXG94PEh72U4b1G3jmmZdTVYaLnLaFCJtwDIH4G7NrnpsBGNmcdHYOfXz4M39w-Kf5hOXPyy3vkzcnPnWGDdePINt1-FaH25geMvVwH_LoqdtEtX9tdomYulYjGcZFz15Jr12jg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059838",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XZ40tRPMK-DTGim9SrhcoFkVn_c9Hs6KMaAmwF2Ej7jjXFoPkpOIq3a09cjj9fYdC6XpkC9y-qiM4cLvPfdA9dAdfQOpW088AhkiIzz2C4kebek3IxBiJOYOuIG66dT3t6Yloqb3cY01WidlrbBqKyCvWuu09BwowUKjq7QOTdvwy3pbnFu7Rl_AEnRqNjSVZiVYPW6robxlvafHXG94PEh72U4b1G3jmmZdTVYaLnLaFCJtwDIH4G7NrnpsBGNmcdHYOfXz4M39w-Kf5hOXPyy3vkzcnPnWGDdePINt1-FaH25geMvVwH_LoqdtEtX9tdomYulYjGcZFz15Jr12jg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785627747071,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "Iraqi sources report a renewed drone attack on the bases of anti-Iranian terrorists in Erbil and Sulaymaniyah, Iraq.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/61c75ffb7c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XZ40tRPMK-DTGim9SrhcoFkVn_c9Hs6KMaAmwF2Ej7jjXFoPkpOIq3a09cjj9fYdC6XpkC9y-qiM4cLvPfdA9dAdfQOpW088AhkiIzz2C4kebek3IxBiJOYOuIG66dT3t6Yloqb3cY01WidlrbBqKyCvWuu09BwowUKjq7QOTdvwy3pbnFu7Rl_AEnRqNjSVZiVYPW6robxlvafHXG94PEh72U4b1G3jmmZdTVYaLnLaFCJtwDIH4G7NrnpsBGNmcdHYOfXz4M39w-Kf5hOXPyy3vkzcnPnWGDdePINt1-FaH25geMvVwH_LoqdtEtX9tdomYulYjGcZFz15Jr12jg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059838",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XZ40tRPMK-DTGim9SrhcoFkVn_c9Hs6KMaAmwF2Ej7jjXFoPkpOIq3a09cjj9fYdC6XpkC9y-qiM4cLvPfdA9dAdfQOpW088AhkiIzz2C4kebek3IxBiJOYOuIG66dT3t6Yloqb3cY01WidlrbBqKyCvWuu09BwowUKjq7QOTdvwy3pbnFu7Rl_AEnRqNjSVZiVYPW6robxlvafHXG94PEh72U4b1G3jmmZdTVYaLnLaFCJtwDIH4G7NrnpsBGNmcdHYOfXz4M39w-Kf5hOXPyy3vkzcnPnWGDdePINt1-FaH25geMvVwH_LoqdtEtX9tdomYulYjGcZFz15Jr12jg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785627694419,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Artillery shelling by the Israeli occupation on areas under its control north of Rafah city in the southern Gaza Strip• 23:32 — Occupied Palestine: Al Mayadeen's correspondent in Gaza: Israeli artillery shelling northwest of Rafah city in the southern Gaza Strip (Al Mayadeen Breaking)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785627711916,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Artillery shelling by the Israeli occupation on areas under its control north of Rafah city in the southern Gaza Strip• 23:32 — Occupied Palestine: Al Mayadeen's correspondent in Gaza: Israeli artillery shelling northwest of Rafah city in the southern Gaza Strip (Al Mayadeen Breaking)",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785627790125,
+    "type": "intercept",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇷🇮🇶 Scenes from the Iranian drone strikes on Erbil and the US-operated C-Ram attempted interception.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c6c63f8bbe.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uyUeqBKxUl8gKC7syxZwY0_jU6pQhMruPGs5iNOXucuy4mpHquj8B3MGI6S5krcnocYvI3yS7ooUkHNdsM58yxg1sV0NJgIRRUJnWt_1zHRKDZmatlxrHstpJplwmdqTjLnE-99g6RvAc-JlXuUnxPhLA_Nk9Hf5eHxXMF20m6FDU2LTEkZIwUMQZtYS76h8SLNFTT0w4GaOR9ljlPt9CD55Y3N9uAkmvbdsnR8Wq9hjOZSbDBbP7tdTZi9WZYTjsg6C6UVppGpsmot_j68_F6MKlFvVXNF0_qKvs2owB0qibdiSBQ5mYCaHUFc7q-4KTnz9P_wiaAEzdjpl8QJ5zQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/901ac827b5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uyUeqBKxUl8gKC7syxZwY0_jU6pQhMruPGs5iNOXucuy4mpHquj8B3MGI6S5krcnocYvI3yS7ooUkHNdsM58yxg1sV0NJgIRRUJnWt_1zHRKDZmatlxrHstpJplwmdqTjLnE-99g6RvAc-JlXuUnxPhLA_Nk9Hf5eHxXMF20m6FDU2LTEkZIwUMQZtYS76h8SLNFTT0w4GaOR9ljlPt9CD55Y3N9uAkmvbdsnR8Wq9hjOZSbDBbP7tdTZi9WZYTjsg6C6UVppGpsmot_j68_F6MKlFvVXNF0_qKvs2owB0qibdiSBQ5mYCaHUFc7q-4KTnz9P_wiaAEzdjpl8QJ5zQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8459?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uyUeqBKxUl8gKC7syxZwY0_jU6pQhMruPGs5iNOXucuy4mpHquj8B3MGI6S5krcnocYvI3yS7ooUkHNdsM58yxg1sV0NJgIRRUJnWt_1zHRKDZmatlxrHstpJplwmdqTjLnE-99g6RvAc-JlXuUnxPhLA_Nk9Hf5eHxXMF20m6FDU2LTEkZIwUMQZtYS76h8SLNFTT0w4GaOR9ljlPt9CD55Y3N9uAkmvbdsnR8Wq9hjOZSbDBbP7tdTZi9WZYTjsg6C6UVppGpsmot_j68_F6MKlFvVXNF0_qKvs2owB0qibdiSBQ5mYCaHUFc7q-4KTnz9P_wiaAEzdjpl8QJ5zQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8460?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/aQ5gF2_9gMx0QwWRU4kE3JHOHc-QXjegSkehLwRxZFLFLxWQPAjimf8GTsa8N-LmwGqO17XCUFqHb6OXkC4AwvGfte3Uer62t-fMkiIiqXfEnlFjL1VaeaYlatPoaaCRhxPSGZ0aMMzNo6_3MeuGe8RElmQ0RCCby3JsaqEW81kDrU7tF2NbXikXDl1ZOTUp_LO4zc1ac3FlJxg9-7oGQuXK6CDPsPFF2qlxt47VTgYiF6zJVouYWEIZ3hpehTw2QnFHfEJf9jx6iIA7h_yGY9azYc7dBrQv88Kcv8TAKC76-lsrNxLGtb16azG4N28IoQby8b_WzLI77Nn3rB1HgA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785627699517,
+    "type": "intercept",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇶🇺🇸 /🇮🇷 Footage of C-RAM air defense activity in Erbil, Iraq.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4064eb874b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hJHGclPYslbfyvni9cnsOmCMYcDNtbYxN0MEb3bvkI4tsopRCaxM0N07Irat2-OyQQU02yHgPBnj5Jmhtv6Wq43aKM2I2CBdwgWng_vJ40e4IwT2STaMVBnw_irI7dNNrOfJ_MMt4BUVuJGuBmWxUtcQ6Tx1JqTRqisgQJIuf0SGDQnij-93f2zfo6RjC9d_deZSd4i54iu7EvGTDUtJuD17nQtro3lh3D2KMhrnZRR6xCjWNwQKZWVOD2MWHgccf04tcHu6lRkK61mGeMu6-NKrW41X4fKAjraH8GFoWoSXpMBlZ6ZklCH0PRsMFovFcl1mPPr3r-S3IqdMmOGsUQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8463",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hJHGclPYslbfyvni9cnsOmCMYcDNtbYxN0MEb3bvkI4tsopRCaxM0N07Irat2-OyQQU02yHgPBnj5Jmhtv6Wq43aKM2I2CBdwgWng_vJ40e4IwT2STaMVBnw_irI7dNNrOfJ_MMt4BUVuJGuBmWxUtcQ6Tx1JqTRqisgQJIuf0SGDQnij-93f2zfo6RjC9d_deZSd4i54iu7EvGTDUtJuD17nQtro3lh3D2KMhrnZRR6xCjWNwQKZWVOD2MWHgccf04tcHu6lRkK61mGeMu6-NKrW41X4fKAjraH8GFoWoSXpMBlZ6ZklCH0PRsMFovFcl1mPPr3r-S3IqdMmOGsUQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785627728063,
+    "type": "intercept",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇮🇶🇺🇸 /🇮🇷 Footage of C-RAM air defense activity in Erbil, Iraq.@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4064eb874b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hJHGclPYslbfyvni9cnsOmCMYcDNtbYxN0MEb3bvkI4tsopRCaxM0N07Irat2-OyQQU02yHgPBnj5Jmhtv6Wq43aKM2I2CBdwgWng_vJ40e4IwT2STaMVBnw_irI7dNNrOfJ_MMt4BUVuJGuBmWxUtcQ6Tx1JqTRqisgQJIuf0SGDQnij-93f2zfo6RjC9d_deZSd4i54iu7EvGTDUtJuD17nQtro3lh3D2KMhrnZRR6xCjWNwQKZWVOD2MWHgccf04tcHu6lRkK61mGeMu6-NKrW41X4fKAjraH8GFoWoSXpMBlZ6ZklCH0PRsMFovFcl1mPPr3r-S3IqdMmOGsUQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8463",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hJHGclPYslbfyvni9cnsOmCMYcDNtbYxN0MEb3bvkI4tsopRCaxM0N07Irat2-OyQQU02yHgPBnj5Jmhtv6Wq43aKM2I2CBdwgWng_vJ40e4IwT2STaMVBnw_irI7dNNrOfJ_MMt4BUVuJGuBmWxUtcQ6Tx1JqTRqisgQJIuf0SGDQnij-93f2zfo6RjC9d_deZSd4i54iu7EvGTDUtJuD17nQtro3lh3D2KMhrnZRR6xCjWNwQKZWVOD2MWHgccf04tcHu6lRkK61mGeMu6-NKrW41X4fKAjraH8GFoWoSXpMBlZ6ZklCH0PRsMFovFcl1mPPr3r-S3IqdMmOGsUQ"
+      }
+    ],
+    "verified": false
   }
 ]
