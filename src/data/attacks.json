@@ -87728,6 +87728,44 @@
     ]
   },
   {
+    "id": 477471161,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Saudi Arabia Naval Operation — Sanaa, Saudi Arabia: Saudi Arabia holding medicines medical supplies",
+    "location": "Sanaa, Saudi Arabia",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Saudi Arabia is holding medicines and medical supplies bound for Sanaa, increasing the suffering of kidney failure patients amid a shortage of treatment and equipment, as part of a blockade that has been ongoing for nearly ten years.Report: Ahmed Abdel Rahman",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059741",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/VdaqRbRb8U0UkP1IQN5BUr1CIh2qdPywCWZ-c9Fxkwbuu0Npl907ZzwaEL7Bk8Py400lU8LWxogzha-dTBeChRndHs_g4ePHyE0GkaM9XeqjuJ5570S6QRP33pT9OHHhj0kWS0daRhv9uHWZmknOnN3vAk6wqRdxYjByJheaYQ8kUTFf1lEJcdB2CsQzoLN4eI83e4huhrtMJeSNoa8c-Ny5Z8Q_Urqt97MAaslXRNKy_RCovey1O4-UsJTj0yBsdpkV9yUL303U3NGlCy7BR3P1ltE1s5FRYf9pBuNbWct0VL0o63EkIV6iBXptuxGb8oCYTHkpAakmCYggJDMJEA"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
