@@ -186695,5 +186695,31 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785565683274,
+    "type": "rocket",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Impacts of the occupation's shelling of a medicine warehouse in Al-Aqsa Hospital in Deir al-Balah, central Gaza Strip, and the destruction of displaced persons' tents.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/41da08fa69.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/H3fUIRpaQqp6iTjv9Pt7xbOsC715ZdRUEmciZZbxDjAwZiq85_Efc-x9BfvWZoXXakzBXnpxdizyGO1ztNf2xDRTTSUZjvKuEID2jPRAgmInLEO3G8viSn_LlLYtxJ_BlxFga38vrl6bUP6nnT-NBTNAlOeeMFdrtEyyitQvHd1U6GL0WAOFSV90VbbF8wtQ41VEJaXzARjnGvMj0KjNYNuGRgnB0MGTjjXwS43NJbofEpbZB1qDH_XMmQIFUjljbj9O5_p_FBAnL3c3ErNJSQxI3o6upLcAjM0Fp0kJ0_w0eRQWGt8ALK28Qb-UI3NSkkUnLYaTAyoYhJ4viCR6nw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059220",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/H3fUIRpaQqp6iTjv9Pt7xbOsC715ZdRUEmciZZbxDjAwZiq85_Efc-x9BfvWZoXXakzBXnpxdizyGO1ztNf2xDRTTSUZjvKuEID2jPRAgmInLEO3G8viSn_LlLYtxJ_BlxFga38vrl6bUP6nnT-NBTNAlOeeMFdrtEyyitQvHd1U6GL0WAOFSV90VbbF8wtQ41VEJaXzARjnGvMj0KjNYNuGRgnB0MGTjjXwS43NJbofEpbZB1qDH_XMmQIFUjljbj9O5_p_FBAnL3c3ErNJSQxI3o6upLcAjM0Fp0kJ0_w0eRQWGt8ALK28Qb-UI3NSkkUnLYaTAyoYhJ4viCR6nw"
+      }
+    ],
+    "verified": false
   }
 ]

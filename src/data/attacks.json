@@ -86312,6 +86312,49 @@
     ]
   },
   {
+    "id": 477387171,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Gaza Strip: Impacts occupations shelling medicine warehouse AlAqsa",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Impacts of the occupation's shelling of a medicine warehouse in Al-Aqsa Hospital in Deir al-Balah, central Gaza Strip, and the destruction of displaced persons' tents.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/41da08fa69.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/H3fUIRpaQqp6iTjv9Pt7xbOsC715ZdRUEmciZZbxDjAwZiq85_Efc-x9BfvWZoXXakzBXnpxdizyGO1ztNf2xDRTTSUZjvKuEID2jPRAgmInLEO3G8viSn_LlLYtxJ_BlxFga38vrl6bUP6nnT-NBTNAlOeeMFdrtEyyitQvHd1U6GL0WAOFSV90VbbF8wtQ41VEJaXzARjnGvMj0KjNYNuGRgnB0MGTjjXwS43NJbofEpbZB1qDH_XMmQIFUjljbj9O5_p_FBAnL3c3ErNJSQxI3o6upLcAjM0Fp0kJ0_w0eRQWGt8ALK28Qb-UI3NSkkUnLYaTAyoYhJ4viCR6nw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059220",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/H3fUIRpaQqp6iTjv9Pt7xbOsC715ZdRUEmciZZbxDjAwZiq85_Efc-x9BfvWZoXXakzBXnpxdizyGO1ztNf2xDRTTSUZjvKuEID2jPRAgmInLEO3G8viSn_LlLYtxJ_BlxFga38vrl6bUP6nnT-NBTNAlOeeMFdrtEyyitQvHd1U6GL0WAOFSV90VbbF8wtQ41VEJaXzARjnGvMj0KjNYNuGRgnB0MGTjjXwS43NJbofEpbZB1qDH_XMmQIFUjljbj9O5_p_FBAnL3c3ErNJSQxI3o6upLcAjM0Fp0kJ0_w0eRQWGt8ALK28Qb-UI3NSkkUnLYaTAyoYhJ4viCR6nw"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
