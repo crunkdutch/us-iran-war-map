@@ -86537,6 +86537,108 @@
     ]
   },
   {
+    "id": 477400698,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Kuwait: Official Spokesman Kuwaiti Ministry Defense Major",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Official Spokesman for the Kuwaiti Ministry of Defense, Major General Saud Abdulaziz Al-Otaibi Al-Muft Khor:He stated that the armed forces, since dawn today, have detected, confronted, and destroyed hostile drones in Kuwaiti airspace.He added that the heinous Iranian aggression targeted a number of vital facilities, including a government facility in the north of the country, as well as civilian vehicles belonging to a civilian company on Bubiyan Island, causing material damage due to shrapn",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477402956,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Kuwait: Note Kuwaits Bubiyan Island main center",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Note: Kuwait's Bubiyan Island is the main center for American HIMARS rocket launchers.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477405215,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Gaza City: Gaza Targeting reconnaissance aircraft west Gaza",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Gaza: Targeting by reconnaissance aircraft west of Gaza City Targeting with two reconnaissance missiles in the vicinity of Third Street in Sheikh Radwan neighborhood • 07:41 — A raid by a Zionist drone in the vicinity of Third Street in the Sheikh Radwan…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059283",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/HDfARXyrJwGQgYHfHZIUSyC91v57QAll56Jxonk_huoCdqR5zFGDhfqO8Zm5nuvr-pxu2RRCwaHs0EdXfbn0uO1pzmK73aLrc5eZ-aUs7q0qzaXiGGbY5xjPV66j8Mhpze6UZqWFhMng_A7ZW1UwWaNWRxFJXXGRSldnADXl5cddO91aXYfSU4D49AjJp5wxHUntwEuZoI7DMZJRox3riVVKZ_tKGOZ7zcgdUfCLURzvkZD5D3ybPnDSnYqapVRf5h9OiHqJDaRTu5Hhn6Vo7sEX3a13xPs30cPwtmqtEs25sn7veLU1BOMWEreDb-yIuBJ4yJyjTMzMenP2W98sWw"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

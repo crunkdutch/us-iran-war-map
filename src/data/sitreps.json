@@ -186521,6 +186521,36 @@
     "verified": false
   },
   {
+    "id": 1785573734224,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-07-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷🔻| Over the past few hours, four separate explosion incidents have been reported in Kuwait, reportedly linked to drone attacks. Kuwaiti authorities acknowledged that a number of vital facilities were targeted, including a government facility in the northern part of the country and civilian vehi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785573770420,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "⚠️🇺🇸🇯🇴— The U.S. Embassy in Jordan is urging Americans in the Middle East to consider leaving the region or be prepared to depart if tensions escalate, warning of possible flight cancellations, airspace closures, and other travel disruptions.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -187212,6 +187242,57 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ In the name of God, the Most Gracious, the Most MercifulA statement issued by the Palestinian Mujahideen MovementThe criminal escalation in Gaza confirms the Zionist insistence on continuing the war of extermination and striking all efforts aimed at stopping the aggression.We affirm that the cont...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785573704460,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Official Spokesman for the Kuwaiti Ministry of Defense, Major General Saud Abdulaziz Al-Otaibi Al-Muft Khor:He stated that the armed forces, since dawn today, have detected, confronted, and destroyed hostile drones in Kuwaiti airspace.He added that the heinous Iranian aggression targeted a number...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785573701161,
+    "type": "rocket",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Note: Kuwait's Bubiyan Island is the main center for American HIMARS rocket launchers.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785573752256,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Gaza: Targeting by reconnaissance aircraft west of Gaza City Targeting with two reconnaissance missiles in the vicinity of Third Street in Sheikh Radwan neighborhood • 07:41 — A raid by a Zionist drone in the vicinity of Third Street in the Sheikh Radwan…",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059283",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/HDfARXyrJwGQgYHfHZIUSyC91v57QAll56Jxonk_huoCdqR5zFGDhfqO8Zm5nuvr-pxu2RRCwaHs0EdXfbn0uO1pzmK73aLrc5eZ-aUs7q0qzaXiGGbY5xjPV66j8Mhpze6UZqWFhMng_A7ZW1UwWaNWRxFJXXGRSldnADXl5cddO91aXYfSU4D49AjJp5wxHUntwEuZoI7DMZJRox3riVVKZ_tKGOZ7zcgdUfCLURzvkZD5D3ybPnDSnYqapVRf5h9OiHqJDaRTu5Hhn6Vo7sEX3a13xPs30cPwtmqtEs25sn7veLU1BOMWEreDb-yIuBJ4yJyjTMzMenP2W98sWw"
+      }
+    ],
     "verified": false
   }
 ]
