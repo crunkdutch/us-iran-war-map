@@ -87314,6 +87314,38 @@
     "media": []
   },
   {
+    "id": 477448326,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "CENTCOM Interception — Red Sea, Israel: General Alexus Grynkewich Commander European Command",
+    "location": "Red Sea, Israel",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/simurgh",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷❌🇺🇸一 General Alexus Grynkewich, the Commander of US European Command, has warned the Pentagon that he no longer has enough Navy destroyers to continue protecting Israel from Iranian ballistic missile attacks while also meeting broader U.S. defense requirements.The destroyers that have been intercepting missiles targeting Israel are overstretched by operations in the Mediterranean, the Red Sea, and around Iran, while maintenance demands have further reduced the number of available ships.— W",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
