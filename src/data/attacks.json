@@ -85910,6 +85910,75 @@
     ]
   },
   {
+    "id": 477366948,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Oman: United Kingdom Maritime Trade Operations UKMTO",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The United Kingdom Maritime Trade Operations (UKMTO) has received a report of an incident approximately 11 nautical miles northeast of Lima, Oman.The vessel was struck by a projectile fired by Iran’s Islamic Revolutionary Guard Corps (IRGC), hitting its engine room and leaving it without propulsion or navigational control.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477369191,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Mohammad Baqer Zolqadr Secretary Irans Supreme",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Mr. Mohammad Baqer Zolqadr, Secretary of Iran’s Supreme National Security Council, stated:“The continued naval blockade and warmongering by the United States will further tighten the closure of the Strait of Hormuz and will also lead to the closure of other strategic straits and chokepoints. The consequences will be borne by the global economy, the energy market, and American voters.”🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nbaCidBmH1wt6RIEEY-19EmJDoklo2ZFHEZJedQuBRzB0KWGKI5tFqiIZ6XJrTKYFNAnMccIcnwWLRnN3MT22DTfFbU7do4D6-KerovMV129axBwoH-vAYkvm5VsX3vTTadctzljzhhqqJpgIN4GRafI1m_237UpFLB4i0E_f4dR5m28sLwgX2MuQfuMCFa5K0GF4U_HiOheHP_cgStAzhhPzSlPsGsz3cH6FIrXLSfAmdhLStwhaYMvsIs9hc95FEjeweFjLpSLmbul4JdGt-upSYmc25HV3Au2SywasblVWac_q-aQKKTcH2hL6K-rx7OphROO1py8QPP59QE1HQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477111420,
     "type": "airstrike",
     "status": "confirmed",

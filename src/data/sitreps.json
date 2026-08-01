@@ -186206,6 +186206,81 @@
     "verified": false
   },
   {
+    "id": 1785557515039,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Setting aside the ridicule surrounding the idea of imposing a land blockade on Iran, given the vast size of its territory, it is worth reminding the Americans of an important point, perhaps because they are unfamiliar with recent history.After 2009, Iran succeeded in delivering what the Palestinia...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785557502444,
+    "type": "airstrike",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🏴| The Commander of Khuzestan Province’s Police Force announced the martyrdom of a third police officer who had been wounded during an armed clash with smugglers in Shadegan County. Earlier, Martyr Mehdi Mahdavikia and Martyr Sina Siahnejad were also martyred in the same incident.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785557541481,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli forces have intensified their attacks across southern Lebanon over the past 20 hours, carrying out artillery shelling on Tallousa, the heights of Ali al-Taher, the outskirts of Al Mansouri and Majdal Zoun, the Al Mansouri area with fire from a Merkava tank positioned in Al Bayyada, an...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785557509014,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli forces have intensified their attacks across southern Lebanon over the past 20 hours, carrying out artillery shelling on Tallousa, the heights of Ali al-Taher, the outskirts of Al Mansouri and Majdal Zoun, the Al Mansouri area with fire from a Merkava tank positioned in Al Bayyada, an...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785557513491,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-31",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The United Kingdom Maritime Trade Operations (UKMTO) has received a report of an incident approximately 11 nautical miles northeast of Lima, Oman.The vessel was struck by a projectile fired by Iran’s Islamic Revolutionary Guard Corps (IRGC), hitting its engine room and leaving it without prop...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -186218,6 +186293,46 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Municipalities of affected villages mobilize and call for a peaceful sit-in and movement…&#33;&#33;The municipalities of Kfartibnit, Zawtar al-Sharqiyah, Zawtar al-Gharbiyah, Nabatieh al-Fawqa, Yahmar, and Arnoun called for participation in a peaceful sit-in in front of the Nabatieh Governorate, ...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785557549708,
+    "type": "airstrike",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Scattered Showers Predicted in the Northern Strip Over the Coming DaysMeteorological Organization:🔹Over the next three days, the Caspian Sea coasts, Alborz heights, West Azerbaijan, North Khorasan, and northern Razavi Khorasan will experience showers and thunderstorms.🔹Concurrently, strong wi...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/MQ_uYAYou4cvgbXrUauqrq6LSO5kx1gxb7dhbvwsMOuZ0y3gzQUv3tsgbeokFOb79f40Gm20QTP0lveoJ8DYaPwgLS26lALr92aq07RDwLxr7Jmfynr3jJBM7WuXoa30_74TCev_CRcg9XFOTpAGBmmAQ77lCHai_YUEcxQxcu79P8xt2w1IUwykjqq8tLfRGRcjsXQoJtevCa9HSJV-B6W4deQHTXJsGUfYVm9HyaZW_XufdHnMK7BZwPPfruLMdjDPSxGVP67jH39YwLaBEfNExoGzYmlFEsigVxILE15WEJEccYNCO8ZxiroJDi_m4ydz-bXHdwhjY1bN7aAkYg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785557526549,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Scattered Showers Predicted in the Northern Strip Over the Coming DaysMeteorological Organization:🔹Over the next three days, the Caspian Sea coasts, Alborz heights, West Azerbaijan, North Khorasan, and northern Razavi Khorasan will experience showers and thunderstorms.🔹Concurrently, strong wi...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/MQ_uYAYou4cvgbXrUauqrq6LSO5kx1gxb7dhbvwsMOuZ0y3gzQUv3tsgbeokFOb79f40Gm20QTP0lveoJ8DYaPwgLS26lALr92aq07RDwLxr7Jmfynr3jJBM7WuXoa30_74TCev_CRcg9XFOTpAGBmmAQ77lCHai_YUEcxQxcu79P8xt2w1IUwykjqq8tLfRGRcjsXQoJtevCa9HSJV-B6W4deQHTXJsGUfYVm9HyaZW_XufdHnMK7BZwPPfruLMdjDPSxGVP67jH39YwLaBEfNExoGzYmlFEsigVxILE15WEJEccYNCO8ZxiroJDi_m4ydz-bXHdwhjY1bN7aAkYg.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   }
 ]
