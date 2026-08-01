@@ -180816,6 +180816,54 @@
     "verified": false
   },
   {
+    "id": 1785584508673,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇺🇸🇮🇱🇮🇷| US embassies in the region, including in Jordan & ‘Israel’ are warning US citizens to leave. Trump & Netanyahu about to launch a bombing campaign against Iran within the next few days.@FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/lXmwB_g1fdJXDlU43t-GDtn0V__etwrBm4r9KWEnnU_t6827XjsqMnGvFelkFxL6ypfn-PQ_0ZZAOp6Li-PoWhv5ahQxX9CXhxCz0JAlpz7e0Up1Az4qgrlUjlOYfOhhHQ-upFsO5NSm0kgsLzfWmMZiGRjxuRqoK7XdJ8Zn9yShhR5gZugCxJYLObF9ODQlaBxI1Hl4ZO_n-_TEPuIOeESjwJ1ksIOgKoOyaY1HwT3g2olWUW9bkftxSe7mwUGLRjuAUi20a0jNmlfoid_oLpFDBhzlvto4GzrCDGYI1Npk9NaaP8afJkYKGe-VGvl50BZ0cmEuD4eOXdvueZv3yg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/c9SlU1tUmoCX-228wkX1K6X1nDJ1tSwkkfiBddev8frowYdl9vpZGZg_bhsEbo1RVEbDZWyh39Hp4aE8wDDiVwDYwLIP7Kn5CK7R1sVNESnSGSPd_ST9j5c7hs0moAyvM8HA_vX_nd879-Z7c1Z1C-YEIO2RUcppudxW1guilcE5Og-aLvCoNmLPIlE44rHF8h_P6bkiG7vjQWDYl74T_Ba3ri94Qy207w8UtFyZaKAIwLqsc9A-3wlffD-13NyWOwPWo18MuV2YvuxxgAyOi_yq-SFWPtbpERxKee2OHV5BP0aCNWBhi9_OouUunCwGEgRPQk8SPGr1ZA4z44pSiQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785584538525,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-07-30",
+    "source": "Telegram (fotros)",
+    "sourceUrl": "https://t.me/s/fotros",
+    "description": "🇺🇸🇮🇱🇮🇷| US embassies in the region, including in Jordan & ‘Israel’ are warning US citizens to leave. Trump & Netanyahu about to launch a bombing campaign against Iran within the next few days.@FotrosResistancee",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/lXmwB_g1fdJXDlU43t-GDtn0V__etwrBm4r9KWEnnU_t6827XjsqMnGvFelkFxL6ypfn-PQ_0ZZAOp6Li-PoWhv5ahQxX9CXhxCz0JAlpz7e0Up1Az4qgrlUjlOYfOhhHQ-upFsO5NSm0kgsLzfWmMZiGRjxuRqoK7XdJ8Zn9yShhR5gZugCxJYLObF9ODQlaBxI1Hl4ZO_n-_TEPuIOeESjwJ1ksIOgKoOyaY1HwT3g2olWUW9bkftxSe7mwUGLRjuAUi20a0jNmlfoid_oLpFDBhzlvto4GzrCDGYI1Npk9NaaP8afJkYKGe-VGvl50BZ0cmEuD4eOXdvueZv3yg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/c9SlU1tUmoCX-228wkX1K6X1nDJ1tSwkkfiBddev8frowYdl9vpZGZg_bhsEbo1RVEbDZWyh39Hp4aE8wDDiVwDYwLIP7Kn5CK7R1sVNESnSGSPd_ST9j5c7hs0moAyvM8HA_vX_nd879-Z7c1Z1C-YEIO2RUcppudxW1guilcE5Og-aLvCoNmLPIlE44rHF8h_P6bkiG7vjQWDYl74T_Ba3ri94Qy207w8UtFyZaKAIwLqsc9A-3wlffD-13NyWOwPWo18MuV2YvuxxgAyOi_yq-SFWPtbpERxKee2OHV5BP0aCNWBhi9_OouUunCwGEgRPQk8SPGr1ZA4z44pSiQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785462387445,
     "type": "intercept",
     "location": "Saudi Arabia",
@@ -186666,6 +186714,71 @@
     "verified": false
   },
   {
+    "id": 1785584482266,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇿 🇧🇭 🇸🇾 | Suppression of Shiites ongoing in Azerbaijan, Bahrain, and occupied Syria:1) Bahrain: The Zionist normalization-aligned Bahraini authorities have launched a campaign of arrests and repression against Bahraini citizens traveling to Iraq for the Arbaeen pilgrimage. Pilgrims attempting...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584502729,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇿 🇧🇭 🇸🇾 | Suppression of Shiites ongoing in Azerbaijan, Bahrain, and occupied Syria:1) Bahrain: The Zionist normalization-aligned Bahraini authorities have launched a campaign of arrests and repression against Bahraini citizens traveling to Iraq for the Arbaeen pilgrimage. Pilgrims attempting...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584557153,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇿 🇧🇭 🇸🇾 | Suppression of Shiites ongoing in Azerbaijan, Bahrain, and occupied Syria:1) Bahrain: The Zionist normalization-aligned Bahraini authorities have launched a campaign of arrests and repression against Bahraini citizens traveling to Iraq for the Arbaeen pilgrimage. Pilgrims attempting...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584480452,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇴🇲 NEW: Iran struck an oil tanker 11 nautical miles off the coast of Oman, per UKMTO@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/rb1ccuCn6EQOC4qkVM8OFrB75HbZ0AxBIjZqjdb31W8hWQpk5CHik6n42sb_rq2BjPqA85AcLqq1cPEA9Sxs_KyoymY1NDNis-CibhqgO1pLJrk4o0i_xlQj8MyYawdYx4KheegE0_R9-bS0qLQDY4VK6LOs6EkvHsIy9FRZ-ByjSUNzOASNaYVL5hm8uRoHUXoY5I6duUq5R7ulZ1tUbzBpG0vWpw7HDKAgYrRXzMt-4sJq2yZGyZe9i93_YXW5QJIO59BjM14D-TOhlOs1Od96ukL0-cLmVnIiSOgLcen_sYIp00baFapfA38eiKhHS2Lw7SYxfrXvQPvHKeFuVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -188168,6 +188281,253 @@
         "thumbnail": null
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785584563060,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Security Alert from the US Embassy in Baghdad and the Consulate in Erbil Radwan",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZBvSeE9kOnutIXhJSbZqzRzko6nGMpC0GFXPywjsdXEWTNON7TbqW6JiZ6p9gVVPiCA5L7B8J4G9C9gyxIpMW3htpHVUxWb_4cWRiwMKRDfzG3YTuJjmETKI9zMLr8KBsTKmwl9I2V7C79ruye5Bbk6oebSEcNrhmdLAkzChM52147CQPehtBF-vDDh5xFirSi5Sykm3qXdWL3Clt7t9ifiJULk3RnfjgruP5ZuLLwN_ll24ur-TgSUezpepfTEsNxJ9w4qvnQnawzU0B74kJAhxp1Tc-OqIgVxe4rqYLHzp19h6wnjKPQIV9MOQejFt8uypEug46AM5z1B9nov3rw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785584551154,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Security Alert from the US Embassy in Baghdad and the Consulate in Erbil Radwan",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZBvSeE9kOnutIXhJSbZqzRzko6nGMpC0GFXPywjsdXEWTNON7TbqW6JiZ6p9gVVPiCA5L7B8J4G9C9gyxIpMW3htpHVUxWb_4cWRiwMKRDfzG3YTuJjmETKI9zMLr8KBsTKmwl9I2V7C79ruye5Bbk6oebSEcNrhmdLAkzChM52147CQPehtBF-vDDh5xFirSi5Sykm3qXdWL3Clt7t9ifiJULk3RnfjgruP5ZuLLwN_ll24ur-TgSUezpepfTEsNxJ9w4qvnQnawzU0B74kJAhxp1Tc-OqIgVxe4rqYLHzp19h6wnjKPQIV9MOQejFt8uypEug46AM5z1B9nov3rw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785584561611,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🚫 Secretary-General of the Gulf Cooperation Council: Iran's attacks on Kuwaiti civilian facilities are a continuation of that country's hostile approach in the region.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584548835,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Enemy Media - Channel 7 - Israeli Minister of Economy and Industry Nir Barkat:We will not allow Palestinian workers to return to work in Israel, and we will reject the recommendations of the security agencies in this regard. We will work to increase the number of foreign workers, and we will work...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584501770,
+    "type": "airstrike",
+    "location": "Amman",
+    "coordinates": [
+      31.9454,
+      35.9284
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ US Embassy in Amman calls on its citizens to leave the Middle East.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/eRiu07crfxfc3i31Z1qZd80hCNQiorUcRlY4COPqVDxbDd7LWshWi4Qd6mz6bsdzJxYTfeauRwtaQt_cf1kFYXlFFaZyx0py4SZ8Y6WgjCwcJV6G6rEJyp0a5DZM08EFgKdrbHbOdIeZKhZmw5JbNZkn4I85_LOrPGiim_mraEY7mc8br7bi37XkQG__yLy4QsNpINV9CHPn4RAo7qv2aXGaEj12DaerIazBROlpRYaxXD6-JzNEoZaePlMzWR7B5f45BGTecmZs0sM9hCyEKxA3RUYXne4xTUwMv2E6aKD2AqbtNIMGxRKuq1HfHQoYQaA_4aKGUbsY7IIJ884FMA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785584524690,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦Fire at a refinery in Erbil, Iraq🔹News sources have reported a fire at a fuel depot in the Shamak refinery southwest of Erbil, Iraq. As a result of this fire, the refinery's operations have been halted.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6df60e61fb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NK4ACs8NH-EJ5PhfxUeufAYizpTDpmmXeq149XyoMyB6MzI8qwo5x9OtEqX0dNPaly3Go_OJNG9EwR4-rajhvBTyr8G8NYEa9Q4-8hgwq74ScVRObMb1DBUE_5jUMkvLo6eDmWOLXYXrmfVoe99pkZjMyQTukvS4zr8JHUdvgnlbR8LXB7DvEaQVg_IL7n3v4eGYw32emOEtcthaxqzg6XmW87aZSXmiNMIhFq5KxbE8pSzDU63l5LBqkJC5vZF9ADJzhlYzFX3D5rQ05J9X3wWkgX0fKxAAVPt6m-i5hXJjGgb8sEl_s3LYKVKHthfeOv_yU_XmJX7odT7fTtbpEA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059384",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NK4ACs8NH-EJ5PhfxUeufAYizpTDpmmXeq149XyoMyB6MzI8qwo5x9OtEqX0dNPaly3Go_OJNG9EwR4-rajhvBTyr8G8NYEa9Q4-8hgwq74ScVRObMb1DBUE_5jUMkvLo6eDmWOLXYXrmfVoe99pkZjMyQTukvS4zr8JHUdvgnlbR8LXB7DvEaQVg_IL7n3v4eGYw32emOEtcthaxqzg6XmW87aZSXmiNMIhFq5KxbE8pSzDU63l5LBqkJC5vZF9ADJzhlYzFX3D5rQ05J9X3wWkgX0fKxAAVPt6m-i5hXJjGgb8sEl_s3LYKVKHthfeOv_yU_XmJX7odT7fTtbpEA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785584515998,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦Fire at a refinery in Erbil, Iraq🔹News sources have reported a fire at a fuel depot in the Shamak refinery southwest of Erbil, Iraq. As a result of this fire, the refinery's operations have been halted.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6df60e61fb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NK4ACs8NH-EJ5PhfxUeufAYizpTDpmmXeq149XyoMyB6MzI8qwo5x9OtEqX0dNPaly3Go_OJNG9EwR4-rajhvBTyr8G8NYEa9Q4-8hgwq74ScVRObMb1DBUE_5jUMkvLo6eDmWOLXYXrmfVoe99pkZjMyQTukvS4zr8JHUdvgnlbR8LXB7DvEaQVg_IL7n3v4eGYw32emOEtcthaxqzg6XmW87aZSXmiNMIhFq5KxbE8pSzDU63l5LBqkJC5vZF9ADJzhlYzFX3D5rQ05J9X3wWkgX0fKxAAVPt6m-i5hXJjGgb8sEl_s3LYKVKHthfeOv_yU_XmJX7odT7fTtbpEA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1059384",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NK4ACs8NH-EJ5PhfxUeufAYizpTDpmmXeq149XyoMyB6MzI8qwo5x9OtEqX0dNPaly3Go_OJNG9EwR4-rajhvBTyr8G8NYEa9Q4-8hgwq74ScVRObMb1DBUE_5jUMkvLo6eDmWOLXYXrmfVoe99pkZjMyQTukvS4zr8JHUdvgnlbR8LXB7DvEaQVg_IL7n3v4eGYw32emOEtcthaxqzg6XmW87aZSXmiNMIhFq5KxbE8pSzDU63l5LBqkJC5vZF9ADJzhlYzFX3D5rQ05J9X3wWkgX0fKxAAVPt6m-i5hXJjGgb8sEl_s3LYKVKHthfeOv_yU_XmJX7odT7fTtbpEA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785584495810,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ National Agency: Hostile Israeli boat fired bursts of gunfire towards fishing boats off Mansouri beach, opposite the town of Bayada, with no casualties.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584546488,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ White House spokeswoman to Hebrew Channel 13:Iran will continue to pay a heavy price until it comes to the negotiating table.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584480798,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Enemy_Alert Israeli media outlets: Clashes occurred between Egoz troops and Hezbollah elements during the night, wounded Israeli army personnel were transferred to Rambam Hospital.#War_Media• 11:18 — Spokesperson for the Israeli army: During the past night, an Israeli army officer was moderately...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584522274,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ #Enemy_Alert Israeli media outlets: Clashes occurred between Egoz troops and Hezbollah elements during the night, wounded Israeli army personnel were transferred to Rambam Hospital.#War_Media• 11:18 — Spokesperson for the Israeli army: During the past night, an Israeli army officer was moderately...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584517533,
+    "type": "airstrike",
+    "location": "Haifa",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Intense GPS jamming in Haifa, northern occupied Palestine",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584523360,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇱🇧 Israeli media:A clash occurred between Egoz elements and Hezbollah elements during the night. Wounded Israeli soldiers were transferred to Rambam Hospital.@SimurghRes",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785584509415,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "🇱🇧 Israeli media: A clash occurred between Egoz elements and Hezbollah elements during the night. Wounded Israeli soldiers were transferred to Rambam Hospital. @SimurghRes",
+    "media": [],
     "verified": false
   }
 ]
