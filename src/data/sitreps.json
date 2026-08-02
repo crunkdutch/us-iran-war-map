@@ -406,6 +406,26 @@
     "verified": false
   },
   {
+    "id": 1785667358295,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Latest statistics on martyrs and wounded in the Zionist regime's attacks on Gaza🔹The Palestinian Ministry of Health in the Gaza Strip announced that the number of martyrs from the Zionist regime's attacks since October 7, 2023, has increased to 73,356, and the number of wounded to 174,356.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/K3uYCtc5-eJlqYQeYmlwjJ21lRwt_D9dwfZvoeysWi2tWWvXkXPFmz8Mjs5ffkNLQu5VPFqk7m-q8MTK32aja3qGtN8YmBqEg4F51zZtsPIT18PVBedOJEAIgxOt1fRpaQBpMyvj2vK9SKDcoBU3YwqBwlDbV8k8oEuZChBGfYkkAcor-EWoTP0FTVG2_Nc4d34_Y5aF8DMZqz2Lh2_aMXWmUVVQgNUWa79anC98KhwUAayNPjZ54inzyUQT1k8AMTOwhsN4r2S8H4DZM4db5MbxXYbyZ1D_dETQh1DUg4xqsEItMNJJIZz5uYpH2jiJtVYpx1kTDvgCoUoSRj052g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -194846,6 +194866,36 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Israeli drone gunfire in the vicinity of Abu Hamid roundabout in the center of Khan Yunis city, southern Gaza Strip",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785667356006,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Netanyahu on the Haredim: Whoever among them does not serve in the army will be arrested.• 10:23 — Israeli media: Netanyahu and his close associates believe that the public is stupid, and in light of the difficulties appearing in opinion polls and the damage resulting from the partnership with th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785667352066,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestinian Red Crescent: A young man sustained live bullet wounds in the feet after Israeli occupation forces opened fire on him in Jalazone camp near Ramallah.",
     "media": [],
     "verified": false
   }
