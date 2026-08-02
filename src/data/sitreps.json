@@ -192809,5 +192809,46 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785638530316,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ An earthquake with a magnitude of 3.8 on the Richter scale and at a depth of 10 kilometers shook the vicinity of Takht in Hormozgan Province.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/kqNZeSGHZpjUiQJxQpYvzNok3aorQD0dFbFixjAFvaPg5qbpJaI5MffAcAKPs8l-_Wc0n6o8DEnsEL7CZst03IvcItmdrAOKwuTYSid_cQhqbERlm4GHx6vQhUeD4EstdYS1IGnnwOVWaUHVJqKsbB6lbLTmwK0pUPEjfj1WCnWQT5cTnT9Eef2WKp-4SYWv-hSlQtuDrR1PpcISpWLuS-L2fPDXSyeRrn0ca9pnhcZjucuSG9KSlHKHXIxW-BlxhQCjaL5Y-qwDluCyZ0YWOiIf7Lzr3hvART3e9pYvS3uOedwJ2sfUus2mvBsx9QCdROMxsEZK38tS_yEfzYhpfg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785638510295,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 A Narrative of Iran's Karbala at Minab's Mokeb🔹The narrative of the mother of student martyr Mohammad Sadra Zareipour about her son, who ascended to heaven at the Shajareh Tayebeh School in Minab along with 167 students and teachers.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059858",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
   }
 ]
