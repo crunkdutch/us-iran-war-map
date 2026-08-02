@@ -88566,6 +88566,44 @@
     "media": []
   },
   {
+    "id": 477521750,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "CENTCOM Airstrike — Jordan: Jordan operation CENTCOM surprised rift with",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎦 Jordan operation; CENTCOM surprised and a rift with TrumpQaderi, expert on strategic issues:🔹Trump has concluded that a military attack on Iran has no achievements; the new deterrence model has changed the regional equations.🔹The operation in Jordan (Al-Azraq and Muwafaq al-Salti bases) was outside CENTCOM's calculations and even led to a dispute between Trump and its command.🔹Trump's strategy: threats to gain concessions and capacity building to activate separatist elements and internal m",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1060031",
+        "type": "video",
+        "thumbnail": null
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
