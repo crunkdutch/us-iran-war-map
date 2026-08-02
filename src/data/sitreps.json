@@ -192983,5 +192983,20 @@
     "description": "⚡️ 🔴 Gaza Strip: 10 martyrs and a large number of injured overnight, raising the total to 17 martyrs within 24 hours.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785647495325,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Iraq: An earthquake measuring 3.8 magnitude was detected east of Kirkuk Governorate.",
+    "media": [],
+    "verified": false
   }
 ]
