@@ -88423,6 +88423,38 @@
     ]
   },
   {
+    "id": 477512516,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Gaza City, Israel: Occupied Palestine Mayadeens correspondent Gaza martyrs",
+    "location": "Gaza City, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: 4 martyrs as a result of an Israeli shelling targeting a residential apartment in the Al-Sousi Tower west of Gaza City.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
