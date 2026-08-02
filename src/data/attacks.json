@@ -89016,7 +89016,12 @@
     "description": "⚡️ 🔺Israeli attacks on southern Lebanon with banned phosphorus bombs🔹The army of the Zionist regime targeted Ali al-Taher heights with its brutal attacks, using artillery and banned phosphorus weapons.🔹According to Lebanon's official news agency, Israeli forces deliberately use this type of ammunition to start fires in the region's forests.",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZuBZy0oz8jgRyghd5On5JlBLRpi0l3bN3zz4RYKIbXniyrz--TLBdgKDgP2d3TVjyEuMx7x1GDyjybIwc64_Z_iiNBdLYkHV0OOHl3ZlAIYqNiVKvhUbIUouqa-m4N78xqcpIYPQASFd2f295rW3E62Fd3TcroJqLx1mHSAK7RNQnuJhsZEL4QhjAh-1fdW0pm7LmRvxlHgG9tmN4pv4LHLYHfKGYa4p2fBCyMmhkMQ7wlI_thGY3WLsDdav7Ngo4nEM0usbrWDFr_jCcLVNQUCViP3GUh54knBmWW59nZhh1ZPf9jGYQiD4u3PHtKbQbXVbYVXKHNHs5uGfhBgBUw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477549548,
@@ -89095,6 +89100,47 @@
         "url": "https://t.me/SimurghRes/8488",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/SRxq_W2cb3esYOG97tHX0ByOcXh_dTTy1FGAuIKcoZticACovi3WwAW0lzSxpeiztOyDz1sld_Um7SY2HRO90LwBUCUh2GU4LC9VUf0TgPD73COJR40x8GgMKTNL24HUigXHXAucytFh-l1rwd1lR09s6mpECQAhgWG9PaNRwUtQZRJ_1RKoR9TPuW7B7VxkMemMTzU7AD_ln3na8DHwvScubiSX-ad8LiVdhyKhIexNYX_mdj4IMZLOnH7oIszjsjbXZ7rJunf637woifJD1ZwjKBLStrMfHhk4w-3VHK0xEpp4o5snpBKZWsJ-NbZ7zgQMfXnfV_Vohk1fcwWfwg"
+      }
+    ]
+  },
+  {
+    "id": 477554195,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Interception — Erbil, Jordan, Iraq: United States Force Activity Middle EastSuweihan",
+    "location": "Erbil, Jordan, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 📡United States Air Force Activity in the Middle East🚫Suweihan Air Base, United Arab Emirates🚫In recent hours, significant movement of C-17 transport aircraft has been observed at Suweihan Air Base in the United Arab Emirates.🚫Since approximately 18:00 Zulu (UTC) last night (July 31), five C-17s with call signs MOOSE 54 to MOOSE 58 have arrived at Suweihan Air Base and departed shortly thereafter. Of these aircraft, four flew towards King Hussein International Airport in Jordan, and only M",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fRo6naaiZlMvNi97BF1ypj3_-UZZj9tHJAQNrpROxmAhFoLbNDrCy3xwqqsVPZ2tzWrxKilGsTWVGH8XYJ0ED6Wr_zZUCGywLz1eNjGK5TvU7ABjz1UEdx00ItiS0feogFGzJYQN1Zbn64Oa1gqjXK66rivquJ76llMwX_wxSaXy5WBwiAQ6YXtXNXlyiCrAPMwv1x6KDiCTNkJh7qaIrjksS6VuDAbP0E-T2NwR3cCXE6XE6mLKKJBdR8n_BDkegTgxw6N3rOn2Dva8MCibpzjQImo4GUZuguzVNeHqdiba3Rw_eyRQwWIId8DEglop0GFU1Q1MLkMSsaPRfTYPOw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/VvGXKSpF-tOiNWGEMfUl66xQ8UxlxB1bIAEP3Sv05iVv6UFmIycgsVqqypyPllJ8FDhHfYxqyfzMehZHHUAx0MjEWAMVo3Gyld2LW2idJlix88RPh-z3mFut8YpiPL2lC77PhBI0HV6vio39ON3I0Xkm28ric6lFYj7tgHXZeNZQi8Dv5igfxADdZwaYHLGZpeOxFiimaqRF2Tp7o0ccjOyzyReih5ub5D1VEhzH_AWadSXeTvA5g-KeLDiL4Wj4Ir8igYrgvJl2LGUzYM20z0nVsDVa4nMtvcU7LhbrHYIy_yK2fQFNO31lWRixAmD0GjBJ27yxpqGOhGrwL2F49g.jpg",
+        "type": "photo"
       }
     ]
   },
