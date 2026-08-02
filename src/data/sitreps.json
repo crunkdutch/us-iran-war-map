@@ -192850,5 +192850,80 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785642149228,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— With the massive military buildup, ongoing preparations for a coordinated attack from multiple fronts, the deployment of air and land assets, the closed-door meeting between Netanyahu and Trump, and continued coordination with regional allies, the signs point toward a dangerous phase. Trump’s rece...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785642128593,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— With the massive military buildup, ongoing preparations for a coordinated attack from multiple fronts, the deployment of air and land assets, the closed-door meeting between Netanyahu and Trump, and continued coordination with regional allies, the signs point toward a dangerous phase. Trump’s rece...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785642102716,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— With the massive military buildup, ongoing preparations for a coordinated attack from multiple fronts, the deployment of air and land assets, the closed-door meeting between Netanyahu and Trump, and continued coordination with regional allies, the signs point toward a dangerous phase. Trump’s rece...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785642121998,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Nasser Medical Complex in Gaza: 3 martyrs from one family in an Israeli shelling of Mawasi, Al-Qarara town, northwest of Khan Yunis",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785642175152,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Palestine: Occupation forces storm the city of Qalqilya in the West Bank.",
+    "media": [],
+    "verified": false
   }
 ]
