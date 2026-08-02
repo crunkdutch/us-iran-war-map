@@ -193102,6 +193102,26 @@
     "verified": false
   },
   {
+    "id": 1785663781831,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Gaza City 01 Aug 2023 💔@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Fyt_AmOdjA0NluqjZnmPrxB_SXnER7NYKJ96hFDd-1vXydKoqtB0AjL-zdXIWRkbyz4aVyEwFMWLgkozg9JewI195nSnc3ddJLwemSZt8vN3M7eD8ltpbzzb7ZPi3NFd1qKtWDa2pn9t_WOjBHnsOo_25ijhPUBGmxhURx2PEjMjB7WJ8asAi61rmDm2IPWNg-R0S6cPCqGznBsoo2OVOSyBXDXI1GwML78LRnX5IZQczsNZOWUGbA-UeRU-oUotbEzGHLOimucLHnGY0cDNjhIA87Ky0sbDrpdIKK_PcBzSw61BdekORR7YEwjDQZYEaHnTJuNQNKkPlt38evmcpw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785642121998,
     "type": "rocket",
     "location": "Israel",
@@ -194194,6 +194214,282 @@
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ ⭕️ Press Statement:A citizen was killed and others injured following a family dispute involving gunfire in the Tal Al-Hawa neighborhood of Gaza City. Police have secured the site of the altercation and opened an investigation into the incident.General Directorate of PoliceSunday, August 2, 2026",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663741740,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanese source to Al Hadath- Lebanon will propose in the 7th round of negotiations moving to the second phase of the experimental areas.- The Lebanese delegation will propose that the city of Bint Jbeil be included in the second phase of the experimental areas.- Lebanon will demand the inclusion...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663721243,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanese source to Al Hadath- Lebanon will propose in the 7th round of negotiations moving to the second phase of the experimental areas.- The Lebanese delegation will propose that the city of Bint Jbeil be included in the second phase of the experimental areas.- Lebanon will demand the inclusion...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663710194,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺The world, quoting Hebrew media: The body of an Israeli officer was found in the Negev region with his weapon next to him, and the officer's suicide is possible.• 09:27 — Enemy Media: The body of an \"Israeli\" officer was found with his weapon beside him in the Negev, with estimates suggesting s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663696215,
+    "type": "intercept",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The occupation continues its attacks on the South with explosions and air-defense interceptions • 09:24 — Page of the martyred journalist Ali Shuaib: ● Latest Israeli aggressions: • An explosion in the town of Taybeh. • An enemy drone dropped a sound bomb…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bt13zWIEFQ8pSdcX16RCY6EGKehTjy1aZuuHJoIh_tHV8kyYgy-2BE5RSJTh0gI0SsUMCuXX8grVCjNThKSKxszDgYb-LgSjXGEm0uQQaPBTF8yo2ggjjorSBg8v43mRwHueJseQmwtJsMoDa4J34vyRJOIa-r85dmgVJK19DHdevmS2dK-e5nBQSdiwn--smnlrP1E9UT5VOKYvivAQci6XUYPc88HZ01IiuDHwwXFfh-cwI1vWGNTgS6g78-fCJJ1AzcIrtFYhJo68adskV-8IHI7N6vAuFXu1y8XNhYmE4I_Q46NmOfkcAQQWzi9iGOFYzh5hPH1W9P2F4h2p8Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785663728134,
+    "type": "drone",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Hostile drone flying over the capital Beirut.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663730469,
+    "type": "airstrike",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Sources for the Hebrew Channel MTV's Website (the malicious and aberrant MTV)- Lebanese Central Bank Governor Riad Salameh refrains from taking his medication in Rumiyeh prison.- Public Prosecutor Judge Ahmed Rami Al-Haj gave an open signal to two doctors, one from the security forces and the oth...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663766069,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Finance Minister Bezalel Smotrich on Gaza:I want Israel to control the entire Gaza Strip. I want us to establish an Israeli military rule there.After that, we should resettle Gaza with Jews.In my opinion, there is no other solution.Netanyahu asked Trump to establish what they call a \"peac...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663757298,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israeli Finance Minister Bezalel Smotrich on Gaza:I want Israel to control the entire Gaza Strip. I want us to establish an Israeli military rule there.After that, we should resettle Gaza with Jews.In my opinion, there is no other solution.Netanyahu asked Trump to establish what they call a \"peac...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663701293,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israel kills 4 families and those remaining from them. 10 martyrs since the early morning hours: An apartment in the Susi Tower in Gaza City was targeted, and the martyrs are: Abdullah Adnan Abu Al-Tayf Abeer Kamal Kazem Anan (the wife) Azzam Abdullah Abu…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663732987,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Israel kills 4 families and those remaining from them. 10 martyrs since the early morning hours: An apartment in the Susi Tower in Gaza City was targeted, and the martyrs are: Abdullah Adnan Abu Al-Tayf Abeer Kamal Kazem Anan (the wife) Azzam Abdullah Abu…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663749025,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The government media and the Kuwaiti regime attack Iraq on the anniversary of what it described as the brutal Iraqi invasion and issue a stamp against Iraq; knowing that the so-called invasion was at the hands of Saddam's regime and not at the hands of the Iraqi people, and was a result of Kuwait...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/OnJz5HtA23coTybkolCHeaqIwlmcOqr-eho_tQnOCnO8QUi5lL1lhkRqifkmh9ptbOX2JXlB4HC84iM5ADHhmvbF905-1c87IubyGiDkUXGEvNpJEVJrA9PGx3yKuNLK18z7iSBXLczNAWxF_mMhJl14eQLcscb1exzWi4x_tEzO1EA4SkKlByG_J6aL2gKKbWqI0yQ5EBgT6NpijlD69WfDzPd4__OHo2MsTnAy9cFMoHFrrWNQSkM0PNTmta_NRTj89y8VlMMu_W47QG8K3JjkuYFBzWq7uxpjlkiJ5IjeGOMh5h3MsbBgcv-ISVE-7Lo3kZ8VKq2JuZ4otQqRhg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785663734809,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ The government media and the Kuwaiti regime attack Iraq on the anniversary of what it described as the brutal Iraqi invasion and issue a stamp against Iraq; knowing that the so-called invasion was at the hands of Saddam's regime and not at the hands of the Iraqi people, and was a result of Kuwait...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/OnJz5HtA23coTybkolCHeaqIwlmcOqr-eho_tQnOCnO8QUi5lL1lhkRqifkmh9ptbOX2JXlB4HC84iM5ADHhmvbF905-1c87IubyGiDkUXGEvNpJEVJrA9PGx3yKuNLK18z7iSBXLczNAWxF_mMhJl14eQLcscb1exzWi4x_tEzO1EA4SkKlByG_J6aL2gKKbWqI0yQ5EBgT6NpijlD69WfDzPd4__OHo2MsTnAy9cFMoHFrrWNQSkM0PNTmta_NRTj89y8VlMMu_W47QG8K3JjkuYFBzWq7uxpjlkiJ5IjeGOMh5h3MsbBgcv-ISVE-7Lo3kZ8VKq2JuZ4otQqRhg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785663697711,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Hebrew Channel 12 / Nitzan Saphira: After 8 months of operations: forces of the 401st Combat Battalion have completed their mission in southern Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785663752784,
+    "type": "intercept",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Will the Patriotic Union of Kurdistan allow Iran to be bombed from Sulaymaniyah?We follow up with Patriotic Union of Kurdistan member Hiwa Mohammed #InTheCircle#AlMayadeen_Plus#AlMayadeen_Iraq",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2757c4fba1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Tqv7WOoG-j-H27ri5NfgSBIS0ydHgCk-6-QQJl4yIIiPPgsxejf2hRukYxARd8Le80ozNpp2WZumombJT7MeBRBaFcrGRzhoYYpIfMOSSdJRWEiXo_9yfuCyoxyL6NGBcCyo9Y8deV70jAiYSPcxiIv-lOndGdKgAoNehmK7jI-HDPTorWHhDak8ravVC_-dqHzt_kUUHsSfs6SV-dyJNhnPfZx5KfIk3DJ_HtgOX8QsUP223BnEt2CHWTk85K0_GLudEpHiB5EYfxDBYeBGm5-rHrYjGvNNcvOqi83o4bpFtpvKtwt5bx2krLggv6uQ_yADCpJRyHKPypYlILRPBg"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1060039",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Tqv7WOoG-j-H27ri5NfgSBIS0ydHgCk-6-QQJl4yIIiPPgsxejf2hRukYxARd8Le80ozNpp2WZumombJT7MeBRBaFcrGRzhoYYpIfMOSSdJRWEiXo_9yfuCyoxyL6NGBcCyo9Y8deV70jAiYSPcxiIv-lOndGdKgAoNehmK7jI-HDPTorWHhDak8ravVC_-dqHzt_kUUHsSfs6SV-dyJNhnPfZx5KfIk3DJ_HtgOX8QsUP223BnEt2CHWTk85K0_GLudEpHiB5EYfxDBYeBGm5-rHrYjGvNNcvOqi83o4bpFtpvKtwt5bx2krLggv6uQ_yADCpJRyHKPypYlILRPBg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785663715043,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-02",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Amidst the Strait of Hormuz blockade and the war in Iran, Saudi Arabia's economy shrank by 4.8% in the second quarter of this year, the largest quarterly decline since the COVID-19 pandemic.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oA3P1yKqpQ3O7YSs5-095ZufVwnHqpJx6QedZvYQ58BNeyhhazCI_MIEoW5TJia6yY6wBVriWoxV3uOZGmFSC7tcZ_7zt1gbkGwTLbO_yrXWUZIg4Gy7KcwagXl-K97O3V7iz8mO9BJgQwJqNwYI-0ExzHS4nQNw9s477kGLVQU2DaBc50IToaGmoqaP3OwWyqyh4lX3JqDMq6uFxJeTFxTnvzf0-UCihgmZiBJjYShfejs-T1xL_KJvxViEnuQL1DPK9X1rsEQYQdH5NY0aUiHgghsauwDZA4inv7OBLf60Htr9tw6QIPNJmwW20VdfDUjKjbAQqwS0rRuQPItOeg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785663787938,
+    "type": "naval",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-02",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Amidst the Strait of Hormuz blockade and the war in Iran, Saudi Arabia's economy shrank by 4.8% in the second quarter of this year, the largest quarterly decline since the COVID-19 pandemic.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oA3P1yKqpQ3O7YSs5-095ZufVwnHqpJx6QedZvYQ58BNeyhhazCI_MIEoW5TJia6yY6wBVriWoxV3uOZGmFSC7tcZ_7zt1gbkGwTLbO_yrXWUZIg4Gy7KcwagXl-K97O3V7iz8mO9BJgQwJqNwYI-0ExzHS4nQNw9s477kGLVQU2DaBc50IToaGmoqaP3OwWyqyh4lX3JqDMq6uFxJeTFxTnvzf0-UCihgmZiBJjYShfejs-T1xL_KJvxViEnuQL1DPK9X1rsEQYQdH5NY0aUiHgghsauwDZA4inv7OBLf60Htr9tw6QIPNJmwW20VdfDUjKjbAQqwS0rRuQPItOeg.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   }
 ]
