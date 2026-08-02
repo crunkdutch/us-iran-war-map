@@ -831,6 +831,51 @@
     "verified": false
   },
   {
+    "id": 1785669112481,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2025-10-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Death toll in Gaza rises to 73,356📌 Tehran, IRNA — With the continuation of the Israeli regime’s aggressions against the Gaza Strip, the total number of martyrs in the enclave has reached 73,356.The Health Ministry of Gaza announced on Sunday that seven people were killed and twenty-four others ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669130905,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2025-10-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Death toll in Gaza rises to 73,356📌 Tehran, IRNA — With the continuation of the Israeli regime’s aggressions against the Gaza Strip, the total number of martyrs in the enclave has reached 73,356.The Health Ministry of Gaza announced on Sunday that seven people were killed and twenty-four others ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669088467,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2025-10-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Death toll in Gaza rises to 73,356📌 Tehran, IRNA — With the continuation of the Israeli regime’s aggressions against the Gaza Strip, the total number of martyrs in the enclave has reached 73,356.The Health Ministry of Gaza announced on Sunday that seven people were killed and twenty-four others ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785208153637,
     "type": "airstrike",
     "location": "Isfahan",
@@ -194896,6 +194941,178 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Palestinian Red Crescent: A young man sustained live bullet wounds in the feet after Israeli occupation forces opened fire on him in Jalazone camp near Ramallah.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669164720,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Iraqi media: Iranian Foreign Minister Sayyed Abbas Araghchi arrives in Najaf Al-Ashraf tomorrow to participate in the Arbaeen pilgrimage of the Master of Martyrs (PBUH).",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669092900,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Zionist regime drone attack on the town of \"Sarbin\" in southern Lebanon🔹Al Jazeera correspondent reported today on a Zionist regime drone attack against the town of \"Sarbin\" in Bint Jbeil District, in southern Lebanon.🔹This attack comes as the framework ceasefire agreement between Lebanon and...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669127510,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: An Israeli drone strike on Salah al-Din Street in Deir al-Balah city, in the central Gaza Strip.• 11:03 — #Updated Two critically injured as a result of the occupation targeting a car on Salah al-Din Street in Deir al-Balah city, central Ga...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669129332,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: An Israeli drone strike on Salah al-Din Street in Deir al-Balah city, in the central Gaza Strip.• 11:03 — #Updated Two critically injured as a result of the occupation targeting a car on Salah al-Din Street in Deir al-Balah city, central Ga...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669159158,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Haaretz, quoting informed sources: Israel informed the Peace Council of its objection to some provisions of the roadmap for Gaza. - Israel opposed restricting its military operations in the Gaza Strip. - Israel objected to the collection of weapons and…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e27f5d25d7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/kP6wnRSNtAZsoX7BtBehnig6ezoLzhtydMA8Dus1bJDkLOyLT-vQUT0kbeTT09IrZ4UP3mZ94P5ARHHz2hBBmG2Dh8u2DcyhsPyxo_Thta20RFG3vARe0rjAK3BeUI1aZwkDl4kNk3V8ehZSPaH2DYX4he5MmK5nliCrp0gxt7TEI1NzyZJhYA0fNHFZPnm4mEeEDJGVo8Dgm6ntyNaPI4TbspwQrW6l1NptA_KrZnumo8BBSuUBa_3JvsaYT4LGhzyTqHSxZPbl2F81MY_o3wbmqTBy-qRTt1ao0OfXygsouCDMWRJvZs10Qm_NMUznwXZI1VdX5dq3zy8u_j3ddA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1060099",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/kP6wnRSNtAZsoX7BtBehnig6ezoLzhtydMA8Dus1bJDkLOyLT-vQUT0kbeTT09IrZ4UP3mZ94P5ARHHz2hBBmG2Dh8u2DcyhsPyxo_Thta20RFG3vARe0rjAK3BeUI1aZwkDl4kNk3V8ehZSPaH2DYX4he5MmK5nliCrp0gxt7TEI1NzyZJhYA0fNHFZPnm4mEeEDJGVo8Dgm6ntyNaPI4TbspwQrW6l1NptA_KrZnumo8BBSuUBa_3JvsaYT4LGhzyTqHSxZPbl2F81MY_o3wbmqTBy-qRTt1ao0OfXygsouCDMWRJvZs10Qm_NMUznwXZI1VdX5dq3zy8u_j3ddA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785669094092,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Haaretz, quoting informed sources: Israel informed the Peace Council of its objection to some provisions of the roadmap for Gaza. - Israel opposed restricting its military operations in the Gaza Strip. - Israel objected to the collection of weapons and…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e27f5d25d7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/kP6wnRSNtAZsoX7BtBehnig6ezoLzhtydMA8Dus1bJDkLOyLT-vQUT0kbeTT09IrZ4UP3mZ94P5ARHHz2hBBmG2Dh8u2DcyhsPyxo_Thta20RFG3vARe0rjAK3BeUI1aZwkDl4kNk3V8ehZSPaH2DYX4he5MmK5nliCrp0gxt7TEI1NzyZJhYA0fNHFZPnm4mEeEDJGVo8Dgm6ntyNaPI4TbspwQrW6l1NptA_KrZnumo8BBSuUBa_3JvsaYT4LGhzyTqHSxZPbl2F81MY_o3wbmqTBy-qRTt1ao0OfXygsouCDMWRJvZs10Qm_NMUznwXZI1VdX5dq3zy8u_j3ddA"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1060099",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/kP6wnRSNtAZsoX7BtBehnig6ezoLzhtydMA8Dus1bJDkLOyLT-vQUT0kbeTT09IrZ4UP3mZ94P5ARHHz2hBBmG2Dh8u2DcyhsPyxo_Thta20RFG3vARe0rjAK3BeUI1aZwkDl4kNk3V8ehZSPaH2DYX4he5MmK5nliCrp0gxt7TEI1NzyZJhYA0fNHFZPnm4mEeEDJGVo8Dgm6ntyNaPI4TbspwQrW6l1NptA_KrZnumo8BBSuUBa_3JvsaYT4LGhzyTqHSxZPbl2F81MY_o3wbmqTBy-qRTt1ao0OfXygsouCDMWRJvZs10Qm_NMUznwXZI1VdX5dq3zy8u_j3ddA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785669093423,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Lebanese Army: Five military personnel sustained minor injuries in the town of Kafra due to a hostile Israeli targeting while an army vehicle was escorting residents.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669104729,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Lebanon: Lebanese Army: Five military personnel sustained minor injuries in the town of Kafra due to a hostile Israeli targeting while an army vehicle was escorting residents.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669128407,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Abu Ali Al-Hebri blog website:A significant increase in the number of Israeli drone attacks on the Gaza Strip during the past twenty-four hours.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785669139994,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Abu Ali Al-Hebri blog website:A significant increase in the number of Israeli drone attacks on the Gaza Strip during the past twenty-four hours.",
     "media": [],
     "verified": false
   }

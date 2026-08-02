@@ -88795,6 +88795,38 @@
     "media": []
   },
   {
+    "id": 477535631,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Lebanon: Zionist regime drone attack town Sarbin",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔺Zionist regime drone attack on the town of \"Sarbin\" in southern Lebanon🔹Al Jazeera correspondent reported today on a Zionist regime drone attack against the town of \"Sarbin\" in Bint Jbeil District, in southern Lebanon.🔹This attack comes as the framework ceasefire agreement between Lebanon and the Zionist regime, signed in late June 2026 with US mediation, continues to be repeatedly violated by the occupying regime.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
