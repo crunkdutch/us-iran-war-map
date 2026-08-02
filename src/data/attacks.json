@@ -89019,6 +89019,86 @@
     "media": []
   },
   {
+    "id": 477549548,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Ali Al Salem Air Base, Kuwait: Force transport aircraft flown from Osan",
+    "location": "Ali Al Salem Air Base, Kuwait",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ A US Air Force C-17 transport aircraft has flown from Osan Air Base in South Korea to Ali Al Salem Air Base in Kuwait.What did they transport?Probably a replacement for one of the many radars that Iran recently destroyed in Kuwait.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/CoaMIs8u-rWqBto_xkGCQouF12dWfWBa7-ahbR-pA67QEpEEtArlcYG7uIp_ykmKLkin9XxuKUuFugPTpDyRDkdPBt7IN_4vX-XMJE3QuNSOccsY3l3ETDpVStPgP8ucufX1EX9sk8rP9hOMgUjPMUlXtUD__qMV2UwZ56luSgOUeUBxu3ZersybENlkXc7Af7Xzpa7ds9DgEKUTNvZ4xrVTGaatH-x_SazX4v5C9wCFN9n4_RUnahB2GDl3cED0ICQwxNoOEoSTovEQFKAgYwYXA4nOeGAWLkys8FlUuoCHu-Uzez8ll62NExamjXWf9t6cE4lrDHaWpS73SFcpaQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477551871,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Baghdad, Iraq: News sources have reported explosion ammunition",
+    "location": "Baghdad, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Telegram (simurgh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶News sources have reported an explosion at an ammunition depot at the \"Al-Taji\" military base, located north of Baghdad. Iraq's Security Media attributes the explosion to high summer temperatures.@SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9885da0eb3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SRxq_W2cb3esYOG97tHX0ByOcXh_dTTy1FGAuIKcoZticACovi3WwAW0lzSxpeiztOyDz1sld_Um7SY2HRO90LwBUCUh2GU4LC9VUf0TgPD73COJR40x8GgMKTNL24HUigXHXAucytFh-l1rwd1lR09s6mpECQAhgWG9PaNRwUtQZRJ_1RKoR9TPuW7B7VxkMemMTzU7AD_ln3na8DHwvScubiSX-ad8LiVdhyKhIexNYX_mdj4IMZLOnH7oIszjsjbXZ7rJunf637woifJD1ZwjKBLStrMfHhk4w-3VHK0xEpp4o5snpBKZWsJ-NbZ7zgQMfXnfV_Vohk1fcwWfwg"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8488",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SRxq_W2cb3esYOG97tHX0ByOcXh_dTTy1FGAuIKcoZticACovi3WwAW0lzSxpeiztOyDz1sld_Um7SY2HRO90LwBUCUh2GU4LC9VUf0TgPD73COJR40x8GgMKTNL24HUigXHXAucytFh-l1rwd1lR09s6mpECQAhgWG9PaNRwUtQZRJ_1RKoR9TPuW7B7VxkMemMTzU7AD_ln3na8DHwvScubiSX-ad8LiVdhyKhIexNYX_mdj4IMZLOnH7oIszjsjbXZ7rJunf637woifJD1ZwjKBLStrMfHhk4w-3VHK0xEpp4o5snpBKZWsJ-NbZ7zgQMfXnfV_Vohk1fcwWfwg"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
