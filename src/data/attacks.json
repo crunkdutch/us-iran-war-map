@@ -88534,6 +88534,38 @@
     ]
   },
   {
+    "id": 477519440,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qatar, Israel, Turkey: Haaretz Israel officially informed Peace Council",
+    "location": "Qatar, Israel, Turkey",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Haaretz: Israel officially informed the \"Peace Council\" of its objection to three main clauses in the agreement reached with the Hamas movement.The first objection is to the mechanism for dealing with Hamas's weapons; Israel believes that the agreement does not include a clear text stipulating the destruction of weapons after their collection.The second objection concerns the mechanism for monitoring the implementation of the agreement; Israel refuses to involve Qatar and Turkey in the verifi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
