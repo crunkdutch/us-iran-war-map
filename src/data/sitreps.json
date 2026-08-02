@@ -195115,5 +195115,61 @@
     "description": "⚡️ Abu Ali Al-Hebri blog website:A significant increase in the number of Israeli drone attacks on the Gaza Strip during the past twenty-four hours.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785670921402,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Head of the Israel Airports Authority:If Hamas disarms, relinquishes its rule in the Strip, allows the dismantling of tunnels, and no longer possesses military capabilities, \"what absolute victory surpasses that?\"However, the probability of that happening is not high, and as long as these conditi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785670964783,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 Steadfastness and resistance in Minab; a message that Shajarah Tayyibah School conveyed to the world",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1060107",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785670901047,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Guaranteed wheat purchases from farmers exceeded 7.5 million tonsDeputy Minister of Agriculture for Cultivation:🔹The total value of purchased wheat is approximately 350 trillion tomans, and with special follow-ups, the process of paying farmers' dues has accelerated, and by August 11, another ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/FsfMgBSLyHrS2X6Wt-32PpFocEiprGlMhiDNivcMgYDvC8VfPGsPTDV0KVgyk9iBu4qNP-izNeS1V9VovpCET1WpvNdDSaVUDZCNriUYoWPpOzIx-5gKmzMaDWGn0XKhvux2u-maEd8yhybcBJy_RaFnY6U6ZLVCj2TPlCBA69hBw-OJUodXZbUvHAnDEs7HJv-3xEaVrt-_xIOtoY_zckvigxpy0rk2q3JtUSSIiDL8ze-SoHSgUwZq7LHXOliizF0i6TpNcP2Rm-7VahahpKHSsnhZ85WA5olSWKZZedrnjbrFTk4NxNz_fEXg72-kKfs0HoQZz1unsqzfz2fcDg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
