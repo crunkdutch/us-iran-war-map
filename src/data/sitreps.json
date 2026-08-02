@@ -192789,5 +192789,25 @@
     "description": "⚡️ We want the message to reach the WFB World Food [Program]..Al-Qalaa Bakery in the center of Khan Yunis, specifically at the end of Al-Bahr Street in Abu Jalal Al-Agha's building.. The bakery is not clean, and most of the workers have no respect or principles. They steal bundles of bread and distr...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785633259087,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (simurgh)",
+    "sourceUrl": "https://t.me/s/simurgh",
+    "description": "Gaza City 01Aug 2023 💔@SimurghRes",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Fyt_AmOdjA0NluqjZnmPrxB_SXnER7NYKJ96hFDd-1vXydKoqtB0AjL-zdXIWRkbyz4aVyEwFMWLgkozg9JewI195nSnc3ddJLwemSZt8vN3M7eD8ltpbzzb7ZPi3NFd1qKtWDa2pn9t_WOjBHnsOo_25ijhPUBGmxhURx2PEjMjB7WJ8asAi61rmDm2IPWNg-R0S6cPCqGznBsoo2OVOSyBXDXI1GwML78LRnX5IZQczsNZOWUGbA-UeRU-oUotbEzGHLOimucLHnGY0cDNjhIA87Ky0sbDrpdIKK_PcBzSw61BdekORR7YEwjDQZYEaHnTJuNQNKkPlt38evmcpw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
