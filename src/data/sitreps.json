@@ -193370,5 +193370,65 @@
     "description": "⚡️ 🔴 Syria: Israeli occupation forces establish a military checkpoint on the Al-Hayran – Al-Rafid road in the southern Quneitra countryside and conduct inspections of passersby.",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785652897317,
+    "type": "airstrike",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Today; possibility of hearing explosion sounds in southern Isfahan🔹The operation to detonate unexploded ordnance from the Third Imposed War will be carried out today, Sunday, in the southern part of Isfahan city, in the Safa and Baharestan areas, from 9:30 AM to 1:00 PM.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mj4vUW2mKxyfvHGGR3vrIpltnxcRiWc-E2L9nu2O1-KfWzx01B6SUI6WQJB6CZlpKuV77KmncMGNBszpHaDD_JQcUT-U6bnea-wFwYjk_ro-8PshsIc_M94GJf61sXx2qPX8bFjerDByQ9koW25aiD7Qw2hn8pmaVRTc6nYFqKdQpALLDFgrRAaI_bwaxjP53sSI9Y4OJaveureNwBCuEd28_lv8diZu4dNy8vuzNRXQ__iy5h_6M2KphEW0V_PbA5nSOMu3v3VYxjNkexTDWOfh4xzcTLHEbmmXCYVqLbnzRO9PjdMfSOU8Allo1zflkAfztjTK-BNU0rRO9iqk_Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785652945186,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Page of the martyred journalist Ali Shuaib:● Israeli occupation forces carried out a bombing in the town of Hadatha at midnight, while an enemy drone dropped a sound bomb in the morning in the town of Mansouri.• 06:38 — Events (Ali Choeib)",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/kemk8LR_j-oFl929pMkGIC3RWogJJhKqDunr9iIwTPIH-tNoV2sMmdxXIaWuoq1owZf--HBNCthrtoEmqQrICZUNgOIaCsOYWxH40C9FHJ0Vk8bMDCgcz5rSHxMWaPfdzjSB2eAh88pGqvqvGfkZdCfAFmppNPNpbssIBW5I_RdK3regYSykfI7DLKCOxuxaLzL662YbhJYE5hCJ-8ER-nNrm--LYZ1iRu1N2Il8eFbYPm7zQ777cY17H2U4EEl9lveJmrsThhuB4F_FC3hT1qaHPntykr60lDWrp6YQrYCN97VLX2XFKmAely2EnvWTDGMJgvazC2mJpgs1RnCTHw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785652920786,
+    "type": "airstrike",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Mohammad Nouri was selected as the head coach of Sanat Naft Abadan in the 26th season of the Premier Football League.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/SXcyQwNmjHw2hs5RK4OHloNkKygJCWoXU4_VWXUMBnaC5VjuPIn-6BEzqaLMGNqd3cKZDjoIQTBMylIG41TbZBRiBLVZkjkQpzVQWjJ-MJH6OlSs2cVaXs2go8oGfJMMt8_bEZATDUIKRfSmwjESE_n7vc26apeWWRsznJe7xLnXG77D7JY5WUwbIU7fKUHrxxOWTnl3aq-3IiOu7_8bJ24Vste3epjVHCAp8fVnE5pTs-qsGi0lbKWgA_lJZYWIi-aPHy-VhwWZODlHDOHZ3KE_dgx4aUdiUu90nUeE9vTrJO_IdQZ-0aEn1Wdv6wGvbQa3LfkfRdOvxidl3EvRdQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]

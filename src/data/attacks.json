@@ -88171,6 +88171,80 @@
     ]
   },
   {
+    "id": 477496395,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Isfahan: Today possibility hearing explosion sounds southern",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔺Today; possibility of hearing explosion sounds in southern Isfahan🔹The operation to detonate unexploded ordnance from the Third Imposed War will be carried out today, Sunday, in the southern part of Isfahan city, in the Safa and Baharestan areas, from 9:30 AM to 1:00 PM.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mj4vUW2mKxyfvHGGR3vrIpltnxcRiWc-E2L9nu2O1-KfWzx01B6SUI6WQJB6CZlpKuV77KmncMGNBszpHaDD_JQcUT-U6bnea-wFwYjk_ro-8PshsIc_M94GJf61sXx2qPX8bFjerDByQ9koW25aiD7Qw2hn8pmaVRTc6nYFqKdQpALLDFgrRAaI_bwaxjP53sSI9Y4OJaveureNwBCuEd28_lv8diZu4dNy8vuzNRXQ__iy5h_6M2KphEW0V_PbA5nSOMu3v3VYxjNkexTDWOfh4xzcTLHEbmmXCYVqLbnzRO9PjdMfSOU8Allo1zflkAfztjTK-BNU0rRO9iqk_Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477498695,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Page martyred journalist Shuaib Israeli occupation",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Page of the martyred journalist Ali Shuaib:● Israeli occupation forces carried out a bombing in the town of Hadatha at midnight, while an enemy drone dropped a sound bomb in the morning in the town of Mansouri.• 06:38 — Events (Ali Choeib)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/kemk8LR_j-oFl929pMkGIC3RWogJJhKqDunr9iIwTPIH-tNoV2sMmdxXIaWuoq1owZf--HBNCthrtoEmqQrICZUNgOIaCsOYWxH40C9FHJ0Vk8bMDCgcz5rSHxMWaPfdzjSB2eAh88pGqvqvGfkZdCfAFmppNPNpbssIBW5I_RdK3regYSykfI7DLKCOxuxaLzL662YbhJYE5hCJ-8ER-nNrm--LYZ1iRu1N2Il8eFbYPm7zQ777cY17H2U4EEl9lveJmrsThhuB4F_FC3hT1qaHPntykr60lDWrp6YQrYCN97VLX2XFKmAely2EnvWTDGMJgvazC2mJpgs1RnCTHw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
