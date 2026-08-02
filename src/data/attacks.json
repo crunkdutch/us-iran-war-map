@@ -89219,6 +89219,49 @@
     ]
   },
   {
+    "id": 477561173,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Caspian Sea: Since Ukrainian attack Iranian commercial vessel",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "sources": [
+      {
+        "name": "Telegram (simurgh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇷🇺🇺🇦🇮🇷Since the Ukrainian attack on an Iranian commercial vessel in the Caspian Sea, the intensity of Russian air strikes on the port of Odesa has doubled. These attacks target port facilities and logistical infrastructure.It is worth noting that Odesa has been a primary target since the war began however, both the intensity and variety of these attacks have recently increased, with \"Kalibr\" cruise missiles and supersonic \"Onyx\" missiles being deployed with greater frequency.The situation ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2f32cbaa6d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Doq6YZpXlH7ZR2ts8kD7FGJFoUFrn4w-JrtbIgI12xDNmuGDnJo9rbPMO07-q6RqrF0yxs6TsD7Yfug8mKDB45pRPATsXHhR2nql2P-Kwg7aWMcYK7UqXmgwMp2P0K54hgb6sc9qv-eSqwwd9jVADg-QsAqL31Q7kkpqG9ZjM4x_9ynH9F_LBc0yR444Pi1WEvcsT_BZRYIAtjvTTzkq4GnRM-e7sIedjWvEjjzhEorCzooTnsCVVqh3eSTfmOPdA0Dua0YTrtzOgTMnV_mtDFyOeqtBXo61AsgbcOtkUVnP6YJJAi9vhu1te04kv5L_xoHAIH3Eq9_L6qqnuoTXLQ"
+      },
+      {
+        "url": "https://t.me/SimurghRes/8499",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Doq6YZpXlH7ZR2ts8kD7FGJFoUFrn4w-JrtbIgI12xDNmuGDnJo9rbPMO07-q6RqrF0yxs6TsD7Yfug8mKDB45pRPATsXHhR2nql2P-Kwg7aWMcYK7UqXmgwMp2P0K54hgb6sc9qv-eSqwwd9jVADg-QsAqL31Q7kkpqG9ZjM4x_9ynH9F_LBc0yR444Pi1WEvcsT_BZRYIAtjvTTzkq4GnRM-e7sIedjWvEjjzhEorCzooTnsCVVqh3eSTfmOPdA0Dua0YTrtzOgTMnV_mtDFyOeqtBXo61AsgbcOtkUVnP6YJJAi9vhu1te04kv5L_xoHAIH3Eq9_L6qqnuoTXLQ"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
