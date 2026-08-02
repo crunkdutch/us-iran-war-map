@@ -89299,6 +89299,43 @@
     "media": []
   },
   {
+    "id": 477565830,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: tanker attempts pass through southern lane",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ An oil tanker attempts to pass through the southern lane of the Strait of Hormuz after disabling its Automatic Identification System (AIS), amid reports of warning shots fired at it by the IRGC Navy.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/EYoCvzdqNn2eqwIw5LsDT_YbIyStDotR1N8WWsz8h3nwSz4TZNH1_mFIsdrf3AtETxns6UWcZvwvb8_SEEY8H6w6BVLSYGDcyrqePNKV2CjyLrUgRHWHS_PNfC1_4poaOPCMV6W_hHdQ-76tcGWW2bBGXtjEdFAaa1BCCXehclNDDx_qdL0SlSzoIvwWCM0AVS1hg0YdI_GAi3PR27ZPnAg_vj3DnuM_yXLuYXe9bJPsnVTYo7KYljVqC7sdH6LNyV3zkk2fwhlQwYoDzHW5YyIR0HXQtgGIIz1DNikOf6kZBZtGCKgGJR5atUHrIKexXn2zFDqasL80DKSOtqdC-Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
