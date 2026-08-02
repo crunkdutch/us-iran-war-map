@@ -88383,7 +88383,16 @@
     "description": "⚡️ The body of a fetus was found under the rubble of an apartment destroyed by occupation aircraft last night in Al-Susi Tower, west of Gaza City, raising the number of martyrs from the bombing to 4 (a couple and their two children).",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/gWhTssfzILiEy-ueq8r9fp-fT7PrkuOEbiKEXMWqXJMVDXdqugZpBOyBGPz9N_qWyLTKQHf-Z2JZOtl3OgRvHzroL0neDXoS8-C1cucwKJPESgLG-zpOSQ9LdEqEpikjOcZejZpMKUX8pQHOAVjksUzvqeRQAb6PJDIo4eYj21zvINgUOO1hyrlI0peefAPONlZ9e0s8c0-LEH_Bh2Ag2MJ1lGqc_i_VScxIxbmuC7SsHaJUX6hFiHs9LaBR6JUnWV2MouE790bVnYzKwjNANmq0SjDAMkGcCwpBQ5jqsB1kGq5AeDkUE7ajysRzI0KI_D7LugQ-Qs4ML6qrOrQiMw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/XXXIgs3vEHprX8VL6vVvwFaLwFKHZ15XtDoRx8qbfbexlL4XS3xr6GH-8zgesjbm-V6jMpe5yxzmXTzPfKwh8cKON9jzRJJirV_jPE3lAIlhCgQhKcOVruZxHMbF1oJe5bCUvoRVtwOhSL9sHdc7NXePnFA2KXbi6vylkIa3FkKaJunPCmqCFWf1wjhPpEzZLFc5DD17lHjvF8sQ9jJH5QnvFUERwMRKDjiWSQWF1SX0Fsh02ZDqZ5G04zJ4PNH2nacx9M3M6H_8lUZYc1QpxWR4vBXjjC9eqmeA1fFPu_FE063COZX3Losaz_QPsFTr_FyL-PxWq9inn870I0Sksw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477510210,
@@ -88453,6 +88462,76 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477514823,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen, Gaza Strip: Occupation drone aircraft launch raid near",
+    "location": "Yemen, Gaza Strip",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔴 Occupation drone aircraft launch a raid near Al-Yemen Al-Saeed Hospital north of the Gaza Strip.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477517131,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab: narrative Aminabad Bridges return serviceThe Aminabad",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔺The narrative of Aminabad Bridge's return to service🔹The Aminabad railway bridge, after its collapse following enemy attacks, was rebuilt by the efforts of domestic experts in less than 4 days and returned to the country's rail lines.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1060011",
+        "type": "video",
+        "thumbnail": null
+      }
+    ]
   },
   {
     "id": 477331196,
