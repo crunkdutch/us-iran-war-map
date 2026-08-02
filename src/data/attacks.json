@@ -89145,6 +89145,43 @@
     ]
   },
   {
+    "id": 477556520,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Gulf of Oman, Oman: Images captured Sentinel2 satellite show aircraft",
+    "location": "Gulf of Oman, Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "sources": [
+      {
+        "name": "Telegram (simurgh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇺🇸🇮🇷 Images captured by the Sentinel-2 satellite show the aircraft carrier \"USS Abraham Lincoln\" sailing in the Gulf of Oman, near the blockade line. The carrier is located approximately 200 kilometers from the port of Chabahar in southern Iran. @WBNofficial1",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/KLljYy1sY-9tUv9cm1IhS5E-FwUvlx8d1PW1rvoKmoqaKdUbJ4RVjL6SAxrizh-pE_FNKHsgJqub8dGtzhRPS63bG5HT6j1APu6pg1Aus1EluYa9nNS3PJwPb7HG3yOc1s3VrFGzllVQr3h2h67sXEjvNzzbUDXjnOFfh-Q5L2oS6KWQb_yC4kjkw7zJhBlKHDGlvU06Pvljw7fcOm18F_OENQ-lugOt2JlZlYBJvQHiYYmn2IK_hfLGHpymO747pCdyNjbbtiN8i0lVdb0WJCVV6ncArKiSlplZJoTfj-J7caQFaC1GpagYdDq7BHdyVRz03wbnoNfwar0JwxWplw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
