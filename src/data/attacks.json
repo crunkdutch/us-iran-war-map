@@ -89267,6 +89267,38 @@
     ]
   },
   {
+    "id": 477563501,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Kuwait: United States America Horse website Iranian",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ United States of America: The War Horse website: An Iranian drone targeted the US forces' operations center in Shuaiba Port in Kuwait on March 1.• 20:56 — United States of America: The War Horse website: The attack on Ash-Sha'biyah port resulted in the killing of 6 American forces in the deadliest attack during the war; The Iranian attack on Shuaiba Port in Kuwait also resulted in a US Army colonel sustaining a concussion. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
