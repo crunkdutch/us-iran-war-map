@@ -75652,7 +75652,12 @@
     "description": "⚡️ UAE Ministry of Foreign Affairs: The aggressive attack represents a blatant violation of the sovereignty of the Hashemite Kingdom of Jordan and a threat to its security and stability. We reiterate the UAE's full solidarity with the Hashemite Kingdom of Jordan and its support for all measures that would preserve its security and stability.",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/lV9kylAKYa7tb3_Qd2Mnlmj2Jt_9c1CSyRvgiioOkffeFYdRT27gbCu3Nj3bUDxA7jDj6da3VRO0QYtivGpvz4r8fIyyd5tsMvbOKnf-_tBBvdkd0g3WTWVkq-72clqoBWJJnt_WfKHbk_CnqNcEXPPb6VUjqOOPG8Kl9y65TgwXqq3LasJMOvoHPL95mz7i_U8jkmCH3_IItdHk1NvDvHOYEgdx4HbeFa3J3nh0_RPw1JOHIO-Cytz7TyqwVDoLLRZ4GXAvjDCI9_Q_ke29hvAZ83CmBLjHTZ63YNQihSQoIBle7aFUnoi30LtXy00I2O9NXkPxFHS1UMTpxFX1kA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 476168798,
@@ -88717,6 +88722,43 @@
         "url": "https://t.me/me_observer_TG/1060039",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/Tqv7WOoG-j-H27ri5NfgSBIS0ydHgCk-6-QQJl4yIIiPPgsxejf2hRukYxARd8Le80ozNpp2WZumombJT7MeBRBaFcrGRzhoYYpIfMOSSdJRWEiXo_9yfuCyoxyL6NGBcCyo9Y8deV70jAiYSPcxiIv-lOndGdKgAoNehmK7jI-HDPTorWHhDak8ravVC_-dqHzt_kUUHsSfs6SV-dyJNhnPfZx5KfIk3DJ_HtgOX8QsUP223BnEt2CHWTk85K0_GLudEpHiB5EYfxDBYeBGm5-rHrYjGvNNcvOqi83o4bpFtpvKtwt5bx2krLggv6uQ_yADCpJRyHKPypYlILRPBg"
+      }
+    ]
+  },
+  {
+    "id": 477531000,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm: Human Rights Headquarters Killing civilians clear",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Human Rights Headquarters: Killing of civilians is a clear example of \"American human rights\"The Human Rights Headquarters, by issuing a statement, strongly condemned the renewed attack by the United States military forces on various regions of the Islamic Republic of Iran, especially the attack on a residential house in the Chah Tangu neighborhood of Qeshm city, which led to the martyrdom of three family members and the injury of two other children, and considered this crime a clear example ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jq9OJOgAbcKC__yFMzeBpaOVvT4Z3qzDLVI6YBrBvKAk-4fRRzjoSqHCUoUdCcHiWJ94m6uZReNB33SbXGupPrwD9UoVY4Oe6wPdjDVCtui9oYxtmPKVNwK5qDLtVR-JE0cbluJEBuE1eP4n3xgpNQxh8avGFROfJLHhW-wqo-HTwFl7ILFeZfk4WOVdgew_Fhqjue8gAXE6swTp7C_6NUh2KvzHop8Sx-GUF0w0GBb6Ixq_3GHDyg4EbjKa6KwCYSiFSsRqllY7Zabt17y5nHGLebs6l-zNKcVH1Ip1HqFDcGNvQ3McIl5VlGnkIjgSMiNGba7uz6amgBcxQnqeAQ.jpg",
+        "type": "photo"
       }
     ]
   },
