@@ -195171,5 +195171,35 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1785672798581,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Accounts close to the Kuwaiti government re-post the video \"Welcome, welcome, Papa Bush, may Allah keep you safe in our free land, Kuwait\" in conjunction with Iranian threats in an attempt to obtain new American protection.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785672784806,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Arab sources reported the sounding of warning sirens in Jordan",
+    "media": [],
+    "verified": false
   }
 ]
