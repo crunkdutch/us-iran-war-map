@@ -27853,6 +27853,51 @@
     "verified": false
   },
   {
+    "id": 1785651188736,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-04-16",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 UN voices concern over Israeli demolitions in Lebanon📌 Tehran, IRNA – The United Nations has expressed deep concern over Israel’s demolitions in southern Lebanon, which have continued in recent days despite a ceasefire.“The scale of the detonations and demolitions taking place in south Lebanon i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785651199970,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-04-16",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 UN voices concern over Israeli demolitions in Lebanon📌 Tehran, IRNA – The United Nations has expressed deep concern over Israel’s demolitions in southern Lebanon, which have continued in recent days despite a ceasefire.“The scale of the detonations and demolitions taking place in south Lebanon i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785651202393,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-04-16",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 UN voices concern over Israeli demolitions in Lebanon📌 Tehran, IRNA – The United Nations has expressed deep concern over Israel’s demolitions in southern Lebanon, which have continued in recent days despite a ceasefire.“The scale of the detonations and demolitions taking place in south Lebanon i...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1784999966680,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -192925,6 +192970,26 @@
     "verified": false
   },
   {
+    "id": 1785651202866,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 In photos: Arbaeen pilgrims find solace along Iraq’s palm groves, Euphrates📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cpfzwEW1NUF7kT4_3jSKTFhkUYZtiPYeiZWNja2ab9LdegjdXh_QSjEfm1QgT1gcvaATOyQm77_KaSJGCAwcqtgBZwu7b0G5WTnnk_SUYsgyQUTSPJFXg-LoJ-r0Gy3xWTfwLmS8hGg1980dMdSMBS4xb-hSrFwniPgkPkPq1SsM_J59mMjKU11T9tMxNpi_BSM-n7W9r3U4L0gx-NcyCFgbonoUWMmgATAYGt5n48LEBDtqGiKdVL-XbU5jct60kg4CLB3IO_EIhboKNw-UsrXhdzGyt_OdXWurn3hoZtPmI1sry6wjGTlgpMxrrNmKbBLUwOgialw5VIdSeZVi-A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785642121998,
     "type": "rocket",
     "location": "Israel",
@@ -193058,6 +193123,177 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785651190098,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Palestinian sources: Israel to halt escalation of attacks and assassination operations in Gaza🔹A source in Palestinian groups told the \"Quds\" network that Mladenov, the executive head of the \"Peace Council\" in the Gaza Strip, along with mediators, informed Palestinian groups that the Zionist r...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QV6RA26ELk4OkcFnS0L7fRVN-MadD1SqLEkEUfcSCPZFnEhEohLQPbScZvRVAyODMrw7AvYU9B3EwQ0W6BvIo1dQeGz-eml9nQX7q3MxOdT8Wf9g8Wb6MQIe2d1r4yLXECPo9_zFfyryvcBY-a_bhb5k3pngDgeoVWelATvN99knhLGgXn7Qfke766i52Po_vLxXFrKw97Dd2VMYO4TnEL9OfUwX2vqsnHmrLlZPoBOKddiZ3_CHvn4PCCFsSJ7wpnXA1HGnk799zRthfwb67mXtwzSpq8UIoddlo-kZAG-2UTAirvRpZe5rJBeA9Ojv82_20D6VMsezmxckUdPo4g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785651160137,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Palestinian sources: Israel to halt escalation of attacks and assassination operations in Gaza🔹A source in Palestinian groups told the \"Quds\" network that Mladenov, the executive head of the \"Peace Council\" in the Gaza Strip, along with mediators, informed Palestinian groups that the Zionist r...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QV6RA26ELk4OkcFnS0L7fRVN-MadD1SqLEkEUfcSCPZFnEhEohLQPbScZvRVAyODMrw7AvYU9B3EwQ0W6BvIo1dQeGz-eml9nQX7q3MxOdT8Wf9g8Wb6MQIe2d1r4yLXECPo9_zFfyryvcBY-a_bhb5k3pngDgeoVWelATvN99knhLGgXn7Qfke766i52Po_vLxXFrKw97Dd2VMYO4TnEL9OfUwX2vqsnHmrLlZPoBOKddiZ3_CHvn4PCCFsSJ7wpnXA1HGnk799zRthfwb67mXtwzSpq8UIoddlo-kZAG-2UTAirvRpZe5rJBeA9Ojv82_20D6VMsezmxckUdPo4g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785651164167,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔺Palestinian sources: Israel to halt escalation of attacks and assassination operations in Gaza🔹A source in Palestinian groups told the \"Quds\" network that Mladenov, the executive head of the \"Peace Council\" in the Gaza Strip, along with mediators, informed Palestinian groups that the Zionist r...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QV6RA26ELk4OkcFnS0L7fRVN-MadD1SqLEkEUfcSCPZFnEhEohLQPbScZvRVAyODMrw7AvYU9B3EwQ0W6BvIo1dQeGz-eml9nQX7q3MxOdT8Wf9g8Wb6MQIe2d1r4yLXECPo9_zFfyryvcBY-a_bhb5k3pngDgeoVWelATvN99knhLGgXn7Qfke766i52Po_vLxXFrKw97Dd2VMYO4TnEL9OfUwX2vqsnHmrLlZPoBOKddiZ3_CHvn4PCCFsSJ7wpnXA1HGnk799zRthfwb67mXtwzSpq8UIoddlo-kZAG-2UTAirvRpZe5rJBeA9Ojv82_20D6VMsezmxckUdPo4g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785651244489,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴Minister and Cabinet Member Eli Cohen:Iran is deterred; it has attacked all countries in the region except Israel, and this is proof in itself.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785651199404,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ A Moscow Restaurant Targeted in Deadly Terrorist BombingAt least three people have been killed and 21 injured after an improvised explosive device detonated at an Italian restaurant in the Russian capital.According to authorities, the explosion occurred around 8:00 PM local time yesterday in Kudr...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bPR6vBN8B4g-xYDyojXA-qBcohD_j3C9xtlyb2SNtqximDacL-GbH7f_qZ0g63iZu75gY1nSWMGcBqyYP3Ao1k4vwfkWGPWN6sozEKYAVL3s_DHl84HSNpS_oBmZtLx1c64V-2AuC0_Jgn1diMvgKLQzF_Yvrib4i4ae9C8-UbZ4Xg_2dwmu-SD8ab5EpvKuw4-cBq3BwL_UGU8gbzXO9vfZVm8DiRbUTJfTcH0NL70r6fxXnz1oho6qYvONp4zLVFhKVzJo8Wdx69APA2QVDkxvqPyCmLENV0K1PTw_iDkDZDEYuJRUi5Z2n1S-wKCJRoyVpwuype5E7J6-lZssog.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785651237917,
+    "type": "airstrike",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "🎦 The sea is not a swimming pool; please take this seriously&#33;🔹The Caspian Sea is one of the most beautiful seas, but every summer it breaks many hearts.",
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1059913",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785651184999,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Stock market index jumps 109,000 unitsThe overall index of the Tehran Stock Exchange rose by more than 109,000 units in the initial minutes of stock market activity, reaching 5,164,000 units.The equally weighted index also grew by 27,000 units.457 billion tomans of real money flowed into stocks, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VwN4RC_FvQgAIJBArXhIpL0zb2d_Q3EmHxEM3gmikuL4EPWueFSsEAQnRPLotoVxlT1y5BeB1_m8gmEaR1PtLb5789I0lXTW9F0Gnlq9sKiEQC5jHHF65yD3GbEjXn9OtPs0llcyqOmJKQp_5hwKql3aQriERPoL-KnoFQ3grkElqHyiDe88vCjl6oxnh9Bp1buc3Alash0sfFsdfEPVKReeEmxOstZWe6_PFz6uVTZ12Tt2sUsyfnjcQsHa1UQysPRzXZs1vf_PVQwpQYf9BJf0FD4apCSjSGdzXaCzyqjCoc5QIi9tDpSe3dSZomnkc9qUwAjbOQLP8sh4AX_Rmg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785651250429,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Stock market index jumps 109,000 unitsThe overall index of the Tehran Stock Exchange rose by more than 109,000 units in the initial minutes of stock market activity, reaching 5,164,000 units.The equally weighted index also grew by 27,000 units.457 billion tomans of real money flowed into stocks, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VwN4RC_FvQgAIJBArXhIpL0zb2d_Q3EmHxEM3gmikuL4EPWueFSsEAQnRPLotoVxlT1y5BeB1_m8gmEaR1PtLb5789I0lXTW9F0Gnlq9sKiEQC5jHHF65yD3GbEjXn9OtPs0llcyqOmJKQp_5hwKql3aQriERPoL-KnoFQ3grkElqHyiDe88vCjl6oxnh9Bp1buc3Alash0sfFsdfEPVKReeEmxOstZWe6_PFz6uVTZ12Tt2sUsyfnjcQsHa1UQysPRzXZs1vf_PVQwpQYf9BJf0FD4apCSjSGdzXaCzyqjCoc5QIi9tDpSe3dSZomnkc9qUwAjbOQLP8sh4AX_Rmg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785651179963,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Amir Bukhbut - Walla Hebrew website:Wonderful. The White House is trying to create an atmosphere for an agreement with Iran, while the Revolutionary Guard is specifically moving in the opposite direction. Mojtaba Wahedi will never give up the nuclear option, and they will not rest, nor will they ...",
+    "media": [],
     "verified": false
   }
 ]

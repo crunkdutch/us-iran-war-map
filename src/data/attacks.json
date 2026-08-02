@@ -20067,6 +20067,38 @@
     ]
   },
   {
+    "id": 477489501,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-04-16",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Tehran, Lebanon, Israel: voices concern over Israeli demolitions Lebanon",
+    "location": "Tehran, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 UN voices concern over Israeli demolitions in Lebanon📌 Tehran, IRNA – The United Nations has expressed deep concern over Israel’s demolitions in southern Lebanon, which have continued in recent days despite a ceasefire.“The scale of the detonations and demolitions taking place in south Lebanon is deeply concerning, with a devastating impact on civilian infrastructure, cultural heritage, and the collective memory of communities,” the Office of the UN Special Coordinator for Lebanon said in a ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 475696895,
     "type": "airstrike",
     "status": "confirmed",
@@ -88060,6 +88092,80 @@
     "media": [
       {
         "url": "https://cdn4.telesco.pe/file/jNLtq28wPKxODZpFKbzBQ_SHRGPscxNEf-Ejv7sRt4RzvZBgG951be3SemFhBvRVmwEs5HTPABdgX6P0elJMjfkasrIuDAyIub8o-FttQ30gkjw98reiLpyP9j0zbfKlDLEcZJr3eOy36EJyx6ruNMKic3w6tsIvaO7ozIFUddrC_RzfWmByeeqHheAF5qu6-RSbHEiBiTc_3e8ixgiuNfDgXS9txQKHxnkAwMUjVl-cegqnRlNxG6SHb1R3TrTUbP7vLC4hQ855U7woPWXZH8QHzOPgY52CHc8J7l9h_XMtvJr5V5la50gTyBEHO0_bFoLBZ25WfR7iGDzjwG29pA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477491798,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Aden, Israel, Gaza Strip: Palestinian sources Israel halt escalation attacks",
+    "location": "Aden, Israel, Gaza Strip",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔺Palestinian sources: Israel to halt escalation of attacks and assassination operations in Gaza🔹A source in Palestinian groups told the \"Quds\" network that Mladenov, the executive head of the \"Peace Council\" in the Gaza Strip, along with mediators, informed Palestinian groups that the Zionist regime will halt the escalation of military operations and targeted assassinations starting today.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QV6RA26ELk4OkcFnS0L7fRVN-MadD1SqLEkEUfcSCPZFnEhEohLQPbScZvRVAyODMrw7AvYU9B3EwQ0W6BvIo1dQeGz-eml9nQX7q3MxOdT8Wf9g8Wb6MQIe2d1r4yLXECPo9_zFfyryvcBY-a_bhb5k3pngDgeoVWelATvN99knhLGgXn7Qfke766i52Po_vLxXFrKw97Dd2VMYO4TnEL9OfUwX2vqsnHmrLlZPoBOKddiZ3_CHvn4PCCFsSJ7wpnXA1HGnk799zRthfwb67mXtwzSpq8UIoddlo-kZAG-2UTAirvRpZe5rJBeA9Ojv82_20D6VMsezmxckUdPo4g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477494096,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Oman: Moscow Restaurant Targeted Deadly Terrorist BombingAt",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 21
+    },
+    "description": "⚡️ A Moscow Restaurant Targeted in Deadly Terrorist BombingAt least three people have been killed and 21 injured after an improvised explosive device detonated at an Italian restaurant in the Russian capital.According to authorities, the explosion occurred around 8:00 PM local time yesterday in Kudrinskaya Square, near the center of Moscow.According to Russia's National Anti-Terrorism Committee, a woman carrying explosives attempted to enter the restaurant but was stopped by a security guard. As",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bPR6vBN8B4g-xYDyojXA-qBcohD_j3C9xtlyb2SNtqximDacL-GbH7f_qZ0g63iZu75gY1nSWMGcBqyYP3Ao1k4vwfkWGPWN6sozEKYAVL3s_DHl84HSNpS_oBmZtLx1c64V-2AuC0_Jgn1diMvgKLQzF_Yvrib4i4ae9C8-UbZ4Xg_2dwmu-SD8ab5EpvKuw4-cBq3BwL_UGU8gbzXO9vfZVm8DiRbUTJfTcH0NL70r6fxXnz1oho6qYvONp4zLVFhKVzJo8Wdx69APA2QVDkxvqPyCmLENV0K1PTw_iDkDZDEYuJRUi5Z2n1S-wKCJRoyVpwuype5E7J6-lZssog.jpg",
         "type": "photo"
       }
     ]
