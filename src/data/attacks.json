@@ -88763,6 +88763,38 @@
     ]
   },
   {
+    "id": 477533315,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen, Gaza Strip: UrgentTargeting with reconnaissance missile near AlYemen",
+    "location": "Yemen, Gaza Strip",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 🔴 #Urgent...Targeting with a reconnaissance missile near Al-Yemen Al-Saeed Hospital north of the Gaza Strip, and the death of Muhammad Hani Al-Arr.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
