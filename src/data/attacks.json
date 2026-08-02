@@ -89182,6 +89182,43 @@
     ]
   },
   {
+    "id": 477558846,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Interception — Abu Dhabi, Al Udeid Air Base, Qatar: There been heavy airlift activity with",
+    "location": "Abu Dhabi, Al Udeid Air Base, Qatar",
+    "coordinates": [
+      24.4539,
+      54.3773
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ 📡 There has been a lot of heavy airlift activity with US Air Force C-17A Globemaster III aircraft between Europe and the Middle East. Today, 1x US Air Force C-17A flew from Osan Air Base in South Korea to Al Udeid Air Base in Qatar via Ramstein Air Base, likely transporting additional air defense. Several US Air Force C-17A Globemaster III flights have also arrived at Suweihan Air Base in Abu Dhabi in recent days, including one operating today with the callsign MOOSE58.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/JkjcCNY2YY3z76hp0394TBgLAo3RFE0emn7UWr-oVa9D9ZVd4GeChk8TIf-eFUreFrXN28OdYWDkUtTLIg2I9yjb2h4XIS-kjQ6ka7r4WhBZpHpAwdzZ_oy8r8iTu5fZxQHzGqPAdynRmVbsxVZHOE3ipoDB8R5hmoyaICDSwz97n_0a7KgMqAxA4J2JE7jUWUMsXcAfPvi7jSCgvA6p5kusMpX4DhX7-cFWWV7lNu96L_rdCrn7fUBCZ_I-MYhz8IDUUNGL23G2RwUWDzgWb6thdzbQLCuVRzcMPbxSSLMWtvoBaKdu_ZsDrNgt-CkNWoj09ZI9YYMc-ONUciTDqw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
