@@ -187126,6 +187126,76 @@
     "verified": false
   },
   {
+    "id": 1785629712333,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇮🇷/🇮🇶 NEW: Iranian drones targeted and impacted multiple separatist positions in Sulaymaniyah, Iraqi Kurdistan@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/KiKs8fl_L5mGZgymsY1hP-Kjkolfov8ux6bO-SBMarwXzu4fH2o1i8kZBokR7llrEiqvPFGf6oK2LYmkVFumty580iaEaWwAVe7-eR8av2Rzj-z_9I4KLvdGe0eSj-5U3dSeS8kK3F8KPV1M5mFnHHEojB94ZbmTK6j_Phd7R2ceV9xYPyJz9yxoNouzaav2O2x57Ho87Tha2ydhvU5ryAGfDgctJ-bWu6wowjMj2BdFRkjckGXhes1_ItAXGjrMdzs1tvGmgQraLNYbaO2isVdn6EeUz-Vlnd0_7w-7BuEuiv-M5-pNWVRFfVZQO1RUTT6E5DTllCafUpfbBUJHwQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/0de179a60c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uxh7yog-_sdSlpJ-WtkgJFg6zo4ldnSWZvnGd4CHdE-b3fn5G3W0BLRsmgGE06SvWojKXoTM7wLOPPWEm6L3iV9m2DfNPT2-SQmMUxteWaLPypJlF-GcrlCwa9lJtjMLJq87DY6yfaxBkrUFKARFt7ubkX0MTR5fomD_VA0JaSwtXiV3rLxCo3f60nr0U2alMgg46odrSRXasWorG9CrE_uGERp8GpY1XWn2QnzhKNRP8cetBNZ2Fr9FYLIbvHwDtKrZvWCTbQs64jXhhMGwddUlrVHGAjfl8o0a2NN1RaYUwEgF-yczeb_z8Qm8Ey8aWiwymFlwaQKSSGx6sNCTLw"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/96a19b6935.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uxh7yog-_sdSlpJ-WtkgJFg6zo4ldnSWZvnGd4CHdE-b3fn5G3W0BLRsmgGE06SvWojKXoTM7wLOPPWEm6L3iV9m2DfNPT2-SQmMUxteWaLPypJlF-GcrlCwa9lJtjMLJq87DY6yfaxBkrUFKARFt7ubkX0MTR5fomD_VA0JaSwtXiV3rLxCo3f60nr0U2alMgg46odrSRXasWorG9CrE_uGERp8GpY1XWn2QnzhKNRP8cetBNZ2Fr9FYLIbvHwDtKrZvWCTbQs64jXhhMGwddUlrVHGAjfl8o0a2NN1RaYUwEgF-yczeb_z8Qm8Ey8aWiwymFlwaQKSSGx6sNCTLw"
+      },
+      {
+        "url": "https://t.me/Middle_East_Spectator/35680?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uxh7yog-_sdSlpJ-WtkgJFg6zo4ldnSWZvnGd4CHdE-b3fn5G3W0BLRsmgGE06SvWojKXoTM7wLOPPWEm6L3iV9m2DfNPT2-SQmMUxteWaLPypJlF-GcrlCwa9lJtjMLJq87DY6yfaxBkrUFKARFt7ubkX0MTR5fomD_VA0JaSwtXiV3rLxCo3f60nr0U2alMgg46odrSRXasWorG9CrE_uGERp8GpY1XWn2QnzhKNRP8cetBNZ2Fr9FYLIbvHwDtKrZvWCTbQs64jXhhMGwddUlrVHGAjfl8o0a2NN1RaYUwEgF-yczeb_z8Qm8Ey8aWiwymFlwaQKSSGx6sNCTLw"
+      },
+      {
+        "url": "https://t.me/Middle_East_Spectator/35682?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ghRY5TkKGYvf5ZteAO_51iqoM0qZw1QxgZ3Gyap-WQUdmNAM7-c-302JpeUHTN-2K3PKHjDVv5EF3I_5h1xGnJ17_Unhl_3eu7zs5jbmFGUfHH_hDgc7A1-HzrB70OPr41LmasXMJiJ8NG1BRCuD9GRIFYz7kG3iGLNoleGmSLZTlppIpK7JokXstWKldiomqAnp8gxE_hVUM5bkG6xrA1HLymK1iH-d4RIifjD7aeb_QKSC-FjUKTH9LZxh7qJVpcp5n33EEbrA-KX_3wBwJRk_T17UMSZ3XNh49WZJVCbvWLb5O2izd0Ac9OuNY9-6D5CDCsD-WoxRdvM9XWjN0A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785629692882,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-07-31",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇺🇸/🇮🇷/🇸🇦 NEW: Saudi Arabia’s Crown Prince, Mohammad Bin Salman, called President Trump and urged him not to attack Iran@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785629654313,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-07-31",
+    "source": "Telegram (me_spectator)",
+    "sourceUrl": "https://t.me/s/me_spectator",
+    "description": "—❗️🇺🇸/🇮🇷/🇶🇦 NEW: The U.S. has made a last minute peace offer to Iran through Qatar, and Iran is examining it@Middle_East_Spectator",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785438983298,
     "type": "airstrike",
     "location": "Israel",
@@ -192606,6 +192676,118 @@
         "thumbnail": "https://cdn4.telesco.pe/file/hJHGclPYslbfyvni9cnsOmCMYcDNtbYxN0MEb3bvkI4tsopRCaxM0N07Irat2-OyQQU02yHgPBnj5Jmhtv6Wq43aKM2I2CBdwgWng_vJ40e4IwT2STaMVBnw_irI7dNNrOfJ_MMt4BUVuJGuBmWxUtcQ6Tx1JqTRqisgQJIuf0SGDQnij-93f2zfo6RjC9d_deZSd4i54iu7EvGTDUtJuD17nQtro3lh3D2KMhrnZRR6xCjWNwQKZWVOD2MWHgccf04tcHu6lRkK61mGeMu6-NKrW41X4fKAjraH8GFoWoSXpMBlZ6ZklCH0PRsMFovFcl1mPPr3r-S3IqdMmOGsUQ"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785629599687,
+    "type": "drone",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Drone activity was reported over Sulaymaniyah in northern Iraq before a series of direct strikes targeted the headquarters of Iranian Kurdish opposition groups in Sulaymaniyah, Dukan District, and Erbil in the Kurdistan Region. Multiple explosive drone strikes reportedly hit the headquarters ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/c6414072e6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iRrY_Lt12ps-y1dHk70KhBt0fpDOR01BGpMLNvEAvnLeEkYAqsEAdFvWDzP3kpyQSCuhCDa5lUCSk8eM12zxfyhq_11tivJVu_3cIYYiL-YAMiuBSwvHYLi7NUzMhyNHSD74NQXbtP5FlYxFOOJqefNFA-f5IbVnY-e4B1JpBn1ljSxU3UN6a-C_JToZn7rSBvUTd8R-WctoAwzipEBfqIdRFInKftqCzJM_ztuwNVDzHmYTc84i43HLcZdRXPvptbyM_rQg7BLVsqKkVB-VkA5vvJfLCPkg3Shg9YuVAbmOgcPmtWFC9FXe-AW7EcSzmO4CnlnyRZ1tC9aElrIRLg"
+      },
+      {
+        "url": "https://t.me/enemywatch/60645",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iRrY_Lt12ps-y1dHk70KhBt0fpDOR01BGpMLNvEAvnLeEkYAqsEAdFvWDzP3kpyQSCuhCDa5lUCSk8eM12zxfyhq_11tivJVu_3cIYYiL-YAMiuBSwvHYLi7NUzMhyNHSD74NQXbtP5FlYxFOOJqefNFA-f5IbVnY-e4B1JpBn1ljSxU3UN6a-C_JToZn7rSBvUTd8R-WctoAwzipEBfqIdRFInKftqCzJM_ztuwNVDzHmYTc84i43HLcZdRXPvptbyM_rQg7BLVsqKkVB-VkA5vvJfLCPkg3Shg9YuVAbmOgcPmtWFC9FXe-AW7EcSzmO4CnlnyRZ1tC9aElrIRLg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785629657712,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Drone activity was reported over Sulaymaniyah in northern Iraq before a series of direct strikes targeted the headquarters of Iranian Kurdish opposition groups in Sulaymaniyah, Dukan District, and Erbil in the Kurdistan Region. Multiple explosive drone strikes reportedly hit the headquarters ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/c6414072e6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iRrY_Lt12ps-y1dHk70KhBt0fpDOR01BGpMLNvEAvnLeEkYAqsEAdFvWDzP3kpyQSCuhCDa5lUCSk8eM12zxfyhq_11tivJVu_3cIYYiL-YAMiuBSwvHYLi7NUzMhyNHSD74NQXbtP5FlYxFOOJqefNFA-f5IbVnY-e4B1JpBn1ljSxU3UN6a-C_JToZn7rSBvUTd8R-WctoAwzipEBfqIdRFInKftqCzJM_ztuwNVDzHmYTc84i43HLcZdRXPvptbyM_rQg7BLVsqKkVB-VkA5vvJfLCPkg3Shg9YuVAbmOgcPmtWFC9FXe-AW7EcSzmO4CnlnyRZ1tC9aElrIRLg"
+      },
+      {
+        "url": "https://t.me/enemywatch/60645",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iRrY_Lt12ps-y1dHk70KhBt0fpDOR01BGpMLNvEAvnLeEkYAqsEAdFvWDzP3kpyQSCuhCDa5lUCSk8eM12zxfyhq_11tivJVu_3cIYYiL-YAMiuBSwvHYLi7NUzMhyNHSD74NQXbtP5FlYxFOOJqefNFA-f5IbVnY-e4B1JpBn1ljSxU3UN6a-C_JToZn7rSBvUTd8R-WctoAwzipEBfqIdRFInKftqCzJM_ztuwNVDzHmYTc84i43HLcZdRXPvptbyM_rQg7BLVsqKkVB-VkA5vvJfLCPkg3Shg9YuVAbmOgcPmtWFC9FXe-AW7EcSzmO4CnlnyRZ1tC9aElrIRLg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785629710190,
+    "type": "rocket",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Al Mayadeen correspondent in Gaza: Three martyrs and wounded individuals as a result of an Israeli shelling that targeted a residential apartment in the Susi Tower, west of Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785629640078,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Al Mayadeen correspondent in Gaza: Three martyrs and wounded individuals as a result of an Israeli shelling that targeted a residential apartment in the Susi Tower, west of Gaza City.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785629653492,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ Security sourceAmerican landing at Ain al-Asad base, then the force moved towards the Nukhayb desert in western Iraq• 23:53 — Iraqi security sources: Three American planes land at the occupied Ain al-Assad Airbase in western Iraq, forcing security forces personnel to descend from the towers due t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785629631288,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ We want the message to reach the WFB World Food [Program]..Al-Qalaa Bakery in the center of Khan Yunis, specifically at the end of Al-Bahr Street in Abu Jalal Al-Agha's building.. The bakery is not clean, and most of the workers have no respect or principles. They steal bundles of bread and distr...",
+    "media": [],
     "verified": false
   }
 ]
