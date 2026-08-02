@@ -192897,6 +192897,34 @@
     "verified": false
   },
   {
+    "id": 1785646083087,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 | Displaced Palestinians crowded around a charitable soup kitchen in the Al-Mawasi area of Khan Younis in a desperate attempt to obtain a scarce meal, as the ongoing Israeli blockade and the consequences of the genocidal war continue to deepen the humanitarian catastrophe in Gaza.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BWPU7w7l2BVRs5AUvXmOFuGZy_f9Zmd3FQdiHDfQmovJy_TxpVdjCbwUGGgIzcwwNoQwuESt-T-cF24VJQBYKBBtOaoS-wz6Nn4katZE2Tci78ag8SQj5IbEw_to4aRVUQKRElCZT7v2ubmNwYopBe5rqm0A8v8vJpLYMLEx0t2SWQdR5e-R_fLdQD0MTwF93aYfjVNyLLRG4wSeiYgv5O_Pi_tIvbKCCSivj7jb4L2Lo0RGrFbDam_a6kZTlEGue8xJ1as2-uxIdJm4327TcncX-wguIpYKSbvBXNJAztLb8RiLwn8ox1EAJNxNKg4WyyZcI2aOZg182v4yOT2qLQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NrJVsfLb2LOpZPaz1r7LLx1YCWVwBz_1nJBs6wJARew8dEigOgJruiq2ng0-m16-K-5L7zXVMCrpgc3c32nIZaSz_lFiRK4gTtslBOdJQQ_xE1DulYIY0j0PuZREW11n4gKopI_-A6DTgN1wZjG0BaNVe8-f6tgMLiXlBrdqyscMenN4RBrXHQrflqFKd_MQzsG1eGZjUX7HgJVDy2cLGE_Fn_qIyTCs6FsodKHs3w2ruINZhITKHEYrWCmVxJFzzGToivBkRt7zpgwnr_hfjAa5-Ib0sdkH-1mRat5BAmiuPvFIH63O5f1KHbwZLcKqBrYPjPVaL1urXk5IBPc7zQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Dz6kO9s6qUJvwcvZ00ziL8MAZ_QaBUI-eCUXE7CeIOgNUzS7Xj41PJZ3CZrwD7VrcdVmBw3_k7Wp5HUNtFwDS4h6PiXvT_vlU4kKqD9I6VFZrSsh8lvzJYpXLO8CcAC6Uhifp29E8rp23BuACZ2UqzSY8WY5bwkogh8kZK1Ai8Jfu_XZ9PGTj4uCf6k5Ohni3CKe3jlatnd5MH-db8TvuPjGq7oitfpEknVYWvXi5GrVtiaJFMLHvII6jkupFCNaX1N_altopPxAgTCzCOXBrvpHmJ5v01K655gdUn2Oub7N2aqhboqwDz0i7TtTXB6SrXkXxzoH7XzQnLtq4Gs6IQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785642121998,
     "type": "rocket",
     "location": "Israel",
@@ -192923,6 +192951,36 @@
     "source": "Telegram (me_observer)",
     "sourceUrl": "https://t.me/s/me_observer",
     "description": "⚡️ Palestine: Occupation forces storm the city of Qalqilya in the West Bank.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785646123850,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 The \"Israeli\" enemy continued its aggressions against the South at dawn, carrying out a bombing operation in the town of Hadata.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785646142139,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-02",
+    "source": "Telegram (me_observer)",
+    "sourceUrl": "https://t.me/s/me_observer",
+    "description": "⚡️ 🔴 Gaza Strip: 10 martyrs and a large number of injured overnight, raising the total to 17 martyrs within 24 hours.",
     "media": [],
     "verified": false
   }
