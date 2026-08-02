@@ -88827,6 +88827,38 @@
     "media": []
   },
   {
+    "id": 477537948,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza Strip: Occupied Palestine Mayadeen correspondent person injured",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupied Palestine: Al Mayadeen correspondent: One person injured by occupation \"army\" gunfire in the Turkish Slaughterhouse area, south of Khan Yunis city in the southern Gaza Strip.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
