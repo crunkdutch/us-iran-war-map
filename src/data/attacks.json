@@ -89448,6 +89448,49 @@
     ]
   },
   {
+    "id": 477575156,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Lebanon National Media Israeli enemy forces",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ #Lebanon: \"National Media\": Israeli enemy forces dropped incendiary phosphorus bombs last night, causing fires to break out in olive and pine groves in the towns of Yaroun, Haroun, and the city of Bint Jbeil.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d7321f9670.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/oUJ2OPRDEn4BCl2CLlJn4RPTeCqKBRtZVW5VeIwIgC4nujw3Vf-fVawUPuvKsR2UjPM_eV-ev2qdgckwUx6ZpqBwaxhG5reUKiqkWLwbE35A29H075Nq0JFYjh4g15AX1qP6KRwttrRcZVe_MOECJazhrYrqDoL7FjCDF4hbl8uHvD36M6Z4dcAUtgVngidMGOKARjwNUAMHuaCjvOMStWBy_mimcnME5KAVzrHqLPKs0oLUmoVky8j-vQ190qDlNWvqmRXuZuLfzl20L12h3rijdgzHqFPZPMw7TOc1tm3R6oYiWZPkritTbaQwNu8leHA8IJxiHRJufOBypk0UHw"
+      },
+      {
+        "url": "https://t.me/me_observer_TG/1060492",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/oUJ2OPRDEn4BCl2CLlJn4RPTeCqKBRtZVW5VeIwIgC4nujw3Vf-fVawUPuvKsR2UjPM_eV-ev2qdgckwUx6ZpqBwaxhG5reUKiqkWLwbE35A29H075Nq0JFYjh4g15AX1qP6KRwttrRcZVe_MOECJazhrYrqDoL7FjCDF4hbl8uHvD36M6Z4dcAUtgVngidMGOKARjwNUAMHuaCjvOMStWBy_mimcnME5KAVzrHqLPKs0oLUmoVky8j-vQ190qDlNWvqmRXuZuLfzl20L12h3rijdgzHqFPZPMw7TOc1tm3R6oYiWZPkritTbaQwNu8leHA8IJxiHRJufOBypk0UHw"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
