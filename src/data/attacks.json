@@ -89548,6 +89548,38 @@
     ]
   },
   {
+    "id": 477605576,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Strait of Hormuz, Oman: Iran Oman negotiating temporary Hormuz shipping",
+    "location": "Tehran, Strait of Hormuz, Oman, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran, Oman negotiating temporary Hormuz shipping corridor as talks continue📌 Tehran, IRNA – Iran is negotiating with Oman to establish a temporary shipping corridor in the Strait of Hormuz that would serve as a single two-way route rather than multiple separate lanes, Iranian Foreign Ministry Spokesperson Esmaeil Baqaei says.Speaking at a press briefing on Monday, Baqaei said Iran accepted responsibility under the June 18 memorandum ending the recent conflict to help manage future navigation",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477572823,
     "type": "airstrike",
     "status": "confirmed",
