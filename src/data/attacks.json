@@ -89721,6 +89721,38 @@
     "media": []
   },
   {
+    "id": 477593856,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria: Syria Syrian Observatory Mystery surrounds explosions",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Syria: Syrian Observatory: Mystery surrounds two explosions near Tadmur Airport, where loud noises were heard at dawn and a red flash was seen.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
