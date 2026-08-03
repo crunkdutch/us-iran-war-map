@@ -88033,6 +88033,38 @@
     ]
   },
   {
+    "id": 477596198,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-01",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: Breaking Reaper drone intercepted fire from",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — An MQ-9 Reaper drone was intercepted and hit by fire from the IRGC Aerospace Force's newly deployed advanced air defense system over the skies of the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477484910,
     "type": "rocket",
     "status": "confirmed",
@@ -89751,6 +89783,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 477598541,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: URGENT drone intercepted over Strait Hormuz",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ URGENT 🚨🚨🚨🚨Now | MQ9 drone intercepted over the Strait of Hormuz🔹 An MQ9 drone was intercepted and hit by the fire of the advanced new air defense system of the IRGC Aerospace Force over the skies of the Strait of Hormuz.• 09:08 — Iran: Revolutionary Guard: An MQ-9 drone was hit by the fire of the modern and advanced air defense system belonging to the Aerospace Force over the skies of Hormuz. (Al Mayadeen Breaking)",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/hu9N51lLA-rh4sedT9-ORy9XGHnhIGXCi-Y9WW5OwO-7P3sz1dwb_xYynD1-UuMKM5Rl99I8ynv793lnoqO_8hVBn6JdEhxKKCp2CHdvhRCOTAb6ZZGZf80hW8ZcAHq13aNvlji4TsBtTtdrXKm_5zoPW8mY7r4jIoElOYm3Y9QGz06CIhOOjPymfdHZYeM_gXTO9_BxzbyOhy8XYhproKZG1N96dJjqVGOB1a5HA3yts_ZMHhPytAmxiyAMwwTZesBlbat7eI6DtTXg4Ofkn1elKkHg8Py4JJuhLb6kwrOCpiRXvkA1zjh13YiyaXUZKeFVZfqXHzvGHTwFz920hQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477331196,
