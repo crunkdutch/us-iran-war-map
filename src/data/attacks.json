@@ -89555,6 +89555,140 @@
     "media": []
   },
   {
+    "id": 477582161,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Beirut: Nawaf Salam should doubt that there",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Nawaf Salam: No one should doubt that there is no immunity for any official, regardless of their position, neither in the Beirut port explosion case nor in any other case... Accountability will spare no one.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477584498,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Turkey: Iran Mehr Agency Contact between acting",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran: Mehr Agency: Contact between the acting Iranian Minister of Defense and the Turkish Minister of Defense• 06:55 — Turkey: Turkish Minister of Defense to the acting Iranian Minister of Defense: We affirm Ankara's support for the full implementation of the ceasefire and the continuation of the path of diplomacy. (Al Mayadeen Breaking)• 06:55 — Turkey: Minister of Defense: Regional security can only be achieved through dialogue, cooperation, and the participation of regional countries.; Tur",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477586836,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Zarean expert international issues American rulers",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Zarean, expert on international issues: American rulers doubt whether a large-scale military operation can fundamentally be the solution to the Strait of Hormuz issue.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1060579",
+        "type": "video",
+        "thumbnail": null
+      }
+    ]
+  },
+  {
+    "id": 477589175,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, Gaza Strip: Nasser Medical ComplexTwo injured Israeli occupation",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Nasser Medical Complex:Two injured by Israeli occupation forces' gunfire in Mawasi Khan Yunis, southern Gaza Strip",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
