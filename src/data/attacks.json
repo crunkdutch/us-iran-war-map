@@ -89474,6 +89474,80 @@
     "media": []
   },
   {
+    "id": 477600885,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: OpinionThe statement Presidium Assembly Experts Iran",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (simurgh)",
+        "url": "https://t.me/s/simurgh",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "OpinionThe statement by the Presidium of the Assembly of Experts in Iran is both timely and interesting. It basically tells everyone to fall in line or else. It means that the establishment has put behind the chaos of the likes of Ghalibaf and Pezeshkian doing whatever that they wanted on Zarif's advice and claiming force majeure -including twice accepting ceasefires without consultation with the Leader Imam Mojtaba Khamenei.The political establishment of the Islamic Republic received a major wa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mhVVFqx4UUUAQM-RqxK_nokynNFzCcekYI7thQrGCsHyQYKXUC7jwNcayRvuO-2QvouCBY-DzSdkybjMZsC5kImYe8Fx6burOiedY1G7B5ZS6930V5ktgPVlL2_k8Zko2Y7Ywa9efGrSXovxEPF2oflDbDZCQLTHGyzJXQpyrZhA_k6FWyOrqnMfbz_h2a9J6EcBaSOarEy7cvqThANYEXxfVBKBSXsjc9pLO6FrlNYrGhVOkitSSB6aRLyNSZig-Gj7Uc0rt-t8QOrAQzsspUzrBTdf8GswSM4Lc6OwOG_kJbEE_E7Dpn-R1ZvjOx4j32wRFxRKpG22qmyAig0yCw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 477603230,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Strait of Hormuz: Iranian MilitaryAn drone been shot down",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/simurgh",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷🇺🇸Iranian Military:An MQ-9 drone has been shot down by the IRGC air defence over the Strait of Hormuz.@SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/FfKPOzwiDvUWlBzTEw9exQ9AI314aL_bSDT-tIaMuJZHYta3eJivGwBRuUN3G6AJIfMWVvFCivFnGCMuL5Hm6Pbh5ECGxuiImbH3NGzljUd_Q3YIPsLNqheuwoKA1XG2Grugn8UUm9lzk3EoVXNr3xg2u-Egd71xKq06365pNnveRQ4_C21cG8JTsKQkb-alQNjThutDTwAI6RA1ylOlkZ97cfCBCCdJ4p-HsAeDvW6gaDYNu_kIAM2VTqDGuIkU4P69lMdnYnWPLGRBSrouNbFB7OXbQLm0j7U00Ac6zmQ9wP5INE6K0reH34BRf88miw-H6QVjm_RkCqEwr5I5Qw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477572823,
     "type": "airstrike",
     "status": "confirmed",
