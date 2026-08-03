@@ -89933,6 +89933,75 @@
     ]
   },
   {
+    "id": 477607923,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Occupied Palestine Mayadeens correspondent Gaza Israeli",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Occupied Palestine: Al Mayadeen's correspondent in Gaza: Israeli drones drop bombs in the Al-Shakoush area in Mawasi Rafah, south of the Strip.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 477610271,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Iraq: Statement Representative Supreme Leader Revolutionary Guard",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Statement by the Representative of the Supreme Leader in the Revolutionary Guard following the martyrdom of a group of heroic Popular Mobilization Forces fightersThe representative of the Supreme Leader in the Islamic Revolutionary Guard Corps issued a statement following the martyrdom of a group of heroic Popular Mobilization Forces fighters due to a joint and criminal military aggression launched by America and the Saudi regime; he condemned this crime, stressing:I explicitly accuse America",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Wj4lfdtFBusKvFozuWOlhygVZHSmPN2h4iacdTs65dcXO8XV-Kb16s0hCvcTLeY_XWEmlhJaaDEXwEZgcG4Qr_UCWsnoyzwU15fzoDYe324WKzJDxKF8Gprg0zA6cxiWxtLb9WR-Ynfyu_dvMiPIjo6qh1anRgXW16PHq1_Cxz4xQd8IPyGb15iPVHIeaTLRvPdN6nf8kl2ZnkUR4NSs2tXIFbDEW849GZd6GDJvsozZoymA9QshoZaereL-ffk-ilpR2mfGuXEz4vVr_hGpPnirWjz9dYD1xD3wLcVFEhRfe8FB0jWZneuNisCvmouZpt3ei4TEx13WdcZHJE-Bjw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
