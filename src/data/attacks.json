@@ -39332,6 +39332,38 @@
     ]
   },
   {
+    "id": 477619673,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-06-27",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Erbil, Iraq, Taba: Iran Brigadier General Mojtaba Jaafari advisor",
+    "location": "Erbil, Iraq, Taba",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran: Brigadier General Mojtaba Jaafari, advisor to the Commander-in-Chief of the Army: The Army's 23rd Brigade carried out 14 ground operations in Sulaymaniyah and Erbil.• 14:15 — Iran: Brigadier General Jafari: The operations targeted the intelligence leaders of the Iranian separatist forces, as well as their Iraqi elements.; Soran Mohammad Zadeh, intelligence official of the opposition Iranian Kurdistan Democratic Party, was assassinated on June 27, 2026.; An Iraqi national, a member of th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 22113,
     "type": "rocket",
     "status": "confirmed",
