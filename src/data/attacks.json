@@ -90146,6 +90146,38 @@
     "media": []
   },
   {
+    "id": 477622026,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Israel: Artillery shelling Israeli occupation forces targeted",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Artillery shelling by the Israeli occupation forces targeted a short while ago the neighborhoods of al-Dabash and al-Mufailaha, west of the city of Mays al-Jabal.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
