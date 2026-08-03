@@ -89410,6 +89410,38 @@
     ]
   },
   {
+    "id": 477577490,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-02",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Persian Gulf, Israel: Iran holds fresh diplomatic consultations with",
+    "location": "Tehran, Persian Gulf, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran FM holds fresh diplomatic consultations with Saudi, Pakistani officials📌 Tehran, IRNA – Iran’s Foreign Minister Abbas Araghchi, in continuation of his consultations with officials from different countries over regional developments, has held separate phone conversations with his Saudi counterpart and Pakistan’s army chief.In the second phone call with Saudi Foreign Minister Faisal bin Farhan in the past 24 hours on Sunday night, Araghchi reviewed the latest diplomatic efforts and initia",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477572823,
     "type": "airstrike",
     "status": "confirmed",
@@ -89489,6 +89521,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/oUJ2OPRDEn4BCl2CLlJn4RPTeCqKBRtZVW5VeIwIgC4nujw3Vf-fVawUPuvKsR2UjPM_eV-ev2qdgckwUx6ZpqBwaxhG5reUKiqkWLwbE35A29H075Nq0JFYjh4g15AX1qP6KRwttrRcZVe_MOECJazhrYrqDoL7FjCDF4hbl8uHvD36M6Z4dcAUtgVngidMGOKARjwNUAMHuaCjvOMStWBy_mimcnME5KAVzrHqLPKs0oLUmoVky8j-vQ190qDlNWvqmRXuZuLfzl20L12h3rijdgzHqFPZPMw7TOc1tm3R6oYiWZPkritTbaQwNu8leHA8IJxiHRJufOBypk0UHw"
       }
     ]
+  },
+  {
+    "id": 477579825,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Israel: Lebanon Mayadeen correspondent South Israeli drone",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (me_observer)",
+        "url": "https://t.me/s/me_observer",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Lebanon: Al Mayadeen correspondent in the South: An Israeli drone dropped a sound bomb this morning on the houses of Al-Sayyad.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 477331196,
