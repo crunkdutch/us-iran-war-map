@@ -89410,6 +89410,44 @@
     ]
   },
   {
+    "id": 477572823,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia, Iraq: Gods pleasure upon most holy martyr",
+    "location": "Saudi Arabia, Iraq",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/me_observer",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ God's pleasure be upon our most holy martyr. How can normal people look with affection and love at Saudi Arabia, which sent 5,000 suicide bombers to Iraq?",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/me_observer_TG/1060522",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fMqAb3Q5VObZID2prLz4kF8dsbV-csmYWpNIqMROENe8_ef8-9i-DFgxxNoClaQQeWJPG2l0or0nJSdanpTZz4oGUkS2xQ_PApaP8tslEdPcNiBEehfKey0wEX7xsE68BFXTQwiJPv3bQmNZamKHTUC7Sv5ervp69zVTCfBrf-fkp9TU4FLM52cYlTnSOVpg3lP4LuCRGO3ohullNrmJ2vXzILWYOCwWT1stwBoH9QeFmH4OODWJ0mPcisM8R6RDGnNJ1XBvq81zOFv7GSP7o-hV0Mlwv7c29sbBXAvLDYAuhDlvIA8VkARHklXSSi5NusNHoP5nb6CosDgOeQhVog"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
