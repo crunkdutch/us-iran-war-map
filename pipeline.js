@@ -9,8 +9,10 @@
  * `state.lastBackfill` (set by telegram-ingest.js in backfill mode).
  *
  * Failure policy: ingest/parse failures are FATAL — we never commit
- * half-fetched or unparsed data. Build failures are warnings only
- * (Vercel rebuilds from the pushed source).
+ * half-fetched or unparsed data. Build failures are FATAL too — the push
+ * is what triggers Vercel's build, so pushing a tree that fails to build
+ * locally means a failed deploy (and corrupt data files are exactly what
+ * breaks builds). No commit/push happens unless the build passes.
  */
 
 const { execSync } = require('child_process')
@@ -88,8 +90,13 @@ async function main() {
   run('Copying irgc-losses to public/', 'cp src/data/irgc-losses.json public/data/irgc-losses.json')
   run('Copying hormuz-data to public/', 'cp src/data/hormuz-data.json public/data/hormuz-data.json')
 
-  // 5. Build the site (smoke test; Vercel rebuilds from source anyway)
-  run('Building site', 'npm run build', BUILD_TIMEOUT_MS)
+  // 5. Build the site (smoke test — the pushed source is what Vercel builds,
+  //    so a failed build here means a failed deploy; abort and retry next cycle).
+  const buildOk = run('Building site', 'npm run build', BUILD_TIMEOUT_MS)
+  if (!buildOk) {
+    console.error('\n✗ Build failed — NOT committing/pushing (Vercel would deploy a broken build). Retry next cycle.')
+    process.exit(1)
+  }
 
   // 6. Commit and push
   const dateStr = new Date().toISOString().slice(0, 19).replace('T', ' ')

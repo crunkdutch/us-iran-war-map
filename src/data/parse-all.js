@@ -101,6 +101,37 @@ const LOCATIONS = {
   'Turkey': [39.0, 35.0],
 }
 
+// ── Surrogate-safe text helpers ──
+// Truncating a JS string with .slice() can split an emoji surrogate pair,
+// leaving a lone high surrogate. JSON.stringify happily serializes that as
+// \ud83c, which Node's JSON.parse tolerates but Turbopack/Vercel's build
+// rejects ("unexpected end of hex escape") — breaking the deploy. These
+// helpers keep output strictly well-formed UTF-16.
+
+// Truncate at a code-unit limit without splitting a surrogate pair.
+function safeSlice(str, n) {
+  const s = String(str).slice(0, n)
+  const last = s.charCodeAt(s.length - 1)
+  return (last >= 0xd800 && last <= 0xdbff) ? s.slice(0, -1) : s
+}
+
+// Deep-replace any lone surrogates with U+FFFD so JSON output is always
+// parseable by strict parsers (defensive; safeSlice should prevent these).
+function scrubLoneSurrogates(value) {
+  if (typeof value === 'string') {
+    return value
+      .replace(/[\uD800-\uDBFF](?![\uDC00-\uDFFF])/g, '\uFFFD')
+      .replace(/(?<![\uD800-\uDBFF])[\uDC00-\uDFFF]/g, '\uFFFD')
+  }
+  if (Array.isArray(value)) return value.map(scrubLoneSurrogates)
+  if (value && typeof value === 'object') {
+    const out = {}
+    for (const [k, v] of Object.entries(value)) out[k] = scrubLoneSurrogates(v)
+    return out
+  }
+  return value
+}
+
 // ── Casualty extraction from post text ──
 // Parses casualty numbers from Telegram descriptions and categorizes by affiliation.
 // Handles patterns like "X killed", "killed X", "X dead", "X martyred", "X children", "X civilians", etc.
@@ -654,7 +685,7 @@ function main() {
               type: entity ? 'official' : 'analyst',
             }],
             casualties: extractedCas,
-            description: rawText.slice(0, 500),
+            description: safeSlice(rawText, 500),
             satelliteImage: null,
             videoUrl: null,
             media: media.length > 0 ? media.slice(0, 10) : [],
@@ -686,8 +717,8 @@ function main() {
             source: entity.canonical,
             sourceType: entity.type,
             sourceUrl: `https://t.me/s/${channelKey}`,
-            description: rawText.slice(0, 500),
-            keyPoints: [rawText.slice(0, 200) + (rawText.length > 200 ? '...' : '')],
+            description: safeSlice(rawText, 500),
+            keyPoints: [safeSlice(rawText, 200) + (rawText.length > 200 ? '...' : '')],
           })
           existingStatementKeys.add(stmtKey)
           newStatements++
@@ -707,7 +738,7 @@ function main() {
               date: date,
               source: entity ? entity.canonical : `Telegram (${channelKey})`,
               sourceUrl: `https://t.me/s/${channelKey}`,
-              description: rawText.slice(0, 300) + (rawText.length > 300 ? '...' : ''),
+              description: safeSlice(rawText, 300) + (rawText.length > 300 ? '...' : ''),
               media: media.length > 0 ? media.slice(0, 10) : [],
               verified: false,
             })
@@ -719,7 +750,7 @@ function main() {
               s.date === date &&
               s.location === loc.name &&
               s.type === attackType &&
-              s.description.startsWith(rawText.slice(0, 60))
+              s.description.startsWith(safeSlice(rawText, 60))
             )
             if (existing && (!existing.media || existing.media.length === 0)) {
               existing.media = media.slice(0, 10)
@@ -851,17 +882,17 @@ function main() {
 
   // Deduplicate attacks by title+date+near match
   existingAttacks.sort((a, b) => a.date.localeCompare(b.date) || (a.id || 0) - (b.id || 0))
-  fs.writeFileSync(ATTACKS_FILE, JSON.stringify(existingAttacks, null, 2) + '\n')
+  fs.writeFileSync(ATTACKS_FILE, JSON.stringify(scrubLoneSurrogates(existingAttacks), null, 2) + '\n')
 
   existingSitreps.sort((a, b) => a.date.localeCompare(b.date))
   // ── Hormuz Crossing Data: Extract from Telegram sources ──
   const hormuzResult = processHormuzData()
 
   existingSitreps.sort((a, b) => a.date.localeCompare(b.date))
-  fs.writeFileSync(SITREPS_FILE, JSON.stringify(existingSitreps, null, 2) + '\n')
+  fs.writeFileSync(SITREPS_FILE, JSON.stringify(scrubLoneSurrogates(existingSitreps), null, 2) + '\n')
 
   existingStatements.sort((a, b) => a.date.localeCompare(b.date))
-  fs.writeFileSync(STATEMENTS_FILE, JSON.stringify(existingStatements, null, 2) + '\n')
+  fs.writeFileSync(STATEMENTS_FILE, JSON.stringify(scrubLoneSurrogates(existingStatements), null, 2) + '\n')
 
   console.log(JSON.stringify({
     addedAttacks: newAttacks,
@@ -1008,7 +1039,7 @@ function processHormuzData(htmlCache) {
   const merged = Array.from(existingByDate.values())
     .sort((a, b) => a.date.localeCompare(b.date))
 
-  fs.writeFileSync(HORMUZ_FILE, JSON.stringify(merged, null, 2) + '\n')
+  fs.writeFileSync(HORMUZ_FILE, JSON.stringify(scrubLoneSurrogates(merged), null, 2) + '\n')
 
   // Also write the TypeScript source file (bundler-friendly, no JSON import)
   const tsLines = merged.map(e =>
