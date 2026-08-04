@@ -512,6 +512,51 @@
     "verified": false
   },
   {
+    "id": 1785856544883,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Two more Palestinians killed in Gaza; death toll rises to 73,3377📌 Tehran, IRNA — With the continuation of the Israeli regime’s brutal aggressions against the Gaza Strip, the total number of martyrs in the enclave has reached 73,377, while 174,185 more injured since October 7, 2023.The Health Mi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785856559374,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Two more Palestinians killed in Gaza; death toll rises to 73,3377📌 Tehran, IRNA — With the continuation of the Israeli regime’s brutal aggressions against the Gaza Strip, the total number of martyrs in the enclave has reached 73,377, while 174,185 more injured since October 7, 2023.The Health Mi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785856523994,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Two more Palestinians killed in Gaza; death toll rises to 73,3377📌 Tehran, IRNA — With the continuation of the Israeli regime’s brutal aggressions against the Gaza Strip, the total number of martyrs in the enclave has reached 73,377, while 174,185 more injured since October 7, 2023.The Health Mi...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -258377,6 +258422,81 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785856519844,
+    "type": "naval",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-08-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Breaking — An Indian-flagged oil tanker carrying crude oil from Saudi Arabia was reportedly struck by a Yemeni suicide boat approximately 13 nautical miles off the coast of Hodeidah in the Bab al-Mandab Strait. Further details regarding the extent of the damage, casualties, and the condition ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785856469052,
+    "type": "naval",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-08-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Breaking — An Indian-flagged oil tanker carrying crude oil from Saudi Arabia was reportedly struck by a Yemeni suicide boat approximately 13 nautical miles off the coast of Hodeidah in the Bab al-Mandab Strait. Further details regarding the extent of the damage, casualties, and the condition ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785856480905,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Breaking — An Indian-flagged oil tanker carrying crude oil from Saudi Arabia was reportedly struck by a Yemeni suicide boat approximately 13 nautical miles off the coast of Hodeidah in the Bab al-Mandab Strait. Further details regarding the extent of the damage, casualties, and the condition ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785856496933,
+    "type": "naval",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Breaking — An Indian-flagged oil tanker carrying crude oil from Saudi Arabia was reportedly struck by a Yemeni suicide boat approximately 13 nautical miles off the coast of Hodeidah in the Bab al-Mandab Strait. Further details regarding the extent of the damage, casualties, and the condition ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785856511488,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Public Relations Office of the Office of the Leader of the Islamic Revolution Ayatollah Sayyid Mujtaba Husayni Khamenei has issued a statement emphasizing:The official source for the publication of messages, news, and materials related to Ayatollah Sayyid Mujtaba Husayni Khamenei, his off...",
+    "media": [],
     "verified": false
   }
 ]
