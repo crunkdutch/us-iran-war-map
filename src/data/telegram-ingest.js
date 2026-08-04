@@ -32,6 +32,22 @@ const BACKFILL_MODE = process.argv.includes('--backfill')
 const MAX_PAGES_PER_CHANNEL = BACKFILL_MODE ? 200 : 1
 const RATE_LIMIT_MS = 1500 // 1.5s between fetches to avoid rate limiting
 
+// Current state, kept at module scope so a SIGTERM (e.g. pipeline timeout)
+// can persist progress before dying. Without this, a killed backfill loses
+// everything and the next run re-walks the whole archive.
+let currentState = null
+
+process.on('SIGTERM', () => {
+  if (currentState) saveState(currentState)
+  console.error('\nReceived SIGTERM — state saved, exiting.')
+  process.exit(1)
+})
+process.on('SIGINT', () => {
+  if (currentState) saveState(currentState)
+  console.error('\nReceived SIGINT — state saved, exiting.')
+  process.exit(1)
+})
+
 // ── State tracking ──
 function loadState() {
   try { return JSON.parse(fs.readFileSync(STATE_FILE, 'utf8')) }
@@ -119,6 +135,10 @@ async function fetchChannelHistory(key, info, state) {
       }
       console.error(`    → ${newIds.length}/${postIds.length} new IDs (before=${before || 'latest'})`)
 
+      // Incremental save — a long backfill that gets killed mid-run keeps
+      // its progress, so the next run breaks out of the walk almost immediately.
+      saveState(state)
+
       pagesFetched++
 
       // Get the "before" ID for next page
@@ -166,6 +186,10 @@ async function main() {
   const state = loadState()
   if (!state.seenPostIds) state.seenPostIds = []
   if (!state.seenPostHashes) state.seenPostHashes = {}
+  currentState = state
+  // Record when a backfill ran — pipeline.js uses this to schedule
+  // the next one (~once per 24h) instead of a fetch counter.
+  if (BACKFILL_MODE) state.lastBackfill = new Date().toISOString()
 
   let totalPages = 0
   let totalErrors = 0

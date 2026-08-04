@@ -5,7 +5,12 @@
  * 2. Parses all raw HTML into structured attacks, sitreps, statements
  * 3. Commits and pushes to GitHub → triggers Vercel redeploy
  *
- * Every 24h, the first run does a BACKFILL to walk archives aggressively.
+ * Backfill (archive walk) runs roughly once per 24h, keyed off
+ * `state.lastBackfill` (set by telegram-ingest.js in backfill mode).
+ *
+ * Failure policy: ingest/parse failures are FATAL — we never commit
+ * half-fetched or unparsed data. Build failures are warnings only
+ * (Vercel rebuilds from the pushed source).
  */
 
 const { execSync } = require('child_process')
@@ -15,10 +20,15 @@ const path = require('path')
 const PROJECT_DIR = __dirname
 const STATE_FILE = path.join(PROJECT_DIR, 'src/data/ingest-state.json')
 
-function run(desc, cmd) {
+// generous per-step timeouts: backfill can walk 200 pages/channel
+const INGEST_TIMEOUT_MS = 600000  // 10 min
+const PARSE_TIMEOUT_MS = 600000   // 10 min
+const BUILD_TIMEOUT_MS = 600000   // 10 min
+
+function run(desc, cmd, timeoutMs = 120000) {
   console.error(`\n▶ ${desc}...`)
   try {
-    const out = execSync(cmd, { cwd: PROJECT_DIR, timeout: 120000 })
+    const out = execSync(cmd, { cwd: PROJECT_DIR, timeout: timeoutMs })
     const text = out.toString().trim()
     if (text) console.error(`  ${text}`)
     return true
@@ -40,16 +50,31 @@ async function main() {
   console.error('═══════════════════════════════════════')
 
   const state = loadState()
-  const isBackfillCycle = (state.totalFetches % 48) === 0 // backfill every 24h (48 × 30min)
+
+  // Backfill roughly once per 24h (based on last successful backfill,
+  // NOT totalFetches — a frozen counter previously forced backfill every run).
+  const lastBackfillMs = state.lastBackfill ? Date.parse(state.lastBackfill) : 0
+  const isBackfillCycle = !state.lastBackfill || (Date.now() - lastBackfillMs > 23 * 3600 * 1000)
 
   // 1. Fetch from Telegram channels
   const mode = isBackfillCycle ? '--backfill' : ''
-  run(`Ingesting Telegram data (${isBackfillCycle ? 'BACKFILL' : 'LIVE'})`,
-    `node src/data/telegram-ingest.js ${mode}`)
+  const ingestOk = run(
+    `Ingesting Telegram data (${isBackfillCycle ? 'BACKFILL' : 'LIVE'})`,
+    `node src/data/telegram-ingest.js ${mode}`,
+    INGEST_TIMEOUT_MS
+  )
+  if (!ingestOk) {
+    console.error('\n✗ Ingest failed — aborting. No commit/push (state not saved, retry next cycle).')
+    process.exit(1)
+  }
 
   // 2. Parse all raw HTML into structured data
-  run('Parsing attacks, sitreps, statements from sources',
-    'node src/data/parse-all.js')
+  const parseOk = run('Parsing attacks, sitreps, statements from sources',
+    'node src/data/parse-all.js', PARSE_TIMEOUT_MS)
+  if (!parseOk) {
+    console.error('\n✗ Parse failed — aborting. No commit/push (retry next cycle).')
+    process.exit(1)
+  }
 
   // 3. Check if there are changes
   const status = execSync('git status --porcelain', { cwd: PROJECT_DIR }).toString().trim()
@@ -63,13 +88,17 @@ async function main() {
   run('Copying irgc-losses to public/', 'cp src/data/irgc-losses.json public/data/irgc-losses.json')
   run('Copying hormuz-data to public/', 'cp src/data/hormuz-data.json public/data/hormuz-data.json')
 
-  // 5. Build the site
-  run('Building site', 'npm run build')
+  // 5. Build the site (smoke test; Vercel rebuilds from source anyway)
+  run('Building site', 'npm run build', BUILD_TIMEOUT_MS)
 
-  // 5. Commit and push
+  // 6. Commit and push
   const dateStr = new Date().toISOString().slice(0, 19).replace('T', ' ')
   run('Committing changes', `git add -A && git commit -m "auto: data pipeline update ${dateStr}" || true`)
-  run('Pushing to GitHub', 'git push')
+  const pushOk = run('Pushing to GitHub', 'git push')
+  if (!pushOk) {
+    console.error('\n✗ Push failed — data committed locally, will retry next cycle.')
+    process.exit(1)
+  }
 
   console.error('\n═══════════════════════════════════════')
   console.error('  PIPELINE COMPLETE — Vercel deploying')
