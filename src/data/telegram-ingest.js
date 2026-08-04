@@ -108,6 +108,21 @@ async function fetchChannelHistory(key, info, state) {
 
       // Check if this page is new content (vs. a repeat)
       const postIds = extractPostIds(html, key)
+
+      // Empty page (0 parsable posts — typically a rate-limit interstitial).
+      // Don't save junk, don't count it as content; break out after 3 in a row.
+      if (postIds.length === 0) {
+        consecutiveEmpty++
+        console.error(`    → Empty page (0 posts — rate-limited/blocked?) (${consecutiveEmpty}x)`)
+        if (consecutiveEmpty >= 3) {
+          console.error(`    → Breaking: 3 consecutive empty pages`)
+          break
+        }
+        const emptyNext = extractPrevBefore(html)
+        if (!emptyNext) break
+        before = emptyNext
+        continue
+      }
       // Allow some overlap (up to 3 IDs may appear on consecutive pages)
       const newIds = postIds.filter(id => !state.seenPostIds.includes(id))
       const isNew = newIds.length > postIds.length - 4 // at least ~80% new
