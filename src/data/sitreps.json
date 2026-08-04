@@ -255899,6 +255899,51 @@
     "verified": false
   },
   {
+    "id": 1785867517146,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Yemeni Armed Forces successfully targeted a sensitive Saudi objective at Najran Airport using a drone. The strike scored a direct hit.The operation came in response to repeated Saudi drone violations of Yemeni airspace over the provinces of Saada and Hajjah.The Yemeni Armed Forces affirme...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785867469432,
+    "type": "drone",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-08-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper:Amid escalating threats by the Islamic Revolutionary Guard Corps to target strategic assets, the \"Israeli\" Navy is conducting a multi-front exercise along Israel's coastline and in the Red Sea.The exercise includes defending energy facilities, commercial vessels, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785867467395,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper:Amid escalating threats by the Islamic Revolutionary Guard Corps to target strategic assets, the \"Israeli\" Navy is conducting a multi-front exercise along Israel's coastline and in the Red Sea.The exercise includes defending energy facilities, commercial vessels, ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851157383,
     "type": "airstrike",
     "location": "Israel",

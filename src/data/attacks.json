@@ -108990,6 +108990,38 @@
     "media": []
   },
   {
+    "id": 478949498,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Red Sea, Israel: Enemy_MediaMaariv Hebrew NewspaperAmid escalating threats Is...",
+    "location": "Red Sea, Israel",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper:Amid escalating threats by the Islamic Revolutionary Guard Corps to target strategic assets, the \"Israeli\" Navy is conducting a multi-front exercise along Israel's coastline and in the Red Sea.The exercise includes defending energy facilities, commercial vessels, and ports against missile attacks, drone threats, and maritime infiltration operations.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477626735,
     "type": "drone",
     "status": "confirmed",
