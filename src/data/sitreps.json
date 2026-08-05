@@ -259132,5 +259132,35 @@
     "description": "⚡️ President Pezeshkian to address nation in televised interview series📌 Tehran, IRNA – The first part of President Masoud Pezeshkian’s four-part televised interview series is set to be broadcast on state television on Wednesday night.The interview, scheduled to air after the 10 p.m. news bulletin,...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1785951224489,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Araghchi, Italian counterpart discuss Iran-Oman diplomatic process📌 Tehran, IRNA - Iran foreign minister, in a telephone conversation with his Italian counterpart, briefed him on the latest diplomatic process between Iran and Oman.During the phone call on Wednesday, August 5, Abbas Araghchi and ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785951172143,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Araghchi, Italian counterpart discuss Iran-Oman diplomatic process📌 Tehran, IRNA - Iran foreign minister, in a telephone conversation with his Italian counterpart, briefed him on the latest diplomatic process between Iran and Oman.During the phone call on Wednesday, August 5, Abbas Araghchi and ...",
+    "media": [],
+    "verified": false
   }
 ]

@@ -109735,6 +109735,38 @@
     ]
   },
   {
+    "id": 478978173,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Muscat, Strait of Hormuz: Iran says joint statement with Oman",
+    "location": "Tehran, Muscat, Strait of Hormuz, Persian Gulf, Qatar, Oman, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran says joint statement with Oman on Hormuz in final stage; warns of third party obstruction📌 Tehran, IRNA – Foreign Ministry spokesman Esmaeil Baqaei, referring to Iran-Oman talks on safe shipping through the Strait of Hormuz, says the two sides are now working on a joint statement based on main considerations and points agreed upon during the negotiations.In response to reporters' questions on Wednesday, Baqaei explained the latest status of the Tehran-Muscat talks regarding the strategi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
