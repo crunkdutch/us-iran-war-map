@@ -109634,6 +109634,43 @@
     "media": []
   },
   {
+    "id": 478969560,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel: Iran supports Palestinian leaders decisions negotiations",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran supports Palestinian leaders’ decisions in negotiations: President Pezeshkian📌 Tehran, IRNA – President Masoud Pezeshkian says that Iran supports any decision, initiative, or measure adopted by Palestinian leaders during the ongoing negotiation process, reiterating Tehran’s continued backing for the Palestinian people.In a Wednesday telephone conversation with Khalil al-Hayya, head of the Political Bureau of the Palestinian Resistance Movement (Hamas), Pezeshkian congratulated him on hi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/KKuCM3q-4ysigOyLEaN2MlvW3oPdRKdPFhf7Na4qn5-PWTR_TjtALpbJlrFadhG6EgrpTFyphItQ6dtKCyTOLHLOMQ8krLgt0PRdWYtfouxlRP0HyuqjQHCZogIliipPwCEkHGbwlqpKwTQsgl2t1AEKUV7qG958xIjyWphx5WjtEDHfa8j_yBPT-kDZnII7LPFMW2ltitqocChEE9AxL9oJTbnK9EcNOooeqhvISTiugns0LaMpsBpe7QUBUMYGC3d2vM8Dbi_1njraUrE9OXVlcdxwRRdKa6mL0MS2OtDN0Ffs4U-St6y9JNfCWcBcuzEkkTg4cdd-JCx7TA7Hgw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
