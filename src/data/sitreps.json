@@ -258909,6 +258909,21 @@
     "verified": false
   },
   {
+    "id": 1785931242927,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | A ship has sunk off the coast of Yemen after reportedly being targeted.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785926897160,
     "type": "airstrike",
     "location": "Tehran",
@@ -258950,6 +258965,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Japanese envoy celebrates 100th anniversary of Tehran-Tokyo diplomatic ties📌 Tehran, IRNA – Japan’s Ambassador to Iran, Tsukada Tamaki, has performed the iconic theme music from the Japanese television series Oshin with Tehran’s private Istgah Orchestra, marking the approach of the 100th anniver...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785931294455,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Japanese envoy celebrates 100th anniversary of Tehran–Tokyo diplomatic ties📌 Tehran, IRNA — Japan’s Ambassador to Iran, Tsukada Tamaki, has performed the iconic theme music from the Japanese television series Oshin with Tehran’s private Istgah Orchestra, marking the approach of the 100th anniver...",
     "media": [],
     "verified": false
   }

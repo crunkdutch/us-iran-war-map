@@ -1,5 +1,5 @@
 {
-  "lastFetch": "2026-08-05T11:23:48.048Z",
+  "lastFetch": "2026-08-05T12:00:38.798Z",
   "seenPostIds": [
     60346,
     60347,
@@ -621,9 +621,10 @@
     60738,
     60739,
     37740,
-    37741
+    37741,
+    60740
   ],
-  "totalFetches": 2126,
+  "totalFetches": 2129,
   "seenPostHashes": {},
   "lastBackfill": "2026-08-04T13:37:53.467Z"
 }
