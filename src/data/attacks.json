@@ -109431,6 +109431,70 @@
     "media": []
   },
   {
+    "id": 478952361,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Israel, Qusayr: past hours Israeli forces continued their",
+    "location": "Lebanon, Israel, Qusayr",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | In the past hours, Israeli forces continued their military operations across southern Lebanon, carrying out artillery shelling targeting Harash Ali al-Tahir, Haddatha, the area between Aytaroun and Kunin, Zawtar Sharqiyah, and al-Jabin. Explosions were reported in Deir Siryan, Haddatha, the lands of al-Mansouri, and the area between al-Mansouri and Majdal Zun. Sweeping operations with heavy machine-gun fire were conducted in Haddatha, between Haddatha and Beit Yahoun, inside Beit Yahoun, ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 478955225,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Erbil, Dubai, Yemen: Reports past hours Reports explosion were",
+    "location": "Erbil, Dubai, Yemen, UAE, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📢 | Reports: (In the past hours)...- Reports of an explosion were circulated from Erbil, Iraq. No official confirmation has been issued regarding the cause or location.- In the UAE, smoke was seen rising from the Jebel Ali Industrial Area in southern Dubai following what was described as an industrial accident. Reports also claimed that seven explosions were heard over a period of approximately 20 minutes and that extensive damage occurred within the industrial area. Additional reports mentione",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
