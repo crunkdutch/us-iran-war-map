@@ -109022,6 +109022,43 @@
     "media": []
   },
   {
+    "id": 478958090,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm: photos Final farewell family killed attack",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 In photos: Final farewell to family killed in US attack on Qeshm📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ucrDpPUbFGpmmA-LRBgY2K_84hxOZOsRT4AmZfDiAh_refxN6egSkRY1OZ2tSkrnskpaXmSBNz_bFXV7DIGAz13RJrzgCcbFoFQf3mK6UI3JtJcu985n4w5_2HG9oR44MWRLGjiewIdyfBWTLZZZov7uJRBBOhlyAVAf01Du77cFeTmyo-z5ZdfWl0VyMZk5tsB16uVd7mCv1YRGofTW3P_GJC2vG4u7-Hi9lb2OhFjMifpwc-9JvzhWLlgIR6XSR_H_rrvmzP08axBBCCSEyjesWOLkpBPiw6mEZiUNlnl3XQKuZPzv7hhFfvwYLhhz1uaK6TzjETL5uME27LuglQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477626735,
     "type": "drone",
     "status": "confirmed",
@@ -109490,6 +109527,38 @@
       "other": 0
     },
     "description": "📢 | Reports: (In the past hours)...- Reports of an explosion were circulated from Erbil, Iraq. No official confirmation has been issued regarding the cause or location.- In the UAE, smoke was seen rising from the Jebel Ali Industrial Area in southern Dubai following what was described as an industrial accident. Reports also claimed that seven explosions were heard over a period of approximately 20 minutes and that extensive damage occurred within the industrial area. Additional reports mentione",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 478960956,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Israel: Enemy_MediaHebrew Channel Yossi YehoshuaReports from United",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 15 – Yossi Yehoshua:Reports from the United States indicate shortages of interceptor missiles and offensive munitions, limiting operational freedom against Iran.For several weeks, the \"Israeli\" security establishment has also been warning of a severe budget shortfall affecting force buildup and military capabilities. Unlike the United States, however, \"Israeli\" officials have not specified exactly which capabilities are affected.The mistake of having \"an army unprepare",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

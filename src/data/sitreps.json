@@ -255959,6 +255959,41 @@
     "verified": false
   },
   {
+    "id": 1785911410450,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-08-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 In photos: Final farewell to family killed in US attack on Qeshm📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ucrDpPUbFGpmmA-LRBgY2K_84hxOZOsRT4AmZfDiAh_refxN6egSkRY1OZ2tSkrnskpaXmSBNz_bFXV7DIGAz13RJrzgCcbFoFQf3mK6UI3JtJcu985n4w5_2HG9oR44MWRLGjiewIdyfBWTLZZZov7uJRBBOhlyAVAf01Du77cFeTmyo-z5ZdfWl0VyMZk5tsB16uVd7mCv1YRGofTW3P_GJC2vG4u7-Hi9lb2OhFjMifpwc-9JvzhWLlgIR6XSR_H_rrvmzP08axBBCCSEyjesWOLkpBPiw6mEZiUNlnl3XQKuZPzv7hhFfvwYLhhz1uaK6TzjETL5uME27LuglQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1785911403588,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Arbaeen strengthens religious understanding, Iran–Iraq academic ties: Iranian minister📌 Karbala, IRNA – Iran’s Minister of Science, Research and Technology Hossein Simaei Sarraf has described the Arbaeen pilgrimage as a continuation of the message of Ashura, saying the annual gathering provides ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851157383,
     "type": "airstrike",
     "location": "Israel",
@@ -258704,6 +258739,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1785911465669,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew Newspaper:If these figures remain unchanged until election day, they could pave the way for a major political upset.Netanyahu, Smotrich, and Ben Gvir are focused primarily on instilling fear in an effort to awaken voters' survival instincts and drive them to the bal...",
+    "media": [],
     "verified": false
   }
 ]
