@@ -109634,6 +109634,38 @@
     "media": []
   },
   {
+    "id": 478972430,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Syria, Saudi Arabia: Second unexplained explosions series explosions continue",
+    "location": "Syria, Saudi Arabia",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Second day of unexplained explosions: A series of explosions continue to be reported from different locations without any confirmed evidence regarding their origin. At present, one explosion has been reported in Syria and another in Saudi Arabia. The cause of both incidents remains unconfirmed, and no official information has established their source.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 478969560,
     "type": "airstrike",
     "status": "confirmed",
