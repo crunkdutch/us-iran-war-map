@@ -109564,6 +109564,38 @@
     "media": []
   },
   {
+    "id": 478963823,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Red Sea, Bab al-Mandab, Yemen: Statement Issued Yemeni Armed ForcesIn name",
+    "location": "Red Sea, Bab al-Mandab, Yemen",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the name of Allah, the Most Gracious, the Most MercifulAllah the Almighty said: {And whoever defends himself after having been wronged—there is no blame upon them.}Allah Almighty is TruthfulAs part of implementing the Yemeni Armed Forces' decision to impose a naval blockade on the Saudi enemy, and in further consolidation of the \"blockade for blockade\" equation, the Yemeni Armed Forces, by the grace of Allah, successfully targeted the Saudi oil tanke",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
