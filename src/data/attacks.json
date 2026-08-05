@@ -109698,6 +109698,38 @@
     "media": []
   },
   {
+    "id": 478981046,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Red Sea, Yemen: Yemeni Armed Forces spokesmanThanks Allah Yemeni",
+    "location": "Aden, Red Sea, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces spokesman:Thanks to Allah, the Yemeni armed forces were able to target the Saudi oil ship “Daisy” in the Gulf of Aden with a ballistic missile. The operation successfully achieved its goal, thanks to God. The ship was hit and forced to return.This targeting comes within the framework of imposing a decision to ban maritime navigation on the Saudi enemy in accordance with the “siege by siege” equation.The Yemeni Armed Forces confirm that they carefully monitor all m",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 478969560,
     "type": "airstrike",
     "status": "confirmed",
