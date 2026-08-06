@@ -259254,6 +259254,84 @@
     "verified": false
   },
   {
+    "id": 1786019805704,
+    "type": "airstrike",
+    "location": "Haifa",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaRambam Hospital– Haifa:Footage shows the evacuation of \"Israeli\" army killed and wounded personnel from southern Lebanon yesterday.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/85550c8d92.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C6qgsciwH9ONfMKSXU27-3quZxwwRWCMN7l6oJodtl5L7b0ncePL25MxyzPlctGUFSwyCphpqru_RhDYEYgYt32XDAReXUNfxtD0A_I2XOcv1LxYBeijVAVOAhkrvwtfZjt7xVcZhxhvQN-ummFOVuJsdEdjIeTjB-0nGOlDjMAKHVueDKAk6gBYAODk7S8tPt01aZXZtN4eB1ZkYelmC_ybVEEJRHJmneUrROVW9wf319q-rqq3PNn-sJ0dP1HhEJwHuwq1QQegPdA_fGlLfYcYFqIu_LODvTh3bWXMpYYRRlFOstT5xbQTOb3ZRSzOlWL3xuYnPj883Wvrcar_7A"
+      },
+      {
+        "url": "https://t.me/mmirlb/40300",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C6qgsciwH9ONfMKSXU27-3quZxwwRWCMN7l6oJodtl5L7b0ncePL25MxyzPlctGUFSwyCphpqru_RhDYEYgYt32XDAReXUNfxtD0A_I2XOcv1LxYBeijVAVOAhkrvwtfZjt7xVcZhxhvQN-ummFOVuJsdEdjIeTjB-0nGOlDjMAKHVueDKAk6gBYAODk7S8tPt01aZXZtN4eB1ZkYelmC_ybVEEJRHJmneUrROVW9wf319q-rqq3PNn-sJ0dP1HhEJwHuwq1QQegPdA_fGlLfYcYFqIu_LODvTh3bWXMpYYRRlFOstT5xbQTOb3ZRSzOlWL3xuYnPj883Wvrcar_7A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786019787812,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaRambam Hospital– Haifa:Footage shows the evacuation of \"Israeli\" army killed and wounded personnel from southern Lebanon yesterday.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/85550c8d92.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C6qgsciwH9ONfMKSXU27-3quZxwwRWCMN7l6oJodtl5L7b0ncePL25MxyzPlctGUFSwyCphpqru_RhDYEYgYt32XDAReXUNfxtD0A_I2XOcv1LxYBeijVAVOAhkrvwtfZjt7xVcZhxhvQN-ummFOVuJsdEdjIeTjB-0nGOlDjMAKHVueDKAk6gBYAODk7S8tPt01aZXZtN4eB1ZkYelmC_ybVEEJRHJmneUrROVW9wf319q-rqq3PNn-sJ0dP1HhEJwHuwq1QQegPdA_fGlLfYcYFqIu_LODvTh3bWXMpYYRRlFOstT5xbQTOb3ZRSzOlWL3xuYnPj883Wvrcar_7A"
+      },
+      {
+        "url": "https://t.me/mmirlb/40300",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C6qgsciwH9ONfMKSXU27-3quZxwwRWCMN7l6oJodtl5L7b0ncePL25MxyzPlctGUFSwyCphpqru_RhDYEYgYt32XDAReXUNfxtD0A_I2XOcv1LxYBeijVAVOAhkrvwtfZjt7xVcZhxhvQN-ummFOVuJsdEdjIeTjB-0nGOlDjMAKHVueDKAk6gBYAODk7S8tPt01aZXZtN4eB1ZkYelmC_ybVEEJRHJmneUrROVW9wf319q-rqq3PNn-sJ0dP1HhEJwHuwq1QQegPdA_fGlLfYcYFqIu_LODvTh3bWXMpYYRRlFOstT5xbQTOb3ZRSzOlWL3xuYnPj883Wvrcar_7A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786019758920,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaRambam Hospital– Haifa:Footage shows the evacuation of \"Israeli\" army killed and wounded personnel from southern Lebanon yesterday.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/85550c8d92.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C6qgsciwH9ONfMKSXU27-3quZxwwRWCMN7l6oJodtl5L7b0ncePL25MxyzPlctGUFSwyCphpqru_RhDYEYgYt32XDAReXUNfxtD0A_I2XOcv1LxYBeijVAVOAhkrvwtfZjt7xVcZhxhvQN-ummFOVuJsdEdjIeTjB-0nGOlDjMAKHVueDKAk6gBYAODk7S8tPt01aZXZtN4eB1ZkYelmC_ybVEEJRHJmneUrROVW9wf319q-rqq3PNn-sJ0dP1HhEJwHuwq1QQegPdA_fGlLfYcYFqIu_LODvTh3bWXMpYYRRlFOstT5xbQTOb3ZRSzOlWL3xuYnPj883Wvrcar_7A"
+      },
+      {
+        "url": "https://t.me/mmirlb/40300",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C6qgsciwH9ONfMKSXU27-3quZxwwRWCMN7l6oJodtl5L7b0ncePL25MxyzPlctGUFSwyCphpqru_RhDYEYgYt32XDAReXUNfxtD0A_I2XOcv1LxYBeijVAVOAhkrvwtfZjt7xVcZhxhvQN-ummFOVuJsdEdjIeTjB-0nGOlDjMAKHVueDKAk6gBYAODk7S8tPt01aZXZtN4eB1ZkYelmC_ybVEEJRHJmneUrROVW9wf319q-rqq3PNn-sJ0dP1HhEJwHuwq1QQegPdA_fGlLfYcYFqIu_LODvTh3bWXMpYYRRlFOstT5xbQTOb3ZRSzOlWL3xuYnPj883Wvrcar_7A"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785926897160,
     "type": "airstrike",
     "location": "Tehran",
