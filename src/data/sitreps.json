@@ -259582,5 +259582,20 @@
     "description": "🇾🇪 Breaking — A missile launch from Yemen towards Saudi targets.🔻@enemywatch",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786006438037,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Air Force commander vows steadfast defense against enemy aggression📌 Tehran, IRNA – Chief Commander of the Islamic Republic of Iran Air Force Brigadier General Bahman Behmard has pledged that the force will remain fully committed to defending the Iranian nation against any aggression by its “swo...",
+    "media": [],
+    "verified": false
   }
 ]
