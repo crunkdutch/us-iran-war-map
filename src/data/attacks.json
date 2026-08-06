@@ -109959,6 +109959,38 @@
     "media": []
   },
   {
+    "id": 478998305,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Missile Strike — Tehran: Armed Forces fully prepared counter threat",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Armed Forces fully prepared to counter any threat: Acting defense minister📌 Tehran, IRNA – Acting Defense Minister Brigadier General Majid Ebn-e-Reza says the Iranian Armed Forces are fully prepared to respond to any threat, stressing that their capabilities are backed by Iran’s domestic defense industry.In a message posted on his social media account on Thursday, Ebn-e-Reza said, “Every day, the signs of the enemy’s erosion of power become more evident; however, our Armed Forces, relying on",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
