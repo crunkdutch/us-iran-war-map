@@ -109991,6 +109991,38 @@
     "media": []
   },
   {
+    "id": 479001185,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-06",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemen Situation IntensifiesThe situation Yemen rapidly",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen: Situation Intensifies:The situation in Yemen is rapidly escalating. Ansarullah has reportedly launched a missile attack on the al-Ruwyk base (15.93671, 46.06541) in the al-Abr direction of eastern Yemen. The missiles were launched from the al-Muhazamat launch area in the al-Ghayil district of the al-Jawf region.As the attack unfolded, sounds of explosions were also heard in northern Sana’a around the same time the missiles were launched. Emergency teams rushed to the Saudi-backed H",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
