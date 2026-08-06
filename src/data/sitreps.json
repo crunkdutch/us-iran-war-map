@@ -259119,6 +259119,141 @@
     "verified": false
   },
   {
+    "id": 1786002036362,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaSpokesman for the \"Israeli\" Occupation Army: A major (company commander) and a soldier were killed while four others were wounded yesterday in southern Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786002080116,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaSpokesman for the \"Israeli\" Occupation Army: A major (company commander) and a soldier were killed while four others were wounded yesterday in southern Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786002002794,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Spokesman for the \"Israeli\" Occupation Army: A major (company commander) and a soldier were killed while four others were wounded yesterday in southern Lebanon. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786002043784,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Spokesman for the \"Israeli\" Occupation Army: A major (company commander) and a soldier were killed while four others were wounded yesterday in southern Lebanon. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786002075678,
+    "type": "airstrike",
+    "location": "Haifa",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaRambam Hospital– Haifa:The condition of the four soldiers wounded yesterday in southern Lebanon remains serious.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786002013183,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaRambam Hospital– Haifa:The condition of the four soldiers wounded yesterday in southern Lebanon remains serious.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786002086775,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12:The \"Israeli\" army does not know whether the explosive device that detonated in Majdal Zoun had been planted recently or was an older device.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786002031788,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew Newspaper:Due to the intensity of yesterday's explosion in Majdal Zoun, the identification of the \"Israeli\" military fatalities took a considerable amount of time.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786002055696,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-04",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew Newspaper:The \"Israeli\" army is conducting an in-depth investigation into the Majdal Zoun incident. Among the key issues under review is whether the explosive device was planted before or after the ceasefire came into effect. If it was not planted after the ceasef...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785926897160,
     "type": "airstrike",
     "location": "Tehran",
