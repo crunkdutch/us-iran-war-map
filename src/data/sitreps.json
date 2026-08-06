@@ -259705,5 +259705,35 @@
     "description": "🇾🇪 | Yemen: Situation Intensifies:The situation in Yemen is rapidly escalating. Ansarullah has reportedly launched a missile attack on the al-Ruwyk base (15.93671, 46.06541) in the al-Abr direction of eastern Yemen. The missiles were launched from the al-Muhazamat launch area in the al-Ghayil dist...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786024111149,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Iraq’s so-called anti-terror cells have become increasingly active across the country, to prevent the Iraqi Resistance’s retaliatory attacks in response to the recent Saudi aggression that took place days ago.🔹@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786024103575,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-06",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | The official representative of the Hezbollah Brigades in Wasit, Sayyed Muhammad Al-Safi: The government’s handling of the Saudi aggression against Iraq did not reach the required level.The government had no position in dealing with the Saudi aggression to restore Iraq’s sovereignty and dignit...",
+    "media": [],
+    "verified": false
   }
 ]
