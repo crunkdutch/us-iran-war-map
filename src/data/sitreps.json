@@ -259089,6 +259089,36 @@
     "verified": false
   },
   {
+    "id": 1785986450922,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | In the past hours, the Israeli occupation forces (IOF) expanded their military operations, with reported explosions in Hadatha and Zawtar Sharqiyah, airstrikes on Machaa Al Mansouri, and drone strikes targeting Tibnin. Artillery shelling was reported in Majdal Zoun, the outskirts of Al Mansou...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1785986441517,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | In the past hours, the Israeli occupation forces (IOF) expanded their military operations, with reported explosions in Hadatha and Zawtar Sharqiyah, airstrikes on Machaa Al Mansouri, and drone strikes targeting Tibnin. Artillery shelling was reported in Majdal Zoun, the outskirts of Al Mansou...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785926897160,
     "type": "airstrike",
     "location": "Tehran",

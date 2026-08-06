@@ -109730,6 +109730,70 @@
     "media": []
   },
   {
+    "id": 478983920,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Fars, Israel: past hours Israeli occupation forces expanded",
+    "location": "Fars, Israel",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | In the past hours, the Israeli occupation forces (IOF) expanded their military operations, with reported explosions in Hadatha and Zawtar Sharqiyah, airstrikes on Machaa Al Mansouri, and drone strikes targeting Tibnin. Artillery shelling was reported in Majdal Zoun, the outskirts of Al Mansouri and Al Haniyeh, Shouya, Shaab Al Qalb (Shebaa), and Al Nafkha, Wadi Zibqin. Israeli forces also carried out bursts of gunfire and combing operations in Rubaa Al Tibn, Kafr Tibnit, Kfarshouba, and M",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 478986795,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "title": "CENTCOM Airstrike — Strait of Hormuz: Iran reportedly launched another strike against",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran reportedly launched another strike against a tanker in the Strait of Hormuz. Two explosions were heard in close proximity to the vessel, suggesting they may have been warning shots. The crew was reported safe, and the tanker sustained no damage. The incident occurred despite reports of a possible breakthrough in negotiations and CENTCOM’s assertion that the Strait of Hormuz remains open.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 478969560,
     "type": "airstrike",
     "status": "confirmed",
