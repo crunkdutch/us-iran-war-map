@@ -110023,6 +110023,38 @@
     "media": []
   },
   {
+    "id": 479004066,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-06",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Syria, Iraq: Iraq might face three major challenges",
+    "location": "Syria, Iraq",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Iraq might face three major challenges: a possible repetition of the Saudi aggression scenario, as retaliation for previous Saudi-US attacks is expected after the conclusion of the Arbaeen pilgrimage; attacks or instability along the Syrian border area; and terrorist attacks from Kurdish factions. These developments could create pressure on Iraq through multiple security fronts, targeting its stability.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
