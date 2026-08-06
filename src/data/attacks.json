@@ -109927,6 +109927,38 @@
     "media": []
   },
   {
+    "id": 478995426,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Interception — Tehran: Army maintaining full military readiness despite",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Army maintaining full military readiness despite recent wars: Spokesperson📌 Tehran, IRNA – The Iranian Army remains in full operational readiness despite two wars imposed by enemies, says spokesperson Brigadier General Mohammad Akraminia.According to a statement published by the Army on Thursday, Akraminia said that damaged systems have been modernized, new equipment has entered service, and efforts to strengthen combat capability are continuing without interruption.​He said preserving comba",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
