@@ -110087,6 +110087,70 @@
     "media": []
   },
   {
+    "id": 479021373,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Israel: Enemy_MediaYedioth Ahronoth Hebrew NewspaperOn March force",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew Newspaper:On 28 March, a force from the 98th Division (the 890th Battalion and the Yahalom Unit) carried out its first operation to cross the Litani River in the eastern sector, near the Beaufort [Al-Shaqif Castle]. In retrospect, Maj. Gen. Ori Gordin Milo, Commander of the Northern Command, told his officers: \"We entered before we were sufficiently prepared.\"He considers this a mistake for which he bears responsibility.Hezbollah concentrated heavy mortar and ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479024261,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: Enemy_MediaYedioth Ahronoth Hebrew NewspaperMaj Milo Command...",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew Newspaper:Maj. Gen. Milo, Commander of the Northern Command, told his subordinates that the apparent calm along the northern front from the end of the Second Lebanon War until 8 October—when Hezbollah attacked \"Israel\"—had been an illusion.According to him, Hezbollah had been rearming and preparing for an invasion throughout that period.\"We were living a real lie,\" he said, according to his exact words.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479001185,
     "type": "drone",
     "status": "confirmed",
