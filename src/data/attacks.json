@@ -110087,6 +110087,44 @@
     "media": []
   },
   {
+    "id": 479009831,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-06",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni source tells Mayadeen that Sanaa",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | A Yemeni source tells Al Mayadeen that Sana’a is imposing a new equation within Yemeni territory, meaning that any military presence or movement of Saudi forces toward Yemen, or vice versa, will be directly targeted.The Yemeni source said Sana’a’s objective with this new equation is to control the battlefield, cut off Saudi-affiliated forces, and prevent them from moving between governorates.Sana’a has also advised, through local media, Yemenis who have been deceived to leave any camps an",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/60773",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/rk9UBhN2HX58QeYDm7W48Syb5pT0W41x1NhDPVVC7Z3KwjHpzzL8ktCrWMXMUDtpRnbuS_5LFtwUKkjbQ66sEnD0EvgEJ7A3yfm8p1x3uJa6QuIvq0t_k30YH5powwJDfZxQcsdi6-DiOOy38youVIbAzK7pc8ZN6Zc2dEaynncRmbbPcAuyhEy9xSHiTRDmzEBa5cFPdoduxZD0BsW6hxAcGBWQhSu6EkGXEnSwFBhX-HH_JAj_0CGTUvzjkNMUPjHAGcRWKSJoD4MsaFM6lLoZP02qrxI_UsMVRKc8Z9RyIOoW_wRrPE2enwFjd2mBzF8YcL1uhsH78LNtAOf4qA"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
