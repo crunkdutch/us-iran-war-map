@@ -109991,6 +109991,102 @@
     "media": []
   },
   {
+    "id": 479012715,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Tehran, Beirut, Lebanon: Israeli artillery strikes southern Lebanon Tehran",
+    "location": "Tehran, Beirut, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Israeli artillery strikes hit southern Lebanon📌 Tehran, IRNA – The Israeli artillery shelled areas in southern Lebanon early on Friday, Lebanon’s Al Mayadeen television reported, describing the attack as another violation of the ceasefire agreement.Al Mayadeen said the shelling targeted the town of Zebqine as well as the town of Mansouri in the Tyre district.​There were no immediate reports of possible casualties or damage.​The strikes come after repeated Israeli attacks in southern Lebanon ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479015600,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Israel: Enemy_MediaYedioth Ahronoth Hebrew NewspaperAccording Israel...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew Newspaper:According to the \"Israeli\" army, Hezbollah had been preparing for a return to war and viewed the prospect of a conflict involving Iran as an opportunity.A senior security official said Iran did not instruct Hezbollah to act; on the contrary, it understood the situation. The reality, according to the official, is that Hezbollah concluded it could no longer continue absorbing \"Israeli\" strikes without responding, as it had done for the previous 15 mont",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479018486,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-05",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Lebanon, Israel: Enemy_MediaYedioth Ahronoth Hebrew NewspaperFormer senior Is...",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew Newspaper:Former senior \"Israeli\" army officers have voiced strong criticism of the \"Israeli\" army's continued presence in southern Lebanon. They view it as a surrender to political pressure and populism.Officials who spent years commanding the Northern Command say they are alarmed by the prospect of army outposts, supply convoys, explosive devices, mortar attacks, and repeating the narrative of \"we occupied the Beaufort.\"In their view, this security zone will",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479001185,
     "type": "drone",
     "status": "confirmed",
