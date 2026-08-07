@@ -259722,6 +259722,36 @@
     "verified": false
   },
   {
+    "id": 1786094722677,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-05",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper – Avi Ashkenazi: It is deeply concerning. Beyond the profound pain caused by the loss of the soldiers, this is only the beginning. Hezbollah could detonate additional explosive devices, while the \"Israeli\" military has no way of knowing whether they were planted r...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786094735857,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-05",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper:\"Israelis\" at the peak of their careers are packing their bags—and the effects are already being felt in the state's treasury.The number of \"Israelis\" leaving the country has risen by approximately 50%, with the sharpest increase recorded among high-income earners...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786021861663,
     "type": "drone",
     "location": "Yemen",
@@ -259943,6 +259973,36 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 | Breaking — AnsarAllah drone attacks on Saudi proxies in Yemen are ongoing.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786094631475,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | In the past hours, AnsarAllah has attacked many Saudi proxies and their positions in Marib and Hadramaut, Yemen, with the attacks continuing to date.From this morning until now, AnsarAllah has launched around 10 ballistic missiles and a number of drones toward the camps of pro-Saudi forces in...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786094618420,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | In the past hours, AnsarAllah has attacked many Saudi proxies and their positions in Marib and Hadramaut, Yemen, with the attacks continuing to date.From this morning until now, AnsarAllah has launched around 10 ballistic missiles and a number of drones toward the camps of pro-Saudi forces in...",
     "media": [],
     "verified": false
   }
