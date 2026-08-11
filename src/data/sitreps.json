@@ -262848,5 +262848,25 @@
     "description": "📡 Iran’s footvolley team crowned Baku international tournament📌 Tehran, IRNA — Iran’s footvolley team has secured the championship title of the Baku International Tournament by defeating Azerbaijan’s national team in the final match.Iranian team faced Azerbaijan’s team on Tuesday in the final of t...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786449071161,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-08-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 In photos: Pilgrims walk toward Imam Reza shrine in Mashhad📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/rbRGNUX_LQskTeWqBJJgimX0Nq0Z0Q7GhFLxc4PTuRyta-5PjgHPqUEgoOIY9zqB0S_zovEcF0exQesOi6I0C6VY7jSn1kFIFiulPmJBxidrHaagF1RDsqsyjAnD0ghLvlOJl4mKBz-5ZHsvq05APy6GyMU8iSz20hi8guu5Cltl340QEs2FOdicX_Aq5seluvmMz0H2IGj--gWCgvaE4HGJe5b18NgWnwaZN3KILyFCYFoRLhcFRxbeF0AnE8qvDD0RkZAtJv0DqSV42_CdFZpJXWFJqNpOjz8qHOCJioJaGNKUfsRkxhI4juVn1rbdLkq5f5z7eBgCVpYykQ4ZTQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
