@@ -111578,6 +111578,70 @@
     "media": []
   },
   {
+    "id": 479131820,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-10",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Aden, Yemen, Saudi Arabia: Yemen continues attack Sauditerror forces operating",
+    "location": "Aden, Yemen, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen continues to attack Saudi-terror forces operating inside Yemen, with attacks ongoing every hour:In the past hours, Drone attacks were reported near Maashiq Palace in Saudi forces's occupied Aden, accompanied by explosions. Air defenses were also active over Aden. Separately, reports emerged of drone attacks targeting positions of Saudi-terror forces in southern Yemen. Saudi-terror forces also intensified artillery shelling against populated villages in the areas of Hadhran an",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479134746,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-10",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Lebanon, Qusayr: attacks across Lebanon ongoingIn past hours",
+    "location": "Lebanon, Qusayr",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | IOF attacks across Lebanon are ongoing:In the past hours, IOF artillery shelling was reported in Ali Al-Taher, Al-Mansouri, Bani Hayyan, and the outskirts of Zawtar Al-Sharqiya. Explosions were reported in Al-Taybeh, between Deir Seryan and Al-Taybeh, between Markaba and Bani Hayyan, between Al-Qantara and Adh-Dhahira Al-Qusayr, Majdal Zoun, Zawtar Al-Sharqiya, and Masha’a Al-Mansouri. An airstrike targeted Masha’a Al-Mansouri, while an enemy drone dropped explosive materials on Ali Al-Ta",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

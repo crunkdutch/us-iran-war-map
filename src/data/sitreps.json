@@ -262503,5 +262503,80 @@
     "description": "🔊 Iran’s vice president urges upgrading cybersecurity, passive defense amid enemy plots📌 Tehran, IRNA – Iran’s Vice President Mohammad Reza Aref has underlined the need for the Islamic Republic to improve its position in the fields of cybersecurity and passive defense to foil the enemy’s conspirac...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786422665434,
+    "type": "intercept",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-08-10",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen continues to attack Saudi-terror forces operating inside Yemen, with attacks ongoing every hour:In the past hours, Drone attacks were reported near Maashiq Palace in Saudi forces's occupied Aden, accompanied by explosions. Air defenses were also active over Aden. Separately, repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786422667187,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-10",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen continues to attack Saudi-terror forces operating inside Yemen, with attacks ongoing every hour:In the past hours, Drone attacks were reported near Maashiq Palace in Saudi forces's occupied Aden, accompanied by explosions. Air defenses were also active over Aden. Separately, repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786422603182,
+    "type": "intercept",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-10",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen continues to attack Saudi-terror forces operating inside Yemen, with attacks ongoing every hour:In the past hours, Drone attacks were reported near Maashiq Palace in Saudi forces's occupied Aden, accompanied by explosions. Air defenses were also active over Aden. Separately, repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786422639094,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-10",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | IOF attacks across Lebanon are ongoing:In the past hours, IOF artillery shelling was reported in Ali Al-Taher, Al-Mansouri, Bani Hayyan, and the outskirts of Zawtar Al-Sharqiya. Explosions were reported in Al-Taybeh, between Deir Seryan and Al-Taybeh, between Markaba and Bani Hayyan, between ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786422628401,
+    "type": "drone",
+    "location": "Qusayr",
+    "coordinates": [
+      26.1015,
+      34.2802
+    ],
+    "date": "2026-08-10",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | IOF attacks across Lebanon are ongoing:In the past hours, IOF artillery shelling was reported in Ali Al-Taher, Al-Mansouri, Bani Hayyan, and the outskirts of Zawtar Al-Sharqiya. Explosions were reported in Al-Taybeh, between Deir Seryan and Al-Taybeh, between Markaba and Bani Hayyan, between ...",
+    "media": [],
+    "verified": false
   }
 ]
