@@ -66674,6 +66674,38 @@
     ]
   },
   {
+    "id": 479155256,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-07-13",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Hodeidah, Yemen, Saudi Arabia: This trust reflects outstanding merit competence",
+    "location": "Hodeidah, Yemen, Saudi Arabia, Taba",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "This trust reflects the outstanding merit, competence, and abundant and distinguished capabilities that you possess.There is no doubt that this blessed development constitutes a strategic step toward consolidating lasting security and the continued advancement of the Islamic Republic of Iran.While appreciating the continuous and historic jihadi efforts of the IRGC across the various fields of defending the Islamic Revolution, including defense, security, and deprivation alleviation, I affirm the",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 11627,
     "type": "drone",
     "status": "confirmed",
@@ -111832,6 +111864,81 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 479158190,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-10",
+    "time": "TBD",
+    "title": "Ansar Allah Rocket Attack — Erbil, Gulf of Oman, Red Sea: UpdatesUKMTO warning 10926 incident involving tanker",
+    "location": "Erbil, Gulf of Oman, Red Sea, Yemen, Oman",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻| Updates:UKMTO warning 109-26: An incident involving a tanker and military forces was reported in the Gulf of Oman. The reported area is near Gwadar, Pakistan. Investigations are ongoing, and vessels were advised to monitor maritime security information.Bab al-Mandeb: Initial reports state that AnsarAllah targeted a Saudi-linked commercial vessel attempting to pass through the Bab al-Mandeb Strait. Casualties among Pakistani and Indonesian crew members.Gulf of Oman: A separate report states t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479161125,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-10",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Saudi Arabia: damage seen Jazan Refinery southern Saudi",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | New damage can now be seen at the Jazan Oil Refinery in southern Saudi Arabia. The damage occurred following an attack carried out using drones by the AnsarAllah movement on August 5. New satellite imagery from Sentinel-2L shows that another large oil storage tank was also struck, resulting in a fire during the recent attack.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3dfaf180ac.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/P4Y-1P_JCACcQiwkdi0xpiQyk-zptqcgfoCVb9HicwlU3_9zDBRHMYhV5qKPFt1Vl7Pu9DvccA7LBrtrTHsldROIFYE11giwEUUWSL-_IsxBGHTpJ4YLcYeTtEeje69AOAfClgtvYiNwJ93BT5kEaAH-yCOUwB4WUo03lly2_FMqSEERzitYpLZzBlChG5qbz-ZaUdI2vcC1clJVV0VY4JcFvJ54IgkiFrOTofoGIEbx753ofXFXqMwT6yOCbHQitbDrAYs08hhYWLn3bXihQMD--u6D_WOd1JvdbVdggE-aTvxDhH7ZSv750rg00zh0CW6HMdLEJAmHXHK8sGFNDA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60906",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/P4Y-1P_JCACcQiwkdi0xpiQyk-zptqcgfoCVb9HicwlU3_9zDBRHMYhV5qKPFt1Vl7Pu9DvccA7LBrtrTHsldROIFYE11giwEUUWSL-_IsxBGHTpJ4YLcYeTtEeje69AOAfClgtvYiNwJ93BT5kEaAH-yCOUwB4WUo03lly2_FMqSEERzitYpLZzBlChG5qbz-ZaUdI2vcC1clJVV0VY4JcFvJ54IgkiFrOTofoGIEbx753ofXFXqMwT6yOCbHQitbDrAYs08hhYWLn3bXihQMD--u6D_WOd1JvdbVdggE-aTvxDhH7ZSv750rg00zh0CW6HMdLEJAmHXHK8sGFNDA"
+      }
+    ]
   },
   {
     "id": 477331196,
