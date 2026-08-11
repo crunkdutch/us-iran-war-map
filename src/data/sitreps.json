@@ -262713,5 +262713,80 @@
     "description": "📄 Ghalibaf facilitates new IRGC Navy chief, head of Basij Organization📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has conveyed his congratulations to the new heads of the Islamic Revolution Guards Corps (IRGC) Navy and the Basij Organization.In a message posted on the official web...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786435835123,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-10",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Ghalibaf congratulates Abdollahi on appointment as chief of Iran’s General Staff📌 Tehran, IRNA — Parliament Speaker Mohammad-Bagher Ghalibaf has congratulated Ali Abdollahi on his appointment as the Chief of the General Staff of the Armed Forces.In his message late on Monday, Ghalibaf praised Ab...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786435838920,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-10",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Ghalibaf congratulates Abdollahi on appointment as chief of Iran’s General Staff📌 Tehran, IRNA — Parliament Speaker Mohammad-Bagher Ghalibaf has congratulated Ali Abdollahi on his appointment as the Chief of the General Staff of the Armed Forces.In his message late on Monday, Ghalibaf praised Ab...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786435834230,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran condemns Israeli attacks on Lebanon, blames UNSC silence📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has strongly condemned recent Israeli attacks on southern Lebanon, saying the silence of the United Nations Security Council (UNSC) has encouraged further Israeli ag...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786435832394,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran condemns Israeli attacks on Lebanon, blames UNSC silence📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has strongly condemned recent Israeli attacks on southern Lebanon, saying the silence of the United Nations Security Council (UNSC) has encouraged further Israeli ag...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786435826142,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran condemns Israeli attacks on Lebanon, blames UNSC silence📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has strongly condemned recent Israeli attacks on southern Lebanon, saying the silence of the United Nations Security Council (UNSC) has encouraged further Israeli ag...",
+    "media": [],
+    "verified": false
   }
 ]
