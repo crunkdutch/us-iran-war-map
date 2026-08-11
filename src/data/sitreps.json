@@ -262578,5 +262578,35 @@
     "description": "🇱🇧 | IOF attacks across Lebanon are ongoing:In the past hours, IOF artillery shelling was reported in Ali Al-Taher, Al-Mansouri, Bani Hayyan, and the outskirts of Zawtar Al-Sharqiya. Explosions were reported in Al-Taybeh, between Deir Seryan and Al-Taybeh, between Markaba and Bani Hayyan, between ...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786431426852,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Ghalibaf congratulates Major General Vahidi on appointment as IRGC commander📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has congratulated the appointment of Major General Ahmad Vahidi as the Chief Commander of the Islamic Revolution Guards Corps (IRGC).Brigadier General Ahmad Va...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786431448105,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Ghalibaf congratulates Major General Vahidi on appointment as IRGC commander📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has congratulated the appointment of Major General Ahmad Vahidi as the Chief Commander of the Islamic Revolution Guards Corps (IRGC).Brigadier General Ahmad Va...",
+    "media": [],
+    "verified": false
   }
 ]
