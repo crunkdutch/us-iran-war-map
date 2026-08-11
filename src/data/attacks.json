@@ -111802,6 +111802,38 @@
     "media": []
   },
   {
+    "id": 479152323,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-10",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Damascus, Syria, Iraq: Damascus court will also sentence Julani",
+    "location": "Damascus, Syria, Iraq",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Damascus court will also sentence Julani to death for his decades-long crimes, including the bombing and killing of thousands of civilians in Iraq, Syria, and beyond. Very soon, it will announce death sentences for those responsible for killing thousands of Alawites, Shiites, and some Sunnis since the fall of the Bashar government. Justice will be served under a true Islamic government&#33;",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
