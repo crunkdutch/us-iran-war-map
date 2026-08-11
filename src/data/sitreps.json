@@ -263169,5 +263169,20 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1786473254133,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran envoy to IAEA meets FM to review nuclear diplomacy📌 Tehran, IRNA – Iran ambassador and permanent representative to the UN office and international organizations in Vienna met with Foreign Minister Seyed Abbas Araghchi to discuss the latest diplomatic developments, with a particular focus on...",
+    "media": [],
+    "verified": false
   }
 ]
