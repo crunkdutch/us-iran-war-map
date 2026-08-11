@@ -263149,5 +263149,25 @@
     "description": "🇮🇷 | Iran’s Secretary of the Supreme National Security Council, Mohsen Rezaei:IRAN’s message is clear: the Strait of Hormuz will not reopen until the U.S. ends the war and blockade, releases Iran’s frozen assets, and agrees to a region-wide ceasefire, including in Lebanon and Gaza. Until all condi...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786471017749,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-11",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴| Painful nights of mourning have arrived.We commemorate the martyrdom of our beloved Prophet Muhammad (S), and his grandson, the second Imam, Imam Hasan Mujtaba (A), on 28 Safar.We believe that the Holy Prophet (S) was poisoned and attained martyrdom under painful and tragic circumstances. We als...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rujLE-BprmHrW9WBRGQkXXhtzvEhJUQUwxTx6cqfoaVJwid81QY9fbw6tiaoEOrzs0N6MPj3WTXRGUtH_u7e2b26GRLIkYtkCREEEpzYgX5D_v_NmUpvkyUyb9LW1rFpObj9ER2dGjmMwZu-VIsNJINdn8T1NvLvZTgsMgT3iHEJevE4JVtDwNitJjXY_6wm8PC-MpETPzljUUylOiTI-x5RTkhipNFZDKZXQxTvHjj2fjSo4RTDJMGQ9ElpXwLcRuA1-T0ee-QMax4MVMT-NyoKmVSE3m-amUF1Ecic460HYvyDi2OCbcBFO5jSlKVSsUeXLvdrq3y9fkxsQhfG3g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
