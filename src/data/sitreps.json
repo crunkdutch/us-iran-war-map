@@ -261808,6 +261808,36 @@
     "verified": false
   },
   {
+    "id": 1786433700583,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-09",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: Every night, Iranian attacks are carried out against U.S. forces in the area of the Strait of Hormuz, while Washington chooses media silence and maintains ambiguity.Every night, the Iranians launch between two and five drones at vessels transiting the Strait of Hormuz....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786433748559,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-09",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: Every night, Iranian attacks are carried out against U.S. forces in the area of the Strait of Hormuz, while Washington chooses media silence and maintains ambiguity.Every night, the Iranians launch between two and five drones at vessels transiting the Strait of Hormuz....",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786418217101,
     "type": "airstrike",
     "location": "Riyadh",
@@ -262606,6 +262636,81 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ Ghalibaf congratulates Major General Vahidi on appointment as IRGC commander📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has congratulated the appointment of Major General Ahmad Vahidi as the Chief Commander of the Islamic Revolution Guards Corps (IRGC).Brigadier General Ahmad Va...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786433662258,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Ghalibaf facilitates new IRGC Navy chief, head of Basij Organization📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has conveyed his congratulations to the new heads of the Islamic Revolution Guards Corps (IRGC) Navy and the Basij Organization.In a message posted on the official web...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786433635831,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Ghalibaf facilitates new IRGC Navy chief, head of Basij Organization📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has conveyed his congratulations to the new heads of the Islamic Revolution Guards Corps (IRGC) Navy and the Basij Organization.In a message posted on the official web...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786433648292,
+    "type": "naval",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-08-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Ghalibaf facilitates new IRGC Navy chief, head of Basij Organization📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has conveyed his congratulations to the new heads of the Islamic Revolution Guards Corps (IRGC) Navy and the Basij Organization.In a message posted on the official web...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786433712543,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Ghalibaf facilitates new IRGC Navy chief, head of Basij Organization📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has conveyed his congratulations to the new heads of the Islamic Revolution Guards Corps (IRGC) Navy and the Basij Organization.In a message posted on the official web...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786433700807,
+    "type": "naval",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Ghalibaf facilitates new IRGC Navy chief, head of Basij Organization📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has conveyed his congratulations to the new heads of the Islamic Revolution Guards Corps (IRGC) Navy and the Basij Organization.In a message posted on the official web...",
     "media": [],
     "verified": false
   }

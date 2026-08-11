@@ -111125,6 +111125,102 @@
     ]
   },
   {
+    "id": 479140601,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-09",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Syria, Saudi Arabia, Israel: Enemy_MediaKan Hebrew Channel year eight months",
+    "location": "Syria, Saudi Arabia, Israel, Turkey",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaKan Hebrew Channel: One year and eight months after the \"Israeli\" army announced the destruction of the Syrian Air Force following the fall of the Assad regime, the \"Israeli\" security establishment has recently observed that the Syrians have significantly accelerated the rebuilding of their air force, from recruiting new pilots and training with trainer aircraft and helicopters to conducting their first exercise in the past 24 hours using Sukhoi fighter jets in northern Syria.Under A",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479143530,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-09",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Strait of Hormuz, Kuwait: Enemy_MediaHebrew Channel Every night Iranian attacks",
+    "location": "Strait of Hormuz, Kuwait",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 15: Every night, Iranian attacks are carried out against U.S. forces in the area of the Strait of Hormuz, while Washington chooses media silence and maintains ambiguity.Every night, the Iranians launch between two and five drones at vessels transiting the Strait of Hormuz. The U.S. administration completely concealed last week's drone attack on the U.S. base in Kuwait. This indicates a deliberate pattern of conduct in which attacks are not reported in order to avoid es",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479146460,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-09",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tel Aviv, Lebanon, Israel: Islamic_RepublicForeign Ministry Spokesperson Esmail Baghaei...",
+    "location": "Tel Aviv, Lebanon, Israel",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicForeign Ministry Spokesperson Esmail Baghaei: – We strongly condemn the brutal attacks carried out by \"Israel\" in recent days against southern Lebanon.– The silence of international institutions, particularly the United Nations Security Council, and its disregard are the reasons behind \"Israel's\" growing arrogance and continued aggression.– Washington, through its comprehensive support for \"Tel Aviv\", is considered a complicit partner in all of \"Israel's\" crimes in Lebanon, occu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479090961,
     "type": "intercept",
     "status": "confirmed",
