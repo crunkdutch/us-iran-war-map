@@ -111941,6 +111941,38 @@
     ]
   },
   {
+    "id": 479164061,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-11",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Israel: Pezeshkian congratulates IRGC Navy commander Tehran",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Pezeshkian congratulates new IRGC Navy commander📌 Tehran, IRNA – President Masoud Pezeshkian has congratulated Rear Admiral Ali Ozamayi on his appointment as commander of the Islamic Revolution Guards Corps (IRGC) Navy, saying the force would continue to play a key role in protecting Iran’s maritime borders and national interests.In a message on Tuesday, Pezeshkian said he was confident Ozamayi’s experience and judgment would enable the IRGC Navy to carry out its responsibilities with foresi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
