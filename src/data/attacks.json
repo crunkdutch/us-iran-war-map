@@ -111253,6 +111253,70 @@
     "media": []
   },
   {
+    "id": 479190530,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-09",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Occupied_PalestinePress StatementIn Name Allah Most Gracious",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestinePress StatementIn the Name of Allah, the Most Gracious, the Most MercifulThe Islamic Resistance Movement Hamas warns of the grave danger posed by the occupation's decision to close the Ibrahimi Mosque to worshippers. We consider this step a direct assault on freedom of worship and a flagrant violation of the sanctity of our Islamic holy sites, as part of the extremist fascist occupation government's approach of targeting our people and land and accelerating annexation and Juda",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479193476,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-09",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel, Gaza Strip: Enemy_MediaIsraeli Occupation Army Radio correspondentSecuri...",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" Occupation Army Radio correspondent:Security authorities have confirmed that details of what took place in the Gaza Strip the night before last may be published. The incident led to a heightened state of alert in the \"Israeli\" army and may indicate the complex situation in the Strip in recent days.In the hours before nightfall, the \"Israeli\" army received intelligence regarding an armed gathering in the Strip. The Air Force launched a Zik drone to locate the gathering, but ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479090961,
     "type": "intercept",
     "status": "confirmed",
