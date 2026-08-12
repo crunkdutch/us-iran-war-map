@@ -263460,5 +263460,20 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1786521591282,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran expresses sympathy over deadly earthquake in Colombia📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has expressed condolences to the people and government of Colombia following a powerful earthquake that killed hundreds of people and caused widespread destruction in t...",
+    "media": [],
+    "verified": false
   }
 ]

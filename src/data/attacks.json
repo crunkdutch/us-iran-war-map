@@ -112080,6 +112080,43 @@
     ]
   },
   {
+    "id": 479175815,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-11",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iran expresses sympathy over deadly earthquake",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran expresses sympathy over deadly earthquake in Colombia📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has expressed condolences to the people and government of Colombia following a powerful earthquake that killed hundreds of people and caused widespread destruction in the South American country.In a message on Tuesday, Baqaei extended his sympathies to the families of those killed in the disaster, as well as to the Colombian people and government.​He also wished a s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nj5hikYgpArfM0w9O2S7GWsSjfDFyvImlA67ZFHpA75tlnnWkCoiEsld0s_kMNwXfO8ipMeb5x9yjVBzvkDcA5psIfZfrqNjvjxydjsMAN9ypr-qbFD1DhKi_gqjeFdC4WQDC2Hw4QZ2flCtj3Z6YhFXqLAvAhjYhbOGYT-QVAXCN4racp8EdHmb7LMXlAwKY9ytBOikWf0gCGyqkW-9brFAJvOjBhrL-fQMGiOy4Ve3PZ96P_k4E3HzY0KlpClRpyGpoHsgnelymuNx3d3CLfJ1ax1JTPATiLP9gEQtkdlDfsy4CS7IkJ42V81S3F8-Wq3WdLJe9jDNRajhUhmqAw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
