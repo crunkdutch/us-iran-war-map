@@ -112117,6 +112117,38 @@
     ]
   },
   {
+    "id": 479178756,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-08-11",
+    "time": "TBD",
+    "title": "Unknown Cyber Attack — Tehran: Iran urges BRICS move from dialogue",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran urges BRICS to move from dialogue to practical action📌 Tehran, IRNA – Iran’s Central Bank Governor Abdolnaser Hemmati has called on BRICS members to translate policy dialogue into practical initiatives and operational mechanisms, particularly in monetary and financial cooperation.Addressing the opening session of the BRICS finance ministers and central bank governors’ meeting in India on Wednesday, Hemmati said closer cooperation among member states could strengthen stability, trust and",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
