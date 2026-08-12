@@ -112149,6 +112149,38 @@
     "media": []
   },
   {
+    "id": 479181698,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-11",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Drone Strike — Tehran: enemy ground action will nipped Army",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Any enemy ground action will be nipped in the bud: Army commander📌 Tehran, IRNA – Deputy Executive Coordinator of the Iranian Army Brigadier General Alireza Sheikh says that Any ground action by the enemy will be crushed before it can get off the ground.“Any ground action by the enemy will be nipped in the bud,” the commander said in an interview released on Wednesday, according to the Army’s public relations office.​He characterized the recent shifts in Washington’s military rhetoric as cle",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
