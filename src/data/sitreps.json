@@ -261853,6 +261853,36 @@
     "verified": false
   },
   {
+    "id": 1786515055414,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-09",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15, citing an \"Israeli\" source: There will be no expansion of the buffer zone in southern Lebanon, and there are calls for the Lebanese Army to confront Hezbollah on the ground.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786515025712,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-09",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15, citing an \"Israeli\" source: There will be no expansion of the buffer zone in southern Lebanon, and there are calls for the Lebanese Army to confront Hezbollah on the ground.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786418217101,
     "type": "airstrike",
     "location": "Riyadh",
