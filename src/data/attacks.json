@@ -112037,6 +112037,49 @@
     "media": []
   },
   {
+    "id": 479172875,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-11",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Saudi Arabia: satellite imagery shows that another large",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 | New satellite imagery shows that another large oil storage tank at Saudi Arabia’s Jazan Oil Refinery in the south of the country has been damaged after being targeted by an Ansarullah drone last week. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5dff2eb8e1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/aSYmwYfk_SHaf3OJXSDAH8z2ES4G03-SEfsETupm-FA2Z234DZjPxaYRYC2hqgKy2Fbf2MG06n_qxO816jGaWItJJXpns2zzj07XWeP5WMpm-rHOpA0XTdAWJXNEQJASb09H49lPmcuydbpNQWkXWpFDJm-czxMLXynhDYSW9rVOUGrmQ16DV5Goq7JOANHRCSNS0U4Gjy89V8mjsb0Nrevt3PNIVdj6RH9MYRLJRFqzZFmXlQF0BzZEEgJudDW9UpwM1d8oq-MheB6XDKBP0Nc_D15oj58fk1R4Yw_QCNIj4p1JWb4uEwhHoelV_3x6G4YK8Odax-Gxk57h67cMnw"
+      },
+      {
+        "url": "https://t.me/enemywatch/60927",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/aSYmwYfk_SHaf3OJXSDAH8z2ES4G03-SEfsETupm-FA2Z234DZjPxaYRYC2hqgKy2Fbf2MG06n_qxO816jGaWItJJXpns2zzj07XWeP5WMpm-rHOpA0XTdAWJXNEQJASb09H49lPmcuydbpNQWkXWpFDJm-czxMLXynhDYSW9rVOUGrmQ16DV5Goq7JOANHRCSNS0U4Gjy89V8mjsb0Nrevt3PNIVdj6RH9MYRLJRFqzZFmXlQF0BzZEEgJudDW9UpwM1d8oq-MheB6XDKBP0Nc_D15oj58fk1R4Yw_QCNIj4p1JWb4uEwhHoelV_3x6G4YK8Odax-Gxk57h67cMnw"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
