@@ -261883,6 +261883,51 @@
     "verified": false
   },
   {
+    "id": 1786539302458,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-09",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper – Avi Ashkenazi: The \"Israeli\" army is building several forward defensive lines, fearing attempts by Hezbollah, which still maintains significant military strength in Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786539279832,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-09",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper – Avi Ashkenazi: The \"Israeli\" army is building several forward defensive lines, fearing attempts by Hezbollah, which still maintains significant military strength in Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786539229110,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-09",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Media: Following the disappearance of two \"Israeli\" women in Austria last Friday, the Mossad is investigating the case amid suspicions that they were kidnapped by Iranian elements.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786418217101,
     "type": "airstrike",
     "location": "Riyadh",
