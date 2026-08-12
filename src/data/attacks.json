@@ -112213,6 +112213,49 @@
     "media": []
   },
   {
+    "id": 479187585,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-11",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Kuwait: Kuwait announces foiled terrorist plot target",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— 🇰🇼/🇮🇷 NEW: Kuwait announces it foiled a ‘terrorist plot’ to target vital facilities in the country with drones @Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1d5fa9cdf0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ud4R8nuwI_D3OwwUUZKGR0cmf1OetEaLI-UdPj_mgElvP-p5tKuTIFHGehdCs3tHfgTioZj1WKHxAIo67ATGILHLzGObKDeSZ80CXpmnmvkUFsdR23ux2Qep86K_Ru2MDbdxFV0iKap9dRl5GLpm92U5fEcC-AoykiQ5Wkupa298fJsTWQxSwQ52rAZ8HloTyAm6x8zuiJKayZ8M809ZptKckoK4_Nf4Ak8mQtii6VxqzE5KQXVD8e1OniRkkH42JO6Q1wl2hukGcVz3_AIkIfoomcrJ679N_WE9EiAmT-JGvYHZ-BV8voMa70b1rdiILBfgVui8yvum9q9A6DrMSA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60938",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ud4R8nuwI_D3OwwUUZKGR0cmf1OetEaLI-UdPj_mgElvP-p5tKuTIFHGehdCs3tHfgTioZj1WKHxAIo67ATGILHLzGObKDeSZ80CXpmnmvkUFsdR23ux2Qep86K_Ru2MDbdxFV0iKap9dRl5GLpm92U5fEcC-AoykiQ5Wkupa298fJsTWQxSwQ52rAZ8HloTyAm6x8zuiJKayZ8M809ZptKckoK4_Nf4Ak8mQtii6VxqzE5KQXVD8e1OniRkkH42JO6Q1wl2hukGcVz3_AIkIfoomcrJ679N_WE9EiAmT-JGvYHZ-BV8voMa70b1rdiILBfgVui8yvum9q9A6DrMSA"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
