@@ -112384,6 +112384,38 @@
     "media": []
   },
   {
+    "id": 479202320,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-12",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Qeshm, Strait of Hormuz, Lebanon: Updates1 Israeli violations southern SyriaAt least",
+    "location": "Qeshm, Strait of Hormuz, Lebanon, Syria, UAE, Israel, Egypt, Turkey",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | Updates:1. Israeli violations in southern SyriaAt least 10 violations by the Israeli enemy have been reported in southern Syria over the past 24 hours, including four incursions.2. Statement by the Speaker of the National Security CommissionThe Speaker of the Parliament’s National Security Commission said that the enemy intended to launch a land attack through the western routes of the country, including Khark and Qeshm, but that the plan was thwarted at the outset by the response of milita",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
