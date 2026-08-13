@@ -263685,5 +263685,35 @@
     "description": "🖥 Iran: US ‘unprecedented violations’ of Geneva Conventions cannot be ignored📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has condemned the US threats and airstrikes against Iran’s civilian infrastructure as clear war crimes, and warned that normalizing such \"unprecedented...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786594140524,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-12",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 | The fate of 2,000 Palestinians remains completely unknown. Around 11,000 people are believed to be trapped under the rubble, but their bodies cannot be recovered due to a lack of equipment and rescue tools. Around 1,700 bodies remain in the custody of the IOF, while an estimated 6,000 to 8,00...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786594101597,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-12",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 🇮🇷 | Yesterday marked the anniversaries of the martyrdom of the Holy Prophet Muhammad (s), the second Imam, Imam Hasan al-Mujtaba (a), and the eighth Imam, Imam Ali al-Ridha (a). Around 5 million pilgrims visited the Holy Shrine of Imam Ali (a) in Najaf, 5.6 million visited the Holy Shrine of...",
+    "media": [],
+    "verified": false
   }
 ]
