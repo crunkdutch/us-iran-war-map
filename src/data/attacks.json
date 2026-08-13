@@ -112352,6 +112352,38 @@
     "media": []
   },
   {
+    "id": 479199371,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: operational cells terrorist group dismantled southeastern",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Two operational cells of a terrorist group dismantled in southeastern Iran📌 Tehran, IRNA – Iran Ministry of Intelligence announced the dismantling of two operational cells of a Takfiri terrorist group in Sistan and Baluchestan province, southeastern Iran, resulting in the arrest of four terrorists and the killing of two others.According to a statement from the Intelligence Ministry, the terrorists were identified upon entering the country and were dismantled by provincial intelligence forces",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
