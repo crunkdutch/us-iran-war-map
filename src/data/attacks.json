@@ -112005,6 +112005,70 @@
     ]
   },
   {
+    "id": 479205270,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-10",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaMaariv Hebrew Newspaper Lieutenant Colonel intell...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper: Lieutenant Colonel (A), the intelligence officer of the Gaza Division, mocks Chief of Staff Eyal Zamir. Nearly three years after the October 7 attack, Lieutenant Colonel (A) refuses to take responsibility for his failure. Moreover, he refuses to retire from the \"Israeli\" army and rejects Chief of Staff Eyal Zamir's decision to dismiss him from both regular and reserve service.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479208221,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-10",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: YemenYemeni military source Saba News Agency",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenYemeni military source to Saba News Agency:– The Yemeni Armed Forces targeted an Aramco refinery in the Jizan area with two drones, and the strike was precise, by the grace of Allah.– The strike was carried out in response to the Saudi enemy's violation of Yemeni airspace and the country's sovereignty in Saada and Hajjah governorates.– The Armed Forces will continue to fulfill their duties by responding firmly to any violation of sovereignty or aggression targeting our country and people.#",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479164061,
     "type": "naval",
     "status": "confirmed",

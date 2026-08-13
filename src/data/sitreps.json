@@ -263196,6 +263196,51 @@
     "verified": false
   },
   {
+    "id": 1786640316858,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-10",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper: Most of the \"Israeli\" army's maneuvering units reported increasing deterioration of combat equipment and armored personnel carriers. Among other things, there is a shortage of spare parts for Merkava tanks and armored personnel carriers due to damage sustained by...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786640344002,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-10",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper: Lieutenant Colonel (A), the intelligence officer of the Gaza Division, mocks Chief of Staff Eyal Zamir. Nearly three years after the October 7 attack, Lieutenant Colonel (A) refuses to take responsibility for his failure. Moreover, he refuses to retire from the \"...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786640296759,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-10",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenYemeni military source to Saba News Agency:– The Yemeni Armed Forces targeted an Aramco refinery in the Jizan area with two drones, and the strike was precise, by the grace of Allah.– The strike was carried out in response to the Saudi enemy's violation of Yemeni airspace and the country's sov...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786460075968,
     "type": "airstrike",
     "location": "Syria",
