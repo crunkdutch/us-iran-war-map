@@ -112320,6 +112320,38 @@
     ]
   },
   {
+    "id": 479196423,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Shiraz: Planned ground offensive against Iran nipped",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Planned ground offensive against Iran nipped in the bud: Top MP📌 Shiraz, IRNA – The chairperson of Parliament’s National Security and Foreign Policy Committee says a planned ground offensive against Iran has been nipped in the bud, stressing that the United States will not be spared until it is fully defeated.Ebrahim Azizi said late on Wednesday that Iran’s military units, supported by local forces, foiled a planned ground attack from several directions.​He also warned that if Iran’s securit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
