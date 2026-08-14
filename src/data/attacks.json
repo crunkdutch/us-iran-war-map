@@ -112576,6 +112576,43 @@
     "media": []
   },
   {
+    "id": 479220035,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria: really want congratulate hardcore jihadists Ikhwanis",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇾 I really want to congratulate all the hardcore jihadists and Ikhwanis on the fact that they brought an Arab nationalist to power in Syria.🇹🇷 I also want to congratulate the Turks on spending colossal amounts of money on the victory of an Arab nationalist in Syria.Everything that is happening points to only one thing—the temporary president of Syria is building a vertical of power centered on a single person.🇸🇾 The \"accidental\" deaths of former HTS functionaries from heart attacks and ca",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QccG6eIvnae6HG9AIQUVQRJudM0HPGpJ0KpNNxcQNmKMuHtnlK0D4cjP3y4GAJ-vuyTssPuOCL7pNMQ1OF7k1i_0vEOs9Qmp9a0UiQ4sGugJlLjwmTsMDeXigySvPyVxbXQVmRlaIMOJxCVzDQVrEOI_j8uhC-KIBZVYBlE2tfJ81LoeHeeAw8ZoGjxCZEYtNYEiSUaKbblfkZ5ajmq8Uvi-yE4xPOpOrYK7ES5DvaG_mqjdOFuMHYZNzXOlvjt99QMuOu5XJEFGKSOGsp3fnIjPQJK75N7MN-o0LIjAwl-bcRCGVzY81XK9xZhgGLXIDlJL4jHV3h0_WNRbrv8VpQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
