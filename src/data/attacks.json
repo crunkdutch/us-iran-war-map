@@ -112613,6 +112613,38 @@
     ]
   },
   {
+    "id": 479222991,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-12",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Tehran, Yemen: Iran rejects allegations against Tehran Yemen",
+    "location": "Tehran, Yemen",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran rejects US allegations against Tehran on Yemen📌 New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has rejected the baseless and unsubstantiated allegations made by the US representative against Iran about Yemen during a UN Security Council meeting.In a letter on Thursday, addressed to UN Secretary‑General António Guterres and the president of the UN Security Council, Gholamhossein Darzi rejected th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

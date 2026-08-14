@@ -264380,5 +264380,35 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1786693002010,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran rejects US allegations against Tehran on Yemen📌 New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has rejected the baseless and unsubstantiated allegations made by the US representative against Iran ab...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786692937294,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran rejects US allegations against Tehran on Yemen📌 New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has rejected the baseless and unsubstantiated allegations made by the US representative against Iran ab...",
+    "media": [],
+    "verified": false
   }
 ]
