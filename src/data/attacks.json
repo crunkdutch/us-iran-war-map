@@ -112645,6 +112645,38 @@
     "media": []
   },
   {
+    "id": 479225948,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Aden, Israel, Egypt: rejected interventionist statements against Iran human",
+    "location": "Aden, Israel, Egypt, Cairo",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "He rejected interventionist statements against Iran on human rights grounds and said the EU lacks the moral standing to lecture others on the issue. The Greek foreign minister expressed support for diplomatic efforts to de-escalate tensions and offered Greece’s technical and expert assistance. Both sides emphasized the continuation of consultations and the preservation of the longstanding relations between Iran and Greece.8. Kushner launches emergency Egypt and Israel tour over Gaza roadmapJared",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
