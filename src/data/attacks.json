@@ -112480,6 +112480,102 @@
     "media": []
   },
   {
+    "id": 479211173,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-12",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Hodeidah, Red Sea, Yemen: Yemen Ansarullah attacks Saudi mercenary forces",
+    "location": "Hodeidah, Red Sea, Yemen, Saudi Arabia",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen: Ansarullah attacks Saudi mercenary forces in Marib; Marib could fall under Ansarullah control if the situation escalates:Ansarullah launched a series of attacks against Saudi mercenary forces and Saudi-linked targets in Yemen and Saudi Arabia. According to Al Masirah, Ansarullah targeted Saudi Aramco’s refinery facilities in Jazan, southwestern Saudi Arabia, with two drones, in response to Saudi violations of Yemeni airspace and sovereignty in Saada and Hodeidah. An informed source",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479214126,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-12",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Erbil, Iraq: Iranian drone strikes reportedly targeted several",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | Iranian drone strikes reportedly targeted several terrorist positions in Erbil, northern Iraq, where a meeting of terrorist elements was reportedly taking place. In the past hours, an explosion was heard in the Divan area of Erbil in the Iraqi Kurdistan Region, followed by continued explosions after the drone strikes. Four drone attacks were carried out in Erbil, with one drone scoring a direct hit on U.S. targets in the city. Surveillance cameras captured the moment a drone directly stru",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479217080,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-12",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Sirik, Abu Dhabi, Strait of Hormuz: Dhabi National Company ADNOC stateowned energy",
+    "location": "Sirik, Abu Dhabi, Strait of Hormuz",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇦🇪 | The Abu Dhabi National Oil Company (ADNOC), the state-owned energy company of the United Arab Emirates, reported that two of its vessels were attacked today while transiting the Strait of Hormuz. According to other sources, two anti-ship cruise missiles were reportedly launched from the Sirik region of Iran, near the Strait of Hormuz, approximately one hour apart. It is believed that these anti-ship missiles were targeting ADNOC’s tankers.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
