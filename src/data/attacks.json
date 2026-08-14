@@ -112677,6 +112677,118 @@
     "media": []
   },
   {
+    "id": 479228906,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Hormozgan: drone intercepted destroyed over Hormozgan Province",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | An MQ-9 drone was intercepted and destroyed over Hormozgan Province by the IRGC Aerospace Force’s advanced new air defense system, operating under the control of the country’s integrated air defense network.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/hEBsDdvCzQqVDbpF2ZX2JCLVS3zsBvP5P5H1whRxL752gAYjWJQIPW6MhMQWr65kUTFaoPgf6XWDKrUJhhw0HzAMDheEjAPnXSU-F3iawIgP6DYpGIevH3Q6ZUw1YilhVa7C4ukrBvWQrh9LgZgHts3rqt4e3g_9GHKoXypPd4V6vIvXvsQarxKB5rslo9xlk0_GsL-TjHl5-WbMx-hUQeSf5EzWYziuRqGxsFY_1dUdDbGFWLZyKznWSRMkpOma7a_S5PwscFUO9FEYI-b2ytOoz9SN-PcHH6vljqshszBLSql61qeeFlaBqCFHkUHW2FyufDKF08F0ui76Uz70hA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 479231865,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Large convoys Ansarullah forces have left",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Large convoys of Ansarullah forces have left the cities of Dhamar and Ibb in Ansarullah-controlled Yemen, heading toward the Hays-Mocha direction in southwestern Yemen. Massive destruction at the Mokha port controlled by the Al Saud militia after it was targeted by Ansar Allah.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/30f3dec756.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rgo0VsMk6dmwh4R1vIZDhyXCURLmF0mvaKfNgKFaLYUe4FKRlkAlEo8YEfYTFYG2XtR88kAwY-oC99cI1Ovw49lJMq3JlExJzNrHunJKMWcov14lWmRkXsZxJoQ8mN0KNVNc6-XrJcVXWkvytdUC8UCgpZ9i1C3iVolbYBLNOs260SwiJqe3y2aFlx8M03HQjr3cdm8ik6jy8SwVS3ECnvu4zS8OXyfjPyy2J-YiDy4Gq4Fl6m0OEVQEj75NkBLK5_UJQuVXBsROB-lPvWMHrUcKP7MuGde3v-xjTmmAhg1tVIDS-gY7kmzFAcaG2e9Cg7VOoJpRUpnSk_k109YqUA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60965",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rgo0VsMk6dmwh4R1vIZDhyXCURLmF0mvaKfNgKFaLYUe4FKRlkAlEo8YEfYTFYG2XtR88kAwY-oC99cI1Ovw49lJMq3JlExJzNrHunJKMWcov14lWmRkXsZxJoQ8mN0KNVNc6-XrJcVXWkvytdUC8UCgpZ9i1C3iVolbYBLNOs260SwiJqe3y2aFlx8M03HQjr3cdm8ik6jy8SwVS3ECnvu4zS8OXyfjPyy2J-YiDy4Gq4Fl6m0OEVQEj75NkBLK5_UJQuVXBsROB-lPvWMHrUcKP7MuGde3v-xjTmmAhg1tVIDS-gY7kmzFAcaG2e9Cg7VOoJpRUpnSk_k109YqUA"
+      }
+    ]
+  },
+  {
+    "id": 479234825,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Tehran: Remaining member terrorist team arrested southeast",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 6
+    },
+    "description": "🖥 Remaining member of a terrorist team arrested in southeast of Iran📌 Tehran, IRNA – Islamic Revolution Guards Corps (IRGC) has announced that after two members of a terrorist group had been killed on August 6 in the south of Sistan and Baluchestan province, one remaining member of the team was arrested on Friday, August 14.According to the IRGC, in addition to the arrest, a large quantity of weapons, ammunition, explosive devices, and communication equipment were seized from the cell.​The rem",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

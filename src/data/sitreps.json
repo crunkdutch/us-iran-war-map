@@ -264545,5 +264545,66 @@
     "description": "🔻 Iran rejects US allegations against Tehran on Yemen📌 New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has rejected the baseless and unsubstantiated allegations made by the US representative against Iran ab...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786708292905,
+    "type": "intercept",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-08-13",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | An MQ-9 drone was intercepted and destroyed over Hormozgan Province by the IRGC Aerospace Force’s advanced new air defense system, operating under the control of the country’s integrated air defense network.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/hEBsDdvCzQqVDbpF2ZX2JCLVS3zsBvP5P5H1whRxL752gAYjWJQIPW6MhMQWr65kUTFaoPgf6XWDKrUJhhw0HzAMDheEjAPnXSU-F3iawIgP6DYpGIevH3Q6ZUw1YilhVa7C4ukrBvWQrh9LgZgHts3rqt4e3g_9GHKoXypPd4V6vIvXvsQarxKB5rslo9xlk0_GsL-TjHl5-WbMx-hUQeSf5EzWYziuRqGxsFY_1dUdDbGFWLZyKznWSRMkpOma7a_S5PwscFUO9FEYI-b2ytOoz9SN-PcHH6vljqshszBLSql61qeeFlaBqCFHkUHW2FyufDKF08F0ui76Uz70hA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786708309814,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-13",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Large convoys of Ansarullah forces have left the cities of Dhamar and Ibb in Ansarullah-controlled Yemen, heading toward the Hays-Mocha direction in southwestern Yemen. Massive destruction at the Mokha port controlled by the Al Saud militia after it was targeted by Ansar Allah.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/30f3dec756.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rgo0VsMk6dmwh4R1vIZDhyXCURLmF0mvaKfNgKFaLYUe4FKRlkAlEo8YEfYTFYG2XtR88kAwY-oC99cI1Ovw49lJMq3JlExJzNrHunJKMWcov14lWmRkXsZxJoQ8mN0KNVNc6-XrJcVXWkvytdUC8UCgpZ9i1C3iVolbYBLNOs260SwiJqe3y2aFlx8M03HQjr3cdm8ik6jy8SwVS3ECnvu4zS8OXyfjPyy2J-YiDy4Gq4Fl6m0OEVQEj75NkBLK5_UJQuVXBsROB-lPvWMHrUcKP7MuGde3v-xjTmmAhg1tVIDS-gY7kmzFAcaG2e9Cg7VOoJpRUpnSk_k109YqUA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60965",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rgo0VsMk6dmwh4R1vIZDhyXCURLmF0mvaKfNgKFaLYUe4FKRlkAlEo8YEfYTFYG2XtR88kAwY-oC99cI1Ovw49lJMq3JlExJzNrHunJKMWcov14lWmRkXsZxJoQ8mN0KNVNc6-XrJcVXWkvytdUC8UCgpZ9i1C3iVolbYBLNOs260SwiJqe3y2aFlx8M03HQjr3cdm8ik6jy8SwVS3ECnvu4zS8OXyfjPyy2J-YiDy4Gq4Fl6m0OEVQEj75NkBLK5_UJQuVXBsROB-lPvWMHrUcKP7MuGde3v-xjTmmAhg1tVIDS-gY7kmzFAcaG2e9Cg7VOoJpRUpnSk_k109YqUA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786708377376,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-13",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Remaining member of a terrorist team arrested in southeast of Iran📌 Tehran, IRNA – Islamic Revolution Guards Corps (IRGC) has announced that after two members of a terrorist group had been killed on August 6 in the south of Sistan and Baluchestan province, one remaining member of the team was ar...",
+    "media": [],
+    "verified": false
   }
 ]
