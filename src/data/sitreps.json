@@ -264547,6 +264547,21 @@
     "verified": false
   },
   {
+    "id": 1786723787675,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-12",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonKey points from the speech by Hezbollah Secretary-General His Eminence Sheikh Naim Qassem on the occasion of the July 2006 victory:– Today, we celebrate a great milestone that established an important historical phase in Lebanon and the region.– We must pause at the anniversary of the death ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786708292905,
     "type": "intercept",
     "location": "Hormozgan",
@@ -264660,6 +264675,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1786723711814,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-13",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iranian deputy FM hails “Islamic Resistance Day”📌 Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has described the Islamic “Resistance Day” as a reminder of steadfastness against aggression and the failure of calculations based on force.Augus...",
+    "media": [],
     "verified": false
   }
 ]
