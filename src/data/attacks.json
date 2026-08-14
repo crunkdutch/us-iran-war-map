@@ -112827,6 +112827,49 @@
     ]
   },
   {
+    "id": 479240748,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Breaking Ansarallah launches surprise ballistic missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Ansarallah launches a surprise ballistic missile and drone attack on Saudi-terror proxy forces in Yemen:Ansarallah has launched a surprise ballistic missile and drone attack targeting concentrations of Saudi- proxy forces in the Al-Mukha (Mocha) area of southwestern Yemen, reportedly striking military positions and weapons depots. Ansarallah has said its attacks targeted Saudi-backed troop concentrations and military infrastructure, while Yemeni military sources reported",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/89a0b0cd7b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/HfykdeZn4_ccK7K5UxUXWDti8REjUgA6_irxEgPrPeVuifZpvPoTRWchus8HREOqH7G9u6Ffedcn3Ha6i1a9mUa3DOXgVb7uZHEkp1WKFipYZU7IATd0zpe42Z1vZlm4q-gM8kIQmoJ2xLru1YlqOSXtQCWZ_--pKJxjCjXC9gtPNsihsPHR6D7T-x7sa8JuyN0tfraFAqYxGGRaKZX4-Ruu-ItGCcn0vAQdfAkrr4ePo1UUlxz_har2JnxhK2aP7sddTrJqv4V2FOE4q-BOsybA-voWrPSb_HB-uIp_U18fyi044yy8KbfVFRVwIn0QXNAnkppfPkAPjVPuVOhWRQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/60968",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/HfykdeZn4_ccK7K5UxUXWDti8REjUgA6_irxEgPrPeVuifZpvPoTRWchus8HREOqH7G9u6Ffedcn3Ha6i1a9mUa3DOXgVb7uZHEkp1WKFipYZU7IATd0zpe42Z1vZlm4q-gM8kIQmoJ2xLru1YlqOSXtQCWZ_--pKJxjCjXC9gtPNsihsPHR6D7T-x7sa8JuyN0tfraFAqYxGGRaKZX4-Ruu-ItGCcn0vAQdfAkrr4ePo1UUlxz_har2JnxhK2aP7sddTrJqv4V2FOE4q-BOsybA-voWrPSb_HB-uIp_U18fyi044yy8KbfVFRVwIn0QXNAnkppfPkAPjVPuVOhWRQ"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
