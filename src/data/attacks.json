@@ -113280,6 +113280,43 @@
     ]
   },
   {
+    "id": 479279345,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qatar: Sardar Bagherzadeh Iranian pilots reportedly captured",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 24
+    },
+    "description": "🇮🇷 | Sardar Bagherzadeh: 3 Iranian pilots reportedly captured by Qatar:The Commander of the Missing Persons Search Committee of the General Staff of Iran’s Armed Forces reportedly stated that three Iranian pilots were captured alive by Qatari forces after their Su-24 fighter jets were shot down during the March attacks. According to the statement, Javad Salehi, Abdolmajid Dashtian, and Emran Behroushian have allegedly been held by Qatari forces for six months, while the Qatari government has r",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b8vN_K1EJ11CDkJ5bdO8KrNBt5ZxFoc6FpY4vEXuDV4g2A-KM1YOwweUhitrv6Dqfr2KoyET67dSU5gXl7NtftvzVaWvi5mfmUl4RDnyrHpEXHW1vOzWRTzP8z3CazHTS2GuAnuQ8Z1_MsqSMyOnbS9nw1Zrs_gsPO1-3PFPZhevDbUpz9XBLzAGobfgjhidne4Zh3Cnbtfr9c_k9nVYePNc0l4jLE2Y-ItekEqglb5qyuEKFf1K0ypsdZSFFxit-EztXmwLporA88w01m6dv9bPGddsjigRkTzj7fntKtlPaWXQqTbdCfV6zP0oT46kjCNdFNkxre4TfhjF9M0D0A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
