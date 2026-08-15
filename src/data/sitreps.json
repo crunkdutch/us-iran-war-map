@@ -265058,6 +265058,21 @@
     "verified": false
   },
   {
+    "id": 1786813816366,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-14",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Preliminary reports indicate that the number of Saudi-backed militia members reportedly killed has risen to eight following an Ansarallah attack targeting their positions and military supply ships at the port of Al-Mukha. Separately, clashes erupted between Ansarallah and forces aligne...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786791881927,
     "type": "airstrike",
     "location": "Tehran",
@@ -265170,6 +265185,21 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Trump recognized Resistance Front in MoU signed with Iran: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad-Bagher Ghalibaf says US President Donald Trump had given the US recognition to the Axis of Resistance by signing the Islamabad Memorandum of Understanding (MoU) that included an end to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786813822212,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 High-level Tajik delegation meets FM Araghchi in Tehran📌 Tehran, IRNA – A high-ranking Tajik delegation held talks with Iranian Foreign Minister Abbas Araghchi in Tehran on Saturday, as part of an official visit aimed at deepening diplomatic and economic cooperation between the two friendly nati...",
     "media": [],
     "verified": false
   }

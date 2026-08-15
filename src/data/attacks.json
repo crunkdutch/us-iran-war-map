@@ -113349,6 +113349,38 @@
     ]
   },
   {
+    "id": 479288276,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Preliminary reports indicate that number Saudibacked",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Preliminary reports indicate that the number of Saudi-backed militia members reportedly killed has risen to eight following an Ansarallah attack targeting their positions and military supply ships at the port of Al-Mukha. Separately, clashes erupted between Ansarallah and forces aligned with the Presidential Leadership Council (PLC) along the Al-Barah axis in the direction of Hays, southwestern Yemen. Ansarallah reportedly launched multiple assaults across the Al-Barah-Shar’ab high",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479282321,
     "type": "missile",
     "status": "confirmed",
