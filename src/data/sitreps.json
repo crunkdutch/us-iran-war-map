@@ -264891,5 +264891,45 @@
     "description": "🇸🇾| Syrian sources reported that Israeli regime forces launched an incursion with a military column consisting of 8 armored and military vehicles toward the Hawd al-Yarmouk area in the western countryside of Daraa. At the same time, extensive and intensive flights by reconnaissance and combat dron...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786787391964,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧/ 🏴| According to preliminary reports, an Israeli airstrike on the town of Ansar in southern Lebanon, outside the so-called “security zone,” martyred members of a family this morning. Separately, an Israeli airstrike targeted Deir Zahrani in southern Lebanon, with preliminary reports of several...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O09xi_HqIiSrdh4tTbVA0MPBzBK8rQ4aNtCVi7G5NkXDij0JQ63eulv6WYOeJEpN7aOb2zV2pouvzey6gx9QJqaRQztB-X6GgGvg9HxSeo2x80vtgogMrI722U00tM5rtqgnjFoy1052-KwSSWzLEE6zmiwWyyMYczckcR666J3f2qdHybCMpf81QEhcAgt-lKsiaLodoXmTFgcKEjZQl91sp8rSRzrW_EM4YbMSWkGGe3uUnAA4NsjbaDwfqPWCCtEyO18Pp8O7d22t1fSrVorObQXIgeTTi96b2J6qH-0VK7koc5F1fw3XkEBFkLwnRmGolFuYhdYUmUwAMAoIFA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786787427083,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧/ 🏴| According to preliminary reports, an Israeli airstrike on the town of Ansar in southern Lebanon, outside the so-called “security zone,” martyred members of a family this morning. Separately, an Israeli airstrike targeted Deir Zahrani in southern Lebanon, with preliminary reports of several...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O09xi_HqIiSrdh4tTbVA0MPBzBK8rQ4aNtCVi7G5NkXDij0JQ63eulv6WYOeJEpN7aOb2zV2pouvzey6gx9QJqaRQztB-X6GgGvg9HxSeo2x80vtgogMrI722U00tM5rtqgnjFoy1052-KwSSWzLEE6zmiwWyyMYczckcR666J3f2qdHybCMpf81QEhcAgt-lKsiaLodoXmTFgcKEjZQl91sp8rSRzrW_EM4YbMSWkGGe3uUnAA4NsjbaDwfqPWCCtEyO18Pp8O7d22t1fSrVorObQXIgeTTi96b2J6qH-0VK7koc5F1fw3XkEBFkLwnRmGolFuYhdYUmUwAMAoIFA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
