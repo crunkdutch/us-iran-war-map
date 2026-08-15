@@ -112902,6 +112902,70 @@
     "media": []
   },
   {
+    "id": 479261510,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Increasing arsenals wont enhance global peace",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Increasing arsenals won’t enhance global peace: Iranian envoy📌 London, IRNA – Iran’s ambassador to Germany, referring to a new report on a surge in global arms transfers, has said that lasting security across the world cannot be achieved through military bases, arsenals, and nuclear weapons.Majid Nili&nbsp;made the remarks on Friday in a post on X, alongside an interview published by German daily Der Tagesspiegel with Matthew George, the director of the Stockholm International Peace Research",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479264480,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Yemen, Israel: YemenAnsar Allah Political Bureau extend sincere",
+    "location": "Lebanon, Yemen, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenAnsar Allah Political Bureau:– We extend our sincere congratulations and blessings to Hezbollah Secretary-General His Eminence Sheikh Naim Qassem and the Lebanese Islamic Resistance on the 20th anniversary of the historic July victory.– Over the course of 33 days of confrontation, the Lebanese resistance wrote a glorious chapter in the history of the nation.– In July, the Lebanese resistance established a strategic balance of deterrence with the Zionist enemy and imposed new rules of engag",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479243711,
     "type": "drone",
     "status": "confirmed",
@@ -113028,6 +113092,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 479258541,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "Hezbollah Missile Strike — Tehran, Baghdad, Doha: Beirutbased media outlet Unews reported that",
+    "location": "Tehran, Baghdad, Doha, Riyadh, Damascus, Beirut, Lebanon, Syria, Qatar, UAE, Saudi Arabia, Iraq, Turkey",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Beirut-based media outlet Unews reported that Syrian military intervention has, at least temporarily, been derailed by threats from Iran.Tehran used Turkey as the messenger to inform Jolani that any move towards Lebanon would be met with hundreds of strategic Iranian strikes across Syria, including the Presidential Palace in Damascus.The warning also reached Ankara, Baghdad, Doha and Riyadh. The objectives of Jolani’s operations were exactly as I have been pointing out:1. To declare Tripoli in t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/rWQdB6JoJgYGa_JJGFP0-iO_u99E310aixjsxxSqZXPGrdtNA81o3ECzyzlgrjtlE_pfyWrlasGlCkYiZCcv8o0yuZVxdKE-J-m3eF90NSWu-Edu-dIMRgfx5T8QriFC06cpWE9wbIS1hf69MMSwqoikeBRTdHukkStOlGwP3uZao9yoXgUQEetfu3iVh8Kz4_0NIEy3m5VrV1JMkZA-AU0r4qa-V6sBxvMUqi-PIEDuAAJNELUCzrav3o2N_fpa1TEwCVj4b5ThuSBdQ-v-kLRNbSFL08X9kQ9Eznl19vVByf4Xpva4cdxO64CiVQSZsGcyZI1O5rU6QvKXyXPr2A.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477331196,
