@@ -113317,6 +113317,38 @@
     ]
   },
   {
+    "id": 479282321,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Hezbollah Missile Strike — Tehran, Strait of Hormuz, Lebanon: Trump recognized Resistance Front signed with",
+    "location": "Tehran, Strait of Hormuz, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Trump recognized Resistance Front in MoU signed with Iran: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad-Bagher Ghalibaf says US President Donald Trump had given the US recognition to the Axis of Resistance by signing the Islamabad Memorandum of Understanding (MoU) that included an end to war on all fronts, including Lebanon.In a meeting with a group of cultural elites in Tehran on Saturday, Ghalibaf referred to the process of negotiations within the US and how Trump backed down on Ir",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

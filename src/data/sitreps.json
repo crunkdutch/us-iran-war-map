@@ -264818,6 +264818,36 @@
     "verified": false
   },
   {
+    "id": 1786798488040,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-13",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonStatement issued by Hezbollah:Lebanese people awoke at dawn today to the sound of an aggressive escalation and a brutal massacre perpetrated by the criminal Zionist enemy against civilians in the south, through the targeting of a house on the outskirts of Ansar town in southern Lebanon and a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786798491187,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-13",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonStatement issued by Hezbollah:Lebanese people awoke at dawn today to the sound of an aggressive escalation and a brutal massacre perpetrated by the criminal Zionist enemy against civilians in the south, through the targeting of a house on the outskirts of Ansar town in southern Lebanon and a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786760995910,
     "type": "airstrike",
     "location": "Lebanon",
@@ -265006,6 +265036,66 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1786798499451,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Trump recognized Resistance Front in MoU signed with Iran: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad-Bagher Ghalibaf says US President Donald Trump had given the US recognition to the Axis of Resistance by signing the Islamabad Memorandum of Understanding (MoU) that included an end to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786798483867,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Trump recognized Resistance Front in MoU signed with Iran: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad-Bagher Ghalibaf says US President Donald Trump had given the US recognition to the Axis of Resistance by signing the Islamabad Memorandum of Understanding (MoU) that included an end to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786798429940,
+    "type": "missile",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Trump recognized Resistance Front in MoU signed with Iran: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad-Bagher Ghalibaf says US President Donald Trump had given the US recognition to the Axis of Resistance by signing the Islamabad Memorandum of Understanding (MoU) that included an end to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786798465611,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Trump recognized Resistance Front in MoU signed with Iran: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad-Bagher Ghalibaf says US President Donald Trump had given the US recognition to the Axis of Resistance by signing the Islamabad Memorandum of Understanding (MoU) that included an end to...",
+    "media": [],
     "verified": false
   }
 ]
