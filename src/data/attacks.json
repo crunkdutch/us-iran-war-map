@@ -112998,6 +112998,81 @@
     "media": []
   },
   {
+    "id": 479270423,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Islamic_RepublicIranian Parliament Speaker Mohammad Bagher G...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIranian Parliament Speaker Mohammad Bagher Ghalibaf:During the last attack on the southern suburb, I halted the negotiations and announced that we would strike the Zionist entity that night, and if it responded, we would strike the entire region.As a result, they lifted the blockade that same night, whereas under the understanding, it was supposed to be opened after 30 days.When Trump posted a tweet saying that the blockade and the Strait of Hormuz would both be opened that nigh",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/e441331111.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/G0E3KYnw0U_SlXSSoJLbXQzz9DTPbTL09Qop0m0wP_Pga16QuDtVUvmrOPNSRSRJJAR2VVvI9HFUtZ4eSfM9ByOkjzjV9fsuQZeRPduRkcsTpW2NdjCdaIwcPvfe8WJVt-OXrzwfDG3_7Vak4m1vr6hMk_yQSzmE-GAHKEhavDgAH7UW5e8MsD4SA--0nRq6R7gKTXSfdsdYbwucO_hlrGNUlISx2bpVBc4Bwwatwr_3pUY66kPAz3kPjmUBtUiWBU_mc2p3rKQwrBYbCeuPTXbru8S_DFqGSuemnSmibi114zR7aFLdqqrMmbqr72SvE41aR42yDtQwewTax1B1vA"
+      },
+      {
+        "url": "https://t.me/enemywatch/60947",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/G0E3KYnw0U_SlXSSoJLbXQzz9DTPbTL09Qop0m0wP_Pga16QuDtVUvmrOPNSRSRJJAR2VVvI9HFUtZ4eSfM9ByOkjzjV9fsuQZeRPduRkcsTpW2NdjCdaIwcPvfe8WJVt-OXrzwfDG3_7Vak4m1vr6hMk_yQSzmE-GAHKEhavDgAH7UW5e8MsD4SA--0nRq6R7gKTXSfdsdYbwucO_hlrGNUlISx2bpVBc4Bwwatwr_3pUY66kPAz3kPjmUBtUiWBU_mc2p3rKQwrBYbCeuPTXbru8S_DFqGSuemnSmibi114zR7aFLdqqrMmbqr72SvE41aR42yDtQwewTax1B1vA"
+      }
+    ]
+  },
+  {
+    "id": 479273396,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Gulf of Oman, Bahrain, Oman: Media Supply problems began aboard aircraft",
+    "location": "Gulf of Oman, Bahrain, Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "U.S. Media: Supply problems began aboard the U.S. aircraft carrier USS Abraham Lincoln after an Iranian missile and drone attack on a U.S. naval base in Bahrain at the beginning of the war, which destroyed a major logistics hub that the Navy had relied on for decades. The United States was therefore forced to relocate its supply hub to the British island of Diego Garcia, approximately 2,200 miles from the area of operations in the Gulf of Oman. This contributed to shortages of essential supplies",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479243711,
     "type": "drone",
     "status": "confirmed",
