@@ -113381,6 +113381,70 @@
     "media": []
   },
   {
+    "id": 479291255,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Israel: Enemy_MediaIsraeli Media Several Israeli soldiers were",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" Media: Several \"Israeli\" soldiers were wounded after an attack involving a booby-trapped loitering drone that struck them directly in the Ali Al-Taher area in southern Lebanon.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479294235,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Israel: Enemy_MediaIsraeli Occupation Army RadioFurther details rega...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" Occupation Army Radio:Further details regarding the incident in which three \"Israeli\" military personnel were wounded tonight:The incident involved a booby-trapped drone launched by Hezbollah elements toward the forces at around 2:30 a.m. in the Ali Al-Taher ridge.This is the third booby-trapped drone launched by Hezbollah elements toward this ridge in recent weeks, in addition to other drones launched for intelligence-gathering and surveillance purposes.The wounded soldier",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479282321,
     "type": "missile",
     "status": "confirmed",
