@@ -112870,6 +112870,38 @@
     ]
   },
   {
+    "id": 479255573,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran, Strait of Hormuz: Strait Hormuz only opened closed Irans",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Strait of Hormuz can only be opened or closed by Iran’s command: Official📌 Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, has rejected US President Donald Trump’s claims regarding the Strait of Hormuz, stressing that Iran retains authority over the strategic waterway.Gharibabadi said on Saturday that the Strait of Hormuz could be seized neither by social media posts, aircraft carriers, official orders, nor by campaign speeches. He added ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479243711,
     "type": "drone",
     "status": "confirmed",
