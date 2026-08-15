@@ -112870,6 +112870,134 @@
     ]
   },
   {
+    "id": 479243711,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Fars, Doha, Lebanon: Southern Lebanon Israeli forces attempt infiltration",
+    "location": "Fars, Doha, Lebanon, Israel",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Southern Lebanon | Israeli forces attempt infiltration near Ali Al-Taher:In the past hours, Israeli occupation forces attempted to advance and infiltrate an underground Hezbollah facility at Ali Al-Taher hill in southern Nabatieh. According to field sources, during the advance, an Israeli armored vehicle was struck by a Hezbollah anti-tank guided missile (ATGM), reportedly killing or wounding personnel inside. The Israeli forces responded with airstrikes, artillery fire, and small-arms fi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479246675,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Yemen, Israel: Text congratulatory statement from Ansar Allahs",
+    "location": "Lebanon, Yemen, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Text of a congratulatory statement from Ansar Allah’s Political Bureau to the leadership of Hezbollah on the 20th anniversary of the historic July VictoryIn the name of Allah, the Most Gracious, the Most MercifulWe extend our sincere congratulations and blessings to the Secretary-General of Hezbollah, the Mujahid Sheikh Naim Qassem, may Allah preserve him, and to the Lebanese Islamic Resistance on the 20th anniversary of the historic July Victory in confronting the Israeli enemy entity, w",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479249640,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Syria, Israel: Syrian sources reported that Israeli regime",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇾| Syrian sources reported that Israeli regime forces launched an incursion with a military column consisting of 8 armored and military vehicles toward the Hawd al-Yarmouk area in the western countryside of Daraa. At the same time, extensive and intensive flights by reconnaissance and combat drones were reported in the skies over the area.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479252606,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "Unknown Interception — Camp Buehring, Kuwait: American sources confirm Iranian strike forces",
+    "location": "Camp Buehring, Kuwait",
+    "coordinates": [
+      28.95,
+      47.5833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 5,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— American sources confirm Iranian F-5 strike on U.S. forces in Kuwait:Retired U.S. Air Force General Glen VanHerck has confirmed that Iranian F-5 fighter jets penetrated Kuwaiti airspace and bombed Camp Buehring, a U.S. military base in Kuwait, during the opening phase of the Iran-U.S. war. VanHerck described the incident as an “alarm bell”, noting that it was the first time in decades that U.S. forces had been subjected to such an aerial attack. He also acknowledged that the incident exposed s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

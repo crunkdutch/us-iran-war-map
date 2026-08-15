@@ -264706,5 +264706,80 @@
     "description": "🇾🇪 | Yemeni Armed Forces spokesperson: The Yemeni Armed Forces, by the grace of Allah, successfully targeted Saudi enemy troop concentrations, weapons, and warships belonging to its proxies and mercenaries in the Al-Mukha area using a large number of ballistic missiles. The strikes as precise, res...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786760995910,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-14",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Text of a congratulatory statement from Ansar Allah’s Political Bureau to the leadership of Hezbollah on the 20th anniversary of the historic July VictoryIn the name of Allah, the Most Gracious, the Most MercifulWe extend our sincere congratulations and blessings to the Secretary-General of H...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786761011187,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-14",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Text of a congratulatory statement from Ansar Allah’s Political Bureau to the leadership of Hezbollah on the 20th anniversary of the historic July VictoryIn the name of Allah, the Most Gracious, the Most MercifulWe extend our sincere congratulations and blessings to the Secretary-General of H...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786761083884,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-14",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Text of a congratulatory statement from Ansar Allah’s Political Bureau to the leadership of Hezbollah on the 20th anniversary of the historic July VictoryIn the name of Allah, the Most Gracious, the Most MercifulWe extend our sincere congratulations and blessings to the Secretary-General of H...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786761058771,
+    "type": "drone",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾| Syrian sources reported that Israeli regime forces launched an incursion with a military column consisting of 8 armored and military vehicles toward the Hawd al-Yarmouk area in the western countryside of Daraa. At the same time, extensive and intensive flights by reconnaissance and combat dron...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786761026766,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾| Syrian sources reported that Israeli regime forces launched an incursion with a military column consisting of 8 armored and military vehicles toward the Hawd al-Yarmouk area in the western countryside of Daraa. At the same time, extensive and intensive flights by reconnaissance and combat dron...",
+    "media": [],
+    "verified": false
   }
 ]
