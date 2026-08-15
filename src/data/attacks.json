@@ -112966,6 +112966,38 @@
     "media": []
   },
   {
+    "id": 479267451,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-13",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Minab, Hormozgan, Israel: Irans envoy criticizes days silence international",
+    "location": "Minab, Hormozgan, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 168,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran’s envoy criticizes 168 days of silence by international organizations over Minab crime📌 Moscow, IRNA — Iran’s Ambassador to Russia Kazem Jalali has criticized 168 days of silence by international organizations regarding the US crime of killing 168 students and staff of the Minab school, Hormozgan Province, southern Iran.It has been 168 days since that fateful Saturday, and the calendar still marks a bloody tally, Jalali wrote on his X account on Saturday.​Each day marks a new wound, sym",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479243711,
     "type": "drone",
     "status": "confirmed",

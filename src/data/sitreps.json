@@ -264753,6 +264753,71 @@
     "verified": false
   },
   {
+    "id": 1786780890871,
+    "type": "airstrike",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "date": "2026-08-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 In photos: Iran Pro League kicks off in Tabriz📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ooxMibRJRjjnODX6JZzuU0SPc50OA3N74ECw9wYkcpLSkTOtkNPNV_Nr11Uy1SGz3OK6AL06yTlTJ8HdxozTN3I9Hlc4YJOUEdg0BzwNlOfRJFO7JkUt6WH8hVAUzViTywhpVGUhceTH8cUjqgR9d3dOCfC5vB8Z1zD8tfaDG7loa5scGtGGS7-a8O-yYYZzQVQjcAVVrLw3owYtHU1kZBm7W5FoybQSlOFudInWH78EF4eZlZSxh-mQgtc_y037TC6_KDAvXV9OZu6D4AgSqFkRSEo5va2_Wdcuj_ZJu8XYfj93huwZqVnGlfd6v9PvydP9s0OMimd_R9Y1sRNsYg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786780829302,
+    "type": "missile",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-08-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran’s envoy criticizes 168 days of silence by international organizations over Minab crime📌 Moscow, IRNA — Iran’s Ambassador to Russia Kazem Jalali has criticized 168 days of silence by international organizations regarding the US crime of killing 168 students and staff of the Minab school, Hor...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786780875837,
+    "type": "missile",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-08-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran’s envoy criticizes 168 days of silence by international organizations over Minab crime📌 Moscow, IRNA — Iran’s Ambassador to Russia Kazem Jalali has criticized 168 days of silence by international organizations regarding the US crime of killing 168 students and staff of the Minab school, Hor...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786780826530,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran’s envoy criticizes 168 days of silence by international organizations over Minab crime📌 Moscow, IRNA — Iran’s Ambassador to Russia Kazem Jalali has criticized 168 days of silence by international organizations regarding the US crime of killing 168 students and staff of the Minab school, Hor...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786760995910,
     "type": "airstrike",
     "location": "Lebanon",
