@@ -264931,5 +264931,25 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1786789672384,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-14",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 In photos: University of Tehran president’s presser📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Me8K-xlmBR3e-6feYdxic53TD8XNew29mIyTMsJdaE32_QBMtjMYrBWwKq9Jt3H6lQwSPEV1gc8KgUne5M8SaMNwcSoT2v8sm78_EgM4l3P-_4-sXWwxb8dW9bnIVdHa1ZNuc2610N-DtZxeFKNgB9OzU445zEg37pdNR9ki03bDyc4CfkWrGItmsSz_UmatV2wxXttBIJxgrx6OxxsM4MMuEGA_FCulk2YovIfIAx6iG9JeRZOD4Kublc_eP2j7cpStE8oUwVgLx-x4BEvzSiNnXom1qckmxXuKMgzf1JMVeJqAOEbXFihcxIFn9A8YNnKQvhT0YqKJC0ZOrHtkJQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
