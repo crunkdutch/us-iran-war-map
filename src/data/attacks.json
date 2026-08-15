@@ -112,6 +112,38 @@
     ]
   },
   {
+    "id": 479285298,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Doha, Persian Gulf: Iran urges ICRC pursue case three",
+    "location": "Tehran, Doha, Persian Gulf, Qatar, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran urges ICRC to pursue case of three fighter pilots captured by Qatar📌 Tehran, IRNA – Brigadier General Mohammad Bagherzadeh, commander of the Iranian Armed Forces General Staff’s committee for missing personnel, has urged the president of the International Committee of the Red Cross (ICRC) to follow up on the case of three Iranian pilots held in Qatar.General Bagherzadeh, in a letter addressed to Mirjana Spoljaric Egger, stated that credible information indicates three Iranian pilots—who",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 3,
     "type": "naval",
     "status": "confirmed",
