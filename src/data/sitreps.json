@@ -265782,6 +265782,51 @@
     "verified": false
   },
   {
+    "id": 1786886039240,
+    "type": "naval",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-15",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Major General Dr. Mohsen Rezaei, Secretary of the Supreme National Security Council, in a message to Ayatullah Sayyid Mujtaba Khamenei:In the name of Allah, the Most Gracious, the Most MercifulTo the esteemed presence of the Great Leader of the Islamic Revolution and Commander-in-Chief of the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786886096720,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-15",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶| Shahed 136 drones were just launched right now from Southern Iran, possibly targeting vessels in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786886075846,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Ansar Allah, Yemen, is attacking Saudi targets across the border areas. Earlier today, powerful explosions were reported at Saudi military bases in Al-Mokha, Yemen. Now, initial reports indicate that explosions are shaking Saudi border areas, while attack sirens are sounding in Jizan, ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786870729268,
     "type": "airstrike",
     "location": "Tehran",

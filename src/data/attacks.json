@@ -113679,6 +113679,81 @@
     ]
   },
   {
+    "id": 479321100,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Strait of Hormuz: Shahed drones were just launched right",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶| Shahed 136 drones were just launched right now from Southern Iran, possibly targeting vessels in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479324090,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Ansar Allah Yemen attacking Saudi targets",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Ansar Allah, Yemen, is attacking Saudi targets across the border areas. Earlier today, powerful explosions were reported at Saudi military bases in Al-Mokha, Yemen. Now, initial reports indicate that explosions are shaking Saudi border areas, while attack sirens are sounding in Jizan, potentially targeting the oil refinery. These attacks are reportedly continuing in successive waves, with intervals of roughly 30 to 40 minutes between them, causing a large number of casualties. Saud",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8b07b3363b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MelNz6HJBD8OAvFh5jsN-s5rh4B_gygBXdRuthjkSjr46UclMZJM-W85DdAJrJB4bCc1lBd1LCX3N73BoMUB6MFlalAcenYkSQi8GyHnQc4w3CFqbeQwCLBcSR6szfaUX0fBIhbd5oLqlOwL4L824AMKd6MnsJTcqAj1pvNr3NwFEx_S5Sgd9fZjIN2GC_m-QLP-V0cwvxXAXLjrxv5Eh65PCFtiX7Af3mS4C8GiiP9BehuH1yeD1c3kAoz65fMLLbi_79DE9Bs76oNb_ohGVOvW86eKaxwokWxGY6OQb0vA4qEL-ZwF_f7uZ6zo1aOs_B26nTgC9tqZPt1NpY-iKg"
+      },
+      {
+        "url": "https://t.me/enemywatch/60978",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MelNz6HJBD8OAvFh5jsN-s5rh4B_gygBXdRuthjkSjr46UclMZJM-W85DdAJrJB4bCc1lBd1LCX3N73BoMUB6MFlalAcenYkSQi8GyHnQc4w3CFqbeQwCLBcSR6szfaUX0fBIhbd5oLqlOwL4L824AMKd6MnsJTcqAj1pvNr3NwFEx_S5Sgd9fZjIN2GC_m-QLP-V0cwvxXAXLjrxv5Eh65PCFtiX7Af3mS4C8GiiP9BehuH1yeD1c3kAoz65fMLLbi_79DE9Bs76oNb_ohGVOvW86eKaxwokWxGY6OQb0vA4qEL-ZwF_f7uZ6zo1aOs_B26nTgC9tqZPt1NpY-iKg"
+      }
+    ]
+  },
+  {
     "id": 479315123,
     "type": "airstrike",
     "status": "confirmed",
