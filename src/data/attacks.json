@@ -113919,6 +113919,38 @@
     "media": []
   },
   {
+    "id": 479345048,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Unknown Interception — Strait of Hormuz: Enemy_MediaHebrew Channel After sixty days agreement",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 13: After sixty days, no agreement has been reached, not even preliminary terms, and the Strait of Hormuz remains closed while Trump’s efforts have failed. Amid this, sanctions on Iran were lifted for a limited period, billions of dollars flowed into its coffers, and the world discovered the severe shortage the United States faces in both interceptor and offensive missiles. Trump’s threats to annex the Strait of Hormuz were met with Iranian mockery.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479315123,
     "type": "airstrike",
     "status": "confirmed",
