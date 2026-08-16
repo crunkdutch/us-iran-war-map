@@ -265678,5 +265678,36 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1786864120714,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "People in Germany and South Korea took to the streets to protest Western military support for the Israeli regime.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1187db2610.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ATJJ_z6vy29cEMdqjUj11oGJjVkHgrfbdM83t819FrfMby-9ZoT_-9lc0lpJt8GKzCt6igOao8LgVTer4wp148nVqSILcoeFCRLAb1JetqU1VDjDWHmS8bXfABl2RlMbqR41MEhq3g0Lljbb3UCVPk4IuVTs4RckZPQSsqW6XbqUA70s29TAGJy02sT__b-sNFSRYJEXyvo_BOiXKsOk7_jpvucgn7GkWjLrzmLIiQ8BCXzZiBMq3AHI38CLTecOFHTqCCfma8rPwwTo9OhKlkjGOS48X6btnci1HJaIBfYPDhdRtM4eS6IAE1X0qQZu5cS6vaiLFBf8fdw5zxkiAQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/37981?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ATJJ_z6vy29cEMdqjUj11oGJjVkHgrfbdM83t819FrfMby-9ZoT_-9lc0lpJt8GKzCt6igOao8LgVTer4wp148nVqSILcoeFCRLAb1JetqU1VDjDWHmS8bXfABl2RlMbqR41MEhq3g0Lljbb3UCVPk4IuVTs4RckZPQSsqW6XbqUA70s29TAGJy02sT__b-sNFSRYJEXyvo_BOiXKsOk7_jpvucgn7GkWjLrzmLIiQ8BCXzZiBMq3AHI38CLTecOFHTqCCfma8rPwwTo9OhKlkjGOS48X6btnci1HJaIBfYPDhdRtM4eS6IAE1X0qQZu5cS6vaiLFBf8fdw5zxkiAQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/37982?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BEM2HI7eiGpmAwogefCpffl1Xy3v6HaqhyIfw_0NnibJE0ScKyBEllYtE19Nk5F4ke3_4N05b4mMDQrbENCTtVE5NsJM3Iz2o61GcUlPJgaMDQX3f3p9Lpv9qAfJTRadaXqLXvaG17c6nojU3eG2njT5TMFE0_VZ5mf-7eioH_3h8J6_m3kr9KfQHqViTzuvE2OEhS316_IQAa2hCbS22ra9oj_3YwhMRjzCO3BLZmMX6II9kjnRbpJvGCVViYNWpUpShxJUj8AZ5vSSvtllag_Y9LEtqCzuukOldTFt_afeNeBbyGE5Dp3a6qzI3JMIgej4RcjJbnbWEVd3SvWN8Q"
+      }
+    ],
+    "verified": false
   }
 ]

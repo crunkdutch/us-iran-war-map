@@ -113642,6 +113642,43 @@
     "media": []
   },
   {
+    "id": 479312136,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel, Gaza Strip: Germany South Korea protest against Israeli",
+    "location": "Tehran, Israel, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Germany, South Korea protest against Israeli regime📌 Tehran, IRNA — Thousands of people in Germany and South Korea have held demonstrations in opposition to Western governments’ military support for the Israeli regime.According to the Palestinian news agency Shehab, demonstrations were held in Berlin, the capital of Germany, protesting military support for the Israeli regime and expressing solidarity with the Palestinian people.​Meanwhile, in Seoul, the capital of South Korea, hundreds of pr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Me8K-xlmBR3e-6feYdxic53TD8XNew29mIyTMsJdaE32_QBMtjMYrBWwKq9Jt3H6lQwSPEV1gc8KgUne5M8SaMNwcSoT2v8sm78_EgM4l3P-_4-sXWwxb8dW9bnIVdHa1ZNuc2610N-DtZxeFKNgB9OzU445zEg37pdNR9ki03bDyc4CfkWrGItmsSz_UmatV2wxXttBIJxgrx6OxxsM4MMuEGA_FCulk2YovIfIAx6iG9JeRZOD4Kublc_eP2j7cpStE8oUwVgLx-x4BEvzSiNnXom1qckmxXuKMgzf1JMVeJqAOEbXFihcxIFn9A8YNnKQvhT0YqKJC0ZOrHtkJQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
