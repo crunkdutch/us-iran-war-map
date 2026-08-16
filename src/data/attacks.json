@@ -113578,6 +113578,38 @@
     "media": []
   },
   {
+    "id": 479306165,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Tehran, Lebanon, Israel: Israeli forces launch artillery phosphorus attacks",
+    "location": "Tehran, Lebanon, Israel, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Israeli forces launch air, artillery, and phosphorus attacks on southern Lebanon📌 Tehran, IRNA – Israeli forces have launched airstrikes as well as artillery and heavy-machine-gun fire against areas in southern Lebanon’s Nabatieh district, using phosphorus shells.Al Mayadeen network’s correspondent in southern Lebanon reported that Israeli warplanes targeted an area between Ali al-Taher and al-Dabsha in the Nabatieh district.​Israeli occupation forces simultaneously fired heavy machine guns ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
