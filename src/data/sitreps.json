@@ -265917,6 +265917,81 @@
     "verified": false
   },
   {
+    "id": 1786903812364,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew Newspaper: The incident that occurred over the weekend, which is considered one of the most serious incidents since the ceasefire came into effect, once again demonstrated that despite the ongoing attacks against Hezbollah’s leaders and infrastructure, the organiz...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786903731633,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew Newspaper: Thirty-two years after his father was wounded in the Sujud area in southern Lebanon, the soldier (A) was seriously wounded by the explosion of a booby-trapped drone belonging to Hezbollah in the Ali Al-Taher area on Saturday morning.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786903824805,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: The \"Israeli\" army is preparing for the possibility of several days of fighting in Lebanon. The current tensions with Hezbollah come amid the military operations being carried out by the army in the Ali Al-Taher area.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786903747470,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: The \"Israeli\" army is preparing for the possibility of several days of fighting in Lebanon. The current tensions with Hezbollah come amid the military operations being carried out by the army in the Ali Al-Taher area.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786903734735,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 14: The assessment in the \"Israeli\" army is that Hezbollah will continue fighting to defend the Ali Al-Taher area.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786870729268,
     "type": "airstrike",
     "location": "Tehran",

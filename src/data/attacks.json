@@ -113786,6 +113786,107 @@
     ]
   },
   {
+    "id": 479333066,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Lebanon, Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaper Israeli army",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper : The \"Israeli\" army and defense industries have tested more than one hundred different solutions designed to counter and intercept Hezbollah’s booby-trapped gliders, some of which have been moved to the field-testing stage. Among these solutions is the “Iron Drone Raider” system, which has been deployed in southern Lebanon and consists of a radar and an interceptor drone that launches a net at the hostile drone. The system has been operated as part ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479336060,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Lebanon: Enemy_MediaYedioth Ahronoth Hebrew Newspaper incident that",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew Newspaper: The incident that occurred over the weekend, which is considered one of the most serious incidents since the ceasefire came into effect, once again demonstrated that despite the ongoing attacks against Hezbollah’s leaders and infrastructure, the organization still retains the capability to launch booby-trapped drones and establish strike forces in southern Lebanon.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479339055,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: Enemy_MediaHebrew Channel Israeli army preparing possibility",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 12: The \"Israeli\" army is preparing for the possibility of several days of fighting in Lebanon. The current tensions with Hezbollah come amid the military operations being carried out by the army in the Ali Al-Taher area.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O09xi_HqIiSrdh4tTbVA0MPBzBK8rQ4aNtCVi7G5NkXDij0JQ63eulv6WYOeJEpN7aOb2zV2pouvzey6gx9QJqaRQztB-X6GgGvg9HxSeo2x80vtgogMrI722U00tM5rtqgnjFoy1052-KwSSWzLEE6zmiwWyyMYczckcR666J3f2qdHybCMpf81QEhcAgt-lKsiaLodoXmTFgcKEjZQl91sp8rSRzrW_EM4YbMSWkGGe3uUnAA4NsjbaDwfqPWCCtEyO18Pp8O7d22t1fSrVorObQXIgeTTi96b2J6qH-0VK7koc5F1fw3XkEBFkLwnRmGolFuYhdYUmUwAMAoIFA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 479315123,
     "type": "airstrike",
     "status": "confirmed",
