@@ -113445,6 +113445,38 @@
     "media": []
   },
   {
+    "id": 479297216,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-14",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Gaza City, Lebanon, Iraq: UpdatesLebanonIsraeli terror forces carried series attacks",
+    "location": "Gaza City, Lebanon, Iraq, Israel, Gaza Strip",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | Updates:LebanonIsraeli terror forces carried out a series of attacks across southern Lebanon, with artillery shelling targeting Al-Mansouri, Ali Al-Taher, Wadi Al-Hujeir, Aytaoun, Mays Al-Jabal, Al-Dabsha, Zawtar Al-Sharqiya, Wadi Al-Mansouri, Sarbin, Wadi Zibqin, and other areas. Airstrikes were reported on Nabatieh Al-Fawqa, Ali Al-Taher, Ansar, and Deir Al-Zahrani, while explosions were reported in Hadatha, Zawtar Al-Sharqiya, Deir Siriane, Mushaa Al-Mansouri, Al-Taybeh, Kafr Tebnit, Tal",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479282321,
     "type": "missile",
     "status": "confirmed",

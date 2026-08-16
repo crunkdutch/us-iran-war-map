@@ -265313,6 +265313,81 @@
     "verified": false
   },
   {
+    "id": 1786855290419,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-08-14",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:LebanonIsraeli terror forces carried out a series of attacks across southern Lebanon, with artillery shelling targeting Al-Mansouri, Ali Al-Taher, Wadi Al-Hujeir, Aytaoun, Mays Al-Jabal, Al-Dabsha, Zawtar Al-Sharqiya, Wadi Al-Mansouri, Sarbin, Wadi Zibqin, and other areas. Airstrikes we...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786855332340,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-14",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:LebanonIsraeli terror forces carried out a series of attacks across southern Lebanon, with artillery shelling targeting Al-Mansouri, Ali Al-Taher, Wadi Al-Hujeir, Aytaoun, Mays Al-Jabal, Al-Dabsha, Zawtar Al-Sharqiya, Wadi Al-Mansouri, Sarbin, Wadi Zibqin, and other areas. Airstrikes we...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786855340087,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-14",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:LebanonIsraeli terror forces carried out a series of attacks across southern Lebanon, with artillery shelling targeting Al-Mansouri, Ali Al-Taher, Wadi Al-Hujeir, Aytaoun, Mays Al-Jabal, Al-Dabsha, Zawtar Al-Sharqiya, Wadi Al-Mansouri, Sarbin, Wadi Zibqin, and other areas. Airstrikes we...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786855327891,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-14",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:LebanonIsraeli terror forces carried out a series of attacks across southern Lebanon, with artillery shelling targeting Al-Mansouri, Ali Al-Taher, Wadi Al-Hujeir, Aytaoun, Mays Al-Jabal, Al-Dabsha, Zawtar Al-Sharqiya, Wadi Al-Mansouri, Sarbin, Wadi Zibqin, and other areas. Airstrikes we...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786855294343,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-14",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:LebanonIsraeli terror forces carried out a series of attacks across southern Lebanon, with artillery shelling targeting Al-Mansouri, Ali Al-Taher, Wadi Al-Hujeir, Aytaoun, Mays Al-Jabal, Al-Dabsha, Zawtar Al-Sharqiya, Wadi Al-Mansouri, Sarbin, Wadi Zibqin, and other areas. Airstrikes we...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786791881927,
     "type": "airstrike",
     "location": "Tehran",
