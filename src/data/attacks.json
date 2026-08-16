@@ -113610,6 +113610,38 @@
     "media": []
   },
   {
+    "id": 479309150,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Golestan: ministrys priority ensure sustainable communications Iran",
+    "location": "Golestan",
+    "coordinates": [
+      36.8,
+      54.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 ICT ministry’s priority was to ensure sustainable communications in Iran during war: Minister📌 Gorgan, IRNA – Iran’s Minister of Information and Communications Technology (ICT) Sattar Hashemi says his ministry made every effort to maintain communications services during the recent war despite damage to some infrastructure across the country.Hashemi made the remarks on Saturday evening during a meeting with Ayatollah Seyyed Kazem Nourmofidi, the Leader’s representative in Golestan Province, n",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
