@@ -144,6 +144,38 @@
     "media": []
   },
   {
+    "id": 479327081,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Minab, Gilan: Iran vows pursue deadly attack Minab",
+    "location": "Tehran, Minab, Gilan, Israel, Egypt, Cairo",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran vows to pursue deadly US attack on Minab school through international forums📌 Tehran, IRNA – The Office for the Protection of the Interests of the Islamic Republic of Iran in Egypt has stressed that Tehran will utilize all its diplomatic and legal capabilities to address the US attack on the Minab school in international forums.On Sunday, the Interests Section in Cairo issued a statement marking 168 days since the Minab atrocity on the first day of the US-Israeli-imposed war.​The statem",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 3,
     "type": "naval",
     "status": "confirmed",
