@@ -266166,5 +266166,25 @@
     "description": "🔻 Iran’s Army chief warns US forces not allowed in Persian Gulf, Sea of Oman, Strait of Hormuz📌 Tehran, IRNA — Commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami, has issued a stern warning against any military mischief by the United States, saying the only way for the Ame...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1786897166231,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iran's Army chief: Any individual who kills an American aggressor force will receive a reward equivalent to &#036;30,000 or 5 billion tomans.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/utuQmlbwgYqyTyr1R4mzwV7Bv6HfPx8PcvjbkrZehF2pbkQ7t5Xn0yArqgJntTLskmkWGeoJr2v8kLCPunFzzaR3plhUxZxxcsSdgFFPwifNIfHOe1hwYCMFDcJZpbJHFNd9lQ6GJuiXsBKYU-3tkScTofdPM2SoW6_oIf56fiIxICH4M_XrZY7ZrbR5gv66ZFxRfrui1Jk8yc0fNcaKmOnlYSXXGD5hw-XGk1GwxcPQ4bH_ddL03VxXxKhD331VfafTzB_CUbMy0Yxd1JV0eWJMHRmbQyZenR7UKa32PZItBgVBqWXLAfXFe3XKyqojpIq1F286j7wmfGO4_0biuA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]

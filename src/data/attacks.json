@@ -113891,6 +113891,38 @@
     "media": []
   },
   {
+    "id": 479330073,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-16",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Tehran, Yemen, Saudi Arabia: Yemen warns Saudi Arabia against turning",
+    "location": "Tehran, Yemen, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Yemen warns Saudi Arabia against turning country into battlefield📌 Tehran, IRNA – A senior Yemeni official has warned Saudi Arabia against turning Yemen into a battleground while keeping its own territory and interests insulated from the consequences, as fighting between Yemeni forces and Saudi-backed militia intensified in several areas.Abdulaziz bin Habtour, a member of Yemen’s Supreme Political Council, said continued Saudi military deployments and equipment reinforcements in Yemen, along",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
