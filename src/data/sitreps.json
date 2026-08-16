@@ -265388,6 +265388,21 @@
     "verified": false
   },
   {
+    "id": 1786875133411,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-14",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaWalla Hebrew website, citing a senior \"Israeli\" army official familiar with the details: What happened on Saturday was that Hezbollah detected our movements in the Ali Al-Taher area and attacked us with a drone.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786791881927,
     "type": "airstrike",
     "location": "Tehran",
@@ -265711,6 +265726,62 @@
     "verified": false
   },
   {
+    "id": 1786875171060,
+    "type": "airstrike",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "date": "2026-08-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iranian women’s national volleyball team trainingThe final training session of Iran’s women’s national volleyball team before their departure for the Asian Championships was held on August 15, 2026, at Mohammad-Reza Yazdani-Khorram Hall. The session was also attended by Milad Taghavi, President of t...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/JZRwWyA2BjGaE6BRJbYRasL6VElF9FlW5xb-M9ELE7GUXKM3DjTzsBZ9A-CF3PnrSpEAJ8rxFW_mP0NRqbI7WaeLXi9eZ_gcaKY4GrK9QTpOz71H3bslQtpjl8kgkzDVcftapcjToCh5ARyz41Ghis-Re56CXzQcnL293zzOTt9eNU3TX8uTNNwVxO_veFBlrxSSw3fuPTtxf4GIUzmMn514foY4pikWaRaKMnYuJzB32SwBwF1ZZF6PfMYSXY81o1KlD3CMDcxmmV24haLAkfZ0ZgH5V7ElrEzAa1_jvdN-kQDTpV6TW84dsMNBp6SaLEZUrxLUSJdeP0xxgfYATg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/khxahr4MeBrC0Rw3Nf-uuOrYNPAWjmpJxA0-L1MaZyGfZRAwk3P05048vfFwMdxwh8QBzWEpQUc5DtX0llRNHxuojrmF-x1Ik2-fdApxrpf7xdZF6atT_vv5eV8JrQJ2K3YjEEe-BuicbfDo3szbrXM_XpC8KGjeX7qLa9SfWVtRaVfVoQt2wocEknwJBYH9Gxfz2hcD28GB4CPPxZjv6Vm4NR5hHMS3coCPDb6Dd43Z2sP-rgZn120limjcBO7v2OU8_HiH8myRnlCoyIfUF3NszLBOcMMd2HXmWtXDWNDksJy8QtIpFUBcGtaIzBIgOOBLc1tZVH4AMYCDUK6aDg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tktMrFlhbkvPUWSKoV5pcMeQhVCcb31RY0-aMUHX6JSbfYE6szrUPjgSdjzhlzySqFWvCjABEumhW-Ec9f9E3XAsqTgW3afKqTIwn1AQerD-nBljo8qf1XNq9DHC-ycusNu-CkYfPDTQsNgHuUnUY3FdS3RlDNM6Xwmh3emA51rmrjZGRlU9bMQhaOLPjnmbKqUcuJanBSyEGqsNER-gwyWjdu_3s1uk21C59VS6yHoHZYJkN1ZRZ9LZnRhN-o6AvbJcEOoPqmMyx7WggDOm0sDlT3t0qF0r1AySl11GP_Vq5x_LR9OmArM00qGQxMPNh9zq_5FjrD6AO02_oKaAEA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qwkDOuuaXAvpad53Oa8LLMQfg8bD_xFzg9lwyC8dwQK_O75WS_fWfPy1BCbcVoVFcgmzbAYJwV11kRDRmaSwaPFg1u0ZkaFgEGLlzZxzd4b9LLdY2NpQG-NAUQQereGvtgjqXBRP_54r3v9kU7lkdcNrmaL0uEfP22gOhmJ6W1T0kYkfpnWw6LVlw3h5cwHNZ758SA39ZRxSDcI4VaTQULA7b6W5KeZqMHQDBsXWfMkLS34p-dj7ivElgRzQR2bhvCQTzTUiEFGs0SpiV37I-Q2wdo93QG3rQYADlLizzaHoNXV4okgYl8oBemE8mJgtxtCnsfmwzVkrOO9ik78xEA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TATpz0LAL8qmOa5s0LMN8BOTytH3nbenDT1erJ5DFtwaC73McguE3a7rTt0hHnDQrP6-pQuFTOlvx_aptH4P_zYCoAnnHM4VEuSuD40GIIJWFHv2kvj2rdsD2i4jqPDylqAAO9I6VigLHkkTMEaBwkxCiCLclU4YjHktC9VCozzIDU6R0ZY7pqkO3bwC5DqQStzlqQD_0wj7uc2-LjnYpH4yM6jqxICeHBk3ZyTCge0U-4X6vcLWwydJqgbaooLSEa-8zzwjDc9g9gafcWM8aA_d3hkqBFY7A9y9ZFyS0P_X1Qj89oyd6B2qbiwSobyOrAD-Mwk4p9zS_A2-8FiHkw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Zz2lkZGZsW03abpFoNxDkoUL126bshZhayPzf5MQ1zTykwj1yZxyzLNqckcPqxx0VB-CoGalkmN1waf4cwOjrVDUYeg1GH8O6QJVA4etfCqVGm8dJci-1tCPJt8R8F3nPkCUXANz9IKQwY8IEL-E3qFQnhBLQKWKTL0mGzxDbzHVuQoxHodwTXExPfnRVji8YRHOIKUwt4naynJdQYUewxv3TK7xRxlSHEnVqZzCNWWeN2udTvSkKI5mhVj-eWeu8CECGKTBH0JMLSi2iaGO3KPBZX-5TqOgylZYxO_y_T-pe04Qa2JYgZdwriC92jUXmcr_WLowMRpeMijZRETadw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/q0T_vJnKQAEQg2sF4XyQRnbpnCNbpJJVXZbNzW82VzZHCFqijSMNSAjHc8090ohysTvMsn6gg2Sjz093H1ocLYAeX1aX0_tC-SbrnV8eDm6ChCsrBqkBfh_u_UQ7Dy1QfDfHuR-IKuRjZ4VKgRaFqDXd2J-2P_LFpOW3MP3ANuHJefKhVk1S5H95RNoltrNaWkY2aGYtqmAiaeQKzkTftKXwcAkVlbv3Q_-au5mVViM_T9CzBqXmniQHVjjuyBgYLV_51SpID-x4Q0evwo54vRxg_X81eUKjj6GBb_DhMSSUCIpx3WPF5_MNO4tZ-t2NsezYLuuw1P7WLmeKXvZB6Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JZukWevcUIWemNjh59NkAaHMGS-jPVrYVMY2aN95XTu0IY4UQGsev0XxNrqz6UBfy18KvRmPdV0OdgSkpnOfvtpbrPPiO1co6eT1tWEisqjfEx_Lsk8yqUqYTwYUCd8WCcVUNSyHLR3dQq1PxV4LVSnDdLaS6h-eJP1lFLuTGKlosY6g9JBvY-Wnz0Uyyvtj17Pc9mSUZqzFzNU3mpvmvKtNC4vQA0rLQ-E36H5Ni76KyE3X1GI0rrv12IcfBtbAoEI21NdYdOKPLpalm-jx48NChDIdPx8Dt-XyUUawco4-iJuk4lDrksxxMuZFF6M1lyE6OYi3KqY42LAgNEnyjw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/t50TD9xQdvgCwL1jF5CN_m9sbrDYgnGpOjWEePjkTi8R2aybs4pPR10mS9-GvIDbOxlLuVO0G4ZyDYzrQ_j_W2Xqp0mLXzZ6N-T8kYIM1QO4JsDrSQENRxWNWEJOTx49oa1c6vXoTzA4lhmegbWcilS60md56myGOR501QU2MTYJTnP2rsPR8pZvX5l44U-wa3W_QCFkJpDcRgEtIUqGRE88GTLbFgtM0r1MpW49LPmsfICF_Bzdk-PpnH1mXSiASlQEevxgjxnE8ma6hp48jx3fzS4dT1_K62GdTJe4hoOE6YJNJZ0g2J1riLaBIgdyoAhZicevV1eqyCTiCMhP0w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UI_2iagvW8gBEIl1baFW7MtFwgRN4ypqypJIQaXE8iO7dUqp47Mug_oA0Pbgdp_z56WqF2nLKJkeEgUSLaGTyoPCTqQsBEJbur1IBsCg98Ye8u3PMf5ZikQRfcwHGY0F9qIbZpT_MGnrAKxf-f7FBMhiB3LAOnht-MHLu7inwgJuE4vmK0Qhz5iHqVOdf_8UtAcXmRf_r74zSeMdnBRvVpxwi4pAAk1i72Cf4V183R767snXxp3UVL-mXnbZWPAhF5HYtChxVuHNesTstZJZt4e60Ph4Rb4V2kzzVmYcJB5xYAs5L0fpv4OHIVwFWfThW9_sIpklRW_y0sp5n7Yrqw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1786870729268,
     "type": "airstrike",
     "location": "Tehran",
@@ -265764,6 +265835,66 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1786875153891,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Tehran, Qom, Mashhad to host ceremonies marking 40th day after martyred Leader’s funeral📌 Tehran, IRNA – The Office of the Leader of the Islamic Revolution has announced that ceremonies marking the 40th day after the funeral of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786875123768,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Tehran, Qom, Mashhad to host ceremonies marking 40th day after martyred Leader’s funeral📌 Tehran, IRNA – The Office of the Leader of the Islamic Revolution has announced that ceremonies marking the 40th day after the funeral of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786875133440,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Tehran, Qom, Mashhad to host ceremonies marking 40th day after martyred Leader’s funeral📌 Tehran, IRNA – The Office of the Leader of the Islamic Revolution has announced that ceremonies marking the 40th day after the funeral of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786875075473,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Tehran, Qom, Mashhad to host ceremonies marking 40th day after martyred Leader’s funeral📌 Tehran, IRNA – The Office of the Leader of the Islamic Revolution has announced that ceremonies marking the 40th day after the funeral of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali ...",
+    "media": [],
     "verified": false
   }
 ]

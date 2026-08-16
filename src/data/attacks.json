@@ -113679,6 +113679,79 @@
     ]
   },
   {
+    "id": 479315123,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-16",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Mashhad, Israel: Tehran Mashhad host ceremonies marking 40th",
+    "location": "Tehran, Mashhad, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Tehran, Qom, Mashhad to host ceremonies marking 40th day after martyred Leader’s funeral📌 Tehran, IRNA – The Office of the Leader of the Islamic Revolution has announced that ceremonies marking the 40th day after the funeral of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, will be held in Tehran, Qom and Mashhad.A statement issued by the office on Sunday said that commemorative ceremonies for Ayatollah Seyyed Ali Khamenei and his martyred family members will b",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mTwfQud4t99RV7p04YCrRMawiDpQ4DopkiJz_jBXEG7LQMxoNxVLbyOtUONIQZhduT2Kfysuq343Yt_N_-Ui10G_-HA64hWrnZFGBexoChJDOT538LY0MfTkwiX6Th9zo2aMEixutRlnlcrcbadBv1ooWvTAb-kZK7o6p7saduvN2Xy5P5ogVSxS6_H4umm4uBSdLkPoaOivDypJuNnbK47lByY3gyu8Y-Ot-QOsJ9a-q4fWTvr0flv6bXArG5ZkOZ3EOjWxzjtF_hRK1FuO8ZFkS_PQgFMYk2YiQdLNPbOuxHEzIXxvV7lnK5o6kxFif9ZAsJQIoCGkur-sI8_AFw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/rP9Sxxd4u4K-VKJhdnICyGyJUgxkPO1oqHuVC9Ck71F9UHjw-aoEw83jkXHvtXsQc5s-MbzdGUNXYfZ4yRPf8emXnxSDvaxdCAFuAhnsRkXbeuZou0W0sfthJ69UDUOl85VukiRBh6xKXAhOOFv-Bm6eVzcAorzRhFPE8X_q0EAztpupbQaxepL683xwuJWuACDzh2Scs0_ozanFMGb2RLbVK9uK9KgAkYpJYf-gxN5XONAON3svbyW8H_FTWcZq46WFabUjaQSg6NntCHNCDWGJVJu96nzVu5tBnyT6pVyF8Wv2WXMo8NciKfsftiIBkdl4oZ-MJrPzZJKu9Nk9oQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/G2BDWW4UJCmhKJzwZkl2OfjDZG3Z9FZ9007YDZA9e74iBn-QcjRoNYn9o59OC-hcIunid6KMDSPTZM0eyfJFyUnuDvMK8UrUunwlF4ySlIBoi6oNpQWbWCf2K26fW15M4EYNrljjBmV8_jsv8lf8KjHxtgeC45EAmTlGwRQKDAX7Zh5hjvCP33LerUgriIbc-cFPtSTwOnVqqthSDFNsxfeG_XwHa-aBTEawiqQMfqWyQoppq2w_qxv0fCR5nyMcTB-lvqercy_kgheStKcBNHHcoWb8PuiTJdIXRKo-nogSIi8sCYM6t_lAgLMjIl6nTK0XjQV3VXNYuWBjFskuBQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JYHPA2ra01OAZDccKT4bcxd18AeCaplEMKdSn-gDHlIMURWPqwY_laT-xfso7HQcUgFHOgGkYyKG-AFWU9cpMdcI4zzhmq4YcAVUVY9-ZSkEX4hazPqslxIv6PkXHiTxtBOj8_jxjYtyADFiCez8MKhZ-d3xTBvzHoRFlYOZIO9LGUUF3N1m0ye1Ws3mWmnWnlhvZj8SuS6AAEPl-_UArQLl2-wfmhHDlb8a0OPYI-sjrRj8rzCKOs6QBI4FQes0jM9jLg5dFq-0mYCal-mqBWQvQANhBCojJJct6nf7EbeO4RZGnRnXIjI1B7WWhBqeIFvuVK-MhOf_srtvIAODlA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/clvfnnxNc-GWU_zPwgpgQPG-M5kkyGp9aCu65RrJwhJ44zK1yKeC_y1waIrQhPykAiyRqXafl3El198b-z-AONPQtld12aIoBj2wA3yWQyNLQ1YnNAzs49ZT9oU7M5I-6BEjKFZsIrFBFhyAGfAQFPkKp89ACfFOuymBn-eem78hxWMe0IgbTrguTBKFhDn1EfsFxxrqrOeXwdGVLjUGWF454aNvfuAM4ahluy5-9SB2N6qzm4w61BIWJXy04k8ZXPFaXOaKzx6QsG36KSx7G4jFBWWB2EP27loAJFvm1dGOiHo6ayhNESzYuReSIxnK8p0Y_fef73PKiFqBz4tjHQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/R1cCLaGYjYF7b_aMVi7n5vuUqgSIPJkl12_9iYGh0rQ0KgktKRkMdZVoYLYCczSEP_6fA_HJK-ZH83U3sEzrTBlo7uLiaKKnyA1kCm-98Ph4ZSQPG2Gyl-zsHXok2LBQx6H6uvgGNn8R6QvimiJZYPZcgJaRkgDe1ujiZnCA1G7utY7vwzW6yrP4vabjCVPkO2IJN9KGArA9W41NFgyXctC6E9D4QuygCffapmFlI8vFA_vvqJFcRhY0FuUxm-oqeHRchWYTtk_FRH6k839q30Tw9sJPD44CFnLiX0x9krnn2oAUu9lHF37UTZfnVw4x6g1BzGXlFqxpmBJmQ_NS4g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/sgI1rRwYhQnVI_teCHKBxZ3qALdWNSc1JttyOHXq4M_e_UWn0iIUDzqXZKNrgrrros0zxKp2cunMe3xQbfzOsdk7GG8IR9733HzkvfLomGyyANnmK3zrN6_pNsYI2MpMXw7YtmhbnsZnhyCbLYhJOHB-dKbib_oJ4N7RZbKTpBFphxeZHW0iieAsdeXS1cQHyxm1lXl6KV9Xvo9SjnhVfzE2nA3ppHFh2u8G-q5FqS4BleLAZohzj0lM-Om-gEaTjWoeBTEEj0OmNpDOI-emKXZIpb1RM1aV25fzOGch6MbtVQNoti-zfQiqIoGmn97DE6sbfGZtUQuXJtczIhvhBQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vf3M2wif-6yHKtc3eLJGYCe8Q0eh1K6AYqXwlXrme_e8fFyEMqcnJNH0hn37t29orAo_EkWe_TgX8mC-BQHtQ0uthUIx1B6zzljXkHiw1OcKUq0Nh8KNB21WbdvMgixsRdgrEYQx_eWYGEeMCIl_rXDF6MjkP3JHzSILs7Wl599rWhx5P46H0ooJIB-SObszl9EyBTDQ49YTl6tjPT-bGj1q5RQfSHwrh6U1HR-vxqCt06RnSQchc6UP-vsPO4TFNYBcERURkr-ZA9PhXX-KiC0B7PqL1uzAZ2rZC-hjeev5Gz_G6nJW7v7utaGlKrTdu0vbX8nwL-1XYb0rC6NiHQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/FvMAApruQpjhcVrGaFpyXpORm4YCd13bR9JstzC9b9TU6Mb_gOPEq0A0KKrZsOnzX8uyipdpDHT4zg1iXSIl5jJHDRjRoq43kYHZI5-tOvGQZI9CMRgh3k0h7S99d6scWHyuR4zIaA3xts9y9CSXYJg29jr7RGf88JQEt-M7-eFGdKiVidntEAVq4ikfDamKTnyIj869jBPDVJOhtHudK1dHtcYrF-JAYcG1VsH8me2mGyJRkYG0hpY_dpA1HvwaxA0MT0TcW0a4ZxSAI2Qhu0RfMQct5MQBf-LbjmNMfZbxyV5qepGOeWNodTw5D9bhO4RYCwhLV38tJC6hfm6Q9g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ZGeEq-04_SDaj5Cvra3bXelslHrnlD3KvRA3GfRmGb-CZ7NvIS92aTlCDPM0eM61o0xBNjC-9QiUnetoEWjXzZHh3qbpKQAyV7bGncFB02o3kUxsaLGvfXabXwWfW9ZaAJVB4aky803g8cDVvSdj_f1jxxrHTnno3CgxOgfGHoaUiDaXJeeHhannAPyJbwUNDSpi_2GLhWhlGxSDIboNJxwpSU9iY93-oxFtUkIMZ7UYjSJyzGahBYHk56N1eEK3G0Ze0AbmVPB_CWzwbWDWol72Y82OQgfFWdU7SJnT4kadXtqpoTG4G6l9f-RUhJ-Q8_5txTWUY9qglOJmMNBktQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
