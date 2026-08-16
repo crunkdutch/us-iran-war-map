@@ -113752,6 +113752,38 @@
     ]
   },
   {
+    "id": 479318111,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-08-16",
+    "time": "TBD",
+    "title": "Unknown Cyber Attack — Tel Aviv, Strait of Hormuz: Iran managing continuous enemy cyberattacks minister",
+    "location": "Tel Aviv, Strait of Hormuz",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iran managing continuous enemy cyberattacks: ICT minister📌 Gorgan, IRNA – Iran is managing continuous cyberattacks by its enemies amid the country’s wartime conditions, says Minister of Information and Communications Technology Sattar Hashemi.“While the country is facing wartime conditions, we are witnessing cyberattacks by the enemy, but our colleagues are working around the clock to counter the cyberattacks, and our young people and elites have managed these attacks well and securely,” Has",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
