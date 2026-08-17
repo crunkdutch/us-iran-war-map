@@ -114285,6 +114285,38 @@
     "media": []
   },
   {
+    "id": 479375073,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-16",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Strait of Hormuz, Saudi Arabia, Israel: What reasons behind Trumps welcome enthusiasm",
+    "location": "Strait of Hormuz, Saudi Arabia, Israel, Turkey",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— What are the reasons behind Trump’s welcome and enthusiasm for the Saudi-Turkish-Pakistani “Mecca alliance”? And will Erdogan keep his promise not to leave Gaza alone amid the “genocide massacres”?by Abdul Bari Atwan:It was not surprising to us, nor to many others like us, that U.S. President Donald Trump welcomed the tripartite Mecca defense alliance between Saudi Arabia, Turkey, and Pakistan and expressed his great happiness over it, describing it as a “big, bold, and important first step.”T",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479360048,
     "type": "airstrike",
     "status": "confirmed",
