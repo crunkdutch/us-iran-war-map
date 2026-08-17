@@ -114454,6 +114454,38 @@
     "media": []
   },
   {
+    "id": 479378081,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Erbil, Iraq: Iraqi Ministry Foreign Affairs Iraqi Foreign",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iraqi Ministry of Foreign Affairs: The Iraqi Foreign Minister discussed with his Iranian counterpart the attack on the residence of the Prime Minister of the Kurdistan Region.Iran stated that its attacks on the Kurdistan Region were justified by the presence of Iranian opposition parties or factions operating in the region. The Iranian Foreign Minister also stated that he had no information indicating that the attacks on Erbil originated from within Iran.The Iraqi Foreign Minister affirme",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
