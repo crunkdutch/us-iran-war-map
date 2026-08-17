@@ -230,6 +230,51 @@
     "verified": false
   },
   {
+    "id": 1786974263420,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "1990-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran marks 36th anniversary of return of thousands of war captives from Iraq📌 Kermanshah, IRNA – Monday marks the 36th anniversary of the beginning of a multi-stage process to release and repatriate tens of thousands of Iranian captives held by Iraq’s toppled Baath regime during and after the ei...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974340580,
+    "type": "airstrike",
+    "location": "Kermanshah",
+    "coordinates": [
+      34.3,
+      47.1
+    ],
+    "date": "1990-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran marks 36th anniversary of return of thousands of war captives from Iraq📌 Kermanshah, IRNA – Monday marks the 36th anniversary of the beginning of a multi-stage process to release and repatriate tens of thousands of Iranian captives held by Iraq’s toppled Baath regime during and after the ei...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974338251,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "1990-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran marks 36th anniversary of return of thousands of war captives from Iraq📌 Kermanshah, IRNA – Monday marks the 36th anniversary of the beginning of a multi-stage process to release and repatriate tens of thousands of Iranian captives held by Iraq’s toppled Baath regime during and after the ei...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785184791152,
     "type": "airstrike",
     "location": "Qatar",
@@ -763,6 +808,81 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ Two more Palestinians killed in Gaza; death toll rises to 73,3377📌 Tehran, IRNA — With the continuation of the Israeli regime’s brutal aggressions against the Gaza Strip, the total number of martyrs in the enclave has reached 73,377, while 174,185 more injured since October 7, 2023.The Health Mi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974329659,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2023-10-07",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Hamas approves roadmap for Gaza ceasefire’s second phase, urges Israel to fulfill commitments📌 Tehran, IRNA – The Palestinian resistance movement, Hamas, has announced its approval of the roadmap for the second phase of a plan by US President Donald Trump to end Israel’s genocidal war on Gaza, e...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974258672,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2023-10-07",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Hamas approves roadmap for Gaza ceasefire’s second phase, urges Israel to fulfill commitments📌 Tehran, IRNA – The Palestinian resistance movement, Hamas, has announced its approval of the roadmap for the second phase of a plan by US President Donald Trump to end Israel’s genocidal war on Gaza, e...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974268130,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2023-10-07",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Hamas approves roadmap for Gaza ceasefire’s second phase, urges Israel to fulfill commitments📌 Tehran, IRNA – The Palestinian resistance movement, Hamas, has announced its approval of the roadmap for the second phase of a plan by US President Donald Trump to end Israel’s genocidal war on Gaza, e...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974267594,
+    "type": "airstrike",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2023-10-07",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Hamas approves roadmap for Gaza ceasefire’s second phase, urges Israel to fulfill commitments📌 Tehran, IRNA – The Palestinian resistance movement, Hamas, has announced its approval of the roadmap for the second phase of a plan by US President Donald Trump to end Israel’s genocidal war on Gaza, e...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974340265,
+    "type": "airstrike",
+    "location": "Sharm el-Sheikh",
+    "coordinates": [
+      27.9158,
+      34.3299
+    ],
+    "date": "2023-10-07",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Hamas approves roadmap for Gaza ceasefire’s second phase, urges Israel to fulfill commitments📌 Tehran, IRNA – The Palestinian resistance movement, Hamas, has announced its approval of the roadmap for the second phase of a plan by US President Donald Trump to end Israel’s genocidal war on Gaza, e...",
     "media": [],
     "verified": false
   },
@@ -266032,6 +266152,36 @@
     "verified": false
   },
   {
+    "id": 1786974378312,
+    "type": "drone",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-08-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen – The Yemeni Armed Forces, by the grace of Allah, successfully targeted a military landing ship belonging to the Saudi enemy, accompanied by four military boats, in the Red Sea off the coast of Al-Mokha, using a number of ballistic missiles. The hit was accurate and direct, resulting in the s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974383775,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen – The Yemeni Armed Forces, by the grace of Allah, successfully targeted a military landing ship belonging to the Saudi enemy, accompanied by four military boats, in the Red Sea off the coast of Al-Mokha, using a number of ballistic missiles. The hit was accurate and direct, resulting in the s...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786870729268,
     "type": "airstrike",
     "location": "Tehran",
@@ -266344,6 +266494,630 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ President Pezeshkian offers aid to Indonesia after deadly earthquake📌 Tehran, IRNA - President Masoud Pezeshkian has expressed condolences to Indonesia following a devastating earthquake in the country and said Tehran is ready to dispatch humanitarian aid to the affected areas.In a message to In...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974315994,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-08-16",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli aggressions in southern Lebanon in the past hours:Israeli forces carried out artillery shelling targeting Ali Al-Taher, Hadatha, Bani Hayyan, Beit Yahoun, Wadi Al-Hujeir, the outskirts of Al-Qantara toward the valley, and Burj Matlin northeast of Kfarshouba. Airstrikes targeted the ar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974314177,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-16",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli aggressions in southern Lebanon in the past hours:Israeli forces carried out artillery shelling targeting Ali Al-Taher, Hadatha, Bani Hayyan, Beit Yahoun, Wadi Al-Hujeir, the outskirts of Al-Qantara toward the valley, and Burj Matlin northeast of Kfarshouba. Airstrikes targeted the ar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974306122,
+    "type": "drone",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-16",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli aggressions in southern Lebanon in the past hours:Israeli forces carried out artillery shelling targeting Ali Al-Taher, Hadatha, Bani Hayyan, Beit Yahoun, Wadi Al-Hujeir, the outskirts of Al-Qantara toward the valley, and Burj Matlin northeast of Kfarshouba. Airstrikes targeted the ar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974316499,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-16",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli aggressions in southern Lebanon in the past hours:Israeli forces carried out artillery shelling targeting Ali Al-Taher, Hadatha, Bani Hayyan, Beit Yahoun, Wadi Al-Hujeir, the outskirts of Al-Qantara toward the valley, and Burj Matlin northeast of Kfarshouba. Airstrikes targeted the ar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974304481,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Deputy Commander-in-Chief of the Islamic Revolutionary Guard Corps Sardar Izadi:During 50 years of struggle, the martyred Leader did not own even one meter of land. His children were servants of the Revolution and did nothing but what was in the interests of the nation. The martyred Leade...",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/ecbfd7e7a3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/MAqKjfNy42MwRVac2fz8PbFnD8RAZmF-QYCWNl6P7b7sw-15meyyoRWmQp5yJs69sN3acbE8mKmuzPVgqIDe7mhSTnrY85-LCDUIGw91CYPNQ3Y_mxlV0cMAe6xMhpWNPh2pEIjux__I_nPj_XhE7P8V7xa9PupEm6EETCRxXIwlBcnncyo7-jLwmUks6qSiHGt-gHfKVXJVYW21mCKFQnT_nTu5hqTDrravx5f_kzaoTHZkficeIj_8xhBHFHSzW3LSPLK2RLQanr77_5lKCy4hA3fT19Y_JpY9qH4ABXhCi-EyCffVeggSBZYa5esJdlwcjS22Op5Syt9qj0ptxw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61013",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/MAqKjfNy42MwRVac2fz8PbFnD8RAZmF-QYCWNl6P7b7sw-15meyyoRWmQp5yJs69sN3acbE8mKmuzPVgqIDe7mhSTnrY85-LCDUIGw91CYPNQ3Y_mxlV0cMAe6xMhpWNPh2pEIjux__I_nPj_XhE7P8V7xa9PupEm6EETCRxXIwlBcnncyo7-jLwmUks6qSiHGt-gHfKVXJVYW21mCKFQnT_nTu5hqTDrravx5f_kzaoTHZkficeIj_8xhBHFHSzW3LSPLK2RLQanr77_5lKCy4hA3fT19Y_JpY9qH4ABXhCi-EyCffVeggSBZYa5esJdlwcjS22Op5Syt9qj0ptxw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786974306465,
+    "type": "missile",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-08-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | A new missile barrage has reportedly targeted Saudi positions in the Bab al-Mandab Strait. Ansar Allah is reported to have launched two missiles toward the area, targeting hostile vessels. Yemeni media aligned with Saudi Arabia reported that a vessel in Bab al-Mandab, owned by an indiv...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974297422,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | A new missile barrage has reportedly targeted Saudi positions in the Bab al-Mandab Strait. Ansar Allah is reported to have launched two missiles toward the area, targeting hostile vessels. Yemeni media aligned with Saudi Arabia reported that a vessel in Bab al-Mandab, owned by an indiv...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974230997,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | A new missile barrage has reportedly targeted Saudi positions in the Bab al-Mandab Strait. Ansar Allah is reported to have launched two missiles toward the area, targeting hostile vessels. Yemeni media aligned with Saudi Arabia reported that a vessel in Bab al-Mandab, owned by an indiv...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974308944,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC: The Islamic Revolutionary Guard Corps issued a statement on the occasion of 26 Mordad (August), the anniversary of the return of the heroic prisoners and liberated captives to the Islamic homeland, stating:The heroic liberated captives are teachers of resistance and steadfastness, and a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974291467,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟦 | Khatm al-Anbiya HQBrigadier General Ibrahim Zulfiqari:We will not stand idly by in the face of the maritime blockade; our options for escalation in the Strait of Hormuz are now ready for immediate implementation.Only a few days remain for diplomacy; if the deadline passes without a response, th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974351474,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Israeli security minister set ‘nightly quota’ for Gaza killings: Iran’s deputy FM📌 Tehran, IRNA – Iranian Deputy Foreign Minister Kazem Gharibabadi says the Israeli regime’s security minister set a nightly quota for killings in the Gaza Strip, stressing that the remarks should be preserved for f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974349785,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Israeli security minister set ‘nightly quota’ for Gaza killings: Iran’s deputy FM📌 Tehran, IRNA – Iranian Deputy Foreign Minister Kazem Gharibabadi says the Israeli regime’s security minister set a nightly quota for killings in the Gaza Strip, stressing that the remarks should be preserved for f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974353190,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Israeli security minister set ‘nightly quota’ for Gaza killings: Iran’s deputy FM📌 Tehran, IRNA – Iranian Deputy Foreign Minister Kazem Gharibabadi says the Israeli regime’s security minister set a nightly quota for killings in the Gaza Strip, stressing that the remarks should be preserved for f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974340399,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Double podium for Iran in Asian U23 3x3 basketball: Boys silver, girls bronze📌 Tehran, IRNA — The Asian U23 3x3 Basketball Nations League concluded with Iran’s boys’ team finishing as runners-up and the girls’ team securing third place.The Asian U23 3x3 Basketball Nations League competitions wer...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974280382,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei dismisses ‘fabricated’ reports of backchannel talks between US and IRGC📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974289643,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei dismisses ‘fabricated’ reports of backchannel talks between US and IRGC📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974323004,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei dismisses ‘fabricated’ reports of backchannel talks between US and IRGC📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974296555,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-08-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei dismisses ‘fabricated’ reports of backchannel talks between US and IRGC📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974282288,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei dismisses ‘fabricated’ reports of backchannel talks between US and IRGC📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974325696,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei dismisses ‘fabricated’ reports of backchannel talks between US and IRGC📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974289164,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei dismisses ‘fabricated’ reports of backchannel talks between US and IRGC📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the repo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974352779,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 File photos: Iran marks 36th anniversary of return of war POWs from Iraq📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/slbqqkgVs-n3YL3ReglBFWrz1vYTyxcdDY6KXax4S0P7ahaJMnSVeqTO9eualRuDegvx24JI-tC21IHJLkoI_H2RfNUWksGe0F_F7j6BoJ6cMaLsCrkelO8Fmecg_Ri_y2jC-FdIRXvqn0oCWPexWCqyhZA6TsQ0oQVyQx_MI9djG3qCQOA3SR3fbGrs6PdbwHx4kab4SOUm8CmE0tTlO1UA-YfyP2iX7k8i6K1qf6Euu33SQgn_JI5Edioqp4ryD8k13iAJXH2gcXcbKACzv0N1fZ1q0HkPKRRhQIShYnqoRUHuOHcTDRetXkPLxIEPkia1F4bUk5Bxj5rLLzWY3w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786974307811,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iran marks 36th anniversary of return of war POWs from IraqOn August 17, 2026, Iran marked the 36th anniversary of the start of the multi-stage return of its citizens held captive by the ousted Iraqi Baath regime during and after the eight-year Iran–Iraq War of the 1980s.https://en.irna.ir/photo/862...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/NYeD1UqhYu1wta2s8xDyWvNn_ZxIlheUqJacuT5d8nOzD6XUNqKWhnB9GcgrukrZHMWD_n4Cfc_ud_e4Cf5DhzrK_OE3_rlB6TlH4Gr7xTTnwSqYcbpSofN2j_L0k6tI_zD26h7Kcoza8b4eJpC33WOqCqp0rAp1ireTD6ZXNzzacMYrGdxJPZHXIERkOXPTgy8JnwoIfPBfyCihUxQrvecE6uh-RYj1ezitEMIbQWFoC97qtwp89-4BrKXH1jdhGh5NGD2iZ58T8MVmctGaXXhdcQEcTGugz5OJ1Qn_JINygLNRkJZ6Qvjk10Tut8ufQAMS4jqDC7l1pincIlaKzQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/sSt4ZHlz1QRF_Sf1lNFpUpS1Z9LghuuCvFbjlxmvHaKdxNFGn0s6Zf_F4l0kUT_SHIdIsq0eX2shc0p0inOJjY7FRhrG2HuKGmPYML28vc9jn286W6v4TGI2dyAOFlbMCeO6ZTQUYcdWC3qDx3fLHrLy-b_1Lo5E8gLI8179yEXP3hnD6pkfLWsFzTYpbUEwzGcysPMF12OHhhzuL4HObbxur-r5N3uFiIYsz9eNYoeK6BSZbuRb1ceP5e_qR6Y9ejFbE2cTuvHZU7qR40mOvsPlAus68lgDQKjlfKSEw2Izt0kFrkG3EtxIx3vJbYn5ADjn22LTjvY415vVCFB8WQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/LqM7WqbGQ4xI8yrTXHCAkEzJ3lsQL45XXMgj6baJDXRPmBsKz9pRrk9_-JYyOZKHi8jKOapOOsLN2mSZ1jOjShE0ZZXMk6AZR4Mr7ElpGtrhVSPZP1Gd1lvBtwf6O4_uOhiJ1gwFuDRDgaEWAgpbu68WH43x8ssFcRf2hYdh6oISOsRRDqlAr0XjdrKDcPXthVO5c6A2yjgP3bGyG9ROqrScI_9_yBctYyguJVh1MGvRD0Fx9Ue3G2Q2lX62WEAazwAYCc-1iwO9aRSlheQKlu8gYkvMxXEZ-6oExByuprxLF0vNBA6q2yu0kcjCa9107jW591M_VuWAoJMQghcAYQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/g3LFY-Qr76q-ENE7B_sE5CAGxzq0407tlUA20QiUh5nV06Z9Tj6DpqAPaFU7qR4sIHb0Etp4daObD8D_iMMsjTZ4Pfs6-ATpHrrwbnKUscaxAjuC91sgtWEYkoHZooN73mmS4pQgq_kwFRNOovP00RXokQJmYXSg2vzt5I0FicDkg7eYDKhdcNphWrg_X0DPK4hnssZ0gXgQVFjeWTBFT6opelq9J0jXneN_cdbLljVSutV-I_9w1zC08ECn7llMTrNF7zI359fkwptpgIHUl29Taq-ejONsZUFacYG0kG0wdS8oM1Yft1a7-aXGLEhIJiwHFg8t7MWW3EKFBAoFRw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MG4ytRxWPzNzVSd9gFfgbTqcWEYkh2jV2aysWYd20VQymplvT-OhCNmd2DDfsz2h7qCqSMrdA07CywHO5RT6rcUXxsVx7nu28Hp8eveqcJmHHKCidhPOB82E51sFZaKpV76C8EGOeRY8SZDum8IYkbD4JYGbUnQYwTHWIyYV9qWGLv9FP_mrOW4zjLMMUf9H8kFJeYVPJHsobyt9FSDXhNWMpoQXw4S-UmlOiQwqOo9g67dTwSojZF3qvoSIVRHR2dtE12EvLg0VyhPi4xX7KyBi9lQNwJgduyoqggaRb8zjlwvB1QXGSTpyKVj6UBAVrtLJnYsIABBpetZGekkqHw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/imFy0M_k_t0jNMxVV_vznc89GQXQX1XchITnuSfnML-AtMVKv63fizoyTfPellUfvPqYEKcw5H71Cykmq60zlp8ZhnBYli0RliDm2iWPewkYziNv4iPRLq8VPQ13-EPJ8ljOg-_-9jpGZkskFohs0iJCKjMtJOUpyDqYWvWfPt20sO5bqXY7eotr1EcHGmUmWfeBiJCIfIhfXl9t6uLVkU0RWjtfRZGlDbv-_GYqOidgzy_lUmaPdbXJ0ovuClIM00LlqdZ50ECyazVOmuKdNHIJFXsmtbMFWzGvSnuHGkvfsjm-V9tZVIKLvXN688xfzsyPoGL1Mkrs_gMBhuytBg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Lzm5M1LNiZjWwVU0sG_DCKofB_v4iHWJnQiHYFq9Nbs812lIrM7dPEAQVQ5DBUq3aoq8fVTTQuj5d5QvpemxJDC2l-nmQJg5YPF8A8jgsnG88tLJCrKumoaDaCgyM3SFK7yIizuJYa3kvCmbS6QwKMr4Sa4bkUyLnuGYm1H45sfpWb6SBltMT38e6mn7RUr4VgKjbmV5JRe9AgsYstFpR8Jv8BW8xdLmVa2ZrYYnw8oh78kGvcEE2QUOeYcjDPhvCQjMSZZ37SxiBdco6nyEE1qvL8msPhfS9Rflvgudpxqm8U064jmz7oOiTNSybfkxqnYRw3NPnE_QGtsNq5jpQQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/FFMpcXauE-lzDv07ZqZiN1oLkvxdWF_aoxCi7tvIjnJfCGeKFg650IL6H1kAibpIWgSxkGiDfDj9iGaJowdzDesBb4ZC9XasOqNrFjDFNxm2jUi1UihekG9gnV_XVV8fhtUbXtPN0qEOcsMEQ9LrL5tEXUQes7-YWm50qFdvdpdSrhd7Gp4ogPSnbDvwheM6JGt7sj_jxojk-mrxdnUXPRyGYxlMpCZYjVbNhVlNWgYW0878c874frMRl_-VpLGhDyiOE9vCz76SmGHEIOScZ_Say8xXdPS2TCN0ME3-BImTTXv27a33zDlHosuQnY05yVEMzUqClccAZqRrb2UvNQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RC9EO1GqNBQjWTocU_fjoUJI8AQLDDY_c7uCrzzsN96wx3XS5RlzY-CpBkpTp_hAmnMfFEuyWwFRaDQPP94BMnfdtd8D1UpW5dq6VzKKu0WzsvGbDs4-rGMPxiacZfgfakviOHqp5AwfgGF0U7hdEDqabvABwZiWE6nefa6nkYeJb5QbhYCMsinBwug5D3DyN_k56QgJ4nVt_bQ8pd0jHzxUOY-ffNbh5_2-RSqwYnoRyeqrais7bSnigtvBaCVqLWIG8G9hikdwzf5HBClldGqex8I2DzPByOhXMkA5Szz5R2s8Gzali5vy-taBnJ9D_571V3V3O4fwmPrXUFIdAA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/H6qFC4cH94voHP3xSK7THBkooR188ZcglbUykotiKdX8AWGM_c4ol4S4-f1i6XeujC--V1uOHCxlP4hHx0X61H6LSpM_GILgMVnGpasM2sO8_alKFKz0pL1I0IGG-1P1YTYW377xU-Dma_LcZD99cyRg404smalWDFXSmIfSyCDkIoscvP4RV7KhOIsmCvxS3zNUl12LgGZ6bGHcaY6bragIS20MJ6V0mUO3HVCLIGTXUWksD3v0DzOnTmksGFEqkvJBBkDvoI4-BnFmIAgu0iNDh2PufG1xaTqaZjddlvCjs4Y5FzVd8Z7Wrg2kVUqOZuXemgtQNoZxpWnnukxSCg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786974313956,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 New flight route launched between Iran and Pakistan📌 Islamabad, IRNA – Iran's Kish Air has launched a new weekly flight route between Mashhad and Karachi, operating every Monday as a round-trip service.The flight departed from the holy city of Mashhad on Monday morning, August 17, with 140 passe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974259886,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 New flight route launched between Iran and Pakistan📌 Islamabad, IRNA – Iran's Kish Air has launched a new weekly flight route between Mashhad and Karachi, operating every Monday as a round-trip service.The flight departed from the holy city of Mashhad on Monday morning, August 17, with 140 passe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974285386,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 New flight route launched between Iran and Pakistan📌 Islamabad, IRNA – Iran's Kish Air has launched a new weekly flight route between Mashhad and Karachi, operating every Monday as a round-trip service.The flight departed from the holy city of Mashhad on Monday morning, August 17, with 140 passe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974258936,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "NPC chief holds press conferenceNational Paralympic Committee President Ghafour Kargari answers reporters’ questions during a press conference at the committee’s conference hall in Tehran on August 17, 2026.https://en.irna.ir/photo/86237502/📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/o7VSYvX8YLLTDSBm9W5-Z3cbB3XWNcX165xrM4-c_bNn5Zyxi9R3U3WdAAu9p0Fy8nvCT-zFZHXwy0A_XxTWAqNrUBy9Vf6TAG0IoL_0bFYx3Nng4d7RTz01Azm0OF6UePRjgSLhmoi6qB_mR-GyiuKUcC1WRQ03Zfku7JCdN06pAk16y9lNdBTHH6ICDcTfKxCJMtZkRsoDzZaD_LZMGxZ6u_KF-ozjCqF8PhnH4amSDOVvYrlY6URmV44uqs18_WV37bUrMeOFCtzTNHIpXc_OcuJTwktlDNHhxi-fPI-gCXbFlQTcMzhgMyuQ33xj0A24bBiHZLVkPmVqsIWI8Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/oG8a0IIYRWKyvBbgON5ijiwcdVH6NKjgfqx_YHpexDTsv6OJ4GG9GEo2hqIYwkFy-aFmowxOAIKtTcN5nC8wLxBuMR490PCfHmMRl8AdFXWJLfzxO2mO8MOchLeLRJ3Gog2Lm3Xy9KJgqP661Ovi7CaEBY9oyobnhYz60Zze5Gg2jGQjWLbJleC8zTDqJbFfphzUs8bTBYY-Lm7_Xjh5DdgYxikQv4WEEjO6xBkoYS5vjLxZNCwYTRSwaJW9HuiqxQKj5DFhIj-VPDaz9m5kKCBYBOY5YpLMfGli9eYCgf3MTehqxCwzYENvEcYfyZKSsvafNX-QvIc0E4V_3MYuDA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/PK1_af3Q2XNVjI3-4tfN29xaPAvS6bdfCP7llBSqsU-3Zk2lbzQqfsTlDNjAt26xQTgzHJznD4I4He1qAw64JjYLFKW9RX0lIDo2PlgiZXq-DVitgjijgxFdAANx395CCSZUhMN7Fpm7wFBv9bix6--Aswrt63z4QaNnYgosVTndYOl3G00CdAX-8Dj9voqgFx7pNY3QFrXJGwFeOzjozB1vgSyTi6EaDUqkEl7wWsVjDUGqEdTj3atLmYwQ_oGjWK2-46qBMZnKdNvsfEbTaj6ABjOD6WO3PE48wB6Z_rsZGyBKuAyVX5YhZI3aWYgdgeVVcpL7fS7V8UCvMe_y4A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/YVoEKfXLsbGAX60OdPeF_TjQLnUgKpbUFrSiagAD2NFPEvNnIgsGAlrPbWpI8GcyaHnzbXyUfqq1GIxhGbGMyz3fll_IZ7NSJKscGXG8GlEec4gYHilY7KHUzmzITz-gpDflbHfbInBOlUKQBFFNUzWFvDGj_YJKFOBn-J2d8wuvyAkfP-FTfjF9wtA28ztkDEH03dXveXyXPhDAPlCapR9JYMdTy8TCUJlwU18eYdHyw6T64b_wOWf4ZGCCm5_mlgfyHlnndfd3X7-BXR5V9KRhQJz3qN8lglo4vysE1gO-KQ2DQwbh-ZwCr8dQQmoHFDTnjGqMw9OWbedU6EZR3Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WjupB96T7a0u2iUaO-cWSE32Q4-jT7Bj6SYyXMKgWVBkeCnORJmmVlmFVmQbzu6xpogw6af0T0JElaGhc1zSOYexuoIs2h8Ohch9dfytuBNzG1ISkVWL33BYQC5kTm2LmQmkZu5PbBEetAIsj9JSPxXxIqzShpBw-KS1YO9iUjSeJHsm85gU5K6U76jOdS32pltZsYKtTbZ3l2SfoNnYqtwbEWsAJG_g4IPzTWOE3LZ0Ppgq7m4KZloZ1wtZ8t5FDdxPT77C7bEe0hlSHG4L7Kkn6ap7XAVvfcwM9OxLfC3AtHc6NelAFGeStbtq8dnAF7Ww2YDzvcwFkIN2Ma4KxA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TB5cJvSUJHAO9MNI68vnllXq1t0gllzPREariEVxtn7bzeQUzdFkQ3EPJwbswhRJIBeyU9pyac8h_gkxJx4rMis3Kj3_5-3ZDm64qqGBaGH2rcZHPUR1VBO5sdU7TpoZ92H_VB7LB1DprtIAqdurIafoqyvxE5jEq0cRgj_Z0_g15WiYWLYZQjhEw6PiBJUy43qb2S55SOfhQEYclBVAIrGzQMZZlhK8dm8fK9plE3t5RP7BxI3ozLP_WnWEat6pyfl1-hfDyAOjXu9K4RYr-_GQxbAuJb5LgA8yzonE8ptM76QCecySrQRKg_nJzFs7VbJBUJz4NHIPmBa8Kx7Eug.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/msvD0pun6wEFbmLWt_-Urel2cmKd61X2DdRM_Cq2gJC6Yzplvfv9ChM2teElZTtyAaVwdwOa3MnfHi0rLL-SB7_GcoRiVzo65N4p8kIbPtGn43CA58D_T92HeWQhXut9SfKlV1ow6JGJ8Fmo2ZGuGVujdaiUnpJvvHtIyNarD8slEB-00J7zmcB7-CotbLEHl_1KT1TLNU-fFBbtHxFQgLkwofEuGtva-E_VfdvNaOZSI4ZDVn7IbpQf9bXrLcyYz2CI8t9znVQt3NbIxSPYvppzO1Q437jSb0cIZguun823g3TQ94pgoNimj1EzW26VKS_0ujDeTK41bwsx5S5qSw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tzUAcDh3Zf_T2KpUXGUuLFlTZFlXae08Bqoe5p1_GeomjUT1WGTD4ynykfYqwluBPA3GagY_NCgXIH6rTLOKxYE_edGqVlPhT1B6ft3or4w16wobFAPObCZmBPgeUg4TYYwFB-ZwRM6Y9ymRsu5e7Uew0tyN8wvKKlKfN4sFDTn8PVZJ1Reyvh4g5HuijQAjVOZRrzUSZ7HQYlGx5Jzmgpmvi2R0kjoaaag-rJMFUWfyLYhe3NlRYzZs26AJGtiWPDYJxQ818nJdDMc9s_LI3thchzKAc7PWyuVINiUiN--BjGzxzocMZSn1M8jxW92DIkmrmI2Ia6zZDDWs4cXMoA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/AmAbun0Sd39d8_Ssk8bHtMcjDfabMcwmftaul_eZAfqXK4EO3XLweueSQ_57NIFkZi0otrP4azhRJU72oYD_31pab7iz-8vqOGdiHggpV08JJGTm_pkNSvBM77_dgYB67bnvkDf7-gEvmI5uv4QkD7dYuNCarM3nCTdV_Yuzn4HM0QYvLqCRPewaIXlNTWzJpSsY8OaLlfPSH_jOimAnuXi6iZqJMpRHtxhLygwm2UAfshRyF-LnpZ8xAnCq1OBf7MENan6el0H8CC_FCLFkMMsYsy-GP47B-DAVixI54V-BiPyRY6758jfS8QBofMyQCQjG1Ui-LjH_hUWJCHZrZg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/U7o0XKOZ8ff2NNQVv51qAzA_W_89hXiVHjmvnszLypO_odHlPZ_G5Wakc_Fl9koiEhsX8j_JxM8bz0nPdWz3ygkOpx5lsAQXYO1L0YUfXt2ylrpPsHWBWJSRZIrJB0C-owxEQ6KUOp66cGvNZHzjFYVd_SGJ5Tl_5B35CnP-ItY8tJOW4X2eTHxqzI-Uf7YxgnGe1QoUURrsne7TnVJllbvdFJBCMtkS3LzbMWevSwa_2OZGEV52TJLWECwUsZlGD_cKOrGFKrVf2nihSJa-CyocMfMfZrEvY8bKI0TDdvAlpN-D_SgqMdY6xDWHGRyqs3CAIOLKCPXCQCh0sxe6XA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786974284311,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Photo exhibition entitled ‘This Likeness Everlasting’ opens in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IDB628Qaly-sbDrI18HXGI2sEGSA8WlEbMZj0oN48hzdcd0GhRM8rGRC6cAzbAzbvTHfXmGs6Y4K-ZjuGzcUPAdI5akULN4jhrx-JqVBpJyUysb-holcz5B_7mgqqNhM5lFKsE42oeo8a5DmabBy22IKLme0BnzWmfOgsHfsUT7wF9Ipz1VAU4tIHELhlwesGKDcnoBkVy_kt6EdDUzH8QT_YReHzGgMgXB4lw6Fm73-yVpV2rR_JZm39WlvY7iYhdge_rkW3adlsQiJRdGZFwpMoIpnkE8StawB61rk6v-OBtq6AxR-1TaFKoRXbk09qp50Oi7DNBLPkRCvezRXhQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786974350439,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Programs marking 40th day of martyr Leader’s burial announced for Tehran📌 Tehran, IRNA – The Islamic Propagation Coordination Council of Tehran Province has announced programs to mark the 40th day since the burial of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.Mo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974338086,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Photo exhibition entitled ‘This Likeness Everlasting’ opens in TehranThe Tehran Museum of Contemporary Art is showcasing a collection of artistic heritage to mark the 200th anniversary of the invention of photography. The exhibition offers the audience a glimpse into the history of this medium — fro...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/vVBFxxXpAKfQAy1r3hkE5pX0ek3UtFJmkn2s6uwj8wEAxdz2OQKlucPZ0DFiKrtiF_xUjg778EozTxqU39F1wNqv8-yTaZ6rh0pkQFqtlKkxJ2KAlNyR7aoOJnc12BNeqLjyj7zP7O6GNVBL5h1LS4JfXNlt_3HfW7oHwygKsmFyncn3bRKociwv0_SQxpM-wbSmmU0-SsthIESV-hm3ESPd9avnkLgHrmKHRzsPX05wVkBuFAJlYIqG6cyMA4pBb7z7F0rLsZTV6CDxzAKxGttq8Vvpsei8tqn71IPRwUoz9rUJBX1ypH9pc9fTGtMzme2HW3yHhkdljKT8-T9jDQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/na3IDQkAZUxYuZQBSGdxuGZmBvclSsxKBWVNOYAo4qCSUFZaK-A0FzmciJ_7oVsq2y6vY_mYN4Fbuy29qq4bL9Bx9p95BPnfbbuyKo6DO7loUpwj9q1LaCMN8csefaHaGkwouzVk4M8HH3lf-ycBzKZaQn1U4PBEgusPBTymOUXf7FWseBIO4b1m4m_IcAAzlhyxBk9MDrqykEj03_UZpmoY52SFgMf2KaXXmiVdu8t-NwTMEyx1PlRVbIg5zpEcrAFjDqS84EN6AbdSf7NDrq2peyeCiv6P8tcxmwHPwrqzw5tmdpiADeytZa_dlfFNAnpNN068Z8LRok7N6_fmkw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JZxYlIBtMIBlthQ2rN4CVFZ7zGHH8uWyjmtH2aM8Y0DjPa9BjyYf9DRhxUjFVyCVmX3IbDN36Me3ZhiTb9J5NIvncCCEQmKce7-Z6xzfMOobormHQV4HD64JC_aze5yR9XG6esEB2ATZKnH7gyy97LdJPkj1oj0o4Yt5bjSo_Ov4nlnlnz7S5jE2wjyW_oWr7ZMfx-FKstmfkN9g3Z7Ox0THrWYE8DcoCL89VsdApElzBl0UL4DviOPTbEBRFnypJ9xxMSP31jx93LNUzCYmPy44cN5y32IhvIMhnLLRh4_tLx7bEqhUInIWtX2EunfQbVkxcSM7Nk7Uffl6hZJwIA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ncpnGo0e756H1gI0qIzNxd8yO60tIoUfVYxqLgXFa0MnB1z5nQptDWj6eiDybH-QI_-evvLAvdM7fNzeJnM58XYbweMkO0V-KH5gG81Z6FIDvmyFPYxSKRnn-xnQjGXhH_HyuI_WWPi4itq1edizpGPRrQKPJYb54Nh5Tk6b1ipXWI0ZIPzdYCCoFwoJ645oeD5pHnn2awnc8JniXCisJFmbVgBFqSHih4bI_aicJEZq5cR_uSmb3LzDeD6-TakW3zG1HFbPGensu3uRD7qQ1TS3uA_rNx5rrL-XGUh3KFjZVsOl_PT33-u3ekVZszrA8kuGumMoL8LL6ohhUjy6Yw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Z75jS2S1CfcXkqvs2py78-QrxVD--2doYc4EFF57dGNuxh5tPyjvyJ6fPtTEEECjq22eXHJjTYiJpxfbJcqMJoN3jNpJ86FR3OsiGlBFSFKGKfZ_4LT3DHJvAkuPuuWvyVfjn8h5tcquw02nlIaK08_o55Xan0VFtBkm1mA0f4MeZKGLCTucZPbZoPSvlyNnhk98lZNWsp7cX76qDxZX8ZOGgJ-M5cVvfd0jMSZJ1mgHWSpKHXAnBsDty5jXTguZIGjqq11E-6PN5XQuvLg4MrYqechTQ4KA2Mmkboud6VtizJg2TaLtB1gl2moIj_Hg27TJsyD1zEuaBGjmA6knrw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/AWr3hDdi0-G-z541xocu6fyqcQueslPf6AMcFVn5v8kenVIFFCYBlZD30lKyiBAHKvg8g902Z8pi1JmIdBnKCeqb7IvEC5TS3jZCTWbz1G-YoAqLQOcErajW6hRN_pKvPOqsteq9yAprnLFwTgmPdb2l9CmKC6WOHxYH5Ae8fYV7NZe4UphDg_pb9WicC0EisA-_bJ5cgtBQXuKHh4vO2iWyY0cSSucvw-0Suyr3injFg72eGZ14uuKCHaPVU_Bo4rVYxd9BqOuaj9RvIvG5Z_fmmo4OMeMRBa49R5qB4--xOQDociXV8ktmrE9zNQ-QqQE_ldzA13NxhJgt6b3xYA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TH-qK5_CVTvJXK___JDh96fq5Y4_TnYHs2SZ3KGxjSsX_veUXDltgPVsYM6mXwqr-F01Fal2ITqM9mPLZtc-otO24_atUqOz3ETrGAbpwPta_2ka7OuZwVy5jt6kuXC4xcNutE5_5ML-mkpPK_eSemlS4CEe41pXV5kcQUIoxfyMX42LOZgsBpdYqQd4zvtvjeB4qwkTkliEmA6m7kla-0dnJ5qVbFnrjS5TPc-k1lc8RWkPRsSOJCWC5dEm8GGxtM7RCbbiRzaG5Dct8edtd4gMivBiumtHfY8Cir2g8mRpcxe4Uqe6bkAXVC_xvdv_X2i_BBZl6oa9j-RoUsxZug.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/v9TDa0ozemcU499vZek3N-e64h3lWAJnFFh9Bsof_H3mXdoXda9j0tLd4sgEnkIh-m7roG16zn3olgqYD4wnZLk0Nw3NsAxhELOWLW70bNSX9iwH65xe8MGyktzL8eOsmusCthWckL6XpmJxD1IkhJhe3WUlv7XP_u10yrPVyedb9dSLPdXqJhquCO-g-BBC4ThPMN0xlDZ5p7kaYLhJlWF7ZRvcu9Ij_qv2E93S4vaHx0VUxKk-XFlKs24uf7xi2eD9BgM1fh296etocbZsk_ldazQi1LB1ciL-TH0QCrVx3l_eQ0v6H8tugO0MNcQhZn_WE-qDtauBwJkCZIwq1w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QEK49LNbyTDj08Op6LQlZhf9kZn_q7kBa1KGXfwB0HGNTiu2KI79QBfImYDAdLlZnLKX-KGPapmY57Vee2BKiaiXM727VvqQmNk2BBM1PQhLCeYQH-xDFCJ54O2Mpf0P_NrqooPbM7r0IcKH8JIra9zgDJ43wWRhxAtxgFL4FJHUfw6hPT1JjCOci5VCb_xORrW8nkIVdBPbMigQRtTZlF13TzjUG9vriuLYRKt3vlZob8UbuZZym6G2dDq70IUenCrseIe429-2yHyNaYqWVWxo7Gvnjz1-XLkRQuL5cbYc3VQTh5L795gV9bu2vXFWuVG6GvFKTkM_MjPG_Qk3Bg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/I3tIh7_Ggp3O7VqyEjyopGCQJ653_CGdZgV6Wiyn1TJAQL27VaNfjO4mJrLMDsLNun9AerUINH2dHfsg2Bmzg8MvMEcmTCEYWHL4rm1jDS0p_7djz8tC3eVvQmqSe2DFsqBeQvnwyOVB0EiLA4D7LDR67Bn5VCgAR7fBevWvvqU9jJx1RdD_vFvLVbw-9KgAEc-QuGWXu5Q7pNsyYj73N7fmyfRJAshl4_HMAmxEoTlpZvXq4EGVBV-67vOdRpu_EI5lx6azq7PrZgqR-yaMxK8kJLrBGiSw-iXPxjgbLiKNBdCktocvNJo_MwOT5VTg9IqGWptsSAGnc1tmfLWg8Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786974288941,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran finishes runner‑up at World Pahlavani Wrestling Championships📌 Tehran, IRNA – Iran’s national team has finished as runner‑up at the second edition of the 2026 Karakucak World Pahlavani Wrestling Championships in Turkey.The tournament took place from 15 to 16 August in Ankara, the capital of...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1786974279936,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran finishes runner‑up at World Pahlavani Wrestling Championships📌 Tehran, IRNA – Iran’s national team has finished as runner‑up at the second edition of the 2026 Karakucak World Pahlavani Wrestling Championships in Turkey.The tournament took place from 15 to 16 August in Ankara, the capital of...",
     "media": [],
     "verified": false
   }
