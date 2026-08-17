@@ -114253,6 +114253,38 @@
     ]
   },
   {
+    "id": 479372066,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-16",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Jordan: Unconfirmed reports sirens being heard Jordan",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇯🇴 Unconfirmed reports of sirens being heard in Jordan @SimurghRes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479360048,
     "type": "airstrike",
     "status": "confirmed",

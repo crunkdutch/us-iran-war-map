@@ -266719,6 +266719,46 @@
     "verified": false
   },
   {
+    "id": 1786980824992,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶🇮🇶 | Iraqi Federal Police and the Counter-Terrorism Service raided the home of Abbas Hussein Matar, Harakat al-Nujaba’s intelligence chief in Dhi Qar’s Al-Fadhiliya district, arresting him and transferring him to Baghdad.🔹@enemywatch+",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/R8uKmr1aLavFA0nPdKL7e1UXPt4dgfy9mUVVVPGUirYOIV6zyS7SmAZhjKyazVU_DJO2HFxRWV04gUwcW65xzofZaRnIaGRQgdVSwokBxjolAfOfUNJRLU35HLcGzwAdcztD7WZxcpkcdnnh0rfvA1rsQGOpSQJBq8rrOwWOLDjRoBXfMH_sHK1Q4vERi-iXTux1CB2Mp7j0CaX_oJeVbRDqVPVV4sEpenUFjBE5UYnbJxYVqCSLd-Rjk5HA-od94b_0oEGgAld-Qizsc1SmSd8rAsZRb-796T0QVcoNFhubVqFsBG25YSP3_ji1xevhIp8hkqew6BUbp7KuE83zrg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1786980840532,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶🇮🇶 | Iraqi Federal Police and the Counter-Terrorism Service raided the home of Abbas Hussein Matar, Harakat al-Nujaba’s intelligence chief in Dhi Qar’s Al-Fadhiliya district, arresting him and transferring him to Baghdad.🔹@enemywatch+",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/R8uKmr1aLavFA0nPdKL7e1UXPt4dgfy9mUVVVPGUirYOIV6zyS7SmAZhjKyazVU_DJO2HFxRWV04gUwcW65xzofZaRnIaGRQgdVSwokBxjolAfOfUNJRLU35HLcGzwAdcztD7WZxcpkcdnnh0rfvA1rsQGOpSQJBq8rrOwWOLDjRoBXfMH_sHK1Q4vERi-iXTux1CB2Mp7j0CaX_oJeVbRDqVPVV4sEpenUFjBE5UYnbJxYVqCSLd-Rjk5HA-od94b_0oEGgAld-Qizsc1SmSd8rAsZRb-796T0QVcoNFhubVqFsBG25YSP3_ji1xevhIp8hkqew6BUbp7KuE83zrg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1786974280382,
     "type": "airstrike",
     "location": "Tehran",
