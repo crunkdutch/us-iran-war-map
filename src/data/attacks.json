@@ -114550,6 +114550,38 @@
     "media": []
   },
   {
+    "id": 479387111,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Minab, Israel: Araghchi honors martyred Iranian teachers students",
+    "location": "Tehran, Minab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Araghchi honors martyred Iranian teachers, students as symbols of resistance📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has paid tribute to teachers and students who were killed in the US-Israeli aggression against Iran, stressing the need to preserve the historical record of the war and pass it on to future generations.Speaking at the 39th Conference of Heads of Education Departments across Iran on Monday, Araghchi outlined the diplomatic efforts made during the military aggression and",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
