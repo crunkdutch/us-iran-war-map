@@ -114924,6 +114924,38 @@
     "media": []
   },
   {
+    "id": 479420298,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Mashhad, Israel: Defense Ministry vows continue martyred Leaders",
+    "location": "Tehran, Mashhad, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Defense Ministry vows to continue martyred Leader’s path to strengthen national defense📌 Tehran, IRNA – The Iranian Defense Ministry has pledged to further strengthen the country’s defense capabilities along the path charted by the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.The ministry issued a statement on Tuesday as Iran marks the 40th day since the funeral and burial of Ayatollah Seyyed Ali Khamenei, who was martyred in an airstrike on his office and residen",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
