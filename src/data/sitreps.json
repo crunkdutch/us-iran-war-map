@@ -266257,6 +266257,36 @@
     "verified": false
   },
   {
+    "id": 1787048980607,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA Yemeni military source told Saba News Agency: The Yemeni Armed Forces targeted the Aramco refinery in Jizan with a number of drones in response to the violation of the airspace over Saada and Hajjah.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787048905777,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-15",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian Parliament Speaker Mohammad Bagher Ghalibaf: The Strait of Hormuz will not be opened before the lifting of the blockade, the release of frozen funds, the cancellation of oil sanctions, and the cessation of threats and military operations on all fronts.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786870729268,
     "type": "airstrike",
     "location": "Tehran",
@@ -267699,6 +267729,88 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1787048809256,
+    "type": "naval",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-08-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | A Saudi-flagged oil tanker began a long journey around Africa, reportedly taking an alternative route due to the blockade imposed by Yemen on Saudi ships in the Bab al-Mandab Strait. 🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/d134850f6f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/m6xxflZ_Cbf-7NaXvpMmxUd9911MaOitnOtR7rhV6RWfaCmNFbsEW29MhLcBluA20_c0krmoeGCiMaklxbLZZvGl4hRyv9B1fpPJwKurPvESPwwWaIrqmQRtM6sYurngHnycS7YrRgleo6EBxSiI8TBFHbarPIDhwX1tMh4HU075LcbycZgPv8v1l2ScyNFthvJwPuIxaGCvdtR3krQy_JvYHyluPKQvmE_1XX-qDmuBF2WoBE9GHQtzFzCE-Gw_hB0Hx4uT6SwBEaG9JtT0MRfirW_TlK3aV7CPXCuhuUbcE7LB4q38NfExqLAsgo8UNTiGMLtfstGFQtj4QoFZHQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61038",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/m6xxflZ_Cbf-7NaXvpMmxUd9911MaOitnOtR7rhV6RWfaCmNFbsEW29MhLcBluA20_c0krmoeGCiMaklxbLZZvGl4hRyv9B1fpPJwKurPvESPwwWaIrqmQRtM6sYurngHnycS7YrRgleo6EBxSiI8TBFHbarPIDhwX1tMh4HU075LcbycZgPv8v1l2ScyNFthvJwPuIxaGCvdtR3krQy_JvYHyluPKQvmE_1XX-qDmuBF2WoBE9GHQtzFzCE-Gw_hB0Hx4uT6SwBEaG9JtT0MRfirW_TlK3aV7CPXCuhuUbcE7LB4q38NfExqLAsgo8UNTiGMLtfstGFQtj4QoFZHQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787048887019,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | A Saudi-flagged oil tanker began a long journey around Africa, reportedly taking an alternative route due to the blockade imposed by Yemen on Saudi ships in the Bab al-Mandab Strait. 🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/d134850f6f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/m6xxflZ_Cbf-7NaXvpMmxUd9911MaOitnOtR7rhV6RWfaCmNFbsEW29MhLcBluA20_c0krmoeGCiMaklxbLZZvGl4hRyv9B1fpPJwKurPvESPwwWaIrqmQRtM6sYurngHnycS7YrRgleo6EBxSiI8TBFHbarPIDhwX1tMh4HU075LcbycZgPv8v1l2ScyNFthvJwPuIxaGCvdtR3krQy_JvYHyluPKQvmE_1XX-qDmuBF2WoBE9GHQtzFzCE-Gw_hB0Hx4uT6SwBEaG9JtT0MRfirW_TlK3aV7CPXCuhuUbcE7LB4q38NfExqLAsgo8UNTiGMLtfstGFQtj4QoFZHQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61038",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/m6xxflZ_Cbf-7NaXvpMmxUd9911MaOitnOtR7rhV6RWfaCmNFbsEW29MhLcBluA20_c0krmoeGCiMaklxbLZZvGl4hRyv9B1fpPJwKurPvESPwwWaIrqmQRtM6sYurngHnycS7YrRgleo6EBxSiI8TBFHbarPIDhwX1tMh4HU075LcbycZgPv8v1l2ScyNFthvJwPuIxaGCvdtR3krQy_JvYHyluPKQvmE_1XX-qDmuBF2WoBE9GHQtzFzCE-Gw_hB0Hx4uT6SwBEaG9JtT0MRfirW_TlK3aV7CPXCuhuUbcE7LB4q38NfExqLAsgo8UNTiGMLtfstGFQtj4QoFZHQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787048866035,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "A source just told me the following - \"Liars: Abu al-Duhur Airport was previously destroyed by terrorism, and the runway was dug up by bulldozers; the bombing is fake and a media hoax.\" This would mean that Israel and Turkey are playing at 'conflict' while collaborating against the Resistance Axis.....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787048894579,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-08-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "A source just told me the following - \"Liars: Abu al-Duhur Airport was previously destroyed by terrorism, and the runway was dug up by bulldozers; the bombing is fake and a media hoax.\" This would mean that Israel and Turkey are playing at 'conflict' while collaborating against the Resistance Axis.....",
+    "media": [],
     "verified": false
   },
   {

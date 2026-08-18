@@ -114015,6 +114015,70 @@
     "media": []
   },
   {
+    "id": 479411235,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: YemenA Yemeni military source told Saba",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenA Yemeni military source told Saba News Agency: The Yemeni Armed Forces targeted the Aramco refinery in Jizan with a number of drones in response to the violation of the airspace over Saada and Hajjah.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479414255,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz: Islamic_RepublicIranian Parliament Speaker Mohammad Bagher G...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIranian Parliament Speaker Mohammad Bagher Ghalibaf: The Strait of Hormuz will not be opened before the lifting of the blockade, the release of frozen funds, the cancellation of oil sanctions, and the cessation of threats and military operations on all fronts.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479315123,
     "type": "airstrike",
     "status": "confirmed",
@@ -114623,6 +114687,113 @@
         "thumbnail": "https://cdn1.telesco.pe/file/MAqKjfNy42MwRVac2fz8PbFnD8RAZmF-QYCWNl6P7b7sw-15meyyoRWmQp5yJs69sN3acbE8mKmuzPVgqIDe7mhSTnrY85-LCDUIGw91CYPNQ3Y_mxlV0cMAe6xMhpWNPh2pEIjux__I_nPj_XhE7P8V7xa9PupEm6EETCRxXIwlBcnncyo7-jLwmUks6qSiHGt-gHfKVXJVYW21mCKFQnT_nTu5hqTDrravx5f_kzaoTHZkficeIj_8xhBHFHSzW3LSPLK2RLQanr77_5lKCy4hA3fT19Y_JpY9qH4ABXhCi-EyCffVeggSBZYa5esJdlwcjS22Op5Syt9qj0ptxw"
       }
     ]
+  },
+  {
+    "id": 479402181,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-17",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Bab al-Mandab, Yemen: Saudiflagged tanker began long journey around",
+    "location": "Bab al-Mandab, Yemen",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | A Saudi-flagged oil tanker began a long journey around Africa, reportedly taking an alternative route due to the blockade imposed by Yemen on Saudi ships in the Bab al-Mandab Strait. 🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/d134850f6f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/m6xxflZ_Cbf-7NaXvpMmxUd9911MaOitnOtR7rhV6RWfaCmNFbsEW29MhLcBluA20_c0krmoeGCiMaklxbLZZvGl4hRyv9B1fpPJwKurPvESPwwWaIrqmQRtM6sYurngHnycS7YrRgleo6EBxSiI8TBFHbarPIDhwX1tMh4HU075LcbycZgPv8v1l2ScyNFthvJwPuIxaGCvdtR3krQy_JvYHyluPKQvmE_1XX-qDmuBF2WoBE9GHQtzFzCE-Gw_hB0Hx4uT6SwBEaG9JtT0MRfirW_TlK3aV7CPXCuhuUbcE7LB4q38NfExqLAsgo8UNTiGMLtfstGFQtj4QoFZHQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61038",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/m6xxflZ_Cbf-7NaXvpMmxUd9911MaOitnOtR7rhV6RWfaCmNFbsEW29MhLcBluA20_c0krmoeGCiMaklxbLZZvGl4hRyv9B1fpPJwKurPvESPwwWaIrqmQRtM6sYurngHnycS7YrRgleo6EBxSiI8TBFHbarPIDhwX1tMh4HU075LcbycZgPv8v1l2ScyNFthvJwPuIxaGCvdtR3krQy_JvYHyluPKQvmE_1XX-qDmuBF2WoBE9GHQtzFzCE-Gw_hB0Hx4uT6SwBEaG9JtT0MRfirW_TlK3aV7CPXCuhuUbcE7LB4q38NfExqLAsgo8UNTiGMLtfstGFQtj4QoFZHQ"
+      }
+    ]
+  },
+  {
+    "id": 479405198,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-17",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Hodeidah, Strait of Hormuz, Yemen: Yemeni forces launched drone attacks targeting",
+    "location": "Hodeidah, Strait of Hormuz, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni forces launched drone attacks targeting Saudi proxy positions in the Hayis district of southern Hodeidah Governorate. The Yemeni Army also reportedly targeted concentrations of Saudi proxy forces in Marib with missiles, while Saudi media confirmed that Marib was targeted by two ballistic missiles and two drones. Traffic through the Strait of Hormuz remained at a low level on August 17, with only 10 ships reportedly transiting the strait, most of them using the Iranian side.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479408216,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel, Turkey: source just told following Liars alDuhur",
+    "location": "Israel, Turkey",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "A source just told me the following - \"Liars: Abu al-Duhur Airport was previously destroyed by terrorism, and the runway was dug up by bulldozers; the bombing is fake and a media hoax.\" This would mean that Israel and Turkey are playing at 'conflict' while collaborating against the Resistance Axis....",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 479387111,
