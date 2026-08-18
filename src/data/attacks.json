@@ -114450,6 +114450,38 @@
     ]
   },
   {
+    "id": 479429370,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-16",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Cairo, Sharm el-Sheikh: name Allah Most Gracious Most MercifulPress",
+    "location": "Cairo, Sharm el-Sheikh",
+    "coordinates": [
+      30.0444,
+      31.2357
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "In the name of Allah, the Most Gracious, the Most MercifulPress StatementThe new massacre committed by the terrorist occupation army against innocent civilians, by targeting a café at the Gaza port west of the city in an airstrike, resulting in the martyrdom of six people, including a child, and the injury of a number of citizens, constitutes a further escalation of the aggression and a deliberate bloody escalation that exposes the determination of the government of war criminal Netanyahu to con",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479360048,
     "type": "airstrike",
     "status": "confirmed",
