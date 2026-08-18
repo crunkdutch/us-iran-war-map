@@ -114625,6 +114625,38 @@
     "media": []
   },
   {
+    "id": 479393136,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Tehran, Gilan, Iraq: Kurdish says Iran wont allow conspiracies",
+    "location": "Tehran, Gilan, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Kurdish VP says Iran won’t allow conspiracies to drive wedge with Iraqi Kurdistan📌 Tehran, IRNA – Vice President for Rural Development Affairs Abdolkarim Hosseinzadeh says that Iran will not allow any conspiracy to drive a wedge between the Islamic Republic and Iraq’s Kurdistan Region, stressing that Iran and the northern Iraqi region are united.Hosseinzadeh made the remarks late Monday on X, reacting to a drone attack on the office of Kurdistan Region Prime Minister Masrour Barzani earlier ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

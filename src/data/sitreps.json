@@ -267605,6 +267605,26 @@
     "verified": false
   },
   {
+    "id": 1787042234784,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Mashhad holds ceremony to mark 40th day after martyred Leader’s burial📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mPBZ3gaEpuAbDdl7sRTEThRjGcGvh6tIyv7ff2Ib23XD2L3ngPF2KeKvWU2AsQuqPXAYeUsFSYoh1ZcHKaHoUEzEQawQ5hNJQGjLpjapFTMGriPXZrnYEDksbGlXrZhaw33NvJfh5gWZZFjpc2mDnxZgFKdsoEgZl5UhsevnIaWT3SA-hjJJeStEHWGW-xEI_b_L7GzKdAUcrxP3b6HoU0SMrkYMyN-xfY_ir-lzNBWPdZJ51bh2-Pu_-7Yt97Yd2LrHk_4spuUzhVJxzi-HXWk6dy1PTtVUcZw3zI4zGNrjCzdSgKyR5jxci0uzPR_xyM14UOXy6RaUbx3VH0JmcA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787035691812,
     "type": "airstrike",
     "location": "Tehran",
