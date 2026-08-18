@@ -114486,6 +114486,70 @@
     "media": []
   },
   {
+    "id": 479381090,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-17",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Erbil, Strait of Hormuz, Lebanon: UpdatesLebanonIsraeli forces carried artillery shelling targ...",
+    "location": "Erbil, Strait of Hormuz, Lebanon, Syria, Oman, Iraq, Israel, Port Said",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | Updates:LebanonIsraeli forces carried out artillery shelling targeting Mansouri, Ali Al-Taher, Wadi Al-Salouqi, Beit Yahoun, Talousa, Mays Al-Jabal, the outskirts of Shihin, the outskirts of Eastern Zawtar, the area between Yater and Sarbin, and the outskirts of Mayfadoun. Israeli airstrikes targeted Mansouri, while another report said Israeli warplanes carried out two airstrikes targeting Mansouri and Deir Siryan. A hostile drone targeted Douha Kfar Remman, while an Israeli aircraft report",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479384100,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Maritime Trade Operations agency reported that",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚓️ | The UK Maritime Trade Operations agency reported that a vessel was hit by a projectile in the Strait of Hormuz, causing damage to its engine room and leaving one crew member injured.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
