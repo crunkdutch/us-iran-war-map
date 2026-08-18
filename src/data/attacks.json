@@ -114413,6 +114413,43 @@
     "media": []
   },
   {
+    "id": 479423321,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-16",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: During last days before ceasefireTargeting gatherings",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "During the last days before the ceasefireTargeting gatherings of soldiers and vehicles belonging to the “Israeli” enemy army on the southern outskirts of Zawtar Al-Sharqiyah town with a swarm of Ababil loitering gliders [FPV].Watch it in Episode “204” of the “Panorama Al-Yawm” program on Al-Manar TV, and on the Islamic Resistance’s Military Media channel on Telegram.Tuesday, 18-08-20269:00 p.m.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/r5ML0ur3mxpiCMDX2pjRQm9BKQ6oQNpDimwBqAFiuwLok-Grbj1xH7W33KmIjN7aju-JDOUExNM1w4zTggs19F0l1Dgl46Axkf-T5VpvY1MwBHOMXv_SUl8PZ-n0-_TwrJIEHsStshaT9Wsw03C_oejjeTSDAG-tH6GW_U6aboX_i0i1-sFagK4IOb-vMMISy0LRXMxe5J8YiCSl2KaY-gitsST1fz--oNI1ZepZKfqtCbPEmQ0dhQ4J1rZRCQe6ceLMklaE-q6GJjpmDTIAL_rQGFvUknsi3GkExbx0-fa3bRIUehqcEya0muF2_cEp7ji1ILsudCk7G3vpIyr5Eg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 479360048,
     "type": "airstrike",
     "status": "confirmed",
