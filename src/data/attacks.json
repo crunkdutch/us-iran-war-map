@@ -114892,6 +114892,38 @@
     "media": []
   },
   {
+    "id": 479417276,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Tel Aviv, Strait of Hormuz: Hormuz Strait will reopen until blockade",
+    "location": "Tehran, Tel Aviv, Strait of Hormuz, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Hormuz Strait will not reopen until US blockade, oil sanctions on Iran stop: Ghalibaf📌 Tehran, IRNA – Parliament Speaker Mohammad-Bagher Ghalibaf has reiterated Iran’s conditions for the reopening of the Strait of Hormuz, saying the strategic waterway will not reopen until the United States lifts its blockade, ends sanctions, and releases frozen assets of the Islamic Republic.Addressing a session of Parliament virtually on Tuesday, Ghalibaf addressed several domestic and regional issues, par",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
