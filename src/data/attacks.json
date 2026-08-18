@@ -113983,6 +113983,38 @@
     "media": []
   },
   {
+    "id": 479399165,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-15",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Syria, Israel: Enemy_MediaIsraeli enemy army radio Reports indicated",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: Reports indicated that airstrikes were carried out deep inside Syrian territory, targeting the Abu Al-Duhur military airfield in the Idlib area of northern Syria.The military airfield is located 300 kilometers from the “Israeli territory” and only 60 kilometers from the Syrian-Turkish border. According to the report, the airfield’s runways were targeted with four missiles.The \"Israeli\" army has not commented on the incident so far.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479315123,
     "type": "airstrike",
     "status": "confirmed",
@@ -114652,6 +114684,38 @@
       "other": 0
     },
     "description": "📡 Kurdish VP says Iran won’t allow conspiracies to drive wedge with Iraqi Kurdistan📌 Tehran, IRNA – Vice President for Rural Development Affairs Abdolkarim Hosseinzadeh says that Iran will not allow any conspiracy to drive a wedge between the Islamic Republic and Iraq’s Kurdistan Region, stressing that Iran and the northern Iraqi region are united.Hosseinzadeh made the remarks late Monday on X, reacting to a drone attack on the office of Kurdistan Region Prime Minister Masrour Barzani earlier ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479396150,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemies seek divide Iran weaken national",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Enemies seek to divide Iran, weaken national power: IRGC commander📌 Bojnourd, IRNA — Major General Mostafa Izadi, Deputy Commander of the Islamic Revolution Guards Corps (IRGC), says the enemies have been plotting for decades under different pretexts to weaken and divide the Iranian nation.Speaking at a ceremony to mark the 40th day since the burial of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, in North Khorasan Province, General Izadi noted that the Islami",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

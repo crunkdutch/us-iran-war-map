@@ -266227,6 +266227,36 @@
     "verified": false
   },
   {
+    "id": 1787046741320,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHaaretz Hebrew newspaper: The continued occupation of southern Lebanon means granting further legitimacy to Hezbollah as a resistance movement defending its land.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787046697908,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-15",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper : Refusal to accept the results, a television channel promoting a narrative of “election fraud,” and tens of thousands of armed citizens. The \"Israeli\" security establishment is preparing for an extreme scenario that could escalate into a full-scale civil war imme...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786870729268,
     "type": "airstrike",
     "location": "Tehran",
@@ -267734,6 +267764,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1787046662067,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Enemies seek to divide Iran, weaken national power: IRGC commander📌 Bojnourd, IRNA — Major General Mostafa Izadi, Deputy Commander of the Islamic Revolution Guards Corps (IRGC), says the enemies have been plotting for decades under different pretexts to weaken and divide the Iranian nation.Speak...",
+    "media": [],
     "verified": false
   },
   {
