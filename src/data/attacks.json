@@ -114550,6 +114550,49 @@
     "media": []
   },
   {
+    "id": 479390123,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-17",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Iraq: highest suspicion based available indicators that",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The highest suspicion, based on the available indicators, is that the attack on Barzani’s office may have originated from the Zionist presence in the Kurdish region. There are indications that the incident is a false-flag operation intended to create tensions between Iraq and Iran. We have previously seen similar patterns, including Iraqi mercenary figures circulating inflammatory statements and accusations against the IRGC.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/ecbfd7e7a3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/MAqKjfNy42MwRVac2fz8PbFnD8RAZmF-QYCWNl6P7b7sw-15meyyoRWmQp5yJs69sN3acbE8mKmuzPVgqIDe7mhSTnrY85-LCDUIGw91CYPNQ3Y_mxlV0cMAe6xMhpWNPh2pEIjux__I_nPj_XhE7P8V7xa9PupEm6EETCRxXIwlBcnncyo7-jLwmUks6qSiHGt-gHfKVXJVYW21mCKFQnT_nTu5hqTDrravx5f_kzaoTHZkficeIj_8xhBHFHSzW3LSPLK2RLQanr77_5lKCy4hA3fT19Y_JpY9qH4ABXhCi-EyCffVeggSBZYa5esJdlwcjS22Op5Syt9qj0ptxw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61013",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/MAqKjfNy42MwRVac2fz8PbFnD8RAZmF-QYCWNl6P7b7sw-15meyyoRWmQp5yJs69sN3acbE8mKmuzPVgqIDe7mhSTnrY85-LCDUIGw91CYPNQ3Y_mxlV0cMAe6xMhpWNPh2pEIjux__I_nPj_XhE7P8V7xa9PupEm6EETCRxXIwlBcnncyo7-jLwmUks6qSiHGt-gHfKVXJVYW21mCKFQnT_nTu5hqTDrravx5f_kzaoTHZkficeIj_8xhBHFHSzW3LSPLK2RLQanr77_5lKCy4hA3fT19Y_JpY9qH4ABXhCi-EyCffVeggSBZYa5esJdlwcjS22Op5Syt9qj0ptxw"
+      }
+    ]
+  },
+  {
     "id": 479387111,
     "type": "missile",
     "status": "confirmed",
