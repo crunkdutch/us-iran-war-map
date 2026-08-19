@@ -268872,6 +268872,111 @@
     "verified": false
   },
   {
+    "id": 1787147553954,
+    "type": "naval",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-08-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 🇾🇪 | Yemeni Armed Forces:The Yemeni Armed Forces have become so powerful that we are now dictating terms. With God's help, we have established three principles: First, a blockade for a blockade, whereby we have imposed a strict siege on the Saudi enemy, preventing even a single ship from...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787147499328,
+    "type": "naval",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-08-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 🇾🇪 | Yemeni Armed Forces:The Yemeni Armed Forces have become so powerful that we are now dictating terms. With God's help, we have established three principles: First, a blockade for a blockade, whereby we have imposed a strict siege on the Saudi enemy, preventing even a single ship from...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787147511622,
+    "type": "naval",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-08-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 🇾🇪 | Yemeni Armed Forces:The Yemeni Armed Forces have become so powerful that we are now dictating terms. With God's help, we have established three principles: First, a blockade for a blockade, whereby we have imposed a strict siege on the Saudi enemy, preventing even a single ship from...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787147513792,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 🇾🇪 | Yemeni Armed Forces:The Yemeni Armed Forces have become so powerful that we are now dictating terms. With God's help, we have established three principles: First, a blockade for a blockade, whereby we have imposed a strict siege on the Saudi enemy, preventing even a single ship from...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787147636660,
+    "type": "intercept",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-08-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Yemeni Armed Forces have reached this level of strength today, imposing equations, and by the grace of Allah have succeeded in establishing three equations:The first equation is “blockade for blockade,” whereby we imposed a tight blockade on the enemy that prevents it from allowing a sing...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787147629527,
+    "type": "intercept",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-08-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Yemeni Armed Forces have reached this level of strength today, imposing equations, and by the grace of Allah have succeeded in establishing three equations:The first equation is “blockade for blockade,” whereby we imposed a tight blockade on the enemy that prevents it from allowing a sing...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787147580913,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Yemeni Armed Forces have reached this level of strength today, imposing equations, and by the grace of Allah have succeeded in establishing three equations:The first equation is “blockade for blockade,” whereby we imposed a tight blockade on the enemy that prevents it from allowing a sing...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787035691812,
     "type": "airstrike",
     "location": "Tehran",

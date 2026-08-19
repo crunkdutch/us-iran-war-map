@@ -115324,6 +115324,70 @@
     "media": []
   },
   {
+    "id": 479462711,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Hodeidah, Aden, Red Sea: Yemeni Armed ForcesThe Yemeni Armed Forces",
+    "location": "Hodeidah, Aden, Red Sea, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 🇾🇪 | Yemeni Armed Forces:The Yemeni Armed Forces have become so powerful that we are now dictating terms. With God's help, we have established three principles: First, a blockade for a blockade, whereby we have imposed a strict siege on the Saudi enemy, preventing even a single ship from passing through. Second, striking Saudi troop concentrations wherever they may be. Third, protecting Yemen's sovereignty and confronting any enemy airspace incursions. In implementing this blockade f",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479468786,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Aden, Red Sea, Yemen: Yemen Yemeni Armed Forces have reached",
+    "location": "Aden, Red Sea, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen The Yemeni Armed Forces have reached this level of strength today, imposing equations, and by the grace of Allah have succeeded in establishing three equations:The first equation is “blockade for blockade,” whereby we imposed a tight blockade on the enemy that prevents it from allowing a single vessel to pass.The second equation is targeting Saudi mobilizations wherever they are.The third equation is protecting Yemen’s sovereignty and confronting any violations by the enemy.In implementat",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479447541,
     "type": "missile",
     "status": "confirmed",
@@ -115447,6 +115511,38 @@
       "other": 0
     },
     "description": "🔊 Ukraine must compensate for attack on Iranian ship: Envoy📌 Moscow, IRNA — Iran’s ambassador to Russia has called on Ukraine to compensate for all damages caused by its drone attack on the Iranian merchant ship Anna in the Caspian Sea, which killed one crew member and injured several others.Kazem Jalali told Russia’s RIA Novosti news agency on Wednesday that the attack was a “terrorist and criminal act” targeting a civilian vessel carrying commercial cargo under the Iranian flag.​The attack w",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479465748,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Egypt: Barcelona Ahly Team news injuries predicted",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Barcelona vs Al Ahly: Team news, injuries, predicted lineup📌 Barcelona vs Al Ahly preview: get the latest team news, injuries, predicted lineups, kickoff time and how to watch the Joan Gamper Trophy clash.Barcelona bring their 2026-27 pre-season to a close on Wednesday evening when they face Egyptian giants Al Ahly in the 61st edition of the Joan Gamper Trophy at Camp Nou. Hansi Flick’s side head into their final warm-up after an impressive 5-2 victory over Basel, but the focus now turns to ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
