@@ -115212,6 +115212,81 @@
     "media": []
   },
   {
+    "id": 479441480,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Bandar Abbas, Strait of Hormuz, Lebanon: UpdatesOccupied SyriaIsraeli occupation forces targeted vici...",
+    "location": "Bandar Abbas, Strait of Hormuz, Lebanon, Syria, UAE, Iraq, Israel, West Bank, Cairo",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📢 | Updates:Occupied SyriaIsraeli occupation forces targeted the vicinity of Ma’ariya village in the western Daraa countryside with artillery shells.PalestineDr. Basem Naim, a member of the Hamas Political Bureau, said that a strike on a café in Al-Shati Camp in Gaza resulted in six martyrs, including a child, and 10 injuries, three of them critical. He said the Peace Council bears responsibility for the continued killings and called on it to compel Netanyahu to implement the agreement.Hamas an",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479444510,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: look sniper rifles manufactured Ansar Allah",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | A look at the sniper rifles manufactured by Ansar Allah of Yemen:Hasim — 20mm caliberEffective range of approximately 2,500 meters; suitable for destroying equipment, light vehicles, and even point air-defense systems.Zulfiqar 2 — 23mm caliberDeclared range of 4,000 meters; primarily designed for anti-fortification purposes, including reinforced bunkers, as well as low-altitude aerial targets such as large drones or hovering helicopters.Sarmad — 50mm caliberRange of approximately 1,250 me",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6c42fab58f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jVnEo-ORY5oSGEBIlUGA0FQc-czab2hmsFskDPwrFIqI7ahEF3GgSkzWBW1nppmHj58f0OHs0ucD9-VVzEeBvhQULozN4-V3mDdWXgeiDgxWocWBx1NUB8LiUewGIdoOBSg6U_iq_ayMJ0CfrRLG776eNskqkBWR6979W8Tj38X7_fmRNz8Zvo5LcVx0a5pETV8tmoqBbG9XI6qFkYnfDGIgFj_hqDGvB_J0oVQIOZIFnzp_GJXJMlmrPmJ2VXD6QpvWZWl6SHYSlMufwo3CN-Sk46-fhHkbmI21JbM4ecaXm5L2syxjdV19QwXPYAf3nJi8rOdW21dmcecBCK8QOQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61059",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jVnEo-ORY5oSGEBIlUGA0FQc-czab2hmsFskDPwrFIqI7ahEF3GgSkzWBW1nppmHj58f0OHs0ucD9-VVzEeBvhQULozN4-V3mDdWXgeiDgxWocWBx1NUB8LiUewGIdoOBSg6U_iq_ayMJ0CfrRLG776eNskqkBWR6979W8Tj38X7_fmRNz8Zvo5LcVx0a5pETV8tmoqBbG9XI6qFkYnfDGIgFj_hqDGvB_J0oVQIOZIFnzp_GJXJMlmrPmJ2VXD6QpvWZWl6SHYSlMufwo3CN-Sk46-fhHkbmI21JbM4ecaXm5L2syxjdV19QwXPYAf3nJi8rOdW21dmcecBCK8QOQ"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
