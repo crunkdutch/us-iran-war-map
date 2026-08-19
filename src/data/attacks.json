@@ -115287,6 +115287,70 @@
     ]
   },
   {
+    "id": 479447541,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, UAE, Israel: Iran rejects claim missile launch Tehran",
+    "location": "Tehran, UAE, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran rejects UAE claim of missile launch📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has categorically dismissed the United Arab Emirates’ claim that Iran launched a missile toward its territory.Baqaei expressed regret over unfounded accusations against the Islamic Republic, saying such claims run counter to the principle of good-neighborliness and undermine ongoing efforts to strengthen&nbsp;trust among regional countries and prevent further insecurity.​He called on",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479450573,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel: Irans security chief Martyr Larijani capable",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iran’s security chief: Martyr Larijani was capable, qualified political and security manager📌 Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Major General Mohsen Rezaei has described the late Ali Larijani as a capable and qualified manager in political and security fields, praising his commitment to serving the Islamic Republic until the end of his life.Rezaei made the remarks on Tuesday during a meeting with the family of Larijani at his home in Tehran, where he also p",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
