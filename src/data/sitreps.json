@@ -268307,6 +268307,162 @@
     "verified": false
   },
   {
+    "id": 1787114575828,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:YemenThe Yemeni Armed Forces launched an attack on Ma’rib with two ballistic missiles and two drones. There are also indications that attacks on the UAE were carried out by Ansar Allah in Yemen, although this has not yet been confirmed.IranThe Iranian Foreign Ministry informed two emplo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787114618670,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:YemenThe Yemeni Armed Forces launched an attack on Ma’rib with two ballistic missiles and two drones. There are also indications that attacks on the UAE were carried out by Ansar Allah in Yemen, although this has not yet been confirmed.IranThe Iranian Foreign Ministry informed two emplo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787114600670,
+    "type": "drone",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-08-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:YemenThe Yemeni Armed Forces launched an attack on Ma’rib with two ballistic missiles and two drones. There are also indications that attacks on the UAE were carried out by Ansar Allah in Yemen, although this has not yet been confirmed.IranThe Iranian Foreign Ministry informed two emplo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787114549647,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:YemenThe Yemeni Armed Forces launched an attack on Ma’rib with two ballistic missiles and two drones. There are also indications that attacks on the UAE were carried out by Ansar Allah in Yemen, although this has not yet been confirmed.IranThe Iranian Foreign Ministry informed two emplo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787114573536,
+    "type": "drone",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-08-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:YemenThe Yemeni Armed Forces launched an attack on Ma’rib with two ballistic missiles and two drones. There are also indications that attacks on the UAE were carried out by Ansar Allah in Yemen, although this has not yet been confirmed.IranThe Iranian Foreign Ministry informed two emplo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787114619035,
+    "type": "drone",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:YemenThe Yemeni Armed Forces launched an attack on Ma’rib with two ballistic missiles and two drones. There are also indications that attacks on the UAE were carried out by Ansar Allah in Yemen, although this has not yet been confirmed.IranThe Iranian Foreign Ministry informed two emplo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787114625692,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Hezbollah released a video in the final days before the ceasefire showing gatherings of Israeli soldiers and military vehicles on the southern outskirts of Zawtar al-Sharqiya, targeted by a squadron of kamikaze drones. 🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61054",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lsX5I2fYvjXeZIB5BLlW-DbRFr3HB1LLDpaz0IrOZLJsP-SWBQYdaiV-hxPJYB20OqJi_Lxn6Z3IbfqshZM1QkfsnA5YXh7I8vjNIdFzcDbcjOK9RsnGdeeYwrKDsVgVwdbE4hrAtTzTESqwjewxotBXOAgJJSIehj9JsKBY39QdTCtz0xSMvgSCTTUsLmpyJwFY4Tg9LzmYQLyMLvJqA7DXO7-T7QWIHJG7XP_bOlU-Rvon7kXEJDQpleyLiI-rjUht8nmT6ZHLKkT5JgxBs99XE-lB20ZWMhu3uho3vYKgS-j2J7EpbavJKmzRLv72Z73cfDefR2ThIi1NRuq2RA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787114562136,
+    "type": "missile",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Iranian forces launched missiles from Sirik, reportedly targeting a ship that was allegedly violating the designated maritime corridor. 🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787114663711,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "⭕️ Video | Footage from the Islamic Resistance’s operation during the last days before the ceasefire, targeting gatherings of soldiers and vehicles belonging to the “Israeli” enemy army on the southern outskirts of Zawtar Al-Sharqiyah town with a swarm of loitering drones.Notes:00:02 – 00:07: During...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787114694055,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "⭕️ Video | Footage from the Islamic Resistance’s operation during the last days before the ceasefire, targeting gatherings of soldiers and vehicles belonging to the “Israeli” enemy army on the southern outskirts of Zawtar Al-Sharqiyah town with a swarm of loitering drones.Notes:00:02 – 00:07: During...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787035691812,
     "type": "airstrike",
     "location": "Tehran",

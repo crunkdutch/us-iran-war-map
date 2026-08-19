@@ -114958,7 +114958,12 @@
     "description": "📡 Enemies seek to divide Iran, weaken national power: IRGC commander📌 Bojnourd, IRNA — Major General Mostafa Izadi, Deputy Commander of the Islamic Revolution Guards Corps (IRGC), says the enemies have been plotting for decades under different pretexts to weaken and divide the Iranian nation.Speaking at a ceremony to mark the 40th day since the burial of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, in North Khorasan Province, General Izadi noted that the Islami",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/r5ML0ur3mxpiCMDX2pjRQm9BKQ6oQNpDimwBqAFiuwLok-Grbj1xH7W33KmIjN7aju-JDOUExNM1w4zTggs19F0l1Dgl46Axkf-T5VpvY1MwBHOMXv_SUl8PZ-n0-_TwrJIEHsStshaT9Wsw03C_oejjeTSDAG-tH6GW_U6aboX_i0i1-sFagK4IOb-vMMISy0LRXMxe5J8YiCSl2KaY-gitsST1fz--oNI1ZepZKfqtCbPEmQ0dhQ4J1rZRCQe6ceLMklaE-q6GJjpmDTIAL_rQGFvUknsi3GkExbx0-fa3bRIUehqcEya0muF2_cEp7ji1ILsudCk7G3vpIyr5Eg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 479417276,
@@ -115100,6 +115105,108 @@
       "other": 0
     },
     "description": "🇦🇪 Breaking — An Iranian anti-ship missile targeted a ship station off the coast of Dubai, triggering sirens in Dubai. Iran has targeted the ship, which was reportedly believed to be carrying American goods.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479432396,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Israel: Hezbollah released video final days before",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Hezbollah released a video in the final days before the ceasefire showing gatherings of Israeli soldiers and military vehicles on the southern outskirts of Zawtar al-Sharqiya, targeted by a squadron of kamikaze drones. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61054",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lsX5I2fYvjXeZIB5BLlW-DbRFr3HB1LLDpaz0IrOZLJsP-SWBQYdaiV-hxPJYB20OqJi_Lxn6Z3IbfqshZM1QkfsnA5YXh7I8vjNIdFzcDbcjOK9RsnGdeeYwrKDsVgVwdbE4hrAtTzTESqwjewxotBXOAgJJSIehj9JsKBY39QdTCtz0xSMvgSCTTUsLmpyJwFY4Tg9LzmYQLyMLvJqA7DXO7-T7QWIHJG7XP_bOlU-Rvon7kXEJDQpleyLiI-rjUht8nmT6ZHLKkT5JgxBs99XE-lB20ZWMhu3uho3vYKgS-j2J7EpbavJKmzRLv72Z73cfDefR2ThIi1NRuq2RA"
+      }
+    ]
+  },
+  {
+    "id": 479435423,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Sirik: Breaking Iranian forces launched missiles from",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Iranian forces launched missiles from Sirik, reportedly targeting a ship that was allegedly violating the designated maritime corridor. 🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479438451,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Israel: Video Footage from Islamic Resistances operation",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⭕️ Video | Footage from the Islamic Resistance’s operation during the last days before the ceasefire, targeting gatherings of soldiers and vehicles belonging to the “Israeli” enemy army on the southern outskirts of Zawtar Al-Sharqiyah town with a swarm of loitering drones.Notes:00:02 – 00:07: During the last days before the ceasefire – targeting gatherings of soldiers and vehicles belonging to the “Israeli” enemy army on the southern outskirts of Zawtar Al-Sharqiyah town with a swarm of Ababil l",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
