@@ -268863,5 +268863,25 @@
     "description": "📄 Ghalibaf arrives in Baghdad to advance bilateral cooperation📌 Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has arrived in Baghdad at the head of a high-ranking parliamentary delegation for talks with senior Iraqi officials on strengthening bilateral relations, border securi...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1787127834566,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 In photos: Esteghlal beat Nassaji Mazandaran at Persian Gulf Pro League📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/P_n2xLCOoWe_k1-OxbDJvg_Ax2XHzxA2m96rVyhfiVwlxni1bbYc__zSj0yz06x13DgVpAF_0zIO_tqBk2JMbeMPGP3FoEOs04iluTOdmszCBuIV0FZWQN6648vxP9G-OOoIeKZcP28UKMiZ6ysraXriq5Py8M3n1qLLf4c2AOsZV8hjait21qSO__rvwlk6HckRqrlu3zjU6gGNkOGvPL2YQb4l2QmTuP0WYvRevyWaMTFNXYq4rTeReM7VURHgQrJ8lisQo4E0tzrmN7vUxBtmRlTWa7erc8IaArmsc6MbScjZP-Ev3nePo468wS9OIsFPoir_5sOx_fM_nGGniw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
