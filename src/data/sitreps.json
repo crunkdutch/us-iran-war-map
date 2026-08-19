@@ -268842,6 +268842,36 @@
     "verified": false
   },
   {
+    "id": 1787132265021,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: \"Israel’s\" decision to attack Syria despite Syria’s international standing, which currently prevents \"Israel\" from operating freely in Syrian airspace, indicates the scale of the potential threat that \"Israel\" has identified: an advanced Turkish radar system o...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787132211793,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: \"Israel’s\" decision to attack Syria despite Syria’s international standing, which currently prevents \"Israel\" from operating freely in Syrian airspace, indicates the scale of the potential threat that \"Israel\" has identified: an advanced Turkish radar system o...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787035691812,
     "type": "airstrike",
     "location": "Tehran",
@@ -268992,6 +269022,72 @@
       {
         "url": "https://cdn4.telesco.pe/file/P_n2xLCOoWe_k1-OxbDJvg_Ax2XHzxA2m96rVyhfiVwlxni1bbYc__zSj0yz06x13DgVpAF_0zIO_tqBk2JMbeMPGP3FoEOs04iluTOdmszCBuIV0FZWQN6648vxP9G-OOoIeKZcP28UKMiZ6ysraXriq5Py8M3n1qLLf4c2AOsZV8hjait21qSO__rvwlk6HckRqrlu3zjU6gGNkOGvPL2YQb4l2QmTuP0WYvRevyWaMTFNXYq4rTeReM7VURHgQrJ8lisQo4E0tzrmN7vUxBtmRlTWa7erc8IaArmsc6MbScjZP-Ev3nePo468wS9OIsFPoir_5sOx_fM_nGGniw.jpg",
         "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787132204252,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Speaker of the Iraqi Council of Representatives Haibat al-Halbousi, has welcomed his Iranian counterpart, and his accompanying delegation at the Iraqi Parliament.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/pn10XL9E8W2UV6nxjmotG08XCFpZ81DR6ZvDYB1mzV7ph2HMp1DTijXmyagDiThVUrWdCdyp6V_Rz34jul58v_K-jgEydRSrUp91Tt7_obOGH4zfnqpGZkPnNWCFF5Ufo4-YfVnSKXXM__94X0jzWvTOAC9_cwR7b1-ngEsa8dlWuQ6dJ5OiH_SoxMYDkteefO27EN0Ffwx8NhBgPf-Hs1O-xVgt_xAaIVdG_euekhspq0z0f_p2Y-LnTsvfuKOPgTAyfcwysUIEWQ8R_rauj3IRQsAn6WgP02K6vEEzU5rp64jEOkGfkLuon5lfMmLN1MeAWxuniugCnRF1GPJAHQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ipr2cPA99TybQusMuPaywsNRPYAY1IKQNLBO7fbVg9pBvHyhh_giMzZgPTEoNbjcThhhAZkgwrwwMgaziSQsfB_d4_OmM9ptACZwlAtCuaR88mbpinO9Yx-3jv-olW9Mzp95te-aqIGRR4CBPPp6jRjrR5qZX32yf6ffwQ9f-las8XJakenbfJwE6P_6cXNhJJ1UEpKyBNo7SMHaAW6NJzbL05ec8gpdse8i02oheja8-hqsm-m4LybxAAK8NCdaXgwJ4A-zcwOOQTQ2JhOoeZNanIPtUY4oneZzkgmrwsLqXM92uexAEdyoRtdY8_A7n2SRFhP1gDKtD7gG96EJFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/o_CT6mig9iaCvd29KpUJvIg2GPTKSkDfhKb9NWQqQTIKvjpUIZxQ7bG4zZ24n9Q4q04bnJ-yNQD3pc5sTPVZhwKoM-PaWyyZXPVqkeMjG0BjqD6FvsOKTrdlWAWLZj3uc1A2ffIp-N-tkzoma5NFkfpCoCGp2EJjBej71eu1TyJF79g24iWrb4jk-YNMCoCLglTtTuNdOon2PNnBSpWYA9cGzEjPe2aXaEphetq5xp_6YhRoClXBCbIisYitvM1ZkpcnPcKZFCBk-7_5_UqqeYuSDsnW3lC_klw3s6kXu5xeuDYrsJ_fLuAmUV9lq-pg2uDDInbmrwJ3HuLb74_IMg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kGiOEa9yyUUPQvLMp78Uorc8yOlVit40bKoImbqT7hEJmGsPmyrP8TzzawdHvi81u4YuY2YVVF5-9eqs83PzFN_hVPiGd5PQFv1FXoFBGuUqRJsmpuuzcaBZr6YMbB55zk0xcgTlcy_wn9jw-klaGkv4kPgp9lgd9VTjDmEeuMu8Z2NMWuj-j-K_YsbLVwHLFS5hTmatnhAq_jVMaoFpBVB1B-NspxrIU1JzJQ9-Zq3IFAKVyxXA-u2f2-BtyV9vZ2wxI5wViiDmItSWl17Pw3PcCeXpTLsk0_i2ese2dcgZ-J4UYGH64oK_OSuTjteBVK4jsvKDsJdZMt6nxG_B9A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/XNovl0vBXXWqfA7LUSQ3I2eHosEeg1gfmPgCjzy2ZPjENCBsb7VCQX1M1fIN8RX5qsZq-FvcJqAvoZ0H2v6L9ehknx6ONbtDrGR1xZuKyahiEBjHIb2NCEL7gkkvIxtErcKVDYWybkxvn2qY63Rw7mGu8NXgEFSO9GYoLcFOk-aL2eszVsLdMHY3XmXNahCLLk7ZeZcg-7JfvmQKduJ1seKqzdPadEuoO-GIi73-uLYGA5GbBg-07HRT0KI6-KS1b_z3lFIh0dn_OVCqal_mil6HWo2VbAQgSNjyGlOJR8FK2u03aKCRxi7zbVsyNvGcT0pn7ie7JQZbn3ydt4cmiw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/VlrMdp7tDNhb9S70w5Nn2UsmpHLPaIfKYz8BVB701ccLTuSOhZX49uZAJTifIr8F0hmRGRpo_nz2p59q2KsS1eQrmmkBgbnDMYelZ8FlmulK7qR5r_mZtQWVxgnsrS5oCpqlaVTVj3fg6pMewVTxkvCq0hLBD0N11hm3pdr64Ft9KOVAgSFp-J904Ckey91U78471P9S8-YeudV8VoxU8tSNMOsUTMbJ845YBWDqZMHSpfOmqaXp6-WRTdXFCs_36-q7Svque_r5Bl542bkllxC_Jy05xSt2xoVMVZnThxchrAJ4oE1JNW0DgkwmV23N-52O7V_4yn6bi36hFkG8tQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787132217223,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iran's Parliament Speaker Mohammad Bagher Gghalibaf, presented a gift to his Iraqi counterpart Haibat al-Halbousi, on behalf of the Iranian parliamentary delegation.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/43475e3276.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/JHStGQut8QPVM5o1FThvCajdmcoXbu-JEjlsP0lYJFn30PiJe4peZrDljm_rphRY2i0pJrq6rPFW6oKzELwqt3qaVUut075i34GKiynDTvpG2V5teJveBMTx-dmB1BJ5uGe1TP8p94uutayq4AzYQEswxaE5QR8mZ9pZVao1KFLdbduxG3NU_0EvJnmlR9lNIMZtzIccMz-0B7p5C1wkW9yZPJIqQOe7MtmosfL3labS2C4Vqn-chnq2vCReFheDkNazBNly2WMX_bas3M815tSVu99O7jo3naQJPdQ_USHwt_EflxFf41h4Ytqk5afYkj6FeU5qZBY-YgMQ9tItoQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/38252",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/JHStGQut8QPVM5o1FThvCajdmcoXbu-JEjlsP0lYJFn30PiJe4peZrDljm_rphRY2i0pJrq6rPFW6oKzELwqt3qaVUut075i34GKiynDTvpG2V5teJveBMTx-dmB1BJ5uGe1TP8p94uutayq4AzYQEswxaE5QR8mZ9pZVao1KFLdbduxG3NU_0EvJnmlR9lNIMZtzIccMz-0B7p5C1wkW9yZPJIqQOe7MtmosfL3labS2C4Vqn-chnq2vCReFheDkNazBNly2WMX_bas3M815tSVu99O7jo3naQJPdQ_USHwt_EflxFf41h4Ytqk5afYkj6FeU5qZBY-YgMQ9tItoQ"
       }
     ],
     "verified": false

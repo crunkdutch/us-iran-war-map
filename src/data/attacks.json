@@ -114926,7 +114926,12 @@
     "description": "📡 Kurdish VP says Iran won’t allow conspiracies to drive wedge with Iraqi Kurdistan📌 Tehran, IRNA – Vice President for Rural Development Affairs Abdolkarim Hosseinzadeh says that Iran will not allow any conspiracy to drive a wedge between the Islamic Republic and Iraq’s Kurdistan Region, stressing that Iran and the northern Iraqi region are united.Hosseinzadeh made the remarks late Monday on X, reacting to a drone attack on the office of Kurdistan Region Prime Minister Masrour Barzani earlier ",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/pP10Bz4DMk1471LafdcED81JqDc5npIXTJp6lmer3zf2HVPzn5fxtQI9CSzwQbCnklO6u5Wl0mmwgVqpGxj_fqw1ZNQmSGUiZv38RVCH5gcHhFO7khv1vD-K0zlzb_zVoB6Nek7o2BKNedOd7PM-AfnBuH1Rn1MDdrWaPU_szJCxUVa9Ji4kY60LGyHzzzMf1tXg3n6zwef_aP5GqYOq717hH0_smwvv5hmNvTEqIyt4LZ7PjNPd7xIAtyKP75Go_GHSubUcta3OHD4-jyR_YrUmJckAiqlhhesy6Tss16E7pQwhS2Im9UhGehf6NsT02WCklWcJlzkjb9dnlNsJNw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 479396150,
@@ -115285,6 +115290,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/jVnEo-ORY5oSGEBIlUGA0FQc-czab2hmsFskDPwrFIqI7ahEF3GgSkzWBW1nppmHj58f0OHs0ucD9-VVzEeBvhQULozN4-V3mDdWXgeiDgxWocWBx1NUB8LiUewGIdoOBSg6U_iq_ayMJ0CfrRLG776eNskqkBWR6979W8Tj38X7_fmRNz8Zvo5LcVx0a5pETV8tmoqBbG9XI6qFkYnfDGIgFj_hqDGvB_J0oVQIOZIFnzp_GJXJMlmrPmJ2VXD6QpvWZWl6SHYSlMufwo3CN-Sk46-fhHkbmI21JbM4ecaXm5L2syxjdV19QwXPYAf3nJi8rOdW21dmcecBCK8QOQ"
       }
     ]
+  },
+  {
+    "id": 479453606,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Syria, Israel: Enemy_MediaIsraeli enemy army radio Israels decision",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: \"Israel’s\" decision to attack Syria despite Syria’s international standing, which currently prevents \"Israel\" from operating freely in Syrian airspace, indicates the scale of the potential threat that \"Israel\" has identified: an advanced Turkish radar system on Syrian territory would undermine freedom of aerial operations not only in Syria, but also in Iran. The next \"Israeli\" aircraft attempting to secretly take off toward Iran could be detected while hea",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 479447541,
