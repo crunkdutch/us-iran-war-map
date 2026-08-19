@@ -269215,5 +269215,50 @@
     "description": "🔊 Ukraine must compensate for attack on Iranian ship: Envoy📌 Moscow, IRNA — Iran’s ambassador to Russia has called on Ukraine to compensate for all damages caused by its drone attack on the Iranian merchant ship Anna in the Caspian Sea, which killed one crew member and injured several others.Kazem...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1787145366445,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iran’s Parliament speaker meets Iraqi president in Baghdad📌 Tehran, IRNA – The Speaker of Iran’s Parliament, Mohammad Bagher Ghalibaf, meets with Iraqi President Nizar Mohammed Saeed Amidi during his visit to Iraq.Ghalibaf, who arrived in Baghdad earlier on Wednesday, held talks with Amidi as pa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787145346264,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iran’s Parliament speaker meets Iraqi president in Baghdad📌 Tehran, IRNA – The Speaker of Iran’s Parliament, Mohammad Bagher Ghalibaf, meets with Iraqi President Nizar Mohammed Saeed Amidi during his visit to Iraq.Ghalibaf, who arrived in Baghdad earlier on Wednesday, held talks with Amidi as pa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787145381463,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iran’s Parliament speaker meets Iraqi president in Baghdad📌 Tehran, IRNA – The Speaker of Iran’s Parliament, Mohammad Bagher Ghalibaf, meets with Iraqi President Nizar Mohammed Saeed Amidi during his visit to Iraq.Ghalibaf, who arrived in Baghdad earlier on Wednesday, held talks with Amidi as pa...",
+    "media": [],
+    "verified": false
   }
 ]
