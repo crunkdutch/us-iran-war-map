@@ -115388,6 +115388,70 @@
     "media": []
   },
   {
+    "id": 479456640,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Tehran, Baghdad, Iraq: Speaker Ghalibaf meets with Iraqi counterpart",
+    "location": "Tehran, Baghdad, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Speaker Ghalibaf meets with Iraqi counterpart in Baghdad📌 Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has met with his Iraqi counterpart Haibat al-Halbousi during his visit to Baghdad, discussing bilateral issues.The Iranian parliamentary delegation, headed by Ghalibaf, visited the Iraqi parliament on Wednesday, hours after they arrived in Baghdad, where talks were held with al-Halbousi and a number of Iraqi lawmakers.​The two speakers then held a private meeting.​Ghal",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479459675,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Caspian Sea: Ukraine must compensate attack Iranian ship",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Ukraine must compensate for attack on Iranian ship: Envoy📌 Moscow, IRNA — Iran’s ambassador to Russia has called on Ukraine to compensate for all damages caused by its drone attack on the Iranian merchant ship Anna in the Caspian Sea, which killed one crew member and injured several others.Kazem Jalali told Russia’s RIA Novosti news agency on Wednesday that the attack was a “terrorist and criminal act” targeting a civilian vessel carrying commercial cargo under the Iranian flag.​The attack w",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
