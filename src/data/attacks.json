@@ -115388,6 +115388,38 @@
     "media": []
   },
   {
+    "id": 479471825,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tel Aviv, Damascus, Syria: talk potential israeliTurkish confrontation following israel...",
+    "location": "Tel Aviv, Damascus, Syria, Israel, Turkey",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The talk of a potential israeli-Turkish confrontation following the israeli attack on the already-damaged Abu al-Duhur military airport in occupied Syria, and israeli claims that the strike was intended to counter Turkish military positioning, should not be exaggerated or treated as an imminent major confrontation unless further developments confirm it. However, far more than reflecting the reality of an imminent confrontation, the situation increasingly looks like a well-planned theatre desig",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479447541,
     "type": "missile",
     "status": "confirmed",
