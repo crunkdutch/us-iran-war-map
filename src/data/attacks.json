@@ -115452,6 +115452,38 @@
     "media": []
   },
   {
+    "id": 479487035,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Lebanon, Syria, West Bank: Statement Loyalty Resistance Bloc 20082026The Loyalty",
+    "location": "Lebanon, Syria, West Bank, Taba",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement by the Loyalty to the Resistance Bloc – 20-08-2026:The Loyalty to the Resistance Bloc held its regular session on 20-08-2026 to discuss a number of political and parliamentary matters, as well as issues concerning Lebanon, Palestine, and the region, and issued the following statement:Forty days have passed since the burial of the leader of the Islamic nation, the Wali Al-Faqih and martyr leader Sayyed Ali Al-Husseini Khamenei, and feelings of loss and loyalty to this exceptional histor",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479447541,
     "type": "missile",
     "status": "confirmed",
