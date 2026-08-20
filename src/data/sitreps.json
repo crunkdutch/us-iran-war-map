@@ -269112,6 +269112,21 @@
     "verified": false
   },
   {
+    "id": 1787228951052,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israeli\" media: Strike at Ben Gurion Airport – landing operations at the airport have currently been suspended until 20:00. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787035691812,
     "type": "airstrike",
     "location": "Tehran",
