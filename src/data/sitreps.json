@@ -269142,6 +269142,66 @@
     "verified": false
   },
   {
+    "id": 1787248794446,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: The Prime Minister is currently holding a special meeting attended by the heads of the security agencies, including intelligence agencies, to discuss all future developments, particularly in Syria and relations with Türkiye. This comes against the backdrop of the Turks...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787248823017,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: In recent days, the \"Israeli\" security establishment has observed that Hezbollah is working to strengthen and expand its attempts to target \"Israeli\" army forces operating in Lebanon, including by planting Improvised Explosive Devices [IEDs] against the forces in respo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787248854299,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: In recent days, the \"Israeli\" security establishment has observed that Hezbollah is working to strengthen and expand its attempts to target \"Israeli\" army forces operating in Lebanon, including by planting Improvised Explosive Devices [IEDs] against the forces in respo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787248814880,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12, citing an \"Israeli\" security source: “The temporary calm in the north is misleading, and we are preparing accordingly.”#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787035691812,
     "type": "airstrike",
     "location": "Tehran",
@@ -270023,6 +270083,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Iran warns US space ambitions risk fueling arms race📌 London, IRNA - Iran’s permanent representative to the United Nations Office in Geneva has warned that United States efforts to achieve military and strategic superiority in outer space heighten the risk of an arms race and threaten to turn th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787248710505,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-08-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🏴 | Breaking — The third-night mourning ceremony following the 40th day of the burial of Imam Sayyid Ali Khamenei and his martyred family members is currently underway. Hundreds of thousands of people have gathered at the Holy Shrine in Mashhad to pay their respects and pay homage to Imam Kha...",
     "media": [],
     "verified": false
   },
