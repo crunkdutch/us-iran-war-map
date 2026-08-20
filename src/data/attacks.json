@@ -115755,6 +115755,49 @@
     ]
   },
   {
+    "id": 479490080,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni Armed ForcesWith grace Allah Yemeni",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:With the grace of Allah, the Yemeni Armed Forces have carried out two military operations using drones. The first targeted a sensitive Saudi enemy position at Najran Airport, and the second targeted Aramco Najran. Both operations successfully achieved their objectives, thanks to God.These operations came in response to the Saudi enemy's violation of Saada province's airspace with its own drones. The Armed Forces will continue to protect Yemen's sovereignty from any bre",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6c42fab58f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jVnEo-ORY5oSGEBIlUGA0FQc-czab2hmsFskDPwrFIqI7ahEF3GgSkzWBW1nppmHj58f0OHs0ucD9-VVzEeBvhQULozN4-V3mDdWXgeiDgxWocWBx1NUB8LiUewGIdoOBSg6U_iq_ayMJ0CfrRLG776eNskqkBWR6979W8Tj38X7_fmRNz8Zvo5LcVx0a5pETV8tmoqBbG9XI6qFkYnfDGIgFj_hqDGvB_J0oVQIOZIFnzp_GJXJMlmrPmJ2VXD6QpvWZWl6SHYSlMufwo3CN-Sk46-fhHkbmI21JbM4ecaXm5L2syxjdV19QwXPYAf3nJi8rOdW21dmcecBCK8QOQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61059",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jVnEo-ORY5oSGEBIlUGA0FQc-czab2hmsFskDPwrFIqI7ahEF3GgSkzWBW1nppmHj58f0OHs0ucD9-VVzEeBvhQULozN4-V3mDdWXgeiDgxWocWBx1NUB8LiUewGIdoOBSg6U_iq_ayMJ0CfrRLG776eNskqkBWR6979W8Tj38X7_fmRNz8Zvo5LcVx0a5pETV8tmoqBbG9XI6qFkYnfDGIgFj_hqDGvB_J0oVQIOZIFnzp_GJXJMlmrPmJ2VXD6QpvWZWl6SHYSlMufwo3CN-Sk46-fhHkbmI21JbM4ecaXm5L2syxjdV19QwXPYAf3nJi8rOdW21dmcecBCK8QOQ"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

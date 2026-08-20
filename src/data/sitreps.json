@@ -269892,6 +269892,81 @@
     "verified": false
   },
   {
+    "id": 1787235549960,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-19",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Israel has somehow occupied a large part of Lebanon on a seemingly permanent basis, established a military presence roughly 40 km deeper inside Syria, maintained control over almost the entirety of Gaza, and is now expanding its control and influence across the West Bank. Recent reporting describe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787235515223,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-19",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Israel has somehow occupied a large part of Lebanon on a seemingly permanent basis, established a military presence roughly 40 km deeper inside Syria, maintained control over almost the entirety of Gaza, and is now expanding its control and influence across the West Bank. Recent reporting describe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787235519050,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-19",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Israel has somehow occupied a large part of Lebanon on a seemingly permanent basis, established a military presence roughly 40 km deeper inside Syria, maintained control over almost the entirety of Gaza, and is now expanding its control and influence across the West Bank. Recent reporting describe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787235537106,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-08-19",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Israel has somehow occupied a large part of Lebanon on a seemingly permanent basis, established a military presence roughly 40 km deeper inside Syria, maintained control over almost the entirety of Gaza, and is now expanding its control and influence across the West Bank. Recent reporting describe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787235460804,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:With the grace of Allah, the Yemeni Armed Forces have carried out two military operations using drones. The first targeted a sensitive Saudi enemy position at Najran Airport, and the second targeted Aramco Najran. Both operations successfully achieved their objectives, tha...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
