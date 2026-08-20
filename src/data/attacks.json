@@ -115686,6 +115686,43 @@
     ]
   },
   {
+    "id": 479483991,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Iraq: Faleh alFayyad head Iraqs Iranbacked Popular",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 100
+    },
+    "description": "🇮🇶 | Faleh al-Fayyad, head of Iraq’s Iran-backed Popular Mobilization Forces (PMF):The PMF does not have authority to decide on war and follows the Commander-in-Chief of the Armed Forces.Over 100 PMF headquarters were reportedly bombed during the war with Iran, with more than 100 PMF members killed and dozens wounded.The PMF was targeted to pressure Iraqi resistance factions.Work is ongoing to separate some PMF brigades from political and factional affiliations.External pressure on the PMF wil",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Z2YUOrq_sy8VH8oh2fR2AuVED6AplXYLLyJshGRQcNu3DKMjrXy4qa1t7z3skiDwh7zJwCtMaGNmpqTOJPTLPAM2hvu16270QHaRgTx9eLGAai_J3qQ34x2jERKL8kzB6bDxi9wCR4drmByDtmGivcH6Ks-rCuF_8cbdovF6JOLsYfaDbso5gN26NUj8Nkx82puklpQtSJSoY5g8Sz3Zs564YRSspDHOBphcCi7ac-a3el-r5JL7Zwpn5Y_GmoYKzke8Oe2t7PY3KlrC3oWY4sgVL_7Qu_H8IE3gTU8sxbwAyDRCsejZ0LueS0lm1OBqQhskmnDJtA1q5U4FMzX2bg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

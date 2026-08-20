@@ -269676,5 +269676,40 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": 1787211304275,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | Faleh al-Fayyad, head of Iraq’s Iran-backed Popular Mobilization Forces (PMF):The PMF does not have authority to decide on war and follows the Commander-in-Chief of the Armed Forces.Over 100 PMF headquarters were reportedly bombed during the war with Iran, with more than 100 PMF members kille...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Z2YUOrq_sy8VH8oh2fR2AuVED6AplXYLLyJshGRQcNu3DKMjrXy4qa1t7z3skiDwh7zJwCtMaGNmpqTOJPTLPAM2hvu16270QHaRgTx9eLGAai_J3qQ34x2jERKL8kzB6bDxi9wCR4drmByDtmGivcH6Ks-rCuF_8cbdovF6JOLsYfaDbso5gN26NUj8Nkx82puklpQtSJSoY5g8Sz3Zs564YRSspDHOBphcCi7ac-a3el-r5JL7Zwpn5Y_GmoYKzke8Oe2t7PY3KlrC3oWY4sgVL_7Qu_H8IE3gTU8sxbwAyDRCsejZ0LueS0lm1OBqQhskmnDJtA1q5U4FMzX2bg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787211280562,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Following the visit of Gen. Esmail Qaani to Iraq, the rejection of handing over resistance weapons to the Iraqi state under the banner of the so-called “state monopoly on arms” promoted by the American-backed Iraqi government, the continuation of economic…",
+    "media": [],
+    "verified": false
   }
 ]
