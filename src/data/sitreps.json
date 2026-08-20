@@ -268992,6 +268992,51 @@
     "verified": false
   },
   {
+    "id": 1787204757138,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: We reveal that during the battle to take control of Rashaf town in southern Lebanon, the town was supposed to be entered in a single night, but the operation, which was expected to take less than a day, turned into seven days of fierce fighting.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787204731099,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: We reveal that during the battle to take control of Rashaf town in southern Lebanon, the town was supposed to be entered in a single night, but the operation, which was expected to take less than a day, turned into seven days of fierce fighting.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787204774321,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: During the operation to take control of Rashaf town, the \"Israeli\" army was forced to change its plans after encountering numerous Improvised Explosive Devices [IEDs], anti-tank missiles, and mortar shells.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787035691812,
     "type": "airstrike",
     "location": "Tehran",

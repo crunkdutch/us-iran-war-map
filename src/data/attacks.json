@@ -115420,6 +115420,38 @@
     "media": []
   },
   {
+    "id": 479474865,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-18",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Israel: Enemy_MediaIsraeli media During operation take control",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: During the operation to take control of Rashaf town, the \"Israeli\" army was forced to change its plans after encountering numerous Improvised Explosive Devices [IEDs], anti-tank missiles, and mortar shells.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479447541,
     "type": "missile",
     "status": "confirmed",
