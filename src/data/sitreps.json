@@ -269635,5 +269635,46 @@
     "description": "🔊 Israeli regime continues attacks on southern Lebanon📌 Tehran, IRNA – Israeli forces have once again destroyed infrastructure in southern Lebanon in violation of a ceasefire agreement.The Zionist regime’s army carried out a destructive explosion early on Thursday in the town of Al‑Khiam in southe...",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1787209069787,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | Resistance members and supporters in Iraq celebrated the release of Hajj Yaqoubi, a member of the Nujaba Movement, who had been arrested on false charges by Iraqi Prime Minister Ali Zaidi.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61077",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/e_m5O3Yrsf26urC02RNFn2UtpCUlYEQRqyB5PjwV3mF0OSuuvAtJ1X4CQE_8xJKBQGSZGGfiaX_0M3baPnyvSq6Qn4JXi9BIFHqnKXL27TPbcLIJETjpr64C8v98m-dDlLdkMrjN_nY57i8Jip8Y7Zkp3CDM6GVJp0WT5KdLxcV1kRXLRMaZ3_1n6ZIxiWDXxAY8efRjnsAeuQH6J2YTqFCP1HEbBLpOpQ_QCfgTfI2YQT4gscXJRCDlwOdyJAO71Zm05QcbykZrk-HHdEL_2G85Bu-_m4zIo329XLy4DFv4KloMZu76Vxkw7DDsf0QWzsPd1ohYNBfgtrteaF3t_A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787209068347,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ 🇸🇾| Whether Bashar did it or not, no one knows other than the Zionist Arab media, their mouthpieces, and fabricators, but this process is ongoing. Top HTS figures around Julani are suddenly dying of heart attacks, with this being the third reported case of this kind in the past two weeks. Th...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b8WJdovY-s0IDvokSCuaAn2RseX-O29BkgsI1E8oHqahUbMyeOwtFj1GcKkzMneNz7_xP6WFoGxGJCHJ0MKqMFyve2nLYyVFalsMOhShqfp1n6V55sw_WLPQlb3SXtUjVpEPfJG6-kg7UE8dEB_Uy6T7s7R2n5PcOFQ4cSW1dOlUv3P-pWfUo9DQ0gzM3HMMgk8Vq-DbGcU1Mjg_gR-1JMLfLpC2TVWr81w9nkoL5wLJ0gZB42_t0LNHeaHFJA5oKnweKWGd9NV4oSt6ZlDrClkFvJtV0VvCIOIHcP0qnPTQgrQ3ieqBgj1lYpXswyBB6Jnqy3Y9BH4xmw4MMcPmUA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]

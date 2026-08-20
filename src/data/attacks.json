@@ -115617,6 +115617,75 @@
     "media": []
   },
   {
+    "id": 479477906,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Bushehr, Tel Aviv, Doha: Updates AmericanThe American military reportedly transferred",
+    "location": "Bushehr, Tel Aviv, Doha, Al Dhafra Air Base, Strait of Hormuz, Lebanon, Yemen, Qatar, UAE, Oman, Israel",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | Updates:🏴‍☠️ AmericanThe American military has reportedly transferred a P-8A reconnaissance aircraft from Djibouti to Al Dhafra Air Base in the UAE, while American aerial-refueling aircraft are operating from Qatar and Tel Aviv around the Strait of Hormuz to refuel fighter aircraft.🇵🇰 PakistanPakistan summoned the U.S. Chargé d’Affaires in Islamabad and conveyed a strong protest over statements by the U.S. Ambassador to India regarding Kashmir. Donald Lu, during his first visit to Srinag",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479480948,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria: Whether Bashar knows other than Zionist",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ 🇸🇾| Whether Bashar did it or not, no one knows other than the Zionist Arab media, their mouthpieces, and fabricators, but this process is ongoing. Top HTS figures around Julani are suddenly dying of heart attacks, with this being the third reported case of this kind in the past two weeks. The “silent death” series appears to be continuing to claim the lives of Julani’s militia leaders. The militia leader known as Muhammad Nayef Al-Hajj, nicknamed “Abu Suhaib,” was reportedly killed follo",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b8WJdovY-s0IDvokSCuaAn2RseX-O29BkgsI1E8oHqahUbMyeOwtFj1GcKkzMneNz7_xP6WFoGxGJCHJ0MKqMFyve2nLYyVFalsMOhShqfp1n6V55sw_WLPQlb3SXtUjVpEPfJG6-kg7UE8dEB_Uy6T7s7R2n5PcOFQ4cSW1dOlUv3P-pWfUo9DQ0gzM3HMMgk8Vq-DbGcU1Mjg_gR-1JMLfLpC2TVWr81w9nkoL5wLJ0gZB42_t0LNHeaHFJA5oKnweKWGd9NV4oSt6ZlDrClkFvJtV0VvCIOIHcP0qnPTQgrQ3ieqBgj1lYpXswyBB6Jnqy3Y9BH4xmw4MMcPmUA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
