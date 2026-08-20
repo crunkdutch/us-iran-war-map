@@ -269711,5 +269711,40 @@
     "description": "Following the visit of Gen. Esmail Qaani to Iraq, the rejection of handing over resistance weapons to the Iraqi state under the banner of the so-called “state monopoly on arms” promoted by the American-backed Iraqi government, the continuation of economic…",
     "media": [],
     "verified": false
+  },
+  {
+    "id": 1787213467940,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Imam Mujtaba Khamenei is an established jurist, recognized within the Assembly of Experts, among other scholars and relevant scholarly circles. His recognition as a jurist predates his announcement as the Leader. Even before assuming the leadership, he was…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787213518701,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2027-08-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "While on an official visit to Iraq on August 20, 2027, Mohammad Bagher Ghalibaf , Speaker of Iran's Parliament, paid a visit to the sacred shrines of Imams Musa ibn Ja'far and Mohammad al-Javad in Kazimayn.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qRBkx2QheiLL94L6kHf90NaGviXEGg749A6TGQ4qT--IbZ68TqjFlNfNT1sASydAXdKn5oZgh9D2uxmPNKzmpA2ksWze3eeHxcdDmcybM9o9MjiOpNAH0EKBQ9OWj604NXWS3LV88gmo25raG7Bjy1h271TBWl2ce3yb6Il1hEKVk0n-g8DYTpwqDNcLptlRpPofrwEz8XuwoJ5FJpwUmhMbdemnwmRtfoYebYTjCadPg1hgDgtP-Y-955azXGceIAOjkqYbPpZ-g3vnLhDO_qolVm_t_CtBGZt1kHfpdwAhoKHZgWnR-yQqNpA-CZGR7Ep2HiULbXRkeeKoCuPSqg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
   }
 ]
