@@ -115891,7 +115891,13 @@
     "description": "— Any attack on Iran would trigger an immediate and rapid response, with a new wave of operations employing different tactics, weapons, and ranges. Iran’s senior military commanders are already prepared for such a scenario and would respond accordingly.For the Americans, the consequences would extend far beyond the battlefield. Any attempt to strike Iran could lead to a broader campaign aimed at disrupting the economic and commercial interests of the United States and its allies. Cargo shipments",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/38275",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/pGNTN9WgeUpyxu4X11ghl3yW7Xh29dPq-UhBGXG2VxBUi8I1_Sbj1aKf9l0vXW_wSgja53gD9WNsSc_6fxiN9TPsy-xQyStIeGAfZD9g3RdEKSQMiju6a3Ns5jVTWEeLUkzIcn1Uv8m-CrWFHR_hwE3FsNUdBjFBZdUKWxfAjHpUOkLMk1fIHKXg1frUN2q0d8szK90EqHm8HXK2Bm5n0byYToigFK9Etspct1sk4OwaHj8KKO5WXLP6F3UM7LltSQ56rU_qXTM-HoNEwsh4cjTF47QlcieVAHUge2iAqGyyWYH1kb785yN-3wktEdaBJHAnvQKZRV8ecQp_U5QLgA"
+      }
+    ]
   },
   {
     "id": 479502270,
@@ -115921,6 +115927,38 @@
       "other": 0
     },
     "description": "⚡️🤖 OpenAI has launched a ChatGPT Messages integration for Apple Macs that can search and analyse iMessage, SMS and RCS conversations, summarising who users talk to and what they discuss.Users must grant permissions to access their local Messages database, and sending messages requires approval by default. However, persistent approval can allow automatic sending, while OpenAI has also acknowledged a failure mode that can disable approval prompts.The major privacy concern is that one user could ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479505320,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Baghdad, Iraq: IranIraq ties with clear roadmap impact",
+    "location": "Tehran, Baghdad, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran–Iraq ties with clear roadmap can impact region: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has emphasized that developing bilateral relations between Iran and Iraq with a clear roadmap could significantly impact the region, especially Arab and other Muslim countries.A meeting of Iranian and Iraqi economic activists was held at the Embassy of the Islamic Republic of Iran in Baghdad on Thursday, in the presence of Ghalibaf and members of the accompanying parliame",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

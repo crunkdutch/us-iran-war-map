@@ -402,6 +402,51 @@
     "verified": false
   },
   {
+    "id": 1787303719843,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2020-01-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Ghalibaf pays tribute to Iraqi resistance martyrs in Najaf📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has visited the grave of martyr commander Abu Mahdi Al-Muhandis and other Iraqi resistance martyrs in Najaf.On the third day of the Iranian parliamentary delegation’s visit to I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787303757128,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2020-01-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Ghalibaf pays tribute to Iraqi resistance martyrs in Najaf📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has visited the grave of martyr commander Abu Mahdi Al-Muhandis and other Iraqi resistance martyrs in Najaf.On the third day of the Iranian parliamentary delegation’s visit to I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787303732336,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2020-01-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Ghalibaf pays tribute to Iraqi resistance martyrs in Najaf📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has visited the grave of martyr commander Abu Mahdi Al-Muhandis and other Iraqi resistance martyrs in Najaf.On the third day of the Iranian parliamentary delegation’s visit to I...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786703956374,
     "type": "airstrike",
     "location": "Jeddah",
@@ -270301,6 +270346,51 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1787303741078,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran–Iraq ties with clear roadmap can impact region: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has emphasized that developing bilateral relations between Iran and Iraq with a clear roadmap could significantly impact the region, especially Arab and other Muslim countrie...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787303727729,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-08-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran–Iraq ties with clear roadmap can impact region: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has emphasized that developing bilateral relations between Iran and Iraq with a clear roadmap could significantly impact the region, especially Arab and other Muslim countrie...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787303679537,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran–Iraq ties with clear roadmap can impact region: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has emphasized that developing bilateral relations between Iran and Iraq with a clear roadmap could significantly impact the region, especially Arab and other Muslim countrie...",
+    "media": [],
     "verified": false
   },
   {
