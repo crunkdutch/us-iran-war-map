@@ -270439,6 +270439,21 @@
     "verified": false
   },
   {
+    "id": 1787312547020,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-20",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Armed Forces chief warns of ‘devastating’ response to any enemy attack📌 Tehran, IRNA – Chief of Staff of the Iranian Armed Forces Major General Ali Abdollahi has warned that any “miscalculation” from adversaries would be met with “revolutionary, crushing, regret-inducing, and devastating respons...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
