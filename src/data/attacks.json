@@ -115862,6 +115862,38 @@
     "media": []
   },
   {
+    "id": 479499221,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz, Red Sea: attack Iran would trigger immediate rapid",
+    "location": "Strait of Hormuz, Red Sea",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Any attack on Iran would trigger an immediate and rapid response, with a new wave of operations employing different tactics, weapons, and ranges. Iran’s senior military commanders are already prepared for such a scenario and would respond accordingly.For the Americans, the consequences would extend far beyond the battlefield. Any attempt to strike Iran could lead to a broader campaign aimed at disrupting the economic and commercial interests of the United States and its allies. Cargo shipments",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
