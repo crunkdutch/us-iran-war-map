@@ -115830,6 +115830,38 @@
     "media": []
   },
   {
+    "id": 479496173,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-20",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Bandar Abbas, Hormozgan, Red Sea: Updates IranIrans police announced seizure tons",
+    "location": "Bandar Abbas, Hormozgan, Red Sea, Lebanon, Yemen, Saudi Arabia, Israel, West Bank",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | Updates:🇮🇷 IranIran’s police announced the seizure of 17.7 tons of various narcotics, 786,000 liters of smuggled fuel, and 430 firearms, including 118 military weapons and 312 hunting weapons, during a nationwide operation carried out over the past 48 hours.The General Manager of Hormozgan Airports also announced that direct flights from Bandar Abbas to Rasht and Gorgan have resumed after a suspension that lasted several months.The American Treasury Department imposed new sanctions on ind",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
