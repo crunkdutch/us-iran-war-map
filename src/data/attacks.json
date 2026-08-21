@@ -115899,6 +115899,38 @@
     "media": []
   },
   {
+    "id": 479523641,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-19",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Lebanon, Syria, Yemen: Statement Issued Hezbollah Regarding Treasury State",
+    "location": "Lebanon, Syria, Yemen, Iraq, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah Regarding the US Treasury and State Department Statements:The US administration came out yesterday, through the US Treasury and State Departments, claiming that Hezbollah is under the control of the Quds Force, in an attempt to justify its re-listing on the sanctions list. In reality, this decision is nothing more than another link in the ongoing policies of successive US administrations aimed at targeting the Resistance, its society, community, and supporters, and ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479496173,
     "type": "drone",
     "status": "confirmed",
@@ -116063,6 +116095,82 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 479517530,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemens Armed Forces have released 10minute",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen’s Armed Forces have released a 10-minute compilation of targeting Saudi-backed troops, vehicles, and tanks in Marib and along the Western coast🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61113",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OVHY6rHyvjTlXulTUEyO-x6W13NB6LgnW0ALo2n7GY7rUzW_ZoDSydklf4bmtEmj0FwhVa5x8vZdy5cS0Lg6QD1nhPtTa7C9jkNDH3QRnOQ1zOqDfeIJRXsy_rwlWJtqNEA1pfv3jC2gnqJ3xS0eWpPOEy0-uomEqXMECUeKZXCtd8Ubm-xfLqqeXnfk5xsYttXY9gi-cSWOSqimh5Qi0U4nmCcxkoLghdxr8lIehd2PmrpCFF3FTpdSMgzz8Hm6XChpTKhEc6GyQQtO5QxXazWFM2W_llbzxprQSxGChpO29rg3yXCbcP1n48mgFdhlNejSqeKMBy8rhyBKiLAccg"
+      }
+    ]
+  },
+  {
+    "id": 479520585,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni army released footage showing successful",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | The Yemeni army has released footage showing the successful targeting of enemy Saudi gatherings and equipment using a \"Rajm\" drone in Marib and the western coast.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61124",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LNuQPW13t_QJ80XEsnG4ATpVNg9ma4pMB3OLsnz89zJysQU0lXOB1-5PN0t7Fje9aZVQeXj_XJZsvT7SAkxrBuwb5HmFx89bmFyy5jROoti3xSkxu9BosgklflXZ0-IYvPE5bcmuLbV2wicKYNVkEvwIGYiYn2-K4BDeottTKGvcIYvPQfTHusiE1yrvPmXl_4oNpjW7TN8BH75hcvjzdtXHxw1XOkI4IEadgxTIR-l4bREgnAyptENUSoUUy-epCjHUUlIX44OAS3PL3tFO1TrEoqDGR-UEi7FuVWEgsGsg19tVi9TXgDKnGdtN_MHzqegE80vrUFfNBeZufQlwtg"
+      }
+    ]
   },
   {
     "id": 477331196,
