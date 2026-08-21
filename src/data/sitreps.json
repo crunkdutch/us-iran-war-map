@@ -270222,6 +270222,38 @@
     "verified": false
   },
   {
+    "id": 1787277358013,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | The Yemeni city of Ibb is adorned in celebration and jubilation for the arrival of the blessed birth anniversary of the Prophet Muhammad (S). 🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/sQCH24auRw7vvsv7BJKQcVcgwNDOjm09MGyXFORM5DZGlaD5LyepdrMMJNR0go9KO8DGYZt6ohBtVN6VS8QS9aTT65Z8AH6IWQh3rgFBaANkwwjOIvkMG5tp-G6ta1ybUW5SE7vwx039lo9YCJyuG3WDNrNW2J5csm_-UqMRh54widcVl4ZROYUU3eyPBiYGDRbHLdn1Yyf0dXzWempepKN3A5_EKgIkpt2BwiB_teReqDomMCfAEdfOCec31bub0ulI2bTtx_LflELCogrmHlAcc5EP8TQPLOxD3HUb0C8lAsCwc3Aptdo9jIrOhuSrRTdTW48CvxnFh5cMbIlDZQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/KVSE-Gt1VmvHvnkT2OPlyifbrAr1zI-7ABnfKuZqBsS0XejB_iIUd-IJx7VdY6sgmfp_BMzxJcdJQrQ2kePwYCBtutOoTz4ILGe8Z8RfioENn9JJViE_TJUk3R8vcKLH9TmdS06SPcoNWPUVLSmXtxQmOPYrFic4g0vy89UiWR9xzsqxpbzNH6_-hwnhyWxaEC_0gljJJJKFx3hOw_XwVbtMg6pmBD0ICLWnSWHHnRsxSP-3Fs_eH5gVZhCcAjRC4ZfnjkDtzfh1yiL-X3w6kQih5dI5LHN29ksdgTpiNStUrGVXRexgKX8vujM-4lGt5CetahM6hZG89laFEbN_8Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/rTTbKEoU4tI8mz_p1F-x7sn8eBX5cjQdEJR6Szd-h45WEo4gLtDxd_0dtgcTRoey6XGLYPB5SU1WbQN0rwRvty_ods42JtQGUvQWY8XIk-zgVZx_6A7OMVTBFhXjlBAjS0gqorfgcRHp-SYcdZ4F7ScAY41ddQI5lgvQvjGrpmm-wzFc7uGyBwkNUCyjT_6W094MH3yDXZ1tYiILPGWvsqpprOFGiWFj5tafU70EddL3cMd70zJD1wik4209cQiPlRTT4hiqYFMg_TvbJNMWDvPvjQw-0wQTqyFnVqeDI43CRMykCfVrnS_pYxPZCxNK8E6v1nHrXvKpIhL6hcZUow.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kX4vicJhTsK4nNTGRSCLEBLSuIw5xH_fPU9S7TkZpHLfc1X6P7cXTz6MoD-XHQFvNTLvRTPML6l2on5-4-wERfNW0EKcN_aqFPJEtw_6O6NwN8rrYhCYZtmCc3wBj_FD6hakSs2PeJIL6lSOeyomj7OgXLK8IS4bLDVTBJCP9b3dNEchMs7GuHDAdrUQWLLnoNUUkGnoS52NMTYjj--ZtQKblPdi5JboCdWicb747Em5G4CP9DmO8FYrJQ71ugKJzLVC8QWCDi9lvwr_56Vj2z8vpsWyObchGYyDcqnaTTbGNm2550Ose4O-qS7ShyuD-486Rs5Phvhk3WiQtFslxA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
