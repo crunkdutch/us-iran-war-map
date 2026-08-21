@@ -270601,6 +270601,21 @@
     "verified": false
   },
   {
+    "id": 1787327842068,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Yemeni Armed Forces:Images of the targeting of gatherings and vehicles belonging to the Saudi enemy with a Rajum drone in Marib and the western coast.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

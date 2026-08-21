@@ -116173,6 +116173,49 @@
     ]
   },
   {
+    "id": 479526698,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: Hezbollah issued statement condemning recent Department",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Hezbollah issued a statement condemning the recent U.S. Department of the Treasury and Department of State sanctions, stating that the decision is part of ongoing American policies to target the resistance and protect the security of the \"israeli\" enemy.The statement emphasized that the U.S. administration treats Lebanon from a position of guardianship, shielding the occupation instead of compelling it to withdraw from southern Lebanon and halt its attacks. Hezbollah affirmed that its dee",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dcf377f0d6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OjDTGeYQVYNO6Uu4PILhKlYeXyyNljCWpBh6Fo6l75IoFV4GI_Kg2y3uhRdlHj5kPAYXx4Lojc8fuJwCSPEHTdH12Urp-yycxkKYs6YAzi__pt-eUAkE8TO61ZL7XQ9v4s-4Ws-Od6cC8j4lrDO_o1NRwe51OUfWzURTOEmKY0qDYAz6pC9R3jSM0m_hXzZnI-oqan-EWn6m2IYA2lZ_5QrURO3DK4hAsz7-MC6RPDZa0ya2yH844y7qEmlu5cPj9f0etcYZN4vO2cdevvOP6USW01hMjnm00eJ-y3sHiSbakBZmsjzsx_mb63THpK7woZ9YeICW2MEF_3jxSJ-axg"
+      },
+      {
+        "url": "https://t.me/enemywatch/61109",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OjDTGeYQVYNO6Uu4PILhKlYeXyyNljCWpBh6Fo6l75IoFV4GI_Kg2y3uhRdlHj5kPAYXx4Lojc8fuJwCSPEHTdH12Urp-yycxkKYs6YAzi__pt-eUAkE8TO61ZL7XQ9v4s-4Ws-Od6cC8j4lrDO_o1NRwe51OUfWzURTOEmKY0qDYAz6pC9R3jSM0m_hXzZnI-oqan-EWn6m2IYA2lZ_5QrURO3DK4hAsz7-MC6RPDZa0ya2yH844y7qEmlu5cPj9f0etcYZN4vO2cdevvOP6USW01hMjnm00eJ-y3sHiSbakBZmsjzsx_mb63THpK7woZ9YeICW2MEF_3jxSJ-axg"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
