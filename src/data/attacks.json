@@ -115894,6 +115894,38 @@
     "media": []
   },
   {
+    "id": 479502270,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: OpenAI launched ChatGPT Messages integration Apple",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️🤖 OpenAI has launched a ChatGPT Messages integration for Apple Macs that can search and analyse iMessage, SMS and RCS conversations, summarising who users talk to and what they discuss.Users must grant permissions to access their local Messages database, and sending messages requires approval by default. However, persistent approval can allow automatic sending, while OpenAI has also acknowledged a failure mode that can disable approval prompts.The major privacy concern is that one user could ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
