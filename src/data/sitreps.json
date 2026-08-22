@@ -1981,6 +1981,81 @@
     "verified": false
   },
   {
+    "id": 1787375142131,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-03-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:🇮🇷 IranIran’s Foreign Ministry strongly condemned the latest American sanctions, describing them as going far beyond an economic war. Tehran said the measures represent an attempt to impose American hegemony over sovereign states and argued that secondary sanctions violate the UN Char...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787375155443,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-03-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:🇮🇷 IranIran’s Foreign Ministry strongly condemned the latest American sanctions, describing them as going far beyond an economic war. Tehran said the measures represent an attempt to impose American hegemony over sovereign states and argued that secondary sanctions violate the UN Char...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787375104455,
+    "type": "rocket",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-03-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:🇮🇷 IranIran’s Foreign Ministry strongly condemned the latest American sanctions, describing them as going far beyond an economic war. Tehran said the measures represent an attempt to impose American hegemony over sovereign states and argued that secondary sanctions violate the UN Char...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787375167621,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-03-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:🇮🇷 IranIran’s Foreign Ministry strongly condemned the latest American sanctions, describing them as going far beyond an economic war. Tehran said the measures represent an attempt to impose American hegemony over sovereign states and argued that secondary sanctions violate the UN Char...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787375173222,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-03-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📣 | Updates:🇮🇷 IranIran’s Foreign Ministry strongly condemned the latest American sanctions, describing them as going far beyond an economic war. Tehran said the measures represent an attempt to impose American hegemony over sovereign states and argued that secondary sanctions violate the UN Char...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1784999965353,
     "type": "airstrike",
     "location": "Iraq",
@@ -270718,6 +270793,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1787375138915,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-21",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Major General Akraminia, spokesperson for the Iranian Army, outlined details of the announced reward for capturing or killing American soldiers in the event of an invasion of Iran.• Any member of the armed forces, or any civilian possessing a licensed hunting weapon, who captures or kills Ame...",
+    "media": [],
     "verified": false
   },
   {
