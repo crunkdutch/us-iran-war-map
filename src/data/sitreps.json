@@ -271062,6 +271062,58 @@
     "verified": false
   },
   {
+    "id": 1787405890662,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📹 A historic colorized video of the Tehran Conference, held without the Iranian Shah's knowledge, and where he was treated as irrelevant.🔺Soviet Embassy in Tehran with Winston Churchill, Joseph Stalin, and Franklin D. Roosevelt (November 1943)IranScreenshot🤩",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/adf5e9985c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sHYoOX_-mWrViCmEWnBmcnzNygKNnmGeAtZLTPAUOnRJIfSujPAcJ6mbSGdN4u2fztYIGX6SZG1a2bNWcomi794UcIqVNzjUDeiMDQSVLsmOcGPi7D66P3Oly6IQYOfOvm-6hKiL1ULpSJdHzrIAUGoT_-PTiZLvBW_weFYS-hWlcMBPNy5lucOW3RKgJ0X4s5g_4ezUlr1f98oL_5y0v68pcalVMYenHng5w6N6mE9_F1PjT7ylm8pccy85P0sfk3dp2SLA1n3JzbvQ1cW2-R2cAeHJ7gVEtOKWKiBDy3mnf34cC27Wajq83TYZNYjLpdw5SiZkXfs8KNJF3FTPNw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61143",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sHYoOX_-mWrViCmEWnBmcnzNygKNnmGeAtZLTPAUOnRJIfSujPAcJ6mbSGdN4u2fztYIGX6SZG1a2bNWcomi794UcIqVNzjUDeiMDQSVLsmOcGPi7D66P3Oly6IQYOfOvm-6hKiL1ULpSJdHzrIAUGoT_-PTiZLvBW_weFYS-hWlcMBPNy5lucOW3RKgJ0X4s5g_4ezUlr1f98oL_5y0v68pcalVMYenHng5w6N6mE9_F1PjT7ylm8pccy85P0sfk3dp2SLA1n3JzbvQ1cW2-R2cAeHJ7gVEtOKWKiBDy3mnf34cC27Wajq83TYZNYjLpdw5SiZkXfs8KNJF3FTPNw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787405931174,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | New damage is now visible at the Jizan oil refinery in southern Saudi Arabia after the Ansar Allah drone strike on August 18. New Sentinel-2L satellite images confirm that the large oil storage tank at 17°16'47.38\"N 42°23'52.82\"E was hit and then caught fire.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/105f808d32.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nYRABnjlkyRTxQVS-EzmWpzES1alAXrC4zk-O8_e-1Tw3B7wY-E_q_CVBqm96m9U98IRdLaOSyNatuZQS6hb1YuueBgI7u4IIq-j16wDiG-5OdOx0WLySsTLuxmElYjxB4gVdsemapahYrSIMyNOODY8fGQEGaaVF-BdKlOifJgZnEuu2aC6eASgELGT01nUK9fTWQ89xqGZ-OBPwkDfGhrXw0CqwUncNGX3xRf-IHkAW1NN_rlwvqRGOWWACiTEyvL7nJHrkVKa-pkf6elr3ZMbi5U3nK8DtyKrA7yRrfhztK4gm1Gjv7UZaxtIXT_NR4KRw0-d-vJRUU_z5KPLug"
+      },
+      {
+        "url": "https://t.me/enemywatch/61149",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nYRABnjlkyRTxQVS-EzmWpzES1alAXrC4zk-O8_e-1Tw3B7wY-E_q_CVBqm96m9U98IRdLaOSyNatuZQS6hb1YuueBgI7u4IIq-j16wDiG-5OdOx0WLySsTLuxmElYjxB4gVdsemapahYrSIMyNOODY8fGQEGaaVF-BdKlOifJgZnEuu2aC6eASgELGT01nUK9fTWQ89xqGZ-OBPwkDfGhrXw0CqwUncNGX3xRf-IHkAW1NN_rlwvqRGOWWACiTEyvL7nJHrkVKa-pkf6elr3ZMbi5U3nK8DtyKrA7yRrfhztK4gm1Gjv7UZaxtIXT_NR4KRw0-d-vJRUU_z5KPLug"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787392743101,
     "type": "missile",
     "location": "Tehran",
