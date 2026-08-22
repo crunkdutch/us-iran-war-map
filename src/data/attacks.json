@@ -116677,6 +116677,38 @@
     "media": []
   },
   {
+    "id": 479566530,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Breaking Antiship missiles were launched towards",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 Breaking — Anti-ship missiles were launched towards violating vessels in the Strait of Hormuz, and explosions were heard.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

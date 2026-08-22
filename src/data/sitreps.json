@@ -271189,6 +271189,51 @@
     "verified": false
   },
   {
+    "id": 1787423486398,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenYemeni Foreign Ministry:– The US targeting of Hezbollah and the Lebanese Resistance with sanctions constitutes assistance to the “Israeli” enemy entity.– Targeting Hezbollah and the Lebanese Resistance at this particular stage, by any party, is an explicit act of assistance to the enemy entity...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787423489738,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenYemeni Foreign Ministry:– The US targeting of Hezbollah and the Lebanese Resistance with sanctions constitutes assistance to the “Israeli” enemy entity.– Targeting Hezbollah and the Lebanese Resistance at this particular stage, by any party, is an explicit act of assistance to the enemy entity...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787423468470,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenYemeni Foreign Ministry:– The US targeting of Hezbollah and the Lebanese Resistance with sanctions constitutes assistance to the “Israeli” enemy entity.– Targeting Hezbollah and the Lebanese Resistance at this particular stage, by any party, is an explicit act of assistance to the enemy entity...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787392743101,
     "type": "missile",
     "location": "Tehran",
@@ -271416,6 +271461,61 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "— Keeping in mind that the threats do not seem to be coming in that direction and the enemy is resorting to using economic pressure, one must not forget the enemy’s installations, warplane gatherings, and stationed forces, along with preparations to create a buffer zone around bases in the UAE, Kuwa...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787423410556,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 Breaking — Anti-ship missiles were launched towards violating vessels in the Strait of Hormuz, and explosions were heard.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787423440506,
+    "type": "airstrike",
+    "location": "Abu Dhabi",
+    "coordinates": [
+      24.4539,
+      54.3773
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪| UAE has surrounded fuel storage tanks in Abu Dhabi with large metal barriers as a precaution against possible future retaliations.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/hxENb4K6Vt16SctCg7y5D1oUv6UC1nVL2hd8X7UzPCxSuf-Q9kO7P0OyboL9v40Qli9U4god3nJHCd0O7ryicBmeJ5FPCTBPbrlI3qAnnRyEOfoBRXIm1qRAY99CWJdcm5__oSDbrJTsdtl5uQt3Xu7NPbjm8KA4TPll2qN1Ruuv2BvfFRafXrPvw-zDkUndVnXchDEbjOf8DyE8LXutwwBryeb3QrmdPeUYVI5-xZpn4IP6p6FpZHx5URmsEjLvI31zWJiZRxuEyILEztszERVF68mpdlkKtErjukxGwAAJR8403u4C42CNNEXkpLOZMhtJXqW7NqUIopGO7--fmw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787423394962,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪| UAE has surrounded fuel storage tanks in Abu Dhabi with large metal barriers as a precaution against possible future retaliations.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/hxENb4K6Vt16SctCg7y5D1oUv6UC1nVL2hd8X7UzPCxSuf-Q9kO7P0OyboL9v40Qli9U4god3nJHCd0O7ryicBmeJ5FPCTBPbrlI3qAnnRyEOfoBRXIm1qRAY99CWJdcm5__oSDbrJTsdtl5uQt3Xu7NPbjm8KA4TPll2qN1Ruuv2BvfFRafXrPvw-zDkUndVnXchDEbjOf8DyE8LXutwwBryeb3QrmdPeUYVI5-xZpn4IP6p6FpZHx5URmsEjLvI31zWJiZRxuEyILEztszERVF68mpdlkKtErjukxGwAAJR8403u4C42CNNEXkpLOZMhtJXqW7NqUIopGO7--fmw.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
