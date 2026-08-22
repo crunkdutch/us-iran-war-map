@@ -116385,6 +116385,38 @@
     "media": []
   },
   {
+    "id": 479541998,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iran determined hold terrorists accountable Official",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran determined to hold terrorists accountable: Official📌 Tehran, IRNA – The head of the Center for Political and International Studies at the Ministry of Foreign Affairs has said the “front of terror” has failed to achieve its objectives against Iran, stressing that the country remains determined to hold those responsible for terrorist acts accountable.Speaking at an event marking the International Day of Remembrance and Tribute to the Victims of Terrorism on Saturday, Saeed Khatibzadeh sai",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
