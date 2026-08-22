@@ -270811,6 +270811,36 @@
     "verified": false
   },
   {
+    "id": 1787381670268,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Parliament speaker and accompanying delegation return to Tehran📌 Tehran, IRNA — The Iranian parliamentary delegation, headed by Mohammad Bagher Ghalibaf, returned to Tehran after a three‑day intensive working visit, during which they held meetings and consultations with high‑ranking Iraqi offici...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787381672712,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Parliament speaker and accompanying delegation return to Tehran📌 Tehran, IRNA — The Iranian parliamentary delegation, headed by Mohammad Bagher Ghalibaf, returned to Tehran after a three‑day intensive working visit, during which they held meetings and consultations with high‑ranking Iraqi offici...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
