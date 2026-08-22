@@ -116248,6 +116248,38 @@
     ]
   },
   {
+    "id": 479532815,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran: Iran calls sanctions assertion extraterritorial sovereignty",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran calls US new sanctions assertion of extraterritorial sovereignty over independent UN member states📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has criticized the United States’ latest economic sanctions against Iran, describing the measure as “an assertion of extraterritorial sovereignty over every independent Member State of the United Nations.”In an X post on Saturday, Baqaei said, “The United States’ declaration of new economic sanctions on Iran is far more t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
