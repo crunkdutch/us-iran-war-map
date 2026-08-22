@@ -271519,6 +271519,32 @@
     "verified": false
   },
   {
+    "id": 1787429961809,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Secretary of the Supreme National Security Council Mohsen Rezaei: Iran emerged from its toughest trials under strong leadershipHe said:Praise be to Allah, our nation has always had a firm support in Hazrat Wali al-Asr (may Allah hasten his reappearance). He prays for our people, and our natio...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/783aa1591f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/awKITSwkp7nSyzkHaYMVqYsVVcoTc3dytGzVLNzSp049AfLS8GWJ7Z6J27xpPUItaxzR1YL5_9-Q7kfwNO7SaQqs8KsVoXwJobxTUDGL2IyEg65Jljwei8hsIPW2hGsKfnhLFjTRYZ-kJsn1niCaiPxjldV2aDjMQNjUO6bF3O2u8zf73tsgQpB1jGBepf_3Cqw72KQBCVvRLj63TLs6zhacX-GIfB1zpfUqRTvWn3j7QQqK3cbVwPuA3vddYkXE5vNq2-xBmCM-YvjY6SZCu504Kae7VPsyhcKaYPn71PznzR5nHIR7c1qD22iL2LsnItvb1qR6CBqTlCikVTtrFQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61159",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/awKITSwkp7nSyzkHaYMVqYsVVcoTc3dytGzVLNzSp049AfLS8GWJ7Z6J27xpPUItaxzR1YL5_9-Q7kfwNO7SaQqs8KsVoXwJobxTUDGL2IyEg65Jljwei8hsIPW2hGsKfnhLFjTRYZ-kJsn1niCaiPxjldV2aDjMQNjUO6bF3O2u8zf73tsgQpB1jGBepf_3Cqw72KQBCVvRLj63TLs6zhacX-GIfB1zpfUqRTvWn3j7QQqK3cbVwPuA3vddYkXE5vNq2-xBmCM-YvjY6SZCu504Kae7VPsyhcKaYPn71PznzR5nHIR7c1qD22iL2LsnItvb1qR6CBqTlCikVTtrFQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
