@@ -116474,6 +116474,70 @@
     ]
   },
   {
+    "id": 479557323,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Syria, Israel: Enemy_MediaIsraeli Enemy Army Radio Israeli army",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio: The \"Israeli\" army targeted a person who was about to carry out an operation against \"Israeli\" army forces by detonating an Improvised Explosive Device [IED] in southern Syria.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479560391,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "Unknown Interception — Israel: Enemy_MediaKan Hebrew Channel According source familiar",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaKan Hebrew Channel: According to a source familiar with the discussions between “Israel” and the United States, “Israel” raised concerns with the Americans that Türkiye is preparing to deploy an air defense system at the “Abu Al-Duhur” base that was attacked.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479535875,
     "type": "missile",
     "status": "confirmed",

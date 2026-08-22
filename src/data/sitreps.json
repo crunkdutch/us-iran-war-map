@@ -271114,6 +271114,36 @@
     "verified": false
   },
   {
+    "id": 1787414738048,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio: The \"Israeli\" army targeted a person who was about to carry out an operation against \"Israeli\" army forces by detonating an Improvised Explosive Device [IED] in southern Syria.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787414770475,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio: The \"Israeli\" army targeted a person who was about to carry out an operation against \"Israeli\" army forces by detonating an Improvised Explosive Device [IED] in southern Syria.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787392743101,
     "type": "missile",
     "location": "Tehran",
