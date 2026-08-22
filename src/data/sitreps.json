@@ -271299,6 +271299,51 @@
     "verified": false
   },
   {
+    "id": 1787412427921,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Keeping in mind that the threats do not seem to be coming in that direction and the enemy is resorting to using economic pressure, one must not forget the enemy’s installations, warplane gatherings, and stationed forces, along with preparations to create a buffer zone around bases in the UAE, Kuwa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787412498736,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Keeping in mind that the threats do not seem to be coming in that direction and the enemy is resorting to using economic pressure, one must not forget the enemy’s installations, warplane gatherings, and stationed forces, along with preparations to create a buffer zone around bases in the UAE, Kuwa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787412448056,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Keeping in mind that the threats do not seem to be coming in that direction and the enemy is resorting to using economic pressure, one must not forget the enemy’s installations, warplane gatherings, and stationed forces, along with preparations to create a buffer zone around bases in the UAE, Kuwa...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

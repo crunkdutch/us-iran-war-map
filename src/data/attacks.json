@@ -116549,6 +116549,38 @@
     ]
   },
   {
+    "id": 479554256,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Jordan, Kuwait, UAE: Keeping mind that threats seem coming",
+    "location": "Jordan, Kuwait, UAE",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Keeping in mind that the threats do not seem to be coming in that direction and the enemy is resorting to using economic pressure, one must not forget the enemy’s installations, warplane gatherings, and stationed forces, along with preparations to create a buffer zone around bases in the UAE, Kuwait, and Jordan. All of this suggests that a sudden attack could occur at any time.🚨@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
