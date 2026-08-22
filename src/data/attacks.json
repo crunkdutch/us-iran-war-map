@@ -116353,6 +116353,43 @@
     "media": []
   },
   {
+    "id": 479545061,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Damascus, Israel: Israeli occupation forces targeted individual drone",
+    "location": "Damascus, Israel",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇱 | Israeli occupation forces targeted an individual in a drone strike on the road connecting Mazraat Beit Jinn and the town of Beit Jinn in the Damascus countryside.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/tlxe22Xe0CWd9bM-75aZ7x6bIbBhu_ltoS8JCBgQqG3P-QFmZew4m7fFqRzOf0hiig6TP0PfV7wjZFYF0G2snZZ1hLtI-H5I3Q7LXfqqJqSvdE7TWQMI58kCTQOd-sWTrZ82jj39Oaa1qO8tsf12jIisa-9kLMSxzNPw4ZubPdaFwQpTZF7rqi-UpthO8PcQZ9EjDzIDicEeR3KI-0LOR3xZT07IrrEbjK6WQRPP6k3QI0UtO2h-13z_HM-NQL4r4_dMU0Aomx_x4uPiEueyGu9eXtcbhydXJyyA0owLpDgQd-wMXVHNn6cjsglkLeJJnplXjrjzVFCjUXXTZp_nJA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 479535875,
     "type": "missile",
     "status": "confirmed",

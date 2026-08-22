@@ -271022,6 +271022,46 @@
     "verified": false
   },
   {
+    "id": 1787399273719,
+    "type": "drone",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇱 | Israeli occupation forces targeted an individual in a drone strike on the road connecting Mazraat Beit Jinn and the town of Beit Jinn in the Damascus countryside.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/tlxe22Xe0CWd9bM-75aZ7x6bIbBhu_ltoS8JCBgQqG3P-QFmZew4m7fFqRzOf0hiig6TP0PfV7wjZFYF0G2snZZ1hLtI-H5I3Q7LXfqqJqSvdE7TWQMI58kCTQOd-sWTrZ82jj39Oaa1qO8tsf12jIisa-9kLMSxzNPw4ZubPdaFwQpTZF7rqi-UpthO8PcQZ9EjDzIDicEeR3KI-0LOR3xZT07IrrEbjK6WQRPP6k3QI0UtO2h-13z_HM-NQL4r4_dMU0Aomx_x4uPiEueyGu9eXtcbhydXJyyA0owLpDgQd-wMXVHNn6cjsglkLeJJnplXjrjzVFCjUXXTZp_nJA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787399287342,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇱 | Israeli occupation forces targeted an individual in a drone strike on the road connecting Mazraat Beit Jinn and the town of Beit Jinn in the Damascus countryside.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/tlxe22Xe0CWd9bM-75aZ7x6bIbBhu_ltoS8JCBgQqG3P-QFmZew4m7fFqRzOf0hiig6TP0PfV7wjZFYF0G2snZZ1hLtI-H5I3Q7LXfqqJqSvdE7TWQMI58kCTQOd-sWTrZ82jj39Oaa1qO8tsf12jIisa-9kLMSxzNPw4ZubPdaFwQpTZF7rqi-UpthO8PcQZ9EjDzIDicEeR3KI-0LOR3xZT07IrrEbjK6WQRPP6k3QI0UtO2h-13z_HM-NQL4r4_dMU0Aomx_x4uPiEueyGu9eXtcbhydXJyyA0owLpDgQd-wMXVHNn6cjsglkLeJJnplXjrjzVFCjUXXTZp_nJA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787392743101,
     "type": "missile",
     "location": "Tehran",
@@ -271184,6 +271224,26 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📄 Iran must become constant warning to aggressive regimes: Leader’s military advisor📌 Tehran, IRNA — Major General Yahya Rahim Safavi, senior military adviser to the Leader of the Islamic Revolution, says Iran’s defense industry must develop capabilities strong enough to deter potential adversarie...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787399308117,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Al-Mayadeen: Lebanon's Ministry of Health announced that the number of martyrs in the country's war with the Zionist regime has reached nearly 9,000 since October 2023 (the start of the Gaza war).📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/PSwZ-ATkujxy7PrQp0hYPzOP1FzfkgLdzsrp8qaJphGjHHtIpbMc5RvtzX55J0Pzese2k2f3irL0PZPm0gDU1E4TqKIUvCDCGDX_MGifbmn9gzQTAG_8cYQJE3ahnmtf_uLmcWpFQkmX6q7XqDYLuoSYbVNnzUVzG6cLqg8IqZLAXgTf-c3RCyFNw98WPmMqQDeVrHqQYLDpDkpXDI_5iA40Lnvt3VRHuR0QjPz1MLUHXBJBsgLeGLCGA1CnC2YsGxKem5pUCqa4IWp_SKnBfFv7gjq6eQHa3IutcCB5GPsxMNHuDNWxv-MsG9brW_GBrV6Gao40pBqmy95_D_Qv2Q.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
