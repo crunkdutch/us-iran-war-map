@@ -271144,6 +271144,51 @@
     "verified": false
   },
   {
+    "id": 1787416961901,
+    "type": "intercept",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaKan Hebrew Channel: Intelligence indicates that Türkiye intended to transfer a radar system to the Abu Al-Duhur base in Syria, after which it would deploy an air defense system and Turkish soldiers to operate it.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787416913152,
+    "type": "intercept",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaKan Hebrew Channel: “Israel” viewed the transfer of a Turkish air defense system to Syria as a step that could alter the regional balance of power in the region.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787416934699,
+    "type": "intercept",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaKan Hebrew Channel: “Israel” viewed the transfer of a Turkish air defense system to Syria as a step that could alter the regional balance of power in the region.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787392743101,
     "type": "missile",
     "location": "Tehran",

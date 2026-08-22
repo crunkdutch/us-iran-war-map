@@ -116538,6 +116538,38 @@
     "media": []
   },
   {
+    "id": 479563460,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "Unknown Interception — Syria: Enemy_MediaKan Hebrew Channel Intelligence indicates that",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaKan Hebrew Channel: Intelligence indicates that Türkiye intended to transfer a radar system to the Abu Al-Duhur base in Syria, after which it would deploy an air defense system and Turkish soldiers to operate it.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479535875,
     "type": "missile",
     "status": "confirmed",
