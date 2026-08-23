@@ -117167,6 +117167,70 @@
     ]
   },
   {
+    "id": 479609615,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Syria, Oman, Israel: bombing already damagedSyrian military airbase inside",
+    "location": "Syria, Oman, Israel, Turkey",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The bombing of a already damaged-Syrian military airbase inside occupied Syrian territory by the israeli regime appears to have been part of a broader plot aimed at increasing direct coordination with syrian and turkish regimes. This comes after it was confirmed that Turkish and israeli officials have been coordinating with one another, despite Turkey continuing its trade relations with Israel. Just days after the israeli airstrike on Syria’s Abu al-Duhur airbase, high ranking israeli and Syri",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479612700,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Tehran: Some bombs were exclusively built against",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Some bombs were ‘exclusively built for use against Iran’: Acting defense minister📌 Tehran, IRNA- Iran’s acting defense minister says the country has faced a hybrid war of unprecedented scale, involving cyber, military, proxy and counter-revolutionary elements, with some bombs specifically manufactured for use against Iran.Majid Ibn al-Reza, caretaker of the Ministry of Defense and Armed Forces Logistics, made the remarks in separate meetings with parliamentary commissions on agriculture, env",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
