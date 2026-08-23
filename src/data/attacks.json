@@ -117010,7 +117010,18 @@
     "description": "🌍 Isfahan nuclear fuel plant was first target of US-Israeli assaults: Nuclear chief📌 Tehran, IRNA – The head of the Atomic Energy Organization of Iran (AEOI) says the nuclear fuel production plant in Isfahan was the first target of military assaults by the United States and Israel during their wars of aggression against the Islamic Republic over the past year.Speaking at a ceremony marking Doctors’ Day in the nuclear industry on Sunday, Mohammad Eslami said the plant produces the fuel required",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a8dd39d620.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ePtJnwGelIojGaPKGHK8FvMTxn9n-qwsGKDa-l7CCEeOgEQpw7R-_nrMRz-Lav7SHkisBGSdFPg_UnAGB9UPvUVdcyneHhFzVJZPLrIKFCPPDly--4UcXptNKJjxiauP6pcSEJ6UIebUYWGztc3_9UqZOqwb6OEX11Yu4fXMPbz4XTFst3cGlb3G96NTndPH9YI8a9mB39qMDbcUpY0ZMbur1uufkk0ekX4bvMOatVwTqMWrr8Ij4cwV_a8KQIeezCCSJzBWL3ZLhrOQDlFgtiHgMQzrn1BNfWen-X7VpcAphYCwR5dPDOpIAxCN9ig_Vj9yX6rzSCBI18XBerXEpQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61162",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ePtJnwGelIojGaPKGHK8FvMTxn9n-qwsGKDa-l7CCEeOgEQpw7R-_nrMRz-Lav7SHkisBGSdFPg_UnAGB9UPvUVdcyneHhFzVJZPLrIKFCPPDly--4UcXptNKJjxiauP6pcSEJ6UIebUYWGztc3_9UqZOqwb6OEX11Yu4fXMPbz4XTFst3cGlb3G96NTndPH9YI8a9mB39qMDbcUpY0ZMbur1uufkk0ekX4bvMOatVwTqMWrr8Ij4cwV_a8KQIeezCCSJzBWL3ZLhrOQDlFgtiHgMQzrn1BNfWen-X7VpcAphYCwR5dPDOpIAxCN9ig_Vj9yX6rzSCBI18XBerXEpQ"
+      }
+    ]
   },
   {
     "id": 479597285,
@@ -117080,6 +117091,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 479603448,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Persian Gulf: Iran wont drop leave Persian Gulf",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iran won’t let ‘a drop of oil’ leave Persian Gulf if US blockade continues: Top security official📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZibeLWT97XYJ20FSv2LRM3vm4kpWFBXZBAX5NqJmKCAyRS3mtSLUWdN6TdrjR_0yZQdHbtYtwDyRLjIXOQ8qMfmzs9ZPM9PSot0_REUqLVQe1PgBkE-pi1gRR-DMYKOrS3cXNnTKe9CdRg5rUGkxEsiyz3MWPS7sWN1CB7dHfwWj95eCCLb4gaOiRQS6pp4BOFb4ryMBPFm72bOd8RmcscBRVea9IeabPjmvMmmTxA0HedLcoRBn_eHWIKuWLILuuYjBLYBWHOC-8VNFr4WHrMwezg7QrQ2Ugov5BRwDMlOOPboL3ZNNXsQkXwr0cMG8shZJ69D5CuM6out-wvOgdA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 477331196,

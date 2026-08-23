@@ -272257,6 +272257,26 @@
     "verified": false
   },
   {
+    "id": 1787491740988,
+    "type": "naval",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-08-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran won’t let ‘a drop of oil’ leave Persian Gulf if US blockade continues: Top security official📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZibeLWT97XYJ20FSv2LRM3vm4kpWFBXZBAX5NqJmKCAyRS3mtSLUWdN6TdrjR_0yZQdHbtYtwDyRLjIXOQ8qMfmzs9ZPM9PSot0_REUqLVQe1PgBkE-pi1gRR-DMYKOrS3cXNnTKe9CdRg5rUGkxEsiyz3MWPS7sWN1CB7dHfwWj95eCCLb4gaOiRQS6pp4BOFb4ryMBPFm72bOd8RmcscBRVea9IeabPjmvMmmTxA0HedLcoRBn_eHWIKuWLILuuYjBLYBWHOC-8VNFr4WHrMwezg7QrQ2Ugov5BRwDMlOOPboL3ZNNXsQkXwr0cMG8shZJ69D5CuM6out-wvOgdA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
