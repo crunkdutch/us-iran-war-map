@@ -117013,6 +117013,75 @@
     "media": []
   },
   {
+    "id": 479597285,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni military source reported Sunday that",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "A Yemeni military source reported on Sunday that a Saudi spy drone was shot down in Hajjah province.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jqXnSNqqKjqMysy52i2xDt3rVAagD5VQqVACOhvrEG7Y6aphVh6ZwQg17g57wo1rgwc-_W8VVfPa6QqWu0L55AJNKbnV9jhRCvfEZ2K3FeSwmz60PbvgY0ax_2CzgCfSTJIWEEu6Lz_G6bjs0D0sUvC0QMK7NPGLjKvzGLtLpEMVG1dy0eN5wT-gDBn2Q7PjbUPvxzF7f45-xXtddWA65V_D6MBK3zmlO531mABq4eKkYf2HBYnnsJebgYHNN64tJuWjEkfB0TImSRO0ZXwo0jX0F1H_wlVMkX5pDvPZLrNZ8oiIGPntofV6BAIi2bY_hMRdhNMOxDn0wFdYTcXn9g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 479600366,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran, Fars: Iran announces discovery major hydrocarbon reserves",
+    "location": "Tehran, Fars",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran announces discovery of major new hydrocarbon reserves📌 Tehran, IRNA – Iranian Oil Minister Mohsen Paknejad announces the discovery of major new hydrocarbon reserves in the country, describing the finds as a significant asset for Iran’s future energy needs.Paknejad made the announcement on the sidelines of a ceremony on Sunday,&nbsp;marking the renewal of allegiance to the ideals of the late Leader of the Islamic Revolution, Ayatollah Imam Khomeini, on the occasion of Government Week.​Th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

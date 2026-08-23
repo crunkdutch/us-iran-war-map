@@ -272237,6 +272237,26 @@
     "verified": false
   },
   {
+    "id": 1787489511934,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-23",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "A Yemeni military source reported on Sunday that a Saudi spy drone was shot down in Hajjah province.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jqXnSNqqKjqMysy52i2xDt3rVAagD5VQqVACOhvrEG7Y6aphVh6ZwQg17g57wo1rgwc-_W8VVfPa6QqWu0L55AJNKbnV9jhRCvfEZ2K3FeSwmz60PbvgY0ax_2CzgCfSTJIWEEu6Lz_G6bjs0D0sUvC0QMK7NPGLjKvzGLtLpEMVG1dy0eN5wT-gDBn2Q7PjbUPvxzF7f45-xXtddWA65V_D6MBK3zmlO531mABq4eKkYf2HBYnnsJebgYHNN64tJuWjEkfB0TImSRO0ZXwo0jX0F1H_wlVMkX5pDvPZLrNZ8oiIGPntofV6BAIi2bY_hMRdhNMOxDn0wFdYTcXn9g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
