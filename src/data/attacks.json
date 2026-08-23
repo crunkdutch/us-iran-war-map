@@ -116943,6 +116943,44 @@
     "media": []
   },
   {
+    "id": 479591126,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "Hezbollah Missile Strike — Lebanon, Yemen, Israel: Irans underground production facilities camera clear",
+    "location": "Lebanon, Yemen, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷‼️ Iran's underground production facilities on camera; a clear message to the enemies&#33;🟡On the occasion of Defense Industry Day, the Chief of Staff of the Armed Forces and the acting Minister of Defense visited one of the ministry's underground sites.👉 Although most of the images in the report are archival, two important points stand out:✍️ The first point is the presence of a type of planetary mixer in the background. This device plays a critical role in the production process of solid",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61180",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D41WykctfHpRIuVFzR94dOg5Ddi-L6TcKx7GatCbayX3i-Og_961Zw6G9mhyRauMW4azgLUQxA95AvdrvkC_4Ai099R29cDDbK61IsS_G_YkXbDkA-382b4Gv5ig7uXsyTiRFx_Uomy03CAHLDbI5yfW2Rb_8CZqdb7TD6MqLoXA922o4ocfhaec33JgaqQpT68VeJkbuN5anfPtG82OQC3tv6t1H02usL5Em6MZfpz83U3zRGsBZW7d2x0wCOl0c0h5wXp5nSrS9tr65tdbxY5SFV2494kqJTS_2oDD33hCySOCzO4ZJt6lQnjb6rqTfSxvCVhUbrUdAJnuMT1kNA"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
