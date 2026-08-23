@@ -271234,6 +271234,76 @@
     "verified": false
   },
   {
+    "id": 1787474150756,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: An \"Israeli\" was moderately wounded in a stabbing attack near Al-Auja village in the Jordan Valley.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787474105618,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: An \"Israeli\" was moderately wounded in a stabbing attack near Al-Auja village in the Jordan Valley.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787474104000,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israeli\" media: An \"Israeli\" was moderately wounded in a stabbing attack near Al-Auja village in the Jordan Valley. #Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/p6YOJWVFt3x9uZgVQrOPgrrqgC9WLNjYNcxypQ8del0MEk3wCAy73JTq0OVJ9xG8fGbzsQEmVd5wxThKeUbOqfv_7Rr5GKJEOnFmkBkcURJc81NWNjifhmhB2Y2vKbcb9Q6K9vruip4E9HwC9bAcmGYd17tiHoHTj9BNukrelVWZEK5N9EpJl-wmn3-gbvsBypy7G8pJRaI_g3qcWE6LRa5KiTbzbM0z6bOpByN5B2SOF1r3J72rKiZ6NNozCfM3Z2V-kceBfu2xckPJd4RDiwUPsIyU29PfEIutuNrchBhqB9Z1Sr8VlSvCoqWtvhKx3FnupdYTRPSHLAq0KG8sQQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787474170081,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israeli\" media: An \"Israeli\" was moderately wounded in a stabbing attack near Al-Auja village in the Jordan Valley. #Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/p6YOJWVFt3x9uZgVQrOPgrrqgC9WLNjYNcxypQ8del0MEk3wCAy73JTq0OVJ9xG8fGbzsQEmVd5wxThKeUbOqfv_7Rr5GKJEOnFmkBkcURJc81NWNjifhmhB2Y2vKbcb9Q6K9vruip4E9HwC9bAcmGYd17tiHoHTj9BNukrelVWZEK5N9EpJl-wmn3-gbvsBypy7G8pJRaI_g3qcWE6LRa5KiTbzbM0z6bOpByN5B2SOF1r3J72rKiZ6NNozCfM3Z2V-kceBfu2xckPJd4RDiwUPsIyU29PfEIutuNrchBhqB9Z1Sr8VlSvCoqWtvhKx3FnupdYTRPSHLAq0KG8sQQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787392743101,
     "type": "missile",
     "location": "Tehran",
@@ -271958,6 +272028,21 @@
         "thumbnail": "https://cdn4.telesco.pe/file/WzdYSRwDjxLlLjV_2fc_pFhGgGgsOcn2_Nkb0ZNKnNQhOuxGegXfxastw3ZS6ABcyYE-PNNieDgq4bGfPuMV7Fo1DfwpRSXKnF1Dt__IuvNx-5g4arB3HIlNkxfLTlv2T0j8J4HaZba1IOJTHkdrfAB-beq0Aq_PudwDGoCcNUf54hpV4L-cOCM_2a-hreSEYSdwJt1DvV1Yv8BulWN9DooC2nR9C-2DzyTvyd9xOt944hTPHSi9FPRTbUr-m-bQaYfBf8CKyxOfTRtzH9cLVbHmlrheO9Km0uupPH5xCsi9VsnGXHr-O4WdeukpY0bR4FK1hKySFMRS5vgbADxTVQ"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1787474078251,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 🔹🇦🇿 | Suppression of Shias in Bahrain and Azerbaijan needs global attention and serious follow-up:The Zionist-backed regimes of Bahrain and Azerbaijan have chosen to suppress their Shia populations by denying them their basic rights, arresting them on false charges, and even preventing them ...",
+    "media": [],
     "verified": false
   },
   {

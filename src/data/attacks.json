@@ -116570,6 +116570,43 @@
     "media": []
   },
   {
+    "id": 479588048,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-21",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Jordan, Israel: Enemy_MediaIsraeli media Israeli moderately wounded stabbing",
+    "location": "Jordan, Israel",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: An \"Israeli\" was moderately wounded in a stabbing attack near Al-Auja village in the Jordan Valley.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/p6YOJWVFt3x9uZgVQrOPgrrqgC9WLNjYNcxypQ8del0MEk3wCAy73JTq0OVJ9xG8fGbzsQEmVd5wxThKeUbOqfv_7Rr5GKJEOnFmkBkcURJc81NWNjifhmhB2Y2vKbcb9Q6K9vruip4E9HwC9bAcmGYd17tiHoHTj9BNukrelVWZEK5N9EpJl-wmn3-gbvsBypy7G8pJRaI_g3qcWE6LRa5KiTbzbM0z6bOpByN5B2SOF1r3J72rKiZ6NNozCfM3Z2V-kceBfu2xckPJd4RDiwUPsIyU29PfEIutuNrchBhqB9Z1Sr8VlSvCoqWtvhKx3FnupdYTRPSHLAq0KG8sQQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 479535875,
     "type": "missile",
     "status": "confirmed",
@@ -116869,6 +116906,38 @@
       "other": 0
     },
     "description": "🌍 Pezeshkian administration backed Armed Forces during 12-day and 40-day wars📌 Tehran, IRNA – The administration of President Masoud Pezeshkian has sought to place the country’s executive capacities at the service of national defense during the 12-day and 40-day wars, emphasizing support for the Armed Forces, national unity, and the continuity of essential services.The administration’s approach extended beyond political statements, with officials stressing the need to maintain economic activit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479584971,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bahrain: Suppression Shias Bahrain Azerbaijan needs global",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇧🇭 🔹🇦🇿 | Suppression of Shias in Bahrain and Azerbaijan needs global attention and serious follow-up:The Zionist-backed regimes of Bahrain and Azerbaijan have chosen to suppress their Shia populations by denying them their basic rights, arresting them on false charges, and even preventing them from freely practicing their religious rituals. This includes restrictions on religious recitations, issuing warnings, placing individuals on blacklists, and imposing bans on religious practices and a",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
