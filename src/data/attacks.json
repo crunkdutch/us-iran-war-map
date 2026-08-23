@@ -117130,6 +117130,43 @@
     ]
   },
   {
+    "id": 479606531,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Iraq: informed sources report that representative Ayatollah",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶:🇮🇷 | Two informed sources report that the representative of Ayatollah Sistani, the highest Shia authority in Iraq, recently told the Iranian ambassador to Iraq, Mohammad Kazem Al-Sadegh, in a meeting that, in the event of any attack on the life of Imam…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/G49--pK3gsr2X5R-7Jz2Kr_s-yI7k-MVKejGS1WSqq8dGae8AfTRjy4ALWClLtXAl_TMOI-9_cewLo7bhJIsCyO_AClUGvhakg_Jbfu8ojvM-9tWtj4g-pAwuybyPP0Oh_s-fhR7FaabubiQFrNR0mYum9uPrOLfLpkG8fN-MliGD_9x2fSl7oh0ItF2g_Gi9SbOxb8XmdI4_FJsoNWKGXTiuczUKcgHNWYaVaUu4zYBB9s4afNNhUDWXfVWJronVFnPBu_z4espzn_Pvi6wEZRBPbM-AeeTMVrcceN7ynvhgErajpQChe4iIIsi-n-wCD8KiqP40RtvOy9c2Q_q1w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

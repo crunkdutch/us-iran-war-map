@@ -272277,6 +272277,26 @@
     "verified": false
   },
   {
+    "id": 1787500477458,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶:🇮🇷 | Two informed sources report that the representative of Ayatollah Sistani, the highest Shia authority in Iraq, recently told the Iranian ambassador to Iraq, Mohammad Kazem Al-Sadegh, in a meeting that, in the event of any attack on the life of Imam…",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/G49--pK3gsr2X5R-7Jz2Kr_s-yI7k-MVKejGS1WSqq8dGae8AfTRjy4ALWClLtXAl_TMOI-9_cewLo7bhJIsCyO_AClUGvhakg_Jbfu8ojvM-9tWtj4g-pAwuybyPP0Oh_s-fhR7FaabubiQFrNR0mYum9uPrOLfLpkG8fN-MliGD_9x2fSl7oh0ItF2g_Gi9SbOxb8XmdI4_FJsoNWKGXTiuczUKcgHNWYaVaUu4zYBB9s4afNNhUDWXfVWJronVFnPBu_z4espzn_Pvi6wEZRBPbM-AeeTMVrcceN7ynvhgErajpQChe4iIIsi-n-wCD8KiqP40RtvOy9c2Q_q1w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
