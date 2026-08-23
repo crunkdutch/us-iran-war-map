@@ -116773,6 +116773,43 @@
     "media": []
   },
   {
+    "id": 479575746,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gilan, Iraq: enemies seek create discord between Shia",
+    "location": "Gilan, Iraq",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📖 | The enemies seek to create discord between Shia and Sunni Muslims:Today, one of the main goals of the arrogant powers and the US is to foment discord, and the best way for them to do so is by creating division between Shia and Sunni Muslims. You can see what the mercenaries of the arrogant powers are saying today regarding Iraq and the propaganda they are spreading. They believe they can sow the seeds of discord in this way. For many years, the arrogant powers and the Western expansionist p",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/U211QfC8y9cw4CSMFzcPsUVaaAWnvY6P-WPCj7NBZ2jgRGhiMImyJ7udp2_F2h1cYfqIyPpxwwQ8D786NaYzNf3H4fcHc3nRrx3qdU76i6dJfu1_JV0znVV5R3XNxtJDT9otQJ18Yt_pexg5EEnog11aKC10rapgeFu0R5gM1QsTDMAr5f56Dy2WrFo6uEdTtCyJe_HiloNFKCofOwvWmLknx3sDbhGtQLGnHmaDfvcyjBA59dHEgw9NImwonyP_vw0HQIEA9FwZKTcd7DAp__a4WtJpGh7O9SpkPE8wOsO46eqPr8BbwybyZhW5FhBBfRmcoy1GkIJS2BAlAZtWKQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
