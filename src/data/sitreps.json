@@ -271915,6 +271915,52 @@
     "verified": false
   },
   {
+    "id": 1787471854935,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📕 | There should be no insinuation against the Prophet’s wives:Martyr Imam Sayyid Ali Khamenei Khamenei, during a meeting with those involved in the Sadaf-e Kowsar conference honoring Hazrat Khadijah on 11/06/2016, said:“There should be no insinuation or indirect criticism directed at the other nob...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/p9O-y6KrF3aDJOlqJ2QBfTtQ8Lijbyn3FW-ymvvSn9nhJZ3tMjbJ5Xkx6ozZ3cgT1WHD5Hq6HN7iPZWXhhwRcXsYG4Xh-ABxckTqM8SUYvnvFcYHPv6Tc2_1diwYyM9s84GF9A98tHIBbZBLjkXyUmB4z5BPA1XhB7vD1gsdQyWp1HvPiPS3tlSndcSNk0iaSn_cPcPayDWyuyP11QFq1fmomzwpkz0rOb35AYeBB7ulLuHiyiS-14-PfXIfRKKBJjKKxfEV5IzDHGeaAzvaIQRqNNPnU29fSflBAV57Jf0voPRy2Uttr0fXh_hfcV4MpM_if_uP0pzZ-l5l2rSQXg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787471825731,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "In Manchester, hundreds of pro-Palestinian protesters assembled to demand an immediate halt to hostilities in Gaza and a cessation of British governmental backing for the Israeli regime.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3ec4035156.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WzdYSRwDjxLlLjV_2fc_pFhGgGgsOcn2_Nkb0ZNKnNQhOuxGegXfxastw3ZS6ABcyYE-PNNieDgq4bGfPuMV7Fo1DfwpRSXKnF1Dt__IuvNx-5g4arB3HIlNkxfLTlv2T0j8J4HaZba1IOJTHkdrfAB-beq0Aq_PudwDGoCcNUf54hpV4L-cOCM_2a-hreSEYSdwJt1DvV1Yv8BulWN9DooC2nR9C-2DzyTvyd9xOt944hTPHSi9FPRTbUr-m-bQaYfBf8CKyxOfTRtzH9cLVbHmlrheO9Km0uupPH5xCsi9VsnGXHr-O4WdeukpY0bR4FK1hKySFMRS5vgbADxTVQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/38362",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WzdYSRwDjxLlLjV_2fc_pFhGgGgsOcn2_Nkb0ZNKnNQhOuxGegXfxastw3ZS6ABcyYE-PNNieDgq4bGfPuMV7Fo1DfwpRSXKnF1Dt__IuvNx-5g4arB3HIlNkxfLTlv2T0j8J4HaZba1IOJTHkdrfAB-beq0Aq_PudwDGoCcNUf54hpV4L-cOCM_2a-hreSEYSdwJt1DvV1Yv8BulWN9DooC2nR9C-2DzyTvyd9xOt944hTPHSi9FPRTbUr-m-bQaYfBf8CKyxOfTRtzH9cLVbHmlrheO9Km0uupPH5xCsi9VsnGXHr-O4WdeukpY0bR4FK1hKySFMRS5vgbADxTVQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
