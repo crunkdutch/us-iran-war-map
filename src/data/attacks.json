@@ -116981,6 +116981,38 @@
     ]
   },
   {
+    "id": 479594205,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Isfahan, Khondab: Isfahan nuclear fuel plant first target",
+    "location": "Tehran, Isfahan, Khondab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Isfahan nuclear fuel plant was first target of US-Israeli assaults: Nuclear chief📌 Tehran, IRNA – The head of the Atomic Energy Organization of Iran (AEOI) says the nuclear fuel production plant in Isfahan was the first target of military assaults by the United States and Israel during their wars of aggression against the Islamic Republic over the past year.Speaking at a ceremony marking Doctors’ Day in the nuclear industry on Sunday, Mohammad Eslami said the plant produces the fuel required",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
