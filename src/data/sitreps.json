@@ -271870,6 +271870,51 @@
     "verified": false
   },
   {
+    "id": 1787469676929,
+    "type": "airstrike",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-08-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni forces target Saudi-backed mercenary positions south of the city of Hodeidah.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787469617613,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni forces target Saudi-backed mercenary positions south of the city of Hodeidah.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787469630291,
+    "type": "cyber",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Pezeshkian administration backed Armed Forces during 12-day and 40-day wars📌 Tehran, IRNA – The administration of President Masoud Pezeshkian has sought to place the country’s executive capacities at the service of national defense during the 12-day and 40-day wars, emphasizing support for the A...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

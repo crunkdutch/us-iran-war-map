@@ -116810,6 +116810,70 @@
     ]
   },
   {
+    "id": 479578820,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Hodeidah, Yemen: Yemeni forces target Saudibacked mercenary positions",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni forces target Saudi-backed mercenary positions south of the city of Hodeidah.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479581895,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "Unknown Cyber Attack — Tehran: Pezeshkian administration backed Armed Forces during",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Pezeshkian administration backed Armed Forces during 12-day and 40-day wars📌 Tehran, IRNA – The administration of President Masoud Pezeshkian has sought to place the country’s executive capacities at the service of national defense during the 12-day and 40-day wars, emphasizing support for the Armed Forces, national unity, and the continuity of essential services.The administration’s approach extended beyond political statements, with officials stressing the need to maintain economic activit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
