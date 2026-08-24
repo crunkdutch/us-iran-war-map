@@ -117402,6 +117402,38 @@
     "media": []
   },
   {
+    "id": 479637416,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Red Sea, Yemen: Yemeni Armed ForcesIn name Allah Most",
+    "location": "Red Sea, Yemen",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:In the name of Allah, the Most Gracious, the Most MercifulAllah the Almighty says: “There shall be no aggression except against the wrongdoers.” Allah the Almighty has spoken the truth.With the help and guidance of Allah, the Yemeni Armed Forces succeeded in targeting the Saudi enemy’s oil tanker “Amzan” in the northern Red Sea, off the coast of Yanbu, with a ballistic missile. The strike was accurate and direct, causing a fire to break out aboard the vessel and f",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479625050,
     "type": "airstrike",
     "status": "confirmed",
