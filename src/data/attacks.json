@@ -117396,6 +117396,38 @@
     ]
   },
   {
+    "id": 479631231,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-24",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Persian Gulf, Kuwait: Iran warns consequences cooperation with aggression",
+    "location": "Tehran, Persian Gulf, Kuwait, Qatar, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran warns of consequences for cooperation with US aggression📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has warned that any cooperation with the United States in advancing aggressive actions against Iran will have consequences, stressing that the country’s diplomatic approach is continuously adapting to changing regional and international conditions.Speaking at a weekly press conference in Tehran on Monday, Baqaei said Iran cannot conduct today’s diplomacy using methods de",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
