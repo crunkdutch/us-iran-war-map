@@ -117370,6 +117370,38 @@
     "media": []
   },
   {
+    "id": 479634323,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Strait of Hormuz, Eastern Mediterranean, Yemen: Saudi tankers reroute around Africa amid",
+    "location": "Strait of Hormuz, Eastern Mediterranean, Yemen, Oman, Saudi Arabia, Egypt",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | Saudi oil tankers reroute around Africa amid disruptions:At least nine Saudi Arabian very large crude carriers (VLCCs) are currently sailing around Africa to load crude at Sidi Kerir in northern Egypt or through ship-to-ship transfers in the eastern Mediterranean. Five of these oil tankers, which had returned from East and South Asia, decided 23 days ago to take the route around Africa due to Yemen’s blockade against Saudi Arabia. However, they have yet to reach Gibraltar. Four other oil ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479625050,
     "type": "airstrike",
     "status": "confirmed",
