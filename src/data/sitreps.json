@@ -271355,6 +271355,36 @@
     "verified": false
   },
   {
+    "id": 1787568827090,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: The assessment in the \"Israeli\" army is that Hezbollah is exploiting the ceasefire and strengthening its capabilities through extensive weapons transfers from Iran.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787568747926,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: The Political-Security Cabinet will meet tonight at 19:00 in Jerusalem.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787392743101,
     "type": "missile",
     "location": "Tehran",

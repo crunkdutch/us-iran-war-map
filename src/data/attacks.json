@@ -117327,6 +117327,38 @@
     "media": []
   },
   {
+    "id": 479628140,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Syria, Yemen, Saudi Arabia: Updates Occupied Syria israeli regime entered",
+    "location": "Syria, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | Updates:🇸🇾 Occupied Syria- The israeli regime entered southern occupied Syria with six military vehicles and an infantry force, raiding the village of Ma’ariya in the western Daraa countryside. The incursion coincided with intensive israeli drone flights over the area.- In this hour, An explosion occurred near the regional directorate in the Syrian city of Palmyra, with initial reports indicating casualties and injuries.- In this hour, Local Syrian sources also reported that an israeli mi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479625050,
     "type": "airstrike",
     "status": "confirmed",
