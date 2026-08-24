@@ -117327,6 +117327,43 @@
     "media": []
   },
   {
+    "id": 479625050,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-24",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Israel: Iran will allow aggressors terms spox",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran will not allow war to end on aggressor’s terms: FM spox📌 Tehran, IRNA – Iran will not allow the war to end on terms dictated by the party that initiated the aggression, Foreign Ministry spokesperson Esmaeil Baqaei says, stressing Tehran’s determination to defend its territorial integrity and national sovereignty.Speaking at his weekly press conference on Monday, Baqaei said the officials of the Islamic Republic have spoken very clearly about the seriousness and determination to defend I",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dQyKzmMO9sEzMQvqDmji8IDv5bUp4blLThrlgenh00M6s8kGsZS5OM49j9oWyCojxEtVqRpoZS_EPnNl9IVSTRTYi3rVykSTC1mhrFTJ4dYenMXS8y5SUsYIAK4-h-5CBWi_PLh_FM9vDZhnx_bus8BIjiud_KFredCvJBqwSaNdravwGYC8S0b86N42QxMzl_ypTCOj1y8fRX5gvbV_ionVUPEVtevOw6WtRNnmXXPT4O8w7iw7uuojhJRR6zYLOPNSO29PnV0ncZjDDQymT2qZV8hmX1LYFPa3QEx74LsJBAqBE1vA8o7_zdKqkUOxoDh9uqxw6tbb0C-lMwjP0g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
