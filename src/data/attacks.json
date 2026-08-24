@@ -117295,6 +117295,38 @@
     "media": []
   },
   {
+    "id": 479621961,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bushehr: Official 2400 infrastructure economic projects unveiled",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Official: 2,400 infrastructure, economic projects unveiled in Iran’s Bushehr📌 Bushehr, IRNA – As many as 2,400 infrastructure and economic projects have been launched in Iran’s southern Bushehr Province during Government Week, with a total investment of more than &#036;13.06 billion, the provincial governor has announced.Speaking at a ceremony marking Government Week projects in Bushehr County, Arsalan Zare said 205 economic projects account for over &#036;13.06 billion of the investment and",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

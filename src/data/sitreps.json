@@ -272443,6 +272443,36 @@
     "verified": false
   },
   {
+    "id": 1787557705532,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The UAE-owned liquefied natural gas (LNG) tanker \"YELLOW STONE\" has been seized again by the Iranian Revolutionary Guard Corps Navy, during its third attempt to transit the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787557658221,
+    "type": "naval",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-08-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The UAE-owned liquefied natural gas (LNG) tanker \"YELLOW STONE\" has been seized again by the Iranian Revolutionary Guard Corps Navy, during its third attempt to transit the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
