@@ -272650,6 +272650,51 @@
     "verified": false
   },
   {
+    "id": 1787575332057,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Pezeshkian calls for justice, unity to counter foreign exploitation of divisions📌 Tehran, IRNA – President Masoud Pezeshkian has stressed the need for justice, national unity and efforts to address economic problems, warning that the United States and the Israeli regime seek to exploit internal ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787575355646,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Pezeshkian calls for justice, unity to counter foreign exploitation of divisions📌 Tehran, IRNA – President Masoud Pezeshkian has stressed the need for justice, national unity and efforts to address economic problems, warning that the United States and the Israeli regime seek to exploit internal ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787575340438,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-25",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Sunni member of Basij volunteer force martyred in Zahedan📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Ground Force Quds Headquarters has announced the martyrdom of a Sunni member of the Basij volunteer force in Zahedan, Sistan and Baluchestan Province.According to a statement from...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
