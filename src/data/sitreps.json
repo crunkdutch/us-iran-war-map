@@ -272357,6 +272357,26 @@
     "verified": false
   },
   {
+    "id": 1787551117554,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Construction work underway on section 3 of Tehran–North Freeway📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dQyKzmMO9sEzMQvqDmji8IDv5bUp4blLThrlgenh00M6s8kGsZS5OM49j9oWyCojxEtVqRpoZS_EPnNl9IVSTRTYi3rVykSTC1mhrFTJ4dYenMXS8y5SUsYIAK4-h-5CBWi_PLh_FM9vDZhnx_bus8BIjiud_KFredCvJBqwSaNdravwGYC8S0b86N42QxMzl_ypTCOj1y8fRX5gvbV_ionVUPEVtevOw6WtRNnmXXPT4O8w7iw7uuojhJRR6zYLOPNSO29PnV0ncZjDDQymT2qZV8hmX1LYFPa3QEx74LsJBAqBE1vA8o7_zdKqkUOxoDh9uqxw6tbb0C-lMwjP0g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
