@@ -117503,6 +117503,38 @@
     "media": []
   },
   {
+    "id": 479640510,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-24",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Tehran, Red Sea, Yemen: Yemeni army targets Saudi tanker Tehran",
+    "location": "Tehran, Red Sea, Yemen",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Yemeni army targets Saudi oil tanker in Red Sea📌 Tehran, IRNA – The spokesperson for Yemen’s armed forces announced on Monday that a Saudi oil tanker was targeted in the northern Red Sea, off the coast of Yanbu.Brigadier General Yahya Saree said that Yemeni forces successfully struck the Saudi oil tanker Amzan with a ballistic missile. The vessel was directly and precisely hit, resulting in a fire onboard.​The statement added that several other ships in the area came under attack and were fo",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
