@@ -117231,6 +117231,38 @@
     "media": []
   },
   {
+    "id": 479615786,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Baghdad, Erbil, Aden: Regional updates August 2026 Iraq unrest",
+    "location": "Baghdad, Erbil, Aden, Strait of Hormuz, Persian Gulf, Lebanon, Yemen, Bahrain, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | Regional updates | 24 August 2026🇮🇶 Iraq• The unrest currently unfolding in Erbil Province is reportedly linked to a dispute between the leader of the Herki tribe in the Khabat district and the Kurdistan Democratic Party (KDP). According to local reports, the tribal leader was previously affiliated with a prominent Barzani-led party before leaving it over internal disagreements and joining another political movement. He was later arrested, prompting members of the Herki tribe to issue an ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
