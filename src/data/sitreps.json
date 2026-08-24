@@ -271385,6 +271385,51 @@
     "verified": false
   },
   {
+    "id": 1787590761071,
+    "type": "drone",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-08-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement by the Yemeni Armed Forces on targeting the Saudi oil tanker “Amzan” off the coast of Yanbu, and targeting mobilizations belonging to the Saudi enemy in the Al-Abr and Al-Wadiah areas and mobilizations in the Al-Kanā’is area – 24 August 2026In the name of Allah, the Most Gracious, the Most...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787590752817,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement by the Yemeni Armed Forces on targeting the Saudi oil tanker “Amzan” off the coast of Yanbu, and targeting mobilizations belonging to the Saudi enemy in the Al-Abr and Al-Wadiah areas and mobilizations in the Al-Kanā’is area – 24 August 2026In the name of Allah, the Most Gracious, the Most...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787590768482,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper: Following a series of ambushes carried out by Hezbollah inside the Yellow Line, which resulted in casualties among the \"Israeli\" army, the most significant of which was the detonation of a booby-trapped building in the Majdal Zoun area, the Northern Command decid...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787392743101,
     "type": "missile",
     "location": "Tehran",
