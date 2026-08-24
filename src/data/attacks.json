@@ -117263,6 +117263,38 @@
     "media": []
   },
   {
+    "id": 479618873,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-23",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Tehran, Lebanon, Israel: Israeli airstrikes artillery fire southern Lebanon",
+    "location": "Tehran, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Israeli airstrikes, artillery fire hit southern Lebanon📌 Tehran, IRNA – Israeli warplanes, artillery units and ground forces have carried out attacks against several areas in southern Lebanon, Lebanese media reported.According to Lebanon’s National News Agency, Israeli warplanes late on Sunday targeted a house in the Deir neighborhood of Nabatieh al-Fawqa.​The agency also reported intermittent artillery shelling of areas of Ali al-Taher and Kfar Reman.​Meanwhile, Israeli forces carried out a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

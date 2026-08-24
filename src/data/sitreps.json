@@ -1337,6 +1337,27 @@
     "verified": false
   },
   {
+    "id": 1787555494377,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2025-05-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Young Alawite Woman Who Was Kidnapped and Released Shares Testimony About General Security Militia Involvement in Her AbductionA 25-year-old woman named “Hala Nawras Ibrahim,” from the Alawite community, gave testimony about the circumstances of her kidnapping and detention, along with her nine-mont...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61190",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NH4s9x3xKI1hwyJyAJkf-WvPEd137OBtbnp8v-vnlaj278oCbNwcx56RE_XSOg9kjyyiBoRVXI-gEAAXhvkUl3bs8p_yqAjyeZqM2kcNrNTmC28jOcI_vbSGhpKkifu5TZAUi4oFrhsMikfYtG8omorW-8laoa8Hr7BC8xnZNUYAdRSv9xe2lj29Qii5ar7a3fOR-la6Ge4eaB1PUXfoWuCpVYtahQ7udPU6MyEKjC-60s_EEYwMOVc7NpHkN4mkJMurmy95iOevod-aRK20lX9L9jadu23cU4u6L8OxROo5b8EK80x18xHdizMldPc-plbuuz5ZrJCdGeUkluU3Dw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785514481735,
     "type": "rocket",
     "location": "Gaza Strip",
@@ -272374,6 +272395,51 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1787555535756,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Israeli airstrikes, artillery fire hit southern Lebanon📌 Tehran, IRNA – Israeli warplanes, artillery units and ground forces have carried out attacks against several areas in southern Lebanon, Lebanese media reported.According to Lebanon’s National News Agency, Israeli warplanes late on Sunday t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787555510770,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Israeli airstrikes, artillery fire hit southern Lebanon📌 Tehran, IRNA – Israeli warplanes, artillery units and ground forces have carried out attacks against several areas in southern Lebanon, Lebanese media reported.According to Lebanon’s National News Agency, Israeli warplanes late on Sunday t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787555481661,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Israeli airstrikes, artillery fire hit southern Lebanon📌 Tehran, IRNA – Israeli warplanes, artillery units and ground forces have carried out attacks against several areas in southern Lebanon, Lebanese media reported.According to Lebanon’s National News Agency, Israeli warplanes late on Sunday t...",
+    "media": [],
     "verified": false
   },
   {
