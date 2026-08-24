@@ -272473,6 +272473,26 @@
     "verified": false
   },
   {
+    "id": 1787559965493,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 In photos: Esteghlal defeats Sepahan in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/TJolNYnqJZmJephF9DsAXVDiJo8KcEe-VwSi9Gg0HGIwJ8ecLjTIC6Zf3kNbLFsqWawskt3gt-OpoGfRs9j_oXFidHYVEzXzn-fzLb4KP9CLJtlZ2faC-GpMW7M_Jm9B8VlD4CxTo6oUbuQNMGYhMi65X_H7xvqG25mZXznf7Hc8avDHgSiNl-8IMd1LvWZ3DBzjOOKXtesoPrGtQ9QoAh6kw12ZtSU7FXlUfT_odoGv6NlcJTZPlAKC970xV15J6mNq6yHa2IID18tLng3vZhX3jQdVoKLet-zuLlWP18ob6JXOIXHTj1zQmiffxla5fRV3197gjvfHMPDQBFGUFw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
