@@ -117567,6 +117567,113 @@
     "media": []
   },
   {
+    "id": 479646701,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-24",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Fars, Lebanon, Oman: past hours israeli attacks across southern",
+    "location": "Fars, Lebanon, Oman, Israel",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | In the past hours, israeli attacks across southern Lebanon included extensive artillery shelling, airstrikes, explosions, machine gun fire, military incursions, and bulldozing operations targeting multiple towns and villages.Artillery shelling targeted the areas between Mayfadoun and Zawtar Sharqiyah, Douha Kfar Roman, Ali Al-Taher, Houla and Wadi Al-Salouqi, Al-Mansouri, Ainatha, Yater, the outskirts of Deirmimas, Halta Heights with two shells, and Wadi Zabqine. Airstrikes were carried o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479649798,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-24",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Hodeidah, Yemen, Israel: Yemen Updates Yemens Minister Defense Chief",
+    "location": "Hodeidah, Yemen, Israel",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen Updates: - Yemen's Minister of Defense and Chief of Staff sent a congratulatory message to President Mahdi Al-Mashat, stating that the Yemeni Armed Forces, across all formations and branches, are at the highest level of military readiness.The statement said the armed forces are fully prepared to implement any directives issued by the leadership to change the course of the battle. It added that the Saudi, israeli-American alliance and its allies must recognize that their previous equ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479652896,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-24",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Baghdad, Iraq: Naya exclusively publishes initial footage arrest",
+    "location": "Baghdad, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | Naya exclusively publishes the initial footage of the arrest of Hajj Abu Jaafar al-Tamimi, a commander of the Popular Mobilization Forces, in the Iraqi capital, Baghdad, by vehicles bearing the inscription “INSS,” referring to the Iraqi National Security Service. This marks the second reported move against a prominent Resistance figure following the arrest of a leader of the Harakat al-Nujaba movement, raising serious concerns about the developments underway. With Iraqi government facing ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a3dbea05a2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/duXd1NBD3gzuKLCcVLD5T2X1hc9pY1Mh0Ky44plFgDiJEWOzZe-W-SjkzeGiMRGpn5c4STYjRU_x26YTWcwslaPc7Edq1qCv_mTPaAmPR4zZHtjpBjAwBMqebq7qP10c9RFLlC1WsqC3c_85E9XI7HkcVG2256QnLJ4G8IrNLrmxJ1RUs9OByQucw5WtMHXz_o6yMQO-fwpYFibcARI4DFPohUudh25uUQJK_jZpyyY-n1PNHcHlqLpdG4nqb9J0SaJFR3rP9e7SCc2JAPNSeYW_iH9MNGj6aQzHWO4fvkR2eFNQhnsu-HPPLs4vVqnvK97ewKlEzEXuvjbxfOipeA"
+      },
+      {
+        "url": "https://t.me/enemywatch/61222",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/duXd1NBD3gzuKLCcVLD5T2X1hc9pY1Mh0Ky44plFgDiJEWOzZe-W-SjkzeGiMRGpn5c4STYjRU_x26YTWcwslaPc7Edq1qCv_mTPaAmPR4zZHtjpBjAwBMqebq7qP10c9RFLlC1WsqC3c_85E9XI7HkcVG2256QnLJ4G8IrNLrmxJ1RUs9OByQucw5WtMHXz_o6yMQO-fwpYFibcARI4DFPohUudh25uUQJK_jZpyyY-n1PNHcHlqLpdG4nqb9J0SaJFR3rP9e7SCc2JAPNSeYW_iH9MNGj6aQzHWO4fvkR2eFNQhnsu-HPPLs4vVqnvK97ewKlEzEXuvjbxfOipeA"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
