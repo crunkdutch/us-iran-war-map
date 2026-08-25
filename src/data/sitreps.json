@@ -273356,6 +273356,58 @@
     "verified": false
   },
   {
+    "id": 1787652285981,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-08-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "The real Syrian Arab Army was Syria’s children.. Every sect, every village, every corner of al-Sham. Students put down their books and picked up rifles to defend their homeland as Israel, the USA, their takfiri proxies, foreign terrorists and most powerful states from across the world turned what wa...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5543fe9426.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KwELxYKqh8iXtPh7MmFGYKEXIQrGW4aCnEuSapmz_H_ebV0h10Mwy6vabzh8NnuxhI8127BL9wmtAOAn-3omDv1xY1_lPj0XZ-SjyGmrJPdSlkOkw4rg9WOz2rdFEVAhagkeDz1cJCt6xMeW_M9VbHD7PfJzzf1hISjZj4otKM_scBUi7q7Cf7MntV9QoxvLwt0G10Yksc1Sb7XWchRHQtjMtSpepF6cj5_iZhDShhMvGllnNtaZiKz-vN8kID83s0Tlfn_mznM_KBtjPtbp7y8MrwZaB6WxfxBoreDsAsUMEvjd4fw4auJXpZGQbVnNfoTK4VZrLhTo9oh9y0cteg"
+      },
+      {
+        "url": "https://t.me/enemywatch/61224",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KwELxYKqh8iXtPh7MmFGYKEXIQrGW4aCnEuSapmz_H_ebV0h10Mwy6vabzh8NnuxhI8127BL9wmtAOAn-3omDv1xY1_lPj0XZ-SjyGmrJPdSlkOkw4rg9WOz2rdFEVAhagkeDz1cJCt6xMeW_M9VbHD7PfJzzf1hISjZj4otKM_scBUi7q7Cf7MntV9QoxvLwt0G10Yksc1Sb7XWchRHQtjMtSpepF6cj5_iZhDShhMvGllnNtaZiKz-vN8kID83s0Tlfn_mznM_KBtjPtbp7y8MrwZaB6WxfxBoreDsAsUMEvjd4fw4auJXpZGQbVnNfoTK4VZrLhTo9oh9y0cteg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787652239254,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "The real Syrian Arab Army was Syria’s children.. Every sect, every village, every corner of al-Sham. Students put down their books and picked up rifles to defend their homeland as Israel, the USA, their takfiri proxies, foreign terrorists and most powerful states from across the world turned what wa...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5543fe9426.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KwELxYKqh8iXtPh7MmFGYKEXIQrGW4aCnEuSapmz_H_ebV0h10Mwy6vabzh8NnuxhI8127BL9wmtAOAn-3omDv1xY1_lPj0XZ-SjyGmrJPdSlkOkw4rg9WOz2rdFEVAhagkeDz1cJCt6xMeW_M9VbHD7PfJzzf1hISjZj4otKM_scBUi7q7Cf7MntV9QoxvLwt0G10Yksc1Sb7XWchRHQtjMtSpepF6cj5_iZhDShhMvGllnNtaZiKz-vN8kID83s0Tlfn_mznM_KBtjPtbp7y8MrwZaB6WxfxBoreDsAsUMEvjd4fw4auJXpZGQbVnNfoTK4VZrLhTo9oh9y0cteg"
+      },
+      {
+        "url": "https://t.me/enemywatch/61224",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KwELxYKqh8iXtPh7MmFGYKEXIQrGW4aCnEuSapmz_H_ebV0h10Mwy6vabzh8NnuxhI8127BL9wmtAOAn-3omDv1xY1_lPj0XZ-SjyGmrJPdSlkOkw4rg9WOz2rdFEVAhagkeDz1cJCt6xMeW_M9VbHD7PfJzzf1hISjZj4otKM_scBUi7q7Cf7MntV9QoxvLwt0G10Yksc1Sb7XWchRHQtjMtSpepF6cj5_iZhDShhMvGllnNtaZiKz-vN8kID83s0Tlfn_mznM_KBtjPtbp7y8MrwZaB6WxfxBoreDsAsUMEvjd4fw4auJXpZGQbVnNfoTK4VZrLhTo9oh9y0cteg"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787575340438,
     "type": "airstrike",
     "location": "Tehran",

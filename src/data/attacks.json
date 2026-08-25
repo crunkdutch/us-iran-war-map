@@ -117748,6 +117748,38 @@
     ]
   },
   {
+    "id": 479662196,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Pezeshkian pledges full support domestic solar",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Pezeshkian pledges full support for domestic solar panel producers📌 Tehran, IRNA – President Masoud Pezeshkian has pledged full support for investors and domestic manufacturers of solar panels, saying there will be no restrictions on backing investment in the sector.Pezeshkian made the remarks on Tuesday during a ceremony to inaugurate two solar power plants with a combined capacity of 95 megawatts in Tehran Province.​Thanking domestic and foreign engineers and contractors involved in solar ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
