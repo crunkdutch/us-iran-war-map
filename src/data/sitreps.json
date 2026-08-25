@@ -1037,6 +1037,51 @@
     "verified": false
   },
   {
+    "id": 1787650112958,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2023-10-07",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Number of martyred children in Gaza exceeds 21,500📌 Tehran, IRNA — The Government Media Office in Gaza has announced that the number of children martyred since the start of the war has surpassed 21,500.According to Anadolu Agency, the Government Media Office in Gaza condemned the continued killi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787650109281,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2023-10-07",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Number of martyred children in Gaza exceeds 21,500📌 Tehran, IRNA — The Government Media Office in Gaza has announced that the number of children martyred since the start of the war has surpassed 21,500.According to Anadolu Agency, the Government Media Office in Gaza condemned the continued killi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787650064439,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2023-10-07",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Number of martyred children in Gaza exceeds 21,500📌 Tehran, IRNA — The Government Media Office in Gaza has announced that the number of children martyred since the start of the war has surpassed 21,500.According to Anadolu Agency, the Government Media Office in Gaza condemned the continued killi...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -273322,6 +273367,36 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Sunni member of Basij volunteer force martyred in Zahedan📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Ground Force Quds Headquarters has announced the martyrdom of a Sunni member of the Basij volunteer force in Zahedan, Sistan and Baluchestan Province.According to a statement from...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787650150966,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Pakistani Army chief’s Tehran talks highly constructive: Pakistan’s Army📌 Islamabad, IRNA — Pakistan’s Army has announced that Chief of Defence Forces Field Marshal Asim Munir held highly constructive talks with senior Iranian officials during his one-day visit to Tehran, focusing on regional pe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787650079574,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Pakistani Army chief’s Tehran talks highly constructive: Pakistan’s Army📌 Islamabad, IRNA — Pakistan’s Army has announced that Chief of Defence Forces Field Marshal Asim Munir held highly constructive talks with senior Iranian officials during his one-day visit to Tehran, focusing on regional pe...",
     "media": [],
     "verified": false
   },
