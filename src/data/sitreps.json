@@ -274082,6 +274082,51 @@
     "verified": false
   },
   {
+    "id": 1787779937657,
+    "type": "drone",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-08-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | The HQs of the Komala terrorist party and the PJAK, two Iranian Kurdish separatist groups in Erbil, Iraqi Kurdistan, are currently under attack by a wave of suicide drones.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787779933093,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | The HQs of the Komala terrorist party and the PJAK, two Iranian Kurdish separatist groups in Erbil, Iraqi Kurdistan, are currently under attack by a wave of suicide drones.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787779922634,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Iranian missiles launched towards vessels violating regulations in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787713820993,
     "type": "airstrike",
     "location": "Strait of Hormuz",
