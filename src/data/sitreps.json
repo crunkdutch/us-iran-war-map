@@ -273918,6 +273918,36 @@
     "verified": false
   },
   {
+    "id": 1787715990318,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | News updates | August 26, 2026 🇵🇸 Palestine Intense gunfire from israeli military vehicles and quadcopter drones was reported east of Hamad City and in the Al-Satar area, north of Khan Yunis in the southern Gaza Strip. At least five Palestinians were…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787716006518,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | News updates | August 26, 2026 🇵🇸 Palestine Intense gunfire from israeli military vehicles and quadcopter drones was reported east of Hamad City and in the Al-Satar area, north of Khan Yunis in the southern Gaza Strip. At least five Palestinians were…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

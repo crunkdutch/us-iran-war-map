@@ -117983,6 +117983,38 @@
     "media": []
   },
   {
+    "id": 479683931,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel, Gaza Strip: News updates August 2026 Palestine Intense",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | News updates | August 26, 2026 🇵🇸 Palestine Intense gunfire from israeli military vehicles and quadcopter drones was reported east of Hamad City and in the Al-Satar area, north of Khan Yunis in the southern Gaza Strip. At least five Palestinians were…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
