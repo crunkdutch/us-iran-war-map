@@ -118422,6 +118422,38 @@
     ]
   },
   {
+    "id": 479718185,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Oman: Pezeshkian inaugurates transport projects northern Iran",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Pezeshkian inaugurates 158 transport projects in northern Iran📌 NOSHAHR, Iran — President Masoud Pezeshkian inaugurates 158 projects of the Ministry of Roads and Urban Development in Mazandaran province worth about 23 trillion tomans, during an online ceremony marking Government Week.The projects were inaugurated simultaneously through a video conference with Pezeshkian, while the main ceremony was held at Noshahr Port.​According to Mohammad Shakibaei-Nasab, the managing director of the Port",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
