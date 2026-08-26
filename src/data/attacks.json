@@ -118088,6 +118088,81 @@
     "media": []
   },
   {
+    "id": 479724426,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-25",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Breaking Yemeni Armed Forces have launched",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — The Yemeni Armed Forces have launched a sustained barrage of ballistic missiles against the positions of Saudi-backed mercenaries in the strategic port city of Mokha over the past 90 minutes.According to reports, the attacks have been precise, widespread, and carried out in multiple successive waves, targeting military positions and infrastructure controlled by Saudi-backed forces. The strikes reportedly followed a \"double-tap\" pattern, with repeated waves hitting the sa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8430caff0f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bL549gznociKk2rTp3dX0gjGWPGNU770Dn3aoeO-mgm3tc_Lyy-A4auENG3eeD8EuXBGijqyHYOrsexojRZGlCTkM0xIGzG_Mkfoyn9z7XdhK8qPcDd_0zkZ-qQTIZhf0yAlFKNvOsXI9OwdoBCv0jxQjucCKgrX4dhgGG-b5dAh3wHdg_7fQx8X_3Q0NioK80ROgwQmscrhqPNoNm7kk2j4Qr1OA4tr0kSKqDbdmlX2CGF5qnxRtYD1N63CqHsLriAZdc2vLjkeTRrXlpmeawgQPfUtcludl38PM9uRwXe_v0Dvx0DNN_dnx4Cxe9QWh-bowD1HmdgMV30Oq_QScw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61262",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bL549gznociKk2rTp3dX0gjGWPGNU770Dn3aoeO-mgm3tc_Lyy-A4auENG3eeD8EuXBGijqyHYOrsexojRZGlCTkM0xIGzG_Mkfoyn9z7XdhK8qPcDd_0zkZ-qQTIZhf0yAlFKNvOsXI9OwdoBCv0jxQjucCKgrX4dhgGG-b5dAh3wHdg_7fQx8X_3Q0NioK80ROgwQmscrhqPNoNm7kk2j4Qr1OA4tr0kSKqDbdmlX2CGF5qnxRtYD1N63CqHsLriAZdc2vLjkeTRrXlpmeawgQPfUtcludl38PM9uRwXe_v0Dvx0DNN_dnx4Cxe9QWh-bowD1HmdgMV30Oq_QScw"
+      }
+    ]
+  },
+  {
+    "id": 479727548,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-25",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Erbil: drone missile strike joint American regime",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | A drone or missile strike has hit joint American regime and Kurdish separatist positions in Soran, Erbil.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479674610,
     "type": "airstrike",
     "status": "confirmed",
