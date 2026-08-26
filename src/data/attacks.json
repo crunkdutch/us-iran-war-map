@@ -118353,6 +118353,38 @@
     ]
   },
   {
+    "id": 479711948,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Minab, Israel: Parliament pursue crimes Lamerd through legal",
+    "location": "Tehran, Minab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Parliament to pursue US war crimes in Lamerd through legal channels: MP📌 Tehran, IRNA – Iran’s Parliament, in cooperation with the Judiciary, will pursue the legal and international cases arising from US war crimes in Lamerd, alongside the US attack in Minab, Iranian Parliament Deputy Speaker Ali Nikzad says.Nikzad made the remarks Wednesday during a visit to Lamerd County, where he inspected Shahid Naeimi Hall and residential homes in the Isargaran Township that were extensively damaged in ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
