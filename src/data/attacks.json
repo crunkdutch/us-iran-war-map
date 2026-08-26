@@ -117887,6 +117887,102 @@
     ]
   },
   {
+    "id": 479680823,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-25",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Bahrain, Israel, West Bank: American media also reported that Irans",
+    "location": "Bahrain, Israel, West Bank",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "American media also reported that Iran’s missile and drone attacks inflicted billions of dollars in damage on U.S. intelligence sites and surveillance equipment across the Middle East, exposing weaknesses in the defenses protecting American military and intelligence facilities.Another report from American media claimed that two of the three destroyers assigned to the USS Abraham Lincoln Carrier Strike Group have not yet received orders to return.🇧🇭 BahrainBahrain’s public debt has reportedly r",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479674610,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Strait of Hormuz, Persian Gulf, Syria: News updates August 2026 American regime",
+    "location": "Strait of Hormuz, Persian Gulf, Syria, Yemen, Oman, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | News updates | August 26, 2026🏴‍☠️ American regime / 🇮🇷 IranMS Now reported that the USS Abraham Lincoln is returning to San Diego after a nine-month deployment, while approximately 600 sailors aboard the USS Michael Murphy and USS Spruance have not received orders to return home.The three destroyers have been deployed alongside the USS Abraham Lincoln since late 2025, exceeding the typical seven-month deployment for U.S. Navy destroyers. The U.S. 7th Fleet said the composition of carrie",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479677716,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Damascus, Lebanon: News updates August 2026 PalestineIntense gunfire",
+    "location": "Tehran, Damascus, Lebanon, Syria, Israel, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | News updates | August 26, 2026🇵🇸 PalestineIntense gunfire from israeli military vehicles and quadcopter drones was reported east of Hamad City and in the Al-Satar area, north of Khan Yunis in the southern Gaza Strip.At least five Palestinians were martyred in israeli attacks across the Gaza Strip since dawn. In northern Gaza, the death toll from the israeli shelling near the Abu Hussein schools in Jabalia refugee camp rose to four martyrs.A child was also injured after israeli occupation ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
