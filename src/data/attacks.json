@@ -117992,6 +117992,38 @@
     "media": []
   },
   {
+    "id": 479690150,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tabriz: Construction Shams Tabrizis shrine Khoy nearing",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Construction of Shams Tabrizi’s shrine in Khoy nearing completion: Official📌 Khoy, IRNA – A senior official at the Plan and Budget Organization (PBO) says a project to construct the mausoleum of renowned Persian poet and thinker Shams Tabrizi is nearing completion, following intense efforts by officials and people in recent months.Hojjatollah Ayyubi, head of the PBO Department for Cultural, Sports and Tourism Affairs, made the remarks on Wednesday while visiting the construction site of the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479674610,
     "type": "airstrike",
     "status": "confirmed",
