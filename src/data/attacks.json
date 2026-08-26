@@ -117050,6 +117050,38 @@
     "media": []
   },
   {
+    "id": 479693261,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Israel: Enemy_MediaIsraeli enemy army SpokespersonA short while",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" enemy army Spokesperson:A short while ago, an alert was activated on the Home Front Command application regarding the launch of missiles and rocket-propelled projectiles in the area of Kibbutz Alumim.This was a false detection, and there is no concern of a security incident.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479594205,
     "type": "airstrike",
     "status": "confirmed",
