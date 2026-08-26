@@ -118385,6 +118385,43 @@
     "media": []
   },
   {
+    "id": 479715066,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Gilan, Israel: always solution Iran overcome challenges Pezeshkian",
+    "location": "Tehran, Gilan, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 War not always the solution, Iran can overcome challenges: Pezeshkian📌 Tehran, IRNA – President Masoud Pezeshkian has emphasized that “war is not always the solution”, adding that Iran can overcome issues through prudence.Addressing a conference in Tehran on Wednesday, Pezeshkian praised the resilience of various segments of Iranian society during the recent US-Israeli war of aggression.​“But war is not always the solution,” the president said, emphasizing that issues that can be resolved th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/SHrPk4cm0hxTGx96l_rQwGjoPS07XkDUJvhHL2BHtgToH-qHwyRPlMcPDTXkFMdXsOSz6PnaUxEhD7BYCVJgBK6wnyzNa2rRreCgaI4-XGVE4RgmjSz4OYtWwUh41hpo2h41srAgwi1cnWx6yjwMaoPMlqkAgIxr6qlru8M1qFejhgnfz0oZdNg2S8o7cZ-rOyuSjiko5pLqqMmHIwzokvpm1WCUnTM-5yIaMG1lZMjApPsZO_itKuoCdbwxbtFiGMWRoaTG3AGAhq2n-tQuQgLPaW2kpEbc9MaFOLj1DGfrrr5wUbLVDtzaf5vJx3LUU7BiU3LjzQvW-bPWZHTg1A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
