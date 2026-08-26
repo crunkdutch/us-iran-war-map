@@ -273708,6 +273708,51 @@
     "verified": false
   },
   {
+    "id": 1787724824268,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-25",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Israeli airstrikes, artillery shelling target Southern Lebanon📌 Tehran, IRNA – The Israeli regime’s fighter jets and artillery have targeted areas in southern Lebanon, according to Lebanese media reports.Lebanon’s Al-Manar TV channel reported late on Tuesday that Israeli warplanes bombed the tow...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787724870073,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-25",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Israeli airstrikes, artillery shelling target Southern Lebanon📌 Tehran, IRNA – The Israeli regime’s fighter jets and artillery have targeted areas in southern Lebanon, according to Lebanese media reports.Lebanon’s Al-Manar TV channel reported late on Tuesday that Israeli warplanes bombed the tow...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787724855358,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-25",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Israeli airstrikes, artillery shelling target Southern Lebanon📌 Tehran, IRNA – The Israeli regime’s fighter jets and artillery have targeted areas in southern Lebanon, according to Lebanese media reports.Lebanon’s Al-Manar TV channel reported late on Tuesday that Israeli warplanes bombed the tow...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787713820993,
     "type": "airstrike",
     "location": "Strait of Hormuz",

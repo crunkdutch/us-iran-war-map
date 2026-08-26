@@ -117919,6 +117919,38 @@
     "media": []
   },
   {
+    "id": 479687040,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-25",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Tehran, Lebanon, Israel: Israeli airstrikes artillery shelling target Southern",
+    "location": "Tehran, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Israeli airstrikes, artillery shelling target Southern Lebanon📌 Tehran, IRNA – The Israeli regime’s fighter jets and artillery have targeted areas in southern Lebanon, according to Lebanese media reports.Lebanon’s Al-Manar TV channel reported late on Tuesday that Israeli warplanes bombed the town of Mansouri, while Israeli artillery simultaneously shelled the same area.​The attacks come amid continued Israeli military aggression in southern Lebanon. Since March 2, the Israeli regime has laun",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479674610,
     "type": "airstrike",
     "status": "confirmed",
