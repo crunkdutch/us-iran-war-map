@@ -274217,6 +274217,56 @@
     "verified": false
   },
   {
+    "id": 1787735871788,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran urges all countries&nbsp;to denounce extraterritorial application of unilateral coercive measures by US📌 New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has “called on all States to reject and denoun...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787735889405,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran urges all countries&nbsp;to denounce extraterritorial application of unilateral coercive measures by US📌 New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has “called on all States to reject and denoun...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787735852541,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ In photos: 21st Shahid Rajaei Festival in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/SHrPk4cm0hxTGx96l_rQwGjoPS07XkDUJvhHL2BHtgToH-qHwyRPlMcPDTXkFMdXsOSz6PnaUxEhD7BYCVJgBK6wnyzNa2rRreCgaI4-XGVE4RgmjSz4OYtWwUh41hpo2h41srAgwi1cnWx6yjwMaoPMlqkAgIxr6qlru8M1qFejhgnfz0oZdNg2S8o7cZ-rOyuSjiko5pLqqMmHIwzokvpm1WCUnTM-5yIaMG1lZMjApPsZO_itKuoCdbwxbtFiGMWRoaTG3AGAhq2n-tQuQgLPaW2kpEbc9MaFOLj1DGfrrr5wUbLVDtzaf5vJx3LUU7BiU3LjzQvW-bPWZHTg1A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

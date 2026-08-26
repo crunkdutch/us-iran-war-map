@@ -118152,6 +118152,38 @@
     "media": []
   },
   {
+    "id": 479696373,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Strait of Hormuz, Israel: Iran urges countriesnbspto denounce extraterritorial applica...",
+    "location": "Strait of Hormuz, Israel",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iran urges all countries&nbsp;to denounce extraterritorial application of unilateral coercive measures by US📌 New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has “called on all States to reject and denounce the extraterritorial application of unilateral coercive measures by the United States regime aimed at compelling Member States to subordinate their sovereign rights and lawful policies to those of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
