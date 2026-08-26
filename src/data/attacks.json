@@ -118216,6 +118216,70 @@
     "media": []
   },
   {
+    "id": 479702600,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Israel: Defense Force commander Iran expand successful",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Air Defense Force commander: Iran to expand successful defense systems📌 Tehran, IRNA – The commander of the Iranian Army’s Air Defense Force says Iran is moving forward by relying entirely on domestic capabilities, expanding its air defense systems and replicating those that performed successfully during the 40-day war.Brigadier General Alireza Elhami made the remarks on Wednesday at a ceremony honoring doctors at Iranban Hospital, a specialized hospital operated by the Iranian Army’s Air De",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479705715,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Israel: Pezeshkian stresses full coordination preserve Irans",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Pezeshkian stresses full coordination to preserve Iran’s economic stability📌 Tehran, IRNA – President Masoud Pezeshkian has stressed the need for full coordination among Iran’s economic institutions to maintain economic stability and contain inflationary expectations amid mounting external pressures.Pezeshkian made the remarks during a Wednesday visit to the Central Bank of Iran, where he attended a meeting with Economy Minister Ali Madanizadeh, Central Bank Governor Abdolnaser Hemmati, and ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

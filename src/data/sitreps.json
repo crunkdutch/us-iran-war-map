@@ -45288,6 +45288,21 @@
     "verified": false
   },
   {
+    "id": 1787740329721,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-05-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Exclusive | Iran-Russia relations gain momentum under President Pezeshkian: Ambassador Jalali📌 Moscow, IRNA – Iranian Ambassador to Russia Kazem Jalali says relations between the two countries have gained significant momentum under President Masoud Pezeshkian, with the two sides pursuing a strat...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851187260,
     "type": "airstrike",
     "location": "Israel",
@@ -274317,6 +274332,26 @@
       },
       {
         "url": "https://cdn4.telesco.pe/file/MtsfJ9LvWRYrENIgpgBkxPywCQLmjsFcLKTfWYfolY48PFKuHeWJZJrNpdBdLaWpeTEtfo8m8h2UivrR_xMlj0AGGuuZjqee8MKyhOXu1U4DA8sQ34ydqrdCSAbOyV85y3cmt0m_fMw6e71DgIEd3DoP64FCX6CnyCrRSNhKUOFq-SKVvoxH6K9FCoP5RXcXBl5PoZj_lZb9fNciOEcTvxc987gv7jeQmrh-h1UTOqNDNqoOVoPcwPMkyCAPCTgmU8iqPeawxnjjTCQK0Xhc7Wc58Uprgq7Wt_m-TtuVXik7OgHvbqarPNZJIhhGG2eip9TA2oMwCPKIOUCySSmvug.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787740301165,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 In photos: Reconstruction of Hormozgan’s war-damaged bridges📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/UFMUwVE8HrfPmzJ7Tz3ChPup4xcg4TOuAI2vUajg8jWjXwp9swHCM56MZPcJsXmBlLZKHbjg8F1F7M8Z6brtIDOWVXFTJyPNDsc8NvYo6ybniCfgsALAu48WAcZ1bF5LXz3KNz033t3kGZC7g1GmJa1N0yGmheghXHa5TwxjBMMWi1xGEUN43lJ8QPl6Kw7WvYxmHKm0ZqKDnZBU8j3mJV3xrJSh06l4cITUleu6Aud_xJnxkmY11j0WT6JrKEausDgm0YNj6xfBNB_-pFxhBiu-rc0-t6LjGFAWUIr4npmWCmsXQAuWVxGqEMuEQPeDn-bhtvS9quL0jtwB9gso-A.jpg",
         "type": "photo"
       }
     ],
