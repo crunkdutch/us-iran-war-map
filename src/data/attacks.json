@@ -118454,6 +118454,38 @@
     "media": []
   },
   {
+    "id": 479721305,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Iraq, Israel: Iraqs Kurdistan must used attacks against",
+    "location": "Iraq, Israel",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iraq’s Kurdistan must not be used for attacks against Iran: IRGC commander📌 Urmia, IRNA – The commander of Hamza Sayyid al-Shuhada Base of the Islamic Revolution Guards Corps (IRGC) Ground Forces says Iran has no problem with its neighbors, including Iraq's semi-autonomous Kurdistan Region, but does not want their soil to be used for any aggression against the country.At a press conference on the occasion of the birth anniversary of the Prophet Muhammad (PBUH) on Wednesday, Brigadier General",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
