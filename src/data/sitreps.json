@@ -273633,6 +273633,21 @@
     "verified": false
   },
   {
+    "id": 1787832814574,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-24",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio correspondent: During this month, Hezbollah has launched five booby-trapped gliders toward \"Israeli\" army forces that attempted to operate in the Ali Al-Taher area.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787575340438,
     "type": "airstrike",
     "location": "Tehran",
@@ -275217,6 +275232,21 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "📢 | News updates | August 27, 2026🇱🇧 LebanonAccording to the page of Martyr Journalist Ali Shuaib, southern Lebanon witnessed another day of widespread israeli aggression, including artillery shelling, airstrikes, phosphorus attacks, bulldozing operations, explosions, and ground incursions across...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787832847361,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran expresses sympathy with Nepal over deadly floods, landslide📌 Tehran, IRNA – Following the deadly floods and landslides in Nepal leaving heavy casualties, Iranian President Masoud Pezeshkian has expressed sympathy with the government and people of Nepal.In a message of condolence to Nepalese...",
     "media": [],
     "verified": false
   },
