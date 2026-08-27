@@ -118625,6 +118625,70 @@
     "media": []
   },
   {
+    "id": 479736920,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-27",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Strait of Hormuz, Lebanon, Syria: News updates August 2026 LebanonAccording page",
+    "location": "Strait of Hormuz, Lebanon, Syria, Oman, Israel, West Bank, Turkey",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📢 | News updates | August 27, 2026🇱🇧 LebanonAccording to the page of Martyr Journalist Ali Shuaib, southern Lebanon witnessed another day of widespread israeli aggression, including artillery shelling, airstrikes, phosphorus attacks, bulldozing operations, explosions, and ground incursions across Al-Mansouri, Douha Kfar Rumman, Ali Al-Taher, Wadi Al-Salouqi, Bani Hayyan, Nabatieh Fawqa, Ayta Al-Jabal, Bint Jbeil, Majdal Zoun, Hadatha, Houla, and several other towns.Al Mayadeen’s correspondent",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479740046,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-27",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Red Sea, Yemen, Saudi Arabia: Update August 2026 Yemen Saudi ArabiaAnsarallah",
+    "location": "Red Sea, Yemen, Saudi Arabia",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | Update | August 27, 2026:🇾🇪 Yemen ❌ 🇸🇦 Saudi ArabiaAnsarallah launched missile attacks targeting Saudi-backed mercenary positions in Al-Khawkhah and Mokha in southwestern Yemen.A second Yemeni missile salvo later targeted military depots in Mokha port.Ansarallah also announced that it had shot down a Saudi drone over the Ibb region, an area under Ansarallah’s control.Reports said clashes took place between Ansarallah and the National Resistance Forces around Zuqar Island in the Red Sea.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
