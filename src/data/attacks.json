@@ -118753,6 +118753,49 @@
     "media": []
   },
   {
+    "id": 479755691,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Breaking Yemeni Armed Forces continue launching",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — The Yemeni Armed Forces continue launching successive missile salvos against Saudi-backed mercenary positions in Mokha Port on Yemen's western coast. According to reports, the missile attacks have continued for more than 60 minutes, with multiple waves targeting military depots, weapons storage sites, and strategic positions controlled by Saudi-backed forces. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8430caff0f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bL549gznociKk2rTp3dX0gjGWPGNU770Dn3aoeO-mgm3tc_Lyy-A4auENG3eeD8EuXBGijqyHYOrsexojRZGlCTkM0xIGzG_Mkfoyn9z7XdhK8qPcDd_0zkZ-qQTIZhf0yAlFKNvOsXI9OwdoBCv0jxQjucCKgrX4dhgGG-b5dAh3wHdg_7fQx8X_3Q0NioK80ROgwQmscrhqPNoNm7kk2j4Qr1OA4tr0kSKqDbdmlX2CGF5qnxRtYD1N63CqHsLriAZdc2vLjkeTRrXlpmeawgQPfUtcludl38PM9uRwXe_v0Dvx0DNN_dnx4Cxe9QWh-bowD1HmdgMV30Oq_QScw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61262",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bL549gznociKk2rTp3dX0gjGWPGNU770Dn3aoeO-mgm3tc_Lyy-A4auENG3eeD8EuXBGijqyHYOrsexojRZGlCTkM0xIGzG_Mkfoyn9z7XdhK8qPcDd_0zkZ-qQTIZhf0yAlFKNvOsXI9OwdoBCv0jxQjucCKgrX4dhgGG-b5dAh3wHdg_7fQx8X_3Q0NioK80ROgwQmscrhqPNoNm7kk2j4Qr1OA4tr0kSKqDbdmlX2CGF5qnxRtYD1N63CqHsLriAZdc2vLjkeTRrXlpmeawgQPfUtcludl38PM9uRwXe_v0Dvx0DNN_dnx4Cxe9QWh-bowD1HmdgMV30Oq_QScw"
+      }
+    ]
+  },
+  {
     "id": 479736920,
     "type": "rocket",
     "status": "confirmed",
