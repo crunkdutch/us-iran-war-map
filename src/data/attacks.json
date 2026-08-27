@@ -117780,6 +117780,38 @@
     ]
   },
   {
+    "id": 479746301,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-24",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Jordan, Israel, West Bank: Enemy_MediaIsraeli enemy army radio correspondent Chief",
+    "location": "Jordan, Israel, West Bank",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" enemy army radio correspondent: The Chief of Staff has ordered an additional regular division headquarters in Judea and Samaria (the West Bank) to be placed on heightened alert – in addition to the two divisions already responsible for commanding the sector (the Judea and Samaria Division and the Gilead Division on the Jordanian border). This is an exceptional development that I do not recall seeing in recent years – a division headquarters preparing to assume responsibilit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479662196,
     "type": "airstrike",
     "status": "confirmed",
