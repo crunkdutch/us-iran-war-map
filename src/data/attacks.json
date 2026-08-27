@@ -118625,6 +118625,38 @@
     "media": []
   },
   {
+    "id": 479743173,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Kuwait, Oman: Breaking Moments Kuwaiti tanker struck drone",
+    "location": "Kuwait, Oman",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇴🇲 | Breaking — Moments ago, a Kuwaiti oil tanker was struck by a drone near the coast of Oman.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479736920,
     "type": "rocket",
     "status": "confirmed",

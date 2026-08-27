@@ -274654,6 +274654,36 @@
     "verified": false
   },
   {
+    "id": 1787804071040,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇴🇲 | Breaking — Moments ago, a Kuwaiti oil tanker was struck by a drone near the coast of Oman.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787804119572,
+    "type": "drone",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇴🇲 | Breaking — Moments ago, a Kuwaiti oil tanker was struck by a drone near the coast of Oman.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787801946407,
     "type": "rocket",
     "location": "Strait of Hormuz",
