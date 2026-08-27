@@ -39,7 +39,10 @@ export interface SitRep {
 const allAttacks = attackData as AttackEvent[]
 const allSitreps = sitrepData as SitRep[]
 
-const TILE_URL = 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
+// CARTO basemaps require an API key (free tier: 5M tile reqs/month).
+// Set NEXT_PUBLIC_CARTO_API_KEY in .env.local (or Vercel env vars).
+const CARTO_API_KEY = process.env.NEXT_PUBLIC_CARTO_API_KEY
+const TILE_URL = `https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png${CARTO_API_KEY ? `?key=${CARTO_API_KEY}` : ''}`
 const TILE_ATTR = '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>'
 
 // ── Performance limits ──
