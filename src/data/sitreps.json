@@ -274950,6 +274950,36 @@
     "verified": false
   },
   {
+    "id": 1787823973810,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 President Pezeshkian: Islamic unity does not mean abandoning justice📌 Tehran, IRNA – Iran’s President Masoud Pezeshkian has called for a new understanding of Islamic unity based on truth, justice, mutual responsibility, and practical cooperation, stressing that unity does not mean eliminating re...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787823928538,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 President Pezeshkian: Islamic unity does not mean abandoning justice📌 Tehran, IRNA – Iran’s President Masoud Pezeshkian has called for a new understanding of Islamic unity based on truth, justice, mutual responsibility, and practical cooperation, stressing that unity does not mean eliminating re...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787801946407,
     "type": "rocket",
     "location": "Strait of Hormuz",
