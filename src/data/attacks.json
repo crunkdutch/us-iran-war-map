@@ -118796,6 +118796,102 @@
     ]
   },
   {
+    "id": 479765090,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Enemy_MediaIsraeli media Israeli army raised state",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: The \"Israeli\" army has raised its state of alert in anticipation of a possible strike due to a tangible threat from Lebanon.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479768225,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Beirut, Lebanon, Israel: Iranian Supreme National Security Council Secretary",
+    "location": "Beirut, Lebanon, Israel",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iranian Supreme National Security Council Secretary Major General Mohsen Rezaei:– Our relationship with the Lebanese people is historic and deeply rooted. We defend Lebanon with all our might and provide it with support.– One of the conditions of the Memorandum of Understanding is that the United States must end the war throughout West Asia, particularly in Lebanon.– One of our conditions is that “Israel” must withdraw from the territories it has occupied, and that the territories of Lebanon and",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479771361,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Beirut, Israel: Iranian Supreme National Security Council Secretary",
+    "location": "Beirut, Israel",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iranian Supreme National Security Council Secretary Major General Mohsen Rezaei:– The imposition of “economic pressure” following the military war in itself indicates that the enemies have lost hope in achieving their objectives through military war alone.– What new measures can America take? We have been under sanctions for 15 years, and they have imposed a naval blockade for more than a month.– We do not seek war and are never proponents of war; rather, we confront those who seek war.– Hezboll",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479736920,
     "type": "rocket",
     "status": "confirmed",

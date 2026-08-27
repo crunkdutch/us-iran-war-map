@@ -275161,6 +275161,66 @@
     "verified": false
   },
   {
+    "id": 1787859248399,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Hebrew Channel 13: In “Israel”, there are concerns that Hamas is trying with all its might to acquire advanced drones similar to those possessed by Hezbollah. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787859232493,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 14: Thirteen combat engineers and heavy equipment soldiers from Battalion 603 fled while serving in the Lebanon area.The 13 soldiers from Battalion 603, which operates under the 7th Brigade, held a ceremony at the beginning of the week during which they humiliated other so...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787859280994,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: The \"Israeli\" army has raised its state of alert in anticipation of a possible strike due to a tangible threat from Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787859276641,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: The \"Israeli\" army has raised its state of alert in anticipation of a possible strike due to a tangible threat from Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787801946407,
     "type": "rocket",
     "location": "Strait of Hormuz",
