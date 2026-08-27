@@ -118860,6 +118860,38 @@
     "media": []
   },
   {
+    "id": 479758823,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-27",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Hodeidah, Gaza City: News updates August 2026 NigeriaA Nigerian",
+    "location": "Tehran, Hodeidah, Gaza City, Strait of Hormuz, Red Sea, Lebanon, Yemen, Kuwait, Qatar, Oman, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 825
+    },
+    "description": "📢 | News updates | August 27, 2026🇳🇬 NigeriaA Nigerian security consulting firm, SBM Intelligence, estimated that armed groups involved in mass kidnappings and ransom collection earn nearly &#036;6 million annually. The firm reported that between July 2025 and June 2026, 7,825 people were abducted across Nigeria, with at least 1,142 of the abducted individuals killed. The total ransom paid during the period reached 7.78 billion naira, equivalent to approximately &#036;5.79 million.🇵🇸 Palest",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
