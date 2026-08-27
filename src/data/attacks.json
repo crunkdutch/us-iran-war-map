@@ -118892,6 +118892,43 @@
     "media": []
   },
   {
+    "id": 479761956,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-27",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Strait of Hormuz, Israel: Iran maintains control over Strait Hormuz",
+    "location": "Tehran, Strait of Hormuz, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran maintains control over Strait of Hormuz: IRGC📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says Iran maintains control over the Strait of Hormuz and is moving beyond a reactive posture toward greater strategic initiative in shaping the course and cost of war and diplomacy.In a statement on Thursday, the IRGC Intelligence Organization said that the “unity of the battlefield, streets, diplomacy and public service” has resulted in 200 days of resistance against the US–Israeli",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BCG5_PhWk8pbzirzx9LCXmipj0IZQlntC5izFbxSNTlqvm_3tUcEmn0P0TT7WlnqhX4DwiyIQQu14ej1W7in-LDGnQLYxwa988veIjND3LGRxiSq71FyWWXsj9s4ODb0PkCLekBcwHkPOnR5vH6yGTwoPrZz9kPDIUyJ2tjgaAKHNERykrDiPJaRb19Tci6buKhZYNKkEKfC9XiWGv0sZG9zVB0qbB2ybpYb6RRJPfY0ixOWJ2tndmlsg6v_kb0FIa7w8egzZ4_iZl-WNy8jlihhcbC93dImN0uU6PrM_toPRnpOUWIIGP94G9niWEDzRmRAmS1Jy8271M4L_QUjwA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
