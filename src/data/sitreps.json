@@ -274980,6 +274980,86 @@
     "verified": false
   },
   {
+    "id": 1787826138306,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Pakistan rejects unilateral sanctions, vows to continue trade with Iran📌 Islamabad, IRNA – Pakistan will continue bilateral trade with Iran in accordance with international law and is not bound by unilateral sanctions imposed on Tehran, Pakistani Foreign Ministry spokesperson Tahir Andrabi has s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787826138466,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Pakistan rejects unilateral sanctions, vows to continue trade with Iran📌 Islamabad, IRNA – Pakistan will continue bilateral trade with Iran in accordance with international law and is not bound by unilateral sanctions imposed on Tehran, Pakistani Foreign Ministry spokesperson Tahir Andrabi has s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787826234275,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-08-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Pakistan rejects unilateral sanctions, vows to continue trade with Iran📌 Islamabad, IRNA – Pakistan will continue bilateral trade with Iran in accordance with international law and is not bound by unilateral sanctions imposed on Tehran, Pakistani Foreign Ministry spokesperson Tahir Andrabi has s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787826235280,
+    "type": "airstrike",
+    "location": "Turkey",
+    "coordinates": [
+      39,
+      35
+    ],
+    "date": "2026-08-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Pakistan rejects unilateral sanctions, vows to continue trade with Iran📌 Islamabad, IRNA – Pakistan will continue bilateral trade with Iran in accordance with international law and is not bound by unilateral sanctions imposed on Tehran, Pakistani Foreign Ministry spokesperson Tahir Andrabi has s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787826226215,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 40th International Islamic Unity Conference in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BCG5_PhWk8pbzirzx9LCXmipj0IZQlntC5izFbxSNTlqvm_3tUcEmn0P0TT7WlnqhX4DwiyIQQu14ej1W7in-LDGnQLYxwa988veIjND3LGRxiSq71FyWWXsj9s4ODb0PkCLekBcwHkPOnR5vH6yGTwoPrZz9kPDIUyJ2tjgaAKHNERykrDiPJaRb19Tci6buKhZYNKkEKfC9XiWGv0sZG9zVB0qbB2ybpYb6RRJPfY0ixOWJ2tndmlsg6v_kb0FIa7w8egzZ4_iZl-WNy8jlihhcbC93dImN0uU6PrM_toPRnpOUWIIGP94G9niWEDzRmRAmS1Jy8271M4L_QUjwA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787801946407,
     "type": "rocket",
     "location": "Strait of Hormuz",
