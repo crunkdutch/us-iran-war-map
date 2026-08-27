@@ -119025,6 +119025,38 @@
     ]
   },
   {
+    "id": 479774498,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-27",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Strait of Hormuz, Qatar: Araghchi Situation region solely result Israeli",
+    "location": "Tehran, Strait of Hormuz, Qatar, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Araghchi: Situation in region is solely result of US and Israeli military aggression📌 Tehran, IRNA – Iran’s Foreign Minister Abbas Araghchi and his Qatari counterpart, Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, on Thursday discussed a proposed framework that includes the creation of a temporary shipping corridor through the Strait of Hormuz.During the meeting, while welcoming the continued role of regional and neighboring countries in helping to de-escalate tensions, Araghchi point",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
