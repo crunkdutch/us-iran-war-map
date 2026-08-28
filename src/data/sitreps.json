@@ -275621,6 +275621,26 @@
     "verified": false
   },
   {
+    "id": 1787938360281,
+    "type": "naval",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Message of the Leader of the Islamic Revolution, Imam Mujtaba Khamenei (H) on Government Week: (1/2)Imam Ayatullah Sayyid Mujtaba Husayni Khamenei, the Leader of the Islamic Revolution, issued a message on the occasion of Government Week, expressing appreciation for the government’s commendab...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/YZaS-iqQTrm3n49kcYV7YmGiO83h-oQ_gewQ5Shb6rzDa2E6HHhyI71RWYuEgo1wNbBpZyjZJNphgC2RXPQdIz5Ztkqzl1tfpO0O_P_nMAya9QgOZxdtFWznXqU5S3o4tHWmKPJXy2baQqwv8K0sdfzqVc7yWpDTVHSxbbcsoL8FYcDyGVysIBkEvZTd5eoxKdEw3UiUPfNPvmkNY7q4LZeUpLavAKyAAiQXHiLYltZ7c149fGq2AJ-7g2hrG8A5OMcZQ4jAXczzWUMKAF1MsS-ZwM2m1UIdtWeutIC2Wnf7Ryg6JMQzkhm70wPbmim4iFKiy52Ykk7aX0Mu1sdDMg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
