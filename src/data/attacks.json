@@ -119121,6 +119121,43 @@
     "media": []
   },
   {
+    "id": 479787056,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-27",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: south being violated aggression continuesThese scenes",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | The south is being violated… and the aggression continuesThese scenes summarize the reality unfolding in southern Lebanon, where the Israeli occupation continues violating the land and breaching Lebanon’s sovereignty. Homes are being demolished, towns bombarded, airstrikes carried out, and houses and farmland bulldozed. These are continuous attacks and daily violations, taking place in full view of those responsible for safeguarding the country’s sovereignty, as if there were no ceasefire",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mVXu-mV-RCVk7ty3aCGsBhGXY8EOH0dVFa8M8VA7j8H_DV8198rD8LOoNqZF5Bogf1HsDU23D6NzQOHMvVQemV2M3oW0U0kVp_SX1PaAS1sJOi4vg-RbqR7aL_3jVP_OYSr8ziwJGrY684V_deN0d_KcEszJUQwAr7y3ouHFKTgGjoqRSkUU_-NdWIScUkseWH7i9oqYccOGL9n0kPMYB4TNzeiPNRpZvrVOFYn2rMEbZj5FxblD8z0Klc6d4T4XSQJx1XRNzUJiCfNyRkvVYzOwxyLDhnM5kcVVkbvGZ22SXJmhBpNFS9UpDY7HW7oBROxWZkbgMgaN6gry4-UyAQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 479777636,
     "type": "drone",
     "status": "confirmed",

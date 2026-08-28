@@ -275581,6 +275581,46 @@
     "verified": false
   },
   {
+    "id": 1787936133587,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | The south is being violated… and the aggression continuesThese scenes summarize the reality unfolding in southern Lebanon, where the Israeli occupation continues violating the land and breaching Lebanon’s sovereignty. Homes are being demolished, towns bombarded, airstrikes carried out, and ho...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mVXu-mV-RCVk7ty3aCGsBhGXY8EOH0dVFa8M8VA7j8H_DV8198rD8LOoNqZF5Bogf1HsDU23D6NzQOHMvVQemV2M3oW0U0kVp_SX1PaAS1sJOi4vg-RbqR7aL_3jVP_OYSr8ziwJGrY684V_deN0d_KcEszJUQwAr7y3ouHFKTgGjoqRSkUU_-NdWIScUkseWH7i9oqYccOGL9n0kPMYB4TNzeiPNRpZvrVOFYn2rMEbZj5FxblD8z0Klc6d4T4XSQJx1XRNzUJiCfNyRkvVYzOwxyLDhnM5kcVVkbvGZ22SXJmhBpNFS9UpDY7HW7oBROxWZkbgMgaN6gry4-UyAQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787936192242,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | The south is being violated… and the aggression continuesThese scenes summarize the reality unfolding in southern Lebanon, where the Israeli occupation continues violating the land and breaching Lebanon’s sovereignty. Homes are being demolished, towns bombarded, airstrikes carried out, and ho...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mVXu-mV-RCVk7ty3aCGsBhGXY8EOH0dVFa8M8VA7j8H_DV8198rD8LOoNqZF5Bogf1HsDU23D6NzQOHMvVQemV2M3oW0U0kVp_SX1PaAS1sJOi4vg-RbqR7aL_3jVP_OYSr8ziwJGrY684V_deN0d_KcEszJUQwAr7y3ouHFKTgGjoqRSkUU_-NdWIScUkseWH7i9oqYccOGL9n0kPMYB4TNzeiPNRpZvrVOFYn2rMEbZj5FxblD8z0Klc6d4T4XSQJx1XRNzUJiCfNyRkvVYzOwxyLDhnM5kcVVkbvGZ22SXJmhBpNFS9UpDY7HW7oBROxWZkbgMgaN6gry4-UyAQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
