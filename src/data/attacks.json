@@ -118892,6 +118892,38 @@
     "media": []
   },
   {
+    "id": 479780775,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-26",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaHebrew Channel There concerns within Israeli",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 12: There are concerns within the \"Israeli\" military establishment that Iran, amid increasing pressure, may carry out military action against US targets in the Middle East or against “Israel”. For this reason, the \"Israeli\" and US armies are strengthening their cooperation on operational plans and intelligence gathering.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479736920,
     "type": "rocket",
     "status": "confirmed",
