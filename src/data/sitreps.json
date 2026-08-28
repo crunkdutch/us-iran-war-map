@@ -275236,6 +275236,21 @@
     "verified": false
   },
   {
+    "id": 1787909915173,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: \"Israeli\" Prime Minister Benjamin Netanyahu invited ministers Itamar Ben-Gvir and Bezalel Smotrich to meetings on Sunday, stressing that “not a single vote should be wasted, and we must unite to save the right-wing bloc.”#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787801946407,
     "type": "rocket",
     "location": "Strait of Hormuz",
@@ -275517,6 +275532,21 @@
     "source": "CENTCOM",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "📢 | News updates | August 27, 2026🇳🇬 NigeriaA Nigerian security consulting firm, SBM Intelligence, estimated that armed groups involved in mass kidnappings and ransom collection earn nearly &#036;6 million annually. The firm reported that between July 2025 and June 2026, 7,825 people were abducte...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787909846538,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran sympathizes with flood victims in Nepal📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has expressed sympathy with the government and people of Nepal following the floods and landslides in that country.Following devastating floods and landslides in parts of Nepal—which...",
     "media": [],
     "verified": false
   },
