@@ -119057,6 +119057,38 @@
     "media": []
   },
   {
+    "id": 479777636,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-28",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Damascus, Strait of Hormuz, Lebanon: News updates August 2026 LebanonSouthern Lebanon",
+    "location": "Damascus, Strait of Hormuz, Lebanon, Syria, Kuwait, Iraq, Israel",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📢 | News updates | August 28, 2026🇱🇧 LebanonSouthern Lebanon witnessed another day of widespread Israeli aggression, including airstrikes, drone strikes, artillery shelling, phosphorus attacks, explosions, sound bombs, machine-gun fire, bulldozing operations, and ground incursions across Ali Al-Taher, Nabatieh Al-Fawqa, Douha Kfar Rumman, Al-Mansouri, Al-Qantara, Deir Syriane, Mayfadoun, Zawtar Al-Sharqiyah, Arab Salim, Baraachit, Wadi Al-Saluqi, Mays Al-Jabal, Beit Yahoun, Al-Khiam, Hadatha,",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
