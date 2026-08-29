@@ -276137,6 +276137,36 @@
     "verified": false
   },
   {
+    "id": 1788010825450,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 US-Israel-linked terrorist team dismantled in southeastern Iran📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Ground Force Quds Headquarters has announced the elimination of a terrorist team affiliated with the spy agencies of the Israeli regime and the United States in the southeas...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788010876687,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 US-Israel-linked terrorist team dismantled in southeastern Iran📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Ground Force Quds Headquarters has announced the elimination of a terrorist team affiliated with the spy agencies of the Israeli regime and the United States in the southeas...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
