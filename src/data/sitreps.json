@@ -275915,6 +275915,26 @@
     "verified": false
   },
   {
+    "id": 1787991107931,
+    "type": "airstrike",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "date": "2026-08-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Regional Kung Fu competitions in Tabriz📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/baXUbxrv9aEbo-Kcz7A-AbRAZGsuLB28ooPlJIkGUtWB6VUco2D4jNhzqDWSg7KfX85hnMuWs06nuywsCvhRgmDiwbgpQq1Bd7F8aMVfw_Bd_3MBihbymGLNFbWui3ABZ-k8bam_nrZy6u8d302dTExePp6eFm0CbupWzjRqzR7coJENC9CI_0zg2AvDKLgVYJc2DrNmUQPzlKlYPfDNwToXpQ0HaK8N-wpqady9EvqDZC3e77Pn_1RD-ffsvL1EleuozYxOPoJkmieHmZujQ0PbFumkz1D_CLGGmhbbjkVEwTL9Djwe7M8EZXzooI4aKDg2k2IKzvRnpsd_Y6V-qA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787975756846,
     "type": "drone",
     "location": "Sirik",
