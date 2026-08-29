@@ -119355,6 +119355,38 @@
     "media": []
   },
   {
+    "id": 479815370,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-08-28",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Doha, Iraq: IraqiResistance Security Official Kataib Hezbollah Mujahid",
+    "location": "Doha, Iraq",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | The Security Official of Kataib Hezbollah Abu Mujahid Al-Aasaf:In the name of Allah, the Most Gracious, the Most MercifulAs we live these days celebrating the fragrant anniversary of the birth of the Greatest Messenger, Muhammad (S), whose light dispelled darkness and under whose guidance the banners of truth and justice were raised, we recall his blessed biography and great morals to help us face challenges and mend the rifts in our nation. In this context, we address ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479796485,
     "type": "drone",
     "status": "confirmed",
@@ -119446,6 +119478,70 @@
       "other": 785
     },
     "description": "🔊 Iran’s enemy failed to achieve its objectives: Army commander📌 Tehran, IRNA – Iran’s Army Commander Major General Amir Hatami says the enemy failed to achieve any of its objectives during the recent imposed wars, despite attempts to destroy Iran’s missile and drone capabilities.Speaking at a congress in Gilan Province commemorating 3,785 martyred Army servicemen on Saturday, Hatami said Iran’s Armed Forces continued launching missiles and drones against the enemy with maximum intensity until",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479818521,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-29",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Minab, Saudi Arabia: Unity Islamic world cornerstone Irans foreign",
+    "location": "Tehran, Minab, Saudi Arabia, Israel, Egypt, Turkey",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Unity of Islamic world cornerstone of Iran's foreign policy: Araghchi📌 Tehran, IRNA – Foreign Minister Abbas Araghchi says Iran will keep pursuing the issue of unity and empathy among Muslims in all circumstances based on the teachings of the late founder of the Islamic Republic and the martyred Leader of the Islamic Revolution.Speaking at a ceremony on the occasion of the birth anniversary of the Prophet Muhammad (PBUH) on Saturday, Araghchi said Imam Khomeini and Martyr Ayatollah Seyyed Al",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479821673,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Baghdad, Iraq: Iran Iraq ramp work launch joint",
+    "location": "Baghdad, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran, Iraq ramp up work to launch joint free zone📌 Ilam, IRNA – Iranian and Iraqi officials have emphasized accelerating the implementation of legal mechanisms and launching the joint free zone.On Saturday, Iranian Ambassador to Baghdad, Mohammad-Kazem Ale-Sadegh, and Mehdi Rayati, the CEO of the Mehran Free Zone, held a joint meeting with Munther Abdul-Amir Assad, the Director General of Iraq’s General Authority for Free Zones, to review the latest measures, as well as the technical, legal,",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
