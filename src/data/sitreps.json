@@ -275776,6 +275776,100 @@
     "verified": false
   },
   {
+    "id": 1787975738868,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🇱🇧 | Sheikh Ali Al-Khatib, Vice President of the Supreme Islamic Shia Council of Lebanon, met with Iranian Foreign Minister Seyed Abbas Araghchi during his visit to Lebanon.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ObCPpC_qlR9edW1EjFTNySh7iKxOIIc5DTwSJ2TIhAX-W_GjxBS9bpBVlPgvjld_h299hzky6ImzcNkuj2xH4kmSLwXhIItTLViNehmdkz4swbgN8KrELXIlDuDHvs-pihDBCWdSJnpcLo-2TqMgMnAD3byhPsVUo0FX4N6fsbNtJRdb5BYPJo7pi2BUxMWBh93E0H8hEtyo_ayKdsmj9yo7U0bw5qzUy9ARoPN6t7OSqpm5HWXXnp4aHsEpwCcfLmivA-SbLc11Hyyz8zF8BRwE5j9BKNJfue-hOxvEpYhQB936m0-tpJJ91cszZbDqn3XMP45HU-fFRscn7doVfA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ksdWkrZdm5tMxQBxZ1zQYjT1CqFezgMbG6R2RQOSGMkwNQsdyzzicG_uvQs1mM_wmL3Mx_EHAgoJSetGIwhXwl-PW2VR8ptX02uccE5HsP2MuDYyYMKfStDlOHNraFmt33693NjXEGLWxBK08ItsgIvnnbREt2z20WeOOEk82fE5y0VLRDBPyLRJN4CEF2LlJVtjbCjDUFcUdit3mKKDQ05rhXox2JzzKRHLW5e6k_nYm1Psn7yyf3bkmpYRLy86dVPqF34jzpY8ZswzLNRLE55qY7xC2OziSbxV7R1Ko75SwzzJnWMwMRqz3rpcXZ6BbQfiGpv1tBaoq0gpc-Mitg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/f3b6a9d4eb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y0INVpYWcAECJSi5kApJVdMc_WU44_kUirfgBhr3csV_K9yG7XZvNTTjOr_v9Vuo0j8AjtAxtLuQwBOM5S2RdW3gb2a9b3VHEvW2hRWs4O3y1u6gesTbjYInGko0Gygy70_zAUkYuDyYSrwyCtksi2pWbXNYdHsjeaTv8zlH2twT6VGCw1Ats27qFgElpJr7K6j6qt9tAs0Q_smI1ef9eB1kR6S5yqGp8ybf10pwdaoYL7iHlaU_gloL9a9YOA4XcRgxBQ-tlR3Uha8n0YIo6xF5t7yI4egEDn4XD7VE0CuSaMG9uzuFRh8JvYE5yxRic72G8LNJjiFVOXy5drRagQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61303?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y0INVpYWcAECJSi5kApJVdMc_WU44_kUirfgBhr3csV_K9yG7XZvNTTjOr_v9Vuo0j8AjtAxtLuQwBOM5S2RdW3gb2a9b3VHEvW2hRWs4O3y1u6gesTbjYInGko0Gygy70_zAUkYuDyYSrwyCtksi2pWbXNYdHsjeaTv8zlH2twT6VGCw1Ats27qFgElpJr7K6j6qt9tAs0Q_smI1ef9eB1kR6S5yqGp8ybf10pwdaoYL7iHlaU_gloL9a9YOA4XcRgxBQ-tlR3Uha8n0YIo6xF5t7yI4egEDn4XD7VE0CuSaMG9uzuFRh8JvYE5yxRic72G8LNJjiFVOXy5drRagQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1787975756846,
+    "type": "drone",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-08-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📢 | News updates | August 29, 2026🇮🇷 IranIranian security forces arrested six members of Jaish al-adl during a joint operation in Saravan carried out by the Law Enforcement Command, the IRGC, and intelligence forces. Police said one member of the group was killed during the armed confrontation.Au...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787975744908,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📢 | News updates | August 29, 2026🇮🇷 IranIranian security forces arrested six members of Jaish al-adl during a joint operation in Saravan carried out by the Law Enforcement Command, the IRGC, and intelligence forces. Police said one member of the group was killed during the armed confrontation.Au...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787975740641,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-08-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📢 | News updates | August 29, 2026🇮🇷 IranIranian security forces arrested six members of Jaish al-adl during a joint operation in Saravan carried out by the Law Enforcement Command, the IRGC, and intelligence forces. Police said one member of the group was killed during the armed confrontation.Au...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787975722704,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📢 | News updates | August 29, 2026🇮🇷 IranIranian security forces arrested six members of Jaish al-adl during a joint operation in Saravan carried out by the Law Enforcement Command, the IRGC, and intelligence forces. Police said one member of the group was killed during the armed confrontation.Au...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -119259,6 +119259,38 @@
     "media": []
   },
   {
+    "id": 479796485,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-29",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sirik, Strait of Hormuz, Lebanon: News updates August 2026 IranIranian security",
+    "location": "Sirik, Strait of Hormuz, Lebanon, Israel",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📢 | News updates | August 29, 2026🇮🇷 IranIranian security forces arrested six members of Jaish al-adl during a joint operation in Saravan carried out by the Law Enforcement Command, the IRGC, and intelligence forces. Police said one member of the group was killed during the armed confrontation.Authorities announced the seizure of a large cache of weapons and equipment, including dozens of Kalashnikov rifles, hand grenades, RPG-7 launchers, around 20 kilograms of C4 explosives, 150 rounds of a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
