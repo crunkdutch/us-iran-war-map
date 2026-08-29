@@ -276152,6 +276152,26 @@
     "verified": false
   },
   {
+    "id": 1788028411014,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The message of the Leader of the Islamic Revolution, Imam Mujtaba Husayni Khamenei, on the occasion of Unity Week will be published tomorrow morning, coinciding with the auspicious birth anniversary of the Noble Prophet (S) and Imam Sadiq (A), at the same time as its recitation at the closing...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/r7Eovvt5Z_Y8TyjziFcTsnFNDlU-3Ux0WOn-P9G7aYR1Bt4Fj3BJHtAHF0l3AAcu_807ZQ5pw8_DMsf-YibuN0nXAxachFHPyOI0M87V6hxe5BLekVhB83S3tFwYCQBNDvEdGw9Q66zMWi-2MxMT5DGZhN07tSm3COw0WWNnEZ8lVpoNp4adypxufIgjKlztyxLx3rSWzemP-hNNmvxyISo3G0sXsTCxXUZmgY9gYMYtodd9e0fWv9GVcfR-V2VFbM5L5OzoEcI2GqVfa14dVqbOsZN2lOenrd542oQeI26YnGLXtzTvbYmpMjMFqJ5yFTv6BthDsFxpcEQejwx25Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787975756846,
     "type": "drone",
     "location": "Sirik",
