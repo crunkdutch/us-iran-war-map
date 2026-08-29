@@ -119291,6 +119291,38 @@
     "media": []
   },
   {
+    "id": 479802776,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel, West Bank: Exclusive Hamas representative Tehran calls Israel",
+    "location": "Tehran, Israel, West Bank, Egypt",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Exclusive | Hamas representative in Tehran calls Israel ‘enemy of humanity’📌 Tehran, IRNA – Khaled Qaddoumi, Hamas representative in Tehran, has called Israel “an enemy of humanity,” emphasizing unity of regional countries in the face of the regime.“This enemy is truly an enemy of humanity; Israel, an enemy that has come to the region at the beginning of this century. Today, we must all unite,” Qaddoumi said in an exclusive interview with IRNA published on Saturday.​He praised Iran for susta",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479796485,
     "type": "drone",
     "status": "confirmed",
