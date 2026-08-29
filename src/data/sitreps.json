@@ -276107,6 +276107,36 @@
     "verified": false
   },
   {
+    "id": 1787999900583,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran’s enemy failed to achieve its objectives: Army commander📌 Tehran, IRNA – Iran’s Army Commander Major General Amir Hatami says the enemy failed to achieve any of its objectives during the recent imposed wars, despite attempts to destroy Iran’s missile and drone capabilities.Speaking at a con...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1787999928012,
+    "type": "intercept",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-08-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran’s enemy failed to achieve its objectives: Army commander📌 Tehran, IRNA – Iran’s Army Commander Major General Amir Hatami says the enemy failed to achieve any of its objectives during the recent imposed wars, despite attempts to destroy Iran’s missile and drone capabilities.Speaking at a con...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

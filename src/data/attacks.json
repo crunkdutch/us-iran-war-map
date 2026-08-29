@@ -119355,6 +119355,70 @@
     "media": []
   },
   {
+    "id": 479805923,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-29",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Minab, Israel: Exclusive Iran envoy Europe must accept",
+    "location": "Tehran, Minab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Exclusive | Iran envoy: Europe must accept reality of a strong Iran📌 Tehran, IRNA – Iranian Ambassador to Germany Majid Nili says Europe must accept the reality of a strong Iran, stressing that Tehran will continue pursuing dialogue and engagement based on mutual respect while firmly defending its national interests.In an exclusive interview with IRNA, Nili said Iran’s resistance to the recent US-Israeli military aggression has further demonstrated the country’s decisive position, defense ca",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479809071,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-29",
+    "time": "TBD",
+    "title": "Unknown Interception — Tehran, Gilan: Irans enemy failed achieve objectives Army",
+    "location": "Tehran, Gilan",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 785
+    },
+    "description": "🔊 Iran’s enemy failed to achieve its objectives: Army commander📌 Tehran, IRNA – Iran’s Army Commander Major General Amir Hatami says the enemy failed to achieve any of its objectives during the recent imposed wars, despite attempts to destroy Iran’s missile and drone capabilities.Speaking at a congress in Gilan Province commemorating 3,785 martyred Army servicemen on Saturday, Hatami said Iran’s Armed Forces continued launching missiles and drones against the enemy with maximum intensity until",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
