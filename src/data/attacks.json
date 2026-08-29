@@ -119323,6 +119323,38 @@
     "media": []
   },
   {
+    "id": 479812220,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-28",
+    "time": "TBD",
+    "title": "Unknown Interception — Iraq: IraqiResistance Islamic Resistance Iraq Kataib Sayyid",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance In Iraq Kataib Sayyid Al-Shuhada:In the name of God, the Most Gracious, the Most Merciful“Indeed, those who have said, 'Our Lord is Allah,' and then remained steadfast—there will be no fear concerning them, nor will they grieve.”Statement of position regarding the file of the Islamic Resistance movement Kataib Sayyid Al-Shuhada's weapons, so that Iraq may be master of itself.At a time when we remember the righteous martyrs who watered the pure soil of",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479796485,
     "type": "drone",
     "status": "confirmed",
