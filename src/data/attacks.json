@@ -119419,6 +119419,43 @@
     "media": []
   },
   {
+    "id": 479834291,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaperThe Israeli army",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:The \"Israeli\" army is facing a severe shortage of military Humvee vehicles after hundreds were destroyed in southern Lebanon. It is also struggling to repair damaged tanks due to budget shortages.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mVXu-mV-RCVk7ty3aCGsBhGXY8EOH0dVFa8M8VA7j8H_DV8198rD8LOoNqZF5Bogf1HsDU23D6NzQOHMvVQemV2M3oW0U0kVp_SX1PaAS1sJOi4vg-RbqR7aL_3jVP_OYSr8ziwJGrY684V_deN0d_KcEszJUQwAr7y3ouHFKTgGjoqRSkUU_-NdWIScUkseWH7i9oqYccOGL9n0kPMYB4TNzeiPNRpZvrVOFYn2rMEbZj5FxblD8z0Klc6d4T4XSQJx1XRNzUJiCfNyRkvVYzOwxyLDhnM5kcVVkbvGZ22SXJmhBpNFS9UpDY7HW7oBROxWZkbgMgaN6gry4-UyAQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 479796485,
     "type": "drone",
     "status": "confirmed",
@@ -119480,7 +119517,48 @@
     "description": "🔻 Exclusive | Iran envoy: Europe must accept reality of a strong Iran📌 Tehran, IRNA – Iranian Ambassador to Germany Majid Nili says Europe must accept the reality of a strong Iran, stressing that Tehran will continue pursuing dialogue and engagement based on mutual respect while firmly defending its national interests.In an exclusive interview with IRNA, Nili said Iran’s resistance to the recent US-Israeli military aggression has further demonstrated the country’s decisive position, defense ca",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fiLGkjogf1x8aSSKRHTTaUDMMb8_1oxwS9ydIiT5jniAh2hZe6RyuN9LXoIP9pzV-whYV6sJ_dwozn_D-0ew-XXMLIg3dt_c2fbnFZg9imfb8tm0RGkz_92ViciIX6imzoT9qSSsFVlZzJQUOT7gyqwgX8D53QI6Zxjz1XQokqmv-FM58aAYoK6A9Uu8OOjs44gW-h4QjDhzFYuiQ3XJ6dxI52IcU-bRCT2TstglBIIrXgU5xDXxOowxLSUqz-Xij89aw037UacCTwtEnOb8uq-iK9Lng10SwJJk1mVjdlO3pBs0OnYmeLm-QW147yDqcC9jU2xeOyg7gb1d-O9KcA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/pzIJh5uWgmDLi4VeIb2OE-1LeVGtQL9sjO_lpwPovGl0S5MQteiCG8CfmCwkDDHWqzPsUos_z3mN8_MWdSQmDWADK4MuyNs3tBN7U-UwtJkm2oqdtJ3HkvBODh4lfNsjZl-9fGmWulp8JRVXfq9e_h43_dYCc-AK-9UVrfp8K_1tqYWCD6N8wNGvyqhYSEg482HKSP-FNOZ8mEmnohMRpDuaonciCWPzB2qPbWWODLRSeJDDH6ro-KSIWy1mrkE--73sX0b0QbVObnQ4aqAwemC2350CvJEvJYF90X-DyHt-ifxll9JJBKlDcM4BnRYba45RPW5Xo4OXYWQ14cDN0A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/SQp_t1bpWuocBpRrXr-vmMY1YuIM1gnD7gQ3BT6IU-H-NEH5GhFTGqPS2W2ACQ3m0yJWcIvwHdV8X3aHJOJvfvln3FwY7ACBmOwoj0u-APTuT6k3Nk9NpF_1GK0aMDmLTL2nep9gDYdcD5T_4pltr1YtxTv_2grlZKFJhIvElxpT422NBlT2mIvkT2MekTQF1sLC31Tr6TRIH3rUvQ5A6orf_rc1ws66dQzSGgMBkg4_9-bqXoabC2tlql_Un6oIrLXIrqyFsRhMsFR5_2V62Qwk997_Z721TMlyLUA-VU-0sVdOal1OLAu39IFIP_yv0rynk3pWGN8A4rKQOJjVLw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/n5jcXSOdGRJvkfOy5wHjDQ7woc2xKFzLThU53WWd6ovEBVWb3QSlMYGYfnlLuFPdEZRQirq3p58tVyPjpuGObnIBX1wdZe1d68yESNV9t0H8lJLTq37HxSxX8MhG0YUKFRnvU-b2l4TnFsHWWtnT80eGzRwwue3Lru6HX8ACQ6erjnOwSjQ7sz4ogQQ_-oW5i0SFp8LeyRI5SxqxsWd4-89G-DN74VKSKUUEEp_ye8wFDvFJ-7hhZbH7udtJ1hJ954XrbmCwsYu2bfXQBwn1IjS4lTur-BibJNOn7p9YpBByAXANloyzWVWDG235so6zSH4Mch4GwS8hGdtoprhLBg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/oab-JD2e31qWE3Dtb9zLxstbjhkAtbFGa8PcR3tESrLbAJfBdea5_R04vYgkhPvmvdtqQcCBOK6DA-XvsYY3MCNjKl_UU1O_oHZvAZIIMq60SYfYLz14zVp6oTxUEVcMCWF2XiZI2qV3yB69YkB45fw9YrxfD-4clIIt-nDXK4zomgXHmoGVv5pWVv5VquRPudYX75JmAPYWIYR1AuLsEJ39uD6it0U_QTe-4D-K9avaiAedJTTqdDpGJrLUNz7IGHvv8CU1SaGdjUSYIvtqlO1CNVidwP5vWx3qaYNh2XXSP2hBlD37ALWtjae2j2WqEnTPuGke0Idw6zp0VvTZtA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/HC7aqA1OJBMx1Ne9NkOS0pazM19Q5xa_e6FJzPAbeeUtq9SQ3-mPn81v3QwE7yt7BGn8j1TMwjHQXmdFMhwttQsvUiP0KwdXfgEuJgEoMIv_jyy2n2YIXEsbbjYcHyC148hj17NUK-1tZwlBINyRS-qzdNJHA0ODxV-Jv9BbEJYs0Uky2HMHotxtIR--6RgHf450qAgNs5kY2A_7t8_feW54JCT_gm8_v4OUBC1s6hckvhM67KEOGTqymoWUUFJUp9V0PfVgxJE2wnCiHZMtajtYA8O_48HYPwYdhE-yoCmDvR_uuyHLZ1txIdoZh4fb0FNo9holy8jkYtKNUxIBvA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fNHdUZYps4XCB_GQYqWF6RR0Aaa7w8l0dG8xC7GSRh97PP5f65y-MffrV5MqY2UcU6j5bgyFK9k3wbKYZajyCnpvPbXwl1ybqA55WdoPliwfpc6QcWOGjcMiTNQEkstxH0UrrNEGk1pJoaxT0CEzvUNhLzraLCOoWbc10r4ByMO3Oebm8Av1J30x0fCkS2riNjwJvRf95gdPvktyZM1fUqJE99Q8v3_ImjA7yOC0GFVCd8ZeDg2HcbonelWkUS7njpj00NCAiHEMxJzJMc9mJ9VM_8-ZxAlPXsEdvuPClOQ7vSA3iimYYsLy0ag0XQojvRXml3lDApVZYZ_g3QmANg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/U77rWYI7aYi8KQXkg2C3RJjT2vNB9INR_IwO0UnCWrgW04v49KquqtXcWQ6is8Idmpu80tbK3lRXv9cRPcTPSX61ko5saCRR7rsnbPdPoHIhe81-FxXyTlKLsyu0oAkfZ8qvvNmAsiBzjonVx9XkX52g7il3egfvN8o6ATxsMGTuC4km4djhdFd9MQpBGdbwRW3d3R2wUaC4RqvTWN6GSLpeA5HBxjuStjb3SXJ0pOS9sEg7ZeDA2n-OWYSHe4Vb6Shg_jh5ckCPvom7eO8MgyAFQvHFcGdlNSYRXZvcUgqXVCG1m27cGvB9st8btTp4DUoTakRMuXVEJy436pVvww.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RDRE432VOal2RS0AWbGW1vZZdJ67tKTC8W9stBSbEh6P7wpJALJCN41wP82mYKWq_FEdgUExboz5PPgz-cR7W4ucBde-Z1nB3kRqZREzodgtHxU9l6cccnQZGelJunttZ4bZ5jTdG4BCmaYhp5mGF5WbRt_jBW9x3CDGU5riKssT9hPQk0y09eCkRk0LEwwLCPG26ZjlUo5uKqN76KYqzwpFIKWKMMapNeNdyfeX7fuD8YqEeYTolbypx2JTd_MUv47TYtU_hr2ByMJ2DseCn4_kBPVS_9b5Y3OqrW0-2EFIRegOHJbMMBbMe1GPbl7ND0HLCTNGTIjO59D1Dmn8rA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qz-aPAHrPfweo4weSe-9YvhkkHi-fGJpfzkl2MM2x6mV8OJcl2nWHB5L6qROO5N-YMCJgzm8Z1dkNkmiwn6k-1Vz_XEAOCuTohr62jnf2kN9fA6klyHP4ioSej93GTyjkDuTlilz5rGZU9MvOTDXRZdWFhvUYdVqw8xqofbnuBBNFqfsNnsiCf8nfvmFWFj-S_S250nEVMr9aK-Tg8P5gn_dcOU2yxDhN1os1XNqSBkzpMrSrldgNLNRwzpSNZb9ZG-vS5jMpncwlb1AiA8kxlgAtDgJfHHpDDwO8ZYMLA2QXQa_CAAyYnIeQYMrILX_LgVeZK41NZeRQw9L2Riynw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 479809071,
