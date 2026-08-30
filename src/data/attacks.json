@@ -119863,6 +119863,43 @@
     ]
   },
   {
+    "id": 479843765,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Photos Yemeni armed forces targeting gatherings",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Photos of Yemeni armed forces targeting gatherings and vehicles belonging to the Saudi enemy using drone bombers on several fronts.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/P6sChKocFtoffxmCpKY07piC_SVoS6IQ7iws1cJpzjJCZ2dvNDFIS9Mdk0JUodfsIYNwcoIKNfp1ctq4SxQLGQb4iUyrnZjkEN_XP1ZbCOK4VLmGwhccb-TFvoa0k2RHs6IcZtIrNPoiO8BmG1jHxrS_pqWVBdRGRDvdgvhuFEWgZ9Dasz-BoCkSzjNHXNISDmf66uaNzE3XevzVlFXjkeJTuOYebWC4wxWI_2TNOmbUNAmlHhZRGlbA5G82AxSHM7Da6nqFkygUGp-Lh60jCElC7EsQkodWqfZzkuUEkr5ucrKE5ZlMuMxf9d5SrolOfxMOYjvgXHe3gjC7P6-0Zg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

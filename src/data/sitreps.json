@@ -277016,6 +277016,26 @@
     "verified": false
   },
   {
+    "id": 1788096609183,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Photos of Yemeni armed forces targeting gatherings and vehicles belonging to the Saudi enemy using drone bombers on several fronts.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/P6sChKocFtoffxmCpKY07piC_SVoS6IQ7iws1cJpzjJCZ2dvNDFIS9Mdk0JUodfsIYNwcoIKNfp1ctq4SxQLGQb4iUyrnZjkEN_XP1ZbCOK4VLmGwhccb-TFvoa0k2RHs6IcZtIrNPoiO8BmG1jHxrS_pqWVBdRGRDvdgvhuFEWgZ9Dasz-BoCkSzjNHXNISDmf66uaNzE3XevzVlFXjkeJTuOYebWC4wxWI_2TNOmbUNAmlHhZRGlbA5G82AxSHM7Da6nqFkygUGp-Lh60jCElC7EsQkodWqfZzkuUEkr5ucrKE5ZlMuMxf9d5SrolOfxMOYjvgXHe3gjC7P6-0Zg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
