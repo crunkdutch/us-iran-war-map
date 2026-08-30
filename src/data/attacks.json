@@ -119547,6 +119547,70 @@
     "media": []
   },
   {
+    "id": 479824826,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Gilan, Strait of Hormuz, Persian Gulf: News updates August 2026 IranCommanderinChief Army",
+    "location": "Gilan, Strait of Hormuz, Persian Gulf, Yemen, Qatar, Oman, Saudi Arabia, Israel",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 785
+    },
+    "description": "📣 | News updates | August 30, 2026:🇮🇷 IranCommander-in-Chief of the Army Major General Amir Hatami said Iran’s armed forces successfully prevented the enemy from achieving its objectives during the war.Speaking at the Congress of the 3,785 Martyred Army Soldiers in Gilan Province, Hatami said the enemy attempted to destroy Iran’s missile and drone capabilities, but Iran’s missiles and drones continued to strike enemy targets with full intensity until the final moments of the conflict. He adde",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479827980,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Fars, Lebanon, Israel: News updates August 2026 LebanonAccording page",
+    "location": "Fars, Lebanon, Israel, West Bank",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📣 | News updates | August 30, 2026🇱🇧 LebanonAccording to the page of Martyr Journalist Ali Shuaib, southern Lebanon witnessed another day of widespread israeli attacks involving airstrikes, drone strikes, artillery shelling, phosphorus attacks, helicopter sweeping, machine gun fire, explosions, arson, and ground incursions.Airstrikes targeted Al-Mansouri, Wadi Al-Hujeir, the outskirts of Zawtar Al-Gharbiyah, the Ali Al-Taher area, and Douhat Kafr Rumman. Drone strikes were reported on the out",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
