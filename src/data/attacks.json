@@ -119456,6 +119456,70 @@
     ]
   },
   {
+    "id": 479850086,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-28",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Footage showing Yemeni Armed Forces targeting",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Footage showing the Yemeni Armed Forces targeting gatherings and vehicles belonging to the Saudi enemy with Rajum drones on several fronts.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479853248,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-28",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: YemenSaba News Agency citing Yemeni military",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenSaba News Agency, citing a Yemeni military source: The Yemeni Armed Forces’ strikes released by the Military Media targeted precise and sensitive targets and thwarted the Saudi enemy’s ongoing preparations for a ground battle.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479796485,
     "type": "drone",
     "status": "confirmed",

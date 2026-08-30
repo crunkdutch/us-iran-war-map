@@ -276277,6 +276277,66 @@
     "verified": false
   },
   {
+    "id": 1788112056615,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian media: The Iranian Armed Forces prevented 30 non-compliant vessels from crossing the Strait of Hormuz over the past week.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788112131017,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Footage showing the Yemeni Armed Forces targeting gatherings and vehicles belonging to the Saudi enemy with Rajum drones on several fronts.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788112140594,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-08-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenSaba News Agency, citing a Yemeni military source: The Yemeni Armed Forces’ strikes released by the Military Media targeted precise and sensitive targets and thwarted the Saudi enemy’s ongoing preparations for a ground battle.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788112088515,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 13: \"Israel\" prepared a plan to bring down the regime in Iran. As part of the preparations, thousands of Kurdish fighters arrived in \"Israel\", where they trained for operational scenarios.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787975756846,
     "type": "drone",
     "location": "Sirik",
