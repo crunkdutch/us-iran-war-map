@@ -276472,6 +276472,36 @@
     "verified": false
   },
   {
+    "id": 1788067948245,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-08-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Message of the Leader of the Islamic Revolution Imam Mujtaba Khamenei on Unity Week: In the Name of Allah, the Most Compassionate, the Most Merciful.“Muhammad is the Messenger of Allah, and those who are with him are firm against the disbelievers and merciful among themselves.”I congratulate ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788067987572,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-08-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+(2/3)This principle is one of the fundamental messages of the Islamic Revolution.The first Unity Week dates back to Esfand 1356 (1978), during the struggle against the oppressive Pahlavi regime, when the great martyred Leader first proposed the idea during his exile in Iranshahr, and it was welcome...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788063533673,
     "type": "drone",
     "location": "Gilan",
