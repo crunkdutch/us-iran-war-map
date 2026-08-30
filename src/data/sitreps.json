@@ -277111,6 +277111,51 @@
     "verified": false
   },
   {
+    "id": 1788123074793,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 IRGC vows response to US attack on Larak Island📌 Tehran, IRNA - The Islamic Revolution Guards Corps (IRGC) says a US attack on the Persian Gulf island of Larak left several Iranian military personnel and civilians martyred and wounded, and vowed to respond to the act of aggression.In a statement...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788122997272,
+    "type": "airstrike",
+    "location": "Larak Island",
+    "coordinates": [
+      26.85,
+      56.35
+    ],
+    "date": "2026-08-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 IRGC vows response to US attack on Larak Island📌 Tehran, IRNA - The Islamic Revolution Guards Corps (IRGC) says a US attack on the Persian Gulf island of Larak left several Iranian military personnel and civilians martyred and wounded, and vowed to respond to the act of aggression.In a statement...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788123049045,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-08-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 IRGC vows response to US attack on Larak Island📌 Tehran, IRNA - The Islamic Revolution Guards Corps (IRGC) says a US attack on the Persian Gulf island of Larak left several Iranian military personnel and civilians martyred and wounded, and vowed to respond to the act of aggression.In a statement...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
