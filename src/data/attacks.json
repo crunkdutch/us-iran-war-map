@@ -119387,6 +119387,38 @@
     "media": []
   },
   {
+    "id": 479831135,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaMaariv Hebrew newspaper Alon David Gaza",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Alon Ben David: In Gaza, the so-called “Kite Terrorism” could provide the government with a pretext to order the \"Israeli\" military to launch a large-scale ground operation. The fact that, so far, kites launched from Gaza have been found in “Israel” without any explosives or incendiary materials does not stop all media outlets, and not just regime-affiliated channels, from adopting the narrative of “Kite Terrorism.”#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479796485,
     "type": "drone",
     "status": "confirmed",
