@@ -119790,6 +119790,38 @@
     ]
   },
   {
+    "id": 479840606,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank, Gaza Strip: name Allah Most Gracious Most MercifulPress",
+    "location": "West Bank, Gaza Strip",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "In the name of Allah, the Most Gracious, the Most MercifulPress StatementThe continued settler terrorism and the escalation of their organized attacks against our Palestinian people, their property, and their lands in the occupied West Bank are being carried out with the direct support and protection of the occupation government and its head, war criminal Benjamin Netanyahu, as part of a systematic plan to impose new settlement realities on the ground, accelerate annexation and displacement sche",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
