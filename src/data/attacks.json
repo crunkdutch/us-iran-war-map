@@ -120444,6 +120444,38 @@
     ]
   },
   {
+    "id": 479897621,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Tehran, Larak Island, Jordan: Iranian armed forces tolerate aggression from",
+    "location": "Tehran, Larak Island, Jordan, UAE",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iranian armed forces vow not to tolerate aggression from any source📌 Tehran, IRNA – The General Staff of Iran’s Armed Forces and Khatam al-Anbiya Central Headquarters have warned that the Islamic Republic will not tolerate aggression from any source.They issued the warning in a joint statement released on Monday, after Iran targeted American military bases in the UAE and Jordan in reprisal for US aerial assaults on Iran’s Larak Island.​They said the terrorist US army continues to use some re",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
