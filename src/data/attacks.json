@@ -120199,6 +120199,70 @@
     ]
   },
   {
+    "id": 479875410,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Strait of Hormuz, Persian Gulf: Iran shoots down American drone Tehran",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran shoots down American MQ-9 drone📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) has announced that an enemy MQ-9 drone has been intercepted and destroyed over the Strait of HormuzThe IRGC announced early on Monday that an American MQ‑9 drone in the Strait of Hormuz was shot down by the advanced defense system of the Aerospace Force and crashed into the waters of the Persian Gulf.📲 @Irna_en​",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479878580,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Larak Island, Strait of Hormuz: IRGC pounds bases Jordan retaliatory missiledrone",
+    "location": "Tehran, Larak Island, Strait of Hormuz, Jordan, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 IRGC pounds US bases in Jordan in retaliatory missile-drone operation📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says its Aerospace Force has carried out a combined missile and drone operation against two US air bases in Jordan in retaliation for a US-Israeli assault on Iran’s Larak Island.In a statement early on Monday, the IRGC Public Relations Office said the operation, codenamed “Ya Mohammad ibn Abdullah,” targeted the technical and maintenance infrastructure and areas wh",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

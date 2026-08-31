@@ -277618,6 +277618,51 @@
     "verified": false
   },
   {
+    "id": 1788158181391,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-08-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Intense jamming of GPS and AIS signals continues off the coasts of the UAE and Oman near the Strait of Hormuz, resulting in inaccurate positions for numerous ships. Most of these ships are not actually located where they appear on tracking systems.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788158250000,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-08-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Intense jamming of GPS and AIS signals continues off the coasts of the UAE and Oman near the Strait of Hormuz, resulting in inaccurate positions for numerous ships. Most of these ships are not actually located where they appear on tracking systems.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788158217018,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-08-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Intense jamming of GPS and AIS signals continues off the coasts of the UAE and Oman near the Strait of Hormuz, resulting in inaccurate positions for numerous ships. Most of these ships are not actually located where they appear on tracking systems.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
