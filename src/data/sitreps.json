@@ -278129,6 +278129,56 @@
     "verified": false
   },
   {
+    "id": 1788193485252,
+    "type": "intercept",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇯🇴 | Satellite imagery reportedly shows that an Iranian missile penetrated American air defenses at Muwaffaq Al-Salti Air Base in Jordan and struck an aircraft hangar inside the base.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GkavB67Vn4Q4qfKfeUyAoAZ2WakT-FpiW7DDGQPKOWWOtLsrp0mjNs8HJz1bPPDCEE_Joh8N2UUSRAGxIjvnTcInx_9HHcG5zBL_EUTdHJ62cnb-3my4QUw0tol4x_6V-2iyq0ACOCiXWNocGGX1KywQyKVeFcOufy1VXxx103rO3nvbXF7TcJ-7hqEssetbJS5mllgzxsUYs4kG_k-EQwWlhaX1_26ge30zNqzg-GuoCCAdHM1y28IjYBgR2mSIFgNH-wQoXuU9T4TztRgoNVlTiteozhCnKN7E9l2fsJkvP7-E3cpHSSRydu3pyDE4Z3iIcFRqlQD2T0xBONLk9g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788193527235,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-08-31",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶🇮🇷 | The Iraqi Central Criminal Court has sentenced Amir Rahim Jabar Lazim, a member of Kataeb Hezbollah, to 15 years in prison under the Anti-Terrorism Law for the kidnapping of American journalist Shelly Kittleson. Kittleson was abducted in Baghdad on March 31 and held for about a week befor...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788193511342,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-31",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶🇮🇷 | The Iraqi Central Criminal Court has sentenced Amir Rahim Jabar Lazim, a member of Kataeb Hezbollah, to 15 years in prison under the Anti-Terrorism Law for the kidnapping of American journalist Shelly Kittleson. Kittleson was abducted in Baghdad on March 31 and held for about a week befor...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

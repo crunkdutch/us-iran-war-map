@@ -120332,6 +120332,75 @@
     "media": []
   },
   {
+    "id": 479888096,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Unknown Interception — Jordan: Satellite imagery reportedly shows that Iranian",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇯🇴 | Satellite imagery reportedly shows that an Iranian missile penetrated American air defenses at Muwaffaq Al-Salti Air Base in Jordan and struck an aircraft hangar inside the base.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GkavB67Vn4Q4qfKfeUyAoAZ2WakT-FpiW7DDGQPKOWWOtLsrp0mjNs8HJz1bPPDCEE_Joh8N2UUSRAGxIjvnTcInx_9HHcG5zBL_EUTdHJ62cnb-3my4QUw0tol4x_6V-2iyq0ACOCiXWNocGGX1KywQyKVeFcOufy1VXxx103rO3nvbXF7TcJ-7hqEssetbJS5mllgzxsUYs4kG_k-EQwWlhaX1_26ge30zNqzg-GuoCCAdHM1y28IjYBgR2mSIFgNH-wQoXuU9T4TztRgoNVlTiteozhCnKN7E9l2fsJkvP7-E3cpHSSRydu3pyDE4Z3iIcFRqlQD2T0xBONLk9g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 479891270,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Baghdad, Iraq: Iraqi Central Criminal Court sentenced Amir",
+    "location": "Baghdad, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶🇮🇷 | The Iraqi Central Criminal Court has sentenced Amir Rahim Jabar Lazim, a member of Kataeb Hezbollah, to 15 years in prison under the Anti-Terrorism Law for the kidnapping of American journalist Shelly Kittleson. Kittleson was abducted in Baghdad on March 31 and held for about a week before being released on April 7.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
