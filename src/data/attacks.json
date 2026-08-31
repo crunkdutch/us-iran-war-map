@@ -120401,6 +120401,49 @@
     "media": []
   },
   {
+    "id": 479894445,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: BREAKING IRGC announces moments defenses shot",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | BREAKING — IRGC announces moments ago, its air defenses shot down a U.S. Air Force MQ-9A Reaper UCAV above the eastern Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/0e2b2ecf2a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/JtzgSca2deqUv1Smbdv70M7AlPv8JOf9Wrc0pSe6LYjNpot3ucWCtUUuS7YCt88rOjq2Bz4Ts_mIehly-gmeZ6Fr4Xq_PNodFxwue1MtZyoOWnH9W8_z65sFyNVZcvUp4OO-cWvsxPnmXflxGGnEu_lSqqwanqFi-6CImqDSSWX6Rs4lePbNNK7bjV12RxJ-V4g6a7Rt_1B4TabKqWh8SfdW-6zA1486WxtD2S0kYBmpGfjSTugEj6trKT3774rVQqEeR2hvozPpVTaVu84l9zdycepX5hFoBvClaw7Bre5-tDK5dMemV5ogU_iUYD9_IdPuo-_NKYGNyK6UJPloRA"
+      },
+      {
+        "url": "https://t.me/enemywatch/61380",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/JtzgSca2deqUv1Smbdv70M7AlPv8JOf9Wrc0pSe6LYjNpot3ucWCtUUuS7YCt88rOjq2Bz4Ts_mIehly-gmeZ6Fr4Xq_PNodFxwue1MtZyoOWnH9W8_z65sFyNVZcvUp4OO-cWvsxPnmXflxGGnEu_lSqqwanqFi-6CImqDSSWX6Rs4lePbNNK7bjV12RxJ-V4g6a7Rt_1B4TabKqWh8SfdW-6zA1486WxtD2S0kYBmpGfjSTugEj6trKT3774rVQqEeR2hvozPpVTaVu84l9zdycepX5hFoBvClaw7Bre5-tDK5dMemV5ogU_iUYD9_IdPuo-_NKYGNyK6UJPloRA"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
