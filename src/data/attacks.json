@@ -120263,6 +120263,43 @@
     "media": []
   },
   {
+    "id": 479881751,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Larak Island: second Iranian martyr from last nights",
+    "location": "Larak Island",
+    "coordinates": [
+      26.85,
+      56.35
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷/🏴| The second Iranian martyr from last night’s American attack on Larak Island has been identified as Hamedzadeh, who was martyred during the strike.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/EzTI6TqNNHgUcibTBufwWREgVmiU2WpxyULu5RnFOjXZyNkvw7sP_UsMPZRj5fnzkDzoiYsrt1Dp2-Xm-jyatJl61F0-4nMkwUUcZvUsvtAHfrNYVIPvqj5NFkv8Z6AV-Lm8ffj3ukEMjJ9ggZUxeGmd7DhiiFNXuGGQl8QVmDtBPDVHxwbhthylJ9EStZ7fZbwb1ryr0TRDX4Ef9olRP5LUke8b4PzOiZNVSOgofRcUO-DGXVMOH90d_4BmTTpzHb8UUcVtsLQECsrzF4y4udu7Ej2bDtMtgYzUBn8WaLdU8hmWd-ubNQN7SxpqSKtuwPxqfd4BSo8a9O3Ob060FQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
