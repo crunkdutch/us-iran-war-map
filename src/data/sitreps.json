@@ -277471,6 +277471,48 @@
     "verified": false
   },
   {
+    "id": 1788151617054,
+    "type": "drone",
+    "location": "Larak Island",
+    "coordinates": [
+      26.85,
+      56.35
+    ],
+    "date": "2026-08-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Islamic Republic of Iran Army targeted the positions of American helicopters and forces stationed at the Al Minhad base in the UAE with attack drones:Iranian Army Public Relations:Since early this morning, in response to the recent aggression by the enemy and in retaliation for the martyr...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61363",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cMSVYPZgeW56PGqMqh-41nCofp6KcFTEsrek6Zdm23RiQGGt7-jmvpEj3L54-3kjaDGLqv_6-VlEU7hKQuC9KRvk1rFx5sZIvnQHWBo6KECTtIi45cUMD9U6nkw800wON00La3csMUV53mrJ4NYawBaWz3ruf43KBcU-gGk-OZb_rdZEBZ0Q5WinyK021GQ-jou5NXxAK2iiRulTMHSvDhhJ_8X-6_Zg5UCkOQdA77CfhLB8ThquYowoz1c3ZNuL23flHv4r-jxrL_dKJ0wwwR5MuH3kCXAtXtUV17323h-u6UcJWAW2rCBSYZKxCMeYzkvHN-k3qIX5JQizF0CdUw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788151641938,
+    "type": "drone",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-08-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Islamic Republic of Iran Army targeted the positions of American helicopters and forces stationed at the Al Minhad base in the UAE with attack drones:Iranian Army Public Relations:Since early this morning, in response to the recent aggression by the enemy and in retaliation for the martyr...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61363",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cMSVYPZgeW56PGqMqh-41nCofp6KcFTEsrek6Zdm23RiQGGt7-jmvpEj3L54-3kjaDGLqv_6-VlEU7hKQuC9KRvk1rFx5sZIvnQHWBo6KECTtIi45cUMD9U6nkw800wON00La3csMUV53mrJ4NYawBaWz3ruf43KBcU-gGk-OZb_rdZEBZ0Q5WinyK021GQ-jou5NXxAK2iiRulTMHSvDhhJ_8X-6_Zg5UCkOQdA77CfhLB8ThquYowoz1c3ZNuL23flHv4r-jxrL_dKJ0wwwR5MuH3kCXAtXtUV17323h-u6UcJWAW2rCBSYZKxCMeYzkvHN-k3qIX5JQizF0CdUw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
