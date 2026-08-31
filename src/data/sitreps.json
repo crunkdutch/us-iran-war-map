@@ -170,6 +170,62 @@
     "verified": false
   },
   {
+    "id": 1788171434009,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "1981-08-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Political career of PM Bahonar: A visual historyA cleric, educator, and political activist, Mohammad-Javad Bahonar held key positions including education minister and prime minister following the victory of the Islamic Revolution. He was martyred alongside then-President Mohammad-Ali Rajai in the Au...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/AOlZv51p0_sdyzdAHF-GEeH3LaPhA_LAnD98HYZtDpNNgnJoXr-HN00_maIZnGhle9BTt3v1xLeRJXir1-E-MJqdzsyfWo1RzJbH-wAs-W9Z2DdYKJ-mAgvOedzngnAwjbcvPiNdq9TIsBEaj2fv2ASv0OrbH9jAOlM14LhoIMegWhJA7it3cgFgttlzEI9Y2CG6brdZ558x9cx4JmUwBYfRjYlkCfxfLszmOTB5QsSGjXXsWM3pSD65qk-dL1I1WtKrBIuVSXfe-z9Co8KJ8dK1diSycs_tH_E9xuWdfGW1UHous_41cOAUPJ0fkACfpor4MSxW9wxOBgthxkYDJQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RPHEm6VLHk_Q-9BN8yI28cV9MAVaFheRiDCe2iuLurWNahSFIokJaarBECN3nlfRzgc7jayR5Rwoitaq4COMFaR9CKKI9SdaZ4_yn303XrLyurHDfHBdNVcH91G-Nl0qp9eDWtoQHk1F2SexCxAepaEGf0N83oNcoMFzjfwR2e0uqgXKKATIAPKLm4CSkCUFg4sPN54obxOrr3amtPXIGpAS86azYEXEQvzWuR702nTCE6W-3k9SpCm6QCVkNkreeszwWLVYFSEvGpr-IlEO3Mp68zbRQfkvG6MdKK9_foVnK9nUz2cYU21QcUF7NIX2WC-hau0YE0yysETP6e7mTg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MVYcf-NEM2gGJlFT_M9PB4HOTS6fsM_VIaJyMXBi_Ge4ydHD5y_6gJbwkZEnwxTSyr74QrOAoY7r_BnfVk8eqjH9iHimYf3w31KG7jeQdnNkKOjQW9eo3J0Gh_Ua5T_-QY0aAUShTMf43afYjnJ_Rgxqr8LEGRvLqGcxgn4No6XJPt_V91l7_Qj3wtY6cG47_NpPzD3fStmoqG4RDn7r9d1bUDhaAmNhvRANKJbpnyR3aP4uzHxttshcr_YPne4660B25PlZ2AFR3nLrPe8KGpbyH7S3VzbsWWZfsauErfREt6O1Cd7XtF2U43T31wumbhVvteXIqCcst0Rb6CG9lg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qGsQpSZN8SKv82ZEmV2Thv7XjyPkVJZbUGRbuWvwuCBIjNF-gNSLM809-arlxQhhq7aiPncN3KMsFbCUyXLpCfW8KDOjwpXaBqliDhoeIEyY04S1bOR4VvXnLtzC4YWyHpJXLcqnvKB_n3q8Xzu_nZH0fXhkGtYRzKvqJr1WFuUn6T7_mvMvH4HdwHXU36Ug8gfMyOwjFRgxehyfJdp2f9SRUZxWADepNQ0VD1vecISwo7XRcDjJabwGXZdYd_7hZDDvDXG6DCVTvxJr4P465HdfFbP_jRLg7oooZiJcUZjM9znnTLs6OUboF2cLTekgvLajeAvn5LQ0fKINrTBuPA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/iqyqu7Fr8UvqvEm_WkQ62KuhGVinBSI5M8kUadgc50kXabasGJUB-hfWVVSDODozHd9X4XhZfEyReAhg15lEWqhVbkxOsMTLTnsEQgryl6T5UqyHLgLMCP0SeDdQ-3KC1ouOmu9_rpVPrA8Lbq0LxPKQ24yvZTucXgSUyXgw3h7_0RLR7cq3wvKLxXjaXF6JQLEnufrXdW_P245pTJvzo_jU-bvsTj6nUBgWxv2nbHfqsYxp08xeqdewKtddOdok2LswX7DNBfKyT1T9eq3tedohbFI37OwghL6Gj0_AVk7QVbjD-qS5Lprc3_mPQgWr_805HCbK8PyOIrpjeOJ1fg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kLE0NZdPuDEmSG-tIA1oJUtNsCMHYN1dWiGEpmUTwD8nPZpfezWdo1fILARWL_aP5-k76koxJ4sFI0UmF6jzi7P5PiqQFdhbItSR1lmQipg82csIth1iCmIcsiVrya26TRbKqi_ukYVplvolgrb-oot6A77O-5F7HE_LB0aP8fBlzYTUmMoNxWQgKEBVrpI2ThiyNL3hIWK3jPE8tizd1MwALS1KnQOLjP92UOnA5kXJyvYgLQttCVlrAppyfMUV7B7O0EaBdDNru9K63vLbxJ7LNGaK9CZ6SOwP9rL4GB1eTFbGyixff1j0sAV14uhY5oTcureI0JU7K2izWwQY2g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/OCbSkpFFTqFmXnY8CuepzDbm2jJ8ZhzFT5Uf8GL_GrhswfTyi5X8kzGtNbgCHEmRpk_xpZL3TfDGzEkv24x-N813HVP1MgY8N8TKG_BzghGpqB9b0sWHNqmruuZcRSo7FZr3TX_tgA-6irpmwo-fx0f6VXZapjQSs2dBhb01PqsIuqUHJDl9faH70EMX8UifMXbpirB4CfWp1_QgF8JReN5CqW-b3lxGxxbW0ek4DZOSVHSmhKRZSG0_9wKAvL8DTHO6AgdcCJQBLUZuEAgu3J19b721IQi8A36bu-5eJ-HqE-RPRV3D9IOX1hh6cJ173-gSgePVQci3SAswwl84rQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/oLA17R0oi-eJ4_had7llTY1sIlhqyyrb19DyBof7-n-TrlJQhPZeDXu10to_DunD3dRX9ZBrpIrBWEpsoSH27nqKGjUlvla91UQOfhWSx6V3hP-mTmLjkvfAqf2nWvPbAwfahCs_4xPqMYTRVECdBwQxeSs-9E74xDPbC5LM3V4nGcdjo8PfwZPSGn9eb0zlnZVRsMzStLu9l1fyodpbAYw36qILTb6gvT2RgUSyCqm1Kc3SdTE7bAqgy4U_gqsqlLmESBvUJh4pmAv9su-5JlLKmP2IFecrRYsp8xISnDXP5lXVLoV2k_bCtGleWev_MkaSwYVCPPXk9YSndo4klQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/emdGcPC-y_RDjYGp9-7lpB5Yvch1wRpAV3zkiSK2S0690QbtyqQ8NhB6McRhcSU9FbuXJAxpuryJvmaQt-Z2YLCc8BSJzrc-6iqkmpkHcZmAExEWRh5X1h6Hq_GEQ-l2ePQzOsHbikAuazUK5xEiy5DQmBXjVDKOC3UeEbw2oQG-JRtPSBmJpI9LWGXoIDScb4dAibwNfXSHt3bRZPMuepJ9kIxKYyeOmPo1bm3B_-dQVogETeuWeJV1oFaVe_8tDMcM_Dnk-j6r4LSLJSBDfvXLQpgz8wThbbetGH1hITfxuOhe3ZzCiMxzvbzmK6d8pmsz9G7jSRDnK0k-kd0-5g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bmYBL974vnWmLgtCN9FE5FUNXh7XgPJwPSreNnwPzbRKvYOnETkx4YxlbtURaU7QafvrVyiwlHbRlncA6Hp_EW46nO3cnijxx0zSd9I0HnOVx7OghGy3gdVtOnZqWLgwLEcAM4hCaPoObsrmxfrGTwL3SmAj-tzU12bdhlGHA_Pb_1m_cbGOkMFncaesRFCwuwPuqnq1BHL3BwIGxVXHurQu7wtKFToeQyCpLtKevbgVmguE4Ww-BH7dV9_CA8LHdrWWfup7QpdHai6SUGDA9jb-yirYqlIl3-Fk02lYgw9ydMx6IBuRlsOHuyvBOAUyTYNStFLHiHgCQDGGPLV7sw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1785159548238,
     "type": "airstrike",
     "location": "Tehran",
