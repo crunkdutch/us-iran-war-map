@@ -279391,6 +279391,51 @@
     "verified": false
   },
   {
+    "id": 1788288273855,
+    "type": "airstrike",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ 🏴‍☠️ | Ongoing: Explosions have been heard on Larak Island, as well as on Lavand Island and in Asaluyeh, Bushehr Province, where a new explosion has occurred. ▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788288266087,
+    "type": "airstrike",
+    "location": "Larak Island",
+    "coordinates": [
+      26.85,
+      56.35
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ 🏴‍☠️ | Ongoing: Explosions have been heard on Larak Island, as well as on Lavand Island and in Asaluyeh, Bushehr Province, where a new explosion has occurred. ▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788288283794,
+    "type": "airstrike",
+    "location": "Asaluyeh",
+    "coordinates": [
+      27.4761,
+      52.6075
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ 🏴‍☠️ | Ongoing: Explosions have been heard on Larak Island, as well as on Lavand Island and in Asaluyeh, Bushehr Province, where a new explosion has occurred. ▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
