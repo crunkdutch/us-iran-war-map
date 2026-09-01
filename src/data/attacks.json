@@ -120609,6 +120609,102 @@
     "media": []
   },
   {
+    "id": 479926250,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Bandar Abbas, Jask, Qeshm: past minutes America launched wave airstrikes",
+    "location": "Bandar Abbas, Jask, Qeshm, Minab, Sirik, Strait of Hormuz",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ | In the past few minutes, America has launched a new wave of airstrikes across Iran’s southern coastline, with explosions reported in Bandar Abbas, Qeshm, Chabahar, Konarak, Jask, Sirik, and Minab. The strikes span multiple locations from the Strait of Hormuz to southeastern Iran, marking one of the widest waves of attacks reported along Iran’s southern coast during the current escalation.Reports indicate that Bandar Abbas has been hit multiple times and has so far sustained the heaviest ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479929436,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Minab: They once again attacking Minab with",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— They are once again attacking Minab with Tomahawk cruise missiles. Imagine that.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479932623,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm Island, Qeshm, Strait of Hormuz: Update More than five explosions were",
+    "location": "Qeshm Island, Qeshm, Strait of Hormuz",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📌 -: Update: More than five explosions were heard near the village of Masen on Qeshm Island, while four additional explosions were reported from areas overlooking the Strait of Hormuz on the island. The repeated blasts come as America continues its ongoing…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479913516,
     "type": "airstrike",
     "status": "confirmed",
