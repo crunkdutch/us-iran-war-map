@@ -278049,6 +278049,21 @@
     "verified": false
   },
   {
+    "id": 1788283998016,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: The U.S. Embassy in Jerusalem sent emails to all American citizens residing in \"Israel\", warning them of an \"unexpected escalation and possible flight cancellations.\"#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788169224266,
     "type": "airstrike",
     "location": "Larak Island",
@@ -279207,6 +279222,171 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📄 Baqaei says TOEFL restrictions expose US targeting of Iranian citizens📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says US restrictions on international educational services, including the TOEFL test for Iranian users, show that Washington is targeting Iranian citizens in all ar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283918152,
+    "type": "missile",
+    "location": "Jask",
+    "coordinates": [
+      25.645,
+      57.7744
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ 🏴‍☠️ | Minutes ago, Sistan and Baluchestan Province has also come under attack by American cruise missiles, while explosions have been reported in Jask Port and Minab in Hormozgan Province. The ongoing American attacks on Iran are reportedly being carried…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283898142,
+    "type": "missile",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ 🏴‍☠️ | Minutes ago, Sistan and Baluchestan Province has also come under attack by American cruise missiles, while explosions have been reported in Jask Port and Minab in Hormozgan Province. The ongoing American attacks on Iran are reportedly being carried…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283844550,
+    "type": "missile",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ 🏴‍☠️ | Minutes ago, Sistan and Baluchestan Province has also come under attack by American cruise missiles, while explosions have been reported in Jask Port and Minab in Hormozgan Province. The ongoing American attacks on Iran are reportedly being carried…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283875774,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "– The attacks are being launched one by one from the UAE, Kuwait, Qatar (yet to confirm), and Bahrain.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283869929,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "– The attacks are being launched one by one from the UAE, Kuwait, Qatar (yet to confirm), and Bahrain.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283831393,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "– The attacks are being launched one by one from the UAE, Kuwait, Qatar (yet to confirm), and Bahrain.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283854724,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "– The attacks are being launched one by one from the UAE, Kuwait, Qatar (yet to confirm), and Bahrain.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283866979,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ 🏴‍☠️ | Three explosions were heard in Langrud, Iran, while additional explosions were reported in Bandar Abbas as the ongoing American attacks across Iran continue. ▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283934271,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulPress StatementThe criminal operation carried out this morning by special forces affiliated with the occupation army in the Al-Katiba area west of Gaza City, in the midst of a densely populated area filled with residents and displaced people,...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283951496,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulPress StatementThe criminal operation carried out this morning by special forces affiliated with the occupation army in the Al-Katiba area west of Gaza City, in the midst of a densely populated area filled with residents and displaced people,...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788283985428,
+    "type": "airstrike",
+    "location": "Sharm el-Sheikh",
+    "coordinates": [
+      27.9158,
+      34.3299
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulPress StatementThe criminal operation carried out this morning by special forces affiliated with the occupation army in the Al-Katiba area west of Gaza City, in the midst of a densely populated area filled with residents and displaced people,...",
     "media": [],
     "verified": false
   },

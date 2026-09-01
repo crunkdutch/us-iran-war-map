@@ -120838,6 +120838,102 @@
     ]
   },
   {
+    "id": 479935811,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Jask, Minab, Hormozgan: Minutes Sistan Baluchestan Province also come",
+    "location": "Jask, Minab, Hormozgan",
+    "coordinates": [
+      25.645,
+      57.7744
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "+ 🏴‍☠️ | Minutes ago, Sistan and Baluchestan Province has also come under attack by American cruise missiles, while explosions have been reported in Jask Port and Minab in Hormozgan Province. The ongoing American attacks on Iran are reportedly being carried…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479939000,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bandar Abbas: Three explosions were heard Langrud Iran",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "+ 🏴‍☠️ | Three explosions were heard in Langrud, Iran, while additional explosions were reported in Bandar Abbas as the ongoing American attacks across Iran continue. ▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479942190,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza City, Gaza Strip, Sharm el-Sheikh: Name Allah Most Gracious Most MercifulPress",
+    "location": "Gaza City, Gaza Strip, Sharm el-Sheikh",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulPress StatementThe criminal operation carried out this morning by special forces affiliated with the occupation army in the Al-Katiba area west of Gaza City, in the midst of a densely populated area filled with residents and displaced people, accompanied by heavy gunfire and airstrikes to provide cover for the infiltrating forces and their withdrawal, resulting in a number of martyrs and wounded, constitutes a serious crime and a delibera",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
