@@ -278389,6 +278389,46 @@
     "verified": false
   },
   {
+    "id": 1788246417548,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 In photos: Iran, Iraq ministers meet in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cnzgbwLqGWTGzPCB6XprlBRtWMhHHk5rWAQeGhh0Ld1qy3Y3JLD8-_ObYBZOSJLBBc-QTcqKBI-i53Tni9dS3rV62sGYR0V6NcFMq8LsRthwu7VU6f-_MUb8gtAOCDyBlgU8KU12tO0RfZmhXTYPJmSmp7pNXOFMkI78lsuC1_DbBbHCme1WepqT_IQC16cPkXBTLVz_UCAJ5OsWFCFJ51b7Q6sqXun51KR6uKGIkNxf85hZA5ThaCoYLGGkDmfeXqKfjVP2pEuaqyX27usVJtqj44Bh9QmkWNSbO5bbTEnBMqVhBUs3tGb3Av8Kz-iUzlRMj0Xx3RF8ihFb9oK5bQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788246421034,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-08-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 In photos: Iran, Iraq ministers meet in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cnzgbwLqGWTGzPCB6XprlBRtWMhHHk5rWAQeGhh0Ld1qy3Y3JLD8-_ObYBZOSJLBBc-QTcqKBI-i53Tni9dS3rV62sGYR0V6NcFMq8LsRthwu7VU6f-_MUb8gtAOCDyBlgU8KU12tO0RfZmhXTYPJmSmp7pNXOFMkI78lsuC1_DbBbHCme1WepqT_IQC16cPkXBTLVz_UCAJ5OsWFCFJ51b7Q6sqXun51KR6uKGIkNxf85hZA5ThaCoYLGGkDmfeXqKfjVP2pEuaqyX27usVJtqj44Bh9QmkWNSbO5bbTEnBMqVhBUs3tGb3Av8Kz-iUzlRMj0Xx3RF8ihFb9oK5bQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
