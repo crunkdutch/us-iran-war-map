@@ -120934,6 +120934,102 @@
     "media": []
   },
   {
+    "id": 479945381,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Hormozgan: Joint Staff Irans Armed Forces released",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟦 | The Joint Staff of Iran's Armed Forces released a statement warning that they will respond harshly to the latest U.S. attacks: In response to the US military's aerial aggression against areas in Sistan and Baluchistan and Hormozgan, the armed forces of the Islamic Republic of Iran will inflict devastating and crippling blows on the cowardly and malicious American enemy.No matter how insistent the American terrorist army is on its evil actions in the region, it must bear even greater and hea",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479948573,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm, Asaluyeh: Ongoing Reports more explosions Qeshm Asaluyeh",
+    "location": "Qeshm, Asaluyeh",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "+ 🏴‍☠️ | Ongoing: Reports of more explosions in Qeshm and Asaluyeh. ▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479951766,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Reports indicate that Iran launched ballistic",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Reports indicate that Iran has launched ballistic missiles toward the Strait of Hormuz, with further Iranian attacks expected in the coming minutes and hours as the confrontation continues to escalate. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
