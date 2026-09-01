@@ -120476,6 +120476,70 @@
     "media": []
   },
   {
+    "id": 479900798,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sirik, Strait of Hormuz, Persian Gulf: Updates Iran Tensions continue escalate around",
+    "location": "Sirik, Strait of Hormuz, Persian Gulf, Yemen, Oman",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Updates:🇮🇷 Iran- Tensions continue to escalate in and around the Strait of Hormuz after a Saudi VLCC (Very Large Crude Carrier) identified as CEDAR was disabled while attempting to transit the southern corridor of the strait through Omani waters. - Iranian media said the supertanker, capable of carrying up to 2 million barrels of oil, stopped after suddenly activating its Automatic Identification System (AIS) while passing through the waterway. Iranian reports also said the vessel entered",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479903976,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Syria, Israel: Updates LebanonSouthern Lebanon witnessed another widespread",
+    "location": "Lebanon, Syria, Israel, West Bank, Qusayr",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Updates:🇱🇧 LebanonSouthern Lebanon witnessed another day of widespread Israeli aggression, including warplane airstrikes, artillery shelling, phosphorus attacks, drone strikes, explosions, arson, machine gun fire, bulldozing operations, military incursions, and reconnaissance activity across Al-Mansouri, Douha Kafr Rumman, Zawtar al-Sharqiya, Al-Qantara, Wadi al-Hujair, Hadatha, Houla, Sarbin, Bayt al-Sayyad, Arnoun, Kfartebnit, Baraachit, Ayta al-Jabal, Bayt Lif, Al-Khiam, Adshit al-Qusa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
