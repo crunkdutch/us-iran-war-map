@@ -120540,6 +120540,38 @@
     "media": []
   },
   {
+    "id": 479907155,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Iraq: Approves Possible 036800 Million Helicopter Sale",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇺🇸🔴🇮🇶 — US Approves Possible &#036;800 Million Helicopter Sale to IraqThe US State Department has approved a possible &#036;800 million military sale to Iraq involving Bell 412EPX and Bell 407M helicopters and related equipment.The package includes GAU-19 machine guns, rocket systems, electro-optical and infrared sensors, missile-launch detection systems, communications equipment, spare parts and training.The State Department said the helicopters would improve Iraq’s transport, reconnaissan",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
