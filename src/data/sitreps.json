@@ -278534,6 +278534,36 @@
     "verified": false
   },
   {
+    "id": 1788261897265,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iranian player awarded at Asian Youth Handball Championship📌 Tehran, IRNA – Ali Ghayour has been named the best right wing and one of the All-Star Team members at the 2026 Asian Men’s Youth Handball Championship in Jordan.Ali Ghayour, a member of Iran’s youth handball team, was selected as the t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788261880772,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-08-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iranian player awarded at Asian Youth Handball Championship📌 Tehran, IRNA – Ali Ghayour has been named the best right wing and one of the All-Star Team members at the 2026 Asian Men’s Youth Handball Championship in Jordan.Ali Ghayour, a member of Iran’s youth handball team, was selected as the t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788259626365,
     "type": "airstrike",
     "location": "Larak Island",
@@ -278651,6 +278681,71 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ Iran’s air defense vigilant, courageous in safeguarding skies from enemies: Navy commander📌 Tehran, IRNA – Iran’s Navy Commander, Rear Admiral Shahram Irani, says the country’s Air Defense Force stood against the aggressive American-Zionist enemy and defended the skies with vigilance and courage...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788261817431,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-01",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Air defense never lets its guard down: Army’s deputy chief📌 Tehran, IRNA – Rear Admiral Habibollah Sayyari, chief of staff and coordinating deputy of the Islamic Republic of Iran Army, has described air defense as a key pillar of the country’s defensive power and a vigilant shield for national s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788261849780,
+    "type": "intercept",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-09-01",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Air defense never lets its guard down: Army’s deputy chief📌 Tehran, IRNA – Rear Admiral Habibollah Sayyari, chief of staff and coordinating deputy of the Islamic Republic of Iran Army, has described air defense as a key pillar of the country’s defensive power and a vigilant shield for national s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788261867641,
+    "type": "intercept",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-01",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Air defense never lets its guard down: Army’s deputy chief📌 Tehran, IRNA – Rear Admiral Habibollah Sayyari, chief of staff and coordinating deputy of the Islamic Republic of Iran Army, has described air defense as a key pillar of the country’s defensive power and a vigilant shield for national s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788261861994,
+    "type": "naval",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 US Navy personnel will not be returning to Bahrain soon: Top US Navy commander📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/CiQ4IT1Uara5Ri0DSbh35yd_VqrzZeOsbMu746z64zfLe8DIODHEwHj4ubVDTbI2HCU7Mce9FMEN16iLITU8U44uAcaoYH1QhgrFRoCFf3o85M_GK1iwfSjry2-b6zShBhwHnX9HE6Csdm3T29vS7A7djXs-b8-4mzNPvk9D9tDzqdxWgtypPNsZd63QvofVib52pw_RnR9OQEZsYLaMFZyDFxdJ3FZOuwLZINobbMEu3X45Wr_jJXXZPCm-hA1a6HJKj40JgeQnSr8cvTx5XIjUT18LNe2_1AlxCbek4gu-DHLNxTOAwKLN5FWQqm2OfD1O62PFL1EIJqLB0wnMeA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

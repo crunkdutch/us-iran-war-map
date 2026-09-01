@@ -120673,6 +120673,38 @@
     "media": []
   },
   {
+    "id": 479919881,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia, West Bank, Turkey: Pakistan Aggression against Iran main cause",
+    "location": "Saudi Arabia, West Bank, Turkey",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Pakistan PM: Aggression against Iran main cause of regional crisis; diplomacy only solution📌 Islamabad, IRNA – Pakistan’s Prime Minister Shehbaz Sharif has said that the violation of Iran’s sovereignty and territorial integrity earlier this year triggered a major regional crisis, stressing that diplomacy remains the only sustainable way to resolve the conflict.Addressing the Shanghai Cooperation Organization (SCO) summit in Bishkek, Kyrgyzstan, Sharif outlined Pakistan’s positions on regiona",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
