@@ -120609,6 +120609,70 @@
     "media": []
   },
   {
+    "id": 479913516,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Larak Island, Strait of Hormuz, Persian Gulf: Iran condemns attack Larak Island letter",
+    "location": "Larak Island, Strait of Hormuz, Persian Gulf, Jordan, Israel",
+    "coordinates": [
+      26.85,
+      56.35
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iran condemns US attack on Larak Island in letter to UN📌 New York, IRNA – Iran’s ambassador and deputy permanent representative to the United Nations, Gholamhossein Darzi, has strongly condemned the latest US aggression against Larak Island in a letter to the UN secretary-general and Security Council president.In his letter, Darzi said the attack was an obvious violation of the sovereignty and territorial integrity of the Islamic Republic of Iran and a clear violation of Article 2(4) of the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479916698,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Gilan, Israel: Irans defense vigilant courageous safeguarding skies",
+    "location": "Tehran, Gilan, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran’s air defense vigilant, courageous in safeguarding skies from enemies: Navy commander📌 Tehran, IRNA – Iran’s Navy Commander, Rear Admiral Shahram Irani, says the country’s Air Defense Force stood against the aggressive American-Zionist enemy and defended the skies with vigilance and courage, relying on domestic know-how and capabilities.Admiral Irani made the remarks in a message addressed to Brigadier General Alireza Elhami, commander of the Iranian Army's Air Defense Force, congratula",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
