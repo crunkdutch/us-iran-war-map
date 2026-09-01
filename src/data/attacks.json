@@ -121030,6 +121030,38 @@
     "media": []
   },
   {
+    "id": 479954960,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Tehran, Strait of Hormuz: IRGC Attacks resulting from enemy desperation",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 IRGC: Attacks resulting from enemy desperation only tighten the lock on the Strait of Hormuz📌 Tehran, IRNA – In a statement emphasizing that such attacks—born of the enemy's desperation—only serve to tighten the lock on the Strait of Hormuz, the Islamic Revolution Guard Corps (IRGC) declared that its forces have initiated a response that will make the aggressors regret their actions.The statement issued by the Public Relations Department of the Islamic Revolution Guard Corps on Tuesday night",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

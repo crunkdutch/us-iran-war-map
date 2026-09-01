@@ -279451,6 +279451,36 @@
     "verified": false
   },
   {
+    "id": 1788294969298,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 IRGC: Attacks resulting from enemy desperation only tighten the lock on the Strait of Hormuz📌 Tehran, IRNA – In a statement emphasizing that such attacks—born of the enemy's desperation—only serve to tighten the lock on the Strait of Hormuz, the Islamic Revolution Guard Corps (IRGC) declared tha...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788294960332,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 IRGC: Attacks resulting from enemy desperation only tighten the lock on the Strait of Hormuz📌 Tehran, IRNA – In a statement emphasizing that such attacks—born of the enemy's desperation—only serve to tighten the lock on the Strait of Hormuz, the Islamic Revolution Guard Corps (IRGC) declared tha...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
