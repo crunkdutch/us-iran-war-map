@@ -120577,6 +120577,38 @@
     "media": []
   },
   {
+    "id": 479910335,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "IDF/Israel Cyber Attack — Tehran, Israel: President Pezeshkian proposes three initiatives strengthen",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 President Pezeshkian proposes three initiatives to strengthen SCO role📌 Tehran, IRNA – President Masoud Pezeshkian has called for simultaneous strengthening of security and economic cooperation within the Shanghai Cooperation Organization (SCO), presenting three initiatives to deepen financial and banking cooperation, support trade and investment, and enhance energy security.Addressing the 26th SCO Summit, President Pezeshkian highlighted major security and economic challenges facing the reg",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
