@@ -121276,6 +121276,43 @@
     "media": []
   },
   {
+    "id": 479977346,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Erbil, Iraq: these minutes regular attacks were reported",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "+ (3) 🇮🇷 | In these minutes, regular attacks were reported against the U.S. military presence in Erbil, Iraqi Kurdistan. An explosion was heard in the Akre district of Dohuk Governorate in northern Iraq. Casualties were reported among U.S. forces in Erbil…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/AT29tPyiWyGCvFMOZFvRpuF-8JWQ6QLAa43uqfoi2IkUfSN0l0HOEmx4lcy8B4WaiJ322BHIQCfKdo8tEro0niqqCM8TJxoM6sPgOsYmOzot_vp1Uv_5EtdwbroWP4Wm5cWJd_lcYyP74GpVdNzR-Eter-a6FpNn-o8QuV6ZT-6PDrZ1H41vhd4LzupweuZgxgD-tCNIHhxT0QC2I8D5H9fT2re2cYQZsP7yw0zsDifaqm2DHcqIQh_BQb-HfSyvnOfxzaRiB-eMCbjdhXl48hQVRcEM-vVXqb1FQf8y_RJZ8c1bvQnyY-14apuMx9Uzb-ljlPhzmgrcNUEmTfl6EQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
