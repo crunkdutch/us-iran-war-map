@@ -121313,6 +121313,123 @@
     ]
   },
   {
+    "id": 479980548,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemen stand with Iran Irans attacks",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen: We stand with Iran; Iran’s attacks are the country’s legitimate right:Statement by the Yemeni Ministry of Foreign Affairs:The continuation of America’s aggression against the Islamic Republic of Iran will not weaken the will and resilience of this country.Iran’s response to America’s aggression is a legitimate right recognized under all customs, treaties and international laws.America is pushing the region toward increased tensions, and America itself, as well as the parties suppor",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/vTWSDYnD1Jk1I33S_3zHmy0zbXVPUOt2DgnGs1d2ncrR_E9auP3iTs18UQifai9sTHq_gE53m5u720971ykyeK8x71-PFLxEueiP_lqPcLlo-5gtuA_IYFtxXcIO8p3R-JEpUACcKXoNi3GLZsiw9PUscf8U7AMvP2Mekeu2R_vFHxOCoC9IXGiAhI8VJODwAoNborQgJGsBmsKejGsiIzY4qOJSJo0w8fg9JCDHQ5XakCP6JoDf24YT-weLkmr8m8l7C8iKFuHp_saR3WrTLfWIclSExi6JUi6vMDaGwLa-4hhkoifxcWsGPi9Ha9SEzhPRZrWWtKJhno4sPyaYeg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 479983751,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Red Sea, Jordan, Saudi Arabia: target Iranian missile barrage against Jordan",
+    "location": "Red Sea, Jordan, Saudi Arabia, Israel",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷❌ 🏴‍☠️ 🇯🇴 – The target of the Iranian missile barrage against Jordan turned out to be Camp Titin, a small base that houses U.S. Marine Corps in the very south of Jordan. It's the first time Iran targets the base.Why is Camp Titin so important?Geographically, the location of Camp Titin is very important, as it is situated at the northern end of the Red Sea, near the port of Aqaba, the Israeli port of Eilat, and a relatively short distance from the Saudi Arabian border. For this reason, it ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/fzgClybg5BFOrQp_4BWg1u3FKprtFJISD0pRLJHknOUkfiW5MVcdYTowJuIXWrEhfi9v6SU7l3F471Hatz0MgVkh9UQ2O4GpQdmVGOB_VReb9I3QzMzSOpGu9lyKP6IeDBAEHc75quDJNltluZpTT9AMYd1ucCvKkPWiYItULR12MjKjoktST-Mxvlw30AkbAzFABSVa3nYEJhS0VcQfmExjVpIGLlnVoMxi7eUf4ALEfQ1Oa_LIyf_QleopG32J0Ip1IJ65Al-Ncgw71-1nh4XE3JpMc6gj_Rj4ghjrx-v1FRSazPy9QMwEI5OxWJc4TMCbtAccOCGGEl1y1fkYhg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 479986955,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bahrain: Iran hits base Bahrainenemywatch",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻Iran hits U.S. base in Bahrain🔻enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/75432c15fc.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/IzgaqkfOdckOpfikH64SyWstFE1NyPYFuUfmh4SrPvrSgGycCiKXZ-aqOQlLjOYa0L_Ydp36QJdr4dlUu8Z7Plr5yjBxTVzHA0R7QddWPO0GDwiXYP3X7F2taqFDVGT7w7AtMtTLU8gQGXKOPzk9D5PAvnWSzKTLkfUZZeVa2hPV8_g6Q6xQCM24GTlT95-9pTWpwcD6EOZ-7D1jPgdx23DLSNYdRXte1sXieX49ibISeJjdZ61NzNN-r05yrXqR1n-qnSC9aLbir9s0ivS_r6NOCQQurxoKgnm45NEVFLsSUkExO1oPkjiGuu1G61zPTm5iL7JPgQNOUTRGGLXH1Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/61389",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/IzgaqkfOdckOpfikH64SyWstFE1NyPYFuUfmh4SrPvrSgGycCiKXZ-aqOQlLjOYa0L_Ydp36QJdr4dlUu8Z7Plr5yjBxTVzHA0R7QddWPO0GDwiXYP3X7F2taqFDVGT7w7AtMtTLU8gQGXKOPzk9D5PAvnWSzKTLkfUZZeVa2hPV8_g6Q6xQCM24GTlT95-9pTWpwcD6EOZ-7D1jPgdx23DLSNYdRXte1sXieX49ibISeJjdZ61NzNN-r05yrXqR1n-qnSC9aLbir9s0ivS_r6NOCQQurxoKgnm45NEVFLsSUkExO1oPkjiGuu1G61zPTm5iL7JPgQNOUTRGGLXH1Q"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
