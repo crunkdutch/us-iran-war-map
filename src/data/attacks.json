@@ -120327,6 +120327,38 @@
     "media": []
   },
   {
+    "id": 480012623,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: Islamic_RepublicPublic Relations Department Islamic Revoluti...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicPublic Relations Department of the Islamic Revolutionary Guard Corps:O heroic and resistant Islamic Iranian people,Your steadfastness in the field has become a source of inspiration for peoples, and the world is witnessing the awakening of peoples and the tightening of the noose around the criminal arrogant powers.Last night, the terrorist U.S. army repeated the intimidation scenario it has carried out repeatedly during its attacks on various countries – attacking wedding partie",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479881751,
     "type": "airstrike",
     "status": "confirmed",
