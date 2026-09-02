@@ -121969,6 +121969,38 @@
     "media": []
   },
   {
+    "id": 480038355,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Israel, West Bank: Iran reaffirms support Palestine Hamas calls",
+    "location": "Tehran, Israel, West Bank, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran reaffirms support for Palestine as Hamas calls for urgent Islamic action📌 Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi reaffirms Iran’s “principled and firm” support for the Palestinian cause and the establishment of an independent Palestinian state, as Hamas calls for serious and immediate action by Islamic countries against Israeli aggression and crimes against Palestinians.Bassem Naim, a member of the Political Bureau and head of the Arab and Islamic Relations Office of the",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
