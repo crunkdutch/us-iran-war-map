@@ -281363,6 +281363,126 @@
     "verified": false
   },
   {
+    "id": 1788354539044,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Hezbollah targets Israeli military patrol with drones in southern Lebanon📌 Tehran, IRNA – Hezbollah carries out a drone attack on an Israeli military patrol in the Ali al-Taher Heights in southern Lebanon, according to Lebanese media reports.A report by the Lebanese Al Mayadeen TV indicated that...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788354553591,
+    "type": "drone",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-09-02",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Hezbollah targets Israeli military patrol with drones in southern Lebanon📌 Tehran, IRNA – Hezbollah carries out a drone attack on an Israeli military patrol in the Ali al-Taher Heights in southern Lebanon, according to Lebanese media reports.A report by the Lebanese Al Mayadeen TV indicated that...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788354545763,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-02",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Hezbollah targets Israeli military patrol with drones in southern Lebanon📌 Tehran, IRNA – Hezbollah carries out a drone attack on an Israeli military patrol in the Ali al-Taher Heights in southern Lebanon, according to Lebanese media reports.A report by the Lebanese Al Mayadeen TV indicated that...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788354546494,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-02",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Hezbollah targets Israeli military patrol with drones in southern Lebanon📌 Tehran, IRNA – Hezbollah carries out a drone attack on an Israeli military patrol in the Ali al-Taher Heights in southern Lebanon, according to Lebanese media reports.A report by the Lebanese Al Mayadeen TV indicated that...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788354506763,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Bombing Sirik wedding exposes true face of US war, FM spokesperson says📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the true face of the US-Israeli war against Iran can be seen in the bombing of a wedding in Sirik, not in AI-generated videos portraying US officials as trium...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788354510831,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Bombing Sirik wedding exposes true face of US war, FM spokesperson says📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the true face of the US-Israeli war against Iran can be seen in the bombing of a wedding in Sirik, not in AI-generated videos portraying US officials as trium...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788354484524,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Bombing Sirik wedding exposes true face of US war, FM spokesperson says📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the true face of the US-Israeli war against Iran can be seen in the bombing of a wedding in Sirik, not in AI-generated videos portraying US officials as trium...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788354547905,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Bombing Sirik wedding exposes true face of US war, FM spokesperson says📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the true face of the US-Israeli war against Iran can be seen in the bombing of a wedding in Sirik, not in AI-generated videos portraying US officials as trium...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

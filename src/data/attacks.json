@@ -121734,6 +121734,70 @@
     ]
   },
   {
+    "id": 480019050,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Bushehr, Israel: Putin Pezeshkian discussed nuclear cooperation Bishkek",
+    "location": "Tehran, Bushehr, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Putin, Pezeshkian discussed nuclear cooperation at Bishkek meeting: Rosatom chief📌 Moscow, IRNA – The CEO of Russia’s state-owned nuclear corporation Rosatom says the recent meeting between President Vladimir Putin and his Iranian counterpart, Masoud Pezeshkian, on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek included bilateral issues, including the two countries' cooperation in the nuclear field.Alexey Likhachev made the revelation on Wednesday on the sidel",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480022265,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Tehran, Beirut, Lebanon: Hezbollah targets Israeli military patrol with",
+    "location": "Tehran, Beirut, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Hezbollah targets Israeli military patrol with drones in southern Lebanon📌 Tehran, IRNA – Hezbollah carries out a drone attack on an Israeli military patrol in the Ali al-Taher Heights in southern Lebanon, according to Lebanese media reports.A report by the Lebanese Al Mayadeen TV indicated that the Lebanese resistance fighters spotted an Israeli military vehicle climbing toward the Ali al-Taher Heights at around 1 a.m. local time on Wednesday.​It added that the Hezbollah fighters launched s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
