@@ -122001,6 +122001,38 @@
     "media": []
   },
   {
+    "id": 480041576,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Beirut, Lebanon, Israel: Israel conducts further attacks Southern Lebanon",
+    "location": "Beirut, Lebanon, Israel",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Israel conducts further attacks in Southern Lebanon despite framework agreement📌 The Israeli occupation forces have carried out further attacks in southern Lebanon, according to Lebanese field sources, amid continued tensions despite a US-backed framework agreement between Beirut and IsraelThe sources said Israeli forces carried out explosions in the areas of Kfar Tebnit, Houla, al-Mansouri and Haris.​An Israeli drone also carried out a strike on the Al Deir neighborhood in Nabatieh Al Fawqa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
