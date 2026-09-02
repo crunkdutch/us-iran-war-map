@@ -280342,6 +280342,51 @@
     "verified": false
   },
   {
+    "id": 1788328038773,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC launches ballistic missiles at US airbase in Jordan📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) says it has launched ballistic missiles at a hangar housing American RQ-4 and MQ-9 drones at Prince Hassan Airbase in Jordan in response to the latest US aggression against Iran.“I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788328002278,
+    "type": "drone",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC launches ballistic missiles at US airbase in Jordan📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) says it has launched ballistic missiles at a hangar housing American RQ-4 and MQ-9 drones at Prince Hassan Airbase in Jordan in response to the latest US aggression against Iran.“I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788327998470,
+    "type": "drone",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC launches ballistic missiles at US airbase in Jordan📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) says it has launched ballistic missiles at a hangar housing American RQ-4 and MQ-9 drones at Prince Hassan Airbase in Jordan in response to the latest US aggression against Iran.“I...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788321393211,
     "type": "missile",
     "location": "Sirik",
