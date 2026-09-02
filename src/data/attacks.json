@@ -121937,6 +121937,38 @@
     "media": []
   },
   {
+    "id": 480035135,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Minab, Sirik, Hormozgan: Iranian Embassy slams Western silence attacks",
+    "location": "Minab, Sirik, Hormozgan",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iranian Embassy slams Western silence on US attacks📌 London, IRNA – The Iranian Embassy in Germany has warned that Western silence over US attacks amounts to abandoning the values of democracy and human rights that the West has long claimed to uphold.In a message on Wednesday, the embassy condemned the overnight attack by the US military on a wedding ceremony in Sirik, describing it as a continuation of a pattern previously seen in attacks on Minab and Lamerd.​The statement said, “In Februar",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
