@@ -281952,6 +281952,66 @@
     "verified": false
   },
   {
+    "id": 1788365505711,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Security incident in the Strait of Hormuz. 🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788365520414,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ US war crimes in Sirik part of ongoing pattern of civilian bombings: Baqaei📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has deplored the US Central Command (CENTCOM) for denying American bombing of civilians on Sirik Island, saying that even the US propaganda machine has failed ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788365535815,
+    "type": "drone",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-02",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ US war crimes in Sirik part of ongoing pattern of civilian bombings: Baqaei📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has deplored the US Central Command (CENTCOM) for denying American bombing of civilians on Sirik Island, saying that even the US propaganda machine has failed ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788365541665,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-02",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ US war crimes in Sirik part of ongoing pattern of civilian bombings: Baqaei📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has deplored the US Central Command (CENTCOM) for denying American bombing of civilians on Sirik Island, saying that even the US propaganda machine has failed ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
