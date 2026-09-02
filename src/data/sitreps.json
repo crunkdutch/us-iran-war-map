@@ -280795,6 +280795,111 @@
     "verified": false
   },
   {
+    "id": 1788339069479,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC hits US commander’s position in Kuwait📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has launched a missile‑drone strike on the US Ali al‑Salem base in Kuwait in response to the recent US aggression against Iranian soil.The IRGC said in a statement issued early on Wedne...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788339016724,
+    "type": "drone",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC hits US commander’s position in Kuwait📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has launched a missile‑drone strike on the US Ali al‑Salem base in Kuwait in response to the recent US aggression against Iranian soil.The IRGC said in a statement issued early on Wedne...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788339088032,
+    "type": "drone",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC hits US commander’s position in Kuwait📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has launched a missile‑drone strike on the US Ali al‑Salem base in Kuwait in response to the recent US aggression against Iranian soil.The IRGC said in a statement issued early on Wedne...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788339030776,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC hits US commander’s position in Kuwait📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has launched a missile‑drone strike on the US Ali al‑Salem base in Kuwait in response to the recent US aggression against Iranian soil.The IRGC said in a statement issued early on Wedne...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788339108828,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 US strike in Kermanshah claims lives of four IRGC Aerospace forces📌 Kermanshah, IRNA — Four IRGC aerospace personnel have been killed in Kermanshah during a US attack, according to a statement from the provincial IRGC public relations office.Reza Mohammadi, Shahram Jafari, Alireza Shakiba, and J...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788339054871,
+    "type": "airstrike",
+    "location": "Kermanshah",
+    "coordinates": [
+      34.3,
+      47.1
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 US strike in Kermanshah claims lives of four IRGC Aerospace forces📌 Kermanshah, IRNA — Four IRGC aerospace personnel have been killed in Kermanshah during a US attack, according to a statement from the provincial IRGC public relations office.Reza Mohammadi, Shahram Jafari, Alireza Shakiba, and J...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788339041083,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 US strike in Kermanshah claims lives of four IRGC Aerospace forces📌 Kermanshah, IRNA — Four IRGC aerospace personnel have been killed in Kermanshah during a US attack, according to a statement from the provincial IRGC public relations office.Reza Mohammadi, Shahram Jafari, Alireza Shakiba, and J...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788321393211,
     "type": "missile",
     "location": "Sirik",

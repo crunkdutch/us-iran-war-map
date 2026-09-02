@@ -121526,6 +121526,38 @@
     "media": []
   },
   {
+    "id": 480009411,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Kerman, Kermanshah, Iraq: strike Kermanshah claims lives four IRGC",
+    "location": "Kerman, Kermanshah, Iraq",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 US strike in Kermanshah claims lives of four IRGC Aerospace forces📌 Kermanshah, IRNA — Four IRGC aerospace personnel have been killed in Kermanshah during a US attack, according to a statement from the provincial IRGC public relations office.Reza Mohammadi, Shahram Jafari, Alireza Shakiba, and Jafar Kahrizi were martyred during the US enemy’s terror attack on Kermanshah.​During the eight years of the Sacred Defense (the Iran–Iraq War), the province of Kermanshah suffered significant casualti",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479990160,
     "type": "missile",
     "status": "confirmed",
