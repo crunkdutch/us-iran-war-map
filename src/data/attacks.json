@@ -120263,6 +120263,70 @@
     "media": []
   },
   {
+    "id": 479999781,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Sirik, Erbil, Ali Al Salem Air Base: Islamic_RepublicPublic Relations Department Islamic Revoluti...",
+    "location": "Sirik, Erbil, Ali Al Salem Air Base, Jordan, Bahrain, Kuwait",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicPublic Relations Department of the Islamic Revolutionary Guard Corps:In the Name of Allah, the Subduer of the Arrogant “And there is life for you in retaliation, O people of understanding.”O noble and generous Kuwaiti people,Last night, the sons of Satan, some of whom are stationed at the bases of the Great Satan in Kuwait, committed a major crime in the region and a blatant violation of human rights. The child-killing U.S. army, by bombing a residential home and reducing it to ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480002990,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: Enemy_MediaSpokesperson Israeli Enemy ArmyHezbollah launched...",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaSpokesperson for the \"Israeli\" Enemy Army:Hezbollah launched two explosive gliders overnight toward the \"Israeli\" forces operating in the Ali Al-Taher area in southern Lebanon.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479881751,
     "type": "airstrike",
     "status": "confirmed",
@@ -121428,6 +121492,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/IzgaqkfOdckOpfikH64SyWstFE1NyPYFuUfmh4SrPvrSgGycCiKXZ-aqOQlLjOYa0L_Ydp36QJdr4dlUu8Z7Plr5yjBxTVzHA0R7QddWPO0GDwiXYP3X7F2taqFDVGT7w7AtMtTLU8gQGXKOPzk9D5PAvnWSzKTLkfUZZeVa2hPV8_g6Q6xQCM24GTlT95-9pTWpwcD6EOZ-7D1jPgdx23DLSNYdRXte1sXieX49ibISeJjdZ61NzNN-r05yrXqR1n-qnSC9aLbir9s0ivS_r6NOCQQurxoKgnm45NEVFLsSUkExO1oPkjiGuu1G61zPTm5iL7JPgQNOUTRGGLXH1Q"
       }
     ]
+  },
+  {
+    "id": 479996573,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Tehran, Sirik, Jordan: IRGC targets Marines camp Jordan Tehran",
+    "location": "Tehran, Sirik, Jordan",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 50,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ IRGC targets US Marines camp in Jordan📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has carried out a ballistic missile strike on a military camp housing US Marines in Jordan in response to the recent US aggression against Iranian soil.The IRGC announced in a statement early on Wednesday that, in response to the US attack on a wedding ceremony in Sirik, which left nearly 50 civilians dead or wounded, it launched a heavy ballistic missile attack on Camp Titin, a US Marin",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 479990160,
