@@ -121595,6 +121595,38 @@
     ]
   },
   {
+    "id": 480006200,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Kerman, Kermanshah: Four IRGC Aerospace fighters martyred KermanshahThe",
+    "location": "Kerman, Kermanshah",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷/🏴| Four IRGC Aerospace fighters martyred in Kermanshah:The IRGC’s Kermanshah Province Public Relations Office announced the martyrdom of four Aerospace Force fighters following an attack by the American military in Kermanshah Province, western Iran.The martyrs were identified as Martyr Reza Mohammadi, Martyr Shahram Jafari, Martyr Alireza Shakiba, and Martyr Jafar Kahrizi, who were described as self-sacrificing fighters of the IRGC Aerospace Force.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
