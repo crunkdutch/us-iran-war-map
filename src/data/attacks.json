@@ -121462,6 +121462,43 @@
     "media": []
   },
   {
+    "id": 479993366,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Mashhad, Ahvaz, Khuzestan: Last night several incidents were reported",
+    "location": "Mashhad, Ahvaz, Khuzestan",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 50,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷/🏴 | Last night, several incidents were reported across several parts of Iran, including a vehicle-ramming incident in Mashhad and American missile strikes in Khuzestan Province. In Mashhad, a vehicle reportedly veered off Vakilabad Boulevard at high speed and crashed into a gathering of people, killing four and injuring more than 10 others. The driver was arrested following the incident. Meanwhile, Iran’s Ministry of Health reported at least 50 people injured as a result of American airstr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Kl_yvYV6yqr6MaxeIn3vyHCeJ_Bd8OInA0WxLsfWtKbp_Xig8CTWhw8lZm84PxE8Isdq0SzxTYZzSimClqJTRoEZpLgAPoOWMq3hbpau4Yj-kyTdo6P2sxnby03JvfU9thKYN4hB2VrR4ngV3b-u4m2Y5i_cASHhC_vG-y4qO5W7KkdbSmDHJBWDe6P9DIu-GTaxuOjPvfhS9s8EC-SpiJNE4iPEP8qsN7SJvN6iylhxR8qTHeZwihnFhLZuosnwYA2t7RVZ3E3s_ZHS4rJSZV7IC_HhKq7dN2wbKBjaX-c9A1b-l4qlxqXKaWGxFJ81qBq9utXwkMUDINaD4vp0wA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
