@@ -281528,6 +281528,385 @@
     "verified": false
   },
   {
+    "id": 1788361071668,
+    "type": "drone",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "—❗️🇺🇸/🇧🇭/🇮🇷 NEW: Satellite imagery shows a direct Shahed-136 hit against a warehouse at the U.S. Navy’s 5th Fleet HQ in Bahrain@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/34d86d2366.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J2wL4-RGdloDpCjFDZUaKwYF5XQDoWinta_4EaH-bZdadNkM5CNT6SuR8l6VO14q_7CeZzSeDVrI5qU-0iq4TxPtbdqwijRCRDesvs9nE1J9kr1RjZijFph0HkHZc1TgXP5E7ueTB8Q_swjAVX3Wt9AmOlSqSu7Y8oi6bv00M93AvjfenBhZEbbfL_L_QSFDJn7_4XUjOzW9pPrhK_0tMW-uFYvBI2SKjkbdBX_Vfs212iCMsmyJMStBbxilQot056H-Tg3kNfm_3oPD_2I4mu2V8HouYwmq5RA2XmSvchqKWRW26fbMBVCYt2jxwHgbZiPriMtqXv56Wjk_9szdTA"
+      },
+      {
+        "url": "https://t.me/enemywatch/61457",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/J2wL4-RGdloDpCjFDZUaKwYF5XQDoWinta_4EaH-bZdadNkM5CNT6SuR8l6VO14q_7CeZzSeDVrI5qU-0iq4TxPtbdqwijRCRDesvs9nE1J9kr1RjZijFph0HkHZc1TgXP5E7ueTB8Q_swjAVX3Wt9AmOlSqSu7Y8oi6bv00M93AvjfenBhZEbbfL_L_QSFDJn7_4XUjOzW9pPrhK_0tMW-uFYvBI2SKjkbdBX_Vfs212iCMsmyJMStBbxilQot056H-Tg3kNfm_3oPD_2I4mu2V8HouYwmq5RA2XmSvchqKWRW26fbMBVCYt2jxwHgbZiPriMtqXv56Wjk_9szdTA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361101961,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-02",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Two killed aboard Saudi supertanker SIDR:The United Kingdom Maritime Trade Operations (UKMTO) said in a notice that an attack took place against a tanker in the Strait of Hormuz on August 31. The report, which was received by the agency with a delay, stated that the incident resulted in two fatali...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c2lUIO-LPMh8E96mwgmiiPyf-IvMSwM75nZQdkRvIjM7fVYAMOnFSPYeo6wUjW0gxGW2vHHY1FU1hQTz9rSAqJ9iPfSENu6t0HPbk6Gy3JnyIsddqkSACFx72Y5N93VV_kxvaLHrJSacFQ3qqbDayf9XB6EzaWbvy3Sz6H6k0Dhj-3AGghySfJuASa8zlsjCUo-NPxdAjx12g85I7sLJpcxlQPfjW2gb9937O8-EhFfdhGONQ6_oSTuhls439mfg61074vQXt2k9gZJPSyTFRHITHhKqVmckk1Gs1D4exzFqA3AbzN9wPfneaFlIwQIRgWg0_8JcRfhfKiKpSXyNug.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ITuTD5gK-8l7TZ2Y6-TPsRgXvCn1wU1L3DDFmsZHdtBUO3WTAGG-Ms9D78UVEb7-cuOZxADR1aHza794SrdSxUN2qctBMkA1ieaPmEni_4fLH7fd942Q-MwOdfr2aqwi7RSM6s9sCGYMZvXLm1y1wVMKFNepw09Jh6FEpmAdvU8SDTtGI08lS40WRIpL5Ts8qhxQlXzjoQiSsWgwEaPzRyTZ-d0mOng6Vgj7CEcj7fCMuI3blm3jPofv64q4g-G1EobjgfCo1wPGNr8ryMP55SAYKIivSUnNlhMuXxlcrixiTMteQSPzgRicY4qIIjbCpwuRJXR3chBkEDyKIVDR8g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bGcgLguhjmouSS72DUyOloMylhDiFV80xzVP6NY4BEoBpRYvyhp9kwTNpjJdJsT_NOHYow6bEONviqYj22DjqWS1ue3QgtnKy_Qi7Jx5bkQNgS0CeW1vxVMWV3S73cFwCb1dMZ31GYm2KdiztgcE5ZTrqyw_OAjshUOCwpA-XepsFfGV_8EvH9O2g_N3cFG2EcJ7SoqUSXf-GH3kwmCiG2bPQLXUsLCztoU5rR-Dk-g8fgApP_LiUcxXS2mw3mJNH11dBS1-Gv3Hu-bAadf8wjK0rG8jdhtLU0nk1sGa9F1juHaR6rE8_xYo4ES_YWWPi3Z-ojETFdNk3PreQttPfw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361128644,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-09-02",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Two killed aboard Saudi supertanker SIDR:The United Kingdom Maritime Trade Operations (UKMTO) said in a notice that an attack took place against a tanker in the Strait of Hormuz on August 31. The report, which was received by the agency with a delay, stated that the incident resulted in two fatali...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c2lUIO-LPMh8E96mwgmiiPyf-IvMSwM75nZQdkRvIjM7fVYAMOnFSPYeo6wUjW0gxGW2vHHY1FU1hQTz9rSAqJ9iPfSENu6t0HPbk6Gy3JnyIsddqkSACFx72Y5N93VV_kxvaLHrJSacFQ3qqbDayf9XB6EzaWbvy3Sz6H6k0Dhj-3AGghySfJuASa8zlsjCUo-NPxdAjx12g85I7sLJpcxlQPfjW2gb9937O8-EhFfdhGONQ6_oSTuhls439mfg61074vQXt2k9gZJPSyTFRHITHhKqVmckk1Gs1D4exzFqA3AbzN9wPfneaFlIwQIRgWg0_8JcRfhfKiKpSXyNug.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ITuTD5gK-8l7TZ2Y6-TPsRgXvCn1wU1L3DDFmsZHdtBUO3WTAGG-Ms9D78UVEb7-cuOZxADR1aHza794SrdSxUN2qctBMkA1ieaPmEni_4fLH7fd942Q-MwOdfr2aqwi7RSM6s9sCGYMZvXLm1y1wVMKFNepw09Jh6FEpmAdvU8SDTtGI08lS40WRIpL5Ts8qhxQlXzjoQiSsWgwEaPzRyTZ-d0mOng6Vgj7CEcj7fCMuI3blm3jPofv64q4g-G1EobjgfCo1wPGNr8ryMP55SAYKIivSUnNlhMuXxlcrixiTMteQSPzgRicY4qIIjbCpwuRJXR3chBkEDyKIVDR8g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bGcgLguhjmouSS72DUyOloMylhDiFV80xzVP6NY4BEoBpRYvyhp9kwTNpjJdJsT_NOHYow6bEONviqYj22DjqWS1ue3QgtnKy_Qi7Jx5bkQNgS0CeW1vxVMWV3S73cFwCb1dMZ31GYm2KdiztgcE5ZTrqyw_OAjshUOCwpA-XepsFfGV_8EvH9O2g_N3cFG2EcJ7SoqUSXf-GH3kwmCiG2bPQLXUsLCztoU5rR-Dk-g8fgApP_LiUcxXS2mw3mJNH11dBS1-Gv3Hu-bAadf8wjK0rG8jdhtLU0nk1sGa9F1juHaR6rE8_xYo4ES_YWWPi3Z-ojETFdNk3PreQttPfw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361114873,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-02",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Two killed aboard Saudi supertanker SIDR:The United Kingdom Maritime Trade Operations (UKMTO) said in a notice that an attack took place against a tanker in the Strait of Hormuz on August 31. The report, which was received by the agency with a delay, stated that the incident resulted in two fatali...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c2lUIO-LPMh8E96mwgmiiPyf-IvMSwM75nZQdkRvIjM7fVYAMOnFSPYeo6wUjW0gxGW2vHHY1FU1hQTz9rSAqJ9iPfSENu6t0HPbk6Gy3JnyIsddqkSACFx72Y5N93VV_kxvaLHrJSacFQ3qqbDayf9XB6EzaWbvy3Sz6H6k0Dhj-3AGghySfJuASa8zlsjCUo-NPxdAjx12g85I7sLJpcxlQPfjW2gb9937O8-EhFfdhGONQ6_oSTuhls439mfg61074vQXt2k9gZJPSyTFRHITHhKqVmckk1Gs1D4exzFqA3AbzN9wPfneaFlIwQIRgWg0_8JcRfhfKiKpSXyNug.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ITuTD5gK-8l7TZ2Y6-TPsRgXvCn1wU1L3DDFmsZHdtBUO3WTAGG-Ms9D78UVEb7-cuOZxADR1aHza794SrdSxUN2qctBMkA1ieaPmEni_4fLH7fd942Q-MwOdfr2aqwi7RSM6s9sCGYMZvXLm1y1wVMKFNepw09Jh6FEpmAdvU8SDTtGI08lS40WRIpL5Ts8qhxQlXzjoQiSsWgwEaPzRyTZ-d0mOng6Vgj7CEcj7fCMuI3blm3jPofv64q4g-G1EobjgfCo1wPGNr8ryMP55SAYKIivSUnNlhMuXxlcrixiTMteQSPzgRicY4qIIjbCpwuRJXR3chBkEDyKIVDR8g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bGcgLguhjmouSS72DUyOloMylhDiFV80xzVP6NY4BEoBpRYvyhp9kwTNpjJdJsT_NOHYow6bEONviqYj22DjqWS1ue3QgtnKy_Qi7Jx5bkQNgS0CeW1vxVMWV3S73cFwCb1dMZ31GYm2KdiztgcE5ZTrqyw_OAjshUOCwpA-XepsFfGV_8EvH9O2g_N3cFG2EcJ7SoqUSXf-GH3kwmCiG2bPQLXUsLCztoU5rR-Dk-g8fgApP_LiUcxXS2mw3mJNH11dBS1-Gv3Hu-bAadf8wjK0rG8jdhtLU0nk1sGa9F1juHaR6rE8_xYo4ES_YWWPi3Z-ojETFdNk3PreQttPfw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361095342,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇮🇶 | Satellite imagery confirms that the U.S. base in Erbil, northern Iraq, was directly hit. The aerostat balloon is also no longer visible, indicating that it may have sustained a direct hit.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1c1966623d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OyNwq-6USROER1J4BAE1YPbwqRBaUIxNDZrJk4JKQueqg0H6lxLa1EZXvDYOIFFg_1EB-uNWbMrABVuezH5kLjVN1TjbrIXpFPCGjCJr_F3Rjg8P_ds_jNN0wBmKdCoAXLRYM1Of8xohM9jZasHoN_Bv7DpwjgZa5l1Bf_iTBCOBs3fRzv9QkTg9hdTxT_SGH472HHA_BIHZs9Q1LCXaTrwYnt1iLDcGTsRpp4CWNTyGgkP3F8a5NyhvIEhaIh_uJisE42ceddyJhTw91HbzpJ_0mxMeTEJ4TsN0WZhHvbNNDIZ3v61QUB2GYtIlzP5lu-Zrp92B57qc8UuNrmAR2A"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/45ce387275.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OyNwq-6USROER1J4BAE1YPbwqRBaUIxNDZrJk4JKQueqg0H6lxLa1EZXvDYOIFFg_1EB-uNWbMrABVuezH5kLjVN1TjbrIXpFPCGjCJr_F3Rjg8P_ds_jNN0wBmKdCoAXLRYM1Of8xohM9jZasHoN_Bv7DpwjgZa5l1Bf_iTBCOBs3fRzv9QkTg9hdTxT_SGH472HHA_BIHZs9Q1LCXaTrwYnt1iLDcGTsRpp4CWNTyGgkP3F8a5NyhvIEhaIh_uJisE42ceddyJhTw91HbzpJ_0mxMeTEJ4TsN0WZhHvbNNDIZ3v61QUB2GYtIlzP5lu-Zrp92B57qc8UuNrmAR2A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61461?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OyNwq-6USROER1J4BAE1YPbwqRBaUIxNDZrJk4JKQueqg0H6lxLa1EZXvDYOIFFg_1EB-uNWbMrABVuezH5kLjVN1TjbrIXpFPCGjCJr_F3Rjg8P_ds_jNN0wBmKdCoAXLRYM1Of8xohM9jZasHoN_Bv7DpwjgZa5l1Bf_iTBCOBs3fRzv9QkTg9hdTxT_SGH472HHA_BIHZs9Q1LCXaTrwYnt1iLDcGTsRpp4CWNTyGgkP3F8a5NyhvIEhaIh_uJisE42ceddyJhTw91HbzpJ_0mxMeTEJ4TsN0WZhHvbNNDIZ3v61QUB2GYtIlzP5lu-Zrp92B57qc8UuNrmAR2A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61462?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ugpt812ETJ3-YbF7lhRgCNyUfWE92xfzUHr04E1EDBEr3o7SuWDYYkMDoNOLBly-nVhL2xDBp9qDm2zXH6clfnBJpn0tY-8AvYRKC8z-_dw2p3YZuCpfNhG_W-JFtosZhYzQPh9HoVOoZVNJ7-akpGIsMfE5tljUTzrCnW_TTFpXnOtImlKEliKBGQxTrzN_LN3MuCa-bcD0VCxl6wF5madVAOSNo284mVxLGGEA4XHnxz6LoHpUTWMfRaSRaxrX4EHoUTAKaBbFxsXTaN3YV3wvUOdxvF0EfpSzGbj0Oa0e5BNMs3MK27UGIZ4Y-K127T5o6Y7VVmw64EBNVlSbYg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361139561,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇮🇶 | Satellite imagery confirms that the U.S. base in Erbil, northern Iraq, was directly hit. The aerostat balloon is also no longer visible, indicating that it may have sustained a direct hit.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1c1966623d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OyNwq-6USROER1J4BAE1YPbwqRBaUIxNDZrJk4JKQueqg0H6lxLa1EZXvDYOIFFg_1EB-uNWbMrABVuezH5kLjVN1TjbrIXpFPCGjCJr_F3Rjg8P_ds_jNN0wBmKdCoAXLRYM1Of8xohM9jZasHoN_Bv7DpwjgZa5l1Bf_iTBCOBs3fRzv9QkTg9hdTxT_SGH472HHA_BIHZs9Q1LCXaTrwYnt1iLDcGTsRpp4CWNTyGgkP3F8a5NyhvIEhaIh_uJisE42ceddyJhTw91HbzpJ_0mxMeTEJ4TsN0WZhHvbNNDIZ3v61QUB2GYtIlzP5lu-Zrp92B57qc8UuNrmAR2A"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/45ce387275.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OyNwq-6USROER1J4BAE1YPbwqRBaUIxNDZrJk4JKQueqg0H6lxLa1EZXvDYOIFFg_1EB-uNWbMrABVuezH5kLjVN1TjbrIXpFPCGjCJr_F3Rjg8P_ds_jNN0wBmKdCoAXLRYM1Of8xohM9jZasHoN_Bv7DpwjgZa5l1Bf_iTBCOBs3fRzv9QkTg9hdTxT_SGH472HHA_BIHZs9Q1LCXaTrwYnt1iLDcGTsRpp4CWNTyGgkP3F8a5NyhvIEhaIh_uJisE42ceddyJhTw91HbzpJ_0mxMeTEJ4TsN0WZhHvbNNDIZ3v61QUB2GYtIlzP5lu-Zrp92B57qc8UuNrmAR2A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61461?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OyNwq-6USROER1J4BAE1YPbwqRBaUIxNDZrJk4JKQueqg0H6lxLa1EZXvDYOIFFg_1EB-uNWbMrABVuezH5kLjVN1TjbrIXpFPCGjCJr_F3Rjg8P_ds_jNN0wBmKdCoAXLRYM1Of8xohM9jZasHoN_Bv7DpwjgZa5l1Bf_iTBCOBs3fRzv9QkTg9hdTxT_SGH472HHA_BIHZs9Q1LCXaTrwYnt1iLDcGTsRpp4CWNTyGgkP3F8a5NyhvIEhaIh_uJisE42ceddyJhTw91HbzpJ_0mxMeTEJ4TsN0WZhHvbNNDIZ3v61QUB2GYtIlzP5lu-Zrp92B57qc8UuNrmAR2A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61462?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ugpt812ETJ3-YbF7lhRgCNyUfWE92xfzUHr04E1EDBEr3o7SuWDYYkMDoNOLBly-nVhL2xDBp9qDm2zXH6clfnBJpn0tY-8AvYRKC8z-_dw2p3YZuCpfNhG_W-JFtosZhYzQPh9HoVOoZVNJ7-akpGIsMfE5tljUTzrCnW_TTFpXnOtImlKEliKBGQxTrzN_LN3MuCa-bcD0VCxl6wF5madVAOSNo284mVxLGGEA4XHnxz6LoHpUTWMfRaSRaxrX4EHoUTAKaBbFxsXTaN3YV3wvUOdxvF0EfpSzGbj0Oa0e5BNMs3MK27UGIZ4Y-K127T5o6Y7VVmw64EBNVlSbYg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361075532,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 /🏴| This Iranian teenager was martyred last night in the city of Kuhestak, Hormozgan, after shrapnel from an American projectile struck him in the head while he was riding a motorcycle.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f_fqYKC23YEJFch-StV_6VcMVzrjOLCL5wsHKJ07epNnPAnq1EwkhvSTZp5gw_hhq-pp-DUBUez0FKHIJTvYN7nkcHwBNNsMv52FcrwW2XH7Ckqi07H3f-iMoyFDO1Z-297mI5nRdvnFPO9qt5OUMKEh6Ox1PpKaKPcD2rbIwW2HpvdncYfnGODgdN4QiXR9FH0ZX4UVkrYpAk9cWOH-gPdmjSH5Jl1s72km37eTwSOcQCEzGXKR9-Vfei6jZ1P0go_xsdlI9L8S7irdEPAX-NqGOnGSewOH2OatKrPV9dztfXLYqyz-qfabktvJtZdIuvQxc_CqCmXXLSpWmtlJVg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361093329,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸/ 🇮🇷 | Meeting between Bassem Naim, a member of the Political Bureau and head of the Arab-Islamic Relations Office of Hamas, and Seyyed Abbas Araghchi, Iran’s Minister of Foreign Affairs:Bassem Naim, a member of the political bureau and head of the Arab and Islamic Relations Office of the Pale...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GTXYRGQYH7AwkWJBGiimSJ2xSfVcDHaNVfQoi0d2Xliet0NisAgDiO4tlqRiXgIlpLoNUmnZz4rz_jT93G6M5JxYwH5NaC7L9LOP1qmWgeROXNL1ULiWrb6KphIKlDccSJCJWqAb8--3bI1iwlLRcKjcvlugVkL59m1wvlmesq9edKAl_76fzNbhRIzmHTjMmfrhlzobuQ91c9Vx3bN3sw8qCi-j9c3qy7SoRh6fbNJiq6vH5kzed3xdIMZ1nXvmkIei-I7UE0GGiEMxCHn_B70HLEylDn3hkNk9b8OMVMSU7w6FFCVhzl7neQ8dhDwBDhGFyNc42YzViwtg8KTUEA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/s2jyzuhtUf2yvvz3CIz08cHwV_85wsm8kJYWiz3wNjCFkKRoY-QBx18RCTVZfAnMKvcKTNeHbn4wLTYE0K-Iw9--jdFNPErMZHMEhUqz-lxkKjnEYwWhumROfImccmHTKAmtmq7awW5wdYuc3BC_PnvwsNvjlWUneEqpLsyq51eotoVvF0hnKGVYgxjLkt8sRP_b0G2FVq21e7Ii6LgwpZu3XznnTh1qUDnCi1p-fI4bv1vuya312WmYet2R-TBo3BTiiSSMck_ShvPoqErI0einfJAHgHtWgMWMQJlZO2LobADMi6gsgdLcUADjgFecqfEQ9R0pZi5GvjeYmZRueQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361118940,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸/ 🇮🇷 | Meeting between Bassem Naim, a member of the Political Bureau and head of the Arab-Islamic Relations Office of Hamas, and Seyyed Abbas Araghchi, Iran’s Minister of Foreign Affairs:Bassem Naim, a member of the political bureau and head of the Arab and Islamic Relations Office of the Pale...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GTXYRGQYH7AwkWJBGiimSJ2xSfVcDHaNVfQoi0d2Xliet0NisAgDiO4tlqRiXgIlpLoNUmnZz4rz_jT93G6M5JxYwH5NaC7L9LOP1qmWgeROXNL1ULiWrb6KphIKlDccSJCJWqAb8--3bI1iwlLRcKjcvlugVkL59m1wvlmesq9edKAl_76fzNbhRIzmHTjMmfrhlzobuQ91c9Vx3bN3sw8qCi-j9c3qy7SoRh6fbNJiq6vH5kzed3xdIMZ1nXvmkIei-I7UE0GGiEMxCHn_B70HLEylDn3hkNk9b8OMVMSU7w6FFCVhzl7neQ8dhDwBDhGFyNc42YzViwtg8KTUEA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/s2jyzuhtUf2yvvz3CIz08cHwV_85wsm8kJYWiz3wNjCFkKRoY-QBx18RCTVZfAnMKvcKTNeHbn4wLTYE0K-Iw9--jdFNPErMZHMEhUqz-lxkKjnEYwWhumROfImccmHTKAmtmq7awW5wdYuc3BC_PnvwsNvjlWUneEqpLsyq51eotoVvF0hnKGVYgxjLkt8sRP_b0G2FVq21e7Ii6LgwpZu3XznnTh1qUDnCi1p-fI4bv1vuya312WmYet2R-TBo3BTiiSSMck_ShvPoqErI0einfJAHgHtWgMWMQJlZO2LobADMi6gsgdLcUADjgFecqfEQ9R0pZi5GvjeYmZRueQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361121910,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸/ 🇮🇷 | Meeting between Bassem Naim, a member of the Political Bureau and head of the Arab-Islamic Relations Office of Hamas, and Seyyed Abbas Araghchi, Iran’s Minister of Foreign Affairs:Bassem Naim, a member of the political bureau and head of the Arab and Islamic Relations Office of the Pale...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GTXYRGQYH7AwkWJBGiimSJ2xSfVcDHaNVfQoi0d2Xliet0NisAgDiO4tlqRiXgIlpLoNUmnZz4rz_jT93G6M5JxYwH5NaC7L9LOP1qmWgeROXNL1ULiWrb6KphIKlDccSJCJWqAb8--3bI1iwlLRcKjcvlugVkL59m1wvlmesq9edKAl_76fzNbhRIzmHTjMmfrhlzobuQ91c9Vx3bN3sw8qCi-j9c3qy7SoRh6fbNJiq6vH5kzed3xdIMZ1nXvmkIei-I7UE0GGiEMxCHn_B70HLEylDn3hkNk9b8OMVMSU7w6FFCVhzl7neQ8dhDwBDhGFyNc42YzViwtg8KTUEA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/s2jyzuhtUf2yvvz3CIz08cHwV_85wsm8kJYWiz3wNjCFkKRoY-QBx18RCTVZfAnMKvcKTNeHbn4wLTYE0K-Iw9--jdFNPErMZHMEhUqz-lxkKjnEYwWhumROfImccmHTKAmtmq7awW5wdYuc3BC_PnvwsNvjlWUneEqpLsyq51eotoVvF0hnKGVYgxjLkt8sRP_b0G2FVq21e7Ii6LgwpZu3XznnTh1qUDnCi1p-fI4bv1vuya312WmYet2R-TBo3BTiiSSMck_ShvPoqErI0einfJAHgHtWgMWMQJlZO2LobADMi6gsgdLcUADjgFecqfEQ9R0pZi5GvjeYmZRueQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788361136817,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense📌 Tehran, IRNA – Iran’s Foreign Ministry has condemned US attacks on civilian areas and infrastructure across several provinces as “brutal war crimes” and reaffirmed the Islamic Republic’s right to retaliate ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788361177207,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense📌 Tehran, IRNA – Iran’s Foreign Ministry has condemned US attacks on civilian areas and infrastructure across several provinces as “brutal war crimes” and reaffirmed the Islamic Republic’s right to retaliate ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788361093344,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense📌 Tehran, IRNA – Iran’s Foreign Ministry has condemned US attacks on civilian areas and infrastructure across several provinces as “brutal war crimes” and reaffirmed the Islamic Republic’s right to retaliate ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788361144361,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense📌 Tehran, IRNA – Iran’s Foreign Ministry has condemned US attacks on civilian areas and infrastructure across several provinces as “brutal war crimes” and reaffirmed the Islamic Republic’s right to retaliate ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788361093343,
+    "type": "airstrike",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense📌 Tehran, IRNA – Iran’s Foreign Ministry has condemned US attacks on civilian areas and infrastructure across several provinces as “brutal war crimes” and reaffirmed the Islamic Republic’s right to retaliate ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788361175279,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense📌 Tehran, IRNA – Iran’s Foreign Ministry has condemned US attacks on civilian areas and infrastructure across several provinces as “brutal war crimes” and reaffirmed the Islamic Republic’s right to retaliate ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788361094482,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense📌 Tehran, IRNA – Iran’s Foreign Ministry has condemned US attacks on civilian areas and infrastructure across several provinces as “brutal war crimes” and reaffirmed the Islamic Republic’s right to retaliate ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
