@@ -282072,6 +282072,36 @@
     "verified": false
   },
   {
+    "id": 1788369900057,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— First Katz, then Trump, and now Netanyahu have all publicly said that Iran is not preparing to attack Israel directly and have suggested that Tehran's current military focus is elsewhere. Recent public statements from Katz and Netanyahu describe Iran as attacking countries across the region while,...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788369974284,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— First Katz, then Trump, and now Netanyahu have all publicly said that Iran is not preparing to attack Israel directly and have suggested that Tehran's current military focus is elsewhere. Recent public statements from Katz and Netanyahu describe Iran as attacking countries across the region while,...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
