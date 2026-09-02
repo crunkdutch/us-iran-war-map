@@ -121062,6 +121062,188 @@
     "media": []
   },
   {
+    "id": 479958155,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tabriz, Kerman, Yazd: past hours largest Iranian response American",
+    "location": "Tabriz, Kerman, Yazd, Ahvaz, Bandar Abbas, Kermanshah, Khomeyn, Erbil, Strait of Hormuz, Persian Gulf, Jordan, Bahrain, Iraq, Israel",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | In the past 4 hours, the largest Iranian response to American aggression occurred across the region: (1)Iran launched one of its largest ballistic-missile and drone responses of the battle after America carried out fresh airstrikes against southern Iran. Ballistic missile launches were reported from Darab, Khomeyn, Yazd, Kermanshah, Lorestan, Tabriz, Arak, Karaj and the Bidganeh missile site. At least three missiles were reported launched from Khomeyn in one wave, followed by additional l",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479961351,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Interception — Jordan, Bahrain: Reports said missiles were seen heading",
+    "location": "Jordan, Bahrain",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "+ Reports said missiles were seen heading east from Jordan, while additional interceptions were reported over the area. In Bahrain, the air raid remained active, with reports stating that no all-clear had been issued. Four explosions were initially reported…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 479964548,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Drone Strike — Persian Gulf, Bahrain: Army drone attacks American base BahrainArmy",
+    "location": "Persian Gulf, Bahrain",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Army drone attacks on American base in Bahrain:Army public relations:In the 29th stage of Operation Saiqah, and in response to the enemy’s aggression against the southern regions of the country, hours ago the Islamic Republic of Iran Army launched large-scale attacks using explosive drones against radar facilities and gathering points of American terrorist forces at the Sheikh Isa base in Bahrain.Sheikh Isa Base in Bahrain is one of the most important and sensitive American bases in the P",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/93e2b5cb22.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/F1lGIGfiDaoBsDeUWWqiPT65f2H4BwXaNpj5GNUtC1YrpnIi8hStAKa-UUXBK29phV1KGURR5SUERZQxLCcj2VatFRdYrWOhHEmJcZRH41SY-XcSj8GhZegy7D1g9_atJ-xGvDro5ckSwWb_wbYRhdsJ3gPKpXqObD8qvkzqVCm9DX-c8EqvZCZyyJefke20gi8CxBYsTBFhalBM8qYOXBifGHmVoO7spxeg4Sbgx1x0uKUUOmkBDTRAt2l4E8KHtX8FqhUWcKz8qj3Mqk3o5OsMrkurvNJ7KWXbDBN2extf8uG4tQaI5AykxzIlCQmhbSuRkJPYt6A58I_qqk01Ug"
+      },
+      {
+        "url": "https://t.me/enemywatch/61419",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/F1lGIGfiDaoBsDeUWWqiPT65f2H4BwXaNpj5GNUtC1YrpnIi8hStAKa-UUXBK29phV1KGURR5SUERZQxLCcj2VatFRdYrWOhHEmJcZRH41SY-XcSj8GhZegy7D1g9_atJ-xGvDro5ckSwWb_wbYRhdsJ3gPKpXqObD8qvkzqVCm9DX-c8EqvZCZyyJefke20gi8CxBYsTBFhalBM8qYOXBifGHmVoO7spxeg4Sbgx1x0uKUUOmkBDTRAt2l4E8KHtX8FqhUWcKz8qj3Mqk3o5OsMrkurvNJ7KWXbDBN2extf8uG4tQaI5AykxzIlCQmhbSuRkJPYt6A58I_qqk01Ug"
+      }
+    ]
+  },
+  {
+    "id": 479967746,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Jordan: IRGC Aerospace Force released footage targeting",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The IRGC Aerospace Force has released footage of targeting American bases in Jordan with ballistic missiles moments ago.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3ed95e69a0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ptkBsRj8oTdHnZTpG6UFzdNp-i3KfzRo5ZM5BCN4nNgAKN_JctTjlXWTx3lwKjFyOHbYnl5xWXMUhRyPqvy_Dw0VNe-0kCKrG7rjkvR281CxPdXnuLaKntq6u83ohKa97iwm6hPdz4pUq2hdsxIu51hEqduDdSbRlBJLZlFKaHSVbVaJKEu3k5qJBNOHL2mjRaPVLOHVzNLs8BbAx-d9oxLP-wVZKKPXGE0dJ3v6pbWsimvIxrougwFLHxXeIZG_lHDfPvX4PgrbPk2cOD_ccVu2hUCHj5SeTy1QgiDy3_VzoiE6BIRwjTUJFKskwTJhHTWMKTPvYepfgKE_jN5x_A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61420",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ptkBsRj8oTdHnZTpG6UFzdNp-i3KfzRo5ZM5BCN4nNgAKN_JctTjlXWTx3lwKjFyOHbYnl5xWXMUhRyPqvy_Dw0VNe-0kCKrG7rjkvR281CxPdXnuLaKntq6u83ohKa97iwm6hPdz4pUq2hdsxIu51hEqduDdSbRlBJLZlFKaHSVbVaJKEu3k5qJBNOHL2mjRaPVLOHVzNLs8BbAx-d9oxLP-wVZKKPXGE0dJ3v6pbWsimvIxrougwFLHxXeIZG_lHDfPvX4PgrbPk2cOD_ccVu2hUCHj5SeTy1QgiDy3_VzoiE6BIRwjTUJFKskwTJhHTWMKTPvYepfgKE_jN5x_A"
+      }
+    ]
+  },
+  {
+    "id": 479970945,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Minab, Sirik, Gilan: Statements from IRGC1 Statement Name Allah",
+    "location": "Minab, Sirik, Gilan, Hormozgan, Strait of Hormuz, Jordan",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Statements from the IRGC:1) Statement: 3 In the Name of Allah, the Destroyer of the OppressorsTo the vigilant and revolutionary people of the Islamic Republic of Iran,The continuation of your presence in the field has exhausted and disappointed the American enemy, and the resistance and authority of your brave fighters in the Strait of Hormuz have left the leaders of the White House frustrated.A few hours ago, in blind attacks carried out out of desperation, the invading American military",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
