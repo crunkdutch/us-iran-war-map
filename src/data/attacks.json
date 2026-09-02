@@ -121691,6 +121691,49 @@
     "media": []
   },
   {
+    "id": 480015836,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Bahrain: Satellite images show large fire base",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇧🇭 | Satellite images show a large fire at a base in Bahrain following an Iranian ballistic missile attack.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/45c07f3baf.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gAHDvSPrR7Kph2EAuh6ufGUYllIyT6cRMX1-_KLObPKmMDYX_goGoYyElq5uBRiPzdFd1AyWx-HgFzrx_5ev8C0BAkKMWza5-a44spWkZcvZIznkUxYLa9qBdV1sZBPjO6BVsABVFEomZJ--tsvGfok9UMJmek4SG-gvZ8xFAtf09YnmNsK8LfQJ9K41VU4cC4ciwZ-J6JecsWva__YOCSoGMNr7aOIUMbqjLNa2mXMLMTMQco0f6zhJK2W6mnqoskQz7elf0FKChJ55jPIhNT6Ea9AtNtjmpVERzzfVs0BfnOHOU0zkgH9sDAMmo-0RE8TS-SvPHHVKja0yNB_qVg"
+      },
+      {
+        "url": "https://t.me/enemywatch/61453",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gAHDvSPrR7Kph2EAuh6ufGUYllIyT6cRMX1-_KLObPKmMDYX_goGoYyElq5uBRiPzdFd1AyWx-HgFzrx_5ev8C0BAkKMWza5-a44spWkZcvZIznkUxYLa9qBdV1sZBPjO6BVsABVFEomZJ--tsvGfok9UMJmek4SG-gvZ8xFAtf09YnmNsK8LfQJ9K41VU4cC4ciwZ-J6JecsWva__YOCSoGMNr7aOIUMbqjLNa2mXMLMTMQco0f6zhJK2W6mnqoskQz7elf0FKChJ55jPIhNT6Ea9AtNtjmpVERzzfVs0BfnOHOU0zkgH9sDAMmo-0RE8TS-SvPHHVKja0yNB_qVg"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
