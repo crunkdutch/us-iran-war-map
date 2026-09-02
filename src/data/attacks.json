@@ -121244,6 +121244,38 @@
     "media": []
   },
   {
+    "id": 479974145,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-01",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Erbil, Iraq: these minutes explosions were reported Erbil",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "+ (2) 🇮🇷 | In these minutes, two explosions were reported in Erbil, Iraqi Kurdistan, following Shahed-136 UAV strikes. 3 impacts was reported at Erbil International Airport in the Kurdistan Region of Iraq, while another explosion was reported near the U.S.…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
