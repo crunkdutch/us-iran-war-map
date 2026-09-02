@@ -121430,6 +121430,38 @@
     ]
   },
   {
+    "id": 479990160,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Sirik, Hormozgan: aggression targets Sunni wedding southern Iran",
+    "location": "Sirik, Hormozgan",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 35,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷/🏴 | U.S. aggression targets Sunni wedding in southern Iran, at least four martyred:At least four people, including children, have been martyred and 35 others seriously injured after a U.S. attack struck a residential building where a Sunni wedding ceremony was being held in Kohestak, Sirik, Hormozgan Province, southern Iran. The bodies of children were found among the martyrs at the scene (pictured: the body of a child draped in cloth). Iran’s Deputy Governor for Security of Hormozgan said",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
