@@ -122676,6 +122676,38 @@
     ]
   },
   {
+    "id": 480102965,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Gaza City, Israel: Nephew Hamas leader Khalil alHayya martyred",
+    "location": "Gaza City, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇵🇸 🏴 | Nephew of Hamas leader Khalil al-Hayya martyred in Gaza:Palestinian sources reported that Abdullah Mahmoud al-Hayya, the nephew of Dr. Khalil al-Hayya, was martyred after succumbing to wounds he sustained in the Israeli attack carried out yesterday in the Al-Katiba area, west of Gaza City. According to the reports, Abdullah al-Hayya was critically injured during the Israeli strike and later succumbed to his wounds.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
