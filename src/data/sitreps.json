@@ -282732,6 +282732,51 @@
     "verified": false
   },
   {
+    "id": 1788442738230,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 IRGC commander condemns US ‘terror attack’ on wedding ceremony📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Commander-in-Chief Major General Ahmad Vahidi has condemned the US attack on a wedding in Kuhestak as a terrorist act, saying it reflects the enemies’ hostility and inability...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788442750477,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 IRGC commander condemns US ‘terror attack’ on wedding ceremony📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Commander-in-Chief Major General Ahmad Vahidi has condemned the US attack on a wedding in Kuhestak as a terrorist act, saying it reflects the enemies’ hostility and inability...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788442804504,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-09-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 IRGC commander condemns US ‘terror attack’ on wedding ceremony📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Commander-in-Chief Major General Ahmad Vahidi has condemned the US attack on a wedding in Kuhestak as a terrorist act, saying it reflects the enemies’ hostility and inability...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788440554678,
     "type": "airstrike",
     "location": "Yemen",
@@ -282788,6 +282833,27 @@
       {
         "url": "https://cdn4.telesco.pe/file/XfElHTMXUZfBPO0BI2kb5DpozQja6e7bOT25HhV_M1TvuxqRpU-1ERo6kqxQ_jU5SFIhgYBG-FY8ASaLa_OIDLwM8DKSovSuzerAfgjhXZmAGKk-VSeUkwqak6n-dZhXE4IBKWoDMXpobVNKxiQvaIFZGZjUEV921hFhu9zAjB7ZmdNPZTG5Js7j5W9EzYQ8ySDGcXcT9XSrT7EVTJtgK8uuZDGVAYtLA-lpOfW9bWsSCsidSRmy6E9oBgLE_zJb6m-x7rUBlyAmPVrUbogszqSrX-yasF_XYEPxqupdbwuRjogtY9PMxglShz4jqoRLu1X_CBslOTtiPfO6LTVg3Q.jpg",
         "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788442683911,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪| BREAKING — Ansarallah has released a 7-minute-long video showcasing a new type of operation by the Yemeni Armed Forces, targeting Saudi enemy troop gatherings and military vehicles across multiple fronts using Meshkat-type drones. The footage documents a series of coordinated drone strike...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61517",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cR0KENenikLPWDQ2TuwtHAxjNUIYSkXfpg8v0IIaf9W8tKxuDi-f5tBQYWEu5CXnONjJSCj38IsiwczUKVrrl4JjvqPOsYy6VW16aKAeOTuKBqabTMlyQI6jRIhQjcyqouB0DFPOswYVALT0PnxiNffJaVZhpcSZ_GHbbgyQtrhDx0gVuqqP4nvtHkUSPyzUs7ltKB_djVI_4Cwyd4AIylIa4jSIRF9Shx0VrFCy8uZol8SxxY0UTdq8sVge7vfZbOCS1oUSb_zht-5XpBN2MJVbUQH09IpBKTSIfY-j7SzYNTiZHb1KQeKZb4Bi4RbxpzB1YQ2mUsHrfXHbEz_WNA"
       }
     ],
     "verified": false

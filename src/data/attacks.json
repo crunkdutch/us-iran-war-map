@@ -122601,6 +122601,44 @@
     ]
   },
   {
+    "id": 480096486,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: BREAKING Ansarallah released 7minutelong video showcasing",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪| BREAKING — Ansarallah has released a 7-minute-long video showcasing a new type of operation by the Yemeni Armed Forces, targeting Saudi enemy troop gatherings and military vehicles across multiple fronts using Meshkat-type drones. The footage documents a series of coordinated drone strikes against Saudi-backed positions on several battlefronts in Yemen.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61517",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cR0KENenikLPWDQ2TuwtHAxjNUIYSkXfpg8v0IIaf9W8tKxuDi-f5tBQYWEu5CXnONjJSCj38IsiwczUKVrrl4JjvqPOsYy6VW16aKAeOTuKBqabTMlyQI6jRIhQjcyqouB0DFPOswYVALT0PnxiNffJaVZhpcSZ_GHbbgyQtrhDx0gVuqqP4nvtHkUSPyzUs7ltKB_djVI_4Cwyd4AIylIa4jSIRF9Shx0VrFCy8uZol8SxxY0UTdq8sVge7vfZbOCS1oUSb_zht-5XpBN2MJVbUQH09IpBKTSIfY-j7SzYNTiZHb1KQeKZb4Bi4RbxpzB1YQ2mUsHrfXHbEz_WNA"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
