@@ -122612,6 +122612,38 @@
     ]
   },
   {
+    "id": 480125673,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab, Sirik: Envoy Germany Aggressors come Iran remains",
+    "location": "Minab, Sirik",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Envoy to Germany: Aggressors come and go; Iran remains📌 London, IRNA – In a message marking the anniversary of the martyrdom of Rais-Ali Delvari, the Iranian ambassador to Germany emphasized that warmongers must learn from history that aggressors come and go, but Iran endures.In this message, referring to Rais-Ali Delvari’s resistance against the British invasion of southern Iran, Majid Nili said that in Iran’s glorious history, today we honor the memory of Rais-Ali Delvari—a hero who, more ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480090011,
     "type": "airstrike",
     "status": "confirmed",
