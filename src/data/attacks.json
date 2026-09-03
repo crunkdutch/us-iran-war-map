@@ -122143,6 +122143,118 @@
     "media": []
   },
   {
+    "id": 480054470,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Jordan: Satellite imagery revealed impact sites ballistic",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇯🇴 | Satellite imagery has revealed the impact sites of two ballistic missiles at Jordan’s Prince Hassan Air Base, following a ballistic missile attack launched by Iran’s Islamic Revolutionary Guard Corps on September 1. The airstrip and an aircraft hangar were damaged.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e5c17bc3cc.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YBgTnUD_P1906nzVOYJnyMw1g8c9t42P6s_7lB_29QiwOwW_3tZ7kLhMDYgMqRqBeaqw5H-nFU1iKts-8JH4Aj9Y7FY_V4gg9Es-M9P2rKEg-MSbN9OJuIRZK6CGJwoP2tHKCYYAMFv24TGtr-C6WEXR8D9gu-kIK3xfJ0guZbP9hvxE7oF-Gl7shvEdr-DUkEKstjGvlHPlzS2uenMbcGZ2ZIY7cUJrF7PA5gI7fylfd98cgztrsI-7rD-aXW_CtsAuqa2TmdihKONThXrq7NwkQyA3xKG1HaHp1V3feBltZl0vbB7cMQ-OHAoA6zjhUw1qAyxHNU1zL7t-DYR_5g"
+      },
+      {
+        "url": "https://t.me/enemywatch/61482",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YBgTnUD_P1906nzVOYJnyMw1g8c9t42P6s_7lB_29QiwOwW_3tZ7kLhMDYgMqRqBeaqw5H-nFU1iKts-8JH4Aj9Y7FY_V4gg9Es-M9P2rKEg-MSbN9OJuIRZK6CGJwoP2tHKCYYAMFv24TGtr-C6WEXR8D9gu-kIK3xfJ0guZbP9hvxE7oF-Gl7shvEdr-DUkEKstjGvlHPlzS2uenMbcGZ2ZIY7cUJrF7PA5gI7fylfd98cgztrsI-7rD-aXW_CtsAuqa2TmdihKONThXrq7NwkQyA3xKG1HaHp1V3feBltZl0vbB7cMQ-OHAoA6zjhUw1qAyxHNU1zL7t-DYR_5g"
+      }
+    ]
+  },
+  {
+    "id": 480057696,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Lebanon, Israel: Updates IranIrans Health Minister said that",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 18,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴| Updates:🇮🇷 IranIran’s Health Minister said that American attacks on various provinces across Iran last night martyred 18 people and wounded 108 others.🇱🇧 LebanonIsraeli attacks continued across southern Lebanon. Air raids targeted the vicinity of Ali al-Taher, the outskirts of Nabatieh al-Fawqa, and al-Qantara. Artillery shelling targeted Wadi Zibqin, Wadi al-Saluqi, the outskirts of Ali al-Taher, the area from Ali al-Taher toward al-Dabsha, Douhat Kafr Rumman, Wadi al-Hujair, Bani Hayya",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480060923,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Red Sea, Yemen, Saudi Arabia: Five explosions were heard Yemens Governorate",
+    "location": "Red Sea, Yemen, Saudi Arabia",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Five explosions were heard in Yemen’s Ibb Governorate. Yemeni forces launched ballistic missiles targeting concentrations of Saudi-backed forces along Yemen’s western coast. Fifteen Yemeni missiles were launched toward Saudi military targets in the ports of al-Mokha, Taiz and Khokha. A powerful explosion also rocked Taiz city after Yemeni forces targeted concentrations of forces loyal to Saudi Arabia. Mohammed Ali al-Houthi, a senior member of Yemen’s Supreme Political Council, ann",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/fzgClybg5BFOrQp_4BWg1u3FKprtFJISD0pRLJHknOUkfiW5MVcdYTowJuIXWrEhfi9v6SU7l3F471Hatz0MgVkh9UQ2O4GpQdmVGOB_VReb9I3QzMzSOpGu9lyKP6IeDBAEHc75quDJNltluZpTT9AMYd1ucCvKkPWiYItULR12MjKjoktST-Mxvlw30AkbAzFABSVa3nYEJhS0VcQfmExjVpIGLlnVoMxi7eUf4ALEfQ1Oa_LIyf_QleopG32J0Ip1IJ65Al-Ncgw71-1nh4XE3JpMc6gj_Rj4ghjrx-v1FRSazPy9QMwEI5OxWJc4TMCbtAccOCGGEl1y1fkYhg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

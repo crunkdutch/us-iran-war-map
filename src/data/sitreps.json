@@ -282371,6 +282371,62 @@
     "verified": false
   },
   {
+    "id": 1788420634837,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇯🇴 | Satellite imagery has revealed the impact sites of two ballistic missiles at Jordan’s Prince Hassan Air Base, following a ballistic missile attack launched by Iran’s Islamic Revolutionary Guard Corps on September 1. The airstrip and an aircraft hangar were damaged.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e5c17bc3cc.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YBgTnUD_P1906nzVOYJnyMw1g8c9t42P6s_7lB_29QiwOwW_3tZ7kLhMDYgMqRqBeaqw5H-nFU1iKts-8JH4Aj9Y7FY_V4gg9Es-M9P2rKEg-MSbN9OJuIRZK6CGJwoP2tHKCYYAMFv24TGtr-C6WEXR8D9gu-kIK3xfJ0guZbP9hvxE7oF-Gl7shvEdr-DUkEKstjGvlHPlzS2uenMbcGZ2ZIY7cUJrF7PA5gI7fylfd98cgztrsI-7rD-aXW_CtsAuqa2TmdihKONThXrq7NwkQyA3xKG1HaHp1V3feBltZl0vbB7cMQ-OHAoA6zjhUw1qAyxHNU1zL7t-DYR_5g"
+      },
+      {
+        "url": "https://t.me/enemywatch/61482",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YBgTnUD_P1906nzVOYJnyMw1g8c9t42P6s_7lB_29QiwOwW_3tZ7kLhMDYgMqRqBeaqw5H-nFU1iKts-8JH4Aj9Y7FY_V4gg9Es-M9P2rKEg-MSbN9OJuIRZK6CGJwoP2tHKCYYAMFv24TGtr-C6WEXR8D9gu-kIK3xfJ0guZbP9hvxE7oF-Gl7shvEdr-DUkEKstjGvlHPlzS2uenMbcGZ2ZIY7cUJrF7PA5gI7fylfd98cgztrsI-7rD-aXW_CtsAuqa2TmdihKONThXrq7NwkQyA3xKG1HaHp1V3feBltZl0vbB7cMQ-OHAoA6zjhUw1qAyxHNU1zL7t-DYR_5g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788420676178,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴| Updates:🇮🇷 IranIran’s Health Minister said that American attacks on various provinces across Iran last night martyred 18 people and wounded 108 others.🇱🇧 LebanonIsraeli attacks continued across southern Lebanon. Air raids targeted the vicinity of Ali al-Taher, the outskirts of Nabatieh al-Fa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788420615465,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-02",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴| Updates:🇮🇷 IranIran’s Health Minister said that American attacks on various provinces across Iran last night martyred 18 people and wounded 108 others.🇱🇧 LebanonIsraeli attacks continued across southern Lebanon. Air raids targeted the vicinity of Ali al-Taher, the outskirts of Nabatieh al-Fa...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
