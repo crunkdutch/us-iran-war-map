@@ -122532,6 +122532,86 @@
     "media": []
   },
   {
+    "id": 480112691,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sirik, Hormozgan, Yemen: Need pivot wedding wake Outsource Irans",
+    "location": "Sirik, Hormozgan, Yemen, Iraq",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Need to pivot a wedding to a wake? Outsource to the US: Iran’s London Embassy📌 London, IRNA — The Iranian Embassy in London has written that the attack on a wedding ceremony in Iran’s Kuhestak is the most recent item on the long list of deadly attacks by the US and its allies on weddings in Iraq, Yemen, and Afghanistan, saying that if one wishes to turn a wedding into a funeral, they should “leave it to the US terrorist military.”In a post on its X account on Thursday, the embassy said that ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0848bf0ce4.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GsvyRM8SDjbpRgCRQIeL19BJp8LMcPHRjNpwBXUsYphicynv0mMLiYJOPNF-Aus0lxuf-1paOl4Ads7v3ejz05YY74JQ8jkojAcc2JcP-CFghK5BhmCcgN4F7PfGQtEJriRqYPumhjzTnlAG7-KXUggtryrG4i8GiJqew9fq2Luj7jPzP0SUSzIUuhpt4lYOHouJSdKe_O7icO10k5-PwE7ZTEI6col6oTJ79f-1rI2Zh4boqAl7aKb55OmgJqaWULyvEkch7iSmTIVz-xjnFeNDlvPXuK5G9k8MsuwHRot3ArJ4wqfb-MvSrLGaoEbjmoGiggm26A4WXmUlr0s3NQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/38831",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GsvyRM8SDjbpRgCRQIeL19BJp8LMcPHRjNpwBXUsYphicynv0mMLiYJOPNF-Aus0lxuf-1paOl4Ads7v3ejz05YY74JQ8jkojAcc2JcP-CFghK5BhmCcgN4F7PfGQtEJriRqYPumhjzTnlAG7-KXUggtryrG4i8GiJqew9fq2Luj7jPzP0SUSzIUuhpt4lYOHouJSdKe_O7icO10k5-PwE7ZTEI6col6oTJ79f-1rI2Zh4boqAl7aKb55OmgJqaWULyvEkch7iSmTIVz-xjnFeNDlvPXuK5G9k8MsuwHRot3ArJ4wqfb-MvSrLGaoEbjmoGiggm26A4WXmUlr0s3NQ"
+      }
+    ]
+  },
+  {
+    "id": 480115935,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Enemy_MediaHebrew Channel 15Assessment Israel United States",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 15:Assessment in \"Israel\" and the United States: At present – Iran has no interest in firing toward \"Israel\", as this would lead to an escalation.Assessment in \"Israel\" and the United States: In Iran, the possibility of expanding the firing toward \"Israel\" is also being considered if tensions with the United States continue.War Minister Katz held a situational assessment with the Chief of Staff and senior officials in the security establishment.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/NrtnKtz24kyMGyc0LVnZz3aJHNfvBuLpWFpSjcHIV2VPw-gBg4O49Os2AobBffPmoXi0SF7iFtzya2jIdZokoxciLG9webET0t8sACNne3Rf-4aNQinB3FZsNMH5VmhvXdH5PAr84uA3rJgZZFVbznutHlYQjWwOQbH_GwwxdnoTzEdbcqnSp1tT63AGbRjaiFV3xDCcMD_lEilufgQhbmee-E7WpyEOV2bo_0sy7KA0cHuhmCBLxHM89kqZ0LgQqhvtyf16-9gWxCT4YlM0o-hjB2lkOUpKt0WdbPy8Rv3nrHCzK0WcHwfejyalhi2eT-ogFcPxpxCvNNYfyxz5vw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480090011,
     "type": "airstrike",
     "status": "confirmed",
@@ -122735,6 +122815,38 @@
       "other": 0
     },
     "description": "🇮🇷 | IRGC Navy anti-ship cruise missile launch from Sirik, Iran, towards the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480109448,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tel Aviv: Dear Iran before fall Taher bomb",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Dear Iran, before the fall of Ali Taher, bomb Tel Aviv.",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
