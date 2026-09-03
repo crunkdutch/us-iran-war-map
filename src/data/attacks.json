@@ -120897,6 +120897,38 @@
     "media": []
   },
   {
+    "id": 480086775,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Hormozgan: Islamic_RepublicPublic Relations Department Islamic Revoluti...",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicPublic Relations Department of the Islamic Revolutionary Guard Corps:O heroic Iranian people, makers of epics,The Islamic Revolutionary Guard Corps and the capable Armed Forces of the Islamic Republic of Iran have been the guardians of the sanctity of the blood of these dear ones (the martyrs of the criminal and terrorist attack by the aggressive and criminal U.S. regime on a wedding gathering in the oppressed area of Kuhestak in Hormozgan Province) and all the other martyrs who",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479913516,
     "type": "airstrike",
     "status": "confirmed",
