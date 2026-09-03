@@ -282732,6 +282732,67 @@
     "verified": false
   },
   {
+    "id": 1788440554678,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 Breaking — Ansarallah freed multiple positions from Saudi-backed forces in western Yemen:Ansarallah forces have taken control of multiple positions previously held by Saudi-terror proxy forces across western Yemen following intense fighting on several fronts. According to battlefield reports, A...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/1c017e6db9.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/h1_-VNW3zAt4kN1-4lkewRTi82ORvF6uf3g99R6WMebFE8YaNXZk3rd_aJt1chm58p5NSvCkQPNSyTjrUPo6RInytS84idP1Rhn-1G9HLc-QbAHfHO2I903Cl74Y7BQ3cYlbpFRCrwpwZiot2uf8sj-aC-ZKNm2soUCNz5pJ6oIhKoi5jERnX3JLMBFbzCwQ4nLn6wPtvzHX3i7XrnOWkssfOq4K5G6jg57OTtRdoetQfAfMO2AENGrmjne9HZ-3AL1KqTKjuuE_mufqObPaalX44S4AJsOnFWwaJ_s6KPGii3sysYn4PjiAAGXgeMMHcEFanLVmlTc5At5eFS1UCQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61497",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/h1_-VNW3zAt4kN1-4lkewRTi82ORvF6uf3g99R6WMebFE8YaNXZk3rd_aJt1chm58p5NSvCkQPNSyTjrUPo6RInytS84idP1Rhn-1G9HLc-QbAHfHO2I903Cl74Y7BQ3cYlbpFRCrwpwZiot2uf8sj-aC-ZKNm2soUCNz5pJ6oIhKoi5jERnX3JLMBFbzCwQ4nLn6wPtvzHX3i7XrnOWkssfOq4K5G6jg57OTtRdoetQfAfMO2AENGrmjne9HZ-3AL1KqTKjuuE_mufqObPaalX44S4AJsOnFWwaJ_s6KPGii3sysYn4PjiAAGXgeMMHcEFanLVmlTc5At5eFS1UCQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788440485000,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-09-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Major General Ahmad Vahidi Commander-in-Chief of the Islamic Revolutionary Guard Corps:In the name of God, the Most Compassionate, the Most Merciful.“Do not think of those who are killed in the way of God as dead. Rather, they are alive with their Lord, receiving sustenance.”To the patient an...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788440469047,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️| Commander of the Saudi-backed 35th Brigade killed in western Yemen:The commander of the Saudi-backed 35th Brigade, Brigadier General Adnan Al-Hammadi, and Fathi Al-Hammadi have been killed during ground attacks carried out by Yemeni forces in western Yemen. The killings came as Ansarallah con...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/XfElHTMXUZfBPO0BI2kb5DpozQja6e7bOT25HhV_M1TvuxqRpU-1ERo6kqxQ_jU5SFIhgYBG-FY8ASaLa_OIDLwM8DKSovSuzerAfgjhXZmAGKk-VSeUkwqak6n-dZhXE4IBKWoDMXpobVNKxiQvaIFZGZjUEV921hFhu9zAjB7ZmdNPZTG5Js7j5W9EzYQ8ySDGcXcT9XSrT7EVTJtgK8uuZDGVAYtLA-lpOfW9bWsSCsidSRmy6E9oBgLE_zJb6m-x7rUBlyAmPVrUbogszqSrX-yasF_XYEPxqupdbwuRjogtY9PMxglShz4jqoRLu1X_CBslOTtiPfO6LTVg3Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

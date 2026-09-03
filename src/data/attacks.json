@@ -122532,6 +122532,75 @@
     "media": []
   },
   {
+    "id": 480090011,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Hormozgan: Major General Ahmad Vahidi CommanderinChief Islamic",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Major General Ahmad Vahidi Commander-in-Chief of the Islamic Revolutionary Guard Corps:In the name of God, the Most Compassionate, the Most Merciful.“Do not think of those who are killed in the way of God as dead. Rather, they are alive with their Lord, receiving sustenance.”To the patient and honorable families of the noble martyrs of the criminal and terrorist attack carried out by the aggressive and criminal American regime against a wedding gathering in the oppressed region of Kuhesta",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480093248,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Commander Saudibacked 35th Brigade killed western",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️| Commander of the Saudi-backed 35th Brigade killed in western Yemen:The commander of the Saudi-backed 35th Brigade, Brigadier General Adnan Al-Hammadi, and Fathi Al-Hammadi have been killed during ground attacks carried out by Yemeni forces in western Yemen. The killings came as Ansarallah continues its offensive against Saudi-backed forces across the western front, where intense clashes are ongoing and multiple positions have reportedly fallen under Ansarallah's control.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/XfElHTMXUZfBPO0BI2kb5DpozQja6e7bOT25HhV_M1TvuxqRpU-1ERo6kqxQ_jU5SFIhgYBG-FY8ASaLa_OIDLwM8DKSovSuzerAfgjhXZmAGKk-VSeUkwqak6n-dZhXE4IBKWoDMXpobVNKxiQvaIFZGZjUEV921hFhu9zAjB7ZmdNPZTG5Js7j5W9EzYQ8ySDGcXcT9XSrT7EVTJtgK8uuZDGVAYtLA-lpOfW9bWsSCsidSRmy6E9oBgLE_zJb6m-x7rUBlyAmPVrUbogszqSrX-yasF_XYEPxqupdbwuRjogtY9PMxglShz4jqoRLu1X_CBslOTtiPfO6LTVg3Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
