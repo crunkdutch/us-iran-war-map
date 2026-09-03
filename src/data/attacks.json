@@ -122111,6 +122111,38 @@
     ]
   },
   {
+    "id": 480051245,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGCHeroic resilient people Islamic Iran your",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGCHeroic and resilient people of Islamic Iran; your steadfastness in the field has become an inspiration to nations, and the world is witnessing the process of the people's awakening and the narrowing of the arena for the criminal arrogant powers.Last night, the terrorist US army repeated the scenario of intimidation that it had implemented many times in its aggression against various countries—namely, attacking a wedding celebration to display cruelty and heartlessness and to frighten ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
