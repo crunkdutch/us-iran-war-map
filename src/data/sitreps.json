@@ -282672,6 +282672,51 @@
     "verified": false
   },
   {
+    "id": 1788431755322,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Wedding strike exposes US savagery: Expediency Council chief📌 Tehran, IRNA – Head of Iran’s Expediency Council Ayatollah Sadegh Amoli Larijani has condemned the US strike in Sirik, Hormozgan Province, calling the killing of women and children a war crime that exposes Washington’s hypocrisy on hu...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788431694049,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Wedding strike exposes US savagery: Expediency Council chief📌 Tehran, IRNA – Head of Iran’s Expediency Council Ayatollah Sadegh Amoli Larijani has condemned the US strike in Sirik, Hormozgan Province, calling the killing of women and children a war crime that exposes Washington’s hypocrisy on hu...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788431735168,
+    "type": "airstrike",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Wedding strike exposes US savagery: Expediency Council chief📌 Tehran, IRNA – Head of Iran’s Expediency Council Ayatollah Sadegh Amoli Larijani has condemned the US strike in Sirik, Hormozgan Province, calling the killing of women and children a war crime that exposes Washington’s hypocrisy on hu...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
