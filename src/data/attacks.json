@@ -122033,6 +122033,84 @@
     "media": []
   },
   {
+    "id": 480044798,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Jordan: possible burn mark been identified runway",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇯🇴 | A possible burn mark has been identified on the runway of Prince Hassan Air Base in Jordan.The base hosts American MQ-4C Triton surveillance drones, which conduct daily intelligence, surveillance, and reconnaissance (ISR) missions near Iran. Satellite imagery is being circulated as indicating a possible impact on the runway following the reported Iranian missile strikes.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VoCNtQf-4S3lJcmfB1-UDbfs-CutEepjszfiOQyEL6l9upCW6PQJKq0vuGo4hTbr0KNh42vFqZqu8PiRgWRo1_wueP4CYtEQApAr5I9dpTG7XOOqICWRmo_YWU9nxs3yziFWBzIvFFKXCRnZCwZs5y6KDcT2JGHaMD28FNLCYxCyKK4tK8IlBXhltwSGVJC0FB5L07zbN-n4FpSX34RavhNusyKeDJgldNbpdvYG4RPezcvebLDAaqhbr_vsNjV8vY6aLI52Ce4kGKn_fDx38q8h02-7ZzqiDMRDivaeAzUbn06_V8B46ng7g6EgdgftMFZYRNOEIV4Mkr9NaaEcjg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480048021,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Khomeyn: Photos show wreckage American Reaper drone",
+    "location": "Khomeyn",
+    "coordinates": [
+      33.6449,
+      50.0789
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Photos show the wreckage of the American MQ-9 Reaper drone that Iranian IRGC air defense forces said they shot down over the city of Khomeyn.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/V9Oqp9CkHTq0Q_DqK1_L9jiosTZlKT_YitdaBKNLlONJfq9wNSzdqcfeFTbDvpNg1lWWaOIwd71tpwLG-_TINHqQHukV5Drc8rvZwyDh726OA9tSCo38PHoRxYa848Vvwty7k1XJdWrxXRfZEqoxUa_yMmhnwygp3Xo-aZubAiITtyA102BKxGGmtyKJLaVhoxXFg48xWvUWwu84qFd2e-HaIAi_ychgJSJrv1L0NWh3G-mIO-OejT-OzWZ1KwEH00Up7MVMPIHsn8FSBGjR5plzYBVqPx3mdRtUIMMg0Ths0S9W0C0r6QIiTUcdsUEJ2jjmD-RQddh2MHZqCsInoA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/dxiB1AgFglYHXchWZPodBnT9Oc_p7R46lgSnOWzHLECtSVX4uiCGLVbQfkbXT7iBWiOEn49ZZRVELnfcO16WYTS_B9g9McBerPWorT2fAebBN5eNSGjvcslR-GNj5QWKjkb3iY4EvxsgV4XVD76mRVrmvE6283p8TwQvbduuNy-WQJZddFzDXRxeAAeoZwgf7iCYtFUQsIpRpya1HW1SyhddTeCuUAvEc7bf0-yjcxp7eMWsSij5K8N5lR2HKbcw5SAhB01zM7AfCXESDjYsNhwCQz4xqhVtxaf9pIMnC-FFK0c87cNsdoKMMqLHGCYehlG8mvV3OfIcvOjdF_nylA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
