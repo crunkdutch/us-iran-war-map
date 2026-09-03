@@ -593,6 +593,21 @@
     "verified": false
   },
   {
+    "id": 1788425132901,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2017-07-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel\" Hayom Hebrew newspaper:The discussion was held on July 30, 2017, with the participation of Lieberman and Eisenkot, as well as the head of the Military Intelligence Directorate, \"Aman,\" the Northern Command chief, the head of the Planning Directorate, and others. The subject of t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787392679035,
     "type": "airstrike",
     "location": "Tehran",
@@ -278255,6 +278270,36 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Islamic_RepublicPublic Relations Department of the Islamic Revolutionary Guard Corps:In the Name of Allah, the Subduer of the Arrogant “And there is life for you in retaliation, O people of understanding.”O noble and generous Kuwaiti people,Last night, the sons of Satan, some of whom are stationed ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788425162729,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:Security sources indicate that Hezbollah continues to gather intelligence on \"Israeli\" army fighters, study their methods of operation, map their positions, and identify their operational methods, in preparation for a scenario in which fighting resumes i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788425152221,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-08-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel\" Hayom Hebrew newspaper:Minutes from a security meeting held in July 2017 reveal that then-War Minister Lieberman pushed for launching an attack against Hezbollah, arguing that delaying it would lead to a more difficult confrontation and at a higher cost.#Military_Media",
     "media": [],
     "verified": false
   },

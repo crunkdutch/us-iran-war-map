@@ -120359,6 +120359,70 @@
     "media": []
   },
   {
+    "id": 480077073,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaperSecurity sources...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:Security sources indicate that Hezbollah continues to gather intelligence on \"Israeli\" army fighters, study their methods of operation, map their positions, and identify their operational methods, in preparation for a scenario in which fighting resumes in the form of infiltrations, ambushes, the launching of explosive drones, and the planting of explosive devices.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480080306,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-08-30",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Israel: Enemy_MediaIsrael Hayom Hebrew newspaperMinutes from securit...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israel\" Hayom Hebrew newspaper:Minutes from a security meeting held in July 2017 reveal that then-War Minister Lieberman pushed for launching an attack against Hezbollah, arguing that delaying it would lead to a more difficult confrontation and at a higher cost.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479881751,
     "type": "airstrike",
     "status": "confirmed",
@@ -122327,6 +122391,81 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 480070610,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Drone Strike — Kuwait, UAE: 31st phase Armys Saeqeh operationUS bases",
+    "location": "Kuwait, UAE",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | 31st phase of the Army’s Saeqeh operation:U.S. bases in the UAE and Kuwait come under missile and drone attacks by the Army:Iranian Army Public Relations said that, continuing the series of Saeqeh operations, in the 31st phase and in retaliation for the blood of innocent people and brave members of the Armed Forces, early this morning the Army of the Islamic Republic of Iran struck the “satellite communications systems,” “equipment storage facilities,” and “fighter aircraft hangars” of th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/162568634d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZG75fOtV3eCdqjQmstNUuEieIQyYJms2370skyvFDsi29hsANR34uGMgD6-n_adty7Lato4YqjCVde9VmMV1khuMXM0QF7g7tK4v5Oya5NZr229RPlVjMrRkH-epHQMBGdPz9Aripp5L2kKm2otrCpz2FoQZ7o8W7tptoUMNLhOHqOztjOsSgUv28Pfho1geDueMs4bIhy4Kgo2BtCXSRuaYWM83-LYJ-SAQigV2Te_y4wnxvnbpvtO5qS_Hmjm6PuOkHSh3fWDSMPPF0Fe0nnzGAYEB1eRrZHZl4QZ2MOKZCIMeAWbgUgJ2E9rHNtmOA-Bh9JbRX4a8WltQQtt8Og"
+      },
+      {
+        "url": "https://t.me/enemywatch/61490",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZG75fOtV3eCdqjQmstNUuEieIQyYJms2370skyvFDsi29hsANR34uGMgD6-n_adty7Lato4YqjCVde9VmMV1khuMXM0QF7g7tK4v5Oya5NZr229RPlVjMrRkH-epHQMBGdPz9Aripp5L2kKm2otrCpz2FoQZ7o8W7tptoUMNLhOHqOztjOsSgUv28Pfho1geDueMs4bIhy4Kgo2BtCXSRuaYWM83-LYJ-SAQigV2Te_y4wnxvnbpvtO5qS_Hmjm6PuOkHSh3fWDSMPPF0Fe0nnzGAYEB1eRrZHZl4QZ2MOKZCIMeAWbgUgJ2E9rHNtmOA-Bh9JbRX4a8WltQQtt8Og"
+      }
+    ]
+  },
+  {
+    "id": 480073841,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-02",
+    "time": "TBD",
+    "title": "Unknown Interception — Kuwait: Iran launched missiles drones targeting American",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran launched missiles and drones targeting American military positions in Kuwait around 1:39 a.m. Kuwait’s military said its air defenses were confronting missile and drone attacks, while warnings were issued over the ongoing assault. Kuwaiti airspace was closed and airport operations were disrupted. A Kuwaiti source said a significant site at one of the American bases was hit, with columns of smoke rising from the location. Kuwait later acknowledged that it had come under attack.🔻@enem",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 477331196,
