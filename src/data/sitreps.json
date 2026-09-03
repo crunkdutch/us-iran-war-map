@@ -282859,6 +282859,41 @@
     "verified": false
   },
   {
+    "id": 1788444903781,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-03",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🏴| Six Iranian Navy personnel martyred in American attack in southern Iran:The Army of the Islamic Republic of Iran announced the martyrdom of six Navy personnel following the American attacks carried out on September 1 against targets in southern Iran.The martyrs have been identified as:• Fir...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/TeyBQoIEFNcTHC9vXHH32V0H9NUcjh71AiSQAQ8JykU8Kr6YCdY4zG8b8NBOMo4bVw5OzBXkxOrSTyXC_A9VRDpCFHGlu5qVTJPv3crrXNFq5zVVGLKhTpdo1RFmBr6wEtyGAX9-jjAaHGSVSRZqEsNGdf9nOQudbegPsosYLWWo3M_Q9vxDSvFhQhfImptKQYByavEePD_duzqUANbCYvV-jykGrk9kK7yng3Ej_gnVbM4dLUrmfrh4jFnWoia4CyyMEuI2Y7lU9IMMw8SCQZxsVkrHrNuj_Daza1DZM1sM5_PFRpBh1GChAHrpHhNOs6JInCvjCxLO6M06m-NFgw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788445032676,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Photos showing new, high-quality footage of the Yemeni Armed Forces targeting gatherings and vehicles of the Saudi enemy on several fronts using the Rajoum-3 drone – September 3, 2026.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

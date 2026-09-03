@@ -122639,6 +122639,43 @@
     ]
   },
   {
+    "id": 480099725,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Airstrike — Taba: Iranian Navy personnel martyred American attack",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷/🏴| Six Iranian Navy personnel martyred in American attack in southern Iran:The Army of the Islamic Republic of Iran announced the martyrdom of six Navy personnel following the American attacks carried out on September 1 against targets in southern Iran.The martyrs have been identified as:• First Lieutenant Hossein Mahdavian• Lieutenant Commander Hamed Okati• Lieutenant Commander Amirhossein Salimzadeh• Chief Petty Officer Mohammadreza Badran• First Lieutenant Seyed Malek Mousavitabar• Firs",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/TeyBQoIEFNcTHC9vXHH32V0H9NUcjh71AiSQAQ8JykU8Kr6YCdY4zG8b8NBOMo4bVw5OzBXkxOrSTyXC_A9VRDpCFHGlu5qVTJPv3crrXNFq5zVVGLKhTpdo1RFmBr6wEtyGAX9-jjAaHGSVSRZqEsNGdf9nOQudbegPsosYLWWo3M_Q9vxDSvFhQhfImptKQYByavEePD_duzqUANbCYvV-jykGrk9kK7yng3Ej_gnVbM4dLUrmfrh4jFnWoia4CyyMEuI2Y7lU9IMMw8SCQZxsVkrHrNuj_Daza1DZM1sM5_PFRpBh1GChAHrpHhNOs6JInCvjCxLO6M06m-NFgw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
