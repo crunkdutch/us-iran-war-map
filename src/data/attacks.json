@@ -122852,6 +122852,70 @@
     "media": []
   },
   {
+    "id": 480119180,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Aden, Lebanon, Yemen: Breaking Updates Lebanon Intense battles between",
+    "location": "Aden, Lebanon, Yemen, Israel",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🚨 | Breaking Updates: Lebanon: Intense battles between Hezbollah and the IOF are ongoing in the Ali al-Taher area, while the Israeli Air Force has carried out airstrikes on al-Mansouri and Ali al-Taher in southern Lebanon.Yemen: The Yemeni Armed Forces have launched drones targeting positions of Saudi terror proxy forces in Aden. Heavy battles are also ongoing between the Yemeni Armed Forces and Saudi-proxy forces across the Taiz and western coast fronts.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480122426,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Israel: Enemy_MediaHebrew Channel Preparing launch attacks against",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 12: Preparing to launch attacks against \"Israelis\" abroad with Iranian backing.– Concerns: In Iran, efforts to harm people through the Quds Force and Hamas abroad are increasing.– Timing: The holiday period and the three-year anniversary of October 7.– Assessment in \"Israel\": The missile launches at Aqaba were intended to serve as a warning signal to \"Israel\".– On Sunday, the special situation on the home front will be extended until September 23.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

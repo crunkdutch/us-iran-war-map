@@ -283089,6 +283089,111 @@
     "verified": false
   },
   {
+    "id": 1788458207331,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Dear Iran, before the fall of Ali Taher, bomb Tel Aviv.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788458167737,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-09-03",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Breaking Updates: Lebanon: Intense battles between Hezbollah and the IOF are ongoing in the Ali al-Taher area, while the Israeli Air Force has carried out airstrikes on al-Mansouri and Ali al-Taher in southern Lebanon.Yemen: The Yemeni Armed Forces have launched drones targeting positions of Sa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788458205627,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-03",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Breaking Updates: Lebanon: Intense battles between Hezbollah and the IOF are ongoing in the Ali al-Taher area, while the Israeli Air Force has carried out airstrikes on al-Mansouri and Ali al-Taher in southern Lebanon.Yemen: The Yemeni Armed Forces have launched drones targeting positions of Sa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788458223175,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-03",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Breaking Updates: Lebanon: Intense battles between Hezbollah and the IOF are ongoing in the Ali al-Taher area, while the Israeli Air Force has carried out airstrikes on al-Mansouri and Ali al-Taher in southern Lebanon.Yemen: The Yemeni Armed Forces have launched drones targeting positions of Sa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788458209652,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-03",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Breaking Updates: Lebanon: Intense battles between Hezbollah and the IOF are ongoing in the Ali al-Taher area, while the Israeli Air Force has carried out airstrikes on al-Mansouri and Ali al-Taher in southern Lebanon.Yemen: The Yemeni Armed Forces have launched drones targeting positions of Sa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788458171177,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Dear Iran, before the fall of Ali Taher, bomb Tel Aviv. 🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788458264433,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: Preparing to launch attacks against \"Israelis\" abroad with Iranian backing.– Concerns: In Iran, efforts to harm people through the Quds Force and Hamas abroad are increasing.– Timing: The holiday period and the three-year anniversary of October 7.– Assessment in \"Israe...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
