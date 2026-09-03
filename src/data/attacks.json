@@ -120865,6 +120865,38 @@
     "media": []
   },
   {
+    "id": 480083540,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-08-31",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Drone Strike — Kuwait, UAE: Islamic_RepublicPublic Relations Department Iranian ArmyAs p...",
+    "location": "Kuwait, UAE",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicPublic Relations Department of the Iranian Army:As part of the continuation of the “Thunderbolt” series of operations, in its 31st phase, and in response to the blood of innocent members of the Iranian people and the blood of the brave men of the Armed Forces, the Army of the Islamic Republic of Iran, at dawn today, targeted the satellite communications systems, equipment warehouses, and fighter aircraft hangars of the terrorist U.S. army at Ahmad Al-Jaber Air Base in Kuwait wit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 479913516,
     "type": "airstrike",
     "status": "confirmed",
