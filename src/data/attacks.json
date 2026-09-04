@@ -123151,6 +123151,177 @@
     "media": []
   },
   {
+    "id": 480148430,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Jordan: Breaking Reports indicate Iran carried preemptive",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Reports indicate Iran carried out a preemptive strike on Muwaffaq Salti Air Base in Jordan, targeting an alleged gathering of senior American commanders at the base. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c74f1d2d4f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/W-4KviB219ExNbGGknkV0YHtQdJp9MnFCwRcRcH3s47flRlKCY221eEa6zZIPsCEVQzhxL9SusKn76DtsCPPctWD-Y0FGnI3ceHrlJc0HdmH1MQyeS5E5NCV-prK25q_HakP8W5mGdNBEHAwddtBGDeBY3xXKTxwHfLlC_COwxh2RYC1lNvwtMptfIltqP2hKijheJQ-bHztmitQ4kgtd_9Cm34iebcmoFivzf0DB9afjM_g2ja5BLZrQNHORvA27m3MoFi1N7EDwj85uHqAH4eQQpV1YLAuMu80hwu4wfe2X--dtQyyy6AqLE30-8lBHWNolkJRDatp0CY0NvkhpQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61556",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/W-4KviB219ExNbGGknkV0YHtQdJp9MnFCwRcRcH3s47flRlKCY221eEa6zZIPsCEVQzhxL9SusKn76DtsCPPctWD-Y0FGnI3ceHrlJc0HdmH1MQyeS5E5NCV-prK25q_HakP8W5mGdNBEHAwddtBGDeBY3xXKTxwHfLlC_COwxh2RYC1lNvwtMptfIltqP2hKijheJQ-bHztmitQ4kgtd_9Cm34iebcmoFivzf0DB9afjM_g2ja5BLZrQNHORvA27m3MoFi1N7EDwj85uHqAH4eQQpV1YLAuMu80hwu4wfe2X--dtQyyy6AqLE30-8lBHWNolkJRDatp0CY0NvkhpQ"
+      }
+    ]
+  },
+  {
+    "id": 480151685,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Red Sea, Jordan, Yemen: Updates Iran Iranian border forces intercepted",
+    "location": "Red Sea, Jordan, Yemen, Iraq",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Updates:🇮🇷 Iran• Iranian border forces intercepted a major shipment of heavy military weapons in Sistan and Baluchestan, seizing 4 RPG-7 launchers, 6 anti-armor RPG rounds, 6 RPG charges, 2,382 Kalashnikov rounds, and 796 M4 rounds that authorities said were intended for sabotage operations inside Iran.• Reports indicate Iran carried out a preemptive strike on Muwaffaq Salti Air Base in Jordan, targeting an alleged gathering of senior American commanders at the base. Iranian strikes on th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480154941,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Kerman, Kermanshah, Hodeidah: Updates Gaza Intense Israeli tank shelling",
+    "location": "Kerman, Kermanshah, Hodeidah, Lebanon, Yemen, Israel",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Updates:🇵🇸 Gaza• Intense Israeli tank shelling continued east of Khan Younis, with shells landing near Bani Suheila.• Three Palestinians, including a child, were injured by Israeli army fire near Hamad City, north of Khan Younis.🇱🇧 Lebanon• Israeli bombardment continued across southern Lebanon. Artillery shelling targeted Al-Qantara, Wadi al-Hujeir, Al-Mansouri, Nabatieh al-Fawqa, Douhat Kafr Rumman, Mayfadon, Zawtar al-Sharqiyah, and Hadatha.• A Merkava tank shelled Zawtar al-Sharqiyah",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480158198,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Sirik, Strait of Hormuz, Jordan: Breaking defense activity reported northern Jordan",
+    "location": "Sirik, Strait of Hormuz, Jordan",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Air defense activity was reported in northern Jordan as projectiles were detected over Jordanian airspace, while the IRGC Navy launched an anti-ship cruise missile from Sirik toward the Strait of Hormuz, marking another escalation in the confrontation across the region.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480161456,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Breaking Massive regular onetoone cruise missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Massive, regular one-to-one cruise missile strikes are targeting positions around the Strait of Hormuz, with repeated launches reported within minutes of each other amid the escalating confrontation. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
