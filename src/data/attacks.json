@@ -123119,6 +123119,38 @@
     "media": []
   },
   {
+    "id": 480145176,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Isfahan, Strait of Hormuz: missile launch conducted from Isfahan Iran",
+    "location": "Isfahan, Strait of Hormuz",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | A missile launch was conducted from Isfahan, Iran, a few moments ago. It's likely an anti-ship ballistic missile targeting the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

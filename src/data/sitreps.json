@@ -283655,6 +283655,36 @@
     "verified": false
   },
   {
+    "id": 1788539868159,
+    "type": "missile",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-09-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | A missile launch was conducted from Isfahan, Iran, a few moments ago. It's likely an anti-ship ballistic missile targeting the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788539801754,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | A missile launch was conducted from Isfahan, Iran, a few moments ago. It's likely an anti-ship ballistic missile targeting the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
