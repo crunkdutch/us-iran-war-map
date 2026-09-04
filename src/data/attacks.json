@@ -123087,6 +123087,38 @@
     "media": []
   },
   {
+    "id": 480164715,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Unknown Interception — Jordan: Enemy_MediaYedioth Ahronoth Hebrew newspaperInterceptions we...",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:Interceptions were observed from the Sea of Galilee [Lake Tiberias] in the skies over Jordan, amid reports of missile launches from Iran.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480128921,
     "type": "drone",
     "status": "confirmed",
