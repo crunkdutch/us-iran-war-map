@@ -283607,6 +283607,54 @@
     "verified": false
   },
   {
+    "id": 1788526588471,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "3 years ago today, I was sitting on my balcony in my home in Khiam watching and capturing the full moon on a serene calm beautiful night. Today, Khiam is occupied, calm nights in south Lebanon are a myth and my home...well I have no idea what happened to my home.I know one thing for sure though, my ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/aP_-2hiEnqMP-SvavUKaQBFEIa49QVkgfReFXyIKZB66xlzv1HbJA78DMezWRXiEMb5VYQS6ndE8ACFP831WhvgiHVGbc6WvG8aHYa_LdzsGC8MOwp6gwEPw2PTX6Rz-2ik852kz8Usbk1dTwDpfvwhjwG-jmX9iqqEGtVn4ZBWlD_kmLQLpBNg0ZrhUOsAavgipNafvt0mSUVlU8iHFa23VSjOeDEPqIWrq5qL4su0qs5y5qRb0bM-LDa0P_ZluSYyWNvghfn5dw26VB5kZCdxUhlGfritWguCLlJga1bdw_9hqa37yAbkAs7uweJFnqObnPOxmHDX6FkK5Kg2xsQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ce51n_JA6ZbVnV_08ccXl0hd_buqQPYlA7OxrIX_J7JRWDRpAiOvOHK5LN7nzq_ZqYHNVHOEdDw7wl0unYwRgK1WNQSYCVWqEdCxKKvhlDGQsIyZIqWSPkAjA814gAMjMkoA4rryn8pfZuViwDckKjTTCerMGHiPHyfVNcZ4eaa_XGay7bK_w1HczuJcm21gc8u9o-avyecHoXh_ZpuBzbHeMzQ7VzsM_4-blvh7ffIbuOrJFYpGmErbo-mLNKlqgNPGTdmwpUfSogHgsLSbokIXqXtIB-UbLbYTVQmW5nxYHxwQAm4zR_pA9yfz5yvpWOG1RcXrqLBzDTtxzimUjA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788526562094,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "3 years ago today, I was sitting on my balcony in my home in Khiam watching and capturing the full moon on a serene calm beautiful night. Today, Khiam is occupied, calm nights in south Lebanon are a myth and my home...well I have no idea what happened to my home.I know one thing for sure though, my ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/aP_-2hiEnqMP-SvavUKaQBFEIa49QVkgfReFXyIKZB66xlzv1HbJA78DMezWRXiEMb5VYQS6ndE8ACFP831WhvgiHVGbc6WvG8aHYa_LdzsGC8MOwp6gwEPw2PTX6Rz-2ik852kz8Usbk1dTwDpfvwhjwG-jmX9iqqEGtVn4ZBWlD_kmLQLpBNg0ZrhUOsAavgipNafvt0mSUVlU8iHFa23VSjOeDEPqIWrq5qL4su0qs5y5qRb0bM-LDa0P_ZluSYyWNvghfn5dw26VB5kZCdxUhlGfritWguCLlJga1bdw_9hqa37yAbkAs7uweJFnqObnPOxmHDX6FkK5Kg2xsQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ce51n_JA6ZbVnV_08ccXl0hd_buqQPYlA7OxrIX_J7JRWDRpAiOvOHK5LN7nzq_ZqYHNVHOEdDw7wl0unYwRgK1WNQSYCVWqEdCxKKvhlDGQsIyZIqWSPkAjA814gAMjMkoA4rryn8pfZuViwDckKjTTCerMGHiPHyfVNcZ4eaa_XGay7bK_w1HczuJcm21gc8u9o-avyecHoXh_ZpuBzbHeMzQ7VzsM_4-blvh7ffIbuOrJFYpGmErbo-mLNKlqgNPGTdmwpUfSogHgsLSbokIXqXtIB-UbLbYTVQmW5nxYHxwQAm4zR_pA9yfz5yvpWOG1RcXrqLBzDTtxzimUjA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -123023,6 +123023,38 @@
     ]
   },
   {
+    "id": 480138671,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Airstrike — Strait of Hormuz, Jordan, UAE: Islamic_RepublicSpokesperson Army Brigadier General AkramiNi...",
+    "location": "Strait of Hormuz, Jordan, UAE",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSpokesperson for the Army, Brigadier General Akrami-Nia:– The problems facing the U.S. army in the region and the problems of the American people stem from the mistakes of U.S. officials in attacking an independent and civilized country.– The appropriate solution for the United States is to accept the facts, pay the costs, and leave the region. This will make the region more secure and bring the American people closer to prosperity.– The Americans attempted to weaken the Iranian",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480128921,
     "type": "drone",
     "status": "confirmed",
