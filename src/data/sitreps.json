@@ -282912,6 +282912,36 @@
     "verified": false
   },
   {
+    "id": 1788482507281,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Baqaei: Iran's defensive strikes were merely against military targets📌 Tehran, IRNA – In a statement, the Spokesperson for the Ministry of Foreign Affairs of the Islamic Republic of Iran emphasized that—unlike the United States, which has made attacking civilian targets a standard pattern of its...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788482514901,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-09-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Baqaei: Iran's defensive strikes were merely against military targets📌 Tehran, IRNA – In a statement, the Spokesperson for the Ministry of Foreign Affairs of the Islamic Republic of Iran emphasized that—unlike the United States, which has made attacking civilian targets a standard pattern of its...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788440554678,
     "type": "airstrike",
     "location": "Yemen",
