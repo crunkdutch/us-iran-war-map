@@ -283373,6 +283373,60 @@
     "verified": false
   },
   {
+    "id": 1788504508538,
+    "type": "airstrike",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-09-03",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemeni forces seize strategic Mount Dubas overlooking Hays:Yemeni forces have taken control of Mount Dubas, while pro-Saudi forces have completely withdrawn from their positions on the outskirts of Al-Tuhaita and Al-Hays after those positions became surrounded. Mount Dubas i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788504474417,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-03",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemeni forces seize strategic Mount Dubas overlooking Hays:Yemeni forces have taken control of Mount Dubas, while pro-Saudi forces have completely withdrawn from their positions on the outskirts of Al-Tuhaita and Al-Hays after those positions became surrounded. Mount Dubas i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788504513679,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Lessons for Iran’s combat intelligence:The experience of the Israeli terror Army’s 595th Battalion offers an important lesson for Iran’s combat intelligence, not because of the number of reconnaissance systems or sensors it operates, but because of the speed with which it converts scattered bat...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/NiGOf2yGdhrKrcIA449H43Gw8AnpsBNYPq83OX5sm9Rby_ngt01b7oSaHTsp-YkzXBVuOMWHxMtpXhtePadM1Y9XwdBpgkdC_qzB1GrF9sHuoL18nRdCmyMdIK_aUt9KguM0SM2bdVjYOoGy6tLMwF1bL7GSej8YyaqhdSA_t4HZyBuWJjYNNQjElbjdcRUANZmrVhPLWayR6aIFdunHHsTv-qPhLIulKLnTrQYd3BU3CovTfbqhXNnuDsntnkItoW2QNZLBQvF1OjeaD4yC0WlrBoNiy1p74t5JNyrcCfKUHevO1rKXgio-4uVj9Pjsv90EZLkDM-07ldYccQcdHw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/g8kOsjqd5oyJtCgP3CTXkCaWeWg2eGksVm3oPc_0ZxELzur2f9JDeakidQkskXHEIxlygOFw6fUrf557lO-lb8eN5yUnaT_K4kiDFEs1BK6hbYJJDUML1AZs2Tj6gINGam0x2sdetdFQpocVhPUe8hOI23Z_TDqowTeso5gc39HjaWtwUS89KgIZ9R87VceSIc55b0wCBoUixlOHfuOf40vO1PAnc5gqhR_K6cHK3-o9O4iAr_dOuQdsvrvDpOKULw7YLRMwSuDJDrc1YQIp2h5ZKVQB1t4d0CWGdBF8P7BX0YDE1fd4IHturGVnbS8lrK1xQVWJcr6p41pfe-nR_g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1788491295766,
     "type": "drone",
     "location": "Erbil",
@@ -283489,6 +283543,21 @@
     "source": "Iranian Army (Artesh)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔔 | Updates | September 4, 2026🇾🇪 Yemen• Heavy battles are ongoing between the Yemeni Armed Forces and Saudi-backed militias on the Maqbanah, Al-Kudhah, and western coastal fronts in Taiz Governorate.• The Yemeni Armed Forces reportedly captured several new strategic areas in Taiz Governorate and...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788504571925,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Brief statement issued by Saraya Al-Quds:At 3:30 am today, Friday, September 4, 2026, a force from the agent militias, backed by the \"Israeli\" enemy's drones, advanced toward the Al-Qarara area, Al-Jameezah Street, north of Khan Younis, in an attempt to abduct one of our fighters.By the grace of Alm...",
     "media": [],
     "verified": false
   },
