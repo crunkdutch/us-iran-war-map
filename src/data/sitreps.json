@@ -283347,6 +283347,32 @@
     "verified": false
   },
   {
+    "id": 1788497854258,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Martyr Pakpour had prepared the Strait of Hormuz plan before the war:The head of Iran’s Plan and Budget Organization said the blockade of the Strait of Hormuz was part of Martyr Major General Mohammad Pakpour’s war plan. According to the statement, Martyr Pakpour had anticipated that the war ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/229a808ee1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/tp38bPvoMl3w3l4hYZeMGq1SB7UdiNuIeXNWk6vzG1JXjjw_fDWPfV2EIIbMgLW6qJ9xidZsFFNitECPh0ywQuMve7_sHZ6YdDFL5f6ypWLSzfVaX1BZoiEpfNu39QS5Si7XlLB2VNWEkNDQTdOkLLnt1JBVjyM9ctYmPAhJxQsNudjX-f8vmi1olpTanSB6dbZn1s-_01PY_O025XM_Nauk5Poic7seHwYMcjCOCMAUBAMSXNIyzh_gEMvc96RPBO3DpBIsBoFqxEfh1f1_0k0X0JSrr6s4n5FzN4AcK0IWYUNw4umua-ca998Op_bbm_Cj-XAH8LI_E1dsxGPbBA"
+      },
+      {
+        "url": "https://t.me/enemywatch/61538",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/tp38bPvoMl3w3l4hYZeMGq1SB7UdiNuIeXNWk6vzG1JXjjw_fDWPfV2EIIbMgLW6qJ9xidZsFFNitECPh0ywQuMve7_sHZ6YdDFL5f6ypWLSzfVaX1BZoiEpfNu39QS5Si7XlLB2VNWEkNDQTdOkLLnt1JBVjyM9ctYmPAhJxQsNudjX-f8vmi1olpTanSB6dbZn1s-_01PY_O025XM_Nauk5Poic7seHwYMcjCOCMAUBAMSXNIyzh_gEMvc96RPBO3DpBIsBoFqxEfh1f1_0k0X0JSrr6s4n5FzN4AcK0IWYUNw4umua-ca998Op_bbm_Cj-XAH8LI_E1dsxGPbBA"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1788491295766,
     "type": "drone",
     "location": "Erbil",
