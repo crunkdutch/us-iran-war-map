@@ -283295,6 +283295,58 @@
     "verified": false
   },
   {
+    "id": 1788495635085,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇱🇸🇾| IOF conducts military exercises along the Syrian border:The Israeli Occupation Forces (IOF) have released a video showing their troops conducting military exercises along the Syrian border.According to the IOF, its forces carried out an advanced exercise to enhance operational readiness an...",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/6064df40f7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/L_UR-HYRoXrWaZt9cZvyNJa6x1_HF625FBvC5BB4UjRN7cI-9FCZ9_xfXo6sWO5v9hb4hnKRQICDu_ivN4oehztRgq9NvILislwWy4PvBRhN62Z56EehHI5zuqD796tQX2bgzpXNK6tA6_TGXGXOEK_UuZz1J2d8bqGb3COLKDQxNynE6MLf5TQ1UpO2q48VM02DT-Yq8TLGU7PJnuU-RkixhipR2lbDYxzaUOJ5Hvoriptq6OXbKstVW_O9tRAknIOk6bjX9LPvz1vzYUNxD0KonoASXYR14stFDxC0CP-vjmHApuQpnFp_Tm9oqWfNpWhWx4Wa17b-HDU6bRheBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61537",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/L_UR-HYRoXrWaZt9cZvyNJa6x1_HF625FBvC5BB4UjRN7cI-9FCZ9_xfXo6sWO5v9hb4hnKRQICDu_ivN4oehztRgq9NvILislwWy4PvBRhN62Z56EehHI5zuqD796tQX2bgzpXNK6tA6_TGXGXOEK_UuZz1J2d8bqGb3COLKDQxNynE6MLf5TQ1UpO2q48VM02DT-Yq8TLGU7PJnuU-RkixhipR2lbDYxzaUOJ5Hvoriptq6OXbKstVW_O9tRAknIOk6bjX9LPvz1vzYUNxD0KonoASXYR14stFDxC0CP-vjmHApuQpnFp_Tm9oqWfNpWhWx4Wa17b-HDU6bRheBw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788495703272,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇱🇸🇾| IOF conducts military exercises along the Syrian border:The Israeli Occupation Forces (IOF) have released a video showing their troops conducting military exercises along the Syrian border.According to the IOF, its forces carried out an advanced exercise to enhance operational readiness an...",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/6064df40f7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/L_UR-HYRoXrWaZt9cZvyNJa6x1_HF625FBvC5BB4UjRN7cI-9FCZ9_xfXo6sWO5v9hb4hnKRQICDu_ivN4oehztRgq9NvILislwWy4PvBRhN62Z56EehHI5zuqD796tQX2bgzpXNK6tA6_TGXGXOEK_UuZz1J2d8bqGb3COLKDQxNynE6MLf5TQ1UpO2q48VM02DT-Yq8TLGU7PJnuU-RkixhipR2lbDYxzaUOJ5Hvoriptq6OXbKstVW_O9tRAknIOk6bjX9LPvz1vzYUNxD0KonoASXYR14stFDxC0CP-vjmHApuQpnFp_Tm9oqWfNpWhWx4Wa17b-HDU6bRheBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61537",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/L_UR-HYRoXrWaZt9cZvyNJa6x1_HF625FBvC5BB4UjRN7cI-9FCZ9_xfXo6sWO5v9hb4hnKRQICDu_ivN4oehztRgq9NvILislwWy4PvBRhN62Z56EehHI5zuqD796tQX2bgzpXNK6tA6_TGXGXOEK_UuZz1J2d8bqGb3COLKDQxNynE6MLf5TQ1UpO2q48VM02DT-Yq8TLGU7PJnuU-RkixhipR2lbDYxzaUOJ5Hvoriptq6OXbKstVW_O9tRAknIOk6bjX9LPvz1vzYUNxD0KonoASXYR14stFDxC0CP-vjmHApuQpnFp_Tm9oqWfNpWhWx4Wa17b-HDU6bRheBw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1788491295766,
     "type": "drone",
     "location": "Erbil",
