@@ -122948,6 +122948,70 @@
     "media": []
   },
   {
+    "id": 480132170,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Gaza City, Lebanon, Yemen: Updates Lebanon Israeli warplanes carried raids",
+    "location": "Gaza City, Lebanon, Yemen, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔| Updates:🇱🇧 Lebanon• Israeli warplanes carried out raids on the vicinity of Ali Al-Taher, Zawtar Al-Sharqiyah, Al-Mansouri, and Wadi Al-Saluqi.• Israeli artillery shelled Beit Leif, Houla, Barachit, Bani Hayyan, Wadi Al-Hujeir, Deir Siriane, Al-Qantara, Nabatieh Al-Fawqa, Halta Heights, and several other southern Lebanese towns.• Israeli forces carried out controlled explosions in Kfar Tebnit, Zawtar Al-Sharqiyah, Al-Qantara, Bani Hayyan, Al-Mansouri, and Houla.• Sound bombs were dropped ne",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480128921,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Erbil, Riyadh, Strait of Hormuz: Updates September 2026 Yemen Heavy battles",
+    "location": "Erbil, Riyadh, Strait of Hormuz, Syria, Yemen, Iraq, Israel, Gaza Strip",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Updates | September 4, 2026🇾🇪 Yemen• Heavy battles are ongoing between the Yemeni Armed Forces and Saudi-backed militias on the Maqbanah, Al-Kudhah, and western coastal fronts in Taiz Governorate.• The Yemeni Armed Forces reportedly captured several new strategic areas in Taiz Governorate and are advancing toward Al-Mukha Port.• Colonel Mufaddal Al-Humairi, commander of the Saudi-proxy Maqbanah front, reportedly acknowledged that multiple positions have fallen to Yemeni forces.• Mohammed ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
