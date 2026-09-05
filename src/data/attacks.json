@@ -123391,6 +123391,70 @@
     ]
   },
   {
+    "id": 480171236,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sirik, Strait of Hormuz, Syria: Updates Iran Street Revolution enters 188th",
+    "location": "Sirik, Strait of Hormuz, Syria, Yemen, Iraq",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Updates:🇮🇷 Iran• Street Revolution enters its 188th consecutive night across Iran, with gatherings continuing across multiple provinces following the Leader’s call.• IRGC Ground Force marks the anniversary of the Liberation of Jasoosan Heights, reaffirming border security as a red line.• Five cruise missiles launched from Sirik toward the Strait of Hormuz.• Iran warns South Korea that any deployment to the Strait of Hormuz alongside America will be considered participation in aggression a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480174498,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Gaza City, Lebanon, Qatar: Updates Lebanon Israeli airstrike targets Wadi",
+    "location": "Gaza City, Lebanon, Qatar, Oman, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 3
+    },
+    "description": "🔔| Updates:🇱🇧 Lebanon• Israeli airstrike targets Wadi Ain al-Tineh (Western Bekaa).• Hostile drones continue flying over Ain al-Tineh and Nabatieh.• Israeli attacks martyred 3 people and injure 23 across southern Lebanon and Western Bekaa, including women, children, and paramedics.• Continuous airstrikes, artillery shelling, explosions, and sweeping operations across Ali al-Taher, Nabatieh al-Fawqa, Al-Mansouri, Mayfadoun, Al-Ramadiyah, Al-Qantara, Wadi al-Hujeir, Barashit, Bani Hayyan, Al-Kh",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
