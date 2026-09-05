@@ -283457,6 +283457,36 @@
     "verified": false
   },
   {
+    "id": 1788588474766,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran to US public: Don’t become cannon fodder in a war you never chose📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has called on the American people to refuse to be recruited into the war against Iran and not become “cannon fodder” in a war they never chose, and that was instead...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788588477350,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran to US public: Don’t become cannon fodder in a war you never chose📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has called on the American people to refuse to be recruited into the war against Iran and not become “cannon fodder” in a war they never chose, and that was instead...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788491295766,
     "type": "drone",
     "location": "Erbil",
@@ -284007,6 +284037,66 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🚨 | Resistance fighters are under siege on Ali Al-Taher Hill as Israeli terrorists surround the position. Pray for the safety&#33;🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788588433949,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-09-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Fighting erupts on western Taiz fronts: Sana’a opens a new route toward Bab al-MandabSana’a forces have made military advances over the past several hours in a number of strategic areas overlooking the Bab al-Mandab Strait in western Taiz, following heavy clashes with Saudi-backed f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788588482418,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Fighting erupts on western Taiz fronts: Sana’a opens a new route toward Bab al-MandabSana’a forces have made military advances over the past several hours in a number of strategic areas overlooking the Bab al-Mandab Strait in western Taiz, following heavy clashes with Saudi-backed f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788588399610,
+    "type": "drone",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-09-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Fighting erupts on western Taiz fronts: Sana’a opens a new route toward Bab al-MandabSana’a forces have made military advances over the past several hours in a number of strategic areas overlooking the Bab al-Mandab Strait in western Taiz, following heavy clashes with Saudi-backed f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788588475366,
+    "type": "drone",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-09-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Fighting erupts on western Taiz fronts: Sana’a opens a new route toward Bab al-MandabSana’a forces have made military advances over the past several hours in a number of strategic areas overlooking the Bab al-Mandab Strait in western Taiz, following heavy clashes with Saudi-backed f...",
     "media": [],
     "verified": false
   },

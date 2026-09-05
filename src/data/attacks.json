@@ -123455,6 +123455,38 @@
     "media": []
   },
   {
+    "id": 480177761,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Aden, Riyadh, Bab al-Mandab: Fighting erupts western Taiz fronts Sanaa",
+    "location": "Aden, Riyadh, Bab al-Mandab, UAE",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Fighting erupts on western Taiz fronts: Sana’a opens a new route toward Bab al-MandabSana’a forces have made military advances over the past several hours in a number of strategic areas overlooking the Bab al-Mandab Strait in western Taiz, following heavy clashes with Saudi-backed factions on the strategic fronts of al-Kadha and Maqbana. The two fronts overlook the main supply routes in western Taiz province that the Saudi-backed factions use to reinforce their forces across the",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
