@@ -123806,6 +123806,70 @@
     ]
   },
   {
+    "id": 480210446,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Kharg Island: group tugboats operating near targeted Iranian",
+    "location": "Kharg Island",
+    "coordinates": [
+      29.2352,
+      50.309
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ | A group of tugboats operating near the targeted Iranian oil tanker was also struck by U.S. forces in the waters near Kharg Island.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480213720,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Aden, Yemen: Heavy battles intensify across Taiz Ansarallah",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Heavy battles intensify across Taiz as Ansarallah expands offensive:The Yemeni Armed Forces targeted the Heijah Al-Abd road, the main route linking Taiz and Aden, with a ballistic missile, as part of the ongoing offensive against Saudi-backed forces in southern Taiz. Heavy battles are continuing in the Al-Kadha front west of Taiz, with reports of the collapse of Saudi-backed militia positions and a number of fighters falling captive to the Yemeni Armed Forces. Ansarallah has als",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
