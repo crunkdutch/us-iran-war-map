@@ -284894,6 +284894,36 @@
     "verified": false
   },
   {
+    "id": 1788641540224,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz📌 Tehran, IRNA – The Yemeni armed forces launched several drones at positions held by Saudi-backed militias whole at the same time, an explosion was heard in the city of Taiz.The Yemeni armed forces targeted positions...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788641572171,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz📌 Tehran, IRNA – The Yemeni armed forces launched several drones at positions held by Saudi-backed militias whole at the same time, an explosion was heard in the city of Taiz.The Yemeni armed forces targeted positions...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

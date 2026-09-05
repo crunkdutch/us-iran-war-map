@@ -124030,6 +124030,38 @@
     "media": []
   },
   {
+    "id": 480233385,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Tehran, Yemen: Yemeni army launches drone attack Saudiaffiliated",
+    "location": "Tehran, Yemen",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz📌 Tehran, IRNA – The Yemeni armed forces launched several drones at positions held by Saudi-backed militias whole at the same time, an explosion was heard in the city of Taiz.The Yemeni armed forces targeted positions held by Saudi-backed militias by launching several drones at them.​In a separate development, the sound of an explosion was heard in the city of Taiz, in the west of the country. No information regar",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
