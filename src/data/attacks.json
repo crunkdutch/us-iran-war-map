@@ -123151,6 +123151,43 @@
     "media": []
   },
   {
+    "id": 480190823,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Gaza Strip: Freedom Flotilla Coalition declared fresh international",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Freedom Flotilla Coalition has declared a fresh international operation aimed at breaching the Gaza Strip blockade, noting that its vessels will make for the coastal territory in October, following port calls in multiple European cities.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O7ueFiH85Skq9Gybjw8E2p5ld1K9iZsImIdCCl4FS_PJKAbbVWQDFTbcRvdiEWfhwh21jk4gpuOEHOF0eGsXgOKpjnYaO8q-Q_Ch3FVxULfFGGjeMyt4xLW5NXczsalowBi2KwlPYJZNRHoPRchAgDUjhGAe8VpZuDS87UajPkMzTr1RG8mDmfV808gqesIcdkrRWhmDHvHPt68iR0fJmOItQFjg6C3lKxuU_YHFCtg_Gbu8J-e5USzPgvsA4Bf9N1xflKrNzMR5R7pFq0RM2v9BadMDJuK6w5NcjYh6GTZxN_x2EATDpStQHRW0gVAmW4z8hLJ7tdhrrVQ4E_o8AA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480128921,
     "type": "drone",
     "status": "confirmed",
@@ -123546,6 +123583,38 @@
       "other": 0
     },
     "description": "🏴‍☠️❌🇮🇷 | U.S. strike on Iranian oil tanker near Kharg Island confirmed:A small Iranian oil tanker near Kharg Island in the Persian Gulf has been targeted in a confirmed American strike. The vessel has been identified as Sanchi, and reports indicate that up to four projectiles struck the tanker during the attack. The strike follows explosions reported near Kharg Island earlier in the day, marking another escalation in the ongoing confrontation in the Persian Gulf.🔹@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480187556,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Strait of Hormuz, Israel: senior Iranian political security official told",
+    "location": "Tehran, Strait of Hormuz, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🇰🇷 | A senior Iranian political and security official told Al Mayadeen that South Korea should not sacrifice its interests and reputation for aggressive American policies. Tehran warned Seoul that any involvement against Iran in the Strait of Hormuz would be considered military participation in the aggression. The official said Iran hopes South Korea will not sacrifice its interests and reputation for American policies that undermine security and stability, adding that Seoul understands",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
