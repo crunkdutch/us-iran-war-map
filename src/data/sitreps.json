@@ -284864,6 +284864,36 @@
     "verified": false
   },
   {
+    "id": 1788630485658,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli attacks continued across southern Lebanon with artillery shelling targeting Douhat Kafr Rumman, Wadi al-Saluqi, and Wadi al-Hujeir, while Israeli forces also carried out heavy machine-gun fire toward Hadatha and Zawtar al-Sharqiyah. Israeli warplanes launched airstrikes on the outskir...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788630493289,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Israeli attacks continued across southern Lebanon with artillery shelling targeting Douhat Kafr Rumman, Wadi al-Saluqi, and Wadi al-Hujeir, while Israeli forces also carried out heavy machine-gun fire toward Hadatha and Zawtar al-Sharqiyah. Israeli warplanes launched airstrikes on the outskir...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -123934,6 +123934,70 @@
     "media": []
   },
   {
+    "id": 480223548,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Israel: Israeli attacks continued across southern Lebanon",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Israeli attacks continued across southern Lebanon with artillery shelling targeting Douhat Kafr Rumman, Wadi al-Saluqi, and Wadi al-Hujeir, while Israeli forces also carried out heavy machine-gun fire toward Hadatha and Zawtar al-Sharqiyah. Israeli warplanes launched airstrikes on the outskirts of Nabatieh al-Fawqa and the Dabsha area, raided the town of Mansouri, and later struck Wadi Zibqin.Israeli forces also carried out a series of demolition operations in Zawtar al-Sharqiyah, Deir Si",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480226826,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Jask, Bushehr, Kharg Island: America attacks three Iranian tankers Persian",
+    "location": "Jask, Bushehr, Kharg Island, Hormozgan, Persian Gulf, Gulf of Oman, Oman",
+    "coordinates": [
+      25.645,
+      57.7744
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ | America attacks three Iranian oil tankers in the Persian Gulf and Gulf of Oman:Iranian state television has confirmed that the American military attacked three Iranian oil tankers in the Persian Gulf and the Gulf of Oman on Saturday morning. A state television correspondent on Kharg Island in Bushehr Province reported that an Iranian oil tanker near the island was struck in the attack. The strike caused a fire, but the tanker's cooling system extinguished the flames immediately. No casua",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
