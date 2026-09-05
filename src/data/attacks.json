@@ -123188,6 +123188,38 @@
     ]
   },
   {
+    "id": 480200630,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Lebanon, Israel: Statement issued Hezbollah ongoing Israeli aggression",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by Hezbollah on the ongoing \"Israeli\" aggression against Lebanon:The \"Israeli\" enemy continues to escalate its aggression and crimes against Lebanon, through killing, shelling, destruction, and the systematic demolition and blowing up of homes and villages, erasing their landmarks and destroying all means of life therein, without deterrence and under flimsy pretexts. Yesterday, its terrorist aggression resulted in four martyrs and dozens of wounded, amid complete international s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480128921,
     "type": "drone",
     "status": "confirmed",
@@ -123655,6 +123687,49 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 480197360,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: Statement issued Hezbollah regarding Israels ongoing",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Statement issued by Hezbollah regarding Israel’s ongoing aggression against Lebanon:The Israeli enemy continues to escalate its aggression and criminal acts against Lebanon killing, bombing, systematic destruction of homes and villages, erasing their landmarks, and obliterating all means of livelihood. It acts without any restraint and under flimsy pretexts. Yesterday, its terrorist aggression resulted in four martyrs and dozens of wounded. This occurs amid total international silence, bl",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/2d8f9803fe.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/uRp0yD9akPQDBDemoPLQQmRC70xQGJ2NOO9UVGK7YTkbNd6xBS583ppWGFxR4bLqFCD-rCKU8QPvSZgPrBoqJvYNu_MHyMOECc2YlVPz50A8-76cCSsWTh3adsSNwlD8nUpZBxwBgQiwL1dJYD16_wY0aZB4VBPrF22p-A8VfwHFkgPKLSPCQhNRXMVe5WIItGoSyJWPnqYHI6Gh1jkDWVuYACVVlXO-UNOMgQwVWNazf6xTiB_T2jX9L_NiyEUAOS0d6HK2s2eRyqFwmpUEpWjxeVCGib6LDFB4gKeaewP9FC9Cl1cG0lCpAW_Akon_pmNY4NpbQpLF2ZGBPtZx2w"
+      },
+      {
+        "url": "https://t.me/enemywatch/61581",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/uRp0yD9akPQDBDemoPLQQmRC70xQGJ2NOO9UVGK7YTkbNd6xBS583ppWGFxR4bLqFCD-rCKU8QPvSZgPrBoqJvYNu_MHyMOECc2YlVPz50A8-76cCSsWTh3adsSNwlD8nUpZBxwBgQiwL1dJYD16_wY0aZB4VBPrF22p-A8VfwHFkgPKLSPCQhNRXMVe5WIItGoSyJWPnqYHI6Gh1jkDWVuYACVVlXO-UNOMgQwVWNazf6xTiB_T2jX9L_NiyEUAOS0d6HK2s2eRyqFwmpUEpWjxeVCGib6LDFB4gKeaewP9FC9Cl1cG0lCpAW_Akon_pmNY4NpbQpLF2ZGBPtZx2w"
+      }
+    ]
   },
   {
     "id": 477331196,
