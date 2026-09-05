@@ -123689,6 +123689,80 @@
     "media": []
   },
   {
+    "id": 480203901,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, West Bank: Shehab News Agency reports that Palestinian",
+    "location": "Israel, West Bank",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Shehab News Agency reports that Palestinian expert Abdul Nasser Al-Maki noted more than 2,030 Israeli attacks in the West Bank over the past month, asserting that the occupiers are using escalating settler violence to drive residents from the area.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/J2KZ7Q8HbwX1yH7kdrxR91p-pkncre2fHqNSqJEiG6f5-qnyAa8TEvdDj1nKG12QNNE8DddRRwSgCTYP-gDj6vljCe-Sk8sX9AQjqz6mY05vu5z4Ou_EvJOy8YcYVnXJVxdjv77toOYMK3_QtYf7rJ_KvN60gCV9p7vB8hlzQNYgtgkO2mPIiqUtLIOPIDEZd_oH57adrTwBTLi25UBjKtG-zr0pCHvFuIQAhUEvlnyq5cboynOeN6aJNKAPQpboeSS7GOGn4C03FXJfbFpQsQSOWgcy2jiInji3oRCwyf4sv8BdSIaLh9RXNrRQMeS6BW6KdNf5LmVm6duFtA8Dig.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480207173,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Hormozgan: Officials have released exact bomb specs",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Officials have released the exact bomb specs from the US attack on the Kuhestak wedding. The head of Hormozgan's Judiciary reports that the device carries ID code 96214, which U.S. supply-chain data confirms is unique to Raytheon.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/aCn98dl0MyFel6pyTIC7Kg2iqZBJyykh5o2cDVtPk6WMEzEZwKm0MC41-BlmYRGqN8nHr5Nu63-Txz_bSnUFOhKlLW8SHCinqC6QmzajpZYBbXQIfAGESjVgRCi14LfoWRyb6J2MPmieNc81pGlDl0jxzywzqxTruF0AvAMOeS94xWFcqKOA6yfG3_KkkVip4UbiZiqvQsd4GJwWbqy-_c5Ipzc2XBJOkCNSv9GPp7SPY05QdKoLOoA5TsX0nRLMpV0BZYiV_O8j7vc2qcsAm1lIbTPlilGxJTK7PN6F3mpeeevoJgUhL8pNHXooKR63j3rO7FO4qiuAKMQVK11egA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480197360,
     "type": "airstrike",
     "status": "confirmed",
