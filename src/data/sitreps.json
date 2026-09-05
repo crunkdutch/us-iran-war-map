@@ -284819,6 +284819,51 @@
     "verified": false
   },
   {
+    "id": 1788628230172,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran has launched a ballistic missile toward target in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788628282271,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Gaza death toll rises to 73,651, health ministry says📌 The death toll from Israeli attacks on the Gaza Strip has risen to 73,651, with 174,575 people wounded, Gaza’s health ministry said on Saturday.The ministry said that 1,344 people had been killed and 4,464 wounded since a ceasefire came into...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788628318812,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Gaza death toll rises to 73,651, health ministry says📌 The death toll from Israeli attacks on the Gaza Strip has risen to 73,651, with 174,575 people wounded, Gaza’s health ministry said on Saturday.The ministry said that 1,344 people had been killed and 4,464 wounded since a ceasefire came into...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
