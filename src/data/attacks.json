@@ -123625,6 +123625,38 @@
     "media": []
   },
   {
+    "id": 480194091,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Tehran, Israel: IRGC says terrorist team disbanded southeastern",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 IRGC says terrorist team disbanded in southeastern Iran📌 Tehran, IRNA – The Quds Headquarters of the Islamic Revolution Guards Corps (IRGC) Ground Forces has announced the destruction of a terrorist team in Iran’s southeastern Sistan and Baluchestan Province.According to a statement released by the Quds Headquarters and carried by the IRGC’s news outlet on Saturday, the terrorist team was identified and targeted in a joint operation involving the General Directorate of Intelligence, the IRGC",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
