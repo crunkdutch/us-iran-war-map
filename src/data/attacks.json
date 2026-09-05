@@ -123870,6 +123870,38 @@
     "media": []
   },
   {
+    "id": 480216995,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Isfahan, Israel: IRGC denies reports attack nuclear facilities",
+    "location": "Isfahan, Israel",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 IRGC denies reports of attack on nuclear facilities in Isfahan📌 Isfahan, IRNA – The Islamic Revolution Guards Corps (IRGC) in Isfahan province has denied reports of US-Israeli attacks against nuclear facilities in the central province.The IRGC’s public relations office said in a statement on Saturday that reports circulating on social media about an attack on nuclear centers and facilities in Isfahan were “completely false” and that no such attack had taken place.​The statement said the repo",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
