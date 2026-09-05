@@ -123354,6 +123354,43 @@
     "media": []
   },
   {
+    "id": 480167975,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Breaking Ansarallah frees strategic hills Taiz",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Breaking — Ansarallah frees strategic hills in Taiz and expands control across the southern front:Ansarallah forces have freed the strategic Jabal al-Sheikh Saeed in Jabal Habashi District, Taiz Governorate, and are now controlling the entire Qahban area, including all of its villages, military positions, and the surrounding mountain range. The newly freed high ground overlooks Al-Tawir and runs parallel to the Al-Kadha front, while bordering Al-Waziyah District, giving Ansarall",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/tNX7jPWYUAI6e11207tetq8R-Xxge0F9FmYnd_sfNPoS8mUUw6HB_fgB3Mtt0__8V9WghDlKQkmHS8w_ytIYjDpoenhLWmxDxKhD12oAtN0Lep-EN88Q6IwSWg60Sz6clfMwLj5q3VKtZzgaSBrrnWnvqqMIYlkszqGoTDGbqylbsZQDemjK73mz5cGQZhUEDn60-by9VwlHHAUKy86nlDo7SoKd5H9mhsBZFvJGNLPHE1AO6p0zrpalfVWRjZmfJdDWcXBuSJvn2nxlwu2kW-PfXHJBxT9ZI6vX8NJRDS7j4uVAdWmPoUm8qRliRJ7fVlvfOU6r55EBUy1tFB5hHw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

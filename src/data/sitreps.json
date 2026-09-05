@@ -283835,6 +283835,62 @@
     "verified": false
   },
   {
+    "id": 1788577382539,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Breaking — Ansarallah frees strategic hills in Taiz and expands control across the southern front:Ansarallah forces have freed the strategic Jabal al-Sheikh Saeed in Jabal Habashi District, Taiz Governorate, and are now controlling the entire Qahban area, including all of its villag...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/tNX7jPWYUAI6e11207tetq8R-Xxge0F9FmYnd_sfNPoS8mUUw6HB_fgB3Mtt0__8V9WghDlKQkmHS8w_ytIYjDpoenhLWmxDxKhD12oAtN0Lep-EN88Q6IwSWg60Sz6clfMwLj5q3VKtZzgaSBrrnWnvqqMIYlkszqGoTDGbqylbsZQDemjK73mz5cGQZhUEDn60-by9VwlHHAUKy86nlDo7SoKd5H9mhsBZFvJGNLPHE1AO6p0zrpalfVWRjZmfJdDWcXBuSJvn2nxlwu2kW-PfXHJBxT9ZI6vX8NJRDS7j4uVAdWmPoUm8qRliRJ7fVlvfOU6r55EBUy1tFB5hHw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788577364811,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Street Revolution enters its 188th night across Iran:Following the command of the Leader of the Islamic Revolution Imam Mujtaba Khamenei, the Street Revolution has entered its 188th consecutive night across Iran. Gatherings have expanded and taken place across provinces throughout the country...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/55a880f0c6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/AhHbOD8trS7KOw-U6xqLHeGcwcQqst6j9dW1DxKvJYSvuEWBCnL3-Kkz30Cv537FqZuOK-YppuSP_esZu0Ve-Halt19maCnhWx27tSlzziW7evGDUcZi7eFJx7ty7b8xt_n0iDzLsA20phVAHqmwl6McJGi6dRCHLc-Uk2UoHL4TP9CYLCqi7gax-ycBEKg8nL1vVnNHLMa9YmuHwfPZcOPjHX9jfJ1knbbTfbT3LRdd0D7eSMlmTyX4xrIkdLBjZ8dTs1ybLz4B-1oexLBxZTN3PFCQCGh3W0RWeBvJ8XE_ih54SR12u4w1YjBkRIXJikewDTowmRSSlDB5wSR58A"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/1fcdd96097.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/AhHbOD8trS7KOw-U6xqLHeGcwcQqst6j9dW1DxKvJYSvuEWBCnL3-Kkz30Cv537FqZuOK-YppuSP_esZu0Ve-Halt19maCnhWx27tSlzziW7evGDUcZi7eFJx7ty7b8xt_n0iDzLsA20phVAHqmwl6McJGi6dRCHLc-Uk2UoHL4TP9CYLCqi7gax-ycBEKg8nL1vVnNHLMa9YmuHwfPZcOPjHX9jfJ1knbbTfbT3LRdd0D7eSMlmTyX4xrIkdLBjZ8dTs1ybLz4B-1oexLBxZTN3PFCQCGh3W0RWeBvJ8XE_ih54SR12u4w1YjBkRIXJikewDTowmRSSlDB5wSR58A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61567?single",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/AhHbOD8trS7KOw-U6xqLHeGcwcQqst6j9dW1DxKvJYSvuEWBCnL3-Kkz30Cv537FqZuOK-YppuSP_esZu0Ve-Halt19maCnhWx27tSlzziW7evGDUcZi7eFJx7ty7b8xt_n0iDzLsA20phVAHqmwl6McJGi6dRCHLc-Uk2UoHL4TP9CYLCqi7gax-ycBEKg8nL1vVnNHLMa9YmuHwfPZcOPjHX9jfJ1knbbTfbT3LRdd0D7eSMlmTyX4xrIkdLBjZ8dTs1ybLz4B-1oexLBxZTN3PFCQCGh3W0RWeBvJ8XE_ih54SR12u4w1YjBkRIXJikewDTowmRSSlDB5wSR58A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61568?single",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/b5xyDaLx1NVylOUEwPEODCfLI20X-jzwqzVPwX-kVbO5JDMlAJSsgALHnII7DiUDWhrwsl64a3FluJoFSGL6DVMNO8hmJeJ875xVs7aG9xJwTNXN3OUw7kteDbgUKdm1xh7waaUtwCZkkVaJMBOBlIfzoF8EZCoRvzWwiW311bIxQfXwx-_n2mx6gEeC6FvGTcJ1-2EBc9IzUvXE1rBAKXczZc4pfFF3MKnxQkN0lEWKlZ5Yjsjnd3FlsMcj-xo2rcrfoIcdyeX-bZuv2xbYXZi2qZPRPA4yInYO4kmAEqfhlBMDjWgw6shDTH1jdhSKtpugpAGvksg95ycIDMFvTw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
