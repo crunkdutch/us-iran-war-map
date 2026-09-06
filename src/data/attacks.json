@@ -124569,6 +124569,87 @@
     ]
   },
   {
+    "id": 480282705,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces target meeting Saudibacked",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces target meeting of Saudi-backed commanders with ballistic missile:The Yemeni Armed Forces announced that they carried out a precise missile strike targeting a meeting of several Saudi-backed mobilization leaders using a locally manufactured ballistic missile. According to the statement, the strike directly targeted the gathering of commanders as military operations continue to intensify across the Taiz front.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61621",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Kt9T6zblaMdTspBGONaHHM2nKZY--jicJ8VIA5dozOHQ-Aw4Q3fROnbOeftzDkhvCVBgQJimyfCMmpyWFW0XZSWj6X7y-alQDtOAiauF4Q6WyfqZqYPQImoVxRU-eCapwbMo1nFVI9jk2ksXDFakIfKOoo7jWukqql4T2CtfSfRKuFqHCsxlM6zCEZe3RoOxa074v0pFnAtsTueTBUNZpQb0XSJS6LrTZMERcc-BCzeLUw7bRe77m0AVtsENcfxgtvAhudj0UUnhnG5B8LckW52EDfWSB8BIqdg5Ca0BK6MXK5wsiaYDxwqiaq9GJ5wUnzP_Wp-IpY8rEEgpeBINfg"
+      }
+    ]
+  },
+  {
+    "id": 480286001,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Israeli military demolished hospital Lebanon According",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Israeli military has demolished a hospital in Lebanon. According to a statement from Lebanon's Ministry of Health, Ghandour Hospital in Al-Nabatiyah Al-Fawqa was entirely wiped out in today's Israeli airstrikes.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f0afeb30d8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qtdT5FaG2fwYUldrenoQo4cK3z3BrVH0mhTWrozg2SuDn0rg_O5_F-fZfswLqFH_sL-rj75-qL8ahPZfgrXT1GqNJ8CkrvIY8zNaW_2O-lMuTNvL12oEr7Gz83f2EH-0IIbEsK7tD-0oLAyiTL6x3T2iW9tH7m3FkOLiLmADG3gVZPzlWC3pjUa_fN_SppZCPMx_Sl94_3JW1_bni-TrfjLLMATml1nlrHu0SNx_H9g9PYc5DoPfACnXfAGHTqVVGwesR5hPLbIJFEVykXyB34T9-S15S2xL0kj8QbsJ7C62n-8hsUNefbVRnmtdXIiKsa-JcILTGXtEMWcBApLVsQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/38963",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qtdT5FaG2fwYUldrenoQo4cK3z3BrVH0mhTWrozg2SuDn0rg_O5_F-fZfswLqFH_sL-rj75-qL8ahPZfgrXT1GqNJ8CkrvIY8zNaW_2O-lMuTNvL12oEr7Gz83f2EH-0IIbEsK7tD-0oLAyiTL6x3T2iW9tH7m3FkOLiLmADG3gVZPzlWC3pjUa_fN_SppZCPMx_Sl94_3JW1_bni-TrfjLLMATml1nlrHu0SNx_H9g9PYc5DoPfACnXfAGHTqVVGwesR5hPLbIJFEVykXyB34T9-S15S2xL0kj8QbsJ7C62n-8hsUNefbVRnmtdXIiKsa-JcILTGXtEMWcBApLVsQ"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
