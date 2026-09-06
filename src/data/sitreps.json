@@ -285321,6 +285321,92 @@
     "verified": false
   },
   {
+    "id": 1788685758433,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-05",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Breaking: Israeli occupation issues warning to residents of Arabsalim before airstrike:The Israeli occupation has issued an urgent warning to Lebanese civilians, specifically residents of Arabsalim in southern Lebanon, after accusing Hezbollah of launching two drones from southern Lebanon las...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788685716910,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-05",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Breaking: Israeli occupation issues warning to residents of Arabsalim before airstrike:The Israeli occupation has issued an urgent warning to Lebanese civilians, specifically residents of Arabsalim in southern Lebanon, after accusing Hezbollah of launching two drones from southern Lebanon las...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788685762859,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "40th day memorial service for late Akbar Abdi held in IranA memorial marking the 40th day since the passing of the late Iranian actor Akbar Abdi was held at Tehran’s Jam Center in Niavaran, attended by his family members and colleagues on September 5, 2026.https://en.irna.ir/photo/86256165/📲 @Irna_...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Udw7aRTSPPeFwiT9tJwkpjZ45HBVJpmhW8R3nvUGNJQZeh4YD83ATTJtprx-TwRvnEQMgdUkR58uybAfOOkzOspfAvo0MdxGpE19IsCxcUjjbrGV4YKvFx30PT67lMCcPq6Yp1PzB8M4v-ciJ-zOr7qCRGsF5ggINxH5qteb7TMecISNoEj36GivU0pBHzDyOOdxSmGG-5moKa52x6ZAkvA0KbsaQ2Kg3qDMu3PvHJ92PIYg0oY3U4lT2K-awfALeqQV7Y5XMXlmD1OSuPYh9Yu0po25MaKphsrMuyuiG-0-Qx2S36ifxCgHnqeSxWZJzQEsnd1lo6oROkpMGnUF7A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qIWeGLoD-1cqg0MbsSTB_X9nk2J9QKaL1VdRKxFERalvJyQW7ROm7EQLjNQGoTKkUwoBOsdO-3SRWq6c77cTcVnakYOS1l_x8a2uWHJv_pLp-J7_4HZ8xUoCy8kILRobyrmtjQ9VawBE-iEuLgO5-WVnJNDMV0EuGfXHiv6TdW9OQGhQMFL2xMHbeZyaTNvgmae3vkEIBCtsMUDZyEbIzuIFieTu4FFPt0fc2tAQMqTEEfivez33ONrqyjJ4cTUbE3ukbQZp-wPUl8KIFw1dH2ludXpA4kF3BliqrTpCGdZToe_q4EveX1t7InzuNDUs0AzhnSQ0oNfdw4vpB4Ixlw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/T-fFR-ygMDMlbsJF-p4BcqV6Wh1jR0eRxUSE_m9m9UZhGLtMQjYbd8NdgFMxu7T2tP531RkMC7DcdJ5C6VlOqKsnSEp0Q6B9q58wLAfbo4KQHc8zEutYg6NfpWmTghLTMnEkrFXCeVByZFr-pu0sKo17CchyJNS0lr2ZjV3PZJYiksnh9ODV1NvmBnMkJHRAIuex4MZbzkFk1hK-hxy9ookFs55RkuLtSN41dLdYMRHImkS3p1DKvbT6IfbllRmnDaTaXyUXj1phsBRfrloGYs2dKkNfudHao9jZ_IMHkgKb7c2VRWjAqvVao97__GXM9xCCl3eaneXnvy7KjmbRfA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hb9SlfEmkq7my-d268k1tH6Smjad4G-JkIJQtJrxaSqE0uyKlOuZ4uEn8HKBnxHuT5kHjECLfw2LMUAgvsoPi0l80xM7BWiZxM-Ez2eO9uFpChL6EeVlxTlHNWe6uPOnD5wquB2YgVk4vv5UoibHJckvYAGYZHJGxoM9y9AXRm2Yo-VtJ6Ew66am8z6if7nw3cAZD64K1yn2-1NKZ-3g-D1eR9AOmJq5Ov0thUeayNxIcTdBmqE0cfr3peycSDORl0IjgUFUUfuVjETGzx-FNkszC9oH8kgAd-aTuv32lGqLtl6v3DXWzXtr_1bnn4IJq05p-Oxzy4AB5hXJQVITDw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/e_dS3ecKMGAMSKHkBLvJ4jDDfWzsmMrMcG-eu6dX4y27aTU-BdopBteqA4nzCIfWr8NLzJG_E-SruVfVA2I1vHDqsJHI3kVJIDIN1qXoweyjBzUB05Aydi6xEXI0_KaX5x6_1JfqYTlzDDDHdOZzp5YiwgFDepSLFWIS-iw-kpdtDxq-kIr3-K9TAnkPAqWdVT_ep5R4AxQxKt0TEJR9Zu1KopZGMI42xTQZNkdF3ZJ20QJNMuk9c11EsppY09ZHzzh3QA-cPdTIEmG7je2zg-tkUPsrlOv-w6ZIHxWcXmNg06bjmwIuQ1-LPaFGED33Gn7eFO5bQZ02_dr1Ei6iVw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WqReTkhSHy8IX0nHFdtYXjXQnCF2dL6CUnxZLYtOqKbAXzk4XbjwTfmuX951PQni9AaU-fV7ugXy89VGnXWZnT33ZGa99r3Y2D3O6vUFwoLcTCm27btXPQmynFCAIU3PJbSZICC5_kidTD07E1bt6IUoN3MjwChRjGoLcXWmTgtvdNLIsYTr7wTRuzoXBiyUn8v_99YNWO7VosWKUDXwZCZYsR8rURBgoziUjuHTmPryMPpSA_vk1aCULTbAqaacvxyrw7Lx4UWGjQ51IZdPT5p8p8wbW1xGVt_9VMkaFpmFi3xnI-Df1NIfyJgru3L8oX-rRPhmbTiPKAFwCYy9_w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/F9S7V3sMobLP4f6RCIJb3kk-1j2EK4SFsA9-IWjUp_cD8_OLXBcXdEFWVSFdAfnvq6Kz4xS0PQFJ3f0bhZP1dY8U2W6cJ4esiPnFE8GsCJGYGiArNZGoJ_Sk1lFuuKD-Qd--rrBVmrxF8GnhsXE5HvxhfGiQJIu8z_rngUnqG50Lnwt9eoOZ0kCakpmcedJOLATs2gGbpcsSD0tqFQSNYQWxUviU46Ky-34cp_3MEhLfJN5ZwFmmr4N02OxfyE4gsYEhSTnTIouoRdhZF92wmzlqp4JvY4uJdBnzP5DtZ82goVi3aSS4JqNFF4Kuue-EFT-HbGJlFqT7q_Jyf76-Wg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jN0hjBZtCdvXyVe8yc3cE0jEUFOAbLr2RzROtJGc_0iL40FWUi7io1BT_coFmbXAUzMxcKF2E1cx7uKdQ6u9OLhMjggFXyrrvhDaujxoe3f0weuL5m7euHty2Y6uKRVi3DE1Mch7hVsjafdzJtDGppArTNyhc1uX1FonVLqm86TU98uvBt4q77nxsmAwQf_X38-QJMYpg7LWTwP1--u107Y88Whw_sqlyUGdejtgpafZ8hY_J8mnruC52xo273vu1OTtGZ_P983zJo_lgiLJWogb-HAi11HO5JdsWmOE7P_fnrQPRPdbQHn2hbU7ZRl3OVJMBrYyVwGN8yTFVObp7Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JeCnIE4JvHncFO5MfGxOY8rZSgbPOqDN0ENRXK4RJl9NVDfieyTi5MkrJyTBQn4QO9TPymGMd0tELOcG7vv0Zv-YhOUzGfiqy59oStZsy6lbUeDmVyPensudPFsCrLt4tuWox0treZSGw8y4DgsdRy9J-c_k_YP0EMfp8nNlalUPDuXQ-FUqwHm6TUJg5-mL9fYTggXyHMX-WsLej7W1d3gJS5KIkw7o9be1KOO5URascOWQydbUIT-6oBS9f1EaG_8hRMC2FgJLF-xvKj1Km4FfUS3m3qovOE1izH5vtvT452ECoMINXyOe0Wz5aguy_jJ5UYSMNcMSfuYQBNgUbw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/FVPxoA5h2M240HmWyGuP8oo_JU3-uqa3uByOSdhoxduznS84XvDhvz8QqRAl3p8t27gtn7tEQfWLHi8wc5Oa49FD4rMwbGH_GdVKND_UAeRap9NXZl2bn37ozJB-NtHlQfBgm4zqxQz3eWbRTJ9HAf8kM8TnwRBmCP0IQOyHWWFL0z_sQ42GcyNg19ztYndE2G74_R-U70ocbeYjZS6eVwcmZrTWzfJypYQZPDuEA5O7H2yMBW-XSX2kEcwT1zFXlKtqaq2nJmupgYRfHUnoUbq6EO5F2tqyAL9FFsa5XhXCp3QpaMUVgpn1cUTugvGFYzRxfrTVr6tq1_ybKmEzLg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1788656983259,
     "type": "missile",
     "location": "Hodeidah",
