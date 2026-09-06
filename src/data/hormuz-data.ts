@@ -45,7 +45,8 @@ const data: HormuzEntry[] = [
   { "date": "2026-07-21", "daily": 9, "label": "Continued low", "note": "Iran strikes Amazon AWS Bahrain" },
   { "date": "2026-07-22", "daily": 8, "label": "Infrastructure war phase", "note": "Bridge-for-ship formula declared" },
   { "date": "2026-07-23", "daily": 7, "label": "12 ships prevented", "note": "CENTCOM interdiction ops" },
-  { "date": "2026-07-24", "daily": 6, "label": "LNG tanker disabled", "note": "US disables Iranian tanker in Sea of Oman" }
+  { "date": "2026-07-24", "daily": 6, "label": "LNG tanker disabled", "note": "US disables Iranian tanker in Sea of Oman" },
+  { "date": "2026-09-06", "daily": 5, "label": "Single digits", "note": "🔔 | Updates | September 6, 2026🇮🇷 IranThe IRGC Ground Force announced that it eliminated two terrorists in Sistan and" }
 ]
 
 export default data
