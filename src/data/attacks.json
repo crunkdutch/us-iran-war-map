@@ -124481,6 +124481,49 @@
     "media": []
   },
   {
+    "id": 480272823,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Funeral services have been held Gaza",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 70
+    },
+    "description": "Funeral services have been held in Gaza for 100 Palestinian victims, including 70 children, whose bodies were pulled from the wreckage of Israeli airstrikes.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/72b020ce15.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/u8lQRWEXGHQZ1ELJGZFHSzCIQtncHNdKkWrwdFRWF96BoC5pv0jQhDWAmITTGX7h-eazLnSBiOKclUzu5CuyfQhXjsJvtUdoHGmobKo_dcbbDmxX4Ym6C1sxqo4o76uRfH8Vl4SQ0RknG3mb8Rm0R4imd1PBgpwPgiE8GpltCFzfDXNcgq0i0d8JTfBjnD2XgmSWJOknq8qlknhztiCso3mRFn9cHY5WoURlNfNmyxQwmDpTiS2cJddRx_fYQnwwSlCh3-r9YQkK1eMe7vnKpil6j12x1Hk4pRc1OCsd0_YKTZKycA4jrm7f1rVUbPDGUkZdDT8vmfxvaB7P1zkHmQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/38956",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/u8lQRWEXGHQZ1ELJGZFHSzCIQtncHNdKkWrwdFRWF96BoC5pv0jQhDWAmITTGX7h-eazLnSBiOKclUzu5CuyfQhXjsJvtUdoHGmobKo_dcbbDmxX4Ym6C1sxqo4o76uRfH8Vl4SQ0RknG3mb8Rm0R4imd1PBgpwPgiE8GpltCFzfDXNcgq0i0d8JTfBjnD2XgmSWJOknq8qlknhztiCso3mRFn9cHY5WoURlNfNmyxQwmDpTiS2cJddRx_fYQnwwSlCh3-r9YQkK1eMe7vnKpil6j12x1Hk4pRc1OCsd0_YKTZKycA4jrm7f1rVUbPDGUkZdDT8vmfxvaB7P1zkHmQ"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
@@ -124516,5 +124559,37 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 480276116,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-12-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iran Expo 2026 bring together 1500",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran Expo 2026 to bring together 1,500 foreign traders, business representatives📌 Tehran, IRNA – More than 1,500 foreign traders are expected to attend the eighth Iran Expo, as organizers seek to expand commercial ties and connect Iranian exporters with target markets.Ali Tolouei, executive director of the exhibition, said on Saturday that the event will be held from November 27 to December 1, 2026, across all halls of the Tehran International Exhibition Center.​He said exporters across sect",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   }
 ]
