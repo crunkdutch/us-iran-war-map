@@ -285850,6 +285850,36 @@
     "verified": false
   },
   {
+    "id": 1788716654720,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧/🏴| Multiple Israeli Airstrikes Hit Nabatieh:A series of Israeli airstrikes and drone attacks targeted southern Lebanon, heavily striking Nabatieh al-Tahta, Nabatieh al-Fawqa (towards Hrush Ali al-Taher), and the city of Nabatieh, including Mahmoud Faqih Street.The attacks resulted in multiple ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788716639778,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧/🏴| Multiple Israeli Airstrikes Hit Nabatieh:A series of Israeli airstrikes and drone attacks targeted southern Lebanon, heavily striking Nabatieh al-Tahta, Nabatieh al-Fawqa (towards Hrush Ali al-Taher), and the city of Nabatieh, including Mahmoud Faqih Street.The attacks resulted in multiple ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
