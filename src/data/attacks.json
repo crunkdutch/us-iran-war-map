@@ -124449,6 +124449,38 @@
     "media": []
   },
   {
+    "id": 480269531,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Ghalibaf Iran will respond aggression with",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Ghalibaf: Iran will respond to any aggression with greater force and harsher consequences📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf has warned that any aggression against Iran’s interests and security will receive a faster, heavier, and more painful response.Addressing the parliament open session on Sunday, Ghalibaf said that the Americans have surely understood that the era of proportionate responses has come to an end, and that Iran’s recent strikes on hostile bases were ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
