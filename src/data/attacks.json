@@ -124062,6 +124062,113 @@
     "media": []
   },
   {
+    "id": 480236666,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC Navy released videos targeting ships",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy released videos of targeting ships that tried to pass the Strait of Hormuz with the US Navy escort.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61600",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/tVfcq-pf332oWJ0lFRO2wlsV-7PksMG93OX1yr54RhQEr5bsb1eQKr5domGHMrrlJw-iE8pHf9CCHFmZu2y7fbnjcNvJIavWQM50nXq19B3vbFMMwuSmZnET_93jxP47OE6lzfXApiV7tW41SKpxX8RUDNsZS6EXDoUYRAVq5wPkGu808R4dNSW4HKDfiIpLkt-U9IcyG2_Ibrgd7krvK1_G72M-0GUvLjxkBLqkxL7N0qXjCwst3gayKnZdqAfcOOFyIulCfdQyGSvyGUdYIN-RdhJhITiD_OTiyGi3-VTz-0ZtKGxwje_x1Y5acsdTyPOzN-9ktV7y_pisNSwF4g"
+      }
+    ]
+  },
+  {
+    "id": 480243231,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Breaking Ansar Allah begun launching ballistic",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Breaking — Ansar Allah has begun launching ballistic missiles from northern Taiz Governorate toward positions occupied by the Presidential Leadership Council (PLC) forces. More than ten explosions have been reported so far as the missile strikes continue across the frontlines.The barrage comes after the liberation of Al-Kadaha and the continued advance of the Yemeni Armed Forces through Al-Barh and surrounding fronts. Yemeni forces say they have now completely cut the connection",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/tNX7jPWYUAI6e11207tetq8R-Xxge0F9FmYnd_sfNPoS8mUUw6HB_fgB3Mtt0__8V9WghDlKQkmHS8w_ytIYjDpoenhLWmxDxKhD12oAtN0Lep-EN88Q6IwSWg60Sz6clfMwLj5q3VKtZzgaSBrrnWnvqqMIYlkszqGoTDGbqylbsZQDemjK73mz5cGQZhUEDn60-by9VwlHHAUKy86nlDo7SoKd5H9mhsBZFvJGNLPHE1AO6p0zrpalfVWRjZmfJdDWcXBuSJvn2nxlwu2kW-PfXHJBxT9ZI6vX8NJRDS7j4uVAdWmPoUm8qRliRJ7fVlvfOU6r55EBUy1tFB5hHw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480239948,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Yemen, UAE: Yemen Battlefield Report September 2026The battlefield",
+    "location": "Hodeidah, Yemen, UAE",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen Battlefield Report | September 6, 2026The battlefield in western and southern Taiz Governorate has entered a decisive phase as the Yemeni Armed Forces continue a rapid offensive against Saudi and Emirati-backed forces, while expanding control over strategic terrain and tightening pressure on Taiz’s remaining supply routes.🇾🇪 Ansarallah advances toward Al-Burain and Al-MasrakhAnsarallah forces are now less than 4 kilometers from Al-Burain Market, continuing their advance south of T",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
