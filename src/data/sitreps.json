@@ -285422,6 +285422,26 @@
     "verified": false
   },
   {
+    "id": 1788690088540,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-09-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🐮 🔄 🇸🇦 | A Saudi fighter jet reportedly mistakenly bombed positions of the UAE-backed Al-Amaliqa (Giant Brigades) in Taiz Governorate during the ongoing battles. According to battlefield reports, the strike resulted in dozens of Saudi-backed mercenaries being killed and wounded.🤡@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/vkLgUvB5Y9qXr6TK5gmTBh3X8HJSbqy1WYrtrtc5IEe1O95f9tuOQ4Z6y6TNTzBdMNihyaE1wXkPzrmSua8P219GUzXvP2ia5BFHpUjYvV-N7Zh5Sju68pE6jHj4eq04amle9VcQoeh3wcdDVFyJ0j6HzyhJQRasEz0FwQGBaK_MCxgxvph3WvRn9aEmt8hXtkG99_tXU41_633isMEkGz-3_VouFnpTJo9bnMKCnJ-utN2MZTU61lT9PSNXnwY_qqkvFbbALJHc9mzSFrHLUL_OjfWLIgkhtyrTvEH8qGu9BzGd27cIugxCewUszKz0LAf8Nq1omIbVPxQ49E55Ow.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1788656983259,
     "type": "missile",
     "location": "Hodeidah",
