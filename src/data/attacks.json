@@ -124650,6 +124650,90 @@
     ]
   },
   {
+    "id": 480289298,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Drone Strike — Kuwait: satellite images confirm what Iranian Armed",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ 🇰🇼 | New satellite images confirm what the Iranian Armed Forces previously announced regarding the strike on Ahmed Al-Jaber Air Base in Kuwait. The imagery shows three possible impact sites inside the military aircraft parking areas, indicating visible damage to sections of the base used for military aircraft and operational infrastructure. Independent reporting has also confirmed that Iran announced missile and drone strikes on the base, describing aircraft hangars, communications syste",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/71e745e07a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/I8pDJvNmkqH4hi6DhEsEdgkUW3ivvh6DG2OhsRBMDPmq6lWv3YanaiKT-gQwb_bXkRpEehk5WLgzZJScQQK9IBPJUbJumWjphbulZMXdkNQLkvFImdokW2Zb9tA1P2z7-0YjFYAHyFjQFW7_5-viFTLxeGS6pVUzkMnqQJPNC4yhqJEB62ZYRCkD3nPHNpwcauStjmDWFFwsXatWEvIS9dItztyZO1-IpuX7H7pXw2vQbaVpzCiWysYf00c-NvIpDKwK-Qr8gzwka8xx-j98dT2lyS2TEu_PbtgDoUDSYFI2ndcHZ5eCQ2tLmFSUdPR_k2yP3bcogpxIp3VnSTw15w"
+      },
+      {
+        "url": "https://t.me/enemywatch/61625",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/I8pDJvNmkqH4hi6DhEsEdgkUW3ivvh6DG2OhsRBMDPmq6lWv3YanaiKT-gQwb_bXkRpEehk5WLgzZJScQQK9IBPJUbJumWjphbulZMXdkNQLkvFImdokW2Zb9tA1P2z7-0YjFYAHyFjQFW7_5-viFTLxeGS6pVUzkMnqQJPNC4yhqJEB62ZYRCkD3nPHNpwcauStjmDWFFwsXatWEvIS9dItztyZO1-IpuX7H7pXw2vQbaVpzCiWysYf00c-NvIpDKwK-Qr8gzwka8xx-j98dT2lyS2TEu_PbtgDoUDSYFI2ndcHZ5eCQ2tLmFSUdPR_k2yP3bcogpxIp3VnSTw15w"
+      }
+    ]
+  },
+  {
+    "id": 480292596,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Missile Strike — Kuwait: Satellite imagery shows possible impact sites",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷📡 | Satellite imagery shows possible impact sites at Ahmed Al-Jaber Air Base:New satellite images show three possible burn marks at the aircraft and fighter jet deployment area inside Ahmed Al-Jaber Air Base in Kuwait, consistent with reported impact sites on the base. The Iranian Armed Forces had previously announced strikes on Ahmed Al-Jaber Air Base, saying the operation targeted satellite communication systems, equipment depots, and fighter jet hangars. The newly released imagery appear",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GH9GIQW7jehO2lRTN1kk6w0oTnthNt7X5kmT3LpbKxH_nZvwm9wecJwKm4MIBMsWezfWuyjlVIWR9MI-q8LBtKCThFB6O8Nx7bhyqOKAYI0RABD47nqrO65TJ4murXAM2DfEFPcVty9roaWlXspxxQD5crILeNuGS0uzVvVy4YJva2tvSdBxxtfJR-Z-TJm9K-G0MtWc8B-Rs21qp7D_YNaNS0XgA5RIIzO4CMsJ-mWeBSHZRCuKqXOGYbOQezsbHOzHq1osR9QJEr8Ix9BC-MFQ2U_xl6AlQwTXOYjU33EVWaefIoLQnCVENY9VsuSqWlw1OFxxmCmUP3Q1umrlIQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/oHr9T6chv9P7i1Zq8BWDSRD80knHeBVmXbwt-msvRP0xQB0FScGWlhMsiJ1Chth8DNF5PCEVbXLCVAv4efrAKRLaAJobvlp4Alk3ZBHVJlBep36FZIQRwBf_Gs1aI-P3Mm-GCI076IGr5LhPMErDg004YNYyrFKOjwRH0D0BPb-1uP6ogk6g9WaXlEx97U0g59JdrJ_9uIu6lFNTwS0LV-YJYAZ2JK7UhnXMQQZF0GIwwtRx3vJ20WiXHedrUWAi9fZQp3FnEgIalnkR_MpWcW0W1J5q5w6QMoVGt4dvgZMv6Wge1me3nucydPeQx-lIadd_WznflwSHBOKDJU4PvA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

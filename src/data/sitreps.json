@@ -284005,6 +284005,21 @@
     "verified": false
   },
   {
+    "id": 1788710158376,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "The Yemeni Armed Forces, by the grace of Allah, succeeded in shooting down an armed reconnaissance aircraft of the Saudi enemy, a Wing Loong II, while it was carrying out hostile missions this morning in the skies northwest of Maqbanah in Taiz Governorate. It was targeted with a suitable weapon.Yeme...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788491295766,
     "type": "drone",
     "location": "Erbil",
@@ -285767,6 +285782,56 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 US military cannot call its ‘barbaric crimes’ against civilians a ‘mistake’: Iran’s OIC mission📌 Tehran, IRNA –Iran’s mission to the Organization of Islamic Cooperation (OIC) has denounced the US military for proudly acknowledging yet another “cowardly and illegal attack” on an Iranian oil tanke...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788710029296,
+    "type": "drone",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-09-06",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ 🇰🇼 | New satellite images confirm what the Iranian Armed Forces previously announced regarding the strike on Ahmed Al-Jaber Air Base in Kuwait. The imagery shows three possible impact sites inside the military aircraft parking areas, indicating visible damage to sections of the base used for...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/71e745e07a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/I8pDJvNmkqH4hi6DhEsEdgkUW3ivvh6DG2OhsRBMDPmq6lWv3YanaiKT-gQwb_bXkRpEehk5WLgzZJScQQK9IBPJUbJumWjphbulZMXdkNQLkvFImdokW2Zb9tA1P2z7-0YjFYAHyFjQFW7_5-viFTLxeGS6pVUzkMnqQJPNC4yhqJEB62ZYRCkD3nPHNpwcauStjmDWFFwsXatWEvIS9dItztyZO1-IpuX7H7pXw2vQbaVpzCiWysYf00c-NvIpDKwK-Qr8gzwka8xx-j98dT2lyS2TEu_PbtgDoUDSYFI2ndcHZ5eCQ2tLmFSUdPR_k2yP3bcogpxIp3VnSTw15w"
+      },
+      {
+        "url": "https://t.me/enemywatch/61625",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/I8pDJvNmkqH4hi6DhEsEdgkUW3ivvh6DG2OhsRBMDPmq6lWv3YanaiKT-gQwb_bXkRpEehk5WLgzZJScQQK9IBPJUbJumWjphbulZMXdkNQLkvFImdokW2Zb9tA1P2z7-0YjFYAHyFjQFW7_5-viFTLxeGS6pVUzkMnqQJPNC4yhqJEB62ZYRCkD3nPHNpwcauStjmDWFFwsXatWEvIS9dItztyZO1-IpuX7H7pXw2vQbaVpzCiWysYf00c-NvIpDKwK-Qr8gzwka8xx-j98dT2lyS2TEu_PbtgDoUDSYFI2ndcHZ5eCQ2tLmFSUdPR_k2yP3bcogpxIp3VnSTw15w"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788709990931,
+    "type": "missile",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-09-06",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷📡 | Satellite imagery shows possible impact sites at Ahmed Al-Jaber Air Base:New satellite images show three possible burn marks at the aircraft and fighter jet deployment area inside Ahmed Al-Jaber Air Base in Kuwait, consistent with reported impact sites on the base. The Iranian Armed Forces ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GH9GIQW7jehO2lRTN1kk6w0oTnthNt7X5kmT3LpbKxH_nZvwm9wecJwKm4MIBMsWezfWuyjlVIWR9MI-q8LBtKCThFB6O8Nx7bhyqOKAYI0RABD47nqrO65TJ4murXAM2DfEFPcVty9roaWlXspxxQD5crILeNuGS0uzVvVy4YJva2tvSdBxxtfJR-Z-TJm9K-G0MtWc8B-Rs21qp7D_YNaNS0XgA5RIIzO4CMsJ-mWeBSHZRCuKqXOGYbOQezsbHOzHq1osR9QJEr8Ix9BC-MFQ2U_xl6AlQwTXOYjU33EVWaefIoLQnCVENY9VsuSqWlw1OFxxmCmUP3Q1umrlIQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/oHr9T6chv9P7i1Zq8BWDSRD80knHeBVmXbwt-msvRP0xQB0FScGWlhMsiJ1Chth8DNF5PCEVbXLCVAv4efrAKRLaAJobvlp4Alk3ZBHVJlBep36FZIQRwBf_Gs1aI-P3Mm-GCI076IGr5LhPMErDg004YNYyrFKOjwRH0D0BPb-1uP6ogk6g9WaXlEx97U0g59JdrJ_9uIu6lFNTwS0LV-YJYAZ2JK7UhnXMQQZF0GIwwtRx3vJ20WiXHedrUWAi9fZQp3FnEgIalnkR_MpWcW0W1J5q5w6QMoVGt4dvgZMv6Wge1me3nucydPeQx-lIadd_WznflwSHBOKDJU4PvA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
