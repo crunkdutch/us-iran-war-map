@@ -124174,6 +124174,38 @@
     ]
   },
   {
+    "id": 480253086,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Tehran: IRGC targets aircraft carrier destroyer ballistic",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 IRGC targets US aircraft carrier, destroyer in ballistic missile attack📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has announced that its Aerospace Force had targeted a US aircraft carrier and a destroyer with several ballistic missiles during an ongoing maritime confrontation.In a statement early Sunday, the IRGC said the two American warships had been involved in disrupting Iranian shipping and participating in a naval blockade.​It added that both vessels suffered damage an",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480239948,
     "type": "missile",
     "status": "confirmed",
