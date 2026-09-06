@@ -285040,6 +285040,61 @@
     "verified": false
   },
   {
+    "id": 1788659165171,
+    "type": "airstrike",
+    "location": "Gulf of Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ | BREAKING: American aggression sinks an Iranian-linked oil tanker in the Gulf of Oman:An Iranian-linked oil tanker sank in the Gulf of Oman minutes ago following what Iranian media described as a terrorist attack by the American military.The vessel, identified as Kaylo, was a 25-year-old tank...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f6BSZqutnjnIsn3vvDXcgL8yoMKxxQlcztNKx5R7M9KXaZyEFmga3jpRSvPKvFizW5ll9VDOxbLZ11074x1hunJlC9nResXXjAM2C2ixmkY8_HOx4By0K9exFAnWY9XtOuXZbhG-HrG9828pYSQkazDuCDbeGomj9Crdnr-1NY4EbpFXGPfI7fpdN7ViTnYaP5mSHi2hM9P0SG17oV_QRsGGnBhvblZSfQdoC7d708waZtcCfA3U4jOMCEjnrk5uF6IVfFfvSEi8z1zZUW2UXTYqmwCxrpZNzfP0fV-9DBYxyY0hJGLfvoopDIvXI5HweXpGoWEjOLp-Wie3g58zVA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788659142757,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ | BREAKING: American aggression sinks an Iranian-linked oil tanker in the Gulf of Oman:An Iranian-linked oil tanker sank in the Gulf of Oman minutes ago following what Iranian media described as a terrorist attack by the American military.The vessel, identified as Kaylo, was a 25-year-old tank...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f6BSZqutnjnIsn3vvDXcgL8yoMKxxQlcztNKx5R7M9KXaZyEFmga3jpRSvPKvFizW5ll9VDOxbLZ11074x1hunJlC9nResXXjAM2C2ixmkY8_HOx4By0K9exFAnWY9XtOuXZbhG-HrG9828pYSQkazDuCDbeGomj9Crdnr-1NY4EbpFXGPfI7fpdN7ViTnYaP5mSHi2hM9P0SG17oV_QRsGGnBhvblZSfQdoC7d708waZtcCfA3U4jOMCEjnrk5uF6IVfFfvSEi8z1zZUW2UXTYqmwCxrpZNzfP0fV-9DBYxyY0hJGLfvoopDIvXI5HweXpGoWEjOLp-Wie3g58zVA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788659182562,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-05",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | BREAKING: Massive ballistic missile attacks by the Yemeni Armed Forces are currently underway against Saudi-backed positions across the Taiz front. 🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788656983259,
     "type": "missile",
     "location": "Hodeidah",
