@@ -285095,6 +285095,48 @@
     "verified": false
   },
   {
+    "id": 1788668074575,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌷The grief of Imam Khamenei's martyrdom still lingers with the Iraqis📽She saw the image of the martyred Leader;her eyes filled with tears;and she took up the pen…✍A heartfelt note from a visitor at the Baghdad International Book Fair for the martyred Leader.📲KHAMENEI.IR | 𝕏 (Official) | 𝕏 (Webs...",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/38909",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OKuZPCUh916lrhINhzpoE4LVhYt3D6TudmG2iws-H99tZvxwQ6WOMJIDlLVbPtuLW30cfwut4kXe75-HOhBj15woHU7z-DBxmi0lpucuZNxE2OIqO7f0OjhwLpy4VR7xnctxIQIqNdaUrsRoFTGO-VvRnr9oYt9C1RpIrhcbXufOmybeZ9GurdUL1edUtZtvnxT260jlBVEW840JP3nV9VWoier1pEm8l_V2TuuLCdeOxCcZUghi8uKTc6oT79Njg1jxJtX9_9wtNHekwf8jiTgigYoGXlICbFrn4wsK5w_Mq_qVgP1vIUhfrFhVS1pS8IGH4YtfTNPm157Kzw4TXA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788668046524,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌷The grief of Imam Khamenei's martyrdom still lingers with the Iraqis📽She saw the image of the martyred Leader;her eyes filled with tears;and she took up the pen…✍A heartfelt note from a visitor at the Baghdad International Book Fair for the martyred Leader.📲KHAMENEI.IR | 𝕏 (Official) | 𝕏 (Webs...",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/38909",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OKuZPCUh916lrhINhzpoE4LVhYt3D6TudmG2iws-H99tZvxwQ6WOMJIDlLVbPtuLW30cfwut4kXe75-HOhBj15woHU7z-DBxmi0lpucuZNxE2OIqO7f0OjhwLpy4VR7xnctxIQIqNdaUrsRoFTGO-VvRnr9oYt9C1RpIrhcbXufOmybeZ9GurdUL1edUtZtvnxT260jlBVEW840JP3nV9VWoier1pEm8l_V2TuuLCdeOxCcZUghi8uKTc6oT79Njg1jxJtX9_9wtNHekwf8jiTgigYoGXlICbFrn4wsK5w_Mq_qVgP1vIUhfrFhVS1pS8IGH4YtfTNPm157Kzw4TXA"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1788656983259,
     "type": "missile",
     "location": "Hodeidah",
