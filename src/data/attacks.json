@@ -123220,6 +123220,43 @@
     "media": []
   },
   {
+    "id": 480259661,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-03",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaSpokesperson Israeli Enemy ArmyGeneral Staff test",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaSpokesperson for the \"Israeli\" Enemy Army:General Staff test: A surprise General Staff exercise has been launched to test the \"Israeli\" army’s readiness to confront a complex, explosive, multi-sector scenario.At the direction of Chief of Staff Eyal Zamir, a surprise General Staff exercise, dubbed “Dawn 2.0,” was launched this morning (Sunday) to test the readiness of the General Staff and the main commands of the \"Israeli\" army, and their ability to deal with a complex, explosive, la",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/NrtnKtz24kyMGyc0LVnZz3aJHNfvBuLpWFpSjcHIV2VPw-gBg4O49Os2AobBffPmoXi0SF7iFtzya2jIdZokoxciLG9webET0t8sACNne3Rf-4aNQinB3FZsNMH5VmhvXdH5PAr84uA3rJgZZFVbznutHlYQjWwOQbH_GwwxdnoTzEdbcqnSp1tT63AGbRjaiFV3xDCcMD_lEilufgQhbmee-E7WpyEOV2bo_0sy7KA0cHuhmCBLxHM89kqZ0LgQqhvtyf16-9gWxCT4YlM0o-hjB2lkOUpKt0WdbPy8Rv3nrHCzK0WcHwfejyalhi2eT-ogFcPxpxCvNNYfyxz5vw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480128921,
     "type": "drone",
     "status": "confirmed",
@@ -124204,6 +124241,79 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 480256373,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Entrepreneurship festival held IranThe second edition",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Entrepreneurship festival held in IranThe second edition of the Alavi Empowerment and Entrepreneurship Festival, along with a ceremony celebrating the launch of 150,000 employment projects, was held on Saturday morning (September 5, 2026) at the Imam Khomeini Camp Complex in Lavasan, Tehran Province. Vice President Mohammad Reza Aref was in attendance.https://en.irna.ir/photo/86256134/📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jgiqVMHYJgajFCU6SO-AU1srDStWgFwjBZovUilTcqK0n0ptYMhgj_NbP8T1FAv8CqxOE1K_8WPM-hh2aPF6p5zc-_TWKU-WA2kJ8TGytGC55mtjRv0qhw6g6AtcvMniib704VFbLxUzD46mfkQjtO45Mc1wQY95_MZxo65GRqOwfvjQ09dSuWwy4-rv1gLM11WzSNFDWv9dSPmoSwxdyht2MXp7_cZCN5jEeSxf6S3uzulRKra-gQX9uUNd2OBk89-I3yQ4sD0svz3lOOP-YBkZab0dtn86XTte_4gJlNgn8dO1rgzPvo66rgwVh13jW5g9DJSVn82Q5PZ4sj9yPA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cUVtggc4YG-QWtUeWdrdSdDeveW0CpLDdylzdVpdPdtYCO2gMji0RrEAEiZFe-2Hbv-hHvJWogxgPs66pFaoLjrZfI_Ep_2mWu-NqZvhUjMpDTuXJU6BrVkHho4kxL3dTJ65I6qeS09ZJVmyIp1clso6RtrJJUfQlWEuhUlSDMoCQrQJNs9JA_TtgGfWT-RV10eZ9ynNzkV3NoFgxXvoGXjQ4lxpd_o8JTn6dDxR2cVcdMWyfMyJxo7udbMwVWcYUalngHgZR0eKB8PvkVmAOfqtRnokRvRRnY7-eStG2nfU4DeV82_JXw5HbyXR0WSS6_PgDIySVcn-mgZbXGewGw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tsrnF8GG9MYH9ZDTz_rWoLQI81-FNRTzSEiIhS6V5pz4aCI428qsdNU7BfZkHwxfUxYDgLxde2VEjCpVBSStDJZ1Q7h-5K-S8K-z1uEm9xiypMe6uViX_vYA4-WrPdvbpelm25z7nQE_KNmtrkS1gINIrn9IPVf_i2jLG5B8-msCEs44n6nhlvASXrviFC-TATQOCRdzghRYVVGuZ_j-pJ9fNkSQH23ZOWuUcqoNh01VWe3JY52jS0HnZEKmcSYAskGd1E2AAZwQIXXmZfxK1tEKZY_yve1hfOWLtp_a2EmgtP2Clq_EMPDj1HD2cW-9CN12AJYpUuYwl8G0rPHqnw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a-47BFt3i1Y9QPV5P9ZD35NX9QZrO5BMjYvY3ZywdhJklmzPcL6SAX2wcESvj-_2x4SDOSwU0LuGVNF8BwSx4h3wM-s4_ydvnffde3vvtG4amgDPxW1owK81I7Wu0evjaKJ9yRVVoCuI2SaAY_YZLCKh88CtldMt8hS2n-E0zCT6HrsxEzD-tZiqucAb2MLVX3cHuRy1F7VpYniafxfH6yALkq551mOTLA0NBuyn2NGl7X10XbsTrSbvE9D3tMeU_da_yVIr_gXeYXNVCy04Thy9VwQtudothY2nBbv372nvQDNBm14uLwIcGd9o8artftfQt7b-FTiI6-OosE0cTQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/D9OvhLtUyIizGpn08dsr9lwKuwIAz2tkM_hkDFqb1a6ncV1Z8t2__33BUz5iXZ_2DIvbepGanCjJ9TO0JAuCtkB7YuxV7RDOmc9QRWRF6CkkvTyXcK_S4P3yXvKSD1p5t4_wkQ2R8fJ56knO7d6ho8Zm_7A0rfTy66KVITT_PJ_o56jWn2fPb1MapPTKtBtY-30DZeVYpa6iN-abruwruYYJEnWJnukViEQaVUfjaKtXOosCskwF1Vjm5mbiFYlrMhzLHKObFT7NQkT_EwHOqtQMQHTxynKBS6dnE47Gay_Nao1bguSPLU4WemnL86AfZ22MMalN0O9reRJa09ojQg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/YCswg8BCPdPvv5SE3xb44ZPuJvPO1dWqfbnzr95gb3zGssXCdXXW-0DtDaatF0od_03ZeaFHeKzUVJOmtkzlbwP-y6h9R-cKrkEw6pml_BQATBkUoCqmhZLzvIfhla4KRSfWFfArsvrd-hNl4DOR8VXnN-mRFxkDHw47WnQH1XTppbyeQ7R0_94jvzUf1sVQ06O0Rm2MEQqa3mg0lNNCXqtRaHIjNaohW8RdNQlQjR9evdwAYALKsALCXgqWDEKONepUkQ9JAN2Mg-AzoyU4Aj0844SH-h1iOo7KF0Q92BScwOk4QSsLGJahCDcvLFbXjb8YCyd9oNCTTwzYsV6-sg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NP2aKwjRvUNw_jfdlOs6_7Zd3QqBJqmEy4GyoPWMQsw5cHUVYbYgenWgY7PCESGu6f7RLk3vxTxoZMR9EG9iTxdITp4JNUwm-CsmM36CdT4eGVmExXBOvwIhbpZWiDaL7ldQ37IGqsXtmg6S6T5vffDFeWOLOjwQAt9XZydMvBaZPoy4YHtj6wcyH6JyQYUAP6i3z0xVpqoQfWBEF7WSKeEm7w_ZI5LUREvWcT5DGyGBUcJoh6FAb6eqHyVI9Ng3VzpUpwHRjwAsRDSrTo6B1X9kT-iaZl0XdgCoOQFPSRWH_iBhTkM1wfK7gZdsGmU_A1G9yGpCuCsxskZwOFezJQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Mi5MRBngVu6Hb2dCrpzeufOQHYDSlnpGJiCewLcnzKMF0C73VXGgwGMnAVHlHifCgCEfU3SAxm1rXCHl_WU6fBVD1plz3uwIG8OTUpFP73ahehKn4hf9kHaq5M5_Y1L4E90_gytvY2BQptGmc10tPuykXZpj08W_7Xm-jmG7rhcBIrRsjCn_2vGPkOFBcPo7JPLbXReHJylFB0efhmth5yhpc9mqD2bDslyDL4qyIy9ceI_ZrR-d89tGBKnPlu3fzseaiisn0C-ks0Rfmi5RlORkrd_IjNH7pM1av6-hrPp0WlwzzaVoSJK6Dzr7w-7lg30ysBJMaPKqNNZUKITpHg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bh38vJ8WCBNgLkSL6ABA-byIxYdZ3ZhJiVpf3nn1hwJuaomLQBG7-2JAxKa2X8DQhG0Bk9yWs0OgjoTLYdpTJbtIq2JdGrm_4TZqDPJWi79NkS7occGvGk92YiPy8QsjlYQlfHVqMoCbd5zuwYLAwlByL9uA1AAIwrvbpcm-gu6nnhC_k4PJBZ6gaEiZLDzbkHojlUl6CXUYP8Zh8GTn5DwXf_lzeg3jFkkilnbq6IH6Mv4qRyv7QNR096jmKJmksFkfA-2OLi5s44aV0uTEM8d2mH7ho12QDnfp3UP5WD6REn3iiYji9y8uN36mQTWqhRxyNAlaMS6IUALIl9RgLw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/VBF4HkNXIJJIX9caWO9ei1BCvWb77yvGjJVUy-jYxaU5uXcY0Ss4fol98XmIoQUpq8DnikWlrDGutVoOq1GJSBbSobTmiR8myao26sIKFhlLBxsXa14nV-j89I1e61Z7dEse_XbDFhuV5bX8Qkrv7zfVVmt5jMysWsKVp5kYtUIoDUhTzToYC2u8Kby0L_9E8P1bnTLqsb-PO8qBUSzd0sfNAWf3oxStrACzYfYthgJL-cR6f3NYHPWoRTrZgtU5TIBa_FPZSNPFlcdxcTYQzsaNYdcFb5N8-3l0RKUrt7UGVTk91H35nWx-AsmPP0unoepeqzggGwLdNsfl10WePQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480239948,
