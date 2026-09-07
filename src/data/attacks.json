@@ -123800,6 +123800,49 @@
     ]
   },
   {
+    "id": 480322323,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-04",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Sirik, Kuwait: Islamic_RepublicIranian media satellite images published sat...",
+    "location": "Sirik, Kuwait",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIranian media: New satellite images published by the satellite imagery analysis platform “Sur Atlas” show the destruction of two buildings designated to house U.S. military personnel at Ali Al-Salem Air Base in Kuwait.The Islamic Republic of Iran’s Armed Forces had previously announced that they targeted this base in response to the U.S. war crime of attacking a wedding ceremony in Sirik.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0a88bd60e0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uYgT1rOipficdr1WujtjhFSi2odZmvOnUfRgYMKagjOBL6NpE8Xs3cSKlUHMr4_7JhrqG0Dmeq6d8S8g_t2_0FVzcpYFArKcRGik1eDYsWrGwO9JMyzNJokSHM8h98gUfNomk7C-Bhdm6EPh2-YpSP-khP956GV7B81fCBcNYMa7LL4Y8Fu8MH64M7s5M5otV_TCJcuzrAYu0I2UDR3a2Vr6DgK_o11TckRQ8myJstDNpsNTHAIQbJKZAVeRLY0G1gZEgWP7R4BfJHuplRKP_pWHTEphpy3NezIPUQDsD_WNqMwNMKG0_8W-Rxnz8KJkxZwo34KO7iop2nWyGbJZ6Q"
+      },
+      {
+        "url": "https://t.me/mmirlb/40600",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uYgT1rOipficdr1WujtjhFSi2odZmvOnUfRgYMKagjOBL6NpE8Xs3cSKlUHMr4_7JhrqG0Dmeq6d8S8g_t2_0FVzcpYFArKcRGik1eDYsWrGwO9JMyzNJokSHM8h98gUfNomk7C-Bhdm6EPh2-YpSP-khP956GV7B81fCBcNYMa7LL4Y8Fu8MH64M7s5M5otV_TCJcuzrAYu0I2UDR3a2Vr6DgK_o11TckRQ8myJstDNpsNTHAIQbJKZAVeRLY0G1gZEgWP7R4BfJHuplRKP_pWHTEphpy3NezIPUQDsD_WNqMwNMKG0_8W-Rxnz8KJkxZwo34KO7iop2nWyGbJZ6Q"
+      }
+    ]
+  },
+  {
     "id": 480197360,
     "type": "airstrike",
     "status": "confirmed",
