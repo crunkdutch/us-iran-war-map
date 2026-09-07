@@ -124958,6 +124958,59 @@
     "media": []
   },
   {
+    "id": 480319016,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Drone Strike — Ali Al Salem Air Base, Kuwait: satellite imagery shows damage American military",
+    "location": "Ali Al Salem Air Base, Kuwait",
+    "coordinates": [
+      29.35,
+      47.75
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇰🇼 | New satellite imagery shows damage at the American military base in Kuwait:New satellite images from Ali Al Salem Air Base in Kuwait show the destruction of a building inside the residential housing area of the base. The American military base was among the sites that the Iranian Armed Forces announced they had targeted during their recent missile and drone attacks on American military positions in Kuwait. The newly released imagery appears to show a building that has been destroyed or",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/63356e20d1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fqbgRdLqWDrYyx5cINPzzZwi31P-FDvmu-jQnKWzUUDAKffOy5YORom9-cEQ-8SAfeddPSSk4RB7ImTrCoMjQVEHDX7zuDGggePk8dDWq7MrXd-HeSq8jRo1Bjm3FvETsGQoadGxpr1AgVFgsdgooxTvBDCi6cN_oRcyUhdNS804SkoD-WaTjT9kmfTqQgH-jJElVtnBiXg9VKwtuRL_d4moZalauAhEPwzuzIrUNHhheofI9b1aGJ1Dlxd09zyfI0W8blmsjb-2JUDH6hd7iOdNe6duOBkFTkDsu3cX4eigj-OygoKqCnJ8hF0bMmMJVY1MkHm8MkEgesCZTxN0Gg"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/99bdc1cbe6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fqbgRdLqWDrYyx5cINPzzZwi31P-FDvmu-jQnKWzUUDAKffOy5YORom9-cEQ-8SAfeddPSSk4RB7ImTrCoMjQVEHDX7zuDGggePk8dDWq7MrXd-HeSq8jRo1Bjm3FvETsGQoadGxpr1AgVFgsdgooxTvBDCi6cN_oRcyUhdNS804SkoD-WaTjT9kmfTqQgH-jJElVtnBiXg9VKwtuRL_d4moZalauAhEPwzuzIrUNHhheofI9b1aGJ1Dlxd09zyfI0W8blmsjb-2JUDH6hd7iOdNe6duOBkFTkDsu3cX4eigj-OygoKqCnJ8hF0bMmMJVY1MkHm8MkEgesCZTxN0Gg"
+      },
+      {
+        "url": "https://t.me/enemywatch/61660?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fqbgRdLqWDrYyx5cINPzzZwi31P-FDvmu-jQnKWzUUDAKffOy5YORom9-cEQ-8SAfeddPSSk4RB7ImTrCoMjQVEHDX7zuDGggePk8dDWq7MrXd-HeSq8jRo1Bjm3FvETsGQoadGxpr1AgVFgsdgooxTvBDCi6cN_oRcyUhdNS804SkoD-WaTjT9kmfTqQgH-jJElVtnBiXg9VKwtuRL_d4moZalauAhEPwzuzIrUNHhheofI9b1aGJ1Dlxd09zyfI0W8blmsjb-2JUDH6hd7iOdNe6duOBkFTkDsu3cX4eigj-OygoKqCnJ8hF0bMmMJVY1MkHm8MkEgesCZTxN0Gg"
+      },
+      {
+        "url": "https://t.me/enemywatch/61661?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GVK_niceMuRoEnNGGF2e1PSHpFZh3TTf1bHdqYdnDIfrtL8_VR7cTjiRh8qYSRgm5_5T44-zJWHrSKmBY66ks_PColqYUMT7apN8biNV5FDYIzQm1Ev_rsAF7vPYTU7uaPWXknpYVEXCu6BlFTjK_ips08X35Rtb33MQBoH1b_nF-u2u8SG5UkiOwyddDXj26w0IgmTnxVip4suLMdqAflCZypfNTd3XSAiD5tJqDgb3_qWj_UxpdXjVoJ6Vy5Om5uUC2NUT_oAbAE37Y3z9QZv7Z4Opna4Ej2NjaLFg0zHGYco-NsfeO-5oWvNes219NgASxt1xfGAK4K32wRrP2w"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
