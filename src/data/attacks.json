@@ -125373,6 +125373,70 @@
     ]
   },
   {
+    "id": 480352131,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Red Sea, UAE: Ansarallahs Strategic Areas Methods Fighting1 Intelligencele...",
+    "location": "Red Sea, UAE",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Ansarallah’s Strategic Areas and Methods of Fighting1. Intelligence-led targetingThe material indicates a strong emphasis on identifying valuable or vulnerable targets before launching attacks. Repeated strikes are reported against military gatherings, camps, weapons depots, supply positions, command locations, and moving reinforcements.2. Predicting or identifying troop concentrationsA recurring pattern is the targeting of enemy gatherings and concentrations. Ansarallah repeatedly strike",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480355448,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Strait of Hormuz, Persian Gulf: Iran dismisses account attacks Iranian tankers",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran dismisses US account of attacks on Iranian oil tankers, says it’s acting in self-defense📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has dismissed the US narrative about its attacks on Iranian oil tankers in the Persian Gulf, saying Iran is acting in self-defense in the face of a maritime blockade and economic war imposed by Washington.Baqaei made the remarks on Monday during his weekly press briefing in Tehran, commenting on US claims that its attacks on three Iranian ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
