@@ -125143,6 +125143,43 @@
     ]
   },
   {
+    "id": 480375371,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemen Yemini Armed Forces Spokesperson Brigadier",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen Yemini Armed Forces Spokesperson, Brigadier General Yahya Saree: Alongside its ongoing blockade of Yemen, the Saudi enemy has taken escalatory steps by launching airstrikes and committing massacres, the latest of which was the Al-Jawf massacre, as well as conducting reconnaissance flights and supplying its mercenaries with various types of weapons.The ongoing Saudi aggression against Yemen will not go unanswered or unpunished, and the Saudi enemy must bear the consequences of its crimes a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/L-lqYgMYDzw_5KylEXBeaHMHisqCcS0spm5J8UNmsVdXBp5cA0MRMH06tWv526BFv7t10F-3J1p1Wd0iflXxNtackGKU343WTjQ_VrLNqXgnod08ghS_AK-Rvj1UA1XI2JT6xLgsWjsdR7D-haK6Vlppv31_21QcmOUVFuhf7w185q9T5-WvB0jSVyN3VNHCWsRI1PH9-RwaEdzT21JJL8v99ggC9ncLsvLaxlJ89jNbZX1CzLEcq7sKlb_RpxXeh-YXQzYFhS0BdXBMRZFhZNrJ1BzhSBdHb45Z9NEs7AgiCBZspx2LGEwL6TVXJLc97CIdaxqwsQ_B1rnhV8aErg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480325631,
     "type": "airstrike",
     "status": "confirmed",
@@ -125466,7 +125503,20 @@
     "description": "🚨 | Anticipation of a major Yemeni attack against Saudi Arabia in the coming hours.🔻@enenywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/t1DKua9p3LgeCoThI7GaUo_xQWrccE85CKtn0ZRG3wt8Z1aVOUYol2GbAiBeeZ3216BHgYLDSUrbySW3rdvdNhjTUYKJJyi1IfN0SuhMjSln5DuC4NA2rErKF-8oWQHmDTyLvrBHmRPGMAix3_alYfv8xjFIfpggALstQe8feToeD0NubEpuM0G6DKEdVhW0YN300Zr-m2aAIt3H4JeaZD08Ys73oFN6--TTUqLe37SP1vsQPDC9_2D7o_cau_O6_Tj6Qmw1EmYcHRsIdpfxwzKWlTHyLAGVsb6gs2k57CZLqV7xzPao9ytHpijifrM_B4qKrhfCSLwIu8iKY_E7BA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WxMn9s5f3crK5z4CXzOy2y9gPZKDEUOUH9x6XZdKw0bcE7H6XIwbL-bKdav19m82Gnu0J0Ik1cMdZuKbt6RoDXNaEoJOD7r8_e46geQ9vzno12uD3__PEbMV5nFMru4g_2-uG5dcTvOrqEZGTCmP_o5QUiqe3Dq2wG7m6A_OAOhl8aBDhzrWUIx0J1MbWqSkyzsM4uJ-_84H3dfNtbFfRfp4UAicESb5rXe83eLykBZL1Hv3geb9kjfrKTrsron2Ryma8Zw545EvImUTLNblHnavG6Gvgw0CLI3SOCAPqvOhVke-R0zdcj9dg8mr9ktMsITQErrFHPYc892azWgPcA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/GM7nKm3i4UIBDI2jdafnC9k7jgHMo2rkQWgHEXOd42aQMn9DZFqtz2MY6ajfItcwyrZDMcCp7OUhZsMljQ2fbep1YFr1siVNUZG32i83ev3RnWPuNsyfTBAoH0gj5cpTPnomDJmB1nPlu9FWWR-xytZVUPLRvK3dSp8ZTpcuv6Klajr8ovlpJKRlUNP28LVbbb-ChBAzzTnNrOl1BmgVYhmbCb_De0VTcpUq97atwyHkSHEEN1ddglopWituBKJ6NhtZ9FwEpLe5kb41S52-WdLLlZMJq2g8wbyrvVl1guMa-JaeEZ6FQtHGGpPYBkogNZjsToD3SuYnN02pJntLDw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480362085,
