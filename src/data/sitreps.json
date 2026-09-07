@@ -287485,6 +287485,36 @@
     "verified": false
   },
   {
+    "id": 1788806987919,
+    "type": "missile",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The IRGC Navy has launched two anti-ship cruise missiles from Sirik toward the Strait of Hormuz. Multiple explosions were heard in the Strait of Hormuz following the missile launches.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788807037128,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The IRGC Navy has launched two anti-ship cruise missiles from Sirik toward the Strait of Hormuz. Multiple explosions were heard in the Strait of Hormuz following the missile launches.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -125690,6 +125690,38 @@
     "media": []
   },
   {
+    "id": 480382020,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Sirik, Strait of Hormuz: IRGC Navy launched antiship cruise missiles",
+    "location": "Sirik, Strait of Hormuz",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The IRGC Navy has launched two anti-ship cruise missiles from Sirik toward the Strait of Hormuz. Multiple explosions were heard in the Strait of Hormuz following the missile launches.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
