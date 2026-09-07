@@ -287392,6 +287392,69 @@
     "verified": false
   },
   {
+    "id": 1788800428411,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Brig. Yahya Saree:The Yemeni Armed Forces, by the grace of God, have successfully shot down a CH4 armed reconnaissance drone belonging to the Saudi enemy, while it was carrying out hostile missions moments ago in the airspace of Al-Jawf Governorate. This drone is the second of its t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788800405780,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪 | A senior commander of the UAE-backed mercenaries, known as Saleh Al-Armah, has been killed in Yemen.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VsCxFzn3vi8vP3V8EdtOpCCulm2uvySed12SzbsYd6HCOJ9Sqx9tSQwGeYZ9a_XD62_Gsb6n4-KxWye3w-e7KUOYLsKaT9vkjX6w0a320-sMPOGX7UcwxM75JREO6fshZ9ax3i9tOupkUQTzDNpci2Z4iGCY9G2g_TOcYL6rOtZ6taNTatU2EIBGBPVeBDv5ISACs8CANgJPbet02F5aoIvxK-pWvxTzk3OkioJwRCIyqwL1aWaAfwzNceXPXGz3rZ4NMEJ63WB4Yo6VIhskBGvLfLG58qRPXD9jfqalpPGCcxNRLwQrwNpIoij3TvzTiesDua76Tw3INDP2NMjaFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qEL-G9JmuTJkLQPS7tTm9P1SyrZCegHiqsJaCGiAKIpxOrqEN6ZicPpEspgTSyzrMGGMJbHkpePzbfMWNpWf85kGUkiKxRpDMVu6hqcYwOawqkknMlO3YtywVIfpzVtv5TWSI2zy5KYYY0UB_T6QnZDKoXhl8ZAu-avYp8EqZq02L0Vf2STwFd5jTsZ_y9w2s-lw3jOVv_qdJo8gRu3yqDZk-xPFJUkDRhfICCEqTPVV0_pZnxxYWHteqw9Qyzg9uMn3S2s0YHoQ7DV3LWdhfIcV7pY3RIVILVjGfmvFHwYP_vDhJZfepgoklG0E7BcCyvjEKA-Htf3rjJwzsUXBNg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788800364213,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪 | A senior commander of the UAE-backed mercenaries, known as Saleh Al-Armah, has been killed in Yemen.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VsCxFzn3vi8vP3V8EdtOpCCulm2uvySed12SzbsYd6HCOJ9Sqx9tSQwGeYZ9a_XD62_Gsb6n4-KxWye3w-e7KUOYLsKaT9vkjX6w0a320-sMPOGX7UcwxM75JREO6fshZ9ax3i9tOupkUQTzDNpci2Z4iGCY9G2g_TOcYL6rOtZ6taNTatU2EIBGBPVeBDv5ISACs8CANgJPbet02F5aoIvxK-pWvxTzk3OkioJwRCIyqwL1aWaAfwzNceXPXGz3rZ4NMEJ63WB4Yo6VIhskBGvLfLG58qRPXD9jfqalpPGCcxNRLwQrwNpIoij3TvzTiesDua76Tw3INDP2NMjaFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qEL-G9JmuTJkLQPS7tTm9P1SyrZCegHiqsJaCGiAKIpxOrqEN6ZicPpEspgTSyzrMGGMJbHkpePzbfMWNpWf85kGUkiKxRpDMVu6hqcYwOawqkknMlO3YtywVIfpzVtv5TWSI2zy5KYYY0UB_T6QnZDKoXhl8ZAu-avYp8EqZq02L0Vf2STwFd5jTsZ_y9w2s-lw3jOVv_qdJo8gRu3yqDZk-xPFJUkDRhfICCEqTPVV0_pZnxxYWHteqw9Qyzg9uMn3S2s0YHoQ7DV3LWdhfIcV7pY3RIVILVjGfmvFHwYP_vDhJZfepgoklG0E7BcCyvjEKA-Htf3rjJwzsUXBNg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
