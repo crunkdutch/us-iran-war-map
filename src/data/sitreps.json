@@ -286135,6 +286135,51 @@
     "verified": false
   },
   {
+    "id": 1788756286567,
+    "type": "missile",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "The problem with Mohsen Rezaei as SNSC Secretary, is that while he may be a loyalist to Seyyed Mojtaba Khamenei and more experienced than Zolqadr, he also talks way more. Which diminishes the position of SNSC Secretary in the eyes of the public and makes…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788756239303,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🇮🇶 | Breaking — A attack involving three drones targeted a site belonging to the Iranian opposition group Mujahedin-e Khalq in the Sordash area of Sulaymaniyah Governorate, Kurdistan Region of Iraq.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788756322406,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-06",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 📕 | The story behind Ansar Allah’s missile arsenal is much deeper than “Iran gave them missiles”:When people look at Ansar Allah’s missile arsenal in Yemen today, it is easy to reduce the entire story to a single sentence: “Iran supplied the Houthis with missiles.” That explanation ignores an ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -124894,6 +124894,70 @@
     "media": []
   },
   {
+    "id": 480312405,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Iraq: Breaking attack involving three drones targeted",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇮🇶 | Breaking — A attack involving three drones targeted a site belonging to the Iranian opposition group Mujahedin-e Khalq in the Sordash area of Sulaymaniyah Governorate, Kurdistan Region of Iraq.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480315710,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Yemen: story behind Ansar Allahs missile arsenal",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 📕 | The story behind Ansar Allah’s missile arsenal is much deeper than “Iran gave them missiles”:When people look at Ansar Allah’s missile arsenal in Yemen today, it is easy to reduce the entire story to a single sentence: “Iran supplied the Houthis with missiles.” That explanation ignores an entire layer of Yemen’s military history and, more importantly, it ignores the one element that cannot simply be imported: human expertise.The foundation of Ansar Allah’s missile capability was not cr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
