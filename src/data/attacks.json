@@ -125180,6 +125180,38 @@
     ]
   },
   {
+    "id": 480388673,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-09-06",
+    "time": "TBD",
+    "title": "Unknown Cyber Attack — Tehran: Iran unveils domesticallydeveloped antivirus software Tehran",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran unveils new domestically-developed antivirus software📌 Tehran, IRNA – Simultaneously with ELECOMP 2026, the country's largest exhibition for electronics, computer technologies, and e-commerce, Iran unveiled its second homegrown antivirus software, dubbed Ayyza, using artificial intelligence and machine learning to detect an unknown malware and unidentified cyber threats.A group of senior officials from security, defense, cyberspace, and knowledge-based firms attended the unveiling cerem",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480325631,
     "type": "airstrike",
     "status": "confirmed",

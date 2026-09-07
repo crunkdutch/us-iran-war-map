@@ -286628,6 +286628,81 @@
     "verified": false
   },
   {
+    "id": 1788815898990,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran delegation heads to China for trade expansion📌 Mashhad, IRNA – An economic delegation from Razavi Khorasan Province, northeastern Iran, has travelled to China to advance economic and trade cooperation.Led by Governor Gholamhossein Mozaffari and joined by private‑sector representatives, the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788815824146,
+    "type": "cyber",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran unveils new domestically-developed antivirus software📌 Tehran, IRNA – Simultaneously with ELECOMP 2026, the country's largest exhibition for electronics, computer technologies, and e-commerce, Iran unveiled its second homegrown antivirus software, dubbed Ayyza, using artificial intelligence...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788815840643,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran warns South Korea over military presence in Persian Gulf📌 Tehran, IRNA — Iran has warned South Korea against any military participation in the Persian Gulf and Strait of Hormuz, saying such involvement would amount to direct support for an aggressor and could have serious consequences.Forei...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788815918007,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran warns South Korea over military presence in Persian Gulf📌 Tehran, IRNA — Iran has warned South Korea against any military participation in the Persian Gulf and Strait of Hormuz, saying such involvement would amount to direct support for an aggressor and could have serious consequences.Forei...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788815840524,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran warns South Korea over military presence in Persian Gulf📌 Tehran, IRNA — Iran has warned South Korea against any military participation in the Persian Gulf and Strait of Hormuz, saying such involvement would amount to direct support for an aggressor and could have serious consequences.Forei...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788773940284,
     "type": "airstrike",
     "location": "Tehran",
