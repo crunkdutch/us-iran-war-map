@@ -125722,6 +125722,38 @@
     "media": []
   },
   {
+    "id": 480385346,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Gilan, Israel: Iran Israeli regime bombed IAEA Statute",
+    "location": "Gilan, Israel",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran: US and Israeli regime bombed IAEA Statute and nuclear safety rules📌 London, IRNA – At the meeting of the IAEA Board of Governors, the Islamic Republic of Iran condemned the aggression by the United States and the Israeli regime against the country's peaceful, safeguards-subjected nuclear facilities, emphasizing that through these attacks, the aggressors bombed the UN Charter, the IAEA Statute, and fundamental nuclear safety rules.In a statement delivered on Monday under the \"Nuclear an",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
