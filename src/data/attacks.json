@@ -125570,6 +125570,44 @@
     "media": []
   },
   {
+    "id": 480372048,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: BREAKING Highquality footage captures moment Yemeni",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | BREAKING: High-quality footage captures the moment Yemeni Armed Forces targeted trucks carrying military equipment arriving from Saudi territory at Al-Wadeea Camp with locally manufactured ballistic missiles. The reported strike was part of an operation targeting a large Saudi military convoy near the Saudi-Yemen border. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61687",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Nt603pOAAh5jHcnsXhYrtnl7plZ01iZQ3nee1ad4PqgIn-nj8AfFfeAEI4Z6cYZcms8bsJrNYKGNgVEwd2P7yR_VSToPg140mJ1WvEIxbdoQjxwlZLIpn8lc1JnvqFFOgQKPmqFBGv_ghyma_56Fb6Pu0jQBMAtEtcpJ51a5E3ZW-50QML3AbeaVfhUiLMywj-cRkwnyqplhq2gaQxWx4jrt-JqlWj0ZQRX5dVtJwB0n2wY86uxj97g3e54K6iRtKNkjnvZ-4ypkd8hTSlF_BxgKchmgGBQg8kHcTTWYlkkb_57NwjHw5CRmK8G5ghBV3h4cz_z2MUe4BSfEgS_sJg"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
