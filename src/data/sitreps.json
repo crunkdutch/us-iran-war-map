@@ -286583,6 +286583,36 @@
     "verified": false
   },
   {
+    "id": 1788787233201,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-06",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: Two fighters from the \"Israeli\" army’s Golani reconnaissance unit were wounded in southern Lebanon in recent hours after a Hezbollah member opened fire at them in the Yuhmor area.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787292455,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-06",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: Two fighters from the \"Israeli\" army’s Golani reconnaissance unit were wounded in southern Lebanon in recent hours after a Hezbollah member opened fire at them in the Yuhmor area.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788773940284,
     "type": "airstrike",
     "location": "Tehran",
@@ -286870,6 +286900,243 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 Iran dismantles terrorist cells in southeast, arrests nine📌 Tehran, IRNA – Iran’s Ministry of Intelligence has announced that three operational cells belonging to a Takfiri terrorist group had been disbanded in the country’s southeast, with nine terrorists arrested and three others killed during...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787132949,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Anticipation of a major Yemeni attack against Saudi Arabia in the coming hours.🔻@enenywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787103481,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Anticipation of a major Yemeni attack against Saudi Arabia in the coming hours.🔻@enenywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787177571,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇾🇪🇾🇪❌ 🇸🇦 | NASA FIRMS shows multiple fire hotspots at Saudi Aramco’s Jazan oil refinery in southwestern Saudi Arabia following the reported AnsarAllah missile/drone attack earlier today.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GLd4jBiOkZOM1f1DzP9KghkxJ4IoVulBHQS8iYVX2Iy9R01RU_1sHbGHgjL_f3tTXGgbfNDREPzR2OCJmyM2alJmkouXWG_CpnNT1ARHS2kapju3DlOgA9XRb85W_9N2xYoJdvaJ78DjK63ztqmS1poi1Csz4r8cU7IQQ_ctDQ8QnIlMwsJJF95iaFP7KzI5q8EYsYZl8TSfenkTh71rZh46rxvOQmY3NW3fWgSypuOs2Kbf4YtQmhVpiWYe2l237skg6URgWFjrv05aYEaSpgugm0MnTVhPB_6yw_v5p1mnxaR7VgSit35EQJc-C0ET2ZqRlny0EW0yjTbzo1ZveQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788787101274,
+    "type": "airstrike",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇸🇾| A Yemeni responds to the gangs of al-Julani, who are saying, “Soon Damascus and Sana’a will embrace each other”:“Get Netanyahu out of the Damascus countryside and Daraa. At the very least, get Netanyahu out so that we can embrace each other in private.”🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3205a87d0b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SQXK3wTc9Eyr2WVLz6UwAKd1KQQiM-P2E4XT4vJRMB6hCfU0YUeStvYPdC90O45oO8KRfHQYq5WAUKceTdRQe1BT5UWTN23Ep-9LybO964uM0GVdNGS2PZZEHQTZEeHsD8kBcC1XWNlw5zmmSefimqN2PMoKJqW_04ZCryv8oT-fmaqFVKKhbs4mCz9vYkpFMnuTeiubw5DzkrwW1FB0e29m7EKwI-CWXBTf5-J5KtTh3_NnB8PCd15R56UJ2uFmNU1nHs1GPlT4r3hN7Z7lmD2NlCutjWwrnSKAv_DpEIj0d-it7lLSFuinx7XeLclIVku1wAXMGbE3IFRdIEjLyg"
+      },
+      {
+        "url": "https://t.me/enemywatch/61683",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SQXK3wTc9Eyr2WVLz6UwAKd1KQQiM-P2E4XT4vJRMB6hCfU0YUeStvYPdC90O45oO8KRfHQYq5WAUKceTdRQe1BT5UWTN23Ep-9LybO964uM0GVdNGS2PZZEHQTZEeHsD8kBcC1XWNlw5zmmSefimqN2PMoKJqW_04ZCryv8oT-fmaqFVKKhbs4mCz9vYkpFMnuTeiubw5DzkrwW1FB0e29m7EKwI-CWXBTf5-J5KtTh3_NnB8PCd15R56UJ2uFmNU1nHs1GPlT4r3hN7Z7lmD2NlCutjWwrnSKAv_DpEIj0d-it7lLSFuinx7XeLclIVku1wAXMGbE3IFRdIEjLyg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788787199567,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇸🇾| A Yemeni responds to the gangs of al-Julani, who are saying, “Soon Damascus and Sana’a will embrace each other”:“Get Netanyahu out of the Damascus countryside and Daraa. At the very least, get Netanyahu out so that we can embrace each other in private.”🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3205a87d0b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SQXK3wTc9Eyr2WVLz6UwAKd1KQQiM-P2E4XT4vJRMB6hCfU0YUeStvYPdC90O45oO8KRfHQYq5WAUKceTdRQe1BT5UWTN23Ep-9LybO964uM0GVdNGS2PZZEHQTZEeHsD8kBcC1XWNlw5zmmSefimqN2PMoKJqW_04ZCryv8oT-fmaqFVKKhbs4mCz9vYkpFMnuTeiubw5DzkrwW1FB0e29m7EKwI-CWXBTf5-J5KtTh3_NnB8PCd15R56UJ2uFmNU1nHs1GPlT4r3hN7Z7lmD2NlCutjWwrnSKAv_DpEIj0d-it7lLSFuinx7XeLclIVku1wAXMGbE3IFRdIEjLyg"
+      },
+      {
+        "url": "https://t.me/enemywatch/61683",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SQXK3wTc9Eyr2WVLz6UwAKd1KQQiM-P2E4XT4vJRMB6hCfU0YUeStvYPdC90O45oO8KRfHQYq5WAUKceTdRQe1BT5UWTN23Ep-9LybO964uM0GVdNGS2PZZEHQTZEeHsD8kBcC1XWNlw5zmmSefimqN2PMoKJqW_04ZCryv8oT-fmaqFVKKhbs4mCz9vYkpFMnuTeiubw5DzkrwW1FB0e29m7EKwI-CWXBTf5-J5KtTh3_NnB8PCd15R56UJ2uFmNU1nHs1GPlT4r3hN7Z7lmD2NlCutjWwrnSKAv_DpEIj0d-it7lLSFuinx7XeLclIVku1wAXMGbE3IFRdIEjLyg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788787099966,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Failing to win on the battlefield, unable to stand their ground, and losing hundreds of their terrorist proxy members, Saudi Arabia is now pushing old videos and fake news to spread false narratives about the battlefield against Ansar Allah. This is not Syria, and it will not work here. Ansar A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787139560,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Failing to win on the battlefield, unable to stand their ground, and losing hundreds of their terrorist proxy members, Saudi Arabia is now pushing old videos and fake news to spread false narratives about the battlefield against Ansar Allah. This is not Syria, and it will not work here. Ansar A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787153322,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | An Iranian anti-ship missile was launched at a violating vessel in the Strait of Hormuz.🚀@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787136553,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran urges UN Rights Council to address US-Israeli war crimes against civilians📌 London, IRNA – Iran’s permanent representative to the United Nations Office in Geneva has called on the UN Human Rights Council to address the US-Israeli regime’s war crimes against civilians and hold perpetrators a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787143517,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran urges UN Rights Council to address US-Israeli war crimes against civilians📌 London, IRNA – Iran’s permanent representative to the United Nations Office in Geneva has called on the UN Human Rights Council to address the US-Israeli regime’s war crimes against civilians and hold perpetrators a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787230045,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran holds US accountable for ‘deliberate’ attacks on civilians: Baqaei📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has once again denounced the US for committing war crimes in Iran, describing the American military attacks and killing of civilians as “deliberate” aggression, no...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787173660,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran holds US accountable for ‘deliberate’ attacks on civilians: Baqaei📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has once again denounced the US for committing war crimes in Iran, describing the American military attacks and killing of civilians as “deliberate” aggression, no...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787162373,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran holds US accountable for ‘deliberate’ attacks on civilians: Baqaei📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has once again denounced the US for committing war crimes in Iran, describing the American military attacks and killing of civilians as “deliberate” aggression, no...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788787205973,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran holds US accountable for ‘deliberate’ attacks on civilians: Baqaei📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has once again denounced the US for committing war crimes in Iran, describing the American military attacks and killing of civilians as “deliberate” aggression, no...",
     "media": [],
     "verified": false
   },

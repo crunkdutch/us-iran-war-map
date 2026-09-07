@@ -125437,6 +125437,139 @@
     "media": []
   },
   {
+    "id": 480358766,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: Anticipation major Yemeni attack against Saudi",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🚨 | Anticipation of a major Yemeni attack against Saudi Arabia in the coming hours.🔻@enenywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480362085,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Saudi Arabia: NASA FIRMS shows multiple fire hotspots",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇾🇪🇾🇪❌ 🇸🇦 | NASA FIRMS shows multiple fire hotspots at Saudi Aramco’s Jazan oil refinery in southwestern Saudi Arabia following the reported AnsarAllah missile/drone attack earlier today.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GLd4jBiOkZOM1f1DzP9KghkxJ4IoVulBHQS8iYVX2Iy9R01RU_1sHbGHgjL_f3tTXGgbfNDREPzR2OCJmyM2alJmkouXWG_CpnNT1ARHS2kapju3DlOgA9XRb85W_9N2xYoJdvaJ78DjK63ztqmS1poi1Csz4r8cU7IQQ_ctDQ8QnIlMwsJJF95iaFP7KzI5q8EYsYZl8TSfenkTh71rZh46rxvOQmY3NW3fWgSypuOs2Kbf4YtQmhVpiWYe2l237skg6URgWFjrv05aYEaSpgugm0MnTVhPB_6yw_v5p1mnxaR7VgSit35EQJc-C0ET2ZqRlny0EW0yjTbzo1ZveQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480365405,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Iranian antiship missile launched violating vessel",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | An Iranian anti-ship missile was launched at a violating vessel in the Strait of Hormuz.🚀@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480368726,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Minab, Israel: Iran urges Rights Council address USIsraeli",
+    "location": "Minab, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran urges UN Rights Council to address US-Israeli war crimes against civilians📌 London, IRNA – Iran’s permanent representative to the United Nations Office in Geneva has called on the UN Human Rights Council to address the US-Israeli regime’s war crimes against civilians and hold perpetrators accountable.In a post on its X account on Monday, the Iranian mission said, “As the 63rd session of the HRC begins today, Iran renews its commitment to amplifying the voices of victims and survivors of",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
