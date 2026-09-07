@@ -125100,6 +125100,38 @@
     ]
   },
   {
+    "id": 480325631,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Sirik, Israel: Iran reaffirms China ties defends diplomacy",
+    "location": "Tehran, Sirik, Israel, West Bank",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran reaffirms China ties, defends diplomacy, warns Europe📌 Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei has said the Islamic Republic maintains very good and friendly relations with China, stressing that contacts between the two countries continue at various levels.Opening his weekly press conference in Tehran on Monday, Baqaei said the upcoming BRICS summit would provide another opportunity for the Islamic Republic of Iran to hold talks with China and other member states. Baq",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

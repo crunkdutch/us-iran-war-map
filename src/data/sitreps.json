@@ -286568,6 +286568,66 @@
     "verified": false
   },
   {
+    "id": 1788773940284,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran reaffirms China ties, defends diplomacy, warns Europe📌 Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei has said the Islamic Republic maintains very good and friendly relations with China, stressing that contacts between the two countries continue at various levels.Opening his wee...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788773977991,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran reaffirms China ties, defends diplomacy, warns Europe📌 Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei has said the Islamic Republic maintains very good and friendly relations with China, stressing that contacts between the two countries continue at various levels.Opening his wee...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788773964556,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran reaffirms China ties, defends diplomacy, warns Europe📌 Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei has said the Islamic Republic maintains very good and friendly relations with China, stressing that contacts between the two countries continue at various levels.Opening his wee...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788773939526,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran reaffirms China ties, defends diplomacy, warns Europe📌 Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei has said the Islamic Republic maintains very good and friendly relations with China, stressing that contacts between the two countries continue at various levels.Opening his wee...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
