@@ -285621,6 +285621,21 @@
     "verified": false
   },
   {
+    "id": 1788776236441,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-05",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: An \"Israeli\" was seriously wounded in a stabbing attack in Nablus about an hour ago.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788656983259,
     "type": "missile",
     "location": "Hodeidah",
@@ -286624,6 +286639,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Iran reaffirms China ties, defends diplomacy, warns Europe📌 Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei has said the Islamic Republic maintains very good and friendly relations with China, stressing that contacts between the two countries continue at various levels.Opening his wee...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788776219667,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulPress StatementWe salute the heroic operation that took place near the \"Osrin\" settlement, south of Nablus in the northern occupied West Bank, and affirm that this operation constitutes a legitimate response to the ongoing crimes of the occup...",
     "media": [],
     "verified": false
   },

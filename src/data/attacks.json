@@ -124437,6 +124437,49 @@
     ]
   },
   {
+    "id": 480332250,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaIsraeli media Israeli seriously wounded stabbing",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: An \"Israeli\" was seriously wounded in a stabbing attack in Nablus about an hour ago.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/77266511f3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hArgml5WxJCYTy5HUfauLa41Evcs1TUC8QAPHZ8dXBdgnB-3pJBvTbWNW7oaMxsYPTnSXaO-tZ3pnOJ0o9Vt6asLQqO63RIYTWQkpmSxkRhYy-7s2xFgQ0eJxU7ZU9U6J7B9OCeiBIoHaWKVJL0_znlbidpaNitQpw5SnMTWuRYPTKuo2Dq7Z2QyZrn6t0fcjFHtqR5_5xEG8E-uabMXiZLTeasKIuiOF31QuUk2vU94CzvXHL-v1S4pY1fsJJWx4yy0v_WHr5mHppeqUPReDmG1GblxZJr6-ekWp3UHSRUV6NluFxcZ03rklFWkixIs0pKckHy_fMRpDDJBZEKZKA"
+      },
+      {
+        "url": "https://t.me/enemywatch/61585",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hArgml5WxJCYTy5HUfauLa41Evcs1TUC8QAPHZ8dXBdgnB-3pJBvTbWNW7oaMxsYPTnSXaO-tZ3pnOJ0o9Vt6asLQqO63RIYTWQkpmSxkRhYy-7s2xFgQ0eJxU7ZU9U6J7B9OCeiBIoHaWKVJL0_znlbidpaNitQpw5SnMTWuRYPTKuo2Dq7Z2QyZrn6t0fcjFHtqR5_5xEG8E-uabMXiZLTeasKIuiOF31QuUk2vU94CzvXHL-v1S4pY1fsJJWx4yy0v_WHr5mHppeqUPReDmG1GblxZJr6-ekWp3UHSRUV6NluFxcZ03rklFWkixIs0pKckHy_fMRpDDJBZEKZKA"
+      }
+    ]
+  },
+  {
     "id": 480239948,
     "type": "missile",
     "status": "confirmed",
@@ -125127,6 +125170,70 @@
       "other": 0
     },
     "description": "🖥 Iran reaffirms China ties, defends diplomacy, warns Europe📌 Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei has said the Islamic Republic maintains very good and friendly relations with China, stressing that contacts between the two countries continue at various levels.Opening his weekly press conference in Tehran on Monday, Baqaei said the upcoming BRICS summit would provide another opportunity for the Islamic Republic of Iran to hold talks with China and other member states. Baq",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480328940,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Strait of Hormuz, Persian Gulf: Baqaei Irans actions Strait Hormuz purely",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf, Israel, Turkey",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Baqaei: Iran’s actions in Strait of Hormuz purely defensive📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has said Iran’s actions in the Strait of Hormuz are quite defensive and are being carried out in response to the ongoing military aggression of the US and the Israeli regime.Speaking to reporters on Monday, Baqaei said that “the war of tankers” may not be an accurate term to describe what we are witnessing in the region.​Since February 28, Iran has been countering ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480335561,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Name Allah Most Gracious Most MercifulPress",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulPress StatementWe salute the heroic operation that took place near the \"Osrin\" settlement, south of Nablus in the northern occupied West Bank, and affirm that this operation constitutes a legitimate response to the ongoing crimes of the occupation and its extremist settler gangs.We also mourn the perpetrator of the heroic operation, and affirm that our people will not remain silent in the face of the aggression, settlement, displacement, ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
