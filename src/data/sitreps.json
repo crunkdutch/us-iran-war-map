@@ -287605,6 +287605,66 @@
     "verified": false
   },
   {
+    "id": 1788839993867,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-09-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen War Updates (+ve) | September 8, 2026 (past 7 hours): 🇾🇪 Territorial control • Updated map of areas under the control of Ansarallah and the Yemeni National Army (Sanaa) as of September 2026 shows continued control over: • Sanaa Governorate…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788840035890,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen War Updates (+ve) | September 8, 2026 (past 7 hours): 🇾🇪 Territorial control • Updated map of areas under the control of Ansarallah and the Yemeni National Army (Sanaa) as of September 2026 shows continued control over: • Sanaa Governorate…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788840023339,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen War Updates (-ve) | September 8, 2026 (past 7 hours): 🏴‍☠️ Saudi airstrikes and shelling• Saudi airstrikes targeted Ansarallah positions in the Rabiei area west of Taiz city.• Saudi airstrikes continued against Ansarallah positions for more than 12 hours before the Yemeni retali...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788839987301,
+    "type": "intercept",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen War Updates (-ve) | September 8, 2026 (past 7 hours): 🏴‍☠️ Saudi airstrikes and shelling• Saudi airstrikes targeted Ansarallah positions in the Rabiei area west of Taiz city.• Saudi airstrikes continued against Ansarallah positions for more than 12 hours before the Yemeni retali...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

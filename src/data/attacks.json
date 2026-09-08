@@ -125786,6 +125786,38 @@
     "media": []
   },
   {
+    "id": 480392001,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen, Saudi Arabia: Yemen Updates September 2026 past hours",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen War Updates (-ve) | September 8, 2026 (past 7 hours): 🏴‍☠️ Saudi airstrikes and shelling• Saudi airstrikes targeted Ansarallah positions in the Rabiei area west of Taiz city.• Saudi airstrikes continued against Ansarallah positions for more than 12 hours before the Yemeni retaliatory strikes.• Saudi missile and artillery shelling targeted residential villages in the Shada border district of Saada Governorate.• Saudi aircraft carried out additional airstrikes on Ansarallah po",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
