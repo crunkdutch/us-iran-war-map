@@ -126476,6 +126476,79 @@
     ]
   },
   {
+    "id": 480458771,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Tehran, Israel: commander warns strikes bases Iranian tankers",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Top commander warns of strikes on US bases if Iranian oil tankers are attacked📌 Tehran, IRNA – Chief of Staff of the Iranian Armed Forces Major General Ali Abdollahi&nbsp;has warned the United States that any attack on Iranian oil tankers would trigger strikes on US bases across the region.“The aggressive US military has issued an evacuation warning to Iranian oil tankers so that it can strike them, therefore, I declare that any attack on Iranian oil tankers will result in US bases in the re",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/tU5-O-YwcxiT2bLue2WCe6P_P-7OnaF5zW4r_o6e87qPUhrxfbAWuXDboDl_CmxKOO6hX-7kw-J8K_fGYwE5z6gVOlZP18oq1tcoMPRdUd6eZQ4JsJnRv7Xy0dpLJE-JyqGRGROdybjPQEZXDzYB63GHPeASrR8hkshY4HDNZ1JDweVteadl5fUXZblyUdeJPH4MBnLM_kvugJtIdIdawnArk73Y52Zc8Og9CuEKqLSZINyQTbkb1y-grf1P9yEGilecrNOYNc-vdvEymC6U9RL9JI_VYZuuHbNdlZFXDeNVU6OP_sfFxuqntJpf8-UgB1GJ6xiqhFnCfo80l7PL4w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kXvS4y4ctQ90v-3b1fGVdY-3jXVJjgAIE_7Q5AwDZGYMzHY6CIGw1Y9mby99qgMpF1CwG50f-WqyvupLq6nNUF2Mo3-tBWy5laDVUVdlmO7F_Jqj1jMcRPIZw8VKdS1JyGgnXSd28Xt64tVAAWsplC1SHwhzA_IOBoHMx2t8jbUdH1E-2TpCPMN5ZueQ--ByLQf7UHQV5e4Slb3t1YmkK3sMJ-5Bi83oeS9CDQ7qlByjOZELIjAMvJVEfEBHa93HUVO77YA6z8zp1VrWL4nZxHZFGeAHF9IaGT4S-DLH6jkMSnV8f5byqV0xMqjrXwO4ev78Vp8R2pFgG748r2d_Ow.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/GJjW7xZlgySLAaCnS6VpX3XxlHBNsUJzP3EK83HNzwC9hcPIPEMs02EDUOdPN4l29R4_CQOmt0-WMhf_ug9Mk53Y72LbrhRef-NaEjaCSprbQ8y_8E8XnmfO3vnsZbahWGqNC6M58AzSlS2HubAk4hw0r_yo7vBHwJTcp0yQM60drZENrWU-cBsAohssN2u-V-7Cyby-RJ8ycvRppTqAx09K8OlivijFonrEBrey2MdaSyt1gV5nUAnzk84kN55Au8ZHched4E0QQGoVErb6DseMsHSMFWDbJiWtP5nVVMn8fH2D6shK36IzqBKTqDiNhrrsAx3VIqWWlks8QiDXvQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/EleTae-VJlTFbq92v6SpcsXoKlqPJf3sWjgPP3J4UxDbLVbhEKTtjEpMXAyP4wwRDR-JmyFQIqfOnSrkQ5tigFk3p5VqHYUNtYaqzSzttXMv26QVEJ2Bjhj1Dz1CuDz90C6RTv0ed7Om44XjBBe3nNhuH8BT455_Ux0YQnL3ZbpfC-vQSAY_7Z4HONNeLIA4DEmexnWHYO1MD4BjkJlWyA_ckK24h9RLGNT08OhQ-16L7U-7KRcfF0pceGp8Xj1xQAggSihwx2N7UYuTARGh1M_-EukaeaDc2gd8z7ms6BJF2uQ7vkX7Bbs-q_SehwbqobM6FyqfsVOSFfwhbg7U2w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/uwNWgeb5NY3FzyXKCG2-TRSo4htr4NGOGeKdyFDD_Uljkcn80d28oN_Uy_AHGynT_fQ_ANGr5powplgtZXW_samftsDH-LGmGTGvyv72WNl8GMbdXZKtDZJ-GKhbibLW8IUH-KNQp6RWktxfNb1ieb2D0t14FjEfJaNwisuRYqRwmTFxw8sg484yRSPEYT8Leut0U-9946rMKVIf7WT4GfJKwbwdBK8yioZZzgGXq61YTApayV8N-4Lv12MLD8ozf4fYDFGYTORxEZJdMgQDFRbpQmitFkCjKQBKXWCmh77uoiy7V_UyafPqSsV78v8QDCvkF0vTxhKAjrT2kUv_mQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/u9G0xShQsDPlWT2K5C3QRdsuGw7qgs8C3YXOdGOfnBkeCs2STyPUYa1tt1erVpqzxZHbjhC6K5Y-sKLirVkB4yKWRe7NxlWSSw_knjxtZHuumgL12WhoJhRoHnv4JKtt6K2NiUVQxvUjpRkzSvzE9SyWWJ4xPFDmuH0c6QMR9bu-yRL444qoBzvx46Hhpj0UErXQsikhsoLehEen3qrdWFx_k5luirImoIWKQgOGgQzno7yZsvCzeaa0_GE5NaIaEiiaTE0a6_k09g6n8hKaK_agyEPXKmdAi5a9-30uNeXRFUSNCTpPr2HlnSib9TLCWAAABAdD-KfweDdjau34kg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MRd_j6JziFd8NrGY1a-UakB4uFiUjO088TsbAAGInx6fioFYqY9ueOL1aBSC5hz9b-qR_bksz1PVVUJTjGpZqzT_2EMgYi_3DRpY7IdMicuIE00vYnw-qBsVhxP0FgUrcKFbZLsuRZnn3IFiW0VfKD_LQtySkGX1lBdMm1F6jmGueFa7I9KTqwUV5SAX2fGSg2YlJlZn5w6RlpE2fSSD655iquYbeYRShMNDy0D7w55K26iaBidPY-_xM8HtNzO6MML3ND4AQxxF_q528af5KBxEV6kVglN0cSZP2VPsreht8ekDWhV8LFYJVQ2i0D9Gj8sKAg6JMWYqH16JJHe3FA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/eyUEW2hsK_zbBjZMTgIAz_a7QLS3ngBnS5LSRNVsaYHjgpzNm2kdHtAk3tbmpVOlshtslfzqvmRfHKdb7Q9sAGtLmFto-7CykzwgmRiCwwTusY6VNvzFZOK3zaZVkAcRtNrS-RzrAPDgKaKPLxQIg-pXEUwgjzus3meH7KAwagcE8oPZ8UWAXU03-Y-V70Y27nNMsnPOCYX7LkAn8_vkzwr5r3Gm_S72lRLuoFB0ewXe94V0pAzOJyxjZHzItIJ0xNMSSls6IKJk_cVYLbPPMgAQZUsSkdLEuS7DX8FI6F7bqkd-OqmJNkUO9WwyENyYoebV4WPVEyRCsZylDqdZng.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/uT_jyavBOgwGWHxFXiMRvhliCYTAkv49VoXAVt3b78CKLQKhWwwc-vZp0bZoOtbG0dn2aZnPtbtrPYyatYGD4wj56qmkzcet2bspELMiSayimsHnE68n8Tuqi7lfOBHzkJRg4NvYVrRuLOrR8vqCbTwjO8TBsHXP2_-IfovlYoF9MQ5cDUdUFRyd6W9Gzuryl16CIHoMEEfbONVTvXidWek5E6MDfMz_sZr_ERuysPVkdyqWgfYeMjLQlXzTx6bw87exep7DcOcjq8b4QdOqiuDgENpRj7Fw5p6tyk3NIpCDFVEB49GG0204i4WNlES5MYtaAqlXg3odeWJl0j_zyA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/BRbKUC2xmWV_zVs477E8u7DGwZ3lL9wOEK7DomAT2NjcT0oRBHrZDKYMDBKYBaYq03xXBrj7Bu-_q28jalGm8qyyYk6b1yfjwFO0pY0HWZOMjnQrEr_vtC0FLrjnUoCq_5MF-fUM0-zVtZz0Ng3M979e5ygtytmAGjP_xiL_QeK_apAJCCEqAbloh6ZJxxWJsUOb3U99kT7T2OyMNfFOpYSTYzb-jI4xAPYoE0M7l3vxp9P1sxSxdgtK-0AVTwb8N_FiIL924x1_zK7jCIMXGvT40uIUGQ0S6y_EdEGR2QkoJUueLVuD2YR2TbsApTc6ilemAcomb4PZUl30agtilA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
