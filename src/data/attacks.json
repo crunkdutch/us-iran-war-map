@@ -126097,6 +126097,38 @@
     "media": []
   },
   {
+    "id": 480421998,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Strait of Hormuz: Strait Hormuz firmly controlled Iranian Forces",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Strait of Hormuz firmly controlled by Iranian Forces: IRGC commander📌 Birjand, IRNA – Major General Mostafa Izadi, Deputy Commander of the Islamic Revolution Guards Corps (IRGC), says IRGC firmly controls the Strait of Hormuz and Iran’s Armed Forces remain fully prepared in southern regions.Speaking at a ceremony in the northeastern province of South Khorasan on Tuesday, Izadi highlighted the capabilities of Iran’s Armed Forces, noting that units from the IRGC, the Army and the Law Enforceme",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
