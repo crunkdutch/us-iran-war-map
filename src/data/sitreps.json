@@ -287894,6 +287894,36 @@
     "verified": false
   },
   {
+    "id": 1788892991447,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Iranian media: Footage showing the moment the U.S. enemy’s MQ-1 hostile drone was intercepted and destroyed by the advanced air defense systems of the Islamic Revolutionary Guard Corps’ Navy and Aerospace Force, under the control of the country’s integrated air defense network, in the skies over the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788893003195,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Navy: We ambushed one of the latest smart, unmanned submarines belonging to the terrorist U.S. army at the entrance to the Strait of Hormuz.This smart submersible is equipped with the latest technologies in the field of underwater vehicles in the wo...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788839993867,
     "type": "airstrike",
     "location": "Sanaa",
@@ -288513,6 +288543,21 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 ❌ 🇸🇦 | Yemeni missile salvoes are being launched now.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788892911809,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC:The IRGC has released videos and images of the unmanned submarine.According to information released by domestic news agencies, the unmanned submarine in question is the Dive-LD, manufactured by Anduril.The unmanned submarine is 5.8 meters long and 1.2 meters in diameter, with an enduranc...",
     "media": [],
     "verified": false
   },

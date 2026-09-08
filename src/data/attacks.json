@@ -125855,6 +125855,38 @@
     "media": []
   },
   {
+    "id": 480455423,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: Iranian media Footage showing moment enemys",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Iranian media: Footage showing the moment the U.S. enemy’s MQ-1 hostile drone was intercepted and destroyed by the advanced air defense systems of the Islamic Revolutionary Guard Corps’ Navy and Aerospace Force, under the control of the country’s integrated air defense network, in the skies over the Strait of Hormuz.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480392001,
     "type": "intercept",
     "status": "confirmed",
