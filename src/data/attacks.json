@@ -126198,6 +126198,38 @@
     "media": []
   },
   {
+    "id": 480432015,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Israel, West Bank: Hamas warns Israeli regime over escalating",
+    "location": "Tehran, Israel, West Bank",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Hamas warns Israeli regime over escalating aggressions in occupied Al-Quds📌 Tehran, IRNA – The Palestinian Islamic Resistance Movement (Hamas) warns of the consequences of the Israeli regime’s decision to launch a wide-scale military operation in the northeast of occupied Al-Quds, saying the move was part of the regime’s ongoing aggression against Palestinians.In a statement, Hamas warned about what it described as the Israeli regime cabinet and military’s growing war crimes and the repercus",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
