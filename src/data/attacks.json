@@ -125882,6 +125882,152 @@
     "media": []
   },
   {
+    "id": 480401991,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Hodeidah, Yemen, Israel: Yemen Armed Forces statement targeting Aramco",
+    "location": "Hodeidah, Yemen, Israel",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemen Armed Forces statement on targeting Aramco facilities and Khamis Mushait Air Base:In the name of Allah, the Most Compassionate, the Most Merciful.“Those who defend themselves after being wronged, there is no blame against them.” God Almighty has spoken the truth.For twelve years, our dear Yemeni people have been subjected to aggression and a blockade by the criminal Saudi enemy. Over the past three days, the criminal Saudi enemy has launched a brutal and unjust aggression again",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480405323,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: Columns smoke fill skies over Jizan",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇾🇪 ❌ 🇸🇦 | Columns of smoke fill the skies over Jizan in southern Saudi Arabia after Yemeni forces struck oil facilities in the city.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/VqbpODsR7NuOVUckPaw0fXLAZwp7jFfTmBDVpcTysNOwLxgSUp8J9MQXtheVN49oTevjfhSKWsSZQpZDvWRHBnV8VTXCh-63Wui5prDeJ8YCAGUg-Fap_Ox404PSIxx3JqsOqhXJQEbIiFIPBt3Mdktm8KGwmqndApNLooM43PDR-b4AxifFQbAWVVePsaDFiOMHB2LnK04g5fRmMEANWI77E2fW865eJ1dAI14m9sJ6mIA82f5b385fVx1J8iKa2tE-fUY_K7IqJU6tEtQMgvJsKIVsXlM0Yfk1Fe5A31seVVNEj2ENOzQ2_idxMsOiRUKHErNr57zUT4V_G2hBMA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480408656,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia: Satellite imagery shows massive fires Saudi",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇾🇪❌🇸🇦| Satellite imagery shows massive fires at the Saudi Aramco Abha Bulk Plant and Jizan Refinery in Asir and Jizan Provinces, Saudi Arabia.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fTF-m2jJB_RQ5_33ciWeogHFoWQ2ALwYZLRwxKjqTZXMOKxESLiFOyzOpj2aG1JATvfuOojDIpadSa3Rnu0IB4z5lLDj83si3oEOCOkfrug00J2_2SpeghrogHXX9G9mOjD3ResUpnVoqqva8GlXMJip3Ise6zXT2oSD1qn0OmsQShdHMpTzh1958ThXUaAMqfXeZ-rmX8wAiVZXpQMKY617Piu3n0vphA6_Z4RPmEyT_1QRONgdGW_zCrxOB-MrsyFXfKRMOEO7Oeb9R5DRumF4Z2yXYYoURuDORLas8wTkOFdq5TXmWli0fl3eAnHY3OIiPVdlY2fW543KQLudeQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/pY8qHkfwP1iTBsNAgo5rUZo7FeHBrni991hltJx4v44E6jkhJy4W-syKQPGnKli_6rpZB66NUfOtG82dc_55tMqjMQ5cAbbfyDQt0GPS_lw36Dj6vCVb4nsEcJiv2O1gPqcioL8nE54scR7WukX1fRHLP1dRZ3QGZtNIZIhMEz-rK1bmAukM5-5rQ-LZh0REDlDlNjtVSb08ZT0T_6BKCQpxgGF9LxjJqWgKRHpGLDHwFU-7EhoPYDfpcy3R0te4aphjV2nAN1_VS9Jl03wQ-PWBXt26vAHHZi0s6jxOtkOG5CxBoFtfSD6HIMUGOy1XunF0KMPOdQmYUulqsIHxAw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UycA6tgcZD4x0FtWLDob2rJtzn8k7udeZIgZLX-0BM3M0WKDEo3ifpOZmEDp8rs4frIOnBRoI8hufi-XMOY20FOEFwhh_kbkjLFK0EOKdwVijH5i0PM0bLNfMjMZg-WwRqB0WHghbFh6GpWxjiEHT7q4kZrN1QgjwfA-GHiG-LcubnYFjWu_kjfV2hzQ5fwZjuo42ocRHVE6p73Yx3JOeWVnX4rCkfKJj6sTnZEEML96ooFM9Zjvg_vhhmIKOTGONQKXMtnsP7WreHc8NjzUjHmwsqHL9WAfP9F6xewHt-HvoRcLrK5K524Wrh3BIE7hk1U9gsowpq7U9aHZbUbuMQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480411990,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Yemen, Israel: Statement Issued Yemeni Armed ForcesIn Name",
+    "location": "Yemen, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Compassionate, the Most MercifulAllah Almighty says:“And whoever defends himself after having been wronged – there is no blame upon them.” Allah Almighty is Truthful For twelve years, our dear Yemeni people have been subjected to aggression and a blockade by the criminal Saudi enemy. During the past three days, the criminal Saudi enemy has launched a brutal and unjust aggression against our people through 121 airstrikes la",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
