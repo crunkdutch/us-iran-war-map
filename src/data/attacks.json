@@ -126028,6 +126028,38 @@
     "media": []
   },
   {
+    "id": 480415325,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Persian Gulf: Secretary Irans National Security Council recent",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Secretary of Iran's National Security Council: In recent days, Washington has received a clear warning from Iran's new missiles. The economic war will be met with the establishment of a maritime blockade zone across the Persian Gulf, extending to the…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
