@@ -126230,6 +126230,70 @@
     "media": []
   },
   {
+    "id": 480435356,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC Navy announces capture advanced American",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy announces capture of an advanced American unmanned submarine in the Strait of Hormuz:Statement issued by the IRGC NavyIn the name of Allah, the Most Compassionate, the Most Merciful.“And another blessing which you love: victory from Allah and a near conquest. And give glad tidings to the believers.” (Qur’an 61:13)People of the proud nation of Iran,With the special grace of Almighty Allah, fighters of the Islamic Revolutionary Guard Corps Navy captured one of the most advanced in",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480438698,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Oman: Real Madrid Inter Milan Champions League",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Real Madrid vs Inter Milan: Champions League – team news, lineups📌 Real Madrid vs Inter Milan match preview: team news, injuries, predicted lineups and how to watch Mourinho’s Champions League return.Real Madrid begin their 2026–27 Champions League campaign with one of the most intriguing fixtures imaginable as José Mourinho faces his former club Inter Milan at the Santiago Bernabéu. The Portuguese coach famously guided Inter to Champions League glory at this stadium in 2010 before taking ch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
