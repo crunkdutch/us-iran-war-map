@@ -126129,6 +126129,43 @@
     "media": []
   },
   {
+    "id": 480425336,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen, Saudi Arabia: According Yemeni Armed Forces spokesperson retaliation",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "According to the Yemeni Armed Forces spokesperson, in retaliation for Saudi Arabia's recent acts of aggression, their military launched a large-scale operation involving dozens of ballistic missiles and unmanned aerial vehicles.The strikes targeted Aramco installations in Abha and Najran, the economic hub and Aramco facility in Jizan, as well as the airbase at Khamis Mushait.The spokesperson affirmed that, with divine blessing, the attacks were highly accurate and inflicted significant destructi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nm-0MFmik23Nb0ZiZbiFzKI92680hiG3TZjwOp0TcQN57g2NL1oLlPREcxG3f2-IDJWijkZQgb9APN92V02EcZ9AobwWtHdy0NxTDc3qJARlUcEsLVSv9hK3LiIz_i7uQ61ADfmLp8DoDBpjPBcawkO7AcYu84ec3BQvyBGJy9zzI4rVmQnBiI-KmYjV3_DkxWLxjSadV8J6aeqarm0puu-iZyiYtDjO4YyNorve1EJaA58Nf4UYAtmWwyiWhRPsCin5xaGOuMqIoHOBejRx9kqH3HCy8UD8TjjX3tDmsom19j9j9UcgEP7QBhPEsQ96Kec0bs6L6-754Jq4xI5ckg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
