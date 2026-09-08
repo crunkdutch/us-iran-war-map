@@ -126294,6 +126294,70 @@
     "media": []
   },
   {
+    "id": 480442041,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Jeddah, Yemen, Saudi Arabia: Yemen retaliates against Saudi ArabiaIn these",
+    "location": "Jeddah, Yemen, Saudi Arabia",
+    "coordinates": [
+      21.5433,
+      39.1728
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪❌ 🇸🇦 | Yemen retaliates against Saudi Arabia:In these minutes, Yemen launches a massive wave of retaliatory strikes against Saudi Arabia as fighting intensifies across multiple fronts.• Ansar Allah launches a new wave of drone and missile attacks targeting southern Saudi Arabia.• Explosions are reported in Jazan, Abha, Najran, and Khamis Mushait, with air raid sirens sounding in several areas.• Direct hits are reported on an oil facility in Najran, southern Saudi Arabia.• Multiple explosio",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480445385,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Breaking Four Israeli airstrikes targeted town",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 Breaking — Four Israeli airstrikes targeted the town of Nabatieh al-Fawqa in southern Lebanon.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

@@ -288400,6 +288400,36 @@
     "verified": false
   },
   {
+    "id": 1788888497753,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 Breaking — Four Israeli airstrikes targeted the town of Nabatieh al-Fawqa in southern Lebanon.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788888440766,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 Breaking — Four Israeli airstrikes targeted the town of Nabatieh al-Fawqa in southern Lebanon.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
