@@ -286703,6 +286703,21 @@
     "verified": false
   },
   {
+    "id": 1788851148098,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHaaretz Hebrew newspaper: “Netanyahu received a warning from the President of the United Arab Emirates before October 7 regarding the intention to carry out a major operation against \"Israel\".”#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788773940284,
     "type": "airstrike",
     "location": "Tehran",
