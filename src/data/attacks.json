@@ -126195,7 +126195,12 @@
     "description": "🇮🇷 | Breaking — An American MQ-1 drone was detected and targeted over the strategic Strait of Hormuz by the air defense forces of the Islamic Republic of Iran’s Army in the southeast.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oDv_VSqxM1P-bZQwaaH6VUC9P2vbkRhmjxrlmJ0AqQnabbYljsLSUQNJ6fRroYgq90VmQ5WB_E4KL706HJUhxNaJCZuUishD_gSuHvrXF3ERFpE3b7MEhqYHHTpTcewGjINYCHw-4MJcsEYUQicCCzxoLLSH8GWNYCRotZBLog-vXndfRpZcUuZNUJnN6EpHC8Fo2pgCHebiuixowohvURzk0po6f02_g9-KH5dRF7VcWWfPKjYBPSrs48XxPPi1syr07XYI__OgLKbAZBkqzda7qBXprTUafXZjltqsOMaB0VxDRd2FJAWTgmuNKzdE45Y27sM-D7urpE5YuwCbCw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480432015,
@@ -126356,6 +126361,87 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 480448730,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Hormozgan, Strait of Hormuz: IRGCFootage moment intercepting destroying hostile American",
+    "location": "Hormozgan, Strait of Hormuz",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC:Footage of the moment of intercepting and destroying the hostile American MQ-1 enemy drone by the advanced air defense of the IRGC Navy and the IRGC Aerospace Force, under the control of the country's integrated air defense network, over the skies of the Strait of Hormuz in Hormozgan province, southern Iran.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2e8453dd42.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/O6B-zympGyNPtADcfO7HPQrq1qQctIXg1KRLvBviKfuJZsf5Ps40uaNhSsv4rP9teUh_mCnDG3ZZHdmE8EEIImsB9J0EXzZRnkkLs_eIJdlIf3hzTe7n2FQY4VpJsWb-RkqqdAWmd8-StHeXIS12SoU3_xg0wzvnBbHf83ZsvqrEueNb_1uhaJGh4H7uCT1J8QsIMUwvJCORd6h0CWuatwxnTlAuk1P-MnAVokcgUCry-5LzAxvy6SSazd1_lXnfuhuMsQNMmO95csinDL5lNUbuUT4hph1qvpTDuNbFSyI7XCpBt4ffP24fbiHixNnSUZVaCD-_FoNObTkORH8xJQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61758",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/O6B-zympGyNPtADcfO7HPQrq1qQctIXg1KRLvBviKfuJZsf5Ps40uaNhSsv4rP9teUh_mCnDG3ZZHdmE8EEIImsB9J0EXzZRnkkLs_eIJdlIf3hzTe7n2FQY4VpJsWb-RkqqdAWmd8-StHeXIS12SoU3_xg0wzvnBbHf83ZsvqrEueNb_1uhaJGh4H7uCT1J8QsIMUwvJCORd6h0CWuatwxnTlAuk1P-MnAVokcgUCry-5LzAxvy6SSazd1_lXnfuhuMsQNMmO95csinDL5lNUbuUT4hph1qvpTDuNbFSyI7XCpBt4ffP24fbiHixNnSUZVaCD-_FoNObTkORH8xJQ"
+      }
+    ]
+  },
+  {
+    "id": 480452076,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Hodeidah, Aden, Yemen: Images released Yemeni field media over",
+    "location": "Hodeidah, Aden, Yemen, Saudi Arabia",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Images released by Yemeni field media over the past 48 hours show precise strikes by the Yemeni Armed Forces against Saudi mercenaries on various battlefronts across the country.These developments carry direct messages in response to military movements along the Taiz and Hodeidah axes and other fronts, indicating an escalation of military activity along the front lines, with each side seeking to strengthen its positions and reorganize its forces on the battlefield.According to fiel",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61759",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GMIw1NgxGwj2qSQNeP3FUt2e2sVxLIj65gLmStAufakXoFZztGM-8l4z4EO_EK_MxWY1mV9JTmBHkpeLa2s4R4tL8q54FdlqAJVYPO4A0E5UHns1nQEYz0TKyTjOKn88_g3PnIHp4xWFZ09nppQQM2P8Q4dfgckVUAuRWzshqkvO9BS1UUHmgEGoU1WxmJuoCh62CUHpJiWVJPrIKiT8TzKrUWXYDZxfYZmSAsdKpJs25lKa6K-mNh4dpbZZI75CSl80qcEaxjPxpx70Jw7pw0jOM33maMsCHfjwWrWH0Lh-0u2h2y1A6bGLS3hWBAu5MMuZCLq3qYiJWQ471UL8Zw"
+      }
+    ]
   },
   {
     "id": 477331196,
