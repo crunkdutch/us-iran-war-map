@@ -288224,6 +288224,47 @@
     "verified": false
   },
   {
+    "id": 1788873084736,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪❌ 🇸🇦 | Ansar Allah inside Al-Yetmah Market in Al-Jawf Governorate, Yemen, amid the escape of Saudi-Abyssinian enemy mercenaries.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/2a1bd11153.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/DKYzA-ahIVqhOZkCrWt2ZUcPjOLDh9PAJezNf5hwLfU8QtBEgDhv9L7YhZMPjYyuWy3Q5_GuOz6GTM2O5vXGIW6gJIl7aKpYBWFLp_NfG-LkxybShVab044i_VqhIxFmFMNQhT7RnHrl5jpJ1WRJOO10TjqqXzK6ucJ7nCmf94sRpSKZi2BT0xfpLrkHw-GwdxnsqXmli8fWL1ndrcUsu6G2_k83A-faloNdex0J7KvUujkJjOJyi0BGg9ATrIcL4XGImO1CoGFDFlqyNe9HhFSRSngMDDhGMIoeYeU1ZTbKaA94lVtHiXmS7TMZd-Ovjmr6Sn3xQM0MTM4N5CUvQQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/61740",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/DKYzA-ahIVqhOZkCrWt2ZUcPjOLDh9PAJezNf5hwLfU8QtBEgDhv9L7YhZMPjYyuWy3Q5_GuOz6GTM2O5vXGIW6gJIl7aKpYBWFLp_NfG-LkxybShVab044i_VqhIxFmFMNQhT7RnHrl5jpJ1WRJOO10TjqqXzK6ucJ7nCmf94sRpSKZi2BT0xfpLrkHw-GwdxnsqXmli8fWL1ndrcUsu6G2_k83A-faloNdex0J7KvUujkJjOJyi0BGg9ATrIcL4XGImO1CoGFDFlqyNe9HhFSRSngMDDhGMIoeYeU1ZTbKaA94lVtHiXmS7TMZd-Ovjmr6Sn3xQM0MTM4N5CUvQQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788873057765,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — An American MQ-1 drone was detected and targeted over the strategic Strait of Hormuz by the air defense forces of the Islamic Republic of Iran’s Army in the southeast.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
