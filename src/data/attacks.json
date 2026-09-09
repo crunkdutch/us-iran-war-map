@@ -127317,6 +127317,38 @@
     "media": []
   },
   {
+    "id": 480539423,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-09",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Bab al-Mandab, Yemen, Saudi Arabia: Yemeni forces advance across western front",
+    "location": "Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni forces advance across western front as Khalid camp falls and Bab al-Mandab comes closer:Over the past two days, Saudi-backed gangs, supported by the Saudi Air Force, launched operations aimed at disrupting control lines in several areas of Yemen, particularly on the Al-Jawf front around the Al-Labnat and Al-Itma bases. Battles took place around the Jabal Al-Rawadi mountains between the two bases, while official AnsarAllah media later released footage of the fighting, saying ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
