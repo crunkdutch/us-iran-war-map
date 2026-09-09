@@ -125887,6 +125887,38 @@
     "media": []
   },
   {
+    "id": 480478880,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Lebanon, Israel: Enemy_MediaMaariv Hebrew Newspaper Ashkenazi Israeli army",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper– Avi Ashkenazi: The \"Israeli\" army will reinforce its forces in southern Lebanon ahead of the holiday period. The prevailing assessment within the \"Israeli\" army is that Hezbollah has not yet been defeated and has not finished fighting against “Israel”. The \"Israeli\" army expects Hezbollah to resort to offensive tactics by planting explosive devices and operating booby-trapped drones. The army added: “We do not rule out the possibility that it may attempt to a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480392001,
     "type": "intercept",
     "status": "confirmed",
