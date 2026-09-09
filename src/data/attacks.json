@@ -126613,6 +126613,76 @@
     "media": []
   },
   {
+    "id": 480468821,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Jordan: Footage shows mass launches solid liquidfuel",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Footage shows mass launches of solid- and liquid-fuel missiles against American bases of aggression, including Al-Azraq military base in Jordan.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61783",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Uzn5vhfTZ3E4QJWGsakDcbP5A3psu6MUo7_nb7ipF02HGa5Yzh7j7ThaA47fdcTtblXz_xBOuTlTc2nE6hDFTs6iNwZMF1EzSizyiu-KNMMpZGmW1hM_zKJecbk3j1Gvr61udtokTFaW68hyRZi4TpS1vUQVJo-N0ciVTTfr_MY_uILZHqveQMRXXzIeg9Y5-VsVK4dKO_Pt3aJY0v8XQk_jo9IZ20H_OSA-lPax8XP_Lf22OrpTaEQlA9qAI2DQOmWzCuvsEMWbChi7-KC-ZvAfc6W2XbRPVLBwJ14kL93t4cP1498VoH-t_pR4B7hNJOkKepUD1syAgDwpB-6b9Q"
+      }
+    ]
+  },
+  {
+    "id": 480472173,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Gilan, Strait of Hormuz, Persian Gulf: IRGCs statements IRGC Spokesman advanced technology",
+    "location": "Gilan, Strait of Hormuz, Persian Gulf, Jordan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC's statements:🇮🇷 IRGC Spokesman: No advanced technology can penetrate our surveillance layers in the Strait of HormuzBrigadier General Mohibi:The dawn capture of the most advanced unmanned submarine of the U.S. Army in 2025 means that no advanced technology can penetrate our surveillance layers in the Strait of Hormuz.Dominance over the Persian Gulf belongs to our young technological generation.Return to the Bay of Pigs.🇮🇷 Major General Abdollahi: Any attack on Iranian oil tankers",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

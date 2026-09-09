@@ -288742,6 +288742,27 @@
     "verified": false
   },
   {
+    "id": 1788923809395,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Footage shows mass launches of solid- and liquid-fuel missiles against American bases of aggression, including Al-Azraq military base in Jordan.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61783",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Uzn5vhfTZ3E4QJWGsakDcbP5A3psu6MUo7_nb7ipF02HGa5Yzh7j7ThaA47fdcTtblXz_xBOuTlTc2nE6hDFTs6iNwZMF1EzSizyiu-KNMMpZGmW1hM_zKJecbk3j1Gvr61udtokTFaW68hyRZi4TpS1vUQVJo-N0ciVTTfr_MY_uILZHqveQMRXXzIeg9Y5-VsVK4dKO_Pt3aJY0v8XQk_jo9IZ20H_OSA-lPax8XP_Lf22OrpTaEQlA9qAI2DQOmWzCuvsEMWbChi7-KC-ZvAfc6W2XbRPVLBwJ14kL93t4cP1498VoH-t_pR4B7hNJOkKepUD1syAgDwpB-6b9Q"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
