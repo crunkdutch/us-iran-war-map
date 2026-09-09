@@ -126779,6 +126779,38 @@
     "media": []
   },
   {
+    "id": 480492306,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Persian Gulf, Gulf of Oman, Jordan: Islamic_RepublicIssued Ministry Foreign Affairs Ministry For...",
+    "location": "Persian Gulf, Gulf of Oman, Jordan, Oman",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIssued by the Ministry of Foreign Affairs:– The Ministry of Foreign Affairs of the Islamic Republic of Iran strongly condemns the aggressive attack by the terrorist U.S. army on a number of Iranian oil tankers on Tuesday evening, 17 Shahrivar.– The U.S. military targeting of Iranian commercial vessels in the Persian Gulf and the Gulf of Oman, as a continuation of the U.S. military aggression, naval blockade, and economic war waged by the U.S. regime against Iran, constitutes a c",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480485591,
     "type": "airstrike",
     "status": "confirmed",
