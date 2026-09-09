@@ -126779,6 +126779,70 @@
     "media": []
   },
   {
+    "id": 480485591,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-09",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: sanctions will stop Irans aviation industry",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 US sanctions will not stop Iran’s aviation industry: Official📌 Tehran, IRNA — The head of Iran’s Civil Aviation Organization says new US sanctions against Iranian airlines are a continuation of a failed policy, stressing that they may raise costs but cannot halt the country’s flight operations.Reacting to Washington’s decision to blacklist 27 Iranian airlines, Captain Abouzar Shiroudi said on Wednesday that the move is neither innovative nor effective.​He noted that Iran’s aviation industry ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480488948,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-09",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Strait of Hormuz: IRGC urges media preserve Irans social",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 IRGC urges media to preserve Iran’s social cohesion📌 Arak, IRNA – The Islamic Revolution Guards Corps (IRGC) has urged Iranian media outlets to preserve the social solidarity and public cohesion that emerged during the recent conflicts against the country.Brigadier General Hossein Mohebbi, the IRGC’s public relations deputy and spokesperson, said on Wednesday that media organizations should accurately and continuously document national unity and strengthen public confidence in Iran’s domesti",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
