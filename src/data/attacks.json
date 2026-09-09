@@ -126811,6 +126811,38 @@
     "media": []
   },
   {
+    "id": 480499025,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Lebanon, Yemen: Islamic_RepublicSpokesperson Islamic Revolutionary Guard Cor...",
+    "location": "Lebanon, Yemen",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSpokesperson for the Islamic Revolutionary Guard Corps:– The imposed war with the world’s greatest overt powers ended at certain stages, but the nature of the war is still continuing.– This war, for the first time, directly brought strategic damage to the United States itself and affected the security and economic equations of that country.– If the enemy wants to end this situation, then, alongside a complete cessation of the war, it must stop threatening again, withdraw the arm",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480485591,
     "type": "airstrike",
     "status": "confirmed",
@@ -126870,6 +126902,38 @@
       "other": 0
     },
     "description": "📄 IRGC urges media to preserve Iran’s social cohesion📌 Arak, IRNA – The Islamic Revolution Guards Corps (IRGC) has urged Iranian media outlets to preserve the social solidarity and public cohesion that emerged during the recent conflicts against the country.Brigadier General Hossein Mohebbi, the IRGC’s public relations deputy and spokesperson, said on Wednesday that media organizations should accurately and continuously document national unity and strengthen public confidence in Iran’s domesti",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480495665,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-09",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Tehran, Strait of Hormuz, Persian Gulf: Iran will firmly respond enemy aggression",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf, Jordan, Oman",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran will firmly respond to any enemy aggression: Foreign Ministry📌 Tehran, IRNA – Iran's Foreign Ministry has issued yet another strong condemnation of US attacks on several oil tankers, warning that the Iranian Armed Forces will firmly and decisively respond to enemy aggression by exercising their inherent right to self-defense.In a statement on Wednesday, the ministry noted that the attacks by \"the US terrorist army\" on Iranian commercial ships are not only a dangerous escalation of tensi",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
