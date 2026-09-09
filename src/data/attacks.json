@@ -126549,6 +126549,70 @@
     ]
   },
   {
+    "id": 480462120,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Jask, Kharg Island, Strait of Hormuz: hours latest escalation began after American",
+    "location": "Jask, Kharg Island, Strait of Hormuz, Persian Gulf, Bahrain, Kuwait",
+    "coordinates": [
+      25.645,
+      57.7744
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ | 6 hours ago: The latest escalation began after American aggression attacked 3 Iranian oil tankers in the Persian Gulf and the Strait of Hormuz. Reports said America targeted Iranian oil tankers near Kharg Island and Jask, with some reports claiming that three Iranian oil tankers were struck. Minutes before the American attacks, several reports claimed American tankers changed their formation in the region. The attacks came shortly after an IRGC commander warned that any American strike o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480465470,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Isfahan, Tabriz, Kerman: retaliation Iran launched largescale military operation",
+    "location": "Isfahan, Tabriz, Kerman, Yazd, Khorramabad, Kermanshah, Zanjan, Khomeyn, Jordan, Bahrain, Oman, Israel",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | In retaliation, Iran launched a large-scale military operation codenamed “Ya Ali Karrar.” Ballistic missile launches were reported from multiple missile cities across Iran, including Kermanshah, Isfahan, Yazd, Zanjan, Khorramabad, Khomeyn, and Tabriz. Initial reports estimated that more than 30 ballistic missiles were launched, while later reports put the total at 35 to 40 missiles in the first wave alone, followed by a second wave of launches from central Iran, including additional launc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
