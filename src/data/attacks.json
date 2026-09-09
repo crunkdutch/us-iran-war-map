@@ -126683,6 +126683,38 @@
     "media": []
   },
   {
+    "id": 480475526,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Tehran, Strait of Hormuz, Jordan: fighter facilities targeted Jordan IRGC Tehran",
+    "location": "Tehran, Strait of Hormuz, Jordan",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 15,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ US fighter jet facilities targeted in Jordan: IRGC📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says its Aerospace Force has targeted facilities used for the maintenance, preparation and deployment of US F-35, F-16 and F-15 fighter jets at the Al-Azraq airbase in Jordan.According to an IRGC statement issued early Wednesday, the attack was carried out with solid- and liquid-fueled ballistic missiles. It said the strike came in response to US attacks on Iranian oil tankers and co",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

@@ -288886,6 +288886,27 @@
     "verified": false
   },
   {
+    "id": 1788937157298,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iranian missiles rain down on the Al-Azraq base in Jordan, a site housing American troops.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/39079",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Drh_FC67fUlJLbfQJyv2pjNAk0l0wftthKCP8u2AxNA9QGlz--fhgWoTRUwwWczjHGvw9o_0D6gA-2EfDCTInbgu8Qwt52a8DaBCi96IkBorU0c9pXAG7SGwoL3XFKjnin2zKvpatpLwPrFN4sVhtaED0LoQIFEcTjOi8aWHrOTi6LVmN4rLwJXN4-Bdw_kbfCtm3WZGSDYAjmVE56NQIs7tS2zEQAsf1LCs7hqpuCE0Pi8mQJDuZkwRInLoVfGAt2VjCfwEB7XSBQmQPJ809MkhQOWN_p3E2oEOWmAqITQSaK7vYT3CvCt4HE9ug8PyW_dwrEqCTxoY4VnQw0HV4Q"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
