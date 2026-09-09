@@ -289042,6 +289042,378 @@
     "verified": false
   },
   {
+    "id": 1788970131506,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Continuous Yemeni rocket launches are occurring now.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970067645,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Damage to Saudi Arabia’s King Khalid Air Base following a Yemeni missile attack:Satellite images show damage inflicted on King Khalid Air Base in Saudi Arabia, with clear impact marks visible on the surface of the base’s aircraft maintenance training center and across the facility. The sat...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1eb40b4064.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vG_aIFQR8-PLbD8B-yra2kCs-T5jFZkM8vOl3agEmuUbta6I8Vw-c-jhd-ocVxeVgu4VFxqbP31C0_dPI7N3S-hXrIVIlMcEq5Q8FqaJv1ad8DefaL3buV4--Q7VLRSJc419T13uzdASTe2ArPUgQXaI2V79clVb371-5n7ThEF7ryhEl9x0xFPh_NdeVutnXbTF0Lter1x9QsrkSrJM6buzG9XU0HGHsjp5pkIpVKiAsRqsLn-ZJ7hukTbOuMyN77lzYufVMcXbmmfxJIDEjCz_hQNrDRoN-sfS9bcd_Mqr8sWqApi_VwninQ0BEfDKtiH33fRlCzoZidPSjcqNFw"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b9faa723eb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vG_aIFQR8-PLbD8B-yra2kCs-T5jFZkM8vOl3agEmuUbta6I8Vw-c-jhd-ocVxeVgu4VFxqbP31C0_dPI7N3S-hXrIVIlMcEq5Q8FqaJv1ad8DefaL3buV4--Q7VLRSJc419T13uzdASTe2ArPUgQXaI2V79clVb371-5n7ThEF7ryhEl9x0xFPh_NdeVutnXbTF0Lter1x9QsrkSrJM6buzG9XU0HGHsjp5pkIpVKiAsRqsLn-ZJ7hukTbOuMyN77lzYufVMcXbmmfxJIDEjCz_hQNrDRoN-sfS9bcd_Mqr8sWqApi_VwninQ0BEfDKtiH33fRlCzoZidPSjcqNFw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61811?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vG_aIFQR8-PLbD8B-yra2kCs-T5jFZkM8vOl3agEmuUbta6I8Vw-c-jhd-ocVxeVgu4VFxqbP31C0_dPI7N3S-hXrIVIlMcEq5Q8FqaJv1ad8DefaL3buV4--Q7VLRSJc419T13uzdASTe2ArPUgQXaI2V79clVb371-5n7ThEF7ryhEl9x0xFPh_NdeVutnXbTF0Lter1x9QsrkSrJM6buzG9XU0HGHsjp5pkIpVKiAsRqsLn-ZJ7hukTbOuMyN77lzYufVMcXbmmfxJIDEjCz_hQNrDRoN-sfS9bcd_Mqr8sWqApi_VwninQ0BEfDKtiH33fRlCzoZidPSjcqNFw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61812?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nAt4K-kNNDAG8el00XoaIH_MOZUPx5ELgtpblWJ_GsGYwbdu84l2rS048ji8zNSDLC3fVg46n6qK5YHHlj4LFw3v2smBFe96-9kadzHjMBUjfX7U1iDtiHk8FLWNDAqor3B--__Lgv8zfQKvlU3w-HlMkwVMBfN36MUPt8PnQ9n4vwx0v2eVMEppb-mtNN5Icv6cMsKd3gL9VWAuSYIjCxW7Tzx_qEAuZEW5fxTMv1r73QDEk-h9E6b_faD0QgUhMQGA0fTCcHVa_MHDxcCfqjKVxbsWnTMO4y_TWhFLmdlC_pYfXR0AxSHsWiivi74Di7tAtOm_B842ZNVVE0hfbg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788970153227,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Damage to Saudi Arabia’s King Khalid Air Base following a Yemeni missile attack:Satellite images show damage inflicted on King Khalid Air Base in Saudi Arabia, with clear impact marks visible on the surface of the base’s aircraft maintenance training center and across the facility. The sat...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1eb40b4064.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vG_aIFQR8-PLbD8B-yra2kCs-T5jFZkM8vOl3agEmuUbta6I8Vw-c-jhd-ocVxeVgu4VFxqbP31C0_dPI7N3S-hXrIVIlMcEq5Q8FqaJv1ad8DefaL3buV4--Q7VLRSJc419T13uzdASTe2ArPUgQXaI2V79clVb371-5n7ThEF7ryhEl9x0xFPh_NdeVutnXbTF0Lter1x9QsrkSrJM6buzG9XU0HGHsjp5pkIpVKiAsRqsLn-ZJ7hukTbOuMyN77lzYufVMcXbmmfxJIDEjCz_hQNrDRoN-sfS9bcd_Mqr8sWqApi_VwninQ0BEfDKtiH33fRlCzoZidPSjcqNFw"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/b9faa723eb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vG_aIFQR8-PLbD8B-yra2kCs-T5jFZkM8vOl3agEmuUbta6I8Vw-c-jhd-ocVxeVgu4VFxqbP31C0_dPI7N3S-hXrIVIlMcEq5Q8FqaJv1ad8DefaL3buV4--Q7VLRSJc419T13uzdASTe2ArPUgQXaI2V79clVb371-5n7ThEF7ryhEl9x0xFPh_NdeVutnXbTF0Lter1x9QsrkSrJM6buzG9XU0HGHsjp5pkIpVKiAsRqsLn-ZJ7hukTbOuMyN77lzYufVMcXbmmfxJIDEjCz_hQNrDRoN-sfS9bcd_Mqr8sWqApi_VwninQ0BEfDKtiH33fRlCzoZidPSjcqNFw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61811?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vG_aIFQR8-PLbD8B-yra2kCs-T5jFZkM8vOl3agEmuUbta6I8Vw-c-jhd-ocVxeVgu4VFxqbP31C0_dPI7N3S-hXrIVIlMcEq5Q8FqaJv1ad8DefaL3buV4--Q7VLRSJc419T13uzdASTe2ArPUgQXaI2V79clVb371-5n7ThEF7ryhEl9x0xFPh_NdeVutnXbTF0Lter1x9QsrkSrJM6buzG9XU0HGHsjp5pkIpVKiAsRqsLn-ZJ7hukTbOuMyN77lzYufVMcXbmmfxJIDEjCz_hQNrDRoN-sfS9bcd_Mqr8sWqApi_VwninQ0BEfDKtiH33fRlCzoZidPSjcqNFw"
+      },
+      {
+        "url": "https://t.me/enemywatch/61812?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nAt4K-kNNDAG8el00XoaIH_MOZUPx5ELgtpblWJ_GsGYwbdu84l2rS048ji8zNSDLC3fVg46n6qK5YHHlj4LFw3v2smBFe96-9kadzHjMBUjfX7U1iDtiHk8FLWNDAqor3B--__Lgv8zfQKvlU3w-HlMkwVMBfN36MUPt8PnQ9n4vwx0v2eVMEppb-mtNN5Icv6cMsKd3gL9VWAuSYIjCxW7Tzx_qEAuZEW5fxTMv1r73QDEk-h9E6b_faD0QgUhMQGA0fTCcHVa_MHDxcCfqjKVxbsWnTMO4y_TWhFLmdlC_pYfXR0AxSHsWiivi74Di7tAtOm_B842ZNVVE0hfbg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788970150929,
+    "type": "drone",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-09-09",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Updates (+ve)🇾🇪 Yemen• The Yemeni Armed Forces reportedly imposed control over the Khalid bin Al-Walid Camp east of Al-Mokha in Taiz governorate.• Field sources reported the death of Mohammad Maqsa, commander of the 13th Brigade affiliated with Saudi-backed proxy gangs, during fighting on the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970083378,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-09",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Updates (+ve)🇾🇪 Yemen• The Yemeni Armed Forces reportedly imposed control over the Khalid bin Al-Walid Camp east of Al-Mokha in Taiz governorate.• Field sources reported the death of Mohammad Maqsa, commander of the 13th Brigade affiliated with Saudi-backed proxy gangs, during fighting on the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970120389,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-09",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Updates (+ve)🇾🇪 Yemen• The Yemeni Armed Forces reportedly imposed control over the Khalid bin Al-Walid Camp east of Al-Mokha in Taiz governorate.• Field sources reported the death of Mohammad Maqsa, commander of the 13th Brigade affiliated with Saudi-backed proxy gangs, during fighting on the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970158097,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-09",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Updates (-ve)🇸🇾 Syria• Israeli forces opened machine gun fire from the Al-Jazeera Barracks toward Wadi Ma’ariya in the western Daraa countryside of occupied southern Syria.🇱🇧 Lebanon• Israeli artillery shelling targeted the town of Beit Yahoun.• Israeli forces opened machine gun fire toward...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970105842,
+    "type": "rocket",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-09",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Updates (-ve)🇸🇾 Syria• Israeli forces opened machine gun fire from the Al-Jazeera Barracks toward Wadi Ma’ariya in the western Daraa countryside of occupied southern Syria.🇱🇧 Lebanon• Israeli artillery shelling targeted the town of Beit Yahoun.• Israeli forces opened machine gun fire toward...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970128300,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-09",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Updates (-ve)🇸🇾 Syria• Israeli forces opened machine gun fire from the Al-Jazeera Barracks toward Wadi Ma’ariya in the western Daraa countryside of occupied southern Syria.🇱🇧 Lebanon• Israeli artillery shelling targeted the town of Beit Yahoun.• Israeli forces opened machine gun fire toward...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970125867,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-09",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | Updates (-ve)🇸🇾 Syria• Israeli forces opened machine gun fire from the Al-Jazeera Barracks toward Wadi Ma’ariya in the western Daraa countryside of occupied southern Syria.🇱🇧 Lebanon• Israeli artillery shelling targeted the town of Beit Yahoun.• Israeli forces opened machine gun fire toward...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970156925,
+    "type": "missile",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Cruise missiles launched from Sirik in southern Iran toward the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970136195,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Cruise missiles launched from Sirik in southern Iran toward the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970113163,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 US unable to sustain regional presence, Iran controls Strait of Hormuz: IRGC spokesperson📌 Arak, IRNA – The Islamic Revolution Guards Corps (IRGC) spokesperson, Brigadier General Hossein Mohebbi, says that the United States lacks the ability to maintain its presence in the region, noting that th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970117393,
+    "type": "missile",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-09-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 US unable to sustain regional presence, Iran controls Strait of Hormuz: IRGC spokesperson📌 Arak, IRNA – The Islamic Revolution Guards Corps (IRGC) spokesperson, Brigadier General Hossein Mohebbi, says that the United States lacks the ability to maintain its presence in the region, noting that th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970163815,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran holds UN Security Council responsible for Israeli attacks on Lebanon📌 Tehran, IRNA – Foreign Ministry has condemned Israel’s continued military attacks on Lebanon, saying the UN Security Council bore responsibility for failing to act against Israeli aggression.In a statement on Wednesday, t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970178045,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran holds UN Security Council responsible for Israeli attacks on Lebanon📌 Tehran, IRNA – Foreign Ministry has condemned Israel’s continued military attacks on Lebanon, saying the UN Security Council bore responsibility for failing to act against Israeli aggression.In a statement on Wednesday, t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970147419,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran holds UN Security Council responsible for Israeli attacks on Lebanon📌 Tehran, IRNA – Foreign Ministry has condemned Israel’s continued military attacks on Lebanon, saying the UN Security Council bore responsibility for failing to act against Israeli aggression.In a statement on Wednesday, t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970151667,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran's envoy to OIC and FM Araghchi review latest developments in Islamic world📌 Tehran, IRNA – The Ambassador and Permanent Representative of the Islamic Republic of Iran to the Organization of Islamic Cooperation (OIC) has met with Foreign Minister Abbas Araghchi to review challenges facing th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970160980,
+    "type": "airstrike",
+    "location": "Jeddah",
+    "coordinates": [
+      21.5433,
+      39.1728
+    ],
+    "date": "2026-09-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran's envoy to OIC and FM Araghchi review latest developments in Islamic world📌 Tehran, IRNA – The Ambassador and Permanent Representative of the Islamic Republic of Iran to the Organization of Islamic Cooperation (OIC) has met with Foreign Minister Abbas Araghchi to review challenges facing th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970155051,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran's envoy to OIC and FM Araghchi review latest developments in Islamic world📌 Tehran, IRNA – The Ambassador and Permanent Representative of the Islamic Republic of Iran to the Organization of Islamic Cooperation (OIC) has met with Foreign Minister Abbas Araghchi to review challenges facing th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970118821,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran's envoy to OIC and FM Araghchi review latest developments in Islamic world📌 Tehran, IRNA – The Ambassador and Permanent Representative of the Islamic Republic of Iran to the Organization of Islamic Cooperation (OIC) has met with Foreign Minister Abbas Araghchi to review challenges facing th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788970114805,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran's envoy to OIC and FM Araghchi review latest developments in Islamic world📌 Tehran, IRNA – The Ambassador and Permanent Representative of the Islamic Republic of Iran to the Organization of Islamic Cooperation (OIC) has met with Foreign Minister Abbas Araghchi to review challenges facing th...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
