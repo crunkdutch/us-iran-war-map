@@ -288815,6 +288815,77 @@
     "verified": false
   },
   {
+    "id": 1788934901415,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC spokesperson: No advanced technology can evade Iran’s surveillance layers in Strait of Hormuz📌 Tehran, IRNA – The spokesperson for the Islamic Revolution Guards Corps (IRGC), Brigadier General Ali Mohammad Naini, has said Iran’s Armed Forces have the capability to detect and monitor even th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788934926215,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC spokesperson: No advanced technology can evade Iran’s surveillance layers in Strait of Hormuz📌 Tehran, IRNA – The spokesperson for the Islamic Revolution Guards Corps (IRGC), Brigadier General Ali Mohammad Naini, has said Iran’s Armed Forces have the capability to detect and monitor even th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788934969346,
+    "type": "naval",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-09-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 IRGC spokesperson: No advanced technology can evade Iran’s surveillance layers in Strait of Hormuz📌 Tehran, IRNA – The spokesperson for the Islamic Revolution Guards Corps (IRGC), Brigadier General Ali Mohammad Naini, has said Iran’s Armed Forces have the capability to detect and monitor even th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1788934982052,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Video shows Iranian missiles striking out at American assets in Jordan.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ba16aa62b1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dQ0830_osrtfqqlSJFIRyss8_4AICDCrSpoWaycRurRomZzSipkwxpjS_o8ZI93fuYiCzgAI_A9gg9OahuICDh3EVPyBuvhqdCBbElEjlWBGlxCdhX2g1BHmQUJx0ACXxtAQqu46RxKE3u7H2W3JUlpi9DOhgakITYlKPWjLoRBgQe1bOnmzTnfkz7QFv-kNnQbd6ZyplksPT3ieq-RFROl4fl934_vi6feCsxbKIyhsodGoyiOUzdxXOdcV_Wpl4Y_bxml-bK5nk2-YK_bNyMEwn-ha3ZqwFHUoOncnBdFaytYGZkNAFcTgMTCB2T1tDwcOhbZgSVMPQ4-tntgq1g"
+      },
+      {
+        "url": "https://t.me/Irna_en/39078",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dQ0830_osrtfqqlSJFIRyss8_4AICDCrSpoWaycRurRomZzSipkwxpjS_o8ZI93fuYiCzgAI_A9gg9OahuICDh3EVPyBuvhqdCBbElEjlWBGlxCdhX2g1BHmQUJx0ACXxtAQqu46RxKE3u7H2W3JUlpi9DOhgakITYlKPWjLoRBgQe1bOnmzTnfkz7QFv-kNnQbd6ZyplksPT3ieq-RFROl4fl934_vi6feCsxbKIyhsodGoyiOUzdxXOdcV_Wpl4Y_bxml-bK5nk2-YK_bNyMEwn-ha3ZqwFHUoOncnBdFaytYGZkNAFcTgMTCB2T1tDwcOhbZgSVMPQ4-tntgq1g"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
