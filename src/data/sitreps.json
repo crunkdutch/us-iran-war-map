@@ -288763,6 +288763,58 @@
     "verified": false
   },
   {
+    "id": 1788928280291,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇾🇪 ❌ 🇸🇦 | New satellite images show a Yemeni ballistic missile striking near the aircraft shelters of the Royal Saudi Air Force at King Khalid Air Base in southern Saudi Arabia. King Khalid Air Base is one of Saudi Arabia's key military air bases and hosts the Saudi Air Force's F-15 fighter j...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/30303fdf23.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m1jcXKbthQCq7tcxlBJDALhGa9Plu_9lOJQhjEGeIPTczKx-UcPplsCC8iuA-DJb1aQ4UYnIz-31sibBE3np-I2hN7MAPGbA_9XGNwDH0yJWanMepz6e4A3LGQPjGYxxHtMY6x4SlF1uyYsjJmOlXMlbfRRa4ZrbgR6ISv7HRo1KmZ22bur9QGHQVfwUUx6hIp_zi0RLz5bUvkAVjuMg7rSNMDCgVVQxUTgFwNB7W42-DRjgSz7UL25ojoxcBuooDm2brqVlkF-_JToI5F1zE9UDDPAyqti9TYmKwT1ClAZyOjRMSFddBC6asRI6ZXPPousaZVFk1QkOa6Qryc7R5A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61788",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m1jcXKbthQCq7tcxlBJDALhGa9Plu_9lOJQhjEGeIPTczKx-UcPplsCC8iuA-DJb1aQ4UYnIz-31sibBE3np-I2hN7MAPGbA_9XGNwDH0yJWanMepz6e4A3LGQPjGYxxHtMY6x4SlF1uyYsjJmOlXMlbfRRa4ZrbgR6ISv7HRo1KmZ22bur9QGHQVfwUUx6hIp_zi0RLz5bUvkAVjuMg7rSNMDCgVVQxUTgFwNB7W42-DRjgSz7UL25ojoxcBuooDm2brqVlkF-_JToI5F1zE9UDDPAyqti9TYmKwT1ClAZyOjRMSFddBC6asRI6ZXPPousaZVFk1QkOa6Qryc7R5A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1788928272662,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇾🇪 ❌ 🇸🇦 | New satellite images show a Yemeni ballistic missile striking near the aircraft shelters of the Royal Saudi Air Force at King Khalid Air Base in southern Saudi Arabia. King Khalid Air Base is one of Saudi Arabia's key military air bases and hosts the Saudi Air Force's F-15 fighter j...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/30303fdf23.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m1jcXKbthQCq7tcxlBJDALhGa9Plu_9lOJQhjEGeIPTczKx-UcPplsCC8iuA-DJb1aQ4UYnIz-31sibBE3np-I2hN7MAPGbA_9XGNwDH0yJWanMepz6e4A3LGQPjGYxxHtMY6x4SlF1uyYsjJmOlXMlbfRRa4ZrbgR6ISv7HRo1KmZ22bur9QGHQVfwUUx6hIp_zi0RLz5bUvkAVjuMg7rSNMDCgVVQxUTgFwNB7W42-DRjgSz7UL25ojoxcBuooDm2brqVlkF-_JToI5F1zE9UDDPAyqti9TYmKwT1ClAZyOjRMSFddBC6asRI6ZXPPousaZVFk1QkOa6Qryc7R5A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61788",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m1jcXKbthQCq7tcxlBJDALhGa9Plu_9lOJQhjEGeIPTczKx-UcPplsCC8iuA-DJb1aQ4UYnIz-31sibBE3np-I2hN7MAPGbA_9XGNwDH0yJWanMepz6e4A3LGQPjGYxxHtMY6x4SlF1uyYsjJmOlXMlbfRRa4ZrbgR6ISv7HRo1KmZ22bur9QGHQVfwUUx6hIp_zi0RLz5bUvkAVjuMg7rSNMDCgVVQxUTgFwNB7W42-DRjgSz7UL25ojoxcBuooDm2brqVlkF-_JToI5F1zE9UDDPAyqti9TYmKwT1ClAZyOjRMSFddBC6asRI6ZXPPousaZVFk1QkOa6Qryc7R5A"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
