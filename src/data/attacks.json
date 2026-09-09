@@ -126747,6 +126747,38 @@
     "media": []
   },
   {
+    "id": 480482235,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bandar Abbas, Minab, Hormozgan: Irans Hormozgan targets harvest 200000 metric",
+    "location": "Bandar Abbas, Minab, Hormozgan, Persian Gulf",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran’s Hormozgan targets harvest 200,000 metric tons of dates; 20% for export📌 Bandar Abbas, IRNA – Iran’s southern Hormozgan Province is expected to harvest around 200,000 tons of high-quality dates this year, with about 20 percent destined for international markets.Some 50,000 tons have already been harvested since the season began in mid-June in Minab. Harvesting will continue until late November, ending with the premium Piarom variety in Hajiabad.​Hormozgan ranks third nationally in date",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
