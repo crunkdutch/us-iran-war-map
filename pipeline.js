@@ -78,6 +78,11 @@ async function main() {
     process.exit(1)
   }
 
+  // 2b. Prune raw HTML older than the retention window (scratch input only;
+  //     parsed results already live in the JSON stores). Best-effort — never
+  //     blocks a push if pruning fails.
+  run('Pruning old raw HTML sources', 'node src/data/prune-sources.js', 120000)
+
   // 3. Check if there are changes
   const status = execSync('git status --porcelain', { cwd: PROJECT_DIR }).toString().trim()
 
