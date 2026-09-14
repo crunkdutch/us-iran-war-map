@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw Telegram HTML archive — local-only parse input, NOT used by the app
+# or Vercel (the site reads the parsed *.json). Keeps the repo and every
+# deploy from carrying gigabytes of transient HTML.
+/src/data/sources/
+
+# local runtime dedup state — changes every run, not part of the app
+/src/data/ingest-state.json
