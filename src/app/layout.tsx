@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import HUDOverlay from "@/components/HUDOverlay";
 
@@ -37,6 +38,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <HUDOverlay />
         {children}
+        <Analytics />
       </body>
     </html>
   );
