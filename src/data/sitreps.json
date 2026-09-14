@@ -169830,6 +169830,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/SqC922LVa2wszxcT0s3RIRDTUzhehGbiDK8s_4FgG1oTqm6GEhdCjiN74BK0XFRNQCg7QBFYao1zc9iOPdO9cLH78A6mqUyShOPQk-M1JVk22jg-sklqsLfGvzDMxQZodhbLq9vcfTc7x3sqoTQLr8ie-k4xY1y_1su2hOHg4UQ1oBSOLjYBX1VUB2P_Ex7hteCuZJDTNm0c14IT1lunYCteZ0mEMSpp7CfxWMNqFPIU4hFjqsPw_sqrw97teQJLD7xtT_VlNRaRC9uhDNzFeAFYQoqnPu_Ml0vBZk-GxtJJDgdbex5SBAxpI-h5fIdiUyFyTLeGH-qV2IkCV98DXg.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CvsWoHzo9Oza-PrTM4HaodZo89v5yqOaaKaWKRpD1qROBWjEjSkgpJ4TyYAIIq8pSs6EWNg_GAM2psmGYVfCoZkeFZIlOWm8yaCyx44iLfHtkUKtSicDXbeA4ZxE8XpBu7HRfejN2e4ewXrMCsbAwTY6pOWlZUp6zD5kBl4kAyUUHcjQVp55WUFZqhldXQSPUhE1AxqBGhH6uX9n9uBaAjEWzg9xA_kuBjV87Ur6HUHCwFmPV2s1EexhdkfBe4Zqc1ObwnVBIyUa2BVFCXuu2OyfICtmfNlAcjiI9aemXl87oBSJzOVJyh9PDRgOnDD9JP9tfipTXm8S06KZoGcUVA.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -173584,6 +173588,21 @@
     "verified": false
   },
   {
+    "id": 1789405975732,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-11",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenYemeni Ministry of Foreign Affairs:– We reiterate that the maritime navigation over which the Saudi regime laments and which it uses to incite the international community against Sana’a is safe.– If the Saudi enemy believes that, after its aircraft carried out 300 airstrikes over five days, it...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789398673872,
     "type": "naval",
     "location": "Yemen",
@@ -174817,6 +174836,145 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ Israeli regime continues attacks on Lebanon📌 Tehran, IRNA — Lebanese sources have reported continued violations of the ceasefire by Israeli regime forces, including airstrikes, artillery fire, and destructive actions in southern Lebanon.The sources said on Monday that Israeli forces carried out ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789406010120,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | More satellite images show a Yemeni drone attack on a pumping station along the East-West crude oil pipeline, with a possible burn mark visible near what appears to be one of the station’s main crude oil pump trains.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0e271add70.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rP5DSStbvERikOyR4XXXMe9sGRIcyQcb9oy5zkagI5xdbjd5tkDgTBdlS3L005v9ujLDK56eOywpaRZmdf3HdoPGeseHNc23drdPFIbgsHH0dHdCaoYD3JLsTbtow-QLDIMRfWoQSmo01zg--GwNezWJaq05SKipMjtpNh3HhbNT0PDxacJpE3a_CdOB3iyFLd1cmpVtbIGbMq1voiYzoCwRUu4kl4GGdY9WVV-PzGmjpFzzYszNTwzV3z-zFRLJJqk8sYEqlw5agnvCampyNN7ehavQHCzaU9OxlDbMgGdofKuY3MgKTT-wop5sZASObj01FZq5K_RrGyKdUgknuA"
+      },
+      {
+        "url": "https://t.me/enemywatch/62107",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rP5DSStbvERikOyR4XXXMe9sGRIcyQcb9oy5zkagI5xdbjd5tkDgTBdlS3L005v9ujLDK56eOywpaRZmdf3HdoPGeseHNc23drdPFIbgsHH0dHdCaoYD3JLsTbtow-QLDIMRfWoQSmo01zg--GwNezWJaq05SKipMjtpNh3HhbNT0PDxacJpE3a_CdOB3iyFLd1cmpVtbIGbMq1voiYzoCwRUu4kl4GGdY9WVV-PzGmjpFzzYszNTwzV3z-zFRLJJqk8sYEqlw5agnvCampyNN7ehavQHCzaU9OxlDbMgGdofKuY3MgKTT-wop5sZASObj01FZq5K_RrGyKdUgknuA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789405990785,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Another pump station (not the previous one): Satellite images show extensive damage to Station 9 of Saudi Arabia’s East-West oil pipeline, caused by a drone attack.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cc5de31ae4.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KdZXIzn9QiQ3R7_IngZwEVFLwzDTzd4OKFKlQz0BZVg3vLRVxY3BsNv-qS6MZR3V1EAqPP0H924TkyXl5aNnIff8s3g4QYN849HU0mp7TKw798copETNXheY4z2KsECGFs8GGtNlhu-gbx6eGZ5TJX7Le9ow_L8wrrTVlmzLQh7UaQfwD7VuCz2kF3p1Efs6H_R44D6q-_PNrzTLkseopPO0SDWvuB1H_LdH6JN1jzOs2CGVCJerrdG2omrrqnwLbZas7JlWfylZXrVuHrk8pqmSgAhRXE0oA805V19xzwdMKLSLD6zTamDXCF8lNdWITf5sKfOgAw7yQOP90ebcMg"
+      },
+      {
+        "url": "https://t.me/enemywatch/62108",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KdZXIzn9QiQ3R7_IngZwEVFLwzDTzd4OKFKlQz0BZVg3vLRVxY3BsNv-qS6MZR3V1EAqPP0H924TkyXl5aNnIff8s3g4QYN849HU0mp7TKw798copETNXheY4z2KsECGFs8GGtNlhu-gbx6eGZ5TJX7Le9ow_L8wrrTVlmzLQh7UaQfwD7VuCz2kF3p1Efs6H_R44D6q-_PNrzTLkseopPO0SDWvuB1H_LdH6JN1jzOs2CGVCJerrdG2omrrqnwLbZas7JlWfylZXrVuHrk8pqmSgAhRXE0oA805V19xzwdMKLSLD6zTamDXCF8lNdWITf5sKfOgAw7yQOP90ebcMg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789406005266,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian military forces are not free to act&#33;Fuad Izadi, Iranian political analyst and professor at the University of Tehran: The worst decision by Pezeshkian and Ghalibaf is keeping the country waiting for an agreement that was never serious from the beginning, while the other side’s posi...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/66f5b85dd7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/b63d32uLuDDbpEIN86hagaH8uXN5VlrdpTpjG96URYtcqOjHNe7npobj--v8DQSiHpDc6c9qZsmz_p0U-OnGQRoQdVlES7b1R0lqBEoQbHXmnPV0N5FbuPuJ5idQytKbY5mYCaK3TZTVNCs2w2LQ3IU1YmoId_xRK_Fthqkr-7qerx3K49fW0_s6JZKCStwmzW7vceEjbUhmE0no1vTaC6-bC8fg8F9pa_G_5TVz2Ic74ylnF1BoZpbyK8p85IvyLVh5xkPKX-tEomGPAvJDFnTndnJ8XCmNGqzreYZmq2QYn_ullOSUI4y7XstaWvMk6U_pQBRXqIwrSddIdCAuWA"
+      },
+      {
+        "url": "https://t.me/enemywatch/62110",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/b63d32uLuDDbpEIN86hagaH8uXN5VlrdpTpjG96URYtcqOjHNe7npobj--v8DQSiHpDc6c9qZsmz_p0U-OnGQRoQdVlES7b1R0lqBEoQbHXmnPV0N5FbuPuJ5idQytKbY5mYCaK3TZTVNCs2w2LQ3IU1YmoId_xRK_Fthqkr-7qerx3K49fW0_s6JZKCStwmzW7vceEjbUhmE0no1vTaC6-bC8fg8F9pa_G_5TVz2Ic74ylnF1BoZpbyK8p85IvyLVh5xkPKX-tEomGPAvJDFnTndnJ8XCmNGqzreYZmq2QYn_ullOSUI4y7XstaWvMk6U_pQBRXqIwrSddIdCAuWA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789406047570,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇾🇪🇸🇦 | Satellite images show damage to additional crude oil transmission lines at Pumping Station No. 9 along Saudi Arabia’s East-West oil pipeline, following an attack by Yemeni drones on the station.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Wpov4wZr8_ZKIzbRwVOFdvQDE62bt5dHq3T8Aq7PjGnVO-l4no8KzjHpw5YAyk1r51mc9XvaLw2BoqhXWTeMBx4ZttCC49JlLhU5o-FpLZH4KJqFRrUQZaaXi9e1mxE83VaJMjxPLzDVN18yHKqvZhx1hJyAeUkDmaYCrJEOOQ4ksh4hIQAwY-6-519ziJdz8_b3I7NCZsNqLZq5Ib_oM4XLvMzx9_MtweuKqYU15CWxAz0qZsHh9AU68GUGXjIugnBOy46LibGDRZ57riAP9EBKksK-nSOIuXbud4RUSaAzkMNvfCcQ_YFgQARtgT7xSZOujqFfPeIzuvFKwM3ebg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789405979013,
+    "type": "drone",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇾🇪🇸🇦 | Satellite images show extensive damage to Station 9, another pumping station along Saudi Arabia’s East-West oil pipeline, caused by a drone attack. This is a different pumping station from the one targeted previously.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8ec38eea7d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GdjR468I5ajKXC3AqQFrFb7Xz8FO8sbZfHdn6ZkIhfipYwNejWVd1mjpCUdETvP0XxzN5JJKAP2hD5FNPsD65E2KPPA2zGDuaR-FdT5_b7nxYAaKGVC2K3FmS6amICqCrUasKqIBxPv_dxZ1HL59kIn9CBG3dquFqm1jUSgWi0HLJVePOuMc4iwZQLveAAwqc-Z6g_Czj3I0Q3HTDKnvqIFjeV12qA6I6mX9smoEMeubzyaoIfN8vRVrbdvFrLebL_5h-EvgJw8Zk_EMjJkSdyqYi2zpLWEAac24k0xSj11jFue9d9vH7YNbebz7u9teohWVJhLkYtOm5i9D4jQA-Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62113",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GdjR468I5ajKXC3AqQFrFb7Xz8FO8sbZfHdn6ZkIhfipYwNejWVd1mjpCUdETvP0XxzN5JJKAP2hD5FNPsD65E2KPPA2zGDuaR-FdT5_b7nxYAaKGVC2K3FmS6amICqCrUasKqIBxPv_dxZ1HL59kIn9CBG3dquFqm1jUSgWi0HLJVePOuMc4iwZQLveAAwqc-Z6g_Czj3I0Q3HTDKnvqIFjeV12qA6I6mX9smoEMeubzyaoIfN8vRVrbdvFrLebL_5h-EvgJw8Zk_EMjJkSdyqYi2zpLWEAac24k0xSj11jFue9d9vH7YNbebz7u9teohWVJhLkYtOm5i9D4jQA-Q"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789405978996,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Israel violates Gaza ceasefire 4,803 times, killing 1,369 Palestinians: Report📌 Tehran, IRNA - Israeli occupation forces committed 24 new violations of the ceasefire agreement in the Gaza Strip over 24 hours ending Friday, bringing the total number of recorded violations to 4,803 since the agree...",
     "media": [],
     "verified": false
   },
