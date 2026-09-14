@@ -1,11 +1,13 @@
-# Runs the war map pipeline every 30 minutes (matches prior commit cadence)
+# Runs the war map pipeline every 2 hours (reduced from 30 min to cut
+# Vercel deploy volume; raw HTML is untracked so pushes now happen only
+# when parsed data actually changes)
 [Unit]
 Description=US-Iran War Map pipeline timer
 
 [Timer]
 OnBootSec=5min
-OnUnitActiveSec=30min
-AccuracySec=30s
+OnUnitActiveSec=2h
+AccuracySec=1min
 Persistent=true
 
 [Install]
