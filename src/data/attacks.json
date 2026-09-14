@@ -126918,6 +126918,38 @@
     ]
   },
   {
+    "id": 480867587,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-14",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Beirut, Lebanon: Israeli regime sets houses fire southern",
+    "location": "Tehran, Beirut, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Israeli regime sets houses on fire in southern Lebanon📌 Tehran, IRNA – The Israeli regime's army set fire to residential homes in the town of Al-Tiri, in the Bint Jbeil district of southern Lebanon.According to Lebanese media reports, in a criminal act, the Zionist forces blew up parts of the town of Majdal Zoun and set fire to a number of residential homes in the town of Al-Tiri, located in the Bint Jbeil district of southern Lebanon.​The National News Agency of Lebanon also reported low-al",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
