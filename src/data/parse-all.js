@@ -472,6 +472,63 @@ function generateTitle(text, locations, attackType, entity) {
   return `${entityName} ${typeLabel} — ${loc}: ${shortSummary}`
 }
 
+// ── Final record dedup ──
+// Duplicate ingest pages can parse the same Telegram post multiple times into
+// records that share an identical date + full text but differ in extracted
+// location/type (which defeats the earlier keyed dedup). Key on date +
+// normalized description, union media, and keep the most complete record.
+function dedupRecords(records, kind) {
+  const normalize = s => (s || '').replace(/\s+/g, ' ').trim()
+  const byKey = new Map()
+  const out = []
+  let removed = 0
+
+  for (const r of records) {
+    const desc = normalize(r.description)
+    if (desc.length < 30) {
+      // too short to confidently collapse — keep as-is
+      out.push(r)
+      continue
+    }
+    const key = `${r.date}|${desc}`
+    const existing = byKey.get(key)
+    if (!existing) {
+      byKey.set(key, r)
+      out.push(r)
+      continue
+    }
+
+    // union media by url
+    if (Array.isArray(r.media) && r.media.length) {
+      const merged = Array.isArray(existing.media) ? existing.media.slice() : []
+      const urls = new Set(merged.map(m => (m && m.url) || m))
+      for (const m of r.media) {
+        const u = (m && m.url) || m
+        if (u && !urls.has(u)) {
+          merged.push(m)
+          urls.add(u)
+        }
+      }
+      existing.media = merged
+    }
+
+    // fill missing scalar fields from the duplicate
+    for (const f of ['location', 'coordinates', 'type', 'source', 'sourceUrl',
+                     'title', 'status', 'time', 'videoUrl', 'satelliteImage']) {
+      if ((existing[f] == null || existing[f] === '') && r[f] != null && r[f] !== '') {
+        existing[f] = r[f]
+      }
+    }
+
+    removed++
+  }
+
+  if (removed > 0) {
+    console.error(`  ${kind} dedup: removed ${removed} duplicates (${out.length} remain)`)
+  }
+  return out
+}
+
 // ── Main parser ──
 function main() {
   // Load existing data
@@ -880,6 +937,13 @@ function main() {
   const totalWithMedia = existingAttacks.filter(a => a.media && a.media.length > 0).length
   console.error(`  Attacks with media: ${totalWithMedia}`)
 
+  // Final dedup: collapse same-post duplicates (identical date + full text)
+  {
+    const deduped = dedupRecords(existingAttacks, 'attacks')
+    existingAttacks.length = 0
+    existingAttacks.push(...deduped)
+  }
+
   // Deduplicate attacks by title+date+near match
   existingAttacks.sort((a, b) => a.date.localeCompare(b.date) || (a.id || 0) - (b.id || 0))
   fs.writeFileSync(ATTACKS_FILE, JSON.stringify(scrubLoneSurrogates(existingAttacks), null, 2) + '\n')
@@ -887,6 +951,13 @@ function main() {
   existingSitreps.sort((a, b) => a.date.localeCompare(b.date))
   // ── Hormuz Crossing Data: Extract from Telegram sources ──
   const hormuzResult = processHormuzData()
+
+  // Final dedup: collapse same-post duplicates (identical date + full text)
+  {
+    const deduped = dedupRecords(existingSitreps, 'sitreps')
+    existingSitreps.length = 0
+    existingSitreps.push(...deduped)
+  }
 
   existingSitreps.sort((a, b) => a.date.localeCompare(b.date))
   fs.writeFileSync(SITREPS_FILE, JSON.stringify(scrubLoneSurrogates(existingSitreps), null, 2) + '\n')
