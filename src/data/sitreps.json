@@ -170762,6 +170762,14 @@
       {
         "url": "https://cdn4.telesco.pe/file/qEL-G9JmuTJkLQPS7tTm9P1SyrZCegHiqsJaCGiAKIpxOrqEN6ZicPpEspgTSyzrMGGMJbHkpePzbfMWNpWf85kGUkiKxRpDMVu6hqcYwOawqkknMlO3YtywVIfpzVtv5TWSI2zy5KYYY0UB_T6QnZDKoXhl8ZAu-avYp8EqZq02L0Vf2STwFd5jTsZ_y9w2s-lw3jOVv_qdJo8gRu3yqDZk-xPFJUkDRhfICCEqTPVV0_pZnxxYWHteqw9Qyzg9uMn3S2s0YHoQ7DV3LWdhfIcV7pY3RIVILVjGfmvFHwYP_vDhJZfepgoklG0E7BcCyvjEKA-Htf3rjJwzsUXBNg.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/EYyva1cd6DLcg4gCP9ysw9gferAzbBmjOXW3Ikm24LATxF4gf1KkTXLXjUhXEMcnb28CLPGt6K7Z3iM52ST7KrBIP69M7inJljtRUKPDHzZQ7yOzy8qPDAWTLaisJSt6dwKA_T4j49ttyByRw8iG4bDYgXi4_VIQpEmgUnT6dY3ANgDAbNgbNqSiLgoFLFtQazstq4d6HgzeBgnJEfUXS1JeUx9BxKjAgitN8AzVE6ge2Hy6Cv0M9L8dDxyxdm2wNNyxU7zYqso_vq-EsTvpSkQ4VD90D0mRpGnf2uPgGA25qwgnQsyD1Ko-V-byQ0i9bsSrRAEi20iLasUZWq6D5g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Spq16NDPQj2hy31inFTUTA2vUhxtisuyz6O4-mMbjkiN2TSn_X5StZRvtRla96WQkN40023BP9xkhATs1X4egKsXNl4DYDU116S4fZ2eDHPvr2FfShC7ULzFOOP4KC7gDlltPankeWMPD6GQJilGJC6d9lRMiykhW60I7qLnYlqs9yX8VMsBhWbYY0gXa1waFgp9o1lrJ6S2vWryoL2a821H9n1bGCapelMtgi6BVoMe2iyhRXBG4MmWOG0VOz-BFtCdWr7A_7457mf0ni3rOWJFo_qHf9s65Kn2d1h08SGQUT1SC6b5a-1wHLRBu1ka5pirYJ3PMVZOoUK5GiN1tw.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -173971,6 +173979,51 @@
     "verified": false
   },
   {
+    "id": 1789463911571,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-12",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Public Relations: An advanced MQ-1 drone was intercepted and destroyed in the skies over the western area of the Strait of Hormuz at dawn today.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789463898839,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-12",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian media: The fourth MQ-1 drone has been intercepted and destroyed over the eastern skies of the Strait of Hormuz in recent days by fire from the new advanced air defense system of the Islamic Revolutionary Guard Corps Aerospace Force, under the control of the country’s integra...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789463909400,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-12",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "British Maritime Trade Operations Authority: A report of a vessel being struck by an unidentified projectile in the Strait of Hormuz.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789398978444,
     "type": "intercept",
     "location": "Aden",
@@ -174565,6 +174618,62 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 Cenbank chief heads to Turkey for Islamic central bank governors’ meeting📌 Tehran, IRNA – Central Bank of Iran Governor Abdolnaser Hemmati has left Tehran for Istanbul on Sunday to attend a meeting of central bank governors from Islamic countries.Hemmati is scheduled to participate in the meetin...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789463832130,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Tehran International Auto Show opensThe 7th Tehran International Auto Show opened on Sunday, September 13, 2026, bringing together the latest automotive products, technologies and industry developments at Shahr-e Aftab International Exhibition Center. The event will run through September 17.https://...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qEbv0pC6_K84ZhwYhkRZ5oPoThL56osCPKXeODREF9jK8IHy645Zo2tqo7UMwsurh4jyod1cohfNwYlsFbLl_cWNXCt2hFF0H3p8NuNS-pIJ3IRnqp1udoashG8vOdMhc2DmdYDhWdsaE3hdjOiXea6GiuGPOO8wvRBP7JFvPJ2tK1n7AM_WLcR-a6CswkJvPtBqrWiFNf_Yu88FJzFavbH6J7jIU75TJp96RbraGCcs8WlzvJNMdd2t-TQZeIXRZ3QgrepTDrOXfwAAMgQnaXyRxD9fm08CMGzctpX-dBj1klB1GVFaq3zccXqmad3eJSOCGc_SRzEuxVtH6vLS6g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/REcBFTQSppqfmuv7D4W2Lq-gdNWru0lBDg0aABzaIUQJZszMBy9wBTnh6ZrRxYlACalavmR7CaQcm4PNPC2qXHT8hdy8tQD7odhKIppY3nsIeD2wTKhSE5xk9GrlqpKtjM8DFv_iEL5qLXBDoCvUSOsp7j79OZTp4BmHOlKJLcrdzaIDyBkYW73P06VGB8T1RA0NzF4LDl7XQgkZ0FpHRkdoRv9x9iDcFkni4JwW6wyDB0X3hVD6QaAxMXP7mH0RI2KJoJoJT6ybgUY_6kulDPl7sxXTNzcz_dHzlncSuLoHoQG1B0KgKXCpq4rpol_dR7Xysh4NFe83x9QPvZzdOw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/sWFcqfBMDScz0luJxkpxnVglfa4c-8t-jK8216xx9VgMIj1szUAcwj6FSyaMICUXx_dwELk05mGC3HNyhzYSV7CQeeIbVY8166d397ibIrxHF_7chBM3oCu6Orgxr8I-CkTJV0u9rkgVZqVjB6MHg_3T-nf7F82Fgr_xUJ3L3ceoCN6OGVUmxTs_ZE2FXRxR9qhzZUTeFCeLv7QETZ7tLJRSPE3VvLeXJNceG7tCEhVKD5fFq0F7WO_Fc11lSU-_G3vCf9FF22M9EO91TJXwi5Y-uKaG2t7HJFVby_THtSFRcKhqOfXnJJbDI7So71oRNss9PqjbMzfzQ9g9evtdDw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kvqlaDQziyS_9WHzdnQR5k4XGNqjc9ZhSfWZQkT0cbN9-zau9_6QqrhK-sCgC1xSdA24jLI3kd740nfctA2BJ0NgMcqvN7K8XLXXyShxPzIrsyEIMMlSsRR0Zl7LZFdct8Hn8vdm1uuGwi7WNCn4HJ8Yfg32YwtJ69OAikhK2dsRRFsgxBgVZa7NOyFLNmN-YsUZ1jgaCd07xhoEzgpgPWc0pqidmPPukJWtM0kc4tEdt8JdL6Ucj9ZOXnai1uKlUOscpHmcPZ0p9AUZN6cyBewgQeldYJLuKqvOUYIUQHubRoHj1UMufDQOGb08Obay_UmQYjRxYVPBtOln8bPjeQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fp7b-WGGQ-UQ1fTCBGb7aQRe6iNftTFUeJWSR-MTirZGUtQ0DlbvUXeVEm4ABAjU34q048hNILyWTP_INoi1n5Y1zsQb8zVjC8EBwPYh8QJ4jjpoyxxhN75N9cuvvOx2DmJn7pfxy-L54dVQmYD3caJY7-AZp2rlkY8-aBzsGO7jxkKft0URHYbhebumE2XHaElKttRfsxdNfQt977GwBDHl2qmR4lKpupf93Q4Z-1AAcxBmG4ZyoJ6jOtuQBUGKw3qswAZ2GsxRt4DWR0nkCCmeC7BRHqHCwwWgY2coSfH52WQ18V4QKKxIJMzeEmxOiObbzuTh2VHX9fSpXgDe7Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CNMVVaMa4rdvUijsoGHfZdKag9K9WYm7PNVjt7NU8WvRASuAHHVykbpEt9q6XGfZA3lK9j-pinguxxvGZgRqt_iN6-XOPgBCvMmweGh36_zr5LXEUvd2airD1VjGZNxB35lx7CUZDY6gPiNpnLOGUYct6JCFJFcHEpUWJy8YCGDwEtCofSUMsVnnwccANvWwwgF8VA-jL6oQNi6PyTtWaC1uU-uoAmRwqVdEP5fV4qAx8XL0u7lqm7RyQAXkmguT-j8Zo2r3tonSfxWYKNX3vKWnu6NZSstGriSZwcCtBoNBL--X4kLXbouxb2US-rgYFszUmAEnWWt6CPvGE0vvvw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/sv0Da6wD8oRQwzErAfRjzIugvD2rPpdJ8d6WJ2nJqBLXoQUZgYLAdggY9mWCQLkS9hovsxrgWq4gJGltRZ_P0_8zG1zImIbs08Q9F_0VAP_UY2tY1wXNHjlDF2KbqKP8YyMGS0FP6weZeDrZbFn8eJUD6swl6MOVeykioTE5u_n9_rs2T5shTWCghRd5Hghbf1Lvxo3pICHC8h3lRlp46d0BPhzwznqQ_MqST8YDzgyPI3IAJfQbYAcwMNRUm7PLSxxCVs9FBQlgA30HMtfoE282pr0Cl7qzMd6cOO5PYQykv5bvA5w46B2MtKVPsfI92wW9Gj7LP1tluNddknH1VA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/pYuokoSXD-zkfCjl1aWg8gtqqeSK2H6yMfomMfQeiEWelP456VBTt3HCzzHzaoHeV8glDapaUc5iQZgLaDWTkbgzAck2WitqH0k-tGWpfeMF5HyizqVqR5HWR3B66OzGMGhi3nTClrf8wC5hMUZnpEkBP4Q3zcVNIubIpnbxA50ObZ8c_exqbgYlMCmA0fy9pvjIqNBkl8hocsTL6HD_4oUSwP6k7DR83G7ezJExpxJW9qWrHGdJtKDhIuLrTApqeXkrKsfP4KdiTASupG8btJkE4xySp3MDo6nUY-YpOm7KK6dlkh8BZxSLo-INL4zawOdji2yRVhvWLn_2P7-5yg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/dkwupSDh59L7WB8S0NCNDI79deAYRYZ5yMnbkDakaxFvMnGEwCd47JyFxLObHdHUGV6gJVuh7FFx59kzR5J-qcyFaK5M7oix8304WPsxAfJuLxaCkrApEh5EYlu7WsW9AVGFzcvrRYUuf71aXe5bWNFHAAQIkebGtiA9gurT559KLMg7aKD43dxfqxk_-Nh1v0OGrYtEEzF-RKEEjrxX_gIMMJKtOaOSQpq29zjgRm-gJJwR127nfvwayVkpIbZ0EGzHt-AHz71KUAVXATkiocdr5rxsnKtnDuS7ZsAXPOr35oyOvF230baaZcpAdt84jMopR5gmuFlnk59Ta2tVdw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JpxxH3KbRRdDVT2gd5PXJEmt3VPH5OvlHLq3vOZ4FtDqFeh3tNtACjLVITldy5bmRr9StJcM6WTDt0FSiT68WuePS6PhovweyzUJDh3oTdi1mf5gImEuMU0G8M3owu8qEnkV6xi5Q7EVIMqL7DIvj-CuaZQvrEAhRVlnchI_DjBsZ7owh9_W_BGrASwds8XRRinFGH4CBWwTx9c56b32AyaE11k-ox8v8Urd6RvsbJVfbprQUcyVlqDzHpwswc_9nNRGxMt2AYJ7Yw3zNElhuHvKX9Z15xN71pt394H85rJDu-9MEeDUaW8H7fiTkUnOkFeKwZ2Ci1a3fA5FxVOwQA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
@@ -175172,6 +175281,188 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1789463830785,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Andrei Stenin Int’l Press Photo Contest Exhibition in TehranThe Andrei Stenin International Press Photo Contest Exhibition kicked off in collaboration with the Mehr News Agency and the Iranian Photographers’ House in Tehran on September 14, 2026.https://en.irna.ir/photo/86264418/📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/MJ3MS0YMvCgR6MktkCf93v_AQ5Nz9BVmcCb2_VoM_gKaUjA2caCi8I06eG3YExnNw3v2MAms99BQDEJLqHJ6dcEURSay6Sk6aqMTQvXp8LDRrzLQ2NttJwqeSIjueDjyxI8cC43ml47ud2J3Cv-lUCcw6Il25VlT7t8s9FPhODg2FXLa8LkB4A1zRGTsenYbQp9ecxP--861f3I0lmyaiwfxofLitF0DP4h5AYNuH3kQcMp_AcwJIVtjysGpwFLnICDQt3ILC81f-CMD1tcsN-m4N9hrEwx9ITdgVmBIKiOzTRZDw9DImW849jSBG5TtRiYOiw4gi4C-jwBwFezEnA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WvSHn41qKrDCcROzwsdTKGOLbIUyrkkHub8Pyp63GIFnixMN5EUWE2-ZDAuH2iB3nVpq17nyfgk9o7rtiHf_2ksqr4z99WCl4-Gq8ffw7iHbeGF6BIfOEhOkNMv22mJBZaf4_VFZ9i71jHi7gmjpVV1OZadEUvqNPV-3aVbIpEUvEwlkf28MqYnlIREuQ45Gx_xWefoeMBlN_gfNk2jJKN1yB78iGbw8M9dze-EaUA71DJKX0un-1FO9IVUWllqmh8jNpRcIayo56T4tMhOXxz-MHLsLaouyNiVcvQf3szngUBqWOfyxPFnb72Zm6AriXL8cdn2OQ6A5D7x8F3YDHQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hBXha-WdpP-gYCqoOGtSHKDutRbVQM3rAxQJFa-3LL1uBJM8RS6JwO2qs9JO2V23l0p-08fdmLvrgm7nY94-6UtNrop3fWpndl0MCz6hEF5YoUW2429_PiYR6raqMCcv8zb7ToZizLWFDJE0S2OWy5ONTlmg-1e4R7NravMpBwbOBVvcfTKirPkhMlII99m4HYGf8yBMdyCHLN9o0WupEXuMqbWNkLqcTV7HDxJQOMn1_x6Hw3zA-FjJNBThaeOHwnCGSUlRXVVNkNdlkqEXjwSC0JN0LuOcM0IA_SErDBsJIjrh9fw2c4WT6D8GZBpzpR1B0588sJTsOoo8b8sL4g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/mh90RTHfFp2BRUsqSr8uBOjLFOG3bc1hSFpald9sK5rH-mxp1lb1zGYA79sOzcEdOMZQkkIUaZtr79QumkKWvxJhnAn4PXVIl_IhD6L0vvQb3osHPlM-4CJnMceBxcmolOB82FAGzW6mE0WKVQD9mMtnmPYLnApEV-aPo2PM1biea5IbnFfwERu62EMiVJLL4GPmzWfPUF4wKcSQkdQZT5L0G930IhDFNZ9L56l9FVhijk1RIFKr15_5ebqo7cuv2kszymbgNJzKNYbFS4PCobUr6svwR6V6PdTY3iaqloQ2lUhsOlzxDmdfRRXkf-VEzKTx871WdGecTOzNASTD-Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fbCGfigjEJ8qsAEBDNxW4NauXmee0jqDr7ISzqLhOLZxEHpk48bAC114RQjpwnt4fuCv9CKQvUz4nqu77_0dOXCgCDVp68UR3uGnNqUdzlXCEUYCoz6jyCt6LSdIaWzJ1xBCZu9VciXt3kztdb2npw-_1T2Vn988I4MF354I40MWj1mPJ6Ow1Q7GU_xaV3DwoJqGEpbihAvq3y-C2wjfphev2gCBf5i5vKroR6EJkPsnDMVBatxymDDdSBz_CKTnj2QNn1Wq6r3T2EbCt7JduUoNuaikhIFWeC0vJXilqklVmA1o5n8nfwgNlLVgI9ewqjnDzI3MrI1VzVVeKpAMvQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/DV0fUu_y_ypxpkWIBnaMv2zReLjXINTnZXhGuSBVm4RJcjXPIqcSRRquuMW5ZQ3Q7xgsk4G-uDEFUzISwvHOz6bge8bPXmtZ-wj7JcRkLCIL6RQo0AXE9lIlkiwiZAzBXlFeSp4Ox3gqvAWyrXKqYiDApW5Jw3NjTRqblkf-MCGUaHTOZ_4fPdTFIasa0-0OSXAf_jAU4r5SUWbtd3Bv99DF8g5Lh_AlbRhl92bSHxftdjqTDw1yDZDi3DqOA4y4YRuEMlW6FhqbmbdP6JyBP679OY1VhyFGv0zyDSueyUPOCUMpwxFy4GsGnfUqbbTYMpRozNL_Fh_j4T5853OFGw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UcCww1De3qj3-OJedjXoOEX5iDfLEifqvhS2BOgH058LyYRfVQ8aGMa6-Me_c7e1FLQ2Z1mYOCQdDiR9UVRCXIsskWyVnDL78QXMTYKebPWKaHwgOuK6eXV9jMR-q2as0_5yPRkOx-L9SNZQwNGmWevf39jfVU3FzZaOF3FbpsfKpr1Mvsgdw7fONDZa6AFyowjKdNKhcjFOiZrO7l0uMVcbabkdh6ebxCOgegdLmGgH3WdOgSEJJegZRSK0ppkfTMLROQrg4x08cmlVzp-CJIvYxW6fkDVcPb7uEMAn_w9C38ZDZWSLMkwCYU6E0aNZrrL_4DqprKkISBL5cOAm6g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/esxvsr0Ms1UESENFzCMRJ6t82rmQoe9rKO4DOboEg3xZtmiuoJl8kDssR_PI1EMW9LVhSjQ4qNO6N92ORJluiC1MkfCm2kjGINCOdfJfEurQ8igZLFuQLAJbeD4TvM1dU5PB0yTuHS8ZmeiOYQhr4HnLAwIMGiSuhsXheLnrceOddc_ph6HycJJpZdRoW4EBvRvU8Cqx-8u1lxZAiJfharma35WTy60uw82sFlleQRQIH8OZkK8Mu-I0T0qzOP3LJznYVGTF6AkJg6DoI6XNkfLz0vXBRn90MLlP5AZ36ws4Vh9RHMZVPWpVsJxBbCcS9u3qzWSEB4EfStQPS5lDSw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/GbeNHND2cO0_iLxBQCs4db6OYzTAx4_Ds6VbKP7jDMPgewwmKFC5be9I1boenEP0c0Umts6w0HVzszfemG2oKY3vVW6Fm8h3IGKqUJ5fzLOHatqbUFKku_QHJjQnhHJafpAzSZNXOxKlOYLY5NKcyQK0KPLEwQsFtwVNqvrUmehq-Sx_6EN4OWjBZk9b0eh_qsUNanxDjqJ57vjyBwk8lfUGmTlzIZLjLCrKMgL61zWf-CGWe-3iUAwxunt5Ur4wRDSqNcvVHvaaLwJCn5SLzY-5-yXFBWMxLTPO6DWvBHGw9LbQjNDf1sHwNWfzZKO2mMOLrhzvrKjFqbUDq2kqFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CNz8wUqbjsru9s8sZcji_BIW7N_FQZoUpFDSgwFkTVAICmmfjkPTFMxHeAIuouu8hT0WlVr7mFxy73d_zmZ4yyaV0v2GpqbEpKQnAs-p-GheEeLft3iFVBTiCSgPt1BKpF5UxP4PG7A_XscHhN_2S41aPO3gZxHZiM7yqCGVpVUT8X-qnILNg6eTqlaMGxqVcIKROUWNQLcrGDKgCEaiBJ7ZBsoL4ahtW61wS6U5r6oTS-ED55XkXjt_qMb04v0fJrrmc_ZRLk3uhVwg73BUgiybzTV2Z2OutMEW1glP5yPN3M8tR-JFmDqGRVSnSc44_npzXUWxejLlCoaMyQ9iPg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789463832623,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🇸🇦 | Breaking — An Iranian government aircraft, IRAN06, has landed in Riyadh, Saudi Arabia.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789463845113,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶| Breaking — A strong explosion was heard in Erbil a short while ago.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789463891525,
+    "type": "intercept",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷🇮🇶 | Bafel Talabani meets Abbas Araghchi:Bafel Talabani, President of the Patriotic Union of Kurdistan (PUK), met with Iranian Foreign Minister Seyyed Abbas Araghchi earlier today for talks and discussions. Parallel to it attacks targeting separatist terrorist groups inside Erbil are reported ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Lo_TeSuXNmvNec_1eyqZN4sPAWA0K2Lh4rboYOOFCYFVXa9TrBsxM0rCYB9jBNbcRqRSHUlMURPrZUXL9oHrLpuscYXQXWJD7Fh5rZE9a0DcVvYcmwqgqfETKcpe0jbICChUGs3fi8DuE0Ty3kBiKK7vDBQOQYBXYYevhhJov4CZ32f4jsi_PbonnN59hpXknrX9jPdqwCL92G9BhxLoDgWCuBdJa1KfQEY5UqZEyU1Wvz61Yq3bmodBPGJwNThZwk_4zeW4qb469Ap83II7o7TjkTIOoNRBND8WRd-b44LgqblK5nTIWKceWtv6GY8vc6nIYCDv3LPXWao1qlWznQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789463829033,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Satellite images show additional damage to Saudi Arabia’s East-West oil pipeline:New satellite images indicate that Yemen’s recent attacks on Saudi Arabia’s oil infrastructure spread to multiple sections of the East-West oil pipeline, reportedly knocking several pumping stations along the ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ab10f633d6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l1EMOjxnOQIrmKhnIFqlmuTMmairCWw39e7cVjZGC78dtk0wOFUHj7DvZEYRSo-U5FrXg490X-bkdS5x2bJAbv2tmHi7uIOnvvly_CN2_-eBIyXHn68IKJnjpGCJskCj2SrBe6r_-Sm2chHaJSg_PInpDgrWjnQ0S0gtzWJ3w6kaMphwfwTEUz1S8jn3SaAcKgJlGdJM6EGZNT66uy350zm2qfVpRreFOJZDYw0yKO4uF5TQqLWnOHa7vihadC-ybo3CDqRYjeCcYbsh8gQCSPDTB2PVqWcVQYVAsIv_qHo1vVkSIAfeJTaMzTDAZ3wQN63mcLW7ksJtZVcsZjoJ6A"
+      },
+      {
+        "url": "https://t.me/enemywatch/62138",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l1EMOjxnOQIrmKhnIFqlmuTMmairCWw39e7cVjZGC78dtk0wOFUHj7DvZEYRSo-U5FrXg490X-bkdS5x2bJAbv2tmHi7uIOnvvly_CN2_-eBIyXHn68IKJnjpGCJskCj2SrBe6r_-Sm2chHaJSg_PInpDgrWjnQ0S0gtzWJ3w6kaMphwfwTEUz1S8jn3SaAcKgJlGdJM6EGZNT66uy350zm2qfVpRreFOJZDYw0yKO4uF5TQqLWnOHa7vihadC-ybo3CDqRYjeCcYbsh8gQCSPDTB2PVqWcVQYVAsIv_qHo1vVkSIAfeJTaMzTDAZ3wQN63mcLW7ksJtZVcsZjoJ6A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789463891517,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Latest Updates from Yemen: In Yemen, coalition airstrikes and artillery bombardment targeted multiple governorates, with raids on the districts of Dhubab and Maqbanah in Taiz Governorate resulting in the martyrdom of three citizens, including two children, and injuring two others. Additional ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789463864539,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 In photos: Tehran International Auto Show opens📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YscbaMHLgICL1CXM9VfNCKcqL07Lt5tQrOt0tUoovZqYjxxg6q3x0HsoDRnFsfygKaQ4LLl8Jgr5anq_XVWmScCzSafUitiB8ywSNhbHjoKXtXieH7K59mbT-BVf7jgvLGmb54xmBu6I5KnbAMPAIbyW-Vr8L4XnkNK95M87RG_45FI3AEHw0KCQsMViwtLuc0-m555aKMy4hNLQy1-g0Eivbp6b6bJF4Q-rEg15GdYY9rpdBt9_jWr8Ch4iVISnSkC2ds8zPuc4kt9R7ujT37MgKyy5yCZCMzqnJvrjgRNNU2Pn8_MwZJSMopNTc7jk9NG_4iQkWZktd0lmtcSIdQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789463901000,
+    "type": "naval",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran emerged more united, stronger from recent war: Senior lawmaker📌 Mashhad, IRNA – Deputy Parliament Speaker Ali Nikzad says the recent war failed to weaken or divide Iran; instead, it strengthened national unity and preserved the country’s defense and strategic capabilities.Speaking at a meet...",
+    "media": [],
     "verified": false
   },
   {

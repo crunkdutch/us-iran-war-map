@@ -125768,6 +125768,70 @@
     ]
   },
   {
+    "id": 480894551,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-12",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: Islamic_RepublicIslamic Revolutionary Guard Corps Public Rel...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Public Relations: An advanced MQ-1 drone was intercepted and destroyed in the skies over the western area of the Strait of Hormuz at dawn today.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480897926,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: British Maritime Trade Operations Authority report",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "British Maritime Trade Operations Authority: A report of a vessel being struck by an unidentified projectile in the Strait of Hormuz.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480607073,
     "type": "intercept",
     "status": "confirmed",
@@ -127014,6 +127078,182 @@
       "other": 0
     },
     "description": "🇾🇪 | Yemen-Saudi battle updates, 15 September 2026:Yemeni missile and drone attacks across Saudi ArabiaIn the past hours, AnsarAllah launched a wide-scale wave of missile and drone attacks across Saudi Arabia, with alerts, explosions, and reported impacts in Abha, Khamis Mushait, Jazan, Jeddah, Taif, Yanbu, and Al-Ula Governorate. The attacks targeted oil, military, and strategic facilities, with reports of direct hits on oil facilities in Jazan and further explosions in Al-Ula. Yemeni missile",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480877691,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Unknown Interception — Erbil: Bafel Talabani meets Abbas AraghchiBafel Talabani",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷🇮🇶 | Bafel Talabani meets Abbas Araghchi:Bafel Talabani, President of the Patriotic Union of Kurdistan (PUK), met with Iranian Foreign Minister Seyyed Abbas Araghchi earlier today for talks and discussions. Parallel to it attacks targeting separatist terrorist groups inside Erbil are reported to be ongoing.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Lo_TeSuXNmvNec_1eyqZN4sPAWA0K2Lh4rboYOOFCYFVXa9TrBsxM0rCYB9jBNbcRqRSHUlMURPrZUXL9oHrLpuscYXQXWJD7Fh5rZE9a0DcVvYcmwqgqfETKcpe0jbICChUGs3fi8DuE0Ty3kBiKK7vDBQOQYBXYYevhhJov4CZ32f4jsi_PbonnN59hpXknrX9jPdqwCL92G9BhxLoDgWCuBdJa1KfQEY5UqZEyU1Wvz61Yq3bmodBPGJwNThZwk_4zeW4qb469Ap83II7o7TjkTIOoNRBND8WRd-b44LgqblK5nTIWKceWtv6GY8vc6nIYCDv3LPXWao1qlWznQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480881061,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: Satellite images show additional damage Saudi",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇸🇦 | Satellite images show additional damage to Saudi Arabia’s East-West oil pipeline:New satellite images indicate that Yemen’s recent attacks on Saudi Arabia’s oil infrastructure spread to multiple sections of the East-West oil pipeline, reportedly knocking several pumping stations along the 7-million-barrel-per-day pipeline out of service.The images show burn marks near the Al-Hinakiyah route and at other locations across Madinah Province, suggesting damage at multiple points along the p",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ab10f633d6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l1EMOjxnOQIrmKhnIFqlmuTMmairCWw39e7cVjZGC78dtk0wOFUHj7DvZEYRSo-U5FrXg490X-bkdS5x2bJAbv2tmHi7uIOnvvly_CN2_-eBIyXHn68IKJnjpGCJskCj2SrBe6r_-Sm2chHaJSg_PInpDgrWjnQ0S0gtzWJ3w6kaMphwfwTEUz1S8jn3SaAcKgJlGdJM6EGZNT66uy350zm2qfVpRreFOJZDYw0yKO4uF5TQqLWnOHa7vihadC-ybo3CDqRYjeCcYbsh8gQCSPDTB2PVqWcVQYVAsIv_qHo1vVkSIAfeJTaMzTDAZ3wQN63mcLW7ksJtZVcsZjoJ6A"
+      },
+      {
+        "url": "https://t.me/enemywatch/62138",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l1EMOjxnOQIrmKhnIFqlmuTMmairCWw39e7cVjZGC78dtk0wOFUHj7DvZEYRSo-U5FrXg490X-bkdS5x2bJAbv2tmHi7uIOnvvly_CN2_-eBIyXHn68IKJnjpGCJskCj2SrBe6r_-Sm2chHaJSg_PInpDgrWjnQ0S0gtzWJ3w6kaMphwfwTEUz1S8jn3SaAcKgJlGdJM6EGZNT66uy350zm2qfVpRreFOJZDYw0yKO4uF5TQqLWnOHa7vihadC-ybo3CDqRYjeCcYbsh8gQCSPDTB2PVqWcVQYVAsIv_qHo1vVkSIAfeJTaMzTDAZ3wQN63mcLW7ksJtZVcsZjoJ6A"
+      }
+    ]
+  },
+  {
+    "id": 480884432,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Strait of Hormuz, Bab al-Mandab, Yemen: Latest Updates from Yemen Yemen coalition",
+    "location": "Strait of Hormuz, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Latest Updates from Yemen: In Yemen, coalition airstrikes and artillery bombardment targeted multiple governorates, with raids on the districts of Dhubab and Maqbanah in Taiz Governorate resulting in the martyrdom of three citizens, including two children, and injuring two others. Additional strikes targeted strategic military sites, including an AnsarAllah weapons depot in Jabal Hilan in Ma’rib, triggering sustained secondary explosions, alongside further air raids in Al-Jubah and direct",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480887804,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Mashhad, Strait of Hormuz: Iran emerged more united stronger from",
+    "location": "Mashhad, Strait of Hormuz",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran emerged more united, stronger from recent war: Senior lawmaker📌 Mashhad, IRNA – Deputy Parliament Speaker Ali Nikzad says the recent war failed to weaken or divide Iran; instead, it strengthened national unity and preserved the country’s defense and strategic capabilities.Speaking at a meeting of senior managers of the State Welfare Organization of Iran in Mashhad on Tuesday, Razavi Khorasan Province, the legislator said the United States had entered the conflict believing it could end ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480891177,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Gaza City, Israel: Gaza officials warn fuel cutoff will",
+    "location": "Tehran, Gaza City, Israel, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Gaza officials warn WHO fuel cutoff will disrupt medical services📌 Tehran, IRNA – Director of Hospitals at Gaza’s Health Ministry Mohammed Zaqout has warned that the World Health Organization’s decision to halt fuel supplies to hospitals in the Gaza Strip in the coming days will seriously affect patients’ health and the provision of medical services.According to Shahab news agency on Tuesday, Zaqout said the planned cutoff from September 19 would threaten vital healthcare services and have s",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
