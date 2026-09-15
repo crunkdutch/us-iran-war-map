@@ -175510,6 +175510,86 @@
     "verified": false
   },
   {
+    "id": 1789485514483,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iranian MP: Freedom of navigation must not undermine coastal states’ security📌 Tehran, IRNA – Spokesperson for the Iranian Parliament’s National Security and Foreign Policy Committee Hassan Qashqavi says freedom of navigation must not undermine the security of coastal states, warning that otherw...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789485533253,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 In photos: Andrei Stenin Int’l Press Photo Contest Exhibition in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/CEm25MAIkjAFuJQY7CvIzCfW9Z5bX_uV-4ZJeU0pqISThD6LstC5r7m_C_VDbnIgeQdyWUJ3arF9F5j0W0uan_DqfLIAkgZw1D21UOlbCoZEggCQNqxBwSV5PwDdt7Vw0pUQf3lnNbfet_qRiF0AbfmUpZRMPX58Kr6ADgw_LWq-KWjlRLfuUVA4UAuAvTcfKJVMwBgHovDPgLNPDfLz1s77so3mycUZP7kbUd8JkOsimOS2-etFL2C7EQj1XWidNZGyQefQCvzZnihWOGRp_n-oudJz0bf3wVvsxSAJFDqi6zzl0LMNzoCnDpbFsHqR4u7IirSRVyJXss8xqwMaRw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789485513056,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenHead of the National Negotiating Delegation Mohammed Abdulsalam:The Saudi regime continues to launch its aggressive airstrikes against Yemen, with more than 350 airstrikes carried out over the course of a few days, targeting public and private property and resulting in civilian deaths and inju...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789485513814,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-14",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian media: Moments ago, the third MQ-1 drone belonging to the terrorist U.S. army was intercepted and destroyed today by fire from the modern and advanced air defense system of the Islamic Revolutionary Guard Corps Aerospace Force, under the control of the country’s integrated a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789485558934,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source told Al-Masirah:– The losses among the Saudi enemy’s mobilizations in the Al-Jawf front over the past four days have reached approximately 275 killed, wounded, and captured.– 85 vehicles and armored vehicles belonging to the Saudi enemy’s mobilizations were burned or disabled...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789463832623,
     "type": "airstrike",
     "location": "Riyadh",
@@ -175739,6 +175819,45 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1789485512083,
+    "type": "airstrike",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2026-09-15",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦+🇪🇬 | Saudi Crown Prince Mohammed bin Salman has landed in Cairo to meet with Egyptian President Abdel Fattah el-Sisi.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/tNgjaWHwWrbE9ConUsdBI1B_ZlWNgTUeJyJ3SR2wL3_QuJh7d8xbUUZ4g4WVohQyJSDACGVe2hCIrmuwVwMV6hCLkhr86nQm6pMtekv0f_aV1dj9SnQAEOokagwXVIg7ncbeeUPZIRWlAZO3QlR1i50LQU7U22gJljY5gAGresF8Shllh9ju-TCGIrdLcdrn1nYReZvAREABT2Z096u_NoXTDBJnM-F2MhuQ38Vl5xslRafA-KSFgH0rePJlp-p78eJWAlbArf07NB1rIVUhXaStLCNJcJF6TgAwCSGsk8-AE1uTK_Qq_ikfkMEVXc4QWgZQJ9vwOHJYaFPOpjR1uA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/ijpypD89c6cX5WbtRbBR9xmWaxLvbxX3v5ylGixpsxzQIcBgm-m8lcZzv0sYChHHsiyfZswS2srqQ6ML9sIH40K0GnIblvWQykXIHmbS44h766Fp-bL8p1eKSOfWI-P5gFmTK0uKsReI2beqrTr6wKiIBDC660_IJ7mi4Hg5WOLo_s1rq1ZpXKYqat_2v9mOmPGApjrE4KTQ4eH3pDMaVyiIVMDNxUXWK3V_EMVyUTbPd6av08cRsmkYCir94W08QHJn2ZPm4aypcXp7J6KUbWsv6OsqT5bE_CG4VSDGC6hsvPYCz0NXVg2lQy7BxcgV16iXPHN40R6cHJz-BEIm7g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789485560767,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-09-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemen: Head of the National Negotiating Delegation Mohammed Abdul Salam:The Saudi regime continues its aggression against Yemen, launching more than 350 airstrikes over the past few days. The attacks have targeted public and private property and have resulted in the martyrdom and injury of ci...",
+    "media": [],
     "verified": false
   },
   {

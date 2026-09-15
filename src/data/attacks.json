@@ -127190,6 +127190,76 @@
     "media": []
   },
   {
+    "id": 480928346,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-14",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran, Strait of Hormuz, Oman: Iranian Freedom navigation must undermine coastal",
+    "location": "Tehran, Strait of Hormuz, Oman",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iranian MP: Freedom of navigation must not undermine coastal states’ security📌 Tehran, IRNA – Spokesperson for the Iranian Parliament’s National Security and Foreign Policy Committee Hassan Qashqavi says freedom of navigation must not undermine the security of coastal states, warning that otherwise, a blockade constitutes an act of war.Speaking to IRNA on Tuesday about Iran’s missile responses to a US aircraft carrier and destroyer, Qashqavi said Iran’s defensive doctrine had changed during ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480931731,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-14",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Red Sea, Bab al-Mandab, Yemen: YemenHead National Negotiating Delegation Mohammed Abdulsala...",
+    "location": "Red Sea, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenHead of the National Negotiating Delegation Mohammed Abdulsalam:The Saudi regime continues to launch its aggressive airstrikes against Yemen, with more than 350 airstrikes carried out over the course of a few days, targeting public and private property and resulting in civilian deaths and injuries.We hold the Saudi regime responsible for the consequences of its continued violation of Yemen’s sovereignty and targeting of people and their property.The aggressive military escalation against Y",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62117",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/s76-hdvCrgmu0nRXWNNDBxshM7W-TO_Re6v529FQ2bPVoenyGCgFRfb82gMLk3rOy55Al_9ZXiPWOsp1wBRl4f6MteDfJzn1Iouf17QKU15il89DIXeeswLbYAbF6VgW79siXDhEMJ2I-2YwYQ893OquqsPXJ3dPDTB4-82VCSL6GZnnicVznXdUzFIdA3IAsfgkW6cakMOB7RKxZJ_rbzsRfbXUuFybYc0Ac-7rJnzSnfqIaNlpJbh3Mf-KZlkDB66-oQmVXC6rWG5MOqZhGt6k5iTgAj92u1lCMPi2vwq7VC15S9AN5CpJbvWCfMk_1nJZA4lkHXeZbGAlNss4MA"
+      }
+    ]
+  },
+  {
     "id": 480877691,
     "type": "intercept",
     "status": "confirmed",
@@ -127506,6 +127576,70 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 480921579,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Red Sea, Bab al-Mandab, Yemen: Yemen Head National Negotiating Delegation Mohammed",
+    "location": "Red Sea, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen: Head of the National Negotiating Delegation Mohammed Abdul Salam:The Saudi regime continues its aggression against Yemen, launching more than 350 airstrikes over the past few days. The attacks have targeted public and private property and have resulted in the martyrdom and injury of civilians.We hold the Saudi regime fully responsible for its continued violations of Yemen’s sovereignty and for targeting civilians and their property.This military escalation against Yemen will not ac",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480924962,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Oman: Elche Real Madrid Liga team news",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Elche vs Real Madrid: La Liga - team news, lineups📌 Elche vs Real Madrid preview with the latest team news, injuries, predicted lineups, H2H record and how to watch Tuesday’s La Liga clash.Real Madrid return to La Liga action on Tuesday night with a trip to Elche, looking to maintain their strong start before Sunday's Madrid derby against Atlético Madrid. José Mourinho's side have won four of their opening five league matches and arrive after a 4-1 victory over Rayo Vallecano, with Kylian Mb",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 477331196,
