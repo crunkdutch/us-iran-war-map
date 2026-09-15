@@ -175977,6 +175977,51 @@
     "verified": false
   },
   {
+    "id": 1789499972314,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew \"Israel\" Hayom newspaper: Saudi Arabia is halting oil shipments to Europe following Houthi attacks. It is estimated that October shipments will also be canceled. The result: a sharp rise in oil prices.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789499920364,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaChannel 15 Hebrew: The Trump administration is planning a major arms deal for \"Israel\", with the deal valued at &#036;2.8 billion. It includes around 40,000 heavy bombs, including 2,000-pound MK-84 bombs and BLU-117 bombs.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789499989466,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Saudi warplanes carried out 52 airstrikes over the past 24 hours using \"F-15\" and \"Typhoon\" aircraft that took off from the Khamis Mushait and Taif air bases, targeting civilian sites, including schools, bridges, and roads, in Taiz Governorate, as well as other civilian sites in the gover...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

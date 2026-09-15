@@ -127717,6 +127717,80 @@
     ]
   },
   {
+    "id": 480941892,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Saudi Arabia, Israel: Enemy_MediaHebrew Israel Hayom newspaper Saudi Arabia",
+    "location": "Saudi Arabia, Israel",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew \"Israel\" Hayom newspaper: Saudi Arabia is halting oil shipments to Europe following Houthi attacks. It is estimated that October shipments will also be canceled. The result: a sharp rise in oil prices.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/hj8tByAKvKFGQvd6D8WW2cR5xEjuuSGzdkCDSAqlCfWdQGOYqM9h61ySGHDCTeuzu7_0ooSHA70vnGRyK3J0SB1i1rpaf-1I5mRTSBek53t4Ms4eLpEzReQ94oGgzBV0KyJghF_SE8pnDPT_Fzo_VJtCyjrnlW1_PBFlJryFxwCsPgNz8rsOYOaFLUrWxd-Wjfoes77a0Cs1jpjtMwHxGNbKMJYwGfNvee1EFTx4FqwEcA0d2VH19CosocrCYbzHopAsQMoC82toHNkKXiVxloiXmTDGQ9zFphDf7vyBz0Ph1qwXWQ5ZXJAOQbpNfl0FIdCF27n4wgCcF7QLWSbHJw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480945281,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Enemy_MediaChannel Hebrew Trump administration planning majo...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaChannel 15 Hebrew: The Trump administration is planning a major arms deal for \"Israel\", with the deal valued at &#036;2.8 billion. It includes around 40,000 heavy bombs, including 2,000-pound MK-84 bombs and BLU-117 bombs.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d08845Cvn24FSk_LaI-PIyaJdAAjCIpXykUwFPMd1MnKIbfGWJNWrVg43__MREtOqQMSvc8nCrdKeVHxl_8C31XDSrn1-upyt57oWMi4XTeMUzeO1jksFCa86uc5EMd-hb9Opuxdrfea4wEd1VKp3iR6t8Fz4d8Ta5LNi1M0RIqonBqs-tnBkHwoWqi8tvWG4FRTxvbDXKKU9AnJGPvwNSzb2zMyo3ALahkJYmFoEqzCZb6JQATLCni3IS_fdDATkohKhqzORoRAuvNldPUNN_1SDFJGyWlO2n7arynzxpSazwzmspt2IFRA1ZLqizJjk_p1r_zIEHV64MKq9RD9ew.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
