@@ -127642,6 +127642,81 @@
     "media": []
   },
   {
+    "id": 480935117,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Jeddah, Yemen, Saudi Arabia: YemenSaudi battle updates September 2026Yemeni attacks",
+    "location": "Jeddah, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      21.5433,
+      39.1728
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen-Saudi battle updates, 15 September 2026:Yemeni attacks across Saudi ArabiaYemeni missile and drone attacks targeted several areas across Saudi Arabia, with reports of explosions in Taif and Jeddah. The attacks reportedly targeted Saudi military positions and bases in Taif, while Saudi authorities activated warning sirens in Jeddhan and issued early-warning alerts covering Jeddah, and Taif. The attacks were reported to involve multiple Saudi provinces, and air traffic at Taif Airport",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480938504,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz, Oman: Maritime Trade Operations reported that ship",
+    "location": "Strait of Hormuz, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | UK Maritime Trade Operations reported that a ship in the Strait of Hormuz was struck by an unidentified projectile. Separately, reports stated that Iran struck a vessel while it was transiting through an unauthorized route in the Strait of Hormuz, despite heavy U.S. air coverage in the area. At the same time, several very large crude carriers (VLCCs) were observed transiting the Strait of Hormuz off the coast of Oman, including three tankers entering the strait and one vessel exiting.🔻@e",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/09d630cdc5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Hz5QZ5pzNJFu9aYwXJqY4NVPk3AVrbLWuHhNa8AHJL39CtaUazh5_t2bu4r8xpxlcHH7EFBPZ7TAa6aHCWOLcq6NmBFCEJdkAM1fHy1gekXrk8swQTkN-XNrOuSy51J4ztF3dst66EAg68yC5xgL8QTbDwADGL0fqVYhRskM6JmFq7FGt9dre5nTwwNq9CtkvcXfQHr9TK413Wl-_0qOhfMeU7lXfmHhAudWVxySv-E0gxbJju9BkoZQxAx3KzkHevLqBJE9mA2LraDZbWr7Bu5h0xpUQqqErdpDyvc3RnTPLtMmVmlEWe70vZ9hPs1W-ukSxrA0Bz2xkERtyV8h7Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62170",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Hz5QZ5pzNJFu9aYwXJqY4NVPk3AVrbLWuHhNa8AHJL39CtaUazh5_t2bu4r8xpxlcHH7EFBPZ7TAa6aHCWOLcq6NmBFCEJdkAM1fHy1gekXrk8swQTkN-XNrOuSy51J4ztF3dst66EAg68yC5xgL8QTbDwADGL0fqVYhRskM6JmFq7FGt9dre5nTwwNq9CtkvcXfQHr9TK413Wl-_0qOhfMeU7lXfmHhAudWVxySv-E0gxbJju9BkoZQxAx3KzkHevLqBJE9mA2LraDZbWr7Bu5h0xpUQqqErdpDyvc3RnTPLtMmVmlEWe70vZ9hPs1W-ukSxrA0Bz2xkERtyV8h7Q"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
