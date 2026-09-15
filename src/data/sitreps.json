@@ -175075,6 +175075,41 @@
     "verified": false
   },
   {
+    "id": 1789449460125,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-14",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:At dawn today, an advanced MQ-1 drone was intercepted and destroyed in the skies west of the Strait of Hormuz in Iran by an advanced modern air defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network.🔹@en...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789449471583,
+    "type": "airstrike",
+    "location": "Qusayr",
+    "coordinates": [
+      26.1015,
+      34.2802
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴 | Sectarian attack kills two brothers from the Shia community in western Homs countryside:Brothers Hassan Jahdallah Jaafar and Mohammad Jahdallah Jaafar were killed on the morning of September 14, 2026, in the village of Al-Diyabiya, a Shia-majority village in the Qusayr area of western Homs coun...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/lS9vwvwLQB9_VqxLnOYd9hSaPMF8XUhB1yB4MuUn2irUI-YjdLZgXwbzEBziis8CWmKPVMA4Z9Jl3vVTHE6fLx7WQUZBzWC_XJm0bhOEBLAn_IOlKxI0ScoVpcy_av5UGDBq7gv68nErKS-7YQz0gJhp88l7gZjtKy484wVtio5K3l_rARcpds1zgUdQFrgbniAWZXWNNxDmlpICl-D0fSmUvbh09MrKu1URehH4LXpjzAnHQvuWD0aCRiUdGP5HpLW6RsG7qYmYsVZo9vcuzeinmFKR0u3-hSW098X_zgaD_jenNA73bNEKRA2IWJZZw1oLtqENGgg9udC2Q6RLGA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
