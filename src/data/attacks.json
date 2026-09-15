@@ -126950,6 +126950,75 @@
     "media": []
   },
   {
+    "id": 480870954,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-14",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC NavyThe supertanker Gaya maritime identification",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy:The supertanker \"El Gaya,\" maritime identification number 9325336, which intended to cross the prohibited area in the southern Strait of Hormuz, exploded after striking naval mines. Efforts to contain the fire were futile, and the entire tanker has been engulfed in flames.A warning had previously been issued regarding the danger of this illegal transit route. The Strait of Hormuz is closed and remains under our smart control.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/N-MQ0S3tND3a116jfNZlX2OhY3iNuevINeRx4iD50S0bhZ8zkQchicYkbNuG6JHia3Yq8Ua-F0iN-O3r6MKsH3P3DIcLZhueEOPcGwm2_cRWhqEhxiLj6pLKER6v_oMxcpnLqThL6T_ViKDQ8JD4i2ho3uAYtDtbA394Iezr3H8HwUq0YP3g4Q_7FVdM5Hn1p0a9gvxq-A6YGgPm-O-cJgvbyY0c_m6NBwK2dzFHH4_0OjMZl8rbtu95P8ekpQ8fYCEbF8wZCUaGK9BZJUXIdaiK64w2UGra9JJhaOJgW0MVgmv8XDiBckWKmwb6sq5UFqE9fcmX_1-O9xxbPzyZMQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 480874322,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-14",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Fars, Sanaa, Aden: YemenSaudi battle updates September 2026Yemeni missile",
+    "location": "Fars, Sanaa, Aden, Jeddah, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen-Saudi battle updates, 15 September 2026:Yemeni missile and drone attacks across Saudi ArabiaIn the past hours, AnsarAllah launched a wide-scale wave of missile and drone attacks across Saudi Arabia, with alerts, explosions, and reported impacts in Abha, Khamis Mushait, Jazan, Jeddah, Taif, Yanbu, and Al-Ula Governorate. The attacks targeted oil, military, and strategic facilities, with reports of direct hits on oil facilities in Jazan and further explosions in Al-Ula. Yemeni missile",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

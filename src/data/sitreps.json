@@ -175009,6 +175009,72 @@
     "verified": false
   },
   {
+    "id": 1789442245508,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Recent satellite images show significant damage to pumping stations 9 and 8, which could keep Saudi Arabia’s East-West oil pipeline out of service for 3–5 weeks or longer, further straining oil exports via the Red Sea.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62117",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/s76-hdvCrgmu0nRXWNNDBxshM7W-TO_Re6v529FQ2bPVoenyGCgFRfb82gMLk3rOy55Al_9ZXiPWOsp1wBRl4f6MteDfJzn1Iouf17QKU15il89DIXeeswLbYAbF6VgW79siXDhEMJ2I-2YwYQ893OquqsPXJ3dPDTB4-82VCSL6GZnnicVznXdUzFIdA3IAsfgkW6cakMOB7RKxZJ_rbzsRfbXUuFybYc0Ac-7rJnzSnfqIaNlpJbh3Mf-KZlkDB66-oQmVXC6rWG5MOqZhGt6k5iTgAj92u1lCMPi2vwq7VC15S9AN5CpJbvWCfMk_1nJZA4lkHXeZbGAlNss4MA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789442242624,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📢 | Updates:🇮🇷 U.S. drones strike fishing boats near Bandar KarganTwo fishing boats were struck by U.S. drones near Bandar Kargan in Iran’s Hormozgan Province on Monday evening. Several fishermen are missing, and search-and-rescue operations are underway.🇮🇷 • 🇱🇧 Iran-Lebanon foreign minister ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789442240330,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemen-Saudi battle updates, 15 September 2026:Yemeni missile and drone attacks across Saudi ArabiaIn the past hours, AnsarAllah launched a wide-scale wave of missile and drone attacks across Saudi Arabia, with alerts, explosions, and reported impacts in Abha, Khamis Mushait, Jazan, Jeddah, Ta...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789442196527,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemen-Saudi battle updates, 15 September 2026: Yemeni missile and drone attacks across Saudi Arabia In the past hours, AnsarAllah launched a wide-scale wave of missile and drone attacks across Saudi Arabia, with alerts, explosions, and reported impacts…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
