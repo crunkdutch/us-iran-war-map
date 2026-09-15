@@ -171196,6 +171196,107 @@
     "verified": false
   },
   {
+    "id": 1789471141865,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian media: New satellite images published by the satellite imagery analysis platform “Sur Atlas” show the destruction of two buildings designated to house U.S. military personnel at Ali Al-Salem Air Base in Kuwait.The Islamic Republic of Iran’s Armed Forces had previously announ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0a88bd60e0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/E9uhN_7DwmSz8r1sv-f48O2iClceiyWLWElr55XoXJaAaTdcnnXMut-d3zbYg1iMKXVunw2MgKQUGbL3N1R0C2kqK6-ftzBxbsul5U4pAZAUnZ1ReS8rYZlTQ0I8ygwrUchctDRgZZfc20983e9kkOcdoXrCuFonbrwEXobIN3TFwbCiuJ-jPK2KRVthDREjtt5ZL_1nypKDE7uP2WSM_yPcXIuxu_-gMnCLPING9u2tkUbkXwqbzVvpqw3-6a8BSjtZrjGCgIjUzclQFVY3gLvLRvfrgnSiKEdZ5781_jsW1h9Q6El8W6T8vHKnsvyXqP1r59dm0KTe60YHUlGkng"
+      },
+      {
+        "url": "https://t.me/mmirlb/40600",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/E9uhN_7DwmSz8r1sv-f48O2iClceiyWLWElr55XoXJaAaTdcnnXMut-d3zbYg1iMKXVunw2MgKQUGbL3N1R0C2kqK6-ftzBxbsul5U4pAZAUnZ1ReS8rYZlTQ0I8ygwrUchctDRgZZfc20983e9kkOcdoXrCuFonbrwEXobIN3TFwbCiuJ-jPK2KRVthDREjtt5ZL_1nypKDE7uP2WSM_yPcXIuxu_-gMnCLPING9u2tkUbkXwqbzVvpqw3-6a8BSjtZrjGCgIjUzclQFVY3gLvLRvfrgnSiKEdZ5781_jsW1h9Q6El8W6T8vHKnsvyXqP1r59dm0KTe60YHUlGkng"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789471117461,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "The Yemeni Armed Forces, by the grace of Allah, succeeded in shooting down an armed reconnaissance aircraft, a Wing Loong II, belonging to the Saudi enemy while it was carrying out hostile missions this morning in the skies over Al-Bayda Governorate. It was targeted with a suitable weapon.This is th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471096001,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: An \"Israeli\" was seriously wounded in a stabbing attack in Nablus about an hour ago.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471106899,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-07",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: Two fighters from the \"Israeli\" army’s Golani reconnaissance unit were wounded in southern Lebanon in recent hours after a Hezbollah member opened fire at them in the Yuhmor area.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471118283,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Photos show high-quality footage documenting the moment the Yemeni Armed Forces targeted trucks loaded with military equipment arriving from Saudi territory at Al-Wadiah Camp with suitable locally manufactured ballistic missiles.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471082450,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-07",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHaaretz Hebrew newspaper: “Netanyahu received a warning from the President of the United Arab Emirates before October 7 regarding the intention to carry out a major operation against \"Israel\".”#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788839993867,
     "type": "airstrike",
     "location": "Sanaa",
@@ -171688,6 +171789,60 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🌍 Iran’s Hormozgan targets harvest 200,000 metric tons of dates; 20% for export📌 Bandar Abbas, IRNA – Iran’s southern Hormozgan Province is expected to harvest around 200,000 tons of high-quality dates this year, with about 20 percent destined for international markets.Some 50,000 tons have alread...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471073627,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-08",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Hezbollah Brigades in Iraq:Following its criminal aggression against the headquarters of the Popular Mobilization Forces in Iraq, the ruling family of the Land of the Hijaz continues its crimes against the Yemeni people, as part of the ongoing series of Zionist-American cri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471107890,
+    "type": "missile",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-09-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Secretary of Iran's National Security Council:In recent days, Washington has received a clear warning from Iran's new missiles. The economic war will be met with the establishment of a maritime blockade zone across the Persian Gulf, extending to the area of the blockade. The operational situa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471084674,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪❌🇸🇦 | Satellite images show fires at oil facilities in Abha and Jizan:Satellite images show large fires breaking out at oil facilities in the Saudi cities of Abha and Jizan in southern Saudi Arabia following Yemeni strikes.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cxXJuobH-DkykVgs2iTv-ud1_a-Nhe0q2NaM7P_MVev696itj4ywueL2pvehwSqAJ9CLl8kv_NWupMc2fl6IQGWJAFMyXRczrOlhphyu2iGzScyMAFVRlO57m6oyT0zPm_jdxhCjH3cEnfxTwMP05Wo5halwmXKt9Wnqs62b4guN4riGXcUf6zL_trXbwC0fHDrs5ET1eJszBNYOdi6KDjEcqIcCDyBK8w-LDe2iwr53Q3rvUq86hsYXoSANxYAD7afx8t9XgdcLuJNslNfVjYbDkENxfvOjN80f-p6LCXXWrs2RHEjtjyVvZuZp67hcwr05GerWgWR1ZhCrfUrctw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Tg8Fnm04CD46mvERJuuaqlgfixCbVCRhz-fyLMuo9p1oDmjNBP5muygqAcBZ0wA1wXEzfgOEa3lZLSQWWXCooQ9nDPBcDwWIv5U9BnU4iTPspM3dmkVnpJQta2i1_Fi9onDrTU5aKcqcBIGT5Gc8clLZ94yninrmHNqAKtSXQ_cItquNhk3AjRUNAYyXhBE0vMJBegXRy8qDAp3qM02BndkB3lJONlFIgduhNRyRqL6Dtcsv6109WB0PSdy-YJtkXeF8lOWtgnpdSldDNPuywKlp4085nZjaUFM6p7sLqCDh4whJl9Y2-orht6Pf3X1GZ6keKE3v5b4eGlRMrC-Qqw.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
@@ -175463,6 +175618,56 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔻 Iran emerged more united, stronger from recent war: Senior lawmaker📌 Mashhad, IRNA – Deputy Parliament Speaker Ali Nikzad says the recent war failed to weaken or divide Iran; instead, it strengthened national unity and preserved the country’s defense and strategic capabilities.Speaking at a meet...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471099955,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦🏴‍☠️ | This is not the first time Saudi authorities have made claims regarding alleged AnsarAllah attacks targeting the Holy City of Makkah, repeatedly invoking the sacred status of the city to portray themselves as victims and generate propaganda against the Islamic movement in Yemen. Saudi Ar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471082174,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran Minister of Science departs for Riyadh📌 Tehran, IRNA — Iran’s Minister of Science, Research and Technology, Hossein Simaei Saraf, has left Tehran for Riyadh at the head of a delegation to attend UNESCO’s artificial intelligence summit in the Saudi capital.Simaei left Tehran on Tuesday to at...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789471104527,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 In photos: PUK leader meets Iran FM in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ohn4DoMPw0Pwj9jlz1bD-JbG6ZU4zDez9uswA5cxQksEoi_jpN6DFNSzOqPjgIZHEGZMnUlEqedI4h7MPLgJf3hxsWScD6SA2VNHrUm9KZyjATHwk3nyZa2QvXx-yOLtKrHJvY5mIHh63gwALwTQsBJCZpXZ43celYBcMb7vuDdxOkXmCa4PjlOW64b8elQOhIDNFKvWHeC7p_7lYMRYXCmLzBBAkpo3_7k3YqpKpxJm5XlyU1bXQg-HUE3MSsVWaCCd4jZpltWoBs3F8311RqQfuXRoawJI9-cYFaQcVu89mVrDMmS7CVZNUbaSWQvz9tVgM1cp93jK4Q2fqQTG1g.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

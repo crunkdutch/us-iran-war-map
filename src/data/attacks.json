@@ -122416,6 +122416,81 @@
     "media": []
   },
   {
+    "id": 480908057,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Sirik, Kuwait: Islamic_RepublicIranian media satellite images published sat...",
+    "location": "Sirik, Kuwait",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIranian media: New satellite images published by the satellite imagery analysis platform “Sur Atlas” show the destruction of two buildings designated to house U.S. military personnel at Ali Al-Salem Air Base in Kuwait.The Islamic Republic of Iran’s Armed Forces had previously announced that they targeted this base in response to the U.S. war crime of attacking a wedding ceremony in Sirik.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0a88bd60e0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/E9uhN_7DwmSz8r1sv-f48O2iClceiyWLWElr55XoXJaAaTdcnnXMut-d3zbYg1iMKXVunw2MgKQUGbL3N1R0C2kqK6-ftzBxbsul5U4pAZAUnZ1ReS8rYZlTQ0I8ygwrUchctDRgZZfc20983e9kkOcdoXrCuFonbrwEXobIN3TFwbCiuJ-jPK2KRVthDREjtt5ZL_1nypKDE7uP2WSM_yPcXIuxu_-gMnCLPING9u2tkUbkXwqbzVvpqw3-6a8BSjtZrjGCgIjUzclQFVY3gLvLRvfrgnSiKEdZ5781_jsW1h9Q6El8W6T8vHKnsvyXqP1r59dm0KTe60YHUlGkng"
+      },
+      {
+        "url": "https://t.me/mmirlb/40600",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/E9uhN_7DwmSz8r1sv-f48O2iClceiyWLWElr55XoXJaAaTdcnnXMut-d3zbYg1iMKXVunw2MgKQUGbL3N1R0C2kqK6-ftzBxbsul5U4pAZAUnZ1ReS8rYZlTQ0I8ygwrUchctDRgZZfc20983e9kkOcdoXrCuFonbrwEXobIN3TFwbCiuJ-jPK2KRVthDREjtt5ZL_1nypKDE7uP2WSM_yPcXIuxu_-gMnCLPING9u2tkUbkXwqbzVvpqw3-6a8BSjtZrjGCgIjUzclQFVY3gLvLRvfrgnSiKEdZ5781_jsW1h9Q6El8W6T8vHKnsvyXqP1r59dm0KTe60YHUlGkng"
+      }
+    ]
+  },
+  {
+    "id": 480911436,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-07",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaIsraeli media Israeli seriously wounded stabbing",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: An \"Israeli\" was seriously wounded in a stabbing attack in Nablus about an hour ago.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480392001,
     "type": "intercept",
     "status": "confirmed",
@@ -127254,6 +127329,70 @@
       "other": 0
     },
     "description": "🖥 Gaza officials warn WHO fuel cutoff will disrupt medical services📌 Tehran, IRNA – Director of Hospitals at Gaza’s Health Ministry Mohammed Zaqout has warned that the World Health Organization’s decision to halt fuel supplies to hospitals in the Gaza Strip in the coming days will seriously affect patients’ health and the provision of medical services.According to Shahab news agency on Tuesday, Zaqout said the planned cutoff from September 19 would threaten vital healthcare services and have s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480901302,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Riyadh, Yemen, Saudi Arabia: This first time Saudi authorities have",
+    "location": "Riyadh, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦🏴‍☠️ | This is not the first time Saudi authorities have made claims regarding alleged AnsarAllah attacks targeting the Holy City of Makkah, repeatedly invoking the sacred status of the city to portray themselves as victims and generate propaganda against the Islamic movement in Yemen. Saudi Arabia made similar claims on at least two major occasions, in October 2016 and July 2017, when it alleged that ballistic missiles launched by forces in Yemen were targeting Makkah. On such occasions, s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 480904679,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Strait of Hormuz, Israel: Fourth intruding American drone shot down",
+    "location": "Tehran, Strait of Hormuz, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Fourth intruding American MQ-1 drone shot down over Hormuz: IRGC📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has shot down one more advanced MQ-1 drone over the Strait of Hormuz, bringing the number of unmanned aerial vehicles (UAVs) of the US enemy intercepted this week to four.The IRGC announced in a report on Tuesday that its Aerospace Force’s advanced new air defense system — under the control of the country’s integrated air defense network — successfully destroyed an MQ-1",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
