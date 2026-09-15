@@ -170345,6 +170345,21 @@
     "verified": false
   },
   {
+    "id": 1789435010323,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-06",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel\" Hayom Hebrew newspaper: Most opinion polls indicate that neither bloc will be able to form a government, and the political system is preparing for another round of elections.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788773940284,
     "type": "airstrike",
     "location": "Tehran",
@@ -171154,6 +171169,21 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Islamic_RepublicPublic Relations Department of the Islamic Revolutionary Guard Corps:In the Name of Allah, the Most Compassionate, the Most Merciful{Fight them; Allah will punish them by your hands, disgrace them, and grant you victory over them, and heal the hearts of believing people.}O dear, pro...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789435017635,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Anticipation of a major Yemeni attack against Saudi Arabia in the coming hours. 🔻@enenywatch",
     "media": [],
     "verified": false
   },
