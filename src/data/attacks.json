@@ -124160,6 +124160,134 @@
     "media": []
   },
   {
+    "id": 481006454,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-09",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bandar Abbas, Minab, Hormozgan: Irans Hormozgan targets harvest 200000 metric",
+    "location": "Bandar Abbas, Minab, Hormozgan, Persian Gulf",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran’s Hormozgan targets harvest 200,000 metric tons of dates; 20% for export📌 Bandar Abbas, IRNA – Iran’s southern Hormozgan Province is expected to harvest around 200,000 tons of high-quality dates this year, with about 20 percent destined for international markets.Some 50,000 tons have already been harvested since the season began in mid-June in Minab. Harvesting will continue until late November, ending with the premium Piarom variety in Hajiabad.​Hormozgan ranks third nationally in date",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481009862,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-09",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: Enemy_MediaMaariv Hebrew Newspaper Ashkenazi Israeli army",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper– Avi Ashkenazi: The \"Israeli\" army does not have specific intelligence indicating that Hezbollah intends to attack \"Israeli\" forces in southern Lebanon, but the holiday period is usually tense.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481013271,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-09",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Persian Gulf, Gulf of Oman, Jordan: Islamic_RepublicIssued Ministry Foreign Affairs Ministry For...",
+    "location": "Persian Gulf, Gulf of Oman, Jordan, Oman",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIssued by the Ministry of Foreign Affairs:– The Ministry of Foreign Affairs of the Islamic Republic of Iran strongly condemns the aggressive attack by the terrorist U.S. army on a number of Iranian oil tankers on Tuesday evening, 17 Shahrivar.– The U.S. military targeting of Iranian commercial vessels in the Persian Gulf and the Gulf of Oman, as a continuation of the U.S. military aggression, naval blockade, and economic war waged by the U.S. regime against Iran, constitutes a c",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481016681,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-09",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Lebanon, Yemen: Islamic_RepublicSpokesperson Islamic Revolutionary Guard Cor...",
+    "location": "Lebanon, Yemen",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSpokesperson for the Islamic Revolutionary Guard Corps:– The imposed war with the world’s greatest overt powers ended at certain stages, but the nature of the war is still continuing.– This war, for the first time, directly brought strategic damage to the United States itself and affected the security and economic equations of that country.– If the enemy wants to end this situation, then, alongside a complete cessation of the war, it must stop threatening again, withdraw the arm",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480722996,
     "type": "airstrike",
     "status": "confirmed",
@@ -128374,6 +128502,75 @@
       "other": 0
     },
     "description": "🔻 All vessels in Persian Gulf region under Iran’s watch: IRGC Navy📌 Sari, IRNA – No vessel can move through the Persian Gulf, the Strait of Hormuz, or the Sea of Oman without being monitored by Iran, a senior official of the Islamic Revolution Guards Corps (IRGC) Navy says, stressing that the force has the capability to strike any vessel if ordered.Ali Mohammadi, political deputy of the IRGC Navy, made the remarks at a ceremony commemorating martyrs in the northern Iranian city of Babol, Mazan",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481020092,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-16",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, Gaza Strip: Enemy_MediaIsraeli media Israeli army preparing possibility",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: The \"Israeli\" army is preparing for the possibility that Hamas may attempt to retaliate following the recent operations in the Gaza Strip. The security agencies are also taking into consideration scenarios involving an attempted attack or hostage-taking operation.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/gQ3Ybnwn4cnSxIg8N6VwVErVNJ60Iqd5rkua7tpPpbkPYnLu5Mg9zNiqj2B-J3No8J5oLYskfMWbxnZ8FQdDPX0YY2sb4B5W7t6ZDmT_qgwP2P9yND5HAu_zd2H76JlABaWti7A4koF88nCgXxdwlqX2hNmNXpCElL8XFJO2MDVXk7wuUlHFVyAihqR5TcexY8xBuIaAuxt6SJLO78HbGmUp4yHbwmyCwzuPEiT7q_eRIkWbRxTjZWyT2_LN_zrlZPGO3eQlgIG39TCixo9eKdfBZqM_L9ujBviL49F1CJq7eFdGa8zOh-LA26GK-hfwfR1gSuNIkaxyALmwhQUCkw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481023504,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-16",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemen With help guidance Allah 1840",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 15
+    },
+    "description": "#Yemen With the help and guidance of Allah, at 18:40, the Yemeni Armed Forces successfully intercepted two formations of Saudi F-15 fighter jets that had taken off from Khamis Mushait Air Base and were flying over Al-Mokha in Taiz Governorate, using several domestically manufactured surface-to-air missiles. They were forced to leave immediately before carrying out any hostile action, by the grace of Allah.http://t.me/army21ye",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

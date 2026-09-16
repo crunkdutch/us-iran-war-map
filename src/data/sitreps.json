@@ -171861,6 +171861,51 @@
     "verified": false
   },
   {
+    "id": 1789580672866,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Iranian media: Footage showing the moment the U.S. enemy’s MQ-1 hostile drone was intercepted and destroyed by the advanced air defense systems of the Islamic Revolutionary Guard Corps’ Navy and Aerospace Force, under the control of the country’s integrated air defense network, in the skies over the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789580687748,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Navy: We ambushed one of the latest smart, unmanned submarines belonging to the terrorist U.S. army at the entrance to the Strait of Hormuz.This smart submersible is equipped with the latest technologies in the field of underwater vehicles in the wo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789580630402,
+    "type": "missile",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-09-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicPublic Relations Department of the Islamic Revolutionary Guard Corps:In the Name of Allah, the Most Compassionate, the Most Merciful{Fight them; Allah will punish them by your hands, disgrace them, and grant you victory over them, and heal the hearts of believing people.}O dear, pro...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788970131506,
     "type": "rocket",
     "location": "Yemen",
@@ -172233,6 +172278,51 @@
         "thumbnail": "https://cdn4.telesco.pe/file/m1jcXKbthQCq7tcxlBJDALhGa9Plu_9lOJQhjEGeIPTczKx-UcPplsCC8iuA-DJb1aQ4UYnIz-31sibBE3np-I2hN7MAPGbA_9XGNwDH0yJWanMepz6e4A3LGQPjGYxxHtMY6x4SlF1uyYsjJmOlXMlbfRRa4ZrbgR6ISv7HRo1KmZ22bur9QGHQVfwUUx6hIp_zi0RLz5bUvkAVjuMg7rSNMDCgVVQxUTgFwNB7W42-DRjgSz7UL25ojoxcBuooDm2brqVlkF-_JToI5F1zE9UDDPAyqti9TYmKwT1ClAZyOjRMSFddBC6asRI6ZXPPousaZVFk1QkOa6Qryc7R5A"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1789580653595,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-09-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iran’s Hormozgan targets harvest 200,000 metric tons of dates; 20% for export📌 Bandar Abbas, IRNA – Iran’s southern Hormozgan Province is expected to harvest around 200,000 tons of high-quality dates this year, with about 20 percent destined for international markets.Some 50,000 tons have alread...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789580665212,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-09",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper– Avi Ashkenazi: The \"Israeli\" army will reinforce its forces in southern Lebanon ahead of the holiday period. The prevailing assessment within the \"Israeli\" army is that Hezbollah has not yet been defeated and has not finished fighting against “Israel”. The \"Israe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789580642956,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-09",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper– Avi Ashkenazi: The \"Israeli\" army does not have specific intelligence indicating that Hezbollah intends to attack \"Israeli\" forces in southern Lebanon, but the holiday period is usually tense.#Military_Media",
+    "media": [],
     "verified": false
   },
   {
@@ -176793,6 +176883,36 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Yemen With the help and guidance of Allah, the Yemeni Armed Forces successfully shot down, moments ago, a Saudi enemy armed reconnaissance aircraft of the Wing Loong II type while it was carrying out hostile activities in the skies over Ma'rib Governorate, using a suitable weapon.http://t.me/army21...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789580694354,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: The \"Israeli\" army is preparing for the possibility that Hamas may attempt to retaliate following the recent operations in the Gaza Strip. The security agencies are also taking into consideration scenarios involving an attempted attack or hostage-taking operation.#Milita...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789580667265,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen With the help and guidance of Allah, at 18:40, the Yemeni Armed Forces successfully intercepted two formations of Saudi F-15 fighter jets that had taken off from Khamis Mushait Air Base and were flying over Al-Mokha in Taiz Governorate, using several domestically manufactured surface-to-air m...",
     "media": [],
     "verified": false
   },
