@@ -172174,6 +172174,68 @@
     "verified": false
   },
   {
+    "id": 1789543237694,
+    "type": "intercept",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-09-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | In retaliation, Iran launched a large-scale military operation codenamed “Ya Ali Karrar.” Ballistic missile launches were reported from multiple missile cities across Iran, including Kermanshah, Isfahan, Yazd, Zanjan, Khorramabad, Khomeyn, and Tabriz. Initial reports estimated that more than ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789543229710,
+    "type": "missile",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Footage shows mass launches of solid- and liquid-fuel missiles against American bases of aggression, including Al-Azraq military base in Jordan.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/61783",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Uzn5vhfTZ3E4QJWGsakDcbP5A3psu6MUo7_nb7ipF02HGa5Yzh7j7ThaA47fdcTtblXz_xBOuTlTc2nE6hDFTs6iNwZMF1EzSizyiu-KNMMpZGmW1hM_zKJecbk3j1Gvr61udtokTFaW68hyRZi4TpS1vUQVJo-N0ciVTTfr_MY_uILZHqveQMRXXzIeg9Y5-VsVK4dKO_Pt3aJY0v8XQk_jo9IZ20H_OSA-lPax8XP_Lf22OrpTaEQlA9qAI2DQOmWzCuvsEMWbChi7-KC-ZvAfc6W2XbRPVLBwJ14kL93t4cP1498VoH-t_pR4B7hNJOkKepUD1syAgDwpB-6b9Q"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789543304129,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇾🇪 ❌ 🇸🇦 | New satellite images show a Yemeni ballistic missile striking near the aircraft shelters of the Royal Saudi Air Force at King Khalid Air Base in southern Saudi Arabia. King Khalid Air Base is one of Saudi Arabia's key military air bases and hosts the Saudi Air Force's F-15 fighter j...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/30303fdf23.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m1jcXKbthQCq7tcxlBJDALhGa9Plu_9lOJQhjEGeIPTczKx-UcPplsCC8iuA-DJb1aQ4UYnIz-31sibBE3np-I2hN7MAPGbA_9XGNwDH0yJWanMepz6e4A3LGQPjGYxxHtMY6x4SlF1uyYsjJmOlXMlbfRRa4ZrbgR6ISv7HRo1KmZ22bur9QGHQVfwUUx6hIp_zi0RLz5bUvkAVjuMg7rSNMDCgVVQxUTgFwNB7W42-DRjgSz7UL25ojoxcBuooDm2brqVlkF-_JToI5F1zE9UDDPAyqti9TYmKwT1ClAZyOjRMSFddBC6asRI6ZXPPousaZVFk1QkOa6Qryc7R5A"
+      },
+      {
+        "url": "https://t.me/enemywatch/61788",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m1jcXKbthQCq7tcxlBJDALhGa9Plu_9lOJQhjEGeIPTczKx-UcPplsCC8iuA-DJb1aQ4UYnIz-31sibBE3np-I2hN7MAPGbA_9XGNwDH0yJWanMepz6e4A3LGQPjGYxxHtMY6x4SlF1uyYsjJmOlXMlbfRRa4ZrbgR6ISv7HRo1KmZ22bur9QGHQVfwUUx6hIp_zi0RLz5bUvkAVjuMg7rSNMDCgVVQxUTgFwNB7W42-DRjgSz7UL25ojoxcBuooDm2brqVlkF-_JToI5F1zE9UDDPAyqti9TYmKwT1ClAZyOjRMSFddBC6asRI6ZXPPousaZVFk1QkOa6Qryc7R5A"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1789398963089,
     "type": "airstrike",
     "location": "Bab al-Mandab",
@@ -176037,6 +176099,77 @@
     "verified": false
   },
   {
+    "id": 1789543288687,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Palayesh Naft Bandar Abbas vs Shahin Bandar Ameri football matchPalayesh Naft Bandar Abbas and Shahin Bandar Ameri drew 1–1 on Day 1 of Iran’s Persian Gulf Pro League at Khalij-e Fars Stadium in Bandar Abbas on September 15, 2026.https://en.irna.ir/photo/86265433/📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jWlwZ8g891yKVUKbA8Yrj4LIFCGaIgKXmhq-p-PYakc0CCRSIDMtiO5d4nenuGCwZUSqbsCpP1u5BkTEw_Ik3dmY2g4nYbHnxB7FETCDIR3cOiPMFpu-WsrCL9TmFbQlvXagoaQsxKJ0EVmJ4AOM1FjQYBgyZM012TLILlnHTVxpWK20JmQmkuWFqXuZ4fYkkEUKufYgWmxfR4puIMr7mKyXofo4D7hmJ9qe1Y71s0wNfMG6akpoqOOmoQWw24N8fIA1SGrODqMo2kzIv1deCeunJr_E3Ow-w_rtZwB4N1n0Ep-0pluAsaAJoVB_nrYPUgWbJ2LUweMJDL_N8gVhjA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CuSYRN3UvIhchzyoZqsA9HhLLz05piVSgsz7fP_Vj_9vg9Fsn_n59j6Q_5vDenj7l10P24P74_aWv74VYgoGBHg2NWwdcYBBsFq4T1QB_vONQ7A3_sTId_B3FZh1LmV538YXkW7LMl0rPnsZGPWf8rx5aU0S3JFZw2Up2OVlHZGwnX71FRdjbFvYmiyPAfqC-Vc0uyCe2kKd9nkWo9CIexzjRwCHIHFhKF_8Bs-esrUdDiaqQfkE75-eU7ntadGEEsXNgHkhPcHOteBCTjmwjlJhbsp6lVE9vfepiYT1_Q6VeOYCkPhJKbzpV-8FhEk4yBUEIha4XUFjeSEXF6jKFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/reQPkYVhsmbzDYw5ulsPWORIvsf2uVDV8JfQCT9JM9JTtdfr9NU8n2NtdbXG2fvpU33FV4rmIr2AkEUBF7dU6_s3a9kP99D-vtNnNckJLssn3GOQ7EW7QioyOD4H2Ks8j_EMu3tzrhlBrAB4JQ73kMNTm6N4Vz3aXjcZ1W0esxtG9Nvw_lZkPYAiWmkGr4vLQVpivTMOqHBtT_HG_5_YEqRJ4Ne1_arErGSjalPxI4dvDXql_26rnVuBpn0xmdSVSDboRHoyh9XA5atav7HC1U19lwooWfouXgKhSGzOZH5XAgA1DSlhdDV1OZ6oifRGZxHXDS_3DLaH01z8kB-XUQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/PWyZ7zRGYWDFKiZaBpgpvyAdEw-ALApmjUgx42RYhvpcjdUvPAoFk1q641JkHB65aY5yYmprlp6nigcbWyXSYhcjm_ELce_TWhQNEtEQSLnz8EKQNXmcNEAexut6SiQl0L3VzG9orvawAyMW9YPT4w9vogT6YCa2itWciylE6U4sEQ-NnmIAsvFcHGR3cikFY8GehVNeL8z1_y-XPpuONG59Q5bJR-wtkl42fMOYF4vjVt27cg_CJFzSUmYtsj-DFI5YXMpbtOXGzsFPMo1AaEVHXNZ0CNGDooatjn9eetZiluCWvBYXiAGPR2n8LzK7rgX3NAL09PWEN25Q5j9ODw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fFMUDN0J-sa7uzfenIIZdsv9WF1Q5NN78t5E_kzhY0hBGVjXOg5KAc-CkBFxSDCUIRkjX53XU8KlQ1YBKg7syJi85obJ0PSpPOyKrRq8HYI-l0SR-bn3IQOoSdxYizpl-qNpnewxMtFZE-hVb5pZb50KmXfvQtLnaQgVggqtToYeU7GEfGXIBLmtM_HxoEz5oEX-_5okL9pLFBrgA3mTNpeZeSWl0p6d3TjmnlBvy5p_6zCZRhyeBXPz-d7wA3L7WjCfF40v-m08gochjYw5q8SMCXS8mZzA-qyqvran8TlMMZLau_HjjDdjt7az3w44XnX8I_BWK8IZwzAVrnEllw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JNxBpgK72ErAKsznCMtICLTl-xQuU5ltGHpLw8yijvW24Pmma1nj96jG-pKSOm3tSMTNYgnJnAVsepGqObiR_vQqrqTITE0uLYb5Yie_WsnuIlVGcgcsT6sQWxO9cnTwVf7JN06yVWNGBvdyg2OEuW0Z3QBX_HVTJrq9jurw0f_VTUban3kNv8Q3bHP9ebefddpMM0h8RPy_a64OjunY1RHMQExnSkFQkBF6dTDPsyZdlc9U6CH8FnLC-up3Z-LyFrmTr8StVH8bGBbAKUdlvEplbeioZHVvzYVZi7UFAre-ItEsUaQVWMwU1swz9-hb2IXq3Vxr9wZ1z7DrQ1Mdug.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UwW3LqEz9cxO09ubYx2ZpBxh7Rr8Qnw3XJbh7W52VpJqpkRfZKti94nLa3RW8p9LHqo1-P3ncj_PFnvX-T_CXtawSR4pAdvK1IKMv1_7VEe1hz4Hu9P6TrW-rm3yWIiGbE35ftqvlZW4aD1SjoOgKt2xWQ7yqLpwlZDerpIFsupXOsxPK33v9_MapDZsP96DEnU7vJqjmCVOoxF6-KaFul-mrwg9GA1Q0R-0mbYrL2SK6l6d4eAqoJrnQm-PF_Uv5oFboVD8IaY9NNC3rKFXofoZxac6xyT1oDIKttpB0k9dA4Lb5yWPSRSMaEAk1N6rtWDNZQtPIFmdSnELyjJjFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/GRQZUup38OXWDrUtHaYmZGd2ML-JbRoP4GAnLtBlV2t6bHMXZT0TTK7Ygin37R2xXFY3is_VRs9_erUtwA5a-tLQpi1kgb58niQhra6pL3vcn2OVn322Nq0XHQl53Rxh29jbJ5cyS1Jz8x-q8TJfpr5GSBQ4KldZHBr7L185E9G2PT2OHdFTNVtdsJzTTMe1zKTmCjyLanJ7m2SFYmGOBZC1fqgbzFd4ZWZw4baIz2HPwekZ4GHhhXEjJqf2BLcZ43EGunNB1i2Nt6zuwH9QVkHRLFeghn5nOxMwFhExvSwE-TBLZL2uDx8QGgP01Lbfu8cyh9eVFz0_Gl6aq4sQ3w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/YInr8VY0v4Ih-_6GIqkIHQNxKc37N4owdRzI8M1OKB67A9XzPvCxc8EURKMEoaruCiX35lmeAxML8G5GKGUryMi2F8crs7t1VPDcHsJ94uAKbBY7KkqI5gdrtnuXwCmbSuEtt9uAjSXynfQE9yqQ29TQ8yinUhMkfg67Of13OlPhPWkA3YdQTQptWhv69iYSPH0B31x9dBa1FwfO1f7r4RSp-wn41ET0kzuUzZkIfl7TIF3rjZOtz9WBLoVO-hWfdvTYZ76zHusH1lTo-wjqkTi_fQqgUAkHhLm3MMIiFXsdO9uLiJWMGKb9UZwwPl65GW4qencDE2wwX3GreYP7KA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MO9Hfq_sN82jjeJ9JKjbb9qskeD1vzMeBQPWL7gygdt4klslLMfmVbZz30PlBWZTCzUA1J5DsPxInAOY1KSk99lS_I4fuehW6d2c_0ORzku6Ji7ko5v4NUAtFCAThDxJCEy3OIeywPYPNOph37EuV-Xb5U9Wi3hd3NgQk18baOJFL2m-N4KiZXX9nsZHUe9hqAniECufNJAZxLBH6-k9t5Fe57flupGaEDYM6SmyNwyZYpDdII8Q6Rxj16B3HilhWS6itu4mfDbAqDAJVNWwFcPYoA3F1UMhSrenSZ3fHS6HJtDfwFg3AI8aBTTl9AGQr-XRKpJWPwez2XgwOHRbdA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789543315013,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-09-15",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps: At 02:29 a.m. today, the 52nd MQ-9 drone belonging to the terrorist U.S. army was intercepted and destroyed by fire from the modern and advanced defense system of the Islamic Revolutionary Guard Corps Aerospace Force in the skies over Qeshm Island....",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789536097417,
     "type": "airstrike",
     "location": "Israel",
@@ -176196,6 +176329,177 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | Islamic Revolutionary Guard Corps:At 02:29 AM today, the fifty-second MQ-9 drone belonging to the terrorist US army was intercepted and destroyed by fire from the new advanced air defense system of the IRGC Aerospace Force in the skies of Qeshm Island in southern Iran.🔻@enenywatch",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789543279584,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:In the name of Allah, the Most Gracious, the Most Merciful.The Almighty said: {lO you who have believed, if you support Allah, He will support you and plant firmly your feet. Truthful is Allah the Great.During this week, the Saudi warplanes launched more than 450 airstrike...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789543300056,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-09-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Head of Yemen’s National Negotiating Delegation Mohammed Abdul Salam:By the grace of Almighty Allah, the valiant Yemeni Armed Forces have dealt a painful blow to the Saudi regime by announcing the downing of a hostile Saudi F-15 fighter jet over Marib Governorate.The downing of a hostile Saud...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789543255420,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC statement on the martyrdom of the distinguished scholar and steadfast fighter Molavi Yousuf Gargij:The martyrdom of the God-fearing and devoted cleric, Molavi Yousuf Gargij, a prominent and insightful Sunni scholar of Sistan and Baluchestan, who was unjustly martyred at the hands of merc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789543299016,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Amphitheatre of El Jem in TunisiaBuilt in the late 2nd century AD, Tunisia’s Amphitheatre of El Jem is the largest Roman-African structure of its kind. Once hosting more than 30,000 spectators for gladiatorial contests and other spectacles, the ancient monument was inscribed on the UNESCO World Heri...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/D-7F82AuekOlXgGeE0IUuUfAbTaW4BRgJICDMVoXzdtjS9Q66Xn0HhFVKSGieI-lw4g_aa50PpnZ7VAeBAUnyxfn1vpqaPzGSmnh4R-5sqiGm-WrMRRWPdN6Hk7XZnBifCx3PIEu5yTUZQFQ2oiG_fHM_9NzJY-IVuv6dR-S_2VP0ReAfJiEJKTiwR3g01z1b-pDiM9wcpPhgKV1O1C5Fz9tWcN5mAu-W3Ezk6N3bZS8fNNSCe3GpTqn1PZHZnrE4kCb52-__yv9J3LDaFrJPjsOEE4BsDgBiEWLZJPxlXzrZT-8PDYUhFvk6ybC6EFLasW72IvqxXbL0jbTEbRCow.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ZCXqm4EH2DrgeR0UfWC-Me3qgUsEH000HPC2msjFi0VCwgRq2UgN1uu_2QFZknZuKl1BPGPH-R_jhruHNmtXLhq2Z-9W68Tnv8vOAG41EdgZCucatFYlvefaRI7XWQ-Qhwtc01YS3wjboIAweZ-jY6F0VXqtRUUQyImG3YcqxCj3gogj4xr3qpXYZ7Bwsa2qZcGGCk4K-YTufzyxTxvvYQmP_ey7nkN02v44K73Qhbg4rg5WdCS7XPr67G5vAmFxMWjCwBWviHgdiIEXA9cPIlLql-NjLAiXr86SlECggXPuY-11Jza1EXiT-Tv9lBmEY27smrvVmm7-b5x7eW7ccQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/szUVBUbehfmgnHm8jepk9AP4SvZ9e12kD4RnYB0qeTlglJKHEgMS-2FGq2QRT-qQY4XpPtKp9TE6yqx3nYUbkNilvJUtOe7PA_YrGutqTRhat2bWIy8LSloYCtjsWMSodfRJNDb3t4D7XBRNw9pYIcK9jcXvnn0P6TiKWfaDI4G4_qlC9oUpQ2qoYOnAf4Ej7KimCca1sJknR9vGC3hSOQ8UMJP7_8yYN1ejWQt2fSL7YsSfXOyjkZEp_7tKicf3dqQhhqtKFXok9eI7mIJP5ECiJiUCfu5DYTZVLiX0PDMGpjxxXaoFHY4HaGdI5j6qG6QQ9H-VC1EStjb6vC5GOA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/R_hs5TEvfitDa31x6o0H7iHjQErS471goqFc9xAV9dWGCKoB-vxsybnYLiGneUuIC7zlziP5fYm2s70P9aFrsdERR6fSxc_kTZPnR7DSf1_wSof3cFmq1r0MCXa_4GIR06Y5rmvlziASePe7Ba5ORFTCN0XKlCItNj_DiTuJkLnopGqZ3H3TAAuDLD8McBY1qmtdF-LZu_jGcQkUT_PThQrsEkFykX27R8u-qItGHQF46cAMYNYJWKA9k9uK23QPRcJPHMwY1uQ8zVrkdR3LrIYUkV9FkbCU11bKwxXoa9Diatm5P_mZ1hNVQD424Zd7-MM0P05yfolgFa0UP3vLMg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kTB07_kC1zAw8WhijOWl2L-19Q5hvZeLAvrwT5AKyr20VDXsKRBGQG4uY4aWrM5EwiQ9tx0e_-GSbdaxcxGGa1f8z4nk5llmZqSBLIhKSphpxRAAQ2-FzHUc4LGI5HDmBjZbyRCBl_a_6rvJo7RvGhriVht4IVEseotY2iR76brrfths_cfhTlI84n-nchZOKi_ZtSPh0yi6GoXnf0SoyAdRW2omuRGctoa6l4VdUPUfohYMTnBNlFAQoYkvENDyMs4Y8YjzF5yYybyT4d0a33dSBTpH-aMSco50v-CUeQBvV34wwBNYJosyRAzsU0X6QzymwhKowrx0X3Ia2kW3ug.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Z3M6kUcxN8SsrirsENajrlCbIFDiWBeU2wVoPucsmenhT9onpIeMiZiF6PaucEAWGZOpvxJVx4_GiCO4LZNXL0j-Y6J0CdqV0t0gFxzlhOgv7eU5EJiNGxjFeMQD0Ee-7RyV6lkO1qsLaGUm55STjR393s9aysW4BvAxPw_iUpKEc764_2D_HNimNXV1xQKN6QAv9VurCGBh07hJDzH-4WWgO_Ri7kkNd9DurNLCq_yDAIqrezqyXdHlPU9uro_ZXJU7i3NQZWtw2AITe1mtIkYsu5cWHTHmu9_EPBs4KUmQm0iF9VnhKsO9xekj5SbUAIqeSvYJ_t2XPSLNnfCxEA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UQy-IEK0vcxtRNbL8EN1EuFWYO7W54Ahj1IRUVBjxqGIgxMMZswECCS-v8DxUXvqB2nlFJ7NuY1yeOultUajrHvlNGaq0HyIxDCmUL8umFBd8KWVGPbYzVJLZAAQxz5_HXrVcMa5pEaIluG3qIq2xWpE65A8tlo-V0JOU3F4bTQ6IG3A6Df4sYU-bI0fgqB1FTPOv2k_5tw7rIxvxnHFCMQWxCmjHN8R5ln6IUOoep71AgCD47g_lKkZbHRNzbyvuGq1uvR9JzyjT8oDR7dPxqcTGn4goj39PkT8-imlvPHh4_D8eWg8Tv-wG2U8ME7Z58zBQkIdnviuqjwUX0mTIQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Ll0R3_ZnIYe8YZtni9qfyERzzx-VsIv70s9Obp_sqFJybYweLQ4OgCzRmA1ced8HqPd3qKHx_O_G4gLOxUm7_-nqDqDZHtcNizIMhfL8HlESKhGRY_vM3jryuZNYrZgNsX-PuRRCDCmC5pRcOhQAwRyowfuA-NrO2gaLIcVbTbzgXE0QoTsJIYkZB-WQ9ogkSEw05gljUoCyWGYhwQb-xLTezOUyNoNMe6sAbD_KPIWbRDtpfBHvEbNNKbjBpGSN1HR29XI3dmBIRfOWV8BZZ2FT-G7jlEXazT-fJUyEk_yRhq0s6hbZVM0MIJluZ_xwyC_ArW6LFo5X1y5TrW_IbA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/nCsB4mJMIBgmOxlMfwGFuJ02i9Q81lJ3eHgWdFOVBMLsIHVlaRMn4k1coRtkF_jpaJLikD-oeaAdQwHbtQHj2Zfl8j2y_aJTXa0428miIXV_kpgWSXjuA5tk7O-hfC46wWVcCcCFpmgQRQdwOn5GOqJ7rj90QAu3WlsCSDECeWQged9fU-1OG1RVIUb2U0xXCp93r5kv6l0stChR5-k0c3LOPkC18oEGQTluMGYD22CE83Ba67mg5pZ7-RdjBi71NOOq-Ch_o1QhrCXmW9vpyfmX2CkV4N1Rzio4xXiem-g1EIOnakUe_E13txhw6DUaMqJ_fb1GCsdI6BGjiK5Z_g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/pBXebsgrUspRTMrNyCE-etKrujHXbgyS_K5q5sn5myRX6wLjPdMW5pABdb0vteM8tEF_T2XNZBUcH-kILkMTI2gehE-y8CTKtmsM58SpBX5XCHBlWmevKGOSRygWtjraLRdFS6A_m2hIbe_DcdDLJwFrNusj8cvbjS9SQqNyVE3Jk637vOTNZMY6cJtbDCPq_d6h755ZrSJM1F1mUH3zI5iwNjHGOE-irbm3s4geR2qPAUGe1XM-msMRCH3HqBScX2fPMMul1X5xpMGg3J-RezdqEf525-0jv8Z-oP5xMyeiNad4MHJPdpK9Wrb4A6FxKPEiVDn3SZSTWYQLdDRfxg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789543262460,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 In photos: Palayesh Naft Bandar Abbas vs Shahin Bandar Ameri football match📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bvzO1nlyYUW6DRxhGd9PH8T6XONk8zxOQflN7VeAugkPzbJM1TzbGZuOKmNK-WVQ-aepDefdMSSh0yd8OXKZeHcXED7alsS69DULscFCDBn8ZAzCu_sMRO96alGmSu1CnjG05MMPD3orVcHxDuzPTAnDR8RdHfJczAjNrvQ1RObpeZkXv2inrGp6pXe4wj9irD90cjQDukl_to4amqPe2qlBTzuGuLKsnPchRUGWl-9vQH5usHlJXGoBDrurzXAp4IoScJFoQFI5AcH4XGvVC02AhEzSIeh4r2CeN-CVRl7SWJwmCmmLGDojb9WbhypGZU-K_jrcaleTDoho3owdWw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789543249818,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran’s Expediency Council chief praises 200 nights of public presence📌 Tehran, IRNA – Head of Iran’s Expediency Council Ayatollah Sadegh Amoli Larijani has praised 200 nights of public presence in the wake of Iranian defense against the US-Israeli aggression and endeavours in the Strait of Hormu...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789543285736,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran envoy delivers Araghchi’s letter to Niger’s deputy FM📌 Tehran, IRNA — Iran’s ambassador to Niger has delivered a letter from Foreign Minister Seyyed Abbas Araghchi to the country’s deputy foreign minister.In a meeting early on Wednesday, Ali Tiztak, Iran’s ambassador to Niger, handed over A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789543304070,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-09-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "At 2:29 a.m. Wednesday, the 52nd MQ-9 drone belonging to the US terrorist military was intercepted and destroyed over Qeshm Island by the IRGC Aerospace Force's new advanced air defense system, operating under Iran's integrated air defense network.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jeWxvXNIZe7PT2aXl-tXvfwr64UdP0tzfGqPTNJu5AQMa5JptFIMMt44Xoak_eiz2dkFkpwSFosEppBTyU17vxsnKaICVXGxndgG_I520_o3HK2HVHaVyZG1h6N_jLXU1kl1ETvCpgFJMpe74U1eMZeZg9x_odrlr5J5sQi-WlCgRUMGpJZuW5JrxH07tuo6mky-5LzzUWyZ4BW2oh2PViIG-ltFWjA9OPAVOgzkoRIL0xiQOM5ft6eTedbx7PWmN87Bdll2VypOfv-hZYJUnVnVSEXJMie1GZU3QRzJEZTlQzZUi1pXVMgVzgff-Q1hn1QRe8r-iHPYL5dCwkkDKA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
