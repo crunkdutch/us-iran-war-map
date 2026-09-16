@@ -171906,6 +171906,36 @@
     "verified": false
   },
   {
+    "id": 1789595060661,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-08",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper– Avi Ashkenazi: The \"Israeli\" army will reinforce its forces in southern Lebanon ahead of the holiday period. The prevailing assessment within the \"Israeli\" army is that Hezbollah has not yet been defeated and has not finished fighting against “Israel”. The \"Israe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789595103906,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-08",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew Newspaper– Avi Ashkenazi: The \"Israeli\" army does not have specific intelligence indicating that Hezbollah intends to attack \"Israeli\" forces in southern Lebanon, but the holiday period is usually tense.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788970131506,
     "type": "rocket",
     "location": "Yemen",
