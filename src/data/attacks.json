@@ -128576,6 +128576,38 @@
     "media": []
   },
   {
+    "id": 481026917,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-16",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Strait of Hormuz, Yemen, Oman: Updates developments September 2026 YemenYemeni delegation",
+    "location": "Strait of Hormuz, Yemen, Oman, Saudi Arabia, Iraq, Israel, West Bank",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Updates & developments | September 16, 2026🇾🇪 YemenYemeni delegation head Mohammed Abdul Salam said that the reported downing of a Saudi military aircraft was a major embarrassment for the Saudi government, which he accused of attempting to convince the public that it is not conducting attacks against Yemen.During the previous 24 hours, Saudi warplanes reportedly carried out 40 airstrikes using F-15 aircraft operating from Khamis Mushait Air Base, targeting areas in the Yemeni governorate",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

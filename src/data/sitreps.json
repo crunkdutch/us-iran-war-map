@@ -176917,6 +176917,80 @@
     "verified": false
   },
   {
+    "id": 1789587872103,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:During the past 24 hours, Saudi warplanes launched 40 airstrikes using F-15 aircraft that took off from Khamis Mushait base, targeting the provinces of Taiz, Marib, and Hajjah.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789587883479,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-16",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | Updates & developments | September 16, 2026🇾🇪 YemenYemeni delegation head Mohammed Abdul Salam said that the reported downing of a Saudi military aircraft was a major embarrassment for the Saudi government, which he accused of attempting to convince the public that it is not conducting attack...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789587832595,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Pictures showing the debris of a Saudi F-15 jet that was shot down in Yemen📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jyii4P5EwnUsfIO_EdWJ6FByfsqZSBeDAPg20cN4xYdqA617EbKt-fquKrIazpOLpOR-wn0wvWxjR9N7qFR_l6cj_TPzofY2sVX0nTNzIWbzrypCdqKWdfXdNIRDak4upx6j8Zte3cnFK7TnK9YSm5rG1pTWxE55gZwPX7Wc_S1KB1UAbegVB2oVWkXGaeZeqG6-YhjMiMI1MkT0ltE0DYlUlFcJr03fcBUABpMlHgLtzXZuId37Fc8Cw7yg0ZGZE7laqb30FWMeQZzHAFV2YyZyonAuDA0Ka3ERnF-NJd5ecoBSLfHyCuTGk1bychEVYf_rOlrmqWIBWc7sy6FW3A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/A4bH_kEOikPadIaRkgxHk52ZWUT793mWsKB1okrUgk50TjT1ZyepJuDxT2_uO3Vi_CJeqrzZp2K_rTb-qWMQXl-czDA0mHhH13NTDUL1ZYvfor0t_6RHgic8txQ79GB8u3bpp1CtJ8s8Zil126CxGveVE3Uvy7o6YJqtFnLfDGUR42R7D2hvPtwZnBxC7lDjmYKbWxknb3GVNYCuKCTAG6EWhUaBOmz0fx3dioH0mn1OtKOx9CGitOSEyb7x-rL5_I0Qt3FXauqvFDGtYBNVhXlP_MdFpx8sYVgNfuAUQE1p26flIv0XXx11hziOClanowRn0UYDbrGiMd1d_1tHUA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ubfXUPI8SnngAuAGMV7DGfp68XLYSK5BFXRwdmRMqmc1C3Qyv0nIvc4jzzAXWQE5ewVXTXC2R2izYAhgcuk7hBL65qrWBdkvbJJFc3c3Zqbe07AjXhsjYRWcX1q4jgDi0qYuxFVr0vNIDZAZoItnobN5mhe2F-OqGKGgjdyrOcwIwGGv2KhaA5EmYk1sjR9zslGGO6_nDGYTpa_GYJzxhAgdBcfYJZJOjid1nD65ODaSq6F69v5tGhjy2BJ9ZmxtvqNW7eQbfFuU5OzK8x_OdBPOMGTSAiESFDzSOZj58nWPzuDIiq3_RfD__orPwUW6-8az-A0qWDGTHeKQxkYrhw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/OFavj-R4D4eXTb4X-tdJKjwNpxd2CAq-_UkxWtvBc2fjM393Dz64gcRhFYC57rjkZUqxMTTWMyPv5nv6W3frGfvjFfvJBWzhwUYorC02_88LPg1f4TNVAppEj_-2rHDEoX3cqrkI2c-aQPRaMtsgXJvvkfQz3jvWOFqjOjFtGEdSjBGgiDVRclLq5jN_8PKc9jETCAtXEkRBj6I1ch27L5TlH7SRS7LBkQbNGqFDuBRActAMB4oyE6gZ0zIJWhJql_5Nuqozr5WRsF_hxQK9HjAalt_cRhUBpex3v9GEROJedxB3jFo4JA2EtkicjVEt7UnngE68bCCbRleiPuo6BQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/nw6SWkKanuD005GGeX1bFMvN4uAEg-h4bTiQ9Ared8HIWRWq0Q2BivkjSeY9f9VIqDjrTtxgX3NBsKo7qfKGrXfV-urzRc0FnQzUcEto3ACjc2_0uOwrxSW9CELHpY8C3ydqRRLGWvtrGk_UkRaVm2pkYJ00-0BzfSunvYQX92jbjkpNPjpKaEG2iD29fbdMxprnen4HXqqQmdNOrG7Kdp5aY7vQNcnRKgjJNFK9aGVMDuoZXQQTvYuXEws6dk9chAZajGKXO_o-dMK521kMBqyzTcVyZ_P9x4N28DCx5mEXywxEtn_PvlaBNxJsokScq-xIWl9a0dCZ_haBBDA8HA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tkzYNwytiIVm0uAF4ulSQf_kZv5lBQRQe3cg7_UC-pxPLpTgVtAY72QIQ9HjnMFNNRSZ4sXPirOqOpCynMZe06PBQoEyu29Q7Iv8m0Uw53G8A6BZ72lMgwO9m7trF6U2xH1JnNZ9HzcaOOTZDSi-SBH93OEutEkyO-6Rz-t1aM3kluUidTEjItFWjbVL2Nu7GYP4Lptzp8mH74OdbBVvXJy41Yp3Z2f2GrUKpmHEQLK_b34jqMyF1LA0FmqcNhc_u4J1N4fNx6fpM1aVYsYsOljwWFREt1mbV7Ua07Zls_K6TxLvbU7rWKejFoWqIb0iUD-1YVCnLkkYhNRq8l-muw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tQQAnyyoPOdoEmpKtqgSx6sZtK3CvIo_zox88qvtX8kFxcxIP8wbu3IGPNsAevInW9Kr0KWB9rxnmyK2dPHfdD1Tmw82zgDeLq4cfQK0OHMAXGAoX05kQvpGC4O3YPCnQO3wd_9P_3fAv1q-DVbfZ_MYYnd9cJ-6SuiaoyXppwZeYIXc5UVBjNPfYmD-rtvqxVm7_G9UbNDd-XJcRifKug0WgSputEXK4R65bMc9IwkZ-pZEwOdjmafi6a05US02mO_m_Ss5SopgMQC39d7CpbZ6ECqPvlC2iT_SO3Fh6ipPxcF2797jbTgFaYzlFcstca8NUGgfxzoMZrWQksR_aQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
