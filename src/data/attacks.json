@@ -128714,6 +128714,38 @@
     "media": []
   },
   {
+    "id": 481050836,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-16",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Minab: Hollywoodstyle Shows cannot mask crimes Irans",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 168,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Hollywood-style Shows cannot mask US war crimes: Iran’s London embassy📌 London, IRNA — The Iranian Embassy in London has posted a tragic video of the burial scene of the ‘Minab’ school children martyred in a US missile attack, slamming the US war crimes as so blatant that they cannot be concealed by “Hollywood-style movies produced by the US Secretary of War.”Recalling the martyrdom of 168 innocent students in the bombing of the elementary school on 28 February, in a post on its X account, t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481033746,
     "type": "intercept",
     "status": "confirmed",
@@ -128741,6 +128773,70 @@
       "other": 0
     },
     "description": "🔔 | Regional developments | September 17, 2026🇾🇪 Yemen- Saudi Arabia has reportedly closed all schools in Khamis Mushait for tomorrow over fears of Yemeni strikes.- Yemeni air defense systems reportedly shot down an American-made RQ-20 drone north of Haradh in Hajjah Governorate, northwestern Yemen, near the Saudi border. Later reports also stated that Yemeni air defenses had shot down a Saudi RQ-20 drone.- Yemeni sources reported that Saudi Arabia carried out an airstrike on the Port of Mokh",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481043997,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Qeshm Island, Qeshm: IRGC announced defences have shot down",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The IRGC announced its air defences have shot down the 53rd US MQ-9 Reaper drone of the conflict, this time over Qeshm Island.The IRGC said the drone was intercepted at 10:12am by a “new, advanced” air-defence system operating under Iran’s integrated air-defence network.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481047416,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Saudi drone shot down over Yemen",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | A Saudi drone was shot down over Yemen just now.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
