@@ -177021,6 +177021,69 @@
     "verified": false
   },
   {
+    "id": 1789616796358,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Fires intensify at Yanbu facility in Saudi Arabia:Fires at the Yanbu facility in Saudi Arabia have intensified following the latest Yemeni strike.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Gg130Au1KQSvSm-G6pH8faLz9jiBXq_cs8qme0xxoWHqYG9W0-lRLb106vkHqOg3u1KorWRJOPGThq8BOyDLo8n9ouwYPJGtSx5r8gjo71h0XOZF29NfKE11VD9NS9zDWKu44ICx1zMd4CuKlFyhoGL2Sarcgh7isuZcWswCjVwwLOg8Z5C9O28Iu2vtOXeAN7weTJ8OiZhSmDvZOn0090DVIrzxDvN5GNT0iwdCGoLu1p1O0QN7uvxfCKybnkVkrodzZmK0HJxVJLUMvL0uAsE6usynYEtuiF6vWWQ5_eEJLE5U2mHyADZjSoUtimiii9E-GTrgT4uYfaA3Qi39rA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/BMR5R5n8lqAwtfk6WVHW91iUPkgUCOm_7AQO8HIhOgL1593XwmbmPuosXezNs0HATS16tSN7lEoDwK8oyn_R_jkW2wKw9ZfbGxGtlUvKy2y4eLZa8ImPejD2do_8NO0YuQhUocEm0fHmOidex5emZHMTTOrG3xwbHhuqeb3dHIrsytqmB30tKnlxNCRcOujOsPNq53iHL63ulppKC5-WDHmRBPasDfDIuU_PigIMItnMssyOKZ8o1ikhEaaOqjBAgmg3293p5Cvdghc3cj0UbzKz2uMnUEiiM1m4sfVZsVy6n4wQa1rK1uxoUN4l-bU7l3yMKSEPywUtXy7Mnu5Uaw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/YLN0UNiZ9s8YO58QVYEk69Jkh65t5XgsD3eZvMTmZ7dzIkE0aQqx1TVGaOaQojV2EDBHsD4nTB7VrQ_qUVrMP4xOKXUGt4uZGg_07Ax3rAaeY5bHfz-U4MKbTOBf9UfzUHtSJ0276h0Hh0dGEBLWjZL_7RVjoahhH4GySA4dMBcR6hj6DBXLyFKvH-uMhHRHIe65tZNGIAfJs4utOjd5z5U3Ae4de_rHvVcAY4f6vBXmjPf2MAHiogPglXSMmUsQRnY9_0iuqkoxvT7Bi_4VoUK-dwyaJx01EFeW8rVrYnVPATqXxa4XUg13j2uhLSGPbNG-TYH2ZZSs0DkHSosmWg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789616768443,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇦🇪 | Yemeni missile strike eliminated UAE-backed militia commander on Kahboub front:Mohammed Mohsen Naji, a commander in the UAE-backed militias, was killed in a Yemeni missile strike that targeted him on the Kahboub front.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GEr4onAmVSQWwuvXcZiY_hG015U_-VaIsZpJE7v9pt3-W_OMqUWMVdcwwrCa20-vQ2PQetZklfkm8wVm29_9qBpgxD-mRIGkfVbbiWhoMp2C2OLTTqhjMIL_XXfAidOgPMc7VSmOMqL7slMknwX29qzFQwUwTyG3OXILFjKgfdTe57WCW-AIuGhmU5q_d6C9XCNi-wlz9MNZjCYRbLTwIJ0ojnRml0s_Qm2g3IQUMLId6RxIwNafN9tHXGdXCOP2Sa_ZHzhAQQWSjFaDBrtxQxnTmuHlvfwhlMKEwE_om15476dvHhcmzOLHkdnjW73mmbGeyyJIg16BDlFd8MOBPQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789616760996,
+    "type": "intercept",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-09-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | Regional developments | September 17, 2026🇾🇪 Yemen- Saudi Arabia has reportedly closed all schools in Khamis Mushait for tomorrow over fears of Yemeni strikes.- Yemeni air defense systems reportedly shot down an American-made RQ-20 drone north of Haradh in Hajjah Governorate, northwestern Yem...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
