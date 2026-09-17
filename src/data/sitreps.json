@@ -177104,6 +177104,21 @@
     "verified": false
   },
   {
+    "id": 1789638358173,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Intelligence Ministry vows to pursue assassins of Sunni cleric📌 Tehran, IRNA – The Intelligence Ministry has strongly condemned the assassination of Molavi Yousef Gorgij, the Sunni prayer leader of the Mohammad Rasulollah Mosque in Zahedan, saying the killing will not undermine national and reli...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
