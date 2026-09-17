@@ -177180,6 +177180,21 @@
     "verified": false
   },
   {
+    "id": 1789660092052,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenHighlights from the speech by Ansar Allah Leader Sayyed Abdul-Malik Al-Houthi on the latest developments and updates: – I turn to Allah Almighty with praise and gratitude for the great victories He has bestowed upon our dear people in confronting the unjust Saudi aggression, which is carried o...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
@@ -177254,6 +177269,77 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1789660085982,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-09-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | AnsarAllah leader Sayyid Abdul-Malik al-Houthi’s speech:Sayyid Abdul-Malik Badr al-Din al-Houthi, the leader of AnsarAllah, delivered a speech addressing the renewed conflict with Saudi Arabia, the war in Yemen, and Saudi allegations regarding Makkah.On the Saudi war against Yemen• The Saudi ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789660070816,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | AnsarAllah leader Sayyid Abdul-Malik al-Houthi’s speech: Sayyid Abdul-Malik Badr al-Din al-Houthi, the leader of AnsarAllah, delivered a speech addressing the renewed conflict with Saudi Arabia, the war in Yemen, and Saudi allegations regarding Makkah.…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789660054832,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-09-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇾🇪 | Satellite images show that AnsarAllah has dug nearly 20 kilometers of trenches around the Bab al-Mandab area, apparently in preparation for the next phase of the war.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ae63336bfe.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BpLCdeJ5IdkXKEbwqA2V74S6qG1TGDtX-Zxb73Nhqrs9SA9eyfsM6ejSx_G9ltFRW2yhjpws_BUmKy8mFTMKsFJD69toW5vLqkIucgItV1Gnh9_roH2DEkC6Yb6RQX05AeeKyj-pkZAqeDNc9maqDfg3ba91y-ceal8HYmkwqKdNyFmKoiUjxkseDC5B7UKQePJS3AfptGTfXwFz0lNf50RCo0GdVzWAQwX7qXVAUoCHb7KsZ7IipwHF-ujz0I97udNOKyzVf4goIN7mokXRMJ6d8VvQ4swFRPLB_xQU9RCnRwi8oT77ee_PYzFEe4_imAWeiojx_efFNLOnVAmQzA"
+      },
+      {
+        "url": "https://t.me/enemywatch/62251",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/BpLCdeJ5IdkXKEbwqA2V74S6qG1TGDtX-Zxb73Nhqrs9SA9eyfsM6ejSx_G9ltFRW2yhjpws_BUmKy8mFTMKsFJD69toW5vLqkIucgItV1Gnh9_roH2DEkC6Yb6RQX05AeeKyj-pkZAqeDNc9maqDfg3ba91y-ceal8HYmkwqKdNyFmKoiUjxkseDC5B7UKQePJS3AfptGTfXwFz0lNf50RCo0GdVzWAQwX7qXVAUoCHb7KsZ7IipwHF-ujz0I97udNOKyzVf4goIN7mokXRMJ6d8VvQ4swFRPLB_xQU9RCnRwi8oT77ee_PYzFEe4_imAWeiojx_efFNLOnVAmQzA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789660034882,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-09-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | Regional developments | September 17, 2026🏴‍☠️ Occupied Syria- “Armed clashes broke out between Jolani’s gangs and armed men in the city of Al-Sanamayn in the Daraa countryside, Syria. As an initial toll, there were deaths and injuries on both sides.”- Syrian Internal Security said: “The group...",
+    "media": [],
     "verified": false
   },
   {

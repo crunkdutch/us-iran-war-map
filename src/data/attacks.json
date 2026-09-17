@@ -128746,6 +128746,38 @@
     "media": []
   },
   {
+    "id": 481057679,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-16",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Tehran, Gilan, Yemen: Iran Islamic holy sites must used",
+    "location": "Tehran, Gilan, Yemen",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran: Islamic holy sites must not be used as tool to incite sedition📌 Tehran, IRNA — The Foreign Ministry spokesman has warned that Islamic holy sites must not be politicized and used as a tool to incite sedition and escalate regional tensions.“Any aggression against Islamic holy sites, especially Mecca, Medina, and Al-Aqsa Mosque, as well as threats to their pilgrims and residents, is condemned,”&nbsp;Esmaeil Baqaei wrote in a post in Arabic on his X account on Thursday.​“At the same time, ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481033746,
     "type": "intercept",
     "status": "confirmed",
@@ -128837,6 +128869,38 @@
       "other": 0
     },
     "description": "🇾🇪 | A Saudi drone was shot down over Yemen just now.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481054257,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Sanaa, Yemen, Saudi Arabia: AnsarAllah leader Sayyid AbdulMalik alHouthis speechSayyid",
+    "location": "Sanaa, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | AnsarAllah leader Sayyid Abdul-Malik al-Houthi’s speech:Sayyid Abdul-Malik Badr al-Din al-Houthi, the leader of AnsarAllah, delivered a speech addressing the renewed conflict with Saudi Arabia, the war in Yemen, and Saudi allegations regarding Makkah.On the Saudi war against Yemen• The Saudi enemy believes its strength, stability, and ambitions depend on keeping the Yemeni people weak, subjugated, oppressed, deprived of freedom and stability, and divided.• Saudi Arabia is carrying out its",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
