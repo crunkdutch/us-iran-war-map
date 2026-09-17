@@ -177119,6 +177119,52 @@
     "verified": false
   },
   {
+    "id": 1789645618290,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾🇹🇷🇺🇸🏴‍☠️ Syria: New large wave of protests has begun in Syria due to Al-Jolani and his government's stubbornness and insistence on the decision to raise fuel prices.@stayfreeworld",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fd430637f0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D3k9PzvPtWDJplqxHlMIG4k0m5t7Yaxe4-LFcRTsbcE0HcukeUrFY3Kdt2RdQZ7TuubVhVK5s4s_a4c3bJRLdb1F0HT0rQaN0p2QjTGYIsfxuRgqSw3j_GEfzvwpqIZ3gcnqCKGP2ZpqVbfVp4pKwbi-QM4_rmJLwpC1fYlsIBNOPG9oFLzlggHvJkNR8gXNEEoHZFDhIuw0PospVngt3XSYcaBAqfWOpbNwb1gEVHtA67Zdp6bAq5K7u_5eQjXNM8INFIX9_wGn-r1k6o8IRS_K5jehpeFROHsCMsbXXzYEQsGZrm4WeZQl12ED4RMMo26rfoWRBzq41Q_1W5Z1IQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/62238",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D3k9PzvPtWDJplqxHlMIG4k0m5t7Yaxe4-LFcRTsbcE0HcukeUrFY3Kdt2RdQZ7TuubVhVK5s4s_a4c3bJRLdb1F0HT0rQaN0p2QjTGYIsfxuRgqSw3j_GEfzvwpqIZ3gcnqCKGP2ZpqVbfVp4pKwbi-QM4_rmJLwpC1fYlsIBNOPG9oFLzlggHvJkNR8gXNEEoHZFDhIuw0PospVngt3XSYcaBAqfWOpbNwb1gEVHtA67Zdp6bAq5K7u_5eQjXNM8INFIX9_wGn-r1k6o8IRS_K5jehpeFROHsCMsbXXzYEQsGZrm4WeZQl12ED4RMMo26rfoWRBzq41Q_1W5Z1IQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789645580427,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Smoke is rising from the border area with Lebanon. The incident is under investigation.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Z9fcWmbhwn0NZ4AZS68fjaVcLH-dpHAs1oo0sAohaa-xgtST1IvxN_g7bGdrm1dc3xVXtmy7on3bwTK98469jRYD-z7I4zXr24O0ptuFHGnY38fTBWpEW03HW9tTrnYWIm0Pd335YeRAHmICAjk0yfCSAOIa8XLHwzxvHu2QjU8zKV-SxPSqn1oT6MFJ3ZM1Hn9Vgi4b688M8t-MuZdH7Mo56P19RYbGgBc8Ou6q5FThaivdbrYAiP8-mw6INzbsHNofKIBXSqh9uy_PyjbXl_KiNBoNxtZMdf7NExQvkb4JcwQ7tPQ_mYuwb1cOxNCtOn4vB1jlEbiHcGPBAmBcUQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
