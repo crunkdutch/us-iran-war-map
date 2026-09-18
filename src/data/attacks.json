@@ -128951,6 +128951,107 @@
     ]
   },
   {
+    "id": 481064526,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC NavyGreat noble nation Islamic Iran",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy:Great and noble nation of Islamic Iran, coincident with your epic presence in the arena surpassing 200 consecutive nights, the brave fighters of Islam and the naval forces continue to powerfully maintain control over the vital waterway of the Strait of Hormuz in Iran, permitting no aggressor to pass through it.Last night, the violating tanker \"Trend\", sailing under the flag of Togo, attempted to pass illegally through the Strait of Hormuz at the instigation and deception of the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481067951,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia: Additional damage reported Abha facilitySatellite images",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇸🇦 | Additional damage reported at Abha oil facility:Satellite images taken today appear to show additional damage to the Abha oil products facility in Saudi Arabia. The latest imagery suggests that the new attacks likely targeted and destroyed two additional oil storage tanks at the facility.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/sFh3ah9DLNe953JqPB5Qas_CammiwqBAoH8MPKomoGq2ZBdVMZ4iYf-ScyCvrSw9uINsI58ywTRtuX5ZZ-Bca5FTgyEnTItBFGkGXg8-sXyCUVT4Pqg1CRY90KcoVnG5e7j4iap-DGW41TnTTZIq-RmhOMZZHvIxm85-6r-8S4IcHZLiYVcZiWsFAl0sk7fICSyRWHy_gSEFkUO0vOGlHfTNF08P6NycpoYWCU_ZVIW4SRz-Wnlk1zbVMlj-LZj1qbbNzi2rY3E77GOwXvJ8gTt1ZXDyv2ngMRCA_MC-4sBP5m3moGVp53oxMI5TatLTEMoWElggyL6y7Pq1nRr_9Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481071377,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Aden, Bab al-Mandab: Latest updates from Yemen war1 AnsarAllah",
+    "location": "Hodeidah, Aden, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Latest updates from the Yemen war:1. AnsarAllah breaches PLC defenses in Jabal HabashiAnsarAllah forces have breached the northern defensive lines of Jabal Habashi, northwest of Taiz city, after advancing from Adina toward Saudi-backed PLC positions in Al-Zawa’i. Jabal Habashi is regarded as the last major defensive position held by the PLC northwest of Taiz, making the breakthrough one of the most significant developments on the Taiz front.2. Major AnsarAllah advances on the Jabal Jirdad",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

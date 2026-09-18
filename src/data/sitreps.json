@@ -177358,6 +177358,91 @@
     "verified": false
   },
   {
+    "id": 1789696137268,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Navy:Great and noble nation of Islamic Iran, coincident with your epic presence in the arena surpassing 200 consecutive nights, the brave fighters of Islam and the naval forces continue to powerfully maintain control over the vital waterway of the Strait of Hormuz in Iran, permitting no ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789696197968,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Additional damage reported at Abha oil facility:Satellite images taken today appear to show additional damage to the Abha oil products facility in Saudi Arabia. The latest imagery suggests that the new attacks likely targeted and destroyed two additional oil storage tanks at the facility....",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/sFh3ah9DLNe953JqPB5Qas_CammiwqBAoH8MPKomoGq2ZBdVMZ4iYf-ScyCvrSw9uINsI58ywTRtuX5ZZ-Bca5FTgyEnTItBFGkGXg8-sXyCUVT4Pqg1CRY90KcoVnG5e7j4iap-DGW41TnTTZIq-RmhOMZZHvIxm85-6r-8S4IcHZLiYVcZiWsFAl0sk7fICSyRWHy_gSEFkUO0vOGlHfTNF08P6NycpoYWCU_ZVIW4SRz-Wnlk1zbVMlj-LZj1qbbNzi2rY3E77GOwXvJ8gTt1ZXDyv2ngMRCA_MC-4sBP5m3moGVp53oxMI5TatLTEMoWElggyL6y7Pq1nRr_9Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789696192804,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Satellite imagery indicates damage at King Khalid Air Base:Satellite imagery appears to show that two aircraft shelters and a large aircraft maintenance hangar at King Khalid Air Base in Saudi Arabia were struck during the latest attacks by the Yemeni Armed Forces.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/A-mNB8WUuivNgQSORCE6B5ZxjRGSZsWrGtLW9i9H6UAuhf9MSPVVOlhycOmj7VAkhgHip0ZuZrHaQ9anIp-xXU9DRO5gQIyDdkRH3f4F2VWSUhVk47-3M2CWErsFA12rqfMAkFJocPbLuhOlDOahmLQuITjuqCKs-Yd5LLhUlLBY6NTmT7WHBSZRpJK8zBSSSW7D5CI2fJSgRu5q23WYTS742wd4Va8tzG4cZbUNAxtRBqzwjDVVUwK_Ds5ind17RGb17k9qci4Wimx2Gp7eKp1lYGCw4FUsPbsAAltS0dEgBI44zYJ3JOF-6us5i3JXCv4pa3jn2Ak-kCNdqP_O1Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789696194485,
+    "type": "missile",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-09-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Latest updates from the Yemen war:1. AnsarAllah breaches PLC defenses in Jabal HabashiAnsarAllah forces have breached the northern defensive lines of Jabal Habashi, northwest of Taiz city, after advancing from Adina toward Saudi-backed PLC positions in Al-Zawa’i. Jabal Habashi is regarded as ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789696154204,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Latest updates from the Yemen war: 1. AnsarAllah breaches PLC defenses in Jabal Habashi AnsarAllah forces have breached the northern defensive lines of Jabal Habashi, northwest of Taiz city, after advancing from Adina toward Saudi-backed PLC positions…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
