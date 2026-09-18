@@ -177255,6 +177255,21 @@
     "verified": false
   },
   {
+    "id": 1789761106440,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Over the past 24 hours, the Saudi warplanes carried out 26 airstrikes using F-15 aircraft that took off from Khamis Mushait Air Base, targeting Taiz Governorate.The total number of airstrikes carried out by the Saudi enemy this week has reached 300, using F-15 and Typhoon aircraft that took o...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
@@ -177605,6 +177620,26 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 US cannot evade responsibility for war crimes: Iran deputy FM📌 Tehran, IRNA — Iran’s deputy foreign minister for legal affairs said everyone says that the US brutal attacks on Iran’s ‘Minab’ and ‘Lamerd’ cities were blatant war crimes, and Washington cannot evade its responsibility for these cri...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789761163850,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-09-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "The Yemeni Ansarallah forces took control of the Al-Aghbarah mountain range in Lahj province's Al-Mudharibah district, which overlooks the strategic Bab al-Mandab strait in the Red Sea, driving out Saudi-backed forces.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/sSaEWJI78yK6EZYEK1lytGsYmUB5dATWwaaq-NmN3ryI5YBMm46r0C1KmMdNm5SwY-Kr5w68Ojap9MjhpRGbnww57sTgpKoWUE31_jyt58g0AQRZbMFKnFUwGj8b5hu4sHJ0WWscx0UDEatqPLHDeggxer65FWj730yDK3BfcI0uRDp1J_-ofyOtQBPQS3WFbRUNehJwora6DxlPDaOqrV1FzqcmOeS2rC7nwc_jUHAeBn83KftWXfljNOPrAEtshlCIeMyrXnAKMopti72LW1XzJ0kqeQb6fYCYOfYrJi9bDod3hmaWnLAf14KkvB6VKWq39M2XlJx2DPzpMRJfEQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
