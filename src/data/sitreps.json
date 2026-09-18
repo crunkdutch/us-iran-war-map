@@ -177443,6 +177443,36 @@
     "verified": false
   },
   {
+    "id": 1789703393056,
+    "type": "intercept",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-09-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Maritime incidents reported near Aden and the Strait of Hormuz:The United Kingdom Maritime Trade Operations (UKMTO) reported an incident approximately 75 nautical miles east of Aden, Yemen. A westbound oil tanker reported that a small vessel was following it and appeared to be attempting to i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789703407575,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | The Pakistani army, the region’s rented gang, is roaming across Saudi Arabia and Türkiye, holding meetings to design a massive assault against Yemen. All of this is being packaged under the fraudulent slogan of the so called “defence of the Haramain”,…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -129052,6 +129052,38 @@
     "media": []
   },
   {
+    "id": 481074804,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Aden, Strait of Hormuz, Yemen: Maritime incidents reported near Aden Strait",
+    "location": "Aden, Strait of Hormuz, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Maritime incidents reported near Aden and the Strait of Hormuz:The United Kingdom Maritime Trade Operations (UKMTO) reported an incident approximately 75 nautical miles east of Aden, Yemen. A westbound oil tanker reported that a small vessel was following it and appeared to be attempting to intercept the ship. Separately, UKMTO reported an incident in the Strait of Hormuz, without providing further details.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
