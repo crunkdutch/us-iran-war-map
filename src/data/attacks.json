@@ -129084,6 +129084,38 @@
     "media": []
   },
   {
+    "id": 481078232,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Lebanon, Yemen: Dear Sunni MuslimsA call Sunni Muslims",
+    "location": "Lebanon, Yemen",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🚩| Dear Sunni Muslims...A call to Sunni Muslims, and to Muslims everywhere, is to have basirah: the ability to understand the enemy, distinguish political narratives from reality, and examine events through evidence rather than emotion or sectarian pressure.We have seen Eipsteinist figures repeatedly speak about and justify the destruction in Gaza, Lebanon, and Iran, while the same actors and their allies can later present themselves as defenders of Makkah when allegations of an attack emerge. ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
