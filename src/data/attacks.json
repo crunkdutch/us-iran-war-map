@@ -128778,6 +128778,38 @@
     "media": []
   },
   {
+    "id": 481085091,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-16",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: Iran halts violating tanker Trend Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran halts violating tanker Trend in Strait of Hormuz📌 Tehran, IRNA – The commander of the Islamic Revolution Guards Corps (IRGC) Navy announces that the Trend tanker, sailing under the flag of Togo, has been stopped after attempting an illegal passage through the Strait of Hormuz.In a statement early on Friday, Rear Admiral Ali Ozmaei said that the Trend tanker, sailing under the flag of Togo, sought to cross the Strait of Hormuz unlawfully after being encouraged by the US military through ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481033746,
     "type": "intercept",
     "status": "confirmed",
@@ -129111,6 +129143,38 @@
       "other": 0
     },
     "description": "🚩| Dear Sunni Muslims...A call to Sunni Muslims, and to Muslims everywhere, is to have basirah: the ability to understand the enemy, distinguish political narratives from reality, and examine events through evidence rather than emotion or sectarian pressure.We have seen Eipsteinist figures repeatedly speak about and justify the destruction in Gaza, Lebanon, and Iran, while the same actors and their allies can later present themselves as defenders of Makkah when allegations of an attack emerge. ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481081661,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Sanaa, Yemen: Yemeni defenses destroy Saudi drone over",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni defenses destroy a Saudi spy drone over the capital, Sanaa.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

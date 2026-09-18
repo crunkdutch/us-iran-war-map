@@ -177195,6 +177195,21 @@
     "verified": false
   },
   {
+    "id": 1789717841346,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "The United Kingdom Maritime Trade Operations (UKMTO): Report of an incident in the Strait of Hormuz.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
@@ -177484,6 +177499,51 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🚩| Dear Sunni Muslims...A call to Sunni Muslims, and to Muslims everywhere, is to have basirah: the ability to understand the enemy, distinguish political narratives from reality, and examine events through evidence rather than emotion or sectarian pressure.We have seen Eipsteinist figures repeated...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789717781815,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | The engineer who reportedly uncovered the pager plot before the attack:Engineer and martyr Hussein Muhammad Riyad Bazzi, head of the Strategic Studies Department in the Signal Corps, is credited with uncovering the security risks surrounding the pager devices before the attack took place.Acco...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789717779491,
+    "type": "drone",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-09-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni defenses destroy a Saudi spy drone over the capital, Sanaa.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789717813604,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Large-scale mass rally of Jan‑Fada campaign kicks off in Iran📌 Tehran, IRNA – Hundreds of thousands of Iranians have poured into the streets of Tehran as the large-scale mass rally of the Jan-Fada, the national campaign titled Jan‑Fada aimed at defending the homeland, has started.The national Ja...",
     "media": [],
     "verified": false
   },
