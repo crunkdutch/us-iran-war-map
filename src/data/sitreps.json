@@ -177225,6 +177225,21 @@
     "verified": false
   },
   {
+    "id": 1789746721569,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: A serious espionage case involving spying for Iran from within the \"Israeli\" army is currently under investigation.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
@@ -177646,6 +177661,66 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1789746675856,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Explosions heard in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789746664754,
+    "type": "intercept",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-09-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | 20 hours Updates:1. Lebanon: Israeli attacks intensify across southern LebanonIsraeli attacks continued across southern Lebanon, with occupation warplanes carrying out raids on Wadi al-Saluqi, Al-Qantara, Bani Hayyan, Talousa, Nabatieh al-Fawqa, Mansouri, Ali al-Taher, and the outskirts of Mayf...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789746708282,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | 20 hours Updates: 1. Lebanon: Israeli attacks intensify across southern Lebanon Israeli attacks continued across southern Lebanon, with occupation warplanes carrying out raids on Wadi al-Saluqi, Al-Qantara, Bani Hayyan, Talousa, Nabatieh al-Fawqa, Mansouri…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789746691082,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Explosions heard in the Strait of Hormuz. 🔻@enemywatch",
+    "media": [],
     "verified": false
   },
   {
