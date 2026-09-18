@@ -129217,6 +129217,108 @@
     "media": []
   },
   {
+    "id": 481098821,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Iraq: Fifteen countries call prohibition attack threat",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Fifteen countries call for prohibition of any attack or threat against nuclear facilities📌 London, IRNA – Fifteen countries, including Iran, China and Russia, have stressed that peaceful, safeguarded nuclear facilities must never be subjected to any attack or threat of attack.In a joint statement on Thursday issued during the 70th General Conference of the International Atomic Energy Agency (IAEA), 15 countries&nbsp;underlined the need for clear and firm opposition to any attack or threat ag",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481091954,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Tel Aviv, Strait of Hormuz, Bab al-Mandab: midst updates there realitiesThe reality America",
+    "location": "Tel Aviv, Strait of Hormuz, Bab al-Mandab, Lebanon, Syria, Saudi Arabia, Israel, Turkey",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📌 | In the midst of updates, there are realities:The reality is: America itself knows it cannot easily win this war, yet it continues threatening, bombing, attacking, and killing in the hope of extracting something from nothing. Military escalation has become a tool to recover political leverage where strategic certainty is absent.The reality is: No Arab country is fully confident that Saudi Arabia could survive a prolonged war in the form in which the state exists today. Saudi Arabia has proje",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481095387,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: Large mass rally held Saada support",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Large mass rally held in Saada in support of the Yemeni Armed Forces:A large mass rally was held in the city of Saada under the slogan “Support the Yemeni Armed Forces, uphold the blockade-for-blockade equation, and expose the false claim of targeting Makkah.”🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62276",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SkeHOXe2ZvXHdJ2L6wQfUhgVmo-g11QZSQVR5DpJFFlbyQtztbcwnZXGjqpcT4_Jk9xJLrnV1y7wrZb6zg-IDNIjuoPrrZUOonQF53FTtsPn_e_x-AoVrn31MeOf9doXsXvXhYpTnBsOM9TgFXubXah8mmh6LAFUqWLFUpmWkpznN-Wdl-LjBH08wTVa3coNiA3IUnYrIvdADE0tOzFUnE6g1ch67PBIB88X5SnQayxffcah-Tni7Ay1r3olWUgmcclPJ-lutAZICPh_u8yPieShneI-gYFauWIsf9y0O2rtxNFa5dG4YisR9TG0ZhxD2Yk24CMPrlQXNJTbsdtOtQ"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

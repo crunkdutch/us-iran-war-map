@@ -177578,6 +177578,62 @@
     "verified": false
   },
   {
+    "id": 1789732220533,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-09-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | In the midst of updates, there are realities:The reality is: America itself knows it cannot easily win this war, yet it continues threatening, bombing, attacking, and killing in the hope of extracting something from nothing. Military escalation has become a tool to recover political leverage wh...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789732259314,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Large mass rally held in Saada in support of the Yemeni Armed Forces:A large mass rally was held in the city of Saada under the slogan “Support the Yemeni Armed Forces, uphold the blockade-for-blockade equation, and expose the false claim of targeting Makkah.”🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62276",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SkeHOXe2ZvXHdJ2L6wQfUhgVmo-g11QZSQVR5DpJFFlbyQtztbcwnZXGjqpcT4_Jk9xJLrnV1y7wrZb6zg-IDNIjuoPrrZUOonQF53FTtsPn_e_x-AoVrn31MeOf9doXsXvXhYpTnBsOM9TgFXubXah8mmh6LAFUqWLFUpmWkpznN-Wdl-LjBH08wTVa3coNiA3IUnYrIvdADE0tOzFUnE6g1ch67PBIB88X5SnQayxffcah-Tni7Ay1r3olWUgmcclPJ-lutAZICPh_u8yPieShneI-gYFauWIsf9y0O2rtxNFa5dG4YisR9TG0ZhxD2Yk24CMPrlQXNJTbsdtOtQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789732235112,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Ayatollah Seyyed Mojtaba Khamenei visits Iran’s former ambassador to Lebanon after the pager explosions:A file photo shows Ayatollah Seyyed Mojtaba Khamenei visiting Iran’s former ambassador to Lebanon following the pager explosions that targeted him during his diplomatic mission in Lebanon....",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dGBioECqDUr0VE4-arxCODG79jJQMo5neFEoniOvTJmLfHq2iXXoB0LQULrR4bZnvoQQP4TwfnubkpTVeOtvHQ9tWYkZfL4ZRlaflImbfNTEY90UCjKzpPOef4-Z8d89f7sU5o9SQwSlPphTKwLPa1-L3ttF6_1w646EHDG6RchTKakwNjQJ6GhshGuDm9zdGLEY-X9MHnjRMEIXXnZC0LnmQ-sV9rSd4HPGWYGHp5XAPXlnitllIjTq8zbmwnJdWyy6LO_SrzfMzlT1iI4HfoEnijWY58DgThW1u70Zoi3wKS6o7VyN349XJdUL-X9riXLs35NQiM54RzRnu9goAg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
