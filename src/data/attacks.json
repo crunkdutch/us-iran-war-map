@@ -128810,6 +128810,43 @@
     "media": []
   },
   {
+    "id": 481088522,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-16",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Enemy_MediaHebrew Channel Within days three security",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 15: Within a few days, three security cases involving Arab \"Israeli\" citizens have been uncovered. Following the disclosure of Mustafa Issa from Kafr Qasim, who served as a firefighter and was allegedly planning to carry out attacks and even examined a strategic target as part of his job, the Shin Bet and police today revealed two additional cases in the north: Sultan Abu al-Hayja from Tamra, who approached Hamas and Iranian intelligence agencies, and Hamdan Hamdan fro",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Z9fcWmbhwn0NZ4AZS68fjaVcLH-dpHAs1oo0sAohaa-xgtST1IvxN_g7bGdrm1dc3xVXtmy7on3bwTK98469jRYD-z7I4zXr24O0ptuFHGnY38fTBWpEW03HW9tTrnYWIm0Pd335YeRAHmICAjk0yfCSAOIa8XLHwzxvHu2QjU8zKV-SxPSqn1oT6MFJ3ZM1Hn9Vgi4b688M8t-MuZdH7Mo56P19RYbGgBc8Ou6q5FThaivdbrYAiP8-mw6INzbsHNofKIBXSqh9uy_PyjbXl_KiNBoNxtZMdf7NExQvkb4JcwQ7tPQ_mYuwb1cOxNCtOn4vB1jlEbiHcGPBAmBcUQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 481033746,
     "type": "intercept",
     "status": "confirmed",

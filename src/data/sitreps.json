@@ -177210,6 +177210,21 @@
     "verified": false
   },
   {
+    "id": 1789725023641,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: Within a few days, three security cases involving Arab \"Israeli\" citizens have been uncovered. Following the disclosure of Mustafa Issa from Kafr Qasim, who served as a firefighter and was allegedly planning to carry out attacks and even examined a strategic target as ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
@@ -177529,6 +177544,21 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 | Yemeni defenses destroy a Saudi spy drone over the capital, Sanaa.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789725091700,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Iran is currently holding a major military parade in Tehran, with millions participating and various newly mobilized formations being showcased to mark the start of the Janfada (Self-Sacrificing) Campaign. A few days ago, millions of Iranians reportedly received SMS messages from t...",
     "media": [],
     "verified": false
   },
