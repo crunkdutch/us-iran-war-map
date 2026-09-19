@@ -129421,6 +129421,70 @@
     "media": []
   },
   {
+    "id": 481112567,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Isfahan, Sanaa, Riyadh: Regional developments September 2026 Yemen Saudi",
+    "location": "Isfahan, Sanaa, Riyadh, Jeddah, Prince Sultan Air Base, Strait of Hormuz, Yemen, Saudi Arabia",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Regional developments | September 19, 2026 (+ve)🇾🇪 ❌ 🇸🇦 Yemen • Saudi Arabia• In the past hours, a large-scale Yemeni missile and drone attack was reported against Saudi Arabia, with sirens activated in Jeddah, Taif, Yanbu, Khamis Mushait, Jizan, Abha, and other areas. Explosions were reported in Yanbu, Jeddah, and elsewhere, while Saudi Civil Defense activated early-warning alerts across Yanbu, Al-Ula, Khamis Mushait, Taif, Jeddah, Jizan, and Abha. The Yemeni Armed Forces reportedly la",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481116006,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Gaza City, Lebanon: Regional developments September 2026 YemenSaudi aviation",
+    "location": "Sanaa, Gaza City, Lebanon, Yemen, Saudi Arabia, Iraq, Israel, Qusayr",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Regional developments | September 19, 2026 (-ve)🇾🇪 YemenSaudi aviation continued to target civilian sites in Taiz, while Saudi airstrikes targeted western Marib and areas south of Marib Governorate in eastern Yemen. Saudi artillery also targeted areas of Saada Governorate, including the border districts of Shada and Al-Dhahir in the west of the province. The spokesman for the Yemeni armed forces said Saudi warplanes carried out 26 airstrikes over the past 24 hours on Taiz using F-15 fight",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
