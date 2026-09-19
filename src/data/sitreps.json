@@ -177804,6 +177804,41 @@
     "verified": false
   },
   {
+    "id": 1789811681997,
+    "type": "missile",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran has executed Hossein Padran, who was accused of spying for the Israeli intelligence service Mossad in exchange for financial compensation. Padran provided Mossad with sensitive, classified information from military and missile sites in Isfahan, including details about military locations,...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/I3KxXC85DYUktMrCm0mIXw5aQIPEQyOgw98Q5IrrZyAg676rxnhJWsiLSQolFa_Kw3tVeaYD7xM0XBEtiWx6s3gZp8LfrQJgDFg1BtV--wv2DIB6mMOHxkiP6Wjhzt9VqDBKlQPofvcoXw5uX6QeVjcYP3u_bgiCb3O8Wjn2TgkVGKxFuhLD-4loz90KcgcLrQF-4RugbZJMMN1cf6LGpPccyVfluPGafQtC1Io9vkas8tpgom9PcVmnc_skOHnDCrbizkV25EJLH39DVHF-2eCeUqESBMsDFtg9S_HvpmunWZTgDoEF5OqL_AV9NL2xby6SqcFszHhPjnglXKCZew.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789811692984,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Man convicted of spying for Israel executed in Iran📌 Tehran, IRNA – An individual convicted of espionage and intelligence cooperation with Israel has been executed in Iran after providing sensitive information about military and missile sites in Isfahan Province to Israel’s Mossad, the Judiciary...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789804431894,
     "type": "drone",
     "location": "Sanaa",

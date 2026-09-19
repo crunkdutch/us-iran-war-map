@@ -129421,6 +129421,112 @@
     "media": []
   },
   {
+    "id": 481119446,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Isfahan, Israel: Iran executed Hossein Padran accused spying",
+    "location": "Isfahan, Israel",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran has executed Hossein Padran, who was accused of spying for the Israeli intelligence service Mossad in exchange for financial compensation. Padran provided Mossad with sensitive, classified information from military and missile sites in Isfahan, including details about military locations, personnel, and missile launch sites.During a search of his residence, Iranian authorities discovered a notebook containing highly classified missile information, encrypted storage devices, and concea",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/I3KxXC85DYUktMrCm0mIXw5aQIPEQyOgw98Q5IrrZyAg676rxnhJWsiLSQolFa_Kw3tVeaYD7xM0XBEtiWx6s3gZp8LfrQJgDFg1BtV--wv2DIB6mMOHxkiP6Wjhzt9VqDBKlQPofvcoXw5uX6QeVjcYP3u_bgiCb3O8Wjn2TgkVGKxFuhLD-4loz90KcgcLrQF-4RugbZJMMN1cf6LGpPccyVfluPGafQtC1Io9vkas8tpgom9PcVmnc_skOHnDCrbizkV25EJLH39DVHF-2eCeUqESBMsDFtg9S_HvpmunWZTgDoEF5OqL_AV9NL2xby6SqcFszHhPjnglXKCZew.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481122887,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Hodeidah, Red Sea: AnsarAllah begun installing radars hills overlooking",
+    "location": "Sanaa, Hodeidah, Red Sea, Bab al-Mandab",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | AnsarAllah has begun installing radars on hills overlooking the southern Red Sea. AnsarAllah coast guard forces are working to protect deployments in the Bab al-Mandab Strait and impose extensive maritime control within their area of control, amid concerns that hostile parties could target ships or expose them to piracy. An official source in the Red Sea Ports Corporation confirmed that the corporation, which manages the ports of Salif, Ras Issa, and Hodeidah, has restored the port of Moc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/X_BgGy4IlbjbM2lFttNruhiw7OK3gEF7IZ_eUkP6E5bFTLqjOSYWwLgege45PynAjxkv6nvh6dzCmbJ09OKCCYEKDunI4HWaf6irSvGFTLzH99l1gzxwYSh6DXVm24oxhBlmqnsxwxGFwaJGg4F9Po_6wLix0RsdJeN_h2CN8eDPEkaydOHXFF6Cn9qIx9pNm_tFoGMyO_8xpV9wHvGueSzag0bcskq5xiGH4Pvy8er6jaE_EVRfHTubUcACHMeQclEVPMjlSGejF2icVyD1IA8oi-sBFFiBUS0Mnb3wSyLXGrtpzf7OboekHdKgyjYh6TrPNtrUaAlhBA0IU28aig.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481126329,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Isfahan, Israel: convicted spying Israel executed Iran Tehran",
+    "location": "Tehran, Isfahan, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Man convicted of spying for Israel executed in Iran📌 Tehran, IRNA – An individual convicted of espionage and intelligence cooperation with Israel has been executed in Iran after providing sensitive information about military and missile sites in Isfahan Province to Israel’s Mossad, the Judiciary’s media center reports.According to the Judiciary, Hossein Pedran was arrested and tried for providing sensitive military information to Mossad. His death sentence was upheld by the Supreme Court aft",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481112567,
     "type": "drone",
     "status": "confirmed",
