@@ -177270,6 +177270,36 @@
     "verified": false
   },
   {
+    "id": 1789826081588,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-16",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: Two soldiers from the \"Israeli\" army were wounded today after an engineering vehicle drove over a Hezbollah explosive device inside the security belt in Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789826130828,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio:The \"Israeli\" army estimates that the explosive device that detonated was an old device planted in the area before the ceasefire.The device detonated in the Wadi Al-Salouqi area in southern Lebanon. The two soldiers who were wounded are reservists.#Military_Med...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
@@ -177880,6 +177910,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Iran FM discusses bilateral ties with Pakistani counterpart📌 Tehran, IRNA – Iran’s Foreign Minister, Abbas Araghchi has held a phone conversation with his Pakistani counterpart, Mohammad Ishaq Dar, to review bilateral relations and regional developments.In a telephone conversation on Saturday, S...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789826093261,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Explosions resound once again in the Strait of Hormuz as ships violating regulations are targeted.🔻@enemywatch",
     "media": [],
     "verified": false
   },

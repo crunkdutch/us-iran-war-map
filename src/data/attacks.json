@@ -129556,7 +129556,56 @@
     "description": "🇸🇦 | Breaking — Explosions reported near King Khalid International Airport in Riyadh:Flames and a large plume of black smoke were observed rising near King Khalid International Airport in Riyadh. Renewed explosions were also reported near the airport as the situation continued to develop.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/d98c690120.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/Q8rkP_PLa1yIkiBmZIxgJdEYCRtQVLMYtO8IA5sHyUZyu99pv1YDAqOdHK26WI0msmc5kr708Hg9AgUfc2RA1YHi_zHwlmO4A3aiPVTVwXInX-YQrP1P7ml1hz6oXdZtM8Q_-J47fU_XCf4RIt6Fb8RDOFgbb10Dnw_zLUod7BSfh6ZPvK0gqSkIusBqKBQEmygfemTf49zc_dkkATeO_M4gspq_Yq4eDw-dxLiyENYBFv12FaCoDlp5wZf52PfkD_VR6pNI0YbmkYKHL7qtE9CN7euLZcXJd_GUcI0dGZek-pKAzepco7ZP3bj5ZNf5PjL6w26KZKVV9eMyF2eblw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62293",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/Q8rkP_PLa1yIkiBmZIxgJdEYCRtQVLMYtO8IA5sHyUZyu99pv1YDAqOdHK26WI0msmc5kr708Hg9AgUfc2RA1YHi_zHwlmO4A3aiPVTVwXInX-YQrP1P7ml1hz6oXdZtM8Q_-J47fU_XCf4RIt6Fb8RDOFgbb10Dnw_zLUod7BSfh6ZPvK0gqSkIusBqKBQEmygfemTf49zc_dkkATeO_M4gspq_Yq4eDw-dxLiyENYBFv12FaCoDlp5wZf52PfkD_VR6pNI0YbmkYKHL7qtE9CN7euLZcXJd_GUcI0dGZek-pKAzepco7ZP3bj5ZNf5PjL6w26KZKVV9eMyF2eblw"
+      }
+    ]
+  },
+  {
+    "id": 481133216,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel: Araghchi Sustainable security comes through regional",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Araghchi: Sustainable security comes through regional dialogue, cooperation📌 Tehran, IRNA - Foreign Minister Abbas Araghchi has emphasized that sustainable security can only be achieved through dialogue, confidence-building, cooperation, and mutual respect among regional countries, while rejecting the presence and intervention of foreign military powers.Araghchi made these remarks during a speech at the 2026 Global Dialogue Forum, hosted by the Foreign Policy Community of Indonesia (FPCI) on",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/39529",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/tO6dDbCm2PlJ4idVAs-ZALxsdq_YlC72k7HH0IRXnjdt-4jN7-5y8gK99g1FoT5vHomTOj530wiJ6xQPT9eXWiqt0YnPrr-iD_ABCjX2rKYHZh4rpCT4R5TgC92k3BXNQRAYOl0Nq2bYlKINpfmgs8RAUsDY5AbGSrNOnhewPWxyRwW_5nB-wLyNUNrbjfgsP0fKhbwCy19uePikwzyLr5mr6aWlrYAS98SGENqNGZQgUSQG8qCUsFpb47H1V4xxMVM1f70hRUAxuFdL0tnLdTr7TKqDgtKA7EkaKnXStMSPvq9LNEGHJ3mGF4ctZ7h1bGEMLreFAF7lwJ839C-isQ"
+      }
+    ]
   },
   {
     "id": 481112567,
