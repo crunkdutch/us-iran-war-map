@@ -129214,7 +129214,12 @@
     "description": "🚩| Dear Sunni Muslims...A call to Sunni Muslims, and to Muslims everywhere, is to have basirah: the ability to understand the enemy, distinguish political narratives from reality, and examine events through evidence rather than emotion or sectarian pressure.We have seen Eipsteinist figures repeatedly speak about and justify the destruction in Gaza, Lebanon, and Iran, while the same actors and their allies can later present themselves as defenders of Makkah when allegations of an attack emerge. ",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ipVHTT2zo5DW6kyH2SyM_DtxD4ujt_05rk6MhJg4joO5-tGScWp0G6cIKw2tQEC_TGPr1ZN5JxroGu3goEsAHz--4T12On64LXzAnegdGiBRTgBH4pGy-7HzkhuoURxSnCZ-yr1ioWdXXzJ10GkcqBByJECl4PS_6xizEL_NX8Mri_3V372WK_RehTMULM1TDTUxt19sv9D_PeDqu7-glwGVcoNTPv3ebO3-tk0jEYYqIKA1VcSHuikOVcldEN_wQvI_iTS0XeRcsWanbHMHSZau4Y3kWTSpc_o2TtrKvPauQYYEu7JAqL5Z8zzM22UYbjXaJjZ-rjq-SvuMAZL_ig.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 481081661,
@@ -129317,6 +129322,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/tO6dDbCm2PlJ4idVAs-ZALxsdq_YlC72k7HH0IRXnjdt-4jN7-5y8gK99g1FoT5vHomTOj530wiJ6xQPT9eXWiqt0YnPrr-iD_ABCjX2rKYHZh4rpCT4R5TgC92k3BXNQRAYOl0Nq2bYlKINpfmgs8RAUsDY5AbGSrNOnhewPWxyRwW_5nB-wLyNUNrbjfgsP0fKhbwCy19uePikwzyLr5mr6aWlrYAS98SGENqNGZQgUSQG8qCUsFpb47H1V4xxMVM1f70hRUAxuFdL0tnLdTr7TKqDgtKA7EkaKnXStMSPvq9LNEGHJ3mGF4ctZ7h1bGEMLreFAF7lwJ839C-isQ"
       }
     ]
+  },
+  {
+    "id": 481136661,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Qatar: Islamic_RepublicSecretary Irans Supreme National Security Co...",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council, Major General Mohsen Rezaei: – The U.S. president’s assessments and calculations regarding Iran were incorrect, and the war was instigated by Netanyahu.– It is in Washington’s interest to accept our conditions for exiting the war. Trump’s threats will achieve no results, and we are prepared for a decisive war.– We know the weaknesses of the U.S. army and are more prepared than before to confront its airstrikes.– We have reac",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 481091954,
