@@ -177839,6 +177839,51 @@
     "verified": false
   },
   {
+    "id": 1789818913168,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Iran judiciary spokesman: Indictments issued against 159 US and Israeli officials:The spokesman for Iran’s Judiciary said that, in the criminal case concerning the martyrdom of the Leader of the Islamic Revolution and his family members, indictments have been issued against 67 offi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789818909320,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | Breaking — Explosions reported near King Khalid International Airport in Riyadh:Flames and a large plume of black smoke were observed rising near King Khalid International Airport in Riyadh. Renewed explosions were also reported near the airport as the situation continued to develop.🔻@enemyw...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789818864494,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran FM discusses bilateral ties with Pakistani counterpart📌 Tehran, IRNA – Iran’s Foreign Minister, Abbas Araghchi has held a phone conversation with his Pakistani counterpart, Mohammad Ishaq Dar, to review bilateral relations and regional developments.In a telephone conversation on Saturday, S...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789804431894,
     "type": "drone",
     "location": "Sanaa",
