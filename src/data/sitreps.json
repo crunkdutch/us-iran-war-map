@@ -177944,6 +177944,21 @@
     "verified": false
   },
   {
+    "id": 1789840612007,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Baqaei reprimands White House spokesperson for baseless anti-Iran accusations📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has delivered a scathing rebuke to the White House press secretary for her anti-Iran rhetoric, saying the baseless accusations against the Islamic Republic e...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789804431894,
     "type": "drone",
     "location": "Sanaa",
@@ -177955,6 +177970,36 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔔 | Regional developments | September 19, 2026 (-ve)🇾🇪 YemenSaudi aviation continued to target civilian sites in Taiz, while Saudi airstrikes targeted western Marib and areas south of Marib Governorate in eastern Yemen. Saudi artillery also targeted areas of Saada Governorate, including the borde...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789840556084,
+    "type": "intercept",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-09-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Statement of the Yemeni Armed Forces regarding the targeting of sensitive targets in the capital of the Saudi enemy, Riyadh, and the targeting of Aramco in Yanbu with a large number of ballistic and cruise missiles and drones, September 19, 2026:In the name of Allah, the Most Gracious, the Mo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789840558277,
+    "type": "intercept",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenStatement by the Yemeni Armed Forces on targeting sensitive sites in the capital of the Saudi enemy, Riyadh, and targeting Aramco in Yanbu with a large number of ballistic and cruise missiles and drones – September 19, 2026Statement issued by the Yemeni Armed Forces:In the Name of Allah, the M...",
     "media": [],
     "verified": false
   },

@@ -129709,6 +129709,70 @@
     "media": []
   },
   {
+    "id": 481140107,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Sanaa, Riyadh, Yemen: Statement Yemeni Armed Forces regarding targeting",
+    "location": "Sanaa, Riyadh, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Statement of the Yemeni Armed Forces regarding the targeting of sensitive targets in the capital of the Saudi enemy, Riyadh, and the targeting of Aramco in Yanbu with a large number of ballistic and cruise missiles and drones, September 19, 2026:In the name of Allah, the Most Gracious, the Most Merciful.Allah Almighty said: “And whoever transgresses against you, transgress against him in the same manner as he transgressed against you.” Allah Almighty has spoken the truth.In response to th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481143554,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Riyadh, Yemen: YemenStatement Yemeni Armed Forces targeting sensitive",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenStatement by the Yemeni Armed Forces on targeting sensitive sites in the capital of the Saudi enemy, Riyadh, and targeting Aramco in Yanbu with a large number of ballistic and cruise missiles and drones – September 19, 2026Statement issued by the Yemeni Armed Forces:In the Name of Allah, the Most Compassionate, the Most MercifulAllah Almighty says:“So whoever transgresses against you, then transgress against him in the same manner that he has transgressed against you.” Allah Almighty is Tr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
