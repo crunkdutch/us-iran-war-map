@@ -130088,6 +130088,113 @@
     "media": []
   },
   {
+    "id": 481202306,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Unknown Interception — Strait of Hormuz: Islamic_RepublicArmy Public Relations 1830 today advanced",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicArmy Public Relations: At 18:30 today, an advanced Orbiter reconnaissance drone was targeted with fire from locally manufactured systems belonging to the Army’s Air Defense Force in the southeastern region of the country, as part of the country’s integrated air defense network, over the Strait of Hormuz, and was destroyed.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481205771,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Yemen, Saudi Arabia: YemenChairman Supreme Political Council Mahdi AlMashat",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenChairman of the Supreme Political Council Mahdi Al-Mashat, on the occasion of the 12th anniversary of the glorious September 21 Revolution:– I extend my congratulations and blessings to the Leader of the Revolution, Sayyed Abdul-Malik Badreddine Al-Houthi, may Allah protect him, on the occasion of the victory and the advent of the 12th anniversary of the blessed September 21 Revolution.– I extend my thanks and appreciation to the steadfast Yemeni people, with special thanks to the fighters",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/d98c690120.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/Q8rkP_PLa1yIkiBmZIxgJdEYCRtQVLMYtO8IA5sHyUZyu99pv1YDAqOdHK26WI0msmc5kr708Hg9AgUfc2RA1YHi_zHwlmO4A3aiPVTVwXInX-YQrP1P7ml1hz6oXdZtM8Q_-J47fU_XCf4RIt6Fb8RDOFgbb10Dnw_zLUod7BSfh6ZPvK0gqSkIusBqKBQEmygfemTf49zc_dkkATeO_M4gspq_Yq4eDw-dxLiyENYBFv12FaCoDlp5wZf52PfkD_VR6pNI0YbmkYKHL7qtE9CN7euLZcXJd_GUcI0dGZek-pKAzepco7ZP3bj5ZNf5PjL6w26KZKVV9eMyF2eblw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62293",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/Q8rkP_PLa1yIkiBmZIxgJdEYCRtQVLMYtO8IA5sHyUZyu99pv1YDAqOdHK26WI0msmc5kr708Hg9AgUfc2RA1YHi_zHwlmO4A3aiPVTVwXInX-YQrP1P7ml1hz6oXdZtM8Q_-J47fU_XCf4RIt6Fb8RDOFgbb10Dnw_zLUod7BSfh6ZPvK0gqSkIusBqKBQEmygfemTf49zc_dkkATeO_M4gspq_Yq4eDw-dxLiyENYBFv12FaCoDlp5wZf52PfkD_VR6pNI0YbmkYKHL7qtE9CN7euLZcXJd_GUcI0dGZek-pKAzepco7ZP3bj5ZNf5PjL6w26KZKVV9eMyF2eblw"
+      }
+    ]
+  },
+  {
+    "id": 481209237,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: people took streets massive millionperson rallies",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "– Our people took to the streets in massive million-person rallies during the “Friday of Warning and Mobilization,” demanding that our wise leadership take appropriate decisions to end the aggression and blockade, liberate the land, reclaim their rights, and restore their resources.– In response to the voice of our wise leader and the people’s legitimate demands, we moved from the stage of making demands to the stage of action, announcing the equation of “blockade for blockade and escalation for",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481160804,
     "type": "airstrike",
     "status": "confirmed",
@@ -130280,6 +130387,38 @@
       "other": 0
     },
     "description": "🇾🇪 | Statement by the Yemeni Armed Forces on targeting sensitive sites in the Saudi enemy’s capital, Riyadh, and targeting Aramco in Yanbu with a large number of ballistic missiles, cruise missiles, and drones:In the name of Allah, the Most Compassionate, the Most MercifulAllah the Almighty said:“So whoever transgresses against you, transgress against him in the same manner as he transgressed against you.“Allah Almighty has spoken the truth.In response to the grave slander accusing the Yemen o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481198842,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Interception — Strait of Hormuz: Iranian Armed Forces 1830 today local",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian Armed Forces: At 18:30 today, local air defense systems belonging to the army, operating as part of the country’s unified air defense network, intercepted and destroyed a sophisticated Orbiter-class drone flying over the Strait of Hormuz in the southeastern region of the country.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

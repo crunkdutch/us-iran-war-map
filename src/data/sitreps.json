@@ -178361,6 +178361,36 @@
     "verified": false
   },
   {
+    "id": 1789927234855,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicArmy Public Relations: At 18:30 today, an advanced Orbiter reconnaissance drone was targeted with fire from locally manufactured systems belonging to the Army’s Air Defense Force in the southeastern region of the country, as part of the country’s integrated air defense network, over...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789927168859,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenChairman of the Supreme Political Council Mahdi Al-Mashat, on the occasion of the 12th anniversary of the glorious September 21 Revolution:– I extend my congratulations and blessings to the Leader of the Revolution, Sayyed Abdul-Malik Badreddine Al-Houthi, may Allah protect him, on the occasio...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789898374125,
     "type": "airstrike",
     "location": "Kharg Island",
@@ -178576,6 +178606,56 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 | Statement by the Yemeni Armed Forces on targeting sensitive sites in the Saudi enemy’s capital, Riyadh, and targeting Aramco in Yanbu with a large number of ballistic missiles, cruise missiles, and drones:In the name of Allah, the Most Compassionate, the Most MercifulAllah the Almighty said:“...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789927215221,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-20",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Armed Forces: At 18:30 today, local air defense systems belonging to the army, operating as part of the country’s unified air defense network, intercepted and destroyed a sophisticated Orbiter-class drone flying over the Strait of Hormuz in the southeastern region of the country.🔻@en...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789927241636,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶❌🇮🇷 — EXCLUSIVE Source: The Iraqi government has reportedly decided to cancel and suspend all flights to and from Iran from all Iraqi airports, effective next Tuesday.🔴 @Alsaa_plus_EN",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789927161820,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Grand Ayatollah Sayyid Mousa Shubairi Zanjani (H), the leading Marja’ and the prayer Imam of the holy city of Qom, is in critical condition and is reportedly fighting for his life at the age of 98–99. We humbly request everyone to pray for his recovery and well-being.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/JVrkXA7ovpL8OqqVzI74HxBwqx-Yd1ZRuXTm7ixuCezomvlXfU7Mtg4MUdRCXCzg3QBoWVawJk1M-R5uy2_LAy5WfNhU4X9s-JTK1S4CW9L7HjxQlYhbWKH-EqAexQwa2b8RtygPmXFMQi35A3A52gneWK3zy7Zio-5FfJinNz1xsOvQDy90u2a4a-Dxxt6mUcORETB9XcM30IAbc8fFbIiMDA0LcxpBGF78KDiWt-Yz-igziwnwmDPlkc9OFSWjZ_fTC9rveQ78w8-PgxlpEbD8QYo_D1vkKLtal3i9DRKAaySvX1WlDJRdZCr29-LWN-7pI8ZXjAkpKjsRDz-IQA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
