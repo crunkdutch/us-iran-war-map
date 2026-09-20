@@ -178131,6 +178131,51 @@
     "verified": false
   },
   {
+    "id": 1789905525263,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: A security source calls on those holding weapons licenses to go to the synagogue with their personal weapons during Yom Kippur, remain vigilant, and be prepared for any emergency.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789905558084,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_Palestine Saraya Al-Quds: We congratulate the heroic operation near the “Halamish” settlement, west of Ramallah, which resulted in the killing of a settler. We call on the revolutionaries and heroes of our people in all cities, camps, and villages of the occupied West Bank and Jerusalem to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789905524752,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Another attack: A vehicle without a license plate attempted to run over two \"Israelis\" from “Giv'at Yeshua Yisrael” on the Gil'in route [Gil'in/Wadi Al-Haramiya corridor northeast of Ramallah], at the Silwad cemetery intersection. There were no injuries. The vehicle fled...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789804431894,
     "type": "drone",
     "location": "Sanaa",
@@ -178241,6 +178286,51 @@
     "verified": false
   },
   {
+    "id": 1789905507551,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Three terrorist operational cells dismantled in West Azerbaijan, Alborz, and Kerman:Iran’s Ministry of Intelligence announced that it has identified and dismantled three operational cells affiliated with terrorist groups in the provinces of West Azerbaijan, Alborz, and Kerman of Iran.West Aze...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789905566175,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟦 | Breaking — Khatm al-Anbiyaa Central HQ:Make a mistake, and you will become targets of painful attacks:Based on the information received, the “criminal” america, in an attempt to cover up its failures and achieve illusory gains in a war that began by relying on israeli lies and fabricated scenes...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789905591502,
+    "type": "intercept",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-19",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Collapse of Saudi Arabia’s most heavily fortified defense system:Explosions erupted again in the Saudi capital on Saturday evening, for the third time within hours, amid thick columns of smoke. What does this mean for a city considered the Kingdom’s most heavily defended and home to ma...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789898374125,
     "type": "airstrike",
     "location": "Kharg Island",
@@ -178288,6 +178378,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1789905523942,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 The Insight: A clear message from Tehran📌 Six months ago, the US declared victory after launching an illegal war against Iran. Now, that “victory” is hitting Americans at the gas pump. Tehran’s message is clear: there is no going back.Story & Host: Zahra Dashti Camera: Alireza Khojasteh Video Ed...",
+    "media": [],
     "verified": false
   },
   {
