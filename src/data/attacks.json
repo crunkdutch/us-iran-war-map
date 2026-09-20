@@ -130424,6 +130424,81 @@
     "media": []
   },
   {
+    "id": 481212704,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Israel, Egypt, Turkey: AnsarAllahs Muhammad AlFarahUrgent warning Turkey Egypt",
+    "location": "Israel, Egypt, Turkey",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | AnsarAllah's Muhammad Al-Farah:Urgent warning to Turkey, Egypt, and Pakistan.We previously warned that targeting Iran would not stop at Iran’s borders, and that it would be followed by the targeting of Egypt, Turkey, and Pakistan. These are major states that possess enough power and influence within the Islamic Ummah for the Zionist enemy to regard them with great concern, seeing their strength and independent decision-making as obstacles to its ambitions and projects.Today, the Zionist p",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e80557b8d3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r3fIE0KIcD1fSphTbRLH3dxnX1HtJ0cMgHFzuvzKajutdyZ_toQuiECeRhRk83T7Y_A9VlM1Mnj8un1a3UOVsTz94zPIU9unvXhC9Wd2PU6jUwb30XYzVfHwQehw1uiCA2NVLSUGI23fPgJhyW8HM6-ywAyJBCy6xIG3bGyGRyZdOieFGWZ20kSBFKgaS7veTPc69hrnF1IExHZoDws5md5tNu0IUVWLHsel3quJxpPD9qjqoAaxSnFstjT1CedbCs4uSOdYaSwpX8U8SYRyUiN3GK0kw9xsnBEn5wZ50vSaj9tJLckdLfH8ywUe9wotwUGmA9316t6f1wqzMs7I5A"
+      },
+      {
+        "url": "https://t.me/enemywatch/62319",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r3fIE0KIcD1fSphTbRLH3dxnX1HtJ0cMgHFzuvzKajutdyZ_toQuiECeRhRk83T7Y_A9VlM1Mnj8un1a3UOVsTz94zPIU9unvXhC9Wd2PU6jUwb30XYzVfHwQehw1uiCA2NVLSUGI23fPgJhyW8HM6-ywAyJBCy6xIG3bGyGRyZdOieFGWZ20kSBFKgaS7veTPc69hrnF1IExHZoDws5md5tNu0IUVWLHsel3quJxpPD9qjqoAaxSnFstjT1CedbCs4uSOdYaSwpX8U8SYRyUiN3GK0kw9xsnBEn5wZ50vSaj9tJLckdLfH8ywUe9wotwUGmA9316t6f1wqzMs7I5A"
+      }
+    ]
+  },
+  {
+    "id": 481216172,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Tehran, Bab al-Mandab, Yemen: Saudi Arabia carried airstrikes Yemen Military",
+    "location": "Tehran, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Saudi Arabia has carried out 760 airstrikes on Yemen: Military spokesperson📌 Tehran, IRNA - Saudi Arabia has carried out 760 airstrikes on Yemen since it intensified its attacks against the country, the spokesman for the Yemeni armed forces said Sunday night.Brigadier General Yahya Saree said the Saudi air force conducted 28 airstrikes on Yemen in the past 24 hours using F-15 and Typhoon fighter jets launched from Khamis Mushait and Taif air bases.​The strikes targeted the provinces of Taiz,",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
