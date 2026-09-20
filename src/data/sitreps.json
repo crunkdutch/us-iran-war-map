@@ -178019,6 +178019,56 @@
     "verified": false
   },
   {
+    "id": 1789883893217,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-19",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— As of now, there are NO direct and recent indications from the Iranian side regarding the situation in Yemen and its possible response in the event of massive bombardment of the Yemeni resistance. If such strikes occur, there is a higher possibility that AnsarAllah could begin targeting American b...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789883858773,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇮🇷 | “I declare my support for the resistance of Yemen’s believing men and women&#33;\"— Imam Khamenei (r)🚩@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/VEDtDkks34ExKmHt_1F73wWERJXiL6d8AuxBtEt3ZxwsuZBtkijW1iljFHRv5DDMLCNXy6E7t-2J614YI4pdIeqm7-6pLaO2Buhi6VW4klmePHO-HpWjKJULA80wuWEuxYU-vmUZ1Y8k0NgoycL8zKD9vH-GFETGoB1zqjsxOOQo7GSGCD_-XdCdtUEMPLI0wKq_qH98D8-I6W5oDP41NZfQ8_g89toWaQNbJn1VZEjhXGqIwB7yQXxex2hZYrPT7v5zzo9mZ1ZPGyxdtBPTnR4YAzoNZvrC0MvR7dkqHTmPJcoty_r7rJHO_2BtE74iccKQ4gE5EpiwIU0MHWsMeQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789883906447,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇮🇷 | Imam Khamenei (r): \"The nation of Yemen and Ansarallah really did a great job. What they did in support of the people of Gaza was a great work. They struck the vital channels of the Zionist regime. They didn't fear the threats of America, for a God-fearing person does not fear anyone but...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

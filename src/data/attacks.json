@@ -129805,6 +129805,75 @@
     "media": []
   },
   {
+    "id": 481150451,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Rocket Attack — Yemen, Kuwait, Saudi Arabia: there direct recent indications from Iranian",
+    "location": "Yemen, Kuwait, Saudi Arabia, Taba, Turkey",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— As of now, there are NO direct and recent indications from the Iranian side regarding the situation in Yemen and its possible response in the event of massive bombardment of the Yemeni resistance. If such strikes occur, there is a higher possibility that AnsarAllah could begin targeting American bases and infrastructure inside Saudi Arabia and potentially American diplomatic facilities. There are also concerns that Kuwait could be used as a platform for major strikes against Iran, which could,",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481153901,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Imam Khamenei nation Yemen Ansarallah really",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇮🇷 | Imam Khamenei (r): \"The nation of Yemen and Ansarallah really did a great job. What they did in support of the people of Gaza was a great work. They struck the vital channels of the Zionist regime. They didn't fear the threats of America, for a God-fearing person does not fear anyone but God.\" (16/01/2024)\"What they did is a clear example of jihad in the path of Allah. God willing, these actions, these endeavors, and these efforts will continue until victory.\" (16/01/2024)\"The Saudis",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/VEDtDkks34ExKmHt_1F73wWERJXiL6d8AuxBtEt3ZxwsuZBtkijW1iljFHRv5DDMLCNXy6E7t-2J614YI4pdIeqm7-6pLaO2Buhi6VW4klmePHO-HpWjKJULA80wuWEuxYU-vmUZ1Y8k0NgoycL8zKD9vH-GFETGoB1zqjsxOOQo7GSGCD_-XdCdtUEMPLI0wKq_qH98D8-I6W5oDP41NZfQ8_g89toWaQNbJn1VZEjhXGqIwB7yQXxex2hZYrPT7v5zzo9mZ1ZPGyxdtBPTnR4YAzoNZvrC0MvR7dkqHTmPJcoty_r7rJHO_2BtE74iccKQ4gE5EpiwIU0MHWsMeQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
