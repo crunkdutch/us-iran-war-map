@@ -129645,6 +129645,38 @@
     ]
   },
   {
+    "id": 481147002,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Strait of Hormuz, Red Sea, Bab al-Mandab: currently stands there appear increasingly high",
+    "location": "Strait of Hormuz, Red Sea, Bab al-Mandab, Lebanon, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🚨 | As it currently stands, there appear to be increasingly high chances of a mass joint aggression against AnsarAllah, Lebanon, and Iran, potentially involving america, israel, and some of their regional allies. The ongoing military deployments, aerial activity, naval positioning, diplomatic coordination, and escalating rhetoric point toward preparations for a much broader regional confrontation rather than isolated operations.The potential scenario is that Trump’s meeting at Camp David was pa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481112567,
     "type": "drone",
     "status": "confirmed",
