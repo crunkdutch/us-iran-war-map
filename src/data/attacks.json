@@ -129874,6 +129874,38 @@
     ]
   },
   {
+    "id": 481157352,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Tehran, Lebanon, Yemen: security official Trump foolishly continues Iran",
+    "location": "Tehran, Lebanon, Yemen, Qatar, Saudi Arabia, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Top security official: Trump foolishly continues war, but Iran fully ready for self-defense📌 Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Mohsen Rezaei says US President Donald Trump waged a foolish war on Iran and is foolishly continuing it. However, Iran stands ready to give a stronger and more painful response should the US resume military aggression, as it did during the 40-day conflict that began earlier this year.Rezaei made the remarks in an exclusive interview",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
