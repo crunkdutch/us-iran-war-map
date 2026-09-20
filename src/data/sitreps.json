@@ -178331,6 +178331,36 @@
     "verified": false
   },
   {
+    "id": 1789912780009,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Gracious, the Most MercifulStatement Issued by the Palestinian Islamic Jihad Movement Regarding War Criminal Netanyahu’s Desecration of the Buraq WallThe act of the head of the Zionist occupation government, war criminal Benjamin Netanyahu, accompani...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789912738657,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: The armed man who carried out this morning’s attack in Neve Tzuf is a member of Hamas, aged 37. He reportedly passed through the location where the attack took place yesterday, most likely for reconnaissance and planning purposes.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789898374125,
     "type": "airstrike",
     "location": "Kharg Island",
@@ -178393,6 +178423,144 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 The Insight: A clear message from Tehran📌 Six months ago, the US declared victory after launching an illegal war against Iran. Now, that “victory” is hitting Americans at the gas pump. Tehran’s message is clear: there is no going back.Story & Host: Zahra Dashti Camera: Alireza Khojasteh Video Ed...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789912810560,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-20",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Battle intensify between the Yemeni Armed Forces and Saudi mercenaries in Taiz.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789912811085,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran’s Supreme National Security Council Secretary Mohsen Rezaee:Trump greatly underestimated Iran.Today, nobody considers America’s war with Iran to be a rational or logical war. Everyone describes it as a stupid war, and I want to add another word to that: ignorant.America’s military, econo...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e80557b8d3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r3fIE0KIcD1fSphTbRLH3dxnX1HtJ0cMgHFzuvzKajutdyZ_toQuiECeRhRk83T7Y_A9VlM1Mnj8un1a3UOVsTz94zPIU9unvXhC9Wd2PU6jUwb30XYzVfHwQehw1uiCA2NVLSUGI23fPgJhyW8HM6-ywAyJBCy6xIG3bGyGRyZdOieFGWZ20kSBFKgaS7veTPc69hrnF1IExHZoDws5md5tNu0IUVWLHsel3quJxpPD9qjqoAaxSnFstjT1CedbCs4uSOdYaSwpX8U8SYRyUiN3GK0kw9xsnBEn5wZ50vSaj9tJLckdLfH8ywUe9wotwUGmA9316t6f1wqzMs7I5A"
+      },
+      {
+        "url": "https://t.me/enemywatch/62319",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r3fIE0KIcD1fSphTbRLH3dxnX1HtJ0cMgHFzuvzKajutdyZ_toQuiECeRhRk83T7Y_A9VlM1Mnj8un1a3UOVsTz94zPIU9unvXhC9Wd2PU6jUwb30XYzVfHwQehw1uiCA2NVLSUGI23fPgJhyW8HM6-ywAyJBCy6xIG3bGyGRyZdOieFGWZ20kSBFKgaS7veTPc69hrnF1IExHZoDws5md5tNu0IUVWLHsel3quJxpPD9qjqoAaxSnFstjT1CedbCs4uSOdYaSwpX8U8SYRyUiN3GK0kw9xsnBEn5wZ50vSaj9tJLckdLfH8ywUe9wotwUGmA9316t6f1wqzMs7I5A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789912802838,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran’s Supreme National Security Council Secretary Mohsen Rezaee:America and Trump will leave. Everyone knows that the American economy is, in reality, on a path toward collapse. Within the next 10 years, America will not be as it is today.But we and the Arab countries will remain. We are the...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62321",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XjiMBR-n06yQHSbf5sh0PzYIQdmPYMEtnbBEkAfwp5ceDCFDVAIK7D0UqpaIYOP-6epFqnFQk-g28YyjAdWZbXj9oGdhgCNOXoKUeE4_ofYxoD8nOOvQCvmw6FZliTWCqDMug9_g8QGPzj3TmFbevkBvLzuA7Bo9hU6O0oHNtOST4Vdf78TgL4263-2-_dbiJdZ-LWPg7KBumNvLQqRk7XfV5TuNp1VfdQhUQEHarHOX3OacuvWcdC8Qc5EAWP1pS4d7tREInHCvX9v7SG08AgHbZy4Jq2bTtsyPdgBkV621jded6CdRijWPLyiG-N1S3wdTlxNkxDYFuFmXfcbxJw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789912795819,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-20",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran dismantles three terrorist operational cells📌 Tehran, IRNA – Several elements affiliated with terrorist groups acting as mercenaries for the American-Zionist enemy have been killed or arrested in three provinces across Iran.&nbsp;They were planning assassination operations and sabotage of v...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789912769733,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-20",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Defeated enemy must leave the region in disgrace: Iranian commander📌 Tehran, IRNA – Rear Admiral Habibollah Sayyari, deputy chief of the Iranian Army for Coordination, referring to the US-Israeli imposed war, says the enemies must leave the region after facing disgrace and humiliation at the han...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789912763719,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "According to Iran's Ministry of Intelligence, Iranian intelligence forces have either killed or taken into custody members of three operational cells linked to mercenary terrorist groups supported by the Israeli enemy.These individuals were planning assassinations and acts of sabotage against econom...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Wr9APFTDNYyao75Lu5XhZhJAS__FsYYdvn-hK48lpDvzwS4SUY6Zy_6ksjjmwLv-DJJG2Pn1CzC4ttxejnXQ7H9q7KmHhoytHq7eCradMckzSvUEATDy7Ri6MPFaoESgfkIXzcgJoQ28UoyuI2bhm5_x7gRmzk_qJDYsTsKS5MzYn8MzPXsErwW1jiDE_yc_5TBgwTMFflN02S6z9AOsloGArqsB-N8VGw8jJWb-9omx4yixSW4nF_EungkqaX-1Y609uCPBXknQzwLF9jr4H7WC8ILP2Hd6eKjRBJ6JwfMuGTsV6mRUoSt9qbewfzCZ8cPQ9BoAnXLGX5xbqKp1_A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1789912733931,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "The criminal Israeli PM, along with his wife, desecrated the holy Al-Aqsa Mosque during a raid on the site. By constructing tunnels beneath this sacred place, the Zionists are attempting to destroy it and alter its historical-Islamic character.In this video, Netanyahu claims that \"no one but us can ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4fe975e467.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NdFMMte7KTMZoeKUwrbktA-XDclqWwvMHXPKa7wgFbk0yjl0k3dE_PA6WWTdaR4B2TpHL9ig0k0pDmbP2Zwy1HK36RyRh1Ck90VexQ59DKQ7R2niZJAhLyFbL250L0VRKd9wKA4TiwAs-FcN01vXTjk8Tt0wcY9DOk-b7d91XKH9RdLW64JQycJATWwNWp1qvqad1WRfl_c4Vte154iJL23K_5KKmhLa5FcbN5EsNf8cRt1aW7q_JdKPKJIVwUnWAqpy5znsQLD2b44Ioa0L5YB_B-lut21PJlcYM8od_6CEQ8_QTcL4RTvKDWHGoeFs1biOtwVQ3VpqVorfMKj4Tw"
+      },
+      {
+        "url": "https://t.me/Irna_en/39595",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NdFMMte7KTMZoeKUwrbktA-XDclqWwvMHXPKa7wgFbk0yjl0k3dE_PA6WWTdaR4B2TpHL9ig0k0pDmbP2Zwy1HK36RyRh1Ck90VexQ59DKQ7R2niZJAhLyFbL250L0VRKd9wKA4TiwAs-FcN01vXTjk8Tt0wcY9DOk-b7d91XKH9RdLW64JQycJATWwNWp1qvqad1WRfl_c4Vte154iJL23K_5KKmhLa5FcbN5EsNf8cRt1aW7q_JdKPKJIVwUnWAqpy5znsQLD2b44Ioa0L5YB_B-lut21PJlcYM8od_6CEQ8_QTcL4RTvKDWHGoeFs1biOtwVQ3VpqVorfMKj4Tw"
+      }
+    ],
     "verified": false
   },
   {
