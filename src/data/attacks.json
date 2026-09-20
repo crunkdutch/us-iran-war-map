@@ -130253,6 +130253,38 @@
     ]
   },
   {
+    "id": 481195379,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Riyadh, Yemen: Statement Yemeni Armed Forces targeting sensitive",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Statement by the Yemeni Armed Forces on targeting sensitive sites in the Saudi enemy’s capital, Riyadh, and targeting Aramco in Yanbu with a large number of ballistic missiles, cruise missiles, and drones:In the name of Allah, the Most Compassionate, the Most MercifulAllah the Almighty said:“So whoever transgresses against you, transgress against him in the same manner as he transgressed against you.“Allah Almighty has spoken the truth.In response to the grave slander accusing the Yemen o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
