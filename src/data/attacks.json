@@ -129677,6 +129677,38 @@
     "media": []
   },
   {
+    "id": 481167711,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_Media Israeli enemy army radio Israeli",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media \"Israeli\" enemy army radio: An \"Israeli\" was critically wounded in the shooting attack in Neve Tzuf.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481112567,
     "type": "drone",
     "status": "confirmed",
@@ -129901,6 +129933,70 @@
       "other": 0
     },
     "description": "🎙 Top security official: Trump foolishly continues war, but Iran fully ready for self-defense📌 Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Mohsen Rezaei says US President Donald Trump waged a foolish war on Iran and is foolishly continuing it. However, Iran stands ready to give a stronger and more painful response should the US resume military aggression, as it did during the 40-day conflict that began earlier this year.Rezaei made the remarks in an exclusive interview",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481160804,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Kharg Island, Sanaa, Riyadh: Regional developments September 2026 Yemen Saudi",
+    "location": "Kharg Island, Sanaa, Riyadh, Strait of Hormuz, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      29.2352,
+      50.309
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Regional developments | September 20, 2026 (+ve)🇾🇪 Yemen • 🇸🇦 Saudi ArabiaSana’a forces seized control of the Al-Alqamah and Sharirah areas in the Al-Shamaitain district of Taiz Governorate after several days of fierce battles. Military sources said the offensive is continuing towards the strategic Rasin mountain range, which overlooks Al-Turbah, the districts of Al-Shamaitain and Al-Wazi’iyah, and Al-Mudharabah district in Lahj Governorate, as well as key roads linking Taiz city with A",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481164257,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Sanaa, Lebanon, Syria: Regional developments September 2026 GazaSources Gaza",
+    "location": "Sanaa, Lebanon, Syria, Yemen, Saudi Arabia, Iraq, Israel, Gaza Strip, Qusayr",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Regional developments | September 20, 2026 (-ve)🇵🇸 GazaSources in Gaza hospitals reported three martyrs, including a child, after Israeli occupation forces opened fire in several areas of the Gaza Strip since the morning.🇾🇪 YemenSaudi warplanes targeted locations east of Taiz. Royal Saudi Air Force fighter jets carried out airstrikes against Ansar Allah positions on the eastern Taiz front after taking off from King Fahd Air Base in Taif, western Saudi Arabia. Explosions were heard in Sa",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

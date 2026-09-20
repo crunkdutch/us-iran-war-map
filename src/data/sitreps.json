@@ -1064,6 +1064,21 @@
     "verified": false
   },
   {
+    "id": 1789898293738,
+    "type": "missile",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-02-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran beats Maldives in Asian Games beach volleyball opener📌 Nagoya, IRNA– Iran’s beach volleyball team has claimed its first win at the Asian Games in Nagoya, defeating Maldives 2–0 in straight sets at Mizuho Park Stadium.Iran opened its campaign on Sunday with a solid performance, taking the en...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -177789,6 +177804,62 @@
     "verified": false
   },
   {
+    "id": 1789898302905,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Tehran ceremony honors National Cinema DayA ceremony marking National Cinema Day was held late on Thursday, September 17, 2026, in the Iranian capital, Tehran. Famous actors and actresses, along with other cinema artists, attended the ceremony.https://en.irna.ir/photo/86268805/📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dV9gbbGoz8Mbg7jKYpgePWZdMGgJTdxCQmrbEA4EfH_T9t4b2xZFHvmAz2lFsQoFNN9lUZpYa6JUGo94X8VCI6hz83G9QsdTBvfXiNcS0k6nwg2CVjRP1MbG20WM4gqJwyf8yoEU04MW_mvGReRYvNicci_Fhd9C3-XTAjt0S0xg_qPAX0d0KkxN1t_6Np6qFnaULXS4zJmdWDRrv6mHtjQ61VsL_nUXaK4jlMfG_9qkc7i74GUfwS9k5dqrT1YkyJrVs1AGaIUgavs5lUtoJyoXK_UvkemInkKAMonVG_wPDM7rjdiyboHAlPwxJ0zr90VblxuIfedUxsD87-OAiA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QNrK3WbsSEr0vjAXagtgiPaEgfv7n-uEdLN_-BYj-ppyfzGZPzHkNFMRBfs1PZf0hbepb3nuFd4hvod4zyIo54P2oCuJxXaPTde2vrsY52cGILMgIie0z9xXwDa6dJbfJ4UuY42GtTn50MaZKfKhZdnnwYXoBSqoewVq4hWW56RN2Ks68eVfL0MUtQHk5jlLlLlxIPzBKp9xclApWhHXpCkyidhrQMbnBsGnyMeFihLFqsKb_gmKG3WzAyI5sUc8kfEATMutygsiM1UqV0aNhBBIzqH3QmXSXo12fqzpRzJ9FO9D7M-11Z9uZEggy3nzc2QiESOPZX1ZspUtao0TVA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tupjtmRbtjLcLvAqFsSTM2ULpJz5ntMHBEOOkYW-_QWbS2uB5eYkIoGLagOQfNeuzuaTl4pynmQncXNVTzYUp68sUkB1pCdfM6_Z_6aB9aKhQQhWOrzpsv2-8sdliYenYngOnz4rDIOzMwbo75vS2yO8pXpe_VYSRdeiAOOmPBVA51JPpAwRJQzZH15pBdbTeZWQi4ZrsH0zyCmETCJKD2C3TstB3mHbHXufExge625IFISwcRf03LUI9oDVPA956LDHnuZminotuyM63Icqc8zlwEJ0Ou1A_LtSQiloAnDmVYBI27tdDDs9i799LyxmosWtXHPN_VvFVAB6cZOq5A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/YOem2Q1zVKjhIlvx1ZBGqzbMxjdGIbRnBufgnwhK3yctjPRHYD0vCOSIZFkDU5qxa_zOTkNW5VfIpA8f6zTUKpcKdKxc0x7xDMq_ee3kzrRekVOkjex74AASzkSpQDAGELlNz7KID6OmiJBTMq8hjG07xaUsV9iA2Te_v_BTRGHeA1fqOdxbeuNXo88y_Sg0KsxbbDHL5_y9Alq0Hm7gYjS1zos_ZJryHYS1K_Ndn84pCgtHbiMtxv2C3xRRiE4mxKV5HvHNIFkH6IA376T-pxkTLsOftKSR0uiMOmI8B7Y2QpKV3wO6lUvz468K28fje3lY2XnUmmEplec96C5RPQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TJimmiV2ltFA46lPKTFiaqUyRmBjKMyH62Ms46goHMdd0PUgu4bVGID04oXtQ0bGIrM02pbXTkqhuolsRCQzDC1kTgXEdnJeM5nn1cFpFJQ3sqlgsyRhs1o8tQMgnOpAOnfUG2qMe9b1zwlk9ko1BomR-aPDbxYueDbbaocMSCEfH0gOUhGNEscm7UlWLONtEdnTSab3hU3SktCr5OpHWjg-Ey2WfuY1Nlj-01LwN5AAY0a9e4aDVmNSaLwEon-2Vj4Od4sk3DcelNEzFHJbwnTDICPrWj5Q4fc4Sg5qBw-L5N9Zy3H3Tsy6jDpHylbRJHh_AEGzmb1rg5F3LjZPLg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/f8pDxbFFLsICSkzTtj2iubg92l3O_UGn8CscvEJSDHTr-Ln3fO6bU-dxHQsCq-DQzgnyOcEWAXrSFjVrmady_I4fY9qi-kSeHzPMjP1UNI4o-y25WAyD5RqriCnCOIFRqPqzQI0pYdS7Jj6CBwBWRc9L-bN0ZurWN69D-KC1XW-3izXunF2JwkgBx0f8iOI3r7U6NSoqU3mOknYcmywY3sI2te4qfJOqdrRrIJ9Grp4jtzvMvE1Eg8hrk4XwN7cH1HKtAD48ow4-msGf8YVLB1tbTm9OVE1hY3ygXBCcel2-hJp5ffozQ90v_0difl6tPJatkWWu7FOGiu9nk7hPCg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MZ-VagJ6-VKLrgXfq4lR2KOoCNlou2POuSKl580rkthvWGYWaPk3X0pfDaxWcHXMWfFXC88gj6oOocjgLJEB48qW1Em8TJkr0oN7UqIU3h_iEq3anngTaVEywsprt19351jY_SM6yS9ZYddViiKZS1GzIzsXVGFY9auYTzw_F9JY0XkcTipTWjv6aFtZ8k8LA1MGA8Y5DNYYl5PAovHG7c1kwv15UkuzcCT2q89PSv2011KPfNg2LySCUZaTdCYCN7dSnIuTL1xgwm4D8BmpcHefyNjEMNoBAF78POl2bkWaTN0Vzg0sj4TAvlUavo5qSVMaJLcAmeXDDJ9GeDfV7A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/URA32JZxroLOtxnpbgOK7JhqFaZPoRlKXG-iKV5vlLpEZeMZBBBHhHd7-baGE1W20hLptWcxT8AfwM0O1RkKuMD-Oi0egZmNKOTRhQfCO_1DN7kTYmuwdmOuuh5lUfsudwMgBVfbi8fF2xh21Bx3mTl6TIeFQIgSqQVatpWMN5c18XPBbCGYlZXpUbVQxVhA5OCi6mp0Bd77hcF-n0MKGooO0Riv_OID3J5MMkqxLJJI0cb7l2a3tNti0Z5kDbQSvYoVU5T0Y_TUIX4VocX23AMM70NZQ24ioddFWOJ9YggxR4VLxUhNNH_0A8AfvfY4rN9IyZMve-bO7bJng2b4_Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/rfaTxCJNfFB1UmuWhW3d-XPYQXExFh_-o2KLmJb1cK31kFgpsV60sVcZ4XOjUDwzqCuhpPvfdhF7cbPFgYMWG72jLd9E1UkmQKQIbtfe-3HCA3UHf_2s0yeqq0iWlv_yZDljxrwulOnhJPRl114M2saq27uRTE003GVFskgEoIMAyqfoXiJCdiG3QP__jLOQiyN_71uuuyDUlxWqJa_tZjTbaq6pEPURbuaZcELomPlvYrqzlSPmsH6hpYNV18lcDb2gvhnHb4rUKJM9YvulJNjtlhcAUiUN7LzYTXnAibTUHRp2EsHgPW9jeTyKZog17AfX0Hx9I9JwZp07Vta4Hg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/L57o_rF008z4k9Tm-1kcWgk4C1bIZASMp3zodkD2QXPif0GsCB2NTVqyRfhgVULtGD5Vr0yxLIMWntuC-1H9CDkQmdSIn3ynIRCUvUTEIMSifNObC_rfqvfW1TwLnpgYph_-X3zQiqDW3TYQyiJaJL8yW5yeu3O1GYRbQletufSrM4gjLH5KLAfdTn3IdAYLsvKWCQwIXuYKsybxGemDkVoeJgGz9ZDgrTgm5-YJPEIYfbV7hcJ_zPxnWCyJf4teFLATEsM9B3j_veRqUJAm57-UKKm5_Dc6qMZ4Kjo9RhN0LPC0KyzrU3bg6PyEmBxa6cYEJBg61KuJXm9RdChUmw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1789717813604,
     "type": "airstrike",
     "location": "Tehran",
@@ -178045,6 +178116,21 @@
     "verified": false
   },
   {
+    "id": 1789898279843,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israeli\" enemy army radio: An \"Israeli\" was critically wounded in the shooting attack in Neve Tzuf.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789804431894,
     "type": "drone",
     "location": "Sanaa",
@@ -178152,6 +178238,56 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 Top security official: Trump foolishly continues war, but Iran fully ready for self-defense📌 Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Mohsen Rezaei says US President Donald Trump waged a foolish war on Iran and is foolishly continuing it. However, Iran stands ready to...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789898374125,
+    "type": "airstrike",
+    "location": "Kharg Island",
+    "coordinates": [
+      29.2352,
+      50.309
+    ],
+    "date": "2026-09-20",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | Regional developments | September 20, 2026 (+ve)🇾🇪 Yemen • 🇸🇦 Saudi ArabiaSana’a forces seized control of the Al-Alqamah and Sharirah areas in the Al-Shamaitain district of Taiz Governorate after several days of fierce battles. Military sources said the offensive is continuing towards the s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789898358055,
+    "type": "intercept",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-09-20",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | Regional developments | September 20, 2026 (-ve)🇵🇸 GazaSources in Gaza hospitals reported three martyrs, including a child, after Israeli occupation forces opened fire in several areas of the Gaza Strip since the morning.🇾🇪 YemenSaudi warplanes targeted locations east of Taiz. Royal Saudi A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1789898285004,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 In photos: Tehran ceremony honors National Cinema Day📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QUVe2kvW4pSrJHC-v2tlz6TI2F7IC-UC9z3NfMgztJkrEOP-MjOdFhpLqoiOH-5IKHLjkAmFcOQHLpu5jlzj6s-Y7ntWvWQT_32WV3rj6HWnOwpAlJnQ9AO5Wa6jUgoqbAA_2AFZmbHH4WBjobj2iAJJv9HP1YpVNLoV4o9QGq7fWqTXBU1wjiPcYgNz7HgizSvnHxEjZRErG7nI9nBbV9diUF77eygxxO7YI6t3epfsauO_SYeIwS33MS8bbTXbsoS_0zpuI0hn8y21A4-RRL9Coj4gWhJxKF_kp17AiJ7GPGk6vIi9x9GOiy9-mdmVCiCByFkUvrIvvMGxig88Cw.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
