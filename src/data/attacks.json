@@ -129720,6 +129720,43 @@
     ]
   },
   {
+    "id": 481271796,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: believe claims that requested Trump attack",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Do not believe claims that MBS requested Trump to attack Yemen and that Trump refused. The United States may be preparing to attack Yemen from Saudi Arabian bases, and this could begin with Trump’s statements/tweets against Ansar Allah, followed by military…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/A-mNB8WUuivNgQSORCE6B5ZxjRGSZsWrGtLW9i9H6UAuhf9MSPVVOlhycOmj7VAkhgHip0ZuZrHaQ9anIp-xXU9DRO5gQIyDdkRH3f4F2VWSUhVk47-3M2CWErsFA12rqfMAkFJocPbLuhOlDOahmLQuITjuqCKs-Yd5LLhUlLBY6NTmT7WHBSZRpJK8zBSSSW7D5CI2fJSgRu5q23WYTS742wd4Va8tzG4cZbUNAxtRBqzwjDVVUwK_Ds5ind17RGb17k9qci4Wimx2Gp7eKp1lYGCw4FUsPbsAAltS0dEgBI44zYJ3JOF-6us5i3JXCv4pa3jn2Ak-kCNdqP_O1Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 481112567,
     "type": "drone",
     "status": "confirmed",
@@ -131072,6 +131109,38 @@
       "other": 0
     },
     "description": "📡 Commander: Iranians’ resistance disrupted enemy’s calculations📌 Bandar Abbas, IRNA - The commander of Iran Navy Southern Fleet says that resistance of the Iranian nation during the recent war disrupted the enemy’s calculations and prevented the realization of its strategic objectives.Addressing a gathering in Bandar Abbas on Monday, Rear Admiral Abbas Hasani said this war brought damage, but one of its achievements was redefining the concept of resistance.​The Iranian people, at the peak of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481275281,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Official spokesperson Yemeni Armed ForcesIn major",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Official spokesperson for the Yemeni Armed Forces:In a major escalation, the criminal Saudi enemy targeted Al-Jawf, Taiz, Saada, and Marib governorates with 157 airstrikes and missile attacks. These were carried out by F15 and Typhoon fighter jets launched from Khamis Mushait and Taif air bases, as well as missile attacks originating from Najran and Jizan. To date, the total number of airstrikes and missile attacks by the aggressor since the start of this escalation has reached 917. Insha",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
