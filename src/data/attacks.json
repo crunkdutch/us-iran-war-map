@@ -130944,6 +130944,139 @@
     "media": []
   },
   {
+    "id": 481257866,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: UKMTO received delayed report incident involving",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | UKMTO received a delayed report of an incident involving an LPG tanker transiting the Strait of Hormuz. The vessel was struck by fragments from unidentified projectiles. All crew members are safe, with no environmental impact reported. The vessel will continue to its next port of call. Authorities are investigating. Vessels are advised to transit with caution and report suspicious activity to UKMTO.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481261347,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen, Saudi Arabia: Ansar Allah leader Sayyid AbdulMalik alHouthi",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Ansar Allah leader Sayyid Abdul-Malik al-Houthi (H) on the 12th anniversary of the September 21 Revolution:We turn to Allah with praise and thanks for granting our dear people victory and support in their blessed September 21 Revolution.The September 21 Revolution achieved freedom and independence for our people on the basis of their faith-based identity and liberation from American hegemony.The blessing of liberation and independence, and putting an end to the wrong course under foreign ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481264829,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Saudi commandlevel soldiers Khalid AlShahri Mohammad",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | Saudi command-level soldiers Khalid Al-Shahri and Mohammad Al-Zahrani were liquidated by AnsarAllah fire, while additional Saudi soldiers reported killed in Yemeni attacks include Abdullah bin Bakhit Al-Sulmi, Khalid bin Abdulaziz Al-Sulmi, Ibrahim Al-Marzouq, and Jabir bin Shujaa Al-Razzaq.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/lEP-ZfJDl-n27_D-eaKvjfrhLGFz35VC-INzSqr6UaVgwMSioMXleVmABFt6RFD-aIBpXPWCKUh2SDLCQcZs2KA2yRNB_OEqgnXvsmzDZ8EWfYM4oLNExXGY7gN-0VkPPgBjsc5Lpxj9N3OVO79ekMKj8vs0Xx9s0GLH4j1tXXoUdFwuZ6128BdXxMGS9apOABessw7ThQvSQx_jxgQYwsj_poccRMaLZijbogwf_dj5qqBJft4nDFOwewcuSu02eKRl-ab4fKCLKrOmEVtLocf_fkKlMzKSjY7-aEhnxaLXJ57T3wd-v_yjYSGR3S3e3RAY3llc9mx62Gm550W5_w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481268312,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Bandar Abbas: Commander Iranians resistance disrupted enemys calculations",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Commander: Iranians’ resistance disrupted enemy’s calculations📌 Bandar Abbas, IRNA - The commander of Iran Navy Southern Fleet says that resistance of the Iranian nation during the recent war disrupted the enemy’s calculations and prevented the realization of its strategic objectives.Addressing a gathering in Bandar Abbas on Monday, Rear Admiral Abbas Hasani said this war brought damage, but one of its achievements was redefining the concept of resistance.​The Iranian people, at the peak of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
