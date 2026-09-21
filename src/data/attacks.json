@@ -126233,6 +126233,102 @@
     "media": []
   },
   {
+    "id": 481282254,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-12",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Bab al-Mandab, Yemen, Israel: Enemy_MediaHebrew Channel Israel closely monitoring developm...",
+    "location": "Bab al-Mandab, Yemen, Israel",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 13: \"Israel\" is closely monitoring developments in Yemen following the Houthis’ seizure of control over the Bab Al-Mandab Strait and reports of the targeting of the Saudi oil pipeline. The \"Israeli\" army is preparing to confront the resumption of activity on this front.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481285742,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-12",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Red Sea, Bab al-Mandab, Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaperThe intense Hout...",
+    "location": "Red Sea, Bab al-Mandab, Israel",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:The intense Houthi attack is keeping the \"Israeli\" security establishment on high alert, and it is closely monitoring the latest developments in the region with great concern. In recent days, the Houthis have continued to take control of towns along the southern coast of the Red Sea, as well as the Bab Al-Mandab Strait, one of the world’s most important economic shipping routes.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481289231,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-12",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz, Bab al-Mandab: Enemy_Media Yedioth Ahronoth Hebrew newspaperIf Iranians",
+    "location": "Strait of Hormuz, Bab al-Mandab",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media Yedioth Ahronoth Hebrew newspaper:If the Iranians manage to choke off the area of the Strait of Hormuz, which is approximately 55 kilometers wide, it is possible to understand how easy a blockade operation would be when the width is three times smaller in the Bab Al-Mandab Strait. This means that the use of specialized means, without the need for radars or complex resources, can achieve an effective blockade.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480607073,
     "type": "intercept",
     "status": "confirmed",
@@ -131141,6 +131237,38 @@
       "other": 0
     },
     "description": "🇾🇪 | Official spokesperson for the Yemeni Armed Forces:In a major escalation, the criminal Saudi enemy targeted Al-Jawf, Taiz, Saada, and Marib governorates with 157 airstrikes and missile attacks. These were carried out by F15 and Typhoon fighter jets launched from Khamis Mushait and Taif air bases, as well as missile attacks originating from Najran and Jizan. To date, the total number of airstrikes and missile attacks by the aggressor since the start of this escalation has reached 917. Insha",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481278767,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Tehran, Sanaa, Aden: Regional developments September 2026 Yemen Saudi",
+    "location": "Tehran, Sanaa, Aden, Yemen, Kuwait, Saudi Arabia, Iraq, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Regional developments | September 22, 2026 (+ve)🇾🇪 Yemen • 🇸🇦 Saudi ArabiaYemeni forces launched a missile attack against Saudi-backed forces in Yemen. Ansar Allah continued its field advance on the Al-Shamaytin front after securing Jabal Jurdan and capturing the Al-Alqamah and Sharirah fronts near the Rasin mountain range overlooking Al-Turbah, the southern gateway to Taiz Governorate. The advance gives Sana’a forces fire control over supply routes on the Al-Madharib fronts. Ansar Alla",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
