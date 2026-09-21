@@ -130499,6 +130499,70 @@
     "media": []
   },
   {
+    "id": 481219641,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Qeshm, Sirik, Sanaa: Regional developments September 2026 Yemen Saudi",
+    "location": "Qeshm, Sirik, Sanaa, Strait of Hormuz, Yemen, Saudi Arabia",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Regional developments | September 21, 2026 (+ve)🇾🇪 Yemen • 🇸🇦 Saudi ArabiaMissiles were launched from Sanaa towards Saudi Arabia.🇮🇷 Iran • 🇺🇸 America • Strait of Hormuz- Iranian air defenses shot down an American drone over the Strait of Hormuz.- Explosions were heard from Qeshm and Sirik, with preliminary reports placing the explosions in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481223111,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Fars, Sanaa, Lebanon: Regional developments September 2026 Yemen Saudi",
+    "location": "Fars, Sanaa, Lebanon, Syria, Yemen, Kuwait, Iraq, Israel",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Regional developments | September 21, 2026 (-ve)🇾🇪 Yemen- Saudi airstrikes targeted communications towers in several areas of Al-Jawf Governorate. Al-Masirah and Saba Agency reported that four workers were martyred and three others injured in Saudi raids on telecommunications towers in Khabb wa ash Sha’af district in Al-Jawf Governorate.- Saudi enemy artillery shelling also targeted areas of the Monabbih border district in Saada Governorate.- Reports of explosions were also heard in Sanaa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
