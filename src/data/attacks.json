@@ -131274,6 +131274,70 @@
     "media": []
   },
   {
+    "id": 481292721,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Haifa, Gaza City, Lebanon: Regional developments September 2026 YemenSaudi airstrikes",
+    "location": "Haifa, Gaza City, Lebanon, Yemen, Oman, Israel, Gaza Strip",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🛎️ | Regional developments | September 22, 2026 (-ve)🇾🇪 YemenSaudi airstrikes targeted several areas of Yemen. Saudi aircraft bombed the Al-Thawra Akboush School in Al-Ahkum District, carried out an airstrike on the Makhadra area in Al-Akawish, and conducted three airstrikes on Al-Abous District in Haifan, Taiz Governorate. Saudi aircraft also carried out two raids on the Al-Matoun complex in Al-Jawf Governorate. Four workers were martyred and three others injured in Saudi raids on communicat",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481296212,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Regional developments September 2026 Yemen Saudi",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🛎️ | Regional developments | September 22, 2026 (-ve) 🇾🇪 Yemen Saudi airstrikes targeted several areas of Yemen. Saudi aircraft bombed the Al-Thawra Akboush School in Al-Ahkum District, carried out an airstrike on the Makhadra area in Al-Akawish, and conducted…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

@@ -179395,6 +179395,21 @@
     "verified": false
   },
   {
+    "id": 1790028253716,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Baqaei: US visa ban on Iranian president’s media team is an attempt to hide the truth📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei says the Trump administration’s denial of visas to members of President Masoud Pezeshkian’s media team ahead of this week’s United Nations Ge...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790021075451,
     "type": "missile",
     "location": "Tehran",
@@ -179406,6 +179421,51 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔔 | Regional developments | September 22, 2026 (+ve)🇾🇪 Yemen • 🇸🇦 Saudi ArabiaYemeni forces launched a missile attack against Saudi-backed forces in Yemen. Ansar Allah continued its field advance on the Al-Shamaytin front after securing Jabal Jurdan and capturing the Al-Alqamah and Sharirah fro...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790028256132,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | Regional developments | September 22, 2026 (+ve)🇾🇪 Yemen ❌ 🇸🇦 Saudi ArabiaYemeni forces launched a missile attack against Saudi-backed forces in Yemen. Ansar Allah continued its field advance on the Al-Shamaytin front after securing Jabal Jurdan and capturing the Al-Alqamah and Sharirah fro...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790028275839,
+    "type": "drone",
+    "location": "Haifa",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "date": "2026-09-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🛎️ | Regional developments | September 22, 2026 (-ve)🇾🇪 YemenSaudi airstrikes targeted several areas of Yemen. Saudi aircraft bombed the Al-Thawra Akboush School in Al-Ahkum District, carried out an airstrike on the Makhadra area in Al-Akawish, and conducted three airstrikes on Al-Abous District ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790028229892,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🛎️ | Regional developments | September 22, 2026 (-ve) 🇾🇪 Yemen Saudi airstrikes targeted several areas of Yemen. Saudi aircraft bombed the Al-Thawra Akboush School in Al-Ahkum District, carried out an airstrike on the Makhadra area in Al-Akawish, and conducted…",
     "media": [],
     "verified": false
   },
