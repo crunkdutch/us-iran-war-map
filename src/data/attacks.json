@@ -130668,6 +130668,38 @@
     "media": []
   },
   {
+    "id": 481247429,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tel Aviv, Damascus, Syria: Occupied Syria once again brink massive",
+    "location": "Tel Aviv, Damascus, Syria, Qatar, Israel, Turkey",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴 | Occupied Syria once again on the brink of massive domino fallsOccupied Syria is once again standing on the edge of another dangerous collapse. The past several months have been consumed by the removal and elimination of top HTS and affiliated figures through mysterious accidents, alleged heart attacks, and other unexplained incidents. Alongside this came HTS led sectarian massacres, soaring prices, widespread corruption, the disappearance of public funds and subsidies, and growing public an",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481219641,
     "type": "intercept",
     "status": "confirmed",
