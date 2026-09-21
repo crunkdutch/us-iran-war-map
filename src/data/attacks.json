@@ -130604,6 +130604,70 @@
     "media": []
   },
   {
+    "id": 481237001,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Maritime Trade Operations reports that tanker",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The UK Maritime Trade Operations reports that an oil tanker was hit by a projectile in the Strait of Hormuz, resulting in two injuries on board.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481243952,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: YemenAnsar Allah Political Office extend congratulations",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenAnsar Allah Political Office:– We extend our congratulations to the Leader of the Revolution, the Chairman and members of the Supreme Political Council, the government, our people, and our forces on the 12th anniversary of the September 21 Revolution.– The September 21 anniversary comes amid strategic victories along the coast and escalating operations against the Saudi enemy to end the aggression and lift the blockade.– The September 21 Revolution is a revolution of freedom and independen",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481219641,
     "type": "intercept",
     "status": "confirmed",
@@ -130739,6 +130803,38 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 481240476,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Tel Aviv, Strait of Hormuz: Ghalibaf fully exposed despite projecting hegemony",
+    "location": "Tehran, Tel Aviv, Strait of Hormuz, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Ghalibaf: US fully exposed despite projecting hegemony📌 Tehran, IRNA – Parliament Speaker Mohammad Baqer Ghalibaf says the United States appears to project hegemony and superior power but is in reality “fully exposed.”Ghalibaf made the remarks in a post on X, reacting to a recent JPMorgan assessment that said the bank had, for the first time since the start of the US-Israeli war of aggression on Iran, no baseline view for forecasting the oil market.​“We simply don’t know how to model the end",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 477331196,
