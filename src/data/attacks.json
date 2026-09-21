@@ -130462,7 +130462,18 @@
     "description": "🇮🇷 | Iranian Armed Forces: At 18:30 today, local air defense systems belonging to the army, operating as part of the country’s unified air defense network, intercepted and destroyed a sophisticated Orbiter-class drone flying over the Strait of Hormuz in the southeastern region of the country.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/39069d79a6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jyGwnr2cujVMwKULSjMbHe1f79NfajLO5GNqCbBQ4Zv5AhFGiiZunm-CMiB8_7XGSnysuwWtCHbuHZyRnoC7x9GEiwb8AXGKDdpsi4yOEml7Auk__jxRdUIg67bDN5kDnQ60LAnwDNlsgnIHxPrJwy-1DppxYb_GBUgz95TIjiaQztsZEDIDqEfofxuFKLSCpFy-_xThI7OSSRH9h096xZECR_zZho0N29AGl_R5ZGKhV5uAjzaE55xv-_Hn9C4epNn3bSKS6rRJ6xA-P58Cyt28f0aHlDU8w_S-BLD2se0dREbgLc-RYiW9sOiCyYmBXvgbM4Ngqe2SUyudL60o5w"
+      },
+      {
+        "url": "https://t.me/mmirlb/40793",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jyGwnr2cujVMwKULSjMbHe1f79NfajLO5GNqCbBQ4Zv5AhFGiiZunm-CMiB8_7XGSnysuwWtCHbuHZyRnoC7x9GEiwb8AXGKDdpsi4yOEml7Auk__jxRdUIg67bDN5kDnQ60LAnwDNlsgnIHxPrJwy-1DppxYb_GBUgz95TIjiaQztsZEDIDqEfofxuFKLSCpFy-_xThI7OSSRH9h096xZECR_zZho0N29AGl_R5ZGKhV5uAjzaE55xv-_Hn9C4epNn3bSKS6rRJ6xA-P58Cyt28f0aHlDU8w_S-BLD2se0dREbgLc-RYiW9sOiCyYmBXvgbM4Ngqe2SUyudL60o5w"
+      }
+    ]
   },
   {
     "id": 481212704,
@@ -130700,6 +130711,38 @@
     "media": []
   },
   {
+    "id": 481254386,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: YemenKey points from speech delivered Ansar",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenKey points from the speech delivered by Ansar Allah Leader Sayyed Abdul-Malik Al-Houthi on the occasion of the 12th anniversary of the September 21 Revolution: – We turn to Allah with praise and gratitude for granting our dear people victory and support in their blessed September 21 Revolution.– The September 21 Revolution is achieving freedom and independence for our free people, grounded in their faith-based identity and liberation from American arrogance.– The blessing of liberation, in",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481219641,
     "type": "intercept",
     "status": "confirmed",
@@ -130864,6 +130907,38 @@
       "other": 0
     },
     "description": "💬 Ghalibaf: US fully exposed despite projecting hegemony📌 Tehran, IRNA – Parliament Speaker Mohammad Baqer Ghalibaf says the United States appears to project hegemony and superior power but is in reality “fully exposed.”Ghalibaf made the remarks in a post on X, reacting to a recent JPMorgan assessment that said the bank had, for the first time since the start of the US-Israeli war of aggression on Iran, no baseline view for forecasting the oil market.​“We simply don’t know how to model the end",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481250907,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab: Minab childrens exhibition held outside headquarters",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Minab children’s exhibition held outside UN headquarters in Geneva📌 London, IRNA – An exhibition highlighting the impact of a deadly late February US attack on a school in Minab, southern Iran, has been held outside the United Nations headquarters in Geneva.Two Iranian civil society activists living in Switzerland organized the exhibition, which opened on Saturday, Sept. 19, at Place des Nations, outside the main entrance to the UN headquarters and next to Geneva’s landmark Broken Chair, a s",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
