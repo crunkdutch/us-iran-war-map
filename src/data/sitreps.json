@@ -179410,6 +179410,26 @@
     "verified": false
   },
   {
+    "id": 1790057155992,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Map showing the advance of the Yemeni Armed Forces in the battle to complete the siege of Saudi-backed militias in Taiz, in preparation for completing control of the governorate.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/my2FOTS3Nd5A5mCKu0k3O-N8I9QMIyq9PSyOFMTwGzELLdsTb3ogDmCqwAnI1NJTpsaYQdbZ9_O8asN9WmXSXq7zfcH-TjnHjM59Vfpr6z0GeZxf6kpJEy1uA7fwUV23YAUXU4khsUVx-dL92Y0sN1qUMUD1VScjP6w_iomva-l4Ei7AKuJIWQcUSxRqgfeaKoy0pZBleDvYnpFRkK69b6gAMjGVjeyC7Id3UoPX08hbj5Qa6JO64ujLjZlM-foqitAdV1dfDeJTRGW99nL4ByMnmaUVuJuCpNV9L-oqXZT1p3gHvErkMvkKUxprfZ0tDatcSXAQkPCx3P6ikxFZsw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790021075451,
     "type": "missile",
     "location": "Tehran",
