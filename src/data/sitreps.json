@@ -176567,6 +176567,81 @@
     "verified": false
   },
   {
+    "id": 1790071589266,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📢 | Updates:🇮🇷 U.S. drones strike fishing boats near Bandar KarganTwo fishing boats were struck by U.S. drones near Bandar Kargan in Iran’s Hormozgan Province on Monday evening. Several fishermen are missing, and search-and-rescue operations are underway.🇮🇷 • 🇱🇧 Iran-Lebanon foreign minister ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790071586885,
+    "type": "drone",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemen-Saudi battle updates, 15 September 2026:Yemeni missile and drone attacks across Saudi ArabiaIn the past hours, AnsarAllah launched a wide-scale wave of missile and drone attacks across Saudi Arabia, with alerts, explosions, and reported impacts in Abha, Khamis Mushait, Jazan, Jeddah, Ta...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790071530395,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemen-Saudi battle updates, 15 September 2026: Yemeni missile and drone attacks across Saudi Arabia In the past hours, AnsarAllah launched a wide-scale wave of missile and drone attacks across Saudi Arabia, with alerts, explosions, and reported impacts…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790071593181,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-15",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:At dawn today, an advanced MQ-1 drone was intercepted and destroyed in the skies west of the Strait of Hormuz in Iran by an advanced modern air defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network.🔹@en...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790071551712,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-15",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Message from IRGC Aerospace Force Commander Sayyed Majid Mousavi on the 200th night of the Iranian nation’s uprising:In the name of God, the Most Compassionate, the Most Merciful.The brave and courageous people of Iran, the followers of the Guardianship of Wali al-Faqeeh, peace be upon you.Ma...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789536097417,
     "type": "airstrike",
     "location": "Israel",
@@ -179502,6 +179577,54 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Baqaei: Blaming Iran for rising fuel prices is a textbook symptom of “The March of Folly”📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has described blaming Iran for rising fuel prices as a textbook symptom of “The March of Folly”.“U.S. officials blame Iran for rising fuel prices...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790071621185,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴 🇵🇸 | The infant Fares Firas Abu Kmail, aged six months and from Gaza, has died after suffering from a heart condition that required surgery abroad, which he was unable to travel to receive. His death came amid the deterioration of Gaza’s healthcare system as a result of the ongoing war and the ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/kUpPH2iPL_n6r81nhQyfOkqydEcH7u1Yv-hpMwYxHEJJPARGe49zSdBrjS6L6ZM84nPPHQA-0WFwmbi4rugjSStM0KOMYUotK2ZPeptg0qriNmDgmCWESXLML4oETpNcmNBNHShvHv5TrMO24V9XLxlAcOccBVG1kez-XVKVtdOrdaem8Fq8hO5GkRBGK8k-8WUPdII6AcVLDB3OpWbPRxvtaaJG-AZtWAkcXhAR1asPvFqm1N2xdAia4W4wzzjzcN3A5Pqx2M73mamN1v5PKB5IAtd608DcXJvizbYjFJRoUnbp590coJCWf4vJ8nx3JAJz4ZLxNb0Y_z-WZHFDlg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790071568685,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | An image showing the effects of the bombing on the face and body of a survivor of the Minab school massacre.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fqQzQbX3lan4-zD7k3VNoYNNL7muTR0yKCBDUJnY5Ub9ersffAJhHL1kd2wbnDh6uq1bW2TrDTEdP-g9I2U0KgnOqH1V3gli8b-UdccCfmxZmrEhHn8gKofX2DpyTOX9C3eiP6uFsrE2o87TDs8QlO7uJ9PrTP5wEBKxH-yD2rcUOekBkrfWj3RwTU3893SNKwa8du1sbLrabuEC8k7GC4tHE3FKRXr3aF6iGDBQ1zesKayDpzWbGkRpsk5emjOyou493PLheVtMTAHvvqQttVwE0XgPi6ZTl-91yCUNRFCa_avReUnd59J4N0-V6m7tLWJflMHZyH7-6kR03pGbww.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hwZh3YXSD6_OYJFtjOQ7iOkvEXnMafYBYHs0QnyLxpbMbfyEiXHSqB6BcH_K_g207NIBc0sLut1zYh8GGQ8iUQvlc41-6b94Xcj0wamK7Ul0ebrRNLwhVy3KO4ScalLtSgKonjSjetdmmlLOxT8L0v2octU8glRxu2sbtZCFTikzO2uJA9SP2s2G5s_PRbA08qA9VOvTAlg8vs630fcC1FrXwDINwzlG7AWtgs2TOJA3KjrYDe2zgkcsudb5mvBCMges2ZKGHPucOYaEe4bEJTnKagrsZ2wripvEkJtjlityhmO29YJwDyB5h-lqDWzS6oHTDVRF8aZnZRVItWeYbw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NLOsGdkOFAwtRIwb6KF0u-Ys9WXt2DClTYX-A19RYPbisf-2jr4FYw0V3CAisnNu69LYxbNSZ3IoXtDLkn3xRD5jQG3iD7EFkIG_6eV70tcEjgJcgGrSgu8gFd51KXzioRR3MofmKLSgYXuq4Ipe20b8FK85TrA692ko1afJKp3Qmbz5JEWLjUXxCLt_OJOVZ5X3Fa17qr8ldzPqs3FozcSHoqpFq2fj2mjedaKKukFtY_m4GBV0x-dzSj34lqLNe3rl4Q2p-tEXK86ysMVrGWg-9SeOw6NT4UmhCzASTiBaEjHGT_bSTQKRUx-rhuGvUzrHK6G7m15TMTPF7Tj-5Q.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
