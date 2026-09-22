@@ -131452,6 +131452,38 @@
     "media": []
   },
   {
+    "id": 481310186,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Bandar Abbas, Minab: Minab school bombing targeted foundations morality",
+    "location": "Tehran, Bandar Abbas, Minab, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Minab school bombing targeted foundations of morality, humanity: Judiciary spokesperson📌 Bandar Abbas, IRNA – Judiciary spokesperson Ali Kazemi has condemned the US-Israeli bombing of Shajareh Tayyebeh School in Minab, southern Iran, describing it as more than a military crime and saying it targeted the foundations of morality and humanity in the international community.Speaking at a press conference in Minab on Tuesday, Kazemi said turning moments of joy into mourning had become a recurring",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

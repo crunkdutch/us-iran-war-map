@@ -179628,6 +179628,26 @@
     "verified": false
   },
   {
+    "id": 1790078804518,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴🇵🇸 | The infant Fares Firas Abu Kmail, aged six months and from Gaza, has died after suffering from a heart condition that required surgery abroad, which he was unable to travel to receive. His death came amid the deterioration of Gaza’s healthcare system as a result of the ongoing war and the I...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/kUpPH2iPL_n6r81nhQyfOkqydEcH7u1Yv-hpMwYxHEJJPARGe49zSdBrjS6L6ZM84nPPHQA-0WFwmbi4rugjSStM0KOMYUotK2ZPeptg0qriNmDgmCWESXLML4oETpNcmNBNHShvHv5TrMO24V9XLxlAcOccBVG1kez-XVKVtdOrdaem8Fq8hO5GkRBGK8k-8WUPdII6AcVLDB3OpWbPRxvtaaJG-AZtWAkcXhAR1asPvFqm1N2xdAia4W4wzzjzcN3A5Pqx2M73mamN1v5PKB5IAtd608DcXJvizbYjFJRoUnbp590coJCWf4vJ8nx3JAJz4ZLxNb0Y_z-WZHFDlg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790021075451,
     "type": "missile",
     "location": "Tehran",
@@ -179684,6 +179704,56 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🛎️ | Regional developments | September 22, 2026 (-ve) 🇾🇪 Yemen Saudi airstrikes targeted several areas of Yemen. Saudi aircraft bombed the Al-Thawra Akboush School in Al-Ahkum District, carried out an airstrike on the Makhadra area in Al-Akawish, and conducted…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790078779508,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Minister calls for promoting equity in Iran’s public education📌 Tehran, IRNA – Education Minister Alireza Kazemi, emphasizing educational equity, says that creating equal learning opportunities and standardizing educational, developmental, and sports facilities remain among the country’s core po...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790078835915,
+    "type": "cyber",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 High time for washington to break free from Israeli shackles: Iranian FM📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nwNAn1g9hZqTnMj6ss89XAMW_uvK7I-MFkhKzQ8yQ7MGo9kW2-2YknR7UA4vk9Hfy4Y9p1teH-BtPLuArDFGu1b1c82wTWceVb8neYN3iGOnS0AmkfPK0Ui-Hj6snGgmZrwj-fZzQnVIumm466fVrsy9FFxEWTIRl1lf0m1B22SZ9d62NLPFGZKTcRPeYMarzakPgryXG26LUX2PZm6cWs6iUJJOAzevuE7Pa9AUaWus4-c_qqjHr_7suhoYDuxZA9SqIduwtFjvurJmioSEP0e_Vw2U9FTz_ljRIadUk4vxTf0Ihx3jP-ZhrB5kileZrUKP__mFVHFistLPmHVzSg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790078808528,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Minab school bombing targeted foundations of morality, humanity: Judiciary spokesperson📌 Bandar Abbas, IRNA – Judiciary spokesperson Ali Kazemi has condemned the US-Israeli bombing of Shajareh Tayyebeh School in Minab, southern Iran, describing it as more than a military crime and saying it targ...",
     "media": [],
     "verified": false
   },
