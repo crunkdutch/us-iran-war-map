@@ -175937,6 +175937,96 @@
     "verified": false
   },
   {
+    "id": 1790086055226,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenYemeni media:– With the help of Allah, gatherings of the Saudi enemy’s mobilizations and reinforcements were targeted in the Al-Jawf desert, north of the Al-Kana'is area.– The targeting resulted, by the grace of Allah, in deaths and injuries and the disabling of a number of vehicles belonging ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790086007989,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenYemeni Ministry of Foreign Affairs:– We reiterate that the maritime navigation over which the Saudi regime laments and which it uses to incite the international community against Sana’a is safe.– If the Saudi enemy believes that, after its aircraft carried out 300 airstrikes over five days, it...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790086027748,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel\" Hayom Hebrew newspaper: In the coming days, the Northern Command will present the new defense plans for the Beaufort Heights area in southern Lebanon for approval. The plans will include reducing the number of \"Israeli\" forces in the sector to a single combat brigade, down from ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790085987903,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-14",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Public Relations: An advanced MQ-1 drone was intercepted and destroyed in the skies over the western area of the Strait of Hormuz at dawn today.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790086020977,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-14",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian media: The fourth MQ-1 drone has been intercepted and destroyed over the eastern skies of the Strait of Hormuz in recent days by fire from the new advanced air defense system of the Islamic Revolutionary Guard Corps Aerospace Force, under the control of the country’s integra...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790086011457,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-14",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "British Maritime Trade Operations Authority: A report of a vessel being struck by an unidentified projectile in the Strait of Hormuz.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789463832623,
     "type": "airstrike",
     "location": "Riyadh",
@@ -179648,6 +179738,36 @@
     "verified": false
   },
   {
+    "id": 1790086049220,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Hearing of a large explosion in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790085992325,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Upcoming | A message from the Leader of the Islamic Revolution, Imam Mujtaba Husayni Khamenei (H), on the occasion of the reopening of schools and universities will be released shortly.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790021075451,
     "type": "missile",
     "location": "Tehran",
@@ -179754,6 +179874,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 Minab school bombing targeted foundations of morality, humanity: Judiciary spokesperson📌 Bandar Abbas, IRNA – Judiciary spokesperson Ali Kazemi has condemned the US-Israeli bombing of Shajareh Tayyebeh School in Minab, southern Iran, describing it as more than a military crime and saying it targ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790086031817,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 ‘Iran Cultural Week’ to be held across Russia📌 Tehran, IRNA – Cultural Week of the Islamic Republic of Iran will be held in four major cities across Russia from September 24 to 26, including 13 cultural, artistic and scientific programs.Russian cities of Moscow, Saint Petersburg, Kazan, and Astr...",
     "media": [],
     "verified": false
   },
