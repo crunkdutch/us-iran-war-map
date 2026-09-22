@@ -176732,6 +176732,66 @@
     "verified": false
   },
   {
+    "id": 1790107677275,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-15",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "British Maritime Trade Operations Authority: A report of a vessel being struck by an unidentified projectile in the Strait of Hormuz.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790107607837,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenHead of the National Negotiating Delegation Mohammed Abdulsalam:The Saudi regime continues to launch its aggressive airstrikes against Yemen, with more than 350 airstrikes carried out over the course of a few days, targeting public and private property and resulting in civilian deaths and inju...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790107667952,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-15",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian media: Moments ago, the third MQ-1 drone belonging to the terrorist U.S. army was intercepted and destroyed today by fire from the modern and advanced air defense system of the Islamic Revolutionary Guard Corps Aerospace Force, under the control of the country’s integrated a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790107674581,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source told Al-Masirah:– The losses among the Saudi enemy’s mobilizations in the Al-Jawf front over the past four days have reached approximately 275 killed, wounded, and captured.– 85 vehicles and armored vehicles belonging to the Saudi enemy’s mobilizations were burned or disabled...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789536097417,
     "type": "airstrike",
     "location": "Israel",
@@ -180099,6 +180159,21 @@
     "source": "Iranian Army (Artesh)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔻 Armed Forces commanders warn of decisive response to any aggression📌 Tehran, IRNA – Senior commanders of Iran’s Armed Forces have emphasized that the country’s security is a red line, noting that any aggressor would face a forceful, decisive, and appropriate response.In a message issued on Tuesd...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790107621549,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Was the picture of Imam Khamenei taken to the UN Dias, or was a secular image of the Minab massacre used by the government official there as well?",
     "media": [],
     "verified": false
   },

@@ -128341,6 +128341,43 @@
     "media": []
   },
   {
+    "id": 481331177,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: British Maritime Trade Operations Authority report",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "British Maritime Trade Operations Authority: A report of a vessel being struck by an unidentified projectile in the Strait of Hormuz.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/gc2o5reVNsc49Odwk7zpjhxcIZOeZEAPtIs5iLqITyWkjz_wneNAa8357wqnKZRk976uW9HaUsWamDAqbVNvi_W-vemE3afrh4qKe2IHZDIfRdkAaS1zDK3qqx-wfBHHGu5PmO8mTjVVPfaYoAjUw4KFq7KnCdft4ubeguDlrf1UXtvhqw-ZjrBIFM3dQ7e_pnePPIYiM8DxWxCtTlhIITQr9D6HJvhHBZE_UIrxxs1ZTNK-9_z4LtryFIBPCgfg2PMXEn776yDo6pktebbxbOsMaEnf_ecBH3Xl-4HheARruHqBVQt6e7U0RcsT5kwOMRrk9Wx7sAmuvphK7a_ptQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480948671,
     "type": "airstrike",
     "status": "confirmed",
