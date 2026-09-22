@@ -179082,6 +179082,36 @@
     "verified": false
   },
   {
+    "id": 1790064387143,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: In \"Israel\", they are following the expansion of the Turkish Navy’s submarine capabilities in recent years. This is a broad expansion process that includes a significant increase in the submarine fleet through new and advanced submarines manufactured in German...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790064398671,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Hebrew Channel 12, citing an \"Israeli\" security source: \"The situation is sensitive and volatile. We do not know where it will develop. It does not appear that the Iranians are prepared to make concessions; things could get out of control.\"#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789948818553,
     "type": "drone",
     "location": "Fars",
@@ -179427,6 +179457,51 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790064321076,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-09-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟦 | Message from the Chief of Staff of the Armed Forces and Commander of the Central Khatam al-Anbiya Headquarters Ali Abdollahi on the passing of Ayatollah al-Uzma Sayyid Musa Shubairi Zanjani:In the name of Allah, the Most Compassionate, the Most Merciful“When a scholar dies, an irreparable breac...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790064344382,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Pezeshkian says he will convey Iranian nation’s grievances, strength to world📌 Tehran, IRNA – President Masoud Pezeshkian, who has left Tehran for New York to attend the 81st session of the United Nations General Assembly (UNGA), says he will use the session to convey to officials and people fro...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790064376529,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Baqaei: Blaming Iran for rising fuel prices is a textbook symptom of “The March of Folly”📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has described blaming Iran for rising fuel prices as a textbook symptom of “The March of Folly”.“U.S. officials blame Iran for rising fuel prices...",
+    "media": [],
     "verified": false
   },
   {
