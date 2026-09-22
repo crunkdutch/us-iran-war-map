@@ -177630,6 +177630,21 @@
     "verified": false
   },
   {
+    "id": 1790100397806,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Compassionate, the Most MercifulAllah Almighty says: {O you who believe, if you support Allah, He will support you and make your feet firm.} Allah Almighty is Truthful The Saudi warplanes carried out more than 450 airstrikes t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
@@ -179783,6 +179798,96 @@
     "verified": false
   },
   {
+    "id": 1790100441141,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-21",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Saudi warplanes carried out 19 airstrikes over the past 24 hours using F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif airbases. The strikes targeted the governorates of Taiz, Al-Jawf, and Ma’rib, leaving martyrs and wounded, including children and women, bringing the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100444131,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Publication permitted: Hamas attempted to kill and capture “Israeli” soldiers several times during this month inside the Gaza Strip.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100436867,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: On the night of September 4, a D9 bulldozer entered an area containing a large field of Improvised Explosive Devices [IEDs] and severed the detonation wires, thereby preventing a catastrophe. At the same time, gunmen opened heavy fire, causing the forces to withdraw. The...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100421887,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: On the morning of September 4, a remotely operated bulldozer was sent to the area. It drove over another Improvised Explosive Device [IED], which detonated without causing any injuries. The incident was not reported to the public.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100467303,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Yesterday evening, the forces returned to the area, and another engineering vehicle drove over an Improvised Explosive Device [IED]. Four tanks that were called in were unable to reach the area due to technical malfunctions, so the forces withdrew. The air force attacked...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100458561,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 13: Amid U.S. President Donald Trump’s threats against Iran, Prime Minister Benjamin Netanyahu will assess the security situation this evening. Senior “Israeli” officials estimated that the situation with Iran could escalate soon, and given the existing tensions, it is unc...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790021075451,
     "type": "missile",
     "location": "Tehran",
@@ -179919,6 +180024,81 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | Full text of the message from the Leader of the Islamic Revolution Imam Mujtaba Khamenei (H) on the occasion of the reopening of schools and universities: (1/2)In the name of Allah, the Most Compassionate, the Most MercifulThe dawn of the new academic year and the reopening of the homes of kn...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100487731,
+    "type": "missile",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-09-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Breaking — A missile attack launched by Sanaa forces against Saudi-backed forces in Yemen.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100496228,
+    "type": "drone",
+    "location": "Haifa",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "date": "2026-09-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments in the past 8 hours | September 22, 2026 (-ve)🇱🇧 LebanonIsraeli forces carried out extensive attacks across southern Lebanon on September 21. Israeli warplanes conducted raids on Nabatieh Fawqa, Kafr Tibnit, Wadi Al-Hujeir, Wadi Al-Saluqi, the outskirts of Baraashit, and...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100490372,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments in the past 8 hours | September 22, 2026 (+ve)🇾🇪 Yemen ❌ 🇸🇦 Saudi ArabiaMissiles were launched from Sanaa towards Saudi Arabia after earlier warnings that Riyadh would be targeted if Saudi attacks on Sanaa continued.Fierce clashes continued between Ansar Allah and PLC ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100482625,
+    "type": "intercept",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Leader: Students have historic mission to advance Islamic Iran📌 New York, IRNA — Ayatollah Sayyid Mojtaba Khamenei, the Leader of the Islamic Revolution, issued a message at the beginning of the new academic year on Tuesday, saying the students and scholars have a historic mission to elevate Isl...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790100490578,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Armed Forces commanders warn of decisive response to any aggression📌 Tehran, IRNA – Senior commanders of Iran’s Armed Forces have emphasized that the country’s security is a red line, noting that any aggressor would face a forceful, decisive, and appropriate response.In a message issued on Tuesd...",
     "media": [],
     "verified": false
   },

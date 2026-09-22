@@ -131388,6 +131388,43 @@
     ]
   },
   {
+    "id": 481327676,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaIsraeli media night September bulldozer entered",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: On the night of September 4, a D9 bulldozer entered an area containing a large field of Improvised Explosive Devices [IEDs] and severed the detonation wires, thereby preventing a catastrophe. At the same time, gunmen opened heavy fire, causing the forces to withdraw. The “Israeli” army attacked only three targets in response, while the public was only informed about the shooting incident.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/XJPYzHV3MldCyfw0aV95s-44QfYzPNT6IgyQwG24Vxhzcrx6105-hyDpxuKNh6330D7GZ-JR5WDiHBPdzLEZi8lDlZgzopzigFtx01RmgRRwXF797crU4wh71YQ9Z_9Zs5vDkBSl10_mR96qXReJDr_uKkQYa6sB5OGOHJIPh-1CsiBhfJfb87glr6sYTLhjEaLWll1ilm1ricWBlKYRDa3iPUxrB4esulC7yaRJVxurkmWs4wLgwUnHnP21_x8K69zppCG3pmgyRzBu2ZrzlZvvnMdZJ9Og7ybbjN-Je_AZxoEqONYq82Iw3Me-yB1LHBEJ3IoZmLijl9gWhX0bww.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 481278767,
     "type": "missile",
     "status": "confirmed",
@@ -131511,6 +131548,102 @@
       "other": 0
     },
     "description": "🎙 Minab school bombing targeted foundations of morality, humanity: Judiciary spokesperson📌 Bandar Abbas, IRNA – Judiciary spokesperson Ali Kazemi has condemned the US-Israeli bombing of Shajareh Tayyebeh School in Minab, southern Iran, describing it as more than a military crime and saying it targeted the foundations of morality and humanity in the international community.Speaking at a press conference in Minab on Tuesday, Kazemi said turning moments of joy into mourning had become a recurring",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481317179,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Strait of Hormuz: Reports rockets fired towards Strait Hormuzenemywatch",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Reports of rockets fired towards the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481320677,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Yemen: Breaking missile attack launched Sanaa forces",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Breaking — A missile attack launched by Sanaa forces against Saudi-backed forces in Yemen.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481324176,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Israel: Armed Forces commanders warn decisive response",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Armed Forces commanders warn of decisive response to any aggression📌 Tehran, IRNA – Senior commanders of Iran’s Armed Forces have emphasized that the country’s security is a red line, noting that any aggressor would face a forceful, decisive, and appropriate response.In a message issued on Tuesday on the occasion of Sacred Defense Week, the commander of the Iranian Army’s Air Defense Force, Brigadier General Alireza Elhami, emphasized that the Sacred Defense serves as an important lesson for",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
