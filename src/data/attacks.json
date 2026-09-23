@@ -131927,6 +131927,70 @@
     "media": []
   },
   {
+    "id": 481397886,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_Media Hebrew Channel wounded carramming attack",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media Hebrew Channel 15: The wounded in the car-ramming attack is an \"Israeli\" police officer. #Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481401407,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemen Saudi warplanes carried airstrikes missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen The Saudi warplanes carried out 52 airstrikes and missile strikes over the past 24 hours, using \"F-15\" and \"Typhoon\" aircraft that took off from the King Khalid Air Base in Khamis Mushait and the King Fahd Air Base in Taif, while the missile attacks were launched from Jizan. The strikes targeted the governorates of Al-Hudaydah, Taiz, Al-Bayda, Ma’rib, and Saada, leaving martyrs and wounded, including women and children, and causing destruction to civilian infrastructure, including telecom",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481348697,
     "type": "airstrike",
     "status": "confirmed",
@@ -132219,6 +132283,108 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 481387329,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Lebanon, Israel: Mohammad Raad head Loyalty Resistance parliamentary",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌟🇱🇧 | Mohammad Raad, head of the Loyalty to the Resistance parliamentary bloc in Lebanon:• \"Hezbollah's stance to support Gaza against the Zionist war of extermination is an honorable historical stance that will be a source of pride and hope for all generations.\"• \"Hezbollah wrote an epic of martyrdom in the most delicate and sensitive circumstance in facing the Israeli aggression.\"• \"There was a bet on surrender, but the bet of the enemy and those collaborating with it failed. The authoritie",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481390847,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Yemen: Breaking Brigadier General Yahya SareeSaudi warplanes",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Breaking — Brigadier General Yahya Saree’:Saudi warplanes launched 52 airstrikes and missile attacks over the past 24 hours, using F-15 and Typhoon fighter jets that took off from Khamis Mushait and Taif airbases, while the missile attacks originated from Jizan.The attacks targeted the governorates of Hodeidah, Taiz, Al-Bayda, Marib, and Saada, resulting in martyrs and wounded civilians, including women and children, and causing widespread destruction of civilian infrastructure, including",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481394366,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, West Bank: Israeli ambassador reportedly critically injured carramming",
+    "location": "Israel, West Bank",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇵🇸 🇮🇱 | Son of Israeli ambassador to the U.S. reportedly critically injured in car-ramming incident:Neria Leiter, the son of Israeli Ambassador to the U.S. Yechiel Leiter, was reportedly struck by a car near an IDF checkpoint close to Beit Horon in the occupied West Bank. He is reportedly in critical condition. His father said that he is in need of miracles.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62461",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C9bZExNN487QLHMZz9sl8TRL9OXuRkG4z1GNBqxk21rP7rPFM1mFLkKqz9ZZMO9hgBsU3zXGF7-rw4MwCX4ZYOt7MGMhSsHeMq64YS5g2mBUXk_8fOpYV7SVZKMsNKQdtyWD3fEotvTXA9ZBZ-NjCBGunEerlty7QpkhVxf5n-xcFJ5XyGPiFeVSASu9oKz5IJZQTUtiTV7cjhvdYDxV9zsDFOEqmYakpHTxGyu431wjtX3I7_iwW2-IX1pbSpLZEImagtdemaMJpR4DtCb9ZN4XkYBYdIeJx1XlwLCCKxgM2WwUY33-MiCCJWryLr_FVfy_ZkApzM8ZhV7hb-TCAg"
+      }
+    ]
   },
   {
     "id": 477331196,

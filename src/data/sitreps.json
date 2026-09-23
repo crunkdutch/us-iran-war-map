@@ -180421,6 +180421,81 @@
     "verified": false
   },
   {
+    "id": 1790187062917,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio:In a highly exceptional move, with no similar step having been carried out since the beginning of the 2000s, Chief of Staff Zamir decided to activate the 98th Division under the Central Command.The meaning: The division command will assume responsibility for pa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790187044016,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israeli\" enemy army radio: War Minister Katz, in a threat to the Syrian president: \"Every piece of land in Syria that we take control of this time will be ours forever.\"#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790187015100,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Hebrew Channel 15: The wounded in the car-ramming attack is an \"Israeli\" police officer. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790187017653,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Saudi warplanes carried out 52 airstrikes and missile strikes over the past 24 hours, using \"F-15\" and \"Typhoon\" aircraft that took off from the King Khalid Air Base in Khamis Mushait and the King Fahd Air Base in Taif, while the missile attacks were launched from Jizan. The strikes targe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790186999443,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: The soldier wounded in today’s car-ramming attack is the son of the \"Israeli\" ambassador to the United States, and his condition is critical.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790150918222,
     "type": "drone",
     "location": "Tehran",
@@ -180818,6 +180893,66 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790187089580,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-23",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🌟🇱🇧 | Mohammad Raad, head of the Loyalty to the Resistance parliamentary bloc in Lebanon:• \"Hezbollah's stance to support Gaza against the Zionist war of extermination is an honorable historical stance that will be a source of pride and hope for all generations.\"• \"Hezbollah wrote an epic of mart...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790187018937,
+    "type": "missile",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-09-23",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Breaking — Brigadier General Yahya Saree’:Saudi warplanes launched 52 airstrikes and missile attacks over the past 24 hours, using F-15 and Typhoon fighter jets that took off from Khamis Mushait and Taif airbases, while the missile attacks originated from Jizan.The attacks targeted the govern...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790186998653,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 🇮🇱 | Son of Israeli ambassador to the U.S. reportedly critically injured in car-ramming incident:Neria Leiter, the son of Israeli Ambassador to the U.S. Yechiel Leiter, was reportedly struck by a car near an IDF checkpoint close to Beit Horon in the occupied West Bank. He is reportedly in cri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790187025611,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Pezeshkian was ‘the voice of all Iranians’ at UN: Leader’s advisor📌 Tehran, IRNA – A senior advisor to the Leader of the Islamic Revolution has praised President Masoud Pezeshkian’s firm and well‑reasoned stance at the UN General Assembly, saying he has been a worthy representative and the voice...",
+    "media": [],
     "verified": false
   },
   {
