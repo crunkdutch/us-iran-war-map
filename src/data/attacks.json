@@ -131686,6 +131686,38 @@
     "media": []
   },
   {
+    "id": 481334679,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Such incident never happened before3333The entire",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📍 | Such an incident has never happened before&#33;&#33;The entire approach of Masoud Pezeshkian’s government can be summed up in this photo.Contrary to some reports, during Trump’s speech, a member of Iran’s diplomatic team was present at Iran’s Permanent Mission and listened to the insulting remarks of the killer of the martyred Leader of the Revolution. Such an incident has never happened before. Almost simultaneously with Trump’s insulting speech at the United Nations, the Iranian and Ameri",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
