@@ -131895,6 +131895,38 @@
     "media": []
   },
   {
+    "id": 481383812,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Strait of Hormuz: Islamic_RepublicIrans Supreme National Security Council Secr...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIran’s Supreme National Security Council Secretary Mohsen Rezaei: – We will no longer return to the previous diplomacy or to the situation of Islamabad and before it. The Americans must first implement Iran’s seven conditions; otherwise, the Strait of Hormuz will not be opened and no negotiations will begin.– We are reverse-engineering an American submarine.– This submarine conducts reconnaissance in the ocean down to a depth of 6,000 meters, and it is of exceptional value.– Som",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481348697,
     "type": "airstrike",
     "status": "confirmed",
@@ -132032,6 +132064,161 @@
         "thumbnail": "https://cdn4.telesco.pe/file/vgwevpHeaOIlCkq-n7-LUheU8sUu8njlrhRLTjPrblXiwGCcmvGvKMV0Km2g8Gdf-viH0iPKTDtyHW0I0hNye_gX-WN3YIuio4uRJDyKZaVAx2C9jObs0egHP4kv6zjRrCqVZ3th-0HI-gdleQuv8pyBasG8_QLB0wSguv7rGfEc4momczFS9JlBEP35RT9HpXsu3NjmXZtu0CRroDt-iXPRWVnd6o3DqaP2QohP9PoBiVODFG0_S3oqvw7Tnnlnqufel5Wzr7RavZRZKwjWpmYYy1DaTZbUlXpVf5ghOzzXxtX48yiGAsT0rWoUf4sKCIBNhX8hp270sFE0rDRMbw"
       }
     ]
+  },
+  {
+    "id": 481369754,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Israel: Masoud PezeshkianI come from Iran where",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Dr. Masoud Pezeshkian:I come from Iran, where our revered Leader of the Islamic Revolution was assassinated without any legal framework or justification. I come from Iran, where, in reality, a school was bombed. Do you see these children? These children were killed under bombardment using weapons employed by the United States and Israel. They were innocent and had committed no crime.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62460",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XxTo9je2sNZRRN5vwrloehOIgAA66_0DU1Rl8DZbkwh3PtUf4zLqDXtB34EM3LyEfdBiWdJhvhTsmqzlCwQYqQBwYjwJkRvs0TyFiML-aAIjUQkonkFGfIOOeXD0Qpki6exAGWdFNzTdMTqxkOfqDNESeb0MBjHngbjQq3gFZB5wTQMKser_Krkfc7zSNK0jGMkjROyowcZEiCHVewzKPJhrzkcasv_Q8p_kWOSCNRiF3IsrXAZ-gEzH2bHMW90S-fqdtXRlo4SvlhbVFS0kzRkYnr80W3epN_sr1CMYzrrS4gfbzitEc3sh95mbmDhorvnDrDzpiAhIWi_t5GeHoA"
+      }
+    ]
+  },
+  {
+    "id": 481373267,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: Satellite imagery shows possible damage hangars",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 ❌ 🇸🇦 | Satellite imagery shows possible damage to the hangars housing Italian Typhoon aircraft at King Fahd Air Base in Saudi Arabia as a result of recent attacks by the Yemeni Armed Forces on Saudi Arabia.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/632f1a71fe.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Jn8tOUWF5-mmagK6fqlFZZhF_Odmj-6neqHDQEclo67FCu7y4owpN3a34XNrlJGt9CIa25Sva9vbSqJY60jbnkf4uefL-nnoTJbDKDLd7bpxXlCMxFZWUmVlS5RJumKfd6I4rpyfZ1KeB2LjsaD74w3vw5ct_RqLN9ZQfJZzdHXxRk9e1zQcKpj0g_V3NZoqd7QTqKXy7FFwnG4q04fyvMvjKLT3B-yQKkzxW-F022ScLJnT4STdfB1YKWTLR8Ynws4fYHvQ7Mf8wVp_5TP28nj_FtWVK2wbwQ15lMO80kUjBzZtYJQwpMXJewYMzJ7oYdkSHDXREBkvX6jZoVYK8w"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/10bbe81e2b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Jn8tOUWF5-mmagK6fqlFZZhF_Odmj-6neqHDQEclo67FCu7y4owpN3a34XNrlJGt9CIa25Sva9vbSqJY60jbnkf4uefL-nnoTJbDKDLd7bpxXlCMxFZWUmVlS5RJumKfd6I4rpyfZ1KeB2LjsaD74w3vw5ct_RqLN9ZQfJZzdHXxRk9e1zQcKpj0g_V3NZoqd7QTqKXy7FFwnG4q04fyvMvjKLT3B-yQKkzxW-F022ScLJnT4STdfB1YKWTLR8Ynws4fYHvQ7Mf8wVp_5TP28nj_FtWVK2wbwQ15lMO80kUjBzZtYJQwpMXJewYMzJ7oYdkSHDXREBkvX6jZoVYK8w"
+      },
+      {
+        "url": "https://t.me/enemywatch/62462?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Jn8tOUWF5-mmagK6fqlFZZhF_Odmj-6neqHDQEclo67FCu7y4owpN3a34XNrlJGt9CIa25Sva9vbSqJY60jbnkf4uefL-nnoTJbDKDLd7bpxXlCMxFZWUmVlS5RJumKfd6I4rpyfZ1KeB2LjsaD74w3vw5ct_RqLN9ZQfJZzdHXxRk9e1zQcKpj0g_V3NZoqd7QTqKXy7FFwnG4q04fyvMvjKLT3B-yQKkzxW-F022ScLJnT4STdfB1YKWTLR8Ynws4fYHvQ7Mf8wVp_5TP28nj_FtWVK2wbwQ15lMO80kUjBzZtYJQwpMXJewYMzJ7oYdkSHDXREBkvX6jZoVYK8w"
+      },
+      {
+        "url": "https://t.me/enemywatch/62463?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KE5uekkcEzYrXGZHLfZMiXejaLhrOLrsc8qHBsV_NVZFtwJBEDoO14u4v16WTw2Ii114jN5fugQf9i4iOKH9MSV5RKgSij89YAtd_FFMRNB9EFRpvovZ260ueJQvof8SGmwhH3jqkbBJuvVqRWsmdfhYJjipztFGVBPKuqiYDKTKCmYQHbRlbyx9SQMi0yoZds1ETgljx490C1RclPCewBv2aoGsXaDcA7OnTVrllXPkh2L088sr6sedOq5xKaGNvxyuL0PnNtvnvKty7S3BVBUiGpiRx2ieHLaILjuqYrtY6-CkxZViXZoml26_QG7vpx0ElFuHUBHcoMfXyHudOg"
+      }
+    ]
+  },
+  {
+    "id": 481376781,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Doha, Muscat, Qatar: Every time Araghchi held talks with",
+    "location": "Doha, Muscat, Qatar, Oman",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚠️ | Every time Araghchi held talks with Witkoff, Iran ended up being bombed shortly afterward. Coincidence, or a pattern worth questioning?2025• 12 April 2025 — Muscat, Oman.• 19 April 2025 — Rome, Italy.• Late April 2025 — Muscat, Oman (third round of indirect talks).June 2025 — Diplomatic contacts and regional discussions continued across the West Asia.June 2025 — Iran was bombed after the negotiations talks.2026• 6 February 2026 — Muscat, Oman.• 17 February 2026 — Geneva, Switzerland.• 26 Fe",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481380296,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Minab, Israel: Baqaei recalls Minab school martyrs first",
+    "location": "Tehran, Minab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Baqaei recalls Minab school martyrs on first day of new school year📌 Tehran, IRNA – Foreign Ministry Spokesperson Esmaeil Baqaei has marked the first day of the new school year by honoring the memory of the Minab school students massacared in a US-Israeli attack, saying the angels of Minab will forever remain in the hearts of Iranians.In a post on his X account on Wednesday, marking the start of the new school year and honoring the Minab students by posting photos of them, Baqaei wrote, “Tod",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 477331196,

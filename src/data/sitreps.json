@@ -180628,6 +180628,199 @@
     "verified": false
   },
   {
+    "id": 1790179810247,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🇺🇳 | Iranian President Masoud Pezeshkian at the United Nations General Assembly:“We responded, but we did not target civilian populations. They entered our surrounding territories and targeted our universities, healthcare centers, schools, and hospitals. Israel targets neighborhoods in cities...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790179800024,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Dr. Masoud Pezeshkian:I come from Iran, where our revered Leader of the Islamic Revolution was assassinated without any legal framework or justification. I come from Iran, where, in reality, a school was bombed. Do you see these children? These children were killed under bombardment using wea...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62460",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/XxTo9je2sNZRRN5vwrloehOIgAA66_0DU1Rl8DZbkwh3PtUf4zLqDXtB34EM3LyEfdBiWdJhvhTsmqzlCwQYqQBwYjwJkRvs0TyFiML-aAIjUQkonkFGfIOOeXD0Qpki6exAGWdFNzTdMTqxkOfqDNESeb0MBjHngbjQq3gFZB5wTQMKser_Krkfc7zSNK0jGMkjROyowcZEiCHVewzKPJhrzkcasv_Q8p_kWOSCNRiF3IsrXAZ-gEzH2bHMW90S-fqdtXRlo4SvlhbVFS0kzRkYnr80W3epN_sr1CMYzrrS4gfbzitEc3sh95mbmDhorvnDrDzpiAhIWi_t5GeHoA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790179784941,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 🇮🇱 | High-resolution aerial images of northern Gaza published on Israel’s government mapping website, GovMap, reveal Israeli military bases and installations across the occupied area. The imagery reportedly shows multiple Israeli army positions, fortifications, and military infrastructure est...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62461",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C9bZExNN487QLHMZz9sl8TRL9OXuRkG4z1GNBqxk21rP7rPFM1mFLkKqz9ZZMO9hgBsU3zXGF7-rw4MwCX4ZYOt7MGMhSsHeMq64YS5g2mBUXk_8fOpYV7SVZKMsNKQdtyWD3fEotvTXA9ZBZ-NjCBGunEerlty7QpkhVxf5n-xcFJ5XyGPiFeVSASu9oKz5IJZQTUtiTV7cjhvdYDxV9zsDFOEqmYakpHTxGyu431wjtX3I7_iwW2-IX1pbSpLZEImagtdemaMJpR4DtCb9ZN4XkYBYdIeJx1XlwLCCKxgM2WwUY33-MiCCJWryLr_FVfy_ZkApzM8ZhV7hb-TCAg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790179843281,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-23",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 ❌ 🇸🇦 | Satellite imagery shows possible damage to the hangars housing Italian Typhoon aircraft at King Fahd Air Base in Saudi Arabia as a result of recent attacks by the Yemeni Armed Forces on Saudi Arabia.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/632f1a71fe.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Jn8tOUWF5-mmagK6fqlFZZhF_Odmj-6neqHDQEclo67FCu7y4owpN3a34XNrlJGt9CIa25Sva9vbSqJY60jbnkf4uefL-nnoTJbDKDLd7bpxXlCMxFZWUmVlS5RJumKfd6I4rpyfZ1KeB2LjsaD74w3vw5ct_RqLN9ZQfJZzdHXxRk9e1zQcKpj0g_V3NZoqd7QTqKXy7FFwnG4q04fyvMvjKLT3B-yQKkzxW-F022ScLJnT4STdfB1YKWTLR8Ynws4fYHvQ7Mf8wVp_5TP28nj_FtWVK2wbwQ15lMO80kUjBzZtYJQwpMXJewYMzJ7oYdkSHDXREBkvX6jZoVYK8w"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/10bbe81e2b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Jn8tOUWF5-mmagK6fqlFZZhF_Odmj-6neqHDQEclo67FCu7y4owpN3a34XNrlJGt9CIa25Sva9vbSqJY60jbnkf4uefL-nnoTJbDKDLd7bpxXlCMxFZWUmVlS5RJumKfd6I4rpyfZ1KeB2LjsaD74w3vw5ct_RqLN9ZQfJZzdHXxRk9e1zQcKpj0g_V3NZoqd7QTqKXy7FFwnG4q04fyvMvjKLT3B-yQKkzxW-F022ScLJnT4STdfB1YKWTLR8Ynws4fYHvQ7Mf8wVp_5TP28nj_FtWVK2wbwQ15lMO80kUjBzZtYJQwpMXJewYMzJ7oYdkSHDXREBkvX6jZoVYK8w"
+      },
+      {
+        "url": "https://t.me/enemywatch/62462?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Jn8tOUWF5-mmagK6fqlFZZhF_Odmj-6neqHDQEclo67FCu7y4owpN3a34XNrlJGt9CIa25Sva9vbSqJY60jbnkf4uefL-nnoTJbDKDLd7bpxXlCMxFZWUmVlS5RJumKfd6I4rpyfZ1KeB2LjsaD74w3vw5ct_RqLN9ZQfJZzdHXxRk9e1zQcKpj0g_V3NZoqd7QTqKXy7FFwnG4q04fyvMvjKLT3B-yQKkzxW-F022ScLJnT4STdfB1YKWTLR8Ynws4fYHvQ7Mf8wVp_5TP28nj_FtWVK2wbwQ15lMO80kUjBzZtYJQwpMXJewYMzJ7oYdkSHDXREBkvX6jZoVYK8w"
+      },
+      {
+        "url": "https://t.me/enemywatch/62463?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KE5uekkcEzYrXGZHLfZMiXejaLhrOLrsc8qHBsV_NVZFtwJBEDoO14u4v16WTw2Ii114jN5fugQf9i4iOKH9MSV5RKgSij89YAtd_FFMRNB9EFRpvovZ260ueJQvof8SGmwhH3jqkbBJuvVqRWsmdfhYJjipztFGVBPKuqiYDKTKCmYQHbRlbyx9SQMi0yoZds1ETgljx490C1RclPCewBv2aoGsXaDcA7OnTVrllXPkh2L088sr6sedOq5xKaGNvxyuL0PnNtvnvKty7S3BVBUiGpiRx2ieHLaILjuqYrtY6-CkxZViXZoml26_QG7vpx0ElFuHUBHcoMfXyHudOg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790179870998,
+    "type": "airstrike",
+    "location": "Doha",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "⚠️ | Every time Araghchi held talks with Witkoff, Iran ended up being bombed shortly afterward. Coincidence, or a pattern worth questioning?2025• 12 April 2025 — Muscat, Oman.• 19 April 2025 — Rome, Italy.• Late April 2025 — Muscat, Oman (third round of indirect talks).June 2025 — Diplomatic contact...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790179794841,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Baqaei recalls Minab school martyrs on first day of new school year📌 Tehran, IRNA – Foreign Ministry Spokesperson Esmaeil Baqaei has marked the first day of the new school year by honoring the memory of the Minab school students massacared in a US-Israeli attack, saying the angels of Minab will ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790179862028,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Five terrorists killed in southeast Iran📌 Tehran, IRNA – Iranian security forces have killed five members of a terrorist team in the southeastern city of Saravan, the Islamic Revolution Guard Corps’ Quds Base said on Wednesday.The joint operation by the IRGC, the Intelligence Ministry and police...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790179831473,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran will not back down against enemy: IRGC commander📌 Tehran, IRNA – Commander of the Ground Force of the Islamic Revolution Guards Corps (IRGC), Brigadier General Mohammad Karami, says Iran will not back down in the face of its enemies, stressing that the future belongs to the Iranian people.T...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790179805499,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 In photos: New Shajareh-ye Tayyebeh School opens in Minab📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/UghNRHL1gLPeVQhs2STIf89Wdq5XU-F2eBOJMUw2ypH6bOjJuzYiVtaS0G1zSe-zmvM7T0xbuN0xkeDzas6yWn014J_OAaZqxplLZw4A9jaXLPuoCMsl_5kM_nnhdvrVTglBlr5gxsApEWa_GvNH4NRkwS1_cz1kSHf39UbvVjr7kRT2XONKN-G6_OoJg3k_zTCmSZhdvcRHuwYSHr7D1UWdMQyWmxv0rmmWshQDIm5wKoxguacTQzzI1z4OGazx6g4lIeZHAd4Nf_JNC5rO1HoDj-6zS5_vhtSEOGYwqnkyvA7Lj5RFul1iDBjTz89ao9XOf839yLIXcD61S2W6rg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790179822190,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 In photos: Funeral procession for Ayatollah Shobeiri Zanjani in Iran’s Qom📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IP-WLJHrYlXpiH1PVjPchboCc7p-V19oIzjzH6UVzZz_s2Onu0KcL3DPOrXNKZUC4O4mRDz6Cydydy1yUTmnBqV4zWaTO2cmP9cVx_lh6LyT0viDAaPL4bHdBwAueyje1nzS-aEfNlOALyB8LNQ0u_Z0JdzpEYRKf06osvU4sui38mFijsllA8Ser4_ydqVFNJR5WoK_94d96gqLIHu4-z3zKJmAY0S7q05kXgXal7nbke5Hl-jqIV0s6Eu7uOCUBTVyW71tYAoRRf6-2cZK8laDnPwKhjpMsQs42zoU3U2iS2kfwc-bgT_osJVBJK0ejVi6-JUFW3fV1LowMHTCjA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
