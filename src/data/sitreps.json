@@ -180329,6 +180329,83 @@
     "verified": false
   },
   {
+    "id": 1790150938308,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Four missiles were launched toward the Strait of Hormuz.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790150906572,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Footage has emerged showing an unexpected encounter between the Interior Ministers of Iran and Pakistan and members of the national team at Tehran's Mehrabad Airport.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/39755",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vgwevpHeaOIlCkq-n7-LUheU8sUu8njlrhRLTjPrblXiwGCcmvGvKMV0Km2g8Gdf-viH0iPKTDtyHW0I0hNye_gX-WN3YIuio4uRJDyKZaVAx2C9jObs0egHP4kv6zjRrCqVZ3th-0HI-gdleQuv8pyBasG8_QLB0wSguv7rGfEc4momczFS9JlBEP35RT9HpXsu3NjmXZtu0CRroDt-iXPRWVnd6o3DqaP2QohP9PoBiVODFG0_S3oqvw7Tnnlnqufel5Wzr7RavZRZKwjWpmYYy1DaTZbUlXpVf5ghOzzXxtX48yiGAsT0rWoUf4sKCIBNhX8hp270sFE0rDRMbw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790150902025,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Mehr 1, the start of Iran's school year, should be a day of joy. But Minab's school will never be the same. US' massacre of its students and teachers will never be forgotten.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4c05f0670d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/VWkS39ixt8AbTF2CQjJk1z5gQCJ6hSlZcJNZQ74ARb-GOki7UFRHj10ad2YWLKHrBKxFh1bsQuPvipF-3BXErDARfOXISg_WH4xWXxNZuc19VTNfSU8gHXh5sTVj-X-LdFgMsLAh0EwHPQPf3WqIiSzhGw-gjpZLxkuxcWSrH-voRSnMDhvrJlQCC5zSatpSSnPp6IWfFNG2BLITqhMBXLjjDPjOpvTDtvhU6m4htXwU39PL2FU-vp8M6DcE3S4Dnwtuyr1SBeQEQPJE0UM3VWJ1OCIOQtpu3B20FdBfqsvmWd7rjajS9mzu4SEGC-MSVzspTzJX_VfayqF1arlbsA"
+      },
+      {
+        "url": "https://t.me/Irna_en/39759",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/VWkS39ixt8AbTF2CQjJk1z5gQCJ6hSlZcJNZQ74ARb-GOki7UFRHj10ad2YWLKHrBKxFh1bsQuPvipF-3BXErDARfOXISg_WH4xWXxNZuc19VTNfSU8gHXh5sTVj-X-LdFgMsLAh0EwHPQPf3WqIiSzhGw-gjpZLxkuxcWSrH-voRSnMDhvrJlQCC5zSatpSSnPp6IWfFNG2BLITqhMBXLjjDPjOpvTDtvhU6m4htXwU39PL2FU-vp8M6DcE3S4Dnwtuyr1SBeQEQPJE0UM3VWJ1OCIOQtpu3B20FdBfqsvmWd7rjajS9mzu4SEGC-MSVzspTzJX_VfayqF1arlbsA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790150918222,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-23",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | September 23, 2026 (-ve) developments🇾🇪 YemenSaudi missile attacks targeted Maran, Haydan, and Al-Dhahir in western Saada Governorate. Saudi aggression also targeted Taiz Governorate, while Saudi artillery shelling struck several areas of Monabbih District in Saada. Mi...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
