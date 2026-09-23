@@ -179971,6 +179971,21 @@
     "verified": false
   },
   {
+    "id": 1790165384539,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHead of the Loyalty to the Resistance Bloc, MP Mohammad Raad: – Hezbollah remained steadfast for four months in Ali Al-Taher despite the siege being imposed by air and land, and despite being subjected to tons of explosives, shells, and airstrikes.– The Islamic Resistance wrote an epic of ma...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790021075451,
     "type": "missile",
     "location": "Tehran",
@@ -180483,6 +180498,118 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 US-destroyed Minab school to be fully equipped with smart technology: Iran📌 Tehran, IRNA – Deputy President for Science, Technology, and Knowledge-Based Economy Hossein Afshin says Shajareh Tayyebeh School in Minab, Hormozgan Province, will be fully equipped with smart technology.Speaking to rep...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790165384896,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "New Shajareh-ye Tayyebeh School opens in MinabA new Shajareh-ye Tayyebeh School was inaugurated in Minab, Hormozgan Province, on September 23, 2026, marking the start of the 2026–27 school year with a ceremony honoring the memory of 168 student martyrs. The event was attended by Vice President Hosse...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nuqM4xtiAtLr7JUZIymgthggJkWCptKxkeeMUqVPw-mT_RlU_k2b-52aXXj0HfgJTpk_FkKxLmaE8w_ernvy4J_v4bDXXmLQ8ip5E4YapcoW7MPinPEcWqbD-6--lQHwyZOlQLTVOd8qmcFs_ii84D-S6NstHPTJF_4jZm0ocLWJt5usZqnLKxOcryqk7AXovwZVWP4DaQLpXPmrAhnRO1ngSrV6EnOsbOc4Rk9DPwN-JTNjqXzRbI_LetR3pElbW-ygOXpSlUa8oBtbV7WcDlMWUMR-NPas0JX0O70AWMnkFYKDn-uZa5TBjoJxb2E5_XbUpUUt4ZyAb9fqUXNCIw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/mbR9iewwuKyzFE0Rc-OOYylOx_sEJ8o8byGYMlwIxpMq27sFv7BEUkZB1rqRrPMQcZIMqhltmuscDTq1n3iknf9zXBQs1jU8LB9z5xdKM7VUgl5AuzwHoHklf7xRxk0JTRI-skO1_eD80jXdEzQQnhLSctSDvh44bZpFr8M9cMWpunkvNgOe2rBEqkulVypKSv5_c98bbuMaw22sawM7oGuhUO_Apmc-kdmDx3H19IcsgYn-IotDrYZekZvWBVCOYTuRBETSVjO-t0MDfZWpp3CexyjhRgulCCPd2fMqcwGXbGOem9wNPWSdlQCVWfEjkbnK2xBIgwuUgLlY4brvGw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/aquqAadYZXpy8xdnggRafWVAhDN4ihXs15_6DH-SlbF6Mo3Ser7IBCF42wJBXny9FP7FR7eue_S4-Ved1FU7t3g_ujNs4XAZqt6tLl5U96P_w-lEe6pNC4rzYe2vrAIw1XERtrGBlGasHSzfg2lM77ePqJn4mdNOItOMs8w_SeXKhcG2ctzq_alJPv3VbtEZOo_QGaaJMZmji4UQ6k6C0ZqunxAdfYcIO8d0rl8S2SIniK7SmDwidYhwO0HvUpMvn-DHle9vpa9gC5stIOzzotFoieR3uGNj8HSlS1w0-uzS-mhghJpyh9O27nU6IEZCrs68824KDGUu3p_xtP6f8g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NutKPsimCzhqAbPIBY5oPmDdRAIswwM8f76eMfILxKQTwUtGQ0l1taouzi--v1-n2y7MQECRL7Ak-b5WS6OTXXoBGpOUJQsOpSQYtRZ2LvPptA9-TV-D0hMB5f2GuavWHgdjl3nVjVzLA_93FcUSoqhKJwRug_xD-rjOUTpo6dBt-Z3lf1zHShJALHyybOOcyRjv7eNeTj-FPqCoEABbnUsWjJrmYbZ7FFxhdj-vm66d4RhYC8csEPFAVUit8IVKAMWvv05qP_En6h8HEPBWZrI66m93bq1Gb0gK5J6fMl8MOzY2vqXtYAb9ABUheC38FidpSV4WlDyhG09Yw1ggHA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/H3SMOuSO7eEZ_UXCsZU0ZWhVTJJCRjjiTOn6_icUR1ZNyBu0YpdWIjXRNQoBMQiMT9KAj5t02XkicKEsyvKIW9dcp4-PyjWpwXUTUkeHgD2raQyZZp77-aGPZ4bIOs0WoyuS4mMtb_c5QsSiuCfqVhjm9xx2mjRmUBwzLWDJkPiGhCTZM-PleQaKJ_7IjbTwamrHlvnTW7kb9C1nOi5j9QKo_oQMBqScif8c0pdbYciIBEiRTljeB9gj7QOpY4LcI-q9EE21IY_j6O5MNR4AST8qfKFOj9kH2yq3tFkmBPzYWY_drkkye7J_bKnUa85K5gLkZA-03UKBTkNxn3f7sQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/V7PkhjixyMDhOLEjgBGUbdB6S6Z2xjs1IhERIIGo1YgGgXl3QL6LK-I-9_wsXw6L1SRZrN0MhByWabgQlqh437zLsgXYcayuZzoaP3Sf6KQNkvUybjwasd7aD0W908o2tyACtTgVPTjl3sQb22BVMWbMdcJE6a0rtKproWjVLS96EJ5xQI9RwvaUjRVVIcXJL4NJS-nQ6kUUw6Om4BuQdif255WPdxfqHt44KNjMRammciXh_CJic1YXfZpm6zOYpXByOKQInHd_NbdXllaRsi0-ILg6tYd-EECL-9iDIdKB54PvhwkV0eBjBv_F8uBtTFvmiFNksx3Tn7uwjF09-Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/IRIcobp2DFino8cxQ0amN42TrJKip43xaSZkJDagn9CP1WLu1UgpIvOrnARy3v4YmU0iX5tVMVLBDjHzZQHIIVgOk_S-XS7Htel2FH0ND3bdFZgq-5XOCiLhYC8BCsLE4oJpV42byDewkLIVeSGX19wTq4tO5dBu4Ru77yJ-CKWnWzzV_8dL_RSyLmucteYtWUSlJlg2E_CFML0RcsakGaeqrHfVNjEVyNpFzH8B3d-8KKP_VbPPZldIZ_pYFyxlycNNJYyBV6dWI4nJkAdEDdUMflED5oRvBB8OIn_SB7jvILorgOti8I3pDXVPulhIzopdB6kjBDKqPkEUqmUYVA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MP8j28dNl-jmx9O66II4dqg7JecLti4Ea9o0oG7ik7_2sW8D1D0Eb6MbqHWxZolKS_1blTE27vKgmAt3uMsgTSJnUAXS8XyhYRSAJycf8dI32cNkoeFXB1h1eFPGj7KHh4w6svs3n4LFyNbiSd5bPPJjmpdjXF7nzkeQi2M8uitPURS6aAxoXCX4vE47Rg9YRcGPW6gtnY6OhEz-tm0UR25U-hOFGkElOBHHgdGEc9eHrn1gPhuEd5El2CXMARoKHpPFURs_Yd-Qscc-wPhrTwDdjF3m17Q3hxggmhgSOkHxhEEVqvnGGlCPc8Bj3PxH5SHoEDERq3aWGGp4G2CgKw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/VOm5Kw0bwOlGJpvgMTcyyAf6W4wTVPBYVIBbPtg2MSNpQJm1vnNb9sTUaJDrKYTGZAbDmXDDj2nLJsZrRLTS_hPH1ynsFGvikusL30edCoq2JZVi7XBHI8KG2KXG3QtoMJD_D7OFGJWUUduBTxMzwDFZJRXph0lYZaVcikjmtCZg7zY66pvjS6Vu3e-rbfPaPd1-yP9dU6X9dt7K6nQRN9MmnjOd-0YB02m1SUeP8ph5aOpy2Sf-aiLQTJqucoNI-cDby-VTGhkEHy279ZnIATcKng6_j5aa89oqV1SketfXpcOEHvrhH7ty8nuCTyDgsVlHp8JRnWwSfHV4pW7pIA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QNmC71kfzBoz1nxOZt7wR_0naSfJPxT6GEU_TLsotR95BwXP5PHHVPk4G6_rr62_GHiGwjn2d4rMzx3Jx-utnHr-N1bBT4XujisvANcp_n1sTEynS6cYX3eBLgecPLJ1a74QbKYNCqRc31pUHED1q-2qJAbI3oZbY_Bsaa_1bdHC70e5vHJ4vsKSDX_7c2JzTIp96SfJJ5d8IC6KxfEX7JtVEvqZsQp5LqpjrpmUB9hoRV3ntikTN3TJ5V55aGIA1Ibd8RE9z6cobezMQMfrliMdgt13Qq201NHZlAIFpm9O_8d1Zh5u7QCaFUJjXl2lGsDT0SNdBrrFWzEM2FREbw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790165406763,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Funeral procession for Ayatollah Shobeiri Zanjani in Iran’s QomThe funeral procession for Ayatollah Seyyed Mousa Shobeiri Zanjani was held in Qom on Wednesday, September 23, 2026, with the participation of large crowds of people, scholars, and his students. His remains were laid to rest near the shr...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/TJXbGC6ZqFwgBMD1lBfBdUD6GGvES0sJCdVGEQ0zLeTZ_wJGtFf14aU50_X82C8mcPqKSQEWhswrqVS3A7jJD4AlZ7N-zvHmsVapRa2Pxf4QoUxHcBqnSbN704JAYH2WDPQ-ZMm0Xqz88hncXUFCs3s7yXiVDWv8CMIh0O80sVT5R5Anpcbjgc3Wd4H12m9nSFUl4Hi5QkkK7wcMvWt6Ak-Wmh5g2U_kFf9mccUBV7Te5AeYbpQ1WNc4Xy6xS2UqjQI7ZJTw7a0RXxbPV9IXtYrfrhuTkpIjV9jfx8MxPV4H8jrsYvYan31Q-8aas3ZJKOGnbGqZkQ9eOLSPSCarMQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TTR65iuXrAqO5LpApuKyS5gbyNesLVwpKEExGRA--UxJ_qgI3FU7JPQRE1-bCmhPB6A1gEJTQh_KxkekRABLCcF1LrjmsqSzWLEPU39rmaxUUxfmaRyLu4N3RFmBI6d9yIxT9tpPeMNWxIaltITlAKjT_fHMAn2Fo_XZszm_Vpszgyrd0Tq8TLXujxKL0YAOSwSRedpGuB0nTxWuZ_I_NIajhWZuY1eOJmkkllzm2rZaxN2d98vqa5uO-CN4OlTaqB0Z9kUE_r7fDvTHbPbFPKjVfti-f9UZe40GuHCWWzgXJBFq1DhZn3hn956EewLtpj8fInUG6P7Vm4DMIFAoYw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/adhPvUVLPxuDmj21z3ekHfDctaxfvaFGXcq0XLp9eSy6J44goJ8BV42bbee_jBHAN6KRY-AyZxsrKvyBKgh5nzpMTO-eB-DzHqyhc63p_j1yGr0zC8E0iTFyxAGx5makCjIhcQzPH7GFGDhocsRDorGkHr2-WJx5I6WHtQZspT6b8kYpPg9bI-YpEp4-mZl6LY2LO0C0qoZCuMf-t_uGrZuSQ4fBHAlxaA2iClRI4TvEqtGooBZxlOJHeEi1DEfIEH02QWkm8TWp_v4K2KcsiChKJCVEaEMXgChiTPloWoYzYZasf7BfOAFba3nVQUw3EpJnqUAArzvMjbNxXRh5FA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qLKHaUOGtT1fqASNFQligHHXpkHziXqIr8ka9fNZnKPdd9JZciwHQANuGHzExZLOgjrBR1H_FNvdNsFfkexMoPdo4EgOkgWtwXcGNHcGTZHm2Z2CkrjCxSyxRYftDqjevvJGrYLnb9Q8P3GTjxq7NTfeFn7yp2G5GmRYiATgkhG5zcZRGxZYkJQE9GUnoJZG7WsuAtlSjZUuVJGJUz-4bVMAlksHV1QbnMjfozJeAQ8scGHdHPfiWiJOSsEVvOYB66shYpos2wJp249Yu-fyhTTfzqi2jsYQVQ-Gp5_18CaEI1a0AvZKUKZr49r-5cq_2MV-mT17YwKh6aua7e1pFg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Dygz1DwiK9wtv4cFN7Fm3Vpj6jmuE_efN-OEC_0nDdXxpMhQGe7lQHQ1jt9N2s5uF4wVyhMn-4cY8UdBDLzMoZulP-HZ9ceK3GN_hjtBc5cbhKj1_7RNt7_M-cSKiQ2M73QU6Os0ue6BBqBgwkBzSxIfeAk7fWUhIVFFu9XbJYTbF_5xA92lEmQdnCSxoEIEXa8lCl_aaMeM_hF6DMxVQfpl-97jjYaMB8nVdoZ-UdYrdTlAo7XAIC4zd8OowaY_cAooD_IuzF_W1uFiEf3tLaCs1vRcNRZ8sSj_6L0_ICu8UWQmbZ_1xLhYOX-E7Df69zAHpn2ZU99dYzpZtvuDPQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/PcsviFaXGa8z4uOb9T-rqD0F-lUWYquymMAsBNyqvuLI_Y2AqR6m_k1IRT6XqmOJQElnCfPLfO5r2oYE3Bg3ct57hds4MeI5uX4O5b_OV9HeHz_NlgVYkAdn-2vW20nr5rL1tZlXpXUAsTfpOlf1xHeH3J0rT9DNDKA76fm1t66bMI7I13cVnBF75xVNnxPrr0vlVUZtKKBQlRgDvFJdMHa6mO9SQ5n2TJaPDt9Ugu8GBPznS0lBzdlQqTfm03Ku6JeijeRV9srQjhUI9Nc9zKuvD-EX2tQZ44R2nYVDYEg--fhClyBSxu2CkKT2m3V-sQ7gFbM8siVlKz6EOhPEPQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UZGQpmNGrMRPROjSuKI6ZMrZymzXF6mwPr8rXjdhUAVpiLN26YM4heEBkOsIMetDRZJxbtehDoJEjeMO_huNHFYPyj4CcIHBQpfNEWrlnf8JhVnsASZhi7hSfqxbHkcOOHKDM0yfWaWUK9gr2wRK-rTkhjGI1U1HE7-kDY-O-NLj7n87fpxtvOglnHkuy8PYRnRqPjSu-uV6HXGoLAHABZLs9yibscCz1qq9FWS_jAqkMBiJP94Oo8wpixqtj3CvdjuVTKlWy3WmsJjWy62E4pW_CUc9QSrOMahqR3be7HpSgQaXbV6EIY4zNRLBQuNLmtH4XToSwwrhjETDwCH8FA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/lBX-0XOiVguAZt9UKkdtJXq7mQKlTalHWJzmvWjIhWjP9WxASqujXmxbOClTRl0OLkOJaOJZq8lHQ-rMTYVnOs4Br5Owv6-gCMdmVvT4w2w0RsdUZhQNbzG_S8WgQgMN7A01uKp3ACpeuHHa_VFyeQOMZ8jiwd8vOpx1BSQHu3RgfqDvvwcQJl20VLkdUX_6macNJiBsGWMZSvZwWf-uTlUYRDknnHZUhB0exMWjDCTaFUKwQA-EWaozfA3ZeRnu2_nQCf2gMxyvIuStBHx4Z_O2iaEeOdORwsrWOcN81r58r6ASELNNutFzltfRx79I6ffW7gWK9bKK7wOKuq7yag.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RrHcD9vaqEsGJ9buKsfvsDb1j2Ocjvo0GE1lKNuNqwuXMnWR9LUTFlLqJg18m5CMxEAB0H1rQCJ6LOjmpDxFpu0bgNz9XiGvAjmSftC6thez_jr71m28k-Y51Q3kuAlLR94Fm3BXYoAzDatRSFh_aUUwYpdofeOtq7Zl8HbVFkLxhcXp-jwIGY89BRo6AviGrJGQLfGI4fWbYhL6fQVU0xyYSMPxzNbRllPyYfpiz1d-WtOosWLo4Y7SnwaNnoo3XPfkSoovUU2W0LvhGePUa4mWBOx6Xpaf9eiOyXCxlquRIcQs1BoetblvxegFmwc_NmN7KvWrkt0jDDZ2h_ao3w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a0ppaWsbpsREA7VrGktm5dET_2j4KS5Pb2KC9I11SuWX0aCmMdqK2Qy_XxzKUTZD77Dh-0IG5lNr2-3gwqsUcHDixwwd7otmW2NRuKw3GZRyL7tBe-HU1GsM23NeZ7K8P7EykSiZM1zCRI0S9khLWKqpUJqWlcZnVwIEGITshAmOCLop1um0wp_0UHnEF1NSWx2MC5tlj8Qb9jX1vXd2xwifvx89eulamLTg-cZvFnQaohSLeY3ZwjpPpQAfPjvV1ge1g6RejG5_zk1uTzs_VMoUBPUqO3oqI5lEIPdsFz9IdVvNv-TSv1fzoiFUAGI1WZFIPGYzvorYNwluGN1dEA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

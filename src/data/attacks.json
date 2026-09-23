@@ -131462,6 +131462,38 @@
     ]
   },
   {
+    "id": 481366242,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Lebanon, Israel: LebanonHead Loyalty Resistance Bloc Mohammad Raad",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHead of the Loyalty to the Resistance Bloc, MP Mohammad Raad: – Hezbollah remained steadfast for four months in Ali Al-Taher despite the siege being imposed by air and land, and despite being subjected to tons of explosives, shells, and airstrikes.– The Islamic Resistance wrote an epic of martyrdom under the most difficult and sensitive circumstances in confronting the aggression.– There was an expectation that the Resistance would surrender, but the enemy, its collaborators, and the aut",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481278767,
     "type": "missile",
     "status": "confirmed",
