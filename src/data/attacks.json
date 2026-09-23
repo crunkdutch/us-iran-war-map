@@ -131927,6 +131927,81 @@
     "media": []
   },
   {
+    "id": 481359221,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Five missiles were launched toward Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Five missiles were launched toward the Strait of Hormuz.🔻@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Wmfff32zpKo0wNVDZh5OAxVyjGpPEQ5Y0aCeOz3YyBMWmoYAQrz5BVOkS7ndpolkCKyKVEmWWP3X2aujH0JF789wWnrS51oYcoICvgiIBD5RGuHAX-B1lbxAA6S7htz91X-pCGyDbBROi8fM5lHsPjRKSpr4lGyCnLcsl8qV3BVzuRPJdjZXnq5aJSi76eeTmreOtp6UMY6TrcuXx-h-EuSrpRUTQsEeuzlRh5t8UzBR4B5LB-K2DNpCm2aj2Jh59N-N_KrSFKv2gJ8C96INse6--iYLBQCq4lQzGMd2c80zDZefzKwlYjZOVyawFM92gUqtxCt2KU1Idh1X7-sKGQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481362731,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Minab, Hormozgan: USdestroyed Minab school fully equipped with",
+    "location": "Tehran, Minab, Hormozgan, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 US-destroyed Minab school to be fully equipped with smart technology: Iran📌 Tehran, IRNA – Deputy President for Science, Technology, and Knowledge-Based Economy Hossein Afshin says Shajareh Tayyebeh School in Minab, Hormozgan Province, will be fully equipped with smart technology.Speaking to reporters on Wednesday on the sidelines of the opening ceremony of the newly rebuilt school, Afshin said President Masoud Pezeshkian wanted to attend the ceremony in person but was unable to do so due to",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/39755",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vgwevpHeaOIlCkq-n7-LUheU8sUu8njlrhRLTjPrblXiwGCcmvGvKMV0Km2g8Gdf-viH0iPKTDtyHW0I0hNye_gX-WN3YIuio4uRJDyKZaVAx2C9jObs0egHP4kv6zjRrCqVZ3th-0HI-gdleQuv8pyBasG8_QLB0wSguv7rGfEc4momczFS9JlBEP35RT9HpXsu3NjmXZtu0CRroDt-iXPRWVnd6o3DqaP2QohP9PoBiVODFG0_S3oqvw7Tnnlnqufel5Wzr7RavZRZKwjWpmYYy1DaTZbUlXpVf5ghOzzXxtX48yiGAsT0rWoUf4sKCIBNhX8hp270sFE0rDRMbw"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

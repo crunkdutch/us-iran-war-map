@@ -177713,6 +177713,21 @@
     "verified": false
   },
   {
+    "id": 1790158163331,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-09-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps: At 02:29 a.m. today, the 52nd MQ-9 drone belonging to the terrorist U.S. army was intercepted and destroyed by fire from the modern and advanced defense system of the Islamic Revolutionary Guard Corps Aerospace Force in the skies over Qeshm Island....",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789616760996,
     "type": "intercept",
     "location": "Tel Aviv",
@@ -180402,6 +180417,71 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 | Regional developments | September 23, 2026 (-ve) developments🇾🇪 YemenSaudi missile attacks targeted Maran, Haydan, and Al-Dhahir in western Saada Governorate. Saudi aggression also targeted Taiz Governorate, while Saudi artillery shelling struck several areas of Monabbih District in Saada. Mi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790158122495,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Five missiles were launched toward the Strait of Hormuz.🔻@enemywatch+",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Wmfff32zpKo0wNVDZh5OAxVyjGpPEQ5Y0aCeOz3YyBMWmoYAQrz5BVOkS7ndpolkCKyKVEmWWP3X2aujH0JF789wWnrS51oYcoICvgiIBD5RGuHAX-B1lbxAA6S7htz91X-pCGyDbBROi8fM5lHsPjRKSpr4lGyCnLcsl8qV3BVzuRPJdjZXnq5aJSi76eeTmreOtp6UMY6TrcuXx-h-EuSrpRUTQsEeuzlRh5t8UzBR4B5LB-K2DNpCm2aj2Jh59N-N_KrSFKv2gJ8C96INse6--iYLBQCq4lQzGMd2c80zDZefzKwlYjZOVyawFM92gUqtxCt2KU1Idh1X7-sKGQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790158176845,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🏴| The final journey of Grand Ayatollah Sayyid Mousa Shubairi Zanjani (r) in the holy city of Qom:Thousands have gathered in the holy city of Qom to bid farewell to Grand Ayatollah Sayyid Mousa Shubairi Zanjani (r) during his final funeral procession. His blessed body will be laid to rest at t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790158162426,
+    "type": "airstrike",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📕 | The Grand Maraji of Qom and the changing generation of senior Shia scholars:Despite their immense importance, many scholars, academics, researchers, and observers outside the Shia world have limited awareness of the institution of the Grand Maraji, their religious authority, and the significant...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790158132020,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 US-destroyed Minab school to be fully equipped with smart technology: Iran📌 Tehran, IRNA – Deputy President for Science, Technology, and Knowledge-Based Economy Hossein Afshin says Shajareh Tayyebeh School in Minab, Hormozgan Province, will be fully equipped with smart technology.Speaking to rep...",
     "media": [],
     "verified": false
   },
