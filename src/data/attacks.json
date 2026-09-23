@@ -131555,7 +131555,13 @@
     "description": "🛎️ | Regional developments | September 22, 2026 (-ve) 🇾🇪 Yemen Saudi airstrikes targeted several areas of Yemen. Saudi aircraft bombed the Al-Thawra Akboush School in Al-Ahkum District, carried out an airstrike on the Makhadra area in Al-Akawish, and conducted…",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62434",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fBctwWspE2aJBUdGvprTuKzsitEQwO_0QEUp6b0Ts3Fg2p2PO_Ari6t3OjREpgUPw_54DP7UEhTAKkNlpqubNwqs23HzlPZ0Y3hwi0Eb8OyrsGO57uFJRTu8cM3GWC0LZ1evU0IwNPWTaP9qVStsSJB5v6qupeWjAdu7LLkORVGHZBc2TNzYDiHpQtG-NgDmLwSZnTmfunF9dmwZ_Sf5vGq0Ogg5VMSoTt6dtUCEMYbE6cicvKVocYEAOoBxuvsM1wqDQMIwSjcerCPzGLNHoxKGc8GLG-nHFdTbcYWQheXZ5tPtAwo86DvgcdxkkbAEK9lZT0xJXLX33AXlGZWxGA"
+      }
+    ]
   },
   {
     "id": 481310186,
@@ -131713,6 +131719,75 @@
       "other": 0
     },
     "description": "📍 | Such an incident has never happened before&#33;&#33;The entire approach of Masoud Pezeshkian’s government can be summed up in this photo.Contrary to some reports, during Trump’s speech, a member of Iran’s diplomatic team was present at Iran’s Permanent Mission and listened to the insulting remarks of the killer of the martyred Leader of the Revolution. Such an incident has never happened before. Almost simultaneously with Trump’s insulting speech at the United Nations, the Iranian and Ameri",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481338182,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Damascus, Syria, Israel: Saying Israel also doing things does",
+    "location": "Damascus, Syria, Israel",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Saying “Israel is also doing bad things does not by itself prove that Iran was good for Syria\", but the claim, that Iran and Assad simply destroyed Syria, is equally incomplete and ignores the actual circumstances of the war. Iran did not enter Syria in a vacuum or create the Syrian war from nothing. It intervened as an ally of the Syrian government when the country was facing an armed insurgency involving numerous CIA-Mossad plotted factions, including organized Takfiri terrorist groups such ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/COxnlt8sB6_y1NrCUAyLa6dOnN3fu2AYiIp_gtlN75bjHxf2Or3gjJKoKw-zUkafeYeb6sbWM-Xny9S2BM-cvxgPhG1qZPKslJgeF5C3KDeDdR7wANCSaogcijGEk8xigp1Yu9DqlhRGKgb108am7K9LEsgsHr1OvvSyQmqb_DpQ6BJYJmzJwiy0AZExtmwDnEsP41oH48Jy0-wjD_jL1rosGPP-KGk9mCRs9ZR4_wTO10I33dCqGaNoWqLfpBg4mWkzY5l80gw9719EHr5wx1X-vW42Ozs6igJcFwtE10bqjW8OPj4h2B_MBz1h6D3QD6qyZAI5SkI9z5GxFYF-aw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481341686,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz, Qatar: Iran conveyed conditions Qatarmediated York meeting",
+    "location": "Strait of Hormuz, Qatar",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran conveyed conditions to US in Qatar-mediated New York meeting: Baqaei📌 New York, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says a meeting between Iranian and American representatives in New York was held through Qatari mediation, during which Iran clearly conveyed its conditions for the resumption of diplomacy to the US side.“The interaction that took place was through Qatari mediation. In fact, the Iranian delegation conveyed its views and conditions to the American side very ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
