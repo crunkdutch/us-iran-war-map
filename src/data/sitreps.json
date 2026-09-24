@@ -177489,6 +177489,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/GEr4onAmVSQWwuvXcZiY_hG015U_-VaIsZpJE7v9pt3-W_OMqUWMVdcwwrCa20-vQ2PQetZklfkm8wVm29_9qBpgxD-mRIGkfVbbiWhoMp2C2OLTTqhjMIL_XXfAidOgPMc7VSmOMqL7slMknwX29qzFQwUwTyG3OXILFjKgfdTe57WCW-AIuGhmU5q_d6C9XCNi-wlz9MNZjCYRbLTwIJ0ojnRml0s_Qm2g3IQUMLId6RxIwNafN9tHXGdXCOP2Sa_ZHzhAQQWSjFaDBrtxQxnTmuHlvfwhlMKEwE_om15476dvHhcmzOLHkdnjW73mmbGeyyJIg16BDlFd8MOBPQ.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/l9eTtwBmtDFiIPRlRxcv6Z-zTw-O9zKFQmfITiOhAXc90GGuefpJnEcYh11qZwOLRC-VnS2L65Z62w1kU-cCjVv0wl7WNjdtfmf4RTwkD87SMDpzUShqku5wjVYBzvMmHWIdTN8f7f27Iq2oyLe9HA4-JMeuCwa5ydF0xzzvCHE6g8pQOoVe5UByilViVeqbmPQI0mLOY_pE2wElInWYDjr44jQ2T5y-KWQRDEfi3jGSASUiRjops32oeIoZ_GCj80CKxztqIGJLw8SaiSrYBCyog56tL9PB-FUpf1dV7_3o0VjYYu0M-FMat9vyLIh2SpfbxBiw2YrtUAzvicvx5g.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -181304,6 +181308,26 @@
     "verified": false
   },
   {
+    "id": 1790280845961,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: A photo of the table of the Iranian delegation during Netanyahu’s speech at the United Nations.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/p4wu_s8KqvQbZdIFfH2FAkKJRsuzBSocXvVtrwDIbB6RL3EDQtAzj45D_NCEQc-F1f9nl5h5SK6IFWlwV4PHNqtvW7NxlOINbNGd9m9iEmU5dro366rtYPGn_DVgFak5ecWHFfQNC2KRCn2EXVkQ8ETivUdOSPYPYD6iG_WqG0V6U_E72O3GVqWeMVvdjbRXX2yQXIIOvCzjXSasmau7qu6NB8pls77jKKV5Dms24cpm1K9srpdDye9FIt-8geg4kzd_VIfiBx1-CYTTwPfNaV4JFek1gAVkyk063drFFIrEw_nHPNs-Lrc7C-H_qAIihmWj--6KuJYm0pj1hy-ojA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790223126378,
     "type": "intercept",
     "location": "Tehran",
@@ -181416,6 +181440,36 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | IRGC Intelligence Organization: Initiatives by Iran’s armed forces have changed the battlefield equation:1. The resistance and courage of Iranians, along with the intelligent use of geography, have brought the costly and low-effect combat patterns of the US military to a dead end on the one h...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790280865358,
+    "type": "drone",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-09-24",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:The criminal Saudi enemy continues its criminal aggression against our people through its unjust siege and the launching of aggressive airstrikes, which, since the start of the escalation until this evening, have reached 1,018 airstrikes and missiles using F-15 and Ty...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790280910841,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Ghalibaf takes swipe at US economic woes as Treasury yields hit 10-year highs📌 Tehran, IRNA — Iran’s Parliament Speaker Mohammad Bagher Ghalibaf has taken aim at rising US borrowing costs and fuel-price pressures referring to the 10-year US Treasury yield reaching 5.1 percent.“Happy 5.1% 10Y Ame...",
     "media": [],
     "verified": false
   },
