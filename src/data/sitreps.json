@@ -180971,6 +180971,41 @@
     "verified": false
   },
   {
+    "id": 1790237586483,
+    "type": "airstrike",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "#SouthernSyria | #Damascus: Syrian Refugee Returning from Germany killed Syrian Doctor in Damascus, Sources Say Motive Was SectarianDr. Mahdi Sanduq was shot today, Wednesday, September 23, 2026, by a Syrian refugee who had returned from Germany, in the Jaddah al-Khamseh area of the Muhajireen distr...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/h8hu5srFD1S4FT25-OYJlBPhpqwXSnvsdKEU2NfdDZNJXx1YwbfYIhqnZNlfFwhPwx2FgAZD6ne1F-A8GCTMEpXy344p8mz_td_Nex9aoJq1VBt-ZY6gn0_ZFprWWRqLg9jks0WuQYd7mqtCvHIQPNrXe0Xk9NseuJW2NSg3pkgrERsvIWfDfrGAA32GqlMXl_HAyqbG3Ld2H930TWDMVaMGaZloQSRkyUXvy6wUXGY0-onesMxCcGJ9sNAmh2xZpPe_JlnAQ8YbL74kISTsqGGIg6duyQ8GsTQ0vCyfeVW5-PgEbZyyubRyZCGMDVZzWy6z_7q40E-Vqcu0n6gNaw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790237517338,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | A 5.6-magnitude earthquake struck southern Turkey and northern Syria a short while ago.📣@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790223126378,
     "type": "intercept",
     "location": "Tehran",
