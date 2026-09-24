@@ -180971,6 +180971,36 @@
     "verified": false
   },
   {
+    "id": 1790223126378,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | September 24, 2026 (+ve) developments🇾🇪 Yemen ❌ 🇸🇦 Saudi Arabia- Yemeni forces continued their large-scale offensive on the Taiz front, advancing on the Ahqum front toward Hijjah Al-Abd and Al-Maqatrah amid heavy fighting. Battles reached the town of Al-Turbah, and the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790223130199,
+    "type": "drone",
+    "location": "Haifa",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "date": "2026-09-24",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | September 24, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 Yemen- Saudi warplanes launched around 15 airstrikes on Hodeidah Governorate, targeting communications towers in Al-Marawi’ah and Al-Qutay’, as well as the Bajil Radio building. Saudi aircraft also carried out a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

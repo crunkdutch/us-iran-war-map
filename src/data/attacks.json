@@ -132419,6 +132419,107 @@
     "media": []
   },
   {
+    "id": 481408452,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Iraq: IraqiResistance Head Executive Council Harakat AlNujaba",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Head of the Executive Council of Harakat Al-Nujaba Sheikh Nazem Al-Saeedi:We declare our absolute rejection of Iraq's involvement in the tyrannical decision of the criminal Trump regarding the blockade on the Shia of Ali ibn Abi Talib (A). We also reject compliance with directives issued at airports to prevent visitors coming to visit the holy shrines. Responding to the Zionist-American enemy and submitting to its dictates completely contradicts Iraq's claim of sovereig",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/j2-s-dbiayrIgLX0u7eunvYRLqKg8qdDhaAPnG8MF0ieLR5xVyG0WHEagEzXvO_NmA4cK3hYSJaSO3LGGt4s-CufG-HR78xE-yX7r1IAkBrOj-C9u_-Xv4iOG5r6A46-mOX584f8gTnQ8uVcwz4QAGYtjiADQ6r88Pgjj_hwu3okOVn4EnQfDsVGkpSb_JB5H9ShGoAVZwfJ_xuWSwgpIMU4gqSEkra9awrpfH25Zk7SsmlBy_FbhesBqm0nuW6nklcMeIhTYRfrHvmJSRTtbMW2u00y9Fs8hgxgUzPN59bHVFYTBYExGcJHjtUsAwtMM2DtvSwAKrDsLaFq0HU8QQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481411976,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Bandar Abbas, Sirik: Regional developments September 2026 developments Yemen",
+    "location": "Tehran, Bandar Abbas, Sirik, Aden, Jeddah, Strait of Hormuz, Yemen, Oman, Saudi Arabia, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | September 24, 2026 (+ve) developments🇾🇪 Yemen ❌ 🇸🇦 Saudi Arabia- Yemeni forces continued their large-scale offensive on the Taiz front, advancing on the Ahqum front toward Hijjah Al-Abd and Al-Maqatrah amid heavy fighting. Battles reached the town of Al-Turbah, and the Taiz–Aden road became practically unusable due to the fighting. Yemeni forces advanced from Hifan toward Al-Maqatrah, placing the final supply route between Aden and Taiz under direct fire while expa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481415501,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Haifa, Hodeidah, Lebanon: Regional developments September 2026 developments Saudi",
+    "location": "Haifa, Hodeidah, Lebanon, Syria, Yemen, UAE, Saudi Arabia, Israel",
+    "coordinates": [
+      32.794,
+      34.9896
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | September 24, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 Yemen- Saudi warplanes launched around 15 airstrikes on Hodeidah Governorate, targeting communications towers in Al-Marawi’ah and Al-Qutay’, as well as the Bajil Radio building. Saudi aircraft also carried out airstrikes across Hodeidah and Taiz, including an airstrike on Maqbanah District in Taiz Governorate and renewed strikes on Al-Wazi’iyah.- Saudi missile and artillery attacks continued across Saada Gov",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
