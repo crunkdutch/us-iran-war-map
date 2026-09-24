@@ -180496,6 +180496,36 @@
     "verified": false
   },
   {
+    "id": 1790252029550,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Netanyahu’s speech at the United Nations will focus on the Iranian issue, as he will work to lay the groundwork for the next battle.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790251981403,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio:The \"Israeli\" army has significantly reduced the size of its combat forces in the security zone in southern Lebanon in recent days: the number of brigades in the sector has decreased from 8 to 6, and many reserve forces have been released.Four brigades have lef...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790150918222,
     "type": "drone",
     "location": "Tehran",
@@ -181049,6 +181079,47 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790252052093,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷🇹🇯🇦🇿🇹🇲| A Varesh Airlines flight from Tehran to Dushanbe, capital of Tajikistan, had to return to IKA Airport in Tehran after neighbouring countries between Iran and Tajikistan had denied passage of this Iranian passenger plane.The Iranian plane then attempted to use an alternative route a...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/deaf17f8f8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GXjh_5EzaCBCnl9v8Xli3ypkmvAR6TDFXN-ARpcf1-D0kcwpXKZ7KbASbT8aRt4eBMU0g0zoV5YOGz2-P_cLL-SCN07ZZ35kW37Ra3G2LL3bRBI6fdFoOTPzQKeGdnDF8P6hpUE3dtPwmXLiBgCh9l_DVh8jnDktCD5_7tNvbJLLdmifG3dNQNipDs1JOtthNChypyWD4F8KAi0O9o1Xt5lyu3iUlZO5ymGCDL2T_Uw0qYlSWKRzK7gIGNEAhW7bPHPNbsR5pkGUUo1Gke4R5-1LqWqIvaL7-CCHYznT4hTq37fXYxtjszwcyBBQe1GqUskiJkeddkWy8zJkwe1b6Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62500",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GXjh_5EzaCBCnl9v8Xli3ypkmvAR6TDFXN-ARpcf1-D0kcwpXKZ7KbASbT8aRt4eBMU0g0zoV5YOGz2-P_cLL-SCN07ZZ35kW37Ra3G2LL3bRBI6fdFoOTPzQKeGdnDF8P6hpUE3dtPwmXLiBgCh9l_DVh8jnDktCD5_7tNvbJLLdmifG3dNQNipDs1JOtthNChypyWD4F8KAi0O9o1Xt5lyu3iUlZO5ymGCDL2T_Uw0qYlSWKRzK7gIGNEAhW7bPHPNbsR5pkGUUo1Gke4R5-1LqWqIvaL7-CCHYznT4hTq37fXYxtjszwcyBBQe1GqUskiJkeddkWy8zJkwe1b6Q"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790251961526,
+    "type": "missile",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-09-23",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Developments on the Taiz-Aden line:AnsarAllah reportedly launched an overnight attack toward Al-Ashbut, with the stated objective of capturing the Hayjat al-Abd highway and disrupting a major supply route to the PLC in Taiz. The clashes were accompanied by artillery fire and Saudi airs...",
+    "media": [],
     "verified": false
   },
   {

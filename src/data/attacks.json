@@ -131991,6 +131991,38 @@
     "media": []
   },
   {
+    "id": 481426082,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Strait of Hormuz, Persian Gulf, Red Sea: Islamic_RepublicAssistant Adviser CommanderinChief Armed For...",
+    "location": "Strait of Hormuz, Persian Gulf, Red Sea, Bab al-Mandab, Yemen, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicAssistant and Adviser to the Commander-in-Chief of the Armed Forces Major General Safavi: – The Strait of Hormuz will never return to what it was before.– The Islamic Republic of Iran will assume management of the Strait of Hormuz and fully control it.– We and Oman reached a mechanism for managing the Strait of Hormuz, but the Americans obstructed it.– Linking the Strait of Hormuz with the Bab Al-Mandab will change the course of the war.– For more than 100 years, the Yemenis hav",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481348697,
     "type": "airstrike",
     "status": "confirmed",
@@ -132502,6 +132534,38 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 481422554,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Yemen, Port Said: Developments TaizAden lineAnsarAllah reportedly launched ove...",
+    "location": "Aden, Yemen, Port Said",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Developments on the Taiz-Aden line:AnsarAllah reportedly launched an overnight attack toward Al-Ashbut, with the stated objective of capturing the Hayjat al-Abd highway and disrupting a major supply route to the PLC in Taiz. The clashes were accompanied by artillery fire and Saudi airstrikes. One report said the PLC’s 4th Mountain Infantry Brigade, alongside Yemeni and Saudi-backed air forces, managed to repel the advance, while the highway was reportedly disrupted for several hour",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 481411976,
