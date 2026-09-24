@@ -132802,6 +132802,113 @@
     "media": []
   },
   {
+    "id": 481447271,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni Armed ForcesWithin framework aggression being",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:Within the framework of the aggression being waged by the Saudi enemy against our country, and amid the escalation of the missile aggression against the border areas in Saada and Hajjah governorates, with more than 200 missiles launched from Jizan, and as the Yemeni Armed Forces monitored large mobilizations belonging to the Saudi enemy with the aim of escalating the situation in the border areas,the Yemeni Armed Forces, with the help of God Almighty, carried out ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481450806,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Yemen, Iraq: IraqiResistance Statement Kataib HezbollahIn name Most",
+    "location": "Yemen, Iraq",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Statement by Kataib Hezbollah:In the name of God, the Most Gracious, the Most Merciful“They resented them only because they believed in God, the Almighty, the Praiseworthy.”What the believing Iranian people are being subjected to through the imposition of the unjust American blockade is a historical extension of the ordeal of the Muslims in the Valley of Abu Talib, when they spoke the truth in the face of the most powerful tyrants on earth among the disbelievers of Qura",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481454342,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Caspian Sea: Araghchi pursues Caspian vessel attack Ukraine",
+    "location": "Tehran, Caspian Sea",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Araghchi pursues Caspian Sea vessel attack in Ukraine FM meeting📌 Tehran, IRNA — Foreign Minister Abbas Araghchi has met with his Ukrainian counterpart to address a Ukrainian attack on an Iranian vessel in the Caspian Sea, as well as bilateral relations and broader security developments across Europe and West Asia.During the September 24th meetings, Aaghchi and Andrii Sybiha stressed the importance of diplomacy in managing tensions. Today’s meeting comes after a July 2026 phone conversation ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/deaf17f8f8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GXjh_5EzaCBCnl9v8Xli3ypkmvAR6TDFXN-ARpcf1-D0kcwpXKZ7KbASbT8aRt4eBMU0g0zoV5YOGz2-P_cLL-SCN07ZZ35kW37Ra3G2LL3bRBI6fdFoOTPzQKeGdnDF8P6hpUE3dtPwmXLiBgCh9l_DVh8jnDktCD5_7tNvbJLLdmifG3dNQNipDs1JOtthNChypyWD4F8KAi0O9o1Xt5lyu3iUlZO5ymGCDL2T_Uw0qYlSWKRzK7gIGNEAhW7bPHPNbsR5pkGUUo1Gke4R5-1LqWqIvaL7-CCHYznT4hTq37fXYxtjszwcyBBQe1GqUskiJkeddkWy8zJkwe1b6Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62500",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GXjh_5EzaCBCnl9v8Xli3ypkmvAR6TDFXN-ARpcf1-D0kcwpXKZ7KbASbT8aRt4eBMU0g0zoV5YOGz2-P_cLL-SCN07ZZ35kW37Ra3G2LL3bRBI6fdFoOTPzQKeGdnDF8P6hpUE3dtPwmXLiBgCh9l_DVh8jnDktCD5_7tNvbJLLdmifG3dNQNipDs1JOtthNChypyWD4F8KAi0O9o1Xt5lyu3iUlZO5ymGCDL2T_Uw0qYlSWKRzK7gIGNEAhW7bPHPNbsR5pkGUUo1Gke4R5-1LqWqIvaL7-CCHYznT4hTq37fXYxtjszwcyBBQe1GqUskiJkeddkWy8zJkwe1b6Q"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

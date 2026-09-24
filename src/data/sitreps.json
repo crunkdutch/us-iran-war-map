@@ -181292,6 +181292,36 @@
     "verified": false
   },
   {
+    "id": 1790266443713,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-24",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:Within the framework of the aggression being waged by the Saudi enemy against our country, and amid the escalation of the missile aggression against the border areas in Saada and Hajjah governorates, with more than 200 missiles launched from Jizan, and as the Yemeni A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790266487548,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-24",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenStatement issued by the Yemeni Armed Forces:In the Name of Allah, the Most Compassionate, the Most MercifulAllah Almighty says:{So whoever transgresses against you, then transgress against him in the same manner that he has transgressed against you.} Allah Almighty is Truthful As part of the a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
