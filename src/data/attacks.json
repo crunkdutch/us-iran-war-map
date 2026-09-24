@@ -132738,6 +132738,70 @@
     "media": []
   },
   {
+    "id": 481461417,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel, Gaza Strip: Enemy_MediaIsraeli media Israeli soldiers were killed",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: Two \"Israeli\" soldiers were killed accidentally due to the explosion of an \"Israeli\" army drone in the Gaza Strip.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481464956,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Jordan: Islamic_RepublicIslamic Revolutionary Guard Corps Intelligen...",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Intelligence:– The resistance and courage of the Iranians, along with the intelligent use of geography, have, on the one hand, brought the costly and limited-effectiveness patterns of American warfare to a dead end, while on the other hand leading to the evacuation and disruption of the U.S. Central Command (CENTCOM) command bases, the relocation of forces to Jordan based on the assumption of a “secure depth”, while inflicting losses on them, wi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481411976,
     "type": "intercept",
     "status": "confirmed",
@@ -132831,7 +132895,18 @@
     "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:Within the framework of the aggression being waged by the Saudi enemy against our country, and amid the escalation of the missile aggression against the border areas in Saada and Hajjah governorates, with more than 200 missiles launched from Jizan, and as the Yemeni Armed Forces monitored large mobilizations belonging to the Saudi enemy with the aim of escalating the situation in the border areas,the Yemeni Armed Forces, with the help of God Almighty, carried out ",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c6a96ab0f7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DMIyNSrqJNsahvWDVtaFUHQ05bRu7cKFsj8_lHKTFO3Enxk8fAX5aLVDy0ge7H86aU-49A_uKYW-6yICmNmnIglJdKkMf82MucxlxOHmaw933mQS5vQvZkKviD_YInjyjNS_hdxyUUvywPu3s-OR8bOkzP53AL61Be_WKfznj0sEfO4gIoU8ZvafWpqZqbph1cfUCIRA057wBYFpUAggf3YN-RW7I36xFT4tT0uB9X5-m9_r5Rk3goBudAru-K3Zxs2QoifNNp6FgDpm7TE1UTq-y7qRP5tWzTBeda1XQHSXSYUs8BPkV6C2FzGN4UNYaM5P5MYAwiCbNSKBLZ9MYQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/62508",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DMIyNSrqJNsahvWDVtaFUHQ05bRu7cKFsj8_lHKTFO3Enxk8fAX5aLVDy0ge7H86aU-49A_uKYW-6yICmNmnIglJdKkMf82MucxlxOHmaw933mQS5vQvZkKviD_YInjyjNS_hdxyUUvywPu3s-OR8bOkzP53AL61Be_WKfznj0sEfO4gIoU8ZvafWpqZqbph1cfUCIRA057wBYFpUAggf3YN-RW7I36xFT4tT0uB9X5-m9_r5Rk3goBudAru-K3Zxs2QoifNNp6FgDpm7TE1UTq-y7qRP5tWzTBeda1XQHSXSYUs8BPkV6C2FzGN4UNYaM5P5MYAwiCbNSKBLZ9MYQ"
+      }
+    ]
   },
   {
     "id": 481450806,
@@ -132907,6 +132982,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/GXjh_5EzaCBCnl9v8Xli3ypkmvAR6TDFXN-ARpcf1-D0kcwpXKZ7KbASbT8aRt4eBMU0g0zoV5YOGz2-P_cLL-SCN07ZZ35kW37Ra3G2LL3bRBI6fdFoOTPzQKeGdnDF8P6hpUE3dtPwmXLiBgCh9l_DVh8jnDktCD5_7tNvbJLLdmifG3dNQNipDs1JOtthNChypyWD4F8KAi0O9o1Xt5lyu3iUlZO5ymGCDL2T_Uw0qYlSWKRzK7gIGNEAhW7bPHPNbsR5pkGUUo1Gke4R5-1LqWqIvaL7-CCHYznT4hTq37fXYxtjszwcyBBQe1GqUskiJkeddkWy8zJkwe1b6Q"
       }
     ]
+  },
+  {
+    "id": 481457879,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Jordan: IRGC Intelligence Organization Initiatives Irans armed",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Intelligence Organization: Initiatives by Iran’s armed forces have changed the battlefield equation:1. The resistance and courage of Iranians, along with the intelligent use of geography, have brought the costly and low-effect combat patterns of the US military to a dead end on the one hand. On the other hand, the evacuation and deactivation of CENTCOM bases, the transfer of forces to Jordan under the assumption of a “secure rear,” the imposition of casualties, the withdrawal of inte",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 477331196,

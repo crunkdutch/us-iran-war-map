@@ -177457,6 +177457,18 @@
       {
         "url": "https://cdn4.telesco.pe/file/YLN0UNiZ9s8YO58QVYEk69Jkh65t5XgsD3eZvMTmZ7dzIkE0aQqx1TVGaOaQojV2EDBHsD4nTB7VrQ_qUVrMP4xOKXUGt4uZGg_07Ax3rAaeY5bHfz-U4MKbTOBf9UfzUHtSJ0276h0Hh0dGEBLWjZL_7RVjoahhH4GySA4dMBcR6hj6DBXLyFKvH-uMhHRHIe65tZNGIAfJs4utOjd5z5U3Ae4de_rHvVcAY4f6vBXmjPf2MAHiogPglXSMmUsQRnY9_0iuqkoxvT7Bi_4VoUK-dwyaJx01EFeW8rVrYnVPATqXxa4XUg13j2uhLSGPbNG-TYH2ZZSs0DkHSosmWg.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/IACakCRu7ABBdWmRDnA8-8BmeQcyWNIztjyui9lVEawy7QCB_s2Vo-yjKzVnRnFmsKBDFg8TDFtr9YDhGiFqvwYx7UUmaZovkAE9X_if2NmVK4rdm0h7dqux1YaXa3pyR0-uSYvbzq4EVi7NkooTTw_X5_poQtgErwxGB1GVdRIVFQ_U0Aj8-kPFsn4-nKYmyI6fuaeJbTwOT4bTuZD7LmKld1DuGaYeeoEX8D-SeVRViUcU_vJsKxdEA7aHSy0Y1IycPwuBZwjIeGM9-eBs00p6iT0RgzX8_gByHElU8hUEd-cwcevMklefoIKLJMAYTJtboX6CVXK83X6cKoblyg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jdxpu58a-SlIT6E_j92Ch_Ja1m8Ialx_r4d7V6c1fkqVkkvbT2P6lfj6uK9BfcvKgDV_zlK1QRv_Rn90Q_TyJeScdspXjFvIR3E0s9-3Qw_nnNIr30HTHA8Mnd8nDWlZGRbuMvyU6oVYRZfLzfAuuY5wo3L9JdIzjGY9e2NFKMFuny8_RQJrQwhtRLqd_oTf4KeH2GaT89msiU7hOqIs_7irL0_iK59sqQK8i9BmPsbtkv_m9NXn_S0QtWqdIbX6Z9IJhK2pUVRqkOxTv6gW0Lu9dGf4zk-yFh5-Uz2oZIJu0MaiNIBzAy-G8XE54s8yc6pymkxnP48lLCg07b92Jw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/IQdzf7G4zfzOQ-wBkMBByVl3wHTaFDivfq4DOcOouGjyOJSuhgSYgSl5AJC3grjCy-w6VxSEm5IxogREZv6YcFejZsGgOK3SKjyn4FoYYSoKFkrBEzsTTvD8S10jBU-mYvt8uv5ZEdOmhSG9SXBQJvR7Yu5jlw8RRuFTbOeMiVoRqD_2x02ONcjkpyRFZdrL1ef2Mw9_tLQnaJamkgqs2e37oeqQkLI_2oUcFkah7Vu66AAbRpt-igcYoKKoobAr6SyHJ1v1bLk3XGobts954fHfYDiEOMUqQLyw3Gq0pnR2WRhW00vx8Do_fvv1AC4_nJrxQHSe4KsgZygqHkNuJA.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -181262,6 +181274,36 @@
     "verified": false
   },
   {
+    "id": 1790273699604,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Two \"Israeli\" soldiers were killed accidentally due to the explosion of an \"Israeli\" army drone in the Gaza Strip.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790273689739,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Intelligence:– The resistance and courage of the Iranians, along with the intelligent use of geography, have, on the one hand, brought the costly and limited-effectiveness patterns of American warfare to a dead end, while on the other hand leading t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790223126378,
     "type": "intercept",
     "location": "Tehran",
@@ -181318,6 +181360,62 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#YemenStatement issued by the Yemeni Armed Forces:In the Name of Allah, the Most Compassionate, the Most MercifulAllah Almighty says:{So whoever transgresses against you, then transgress against him in the same manner that he has transgressed against you.} Allah Almighty is Truthful As part of the a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790273702575,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-24",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemenis shoot down a Saudi drone with stones in the Marran district, west of Saada Governorate.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c6a96ab0f7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DMIyNSrqJNsahvWDVtaFUHQ05bRu7cKFsj8_lHKTFO3Enxk8fAX5aLVDy0ge7H86aU-49A_uKYW-6yICmNmnIglJdKkMf82MucxlxOHmaw933mQS5vQvZkKviD_YInjyjNS_hdxyUUvywPu3s-OR8bOkzP53AL61Be_WKfznj0sEfO4gIoU8ZvafWpqZqbph1cfUCIRA057wBYFpUAggf3YN-RW7I36xFT4tT0uB9X5-m9_r5Rk3goBudAru-K3Zxs2QoifNNp6FgDpm7TE1UTq-y7qRP5tWzTBeda1XQHSXSYUs8BPkV6C2FzGN4UNYaM5P5MYAwiCbNSKBLZ9MYQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/62508",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DMIyNSrqJNsahvWDVtaFUHQ05bRu7cKFsj8_lHKTFO3Enxk8fAX5aLVDy0ge7H86aU-49A_uKYW-6yICmNmnIglJdKkMf82MucxlxOHmaw933mQS5vQvZkKviD_YInjyjNS_hdxyUUvywPu3s-OR8bOkzP53AL61Be_WKfznj0sEfO4gIoU8ZvafWpqZqbph1cfUCIRA057wBYFpUAggf3YN-RW7I36xFT4tT0uB9X5-m9_r5Rk3goBudAru-K3Zxs2QoifNNp6FgDpm7TE1UTq-y7qRP5tWzTBeda1XQHSXSYUs8BPkV6C2FzGN4UNYaM5P5MYAwiCbNSKBLZ9MYQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790273655524,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Explosion in the Strait of Hormuz just now.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790273672885,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-24",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Intelligence Organization: Initiatives by Iran’s armed forces have changed the battlefield equation:1. The resistance and courage of Iranians, along with the intelligent use of geography, have brought the costly and low-effect combat patterns of the US military to a dead end on the one h...",
     "media": [],
     "verified": false
   },
