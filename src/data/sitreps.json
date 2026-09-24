@@ -181474,6 +181474,27 @@
     "verified": false
   },
   {
+    "id": 1790288126431,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "♦️Roads leading to the United Nations blocked by protesters opposing Israeli Prime Minister Benjamin Netanyahu's trip to New York.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/39880",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fXMyFa66nqHqz25oVdm4faLkKaHe950qDLOBFEKtKbmlD5-bTIU_bdpd3N3gICy3B_eH5yCKygLEc_09VtVM3cKfI8bZkD0y3Vkbc5vm5GeTkgJ0tswPf89Rn204bF3tSrbYT5DD-eagvA6h565Uku_Eq3DenCSiHPSOl37F6NTAjWCB4jOJV4550zeDqZLu3tcCA2TLzmU1tRXPr30Fg10ZASFFZNBj1bbxbTwHKxYCZj0ALlZT5ocbKOdg2mtu__7IqXVNbHBcvJSoDgFYKwVcJaQ2GtzDXqjT2kIkQxjKTVWlRQ4mQgKFvQkW1xSTxipyYbFLmDOT0qDmXc4Jzw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
