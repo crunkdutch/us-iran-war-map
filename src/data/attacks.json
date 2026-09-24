@@ -129585,6 +129585,144 @@
     "media": []
   },
   {
+    "id": 481429611,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemeni defenses shoot down RQ20 surveillance",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni air defenses shoot down US RQ-20 surveillance aircraft over Hajjah:A military source said that Yemeni air defenses shot down a US-made RQ-20 surveillance aircraft over Hajjah Governorate on Wednesday evening.A military source told AnsarAllah’s website that the air defenses successfully brought down a US-made RQ-20 reconnaissance aircraft over the Haradh front in Hajjah Governorate using an appropriate weapon.The RQ-20 Puma is produced by the American company AeroVironment, headquar",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481433141,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen, UAE: Yemeni missile strike eliminated UAEbacked militia",
+    "location": "Yemen, UAE",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇦🇪 | Yemeni missile strike eliminated UAE-backed militia commander on Kahboub front:Mohammed Mohsen Naji, a commander in the UAE-backed militias, was killed in a Yemeni missile strike that targeted him on the Kahboub front.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GEr4onAmVSQWwuvXcZiY_hG015U_-VaIsZpJE7v9pt3-W_OMqUWMVdcwwrCa20-vQ2PQetZklfkm8wVm29_9qBpgxD-mRIGkfVbbiWhoMp2C2OLTTqhjMIL_XXfAidOgPMc7VSmOMqL7slMknwX29qzFQwUwTyG3OXILFjKgfdTe57WCW-AIuGhmU5q_d6C9XCNi-wlz9MNZjCYRbLTwIJ0ojnRml0s_Qm2g3IQUMLId6RxIwNafN9tHXGdXCOP2Sa_ZHzhAQQWSjFaDBrtxQxnTmuHlvfwhlMKEwE_om15476dvHhcmzOLHkdnjW73mmbGeyyJIg16BDlFd8MOBPQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481436672,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tel Aviv, Riyadh, Lebanon: Gaza exposed hypocrisy Arabs Muslims except",
+    "location": "Tel Aviv, Riyadh, Lebanon, Jordan, Yemen, Bahrain, Kuwait, Qatar, UAE, Saudi Arabia, Israel, Egypt, Cairo",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Gaza has exposed the hypocrisy of Arabs and Muslims, except those in the Axis of Resistance led by Iran.While Gaza and south Lebanon have been reduced to rubble and Palestinians and Lebanese continue to be killed, the region's military leadership is busy sitting around the same table.In Germany, the chiefs of staff of terorist Israel, Saudi Arabia, the UAE, Bahrain, Kuwait, Qatar, Jordan and Egypt reportedly met alongside the commander of the U.S. Central Command.According to reports, Israeli en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Ezf9wdxD3rwoynS0w1lHtLcrFRHVyxQhXGVDB5VZVOevm_-ciLBAPqMHngQhtoUMNgjOgIvYKntQyH6skMNc3GGLlbIQmE-ZLU-n4S6w4uopjBFCaw76ODhJWlnPLAyFtsaNrwl6RuWGdKDMGfSCyUDO1wnyf_4NN73FiqNJ7hPKnkaWs8aBRAnW05eZa-11bb3TTndcMA4LQnP_nWa-FsY0zPS-c09HJpb5AVT-1FDAupBss11nbSHxVn0DeLTiX2YaP28cRNo2lxR1WbaymMQnAma3pAS3xebCwVUWJhHZFXFOGoUI5AALCu2Wvi6r69pOSzUbBz0B5KwXeovc_A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481440204,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Breaking Explosions have been reported Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Explosions have been reported in the Strait of Hormuz a short while ago.🔻@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481091954,
     "type": "airstrike",
     "status": "confirmed",
@@ -132018,6 +132156,38 @@
       "other": 0
     },
     "description": "#Islamic_RepublicAssistant and Adviser to the Commander-in-Chief of the Armed Forces Major General Safavi: – The Strait of Hormuz will never return to what it was before.– The Islamic Republic of Iran will assume management of the Strait of Hormuz and fully control it.– We and Oman reached a mechanism for managing the Strait of Hormuz, but the Americans obstructed it.– Linking the Strait of Hormuz with the Bab Al-Mandab will change the course of the war.– For more than 100 years, the Yemenis hav",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481443737,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — West Bank, Gaza Strip: legitimate defense undertaken resistance raise voice",
+    "location": "West Bank, Gaza Strip",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "to the legitimate defense undertaken by the resistance to raise its voice, protect the homeland and its people, and condemn the silence accompanying the aggression. This ignores the fact that the resistance fully adhered to a ceasefire for fifteen months, while the enemy expanded the scope of its criminal aggression through killing, destruction, bulldozing, and the blowing up of homes, neighborhoods, and institutions and hospitals throughout that period, during which the government, which was th",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
