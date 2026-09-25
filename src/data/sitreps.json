@@ -181946,6 +181946,66 @@
     "verified": false
   },
   {
+    "id": 1790374693889,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei: Europe must be held accountable for its participation in aggression against Iran📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei In response to the NATO Secretary General's remarks regarding military assistance to the US and the Zionist regime for an act of aggression agains...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790374755001,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Gharibabadi: Sovereignty and territorial integrity of states are not subject to violation or negotiation📌 Tehran, IRNA –&nbsp;Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi, noting that the credibility of international law hinges on the equality of states b...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790374698954,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-24",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "– We condemn and denounce what the criminal Netanyahu and the Zionists have undertaken in storming Al-Aqsa Mosque, desecrating it, and threatening to destroy it through the tunnels they have dug beneath Al-Aqsa Mosque.– I call on all countries that responded to the unjust Saudi lies and false accusa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790374726392,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicBrigadier General Hossein Mohebi, spokesperson for the Islamic Revolutionary Guard Corps:– We will not stop punishing America until Iran’s seven conditions are fulfilled; our missiles are capable of destroying America’s multilayered air defense systems.– America expected Iran to sur...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790316969964,
     "type": "drone",
     "location": "Hodeidah",
@@ -182072,6 +182132,56 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "— When Iranian flights were banned by the Lebanese regime under American and Israeli pressure, the Lebanese masses gathered and protested on the roads and gave their best. But when the Iraqi regime, in collaboration with America, banned all Iranian flights from landing, no one came out. We wish ther...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790374740833,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 🇮🇷 | Iraq's leading scholar Ayatollah Sheikh Muhammad al-Yaqubi (H): “Weakening the Islamic Republic of Iran, even with a single word, is forbidden. We are facing a conflict that does not accept neutrality.”🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/e3A6EhEVfMA_S0MiSWGYxjx8ODXatFrk8JHV2VcowRjPpOC7akIcwcUaocBYwmszWiTG5U0TfvsXXmLLqoGqyOru3-mFXn_xyOfuuC8nTB8AvBotU06Wwx3CMUdvn_wn99WD9Ny-3FSvnDhDkdBkBWnucFhxi8jDGtGuXbaCmtsDxLXR3nzpScK_RbBwSBHALJOemabVST2yZTjt9e-wcolu0m4Ng4jgzC3GCWXLzj1MG73RTSrpLHkYa4HFHYs9hY6uS94vwkYCe3EXQ4a49jRowSii3VbJsv6LwxL5I5XucgmX5wuNB0x-2SmWCJajx-IMSjfl3lhDke213-VcOA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790374722130,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶/ 🇮🇷 | Reactions from Iraq are now coming after Najaf’s Friday Imam and the Nujaba Movement over the suspension of Iranian flights to Iraq.Former Iraqi Prime Minister Adel Abdul Mahdi described the closure of Iraqi airports to Iranian flights as “a major mistake, a surrender of national sovere...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790374722380,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ✈️🇹🇷 | An Iranian Caspian airline flight was spotted taking off from Istanbul, Turkey, towards Tehran, Iran, despite US threats of sanctions against nations that facilitate Iranian flights.🔹@enemywatch",
     "media": [],
     "verified": false
   },
