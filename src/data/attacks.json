@@ -133154,6 +133154,38 @@
     ]
   },
   {
+    "id": 481528829,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Lebanon, Israel: Enemy_MediaSpokesperson Israeli enemy armyA short while",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaSpokesperson for the “Israeli” enemy army:A short while ago, an interceptor missile was launched toward a suspected aerial target detected in the area where “Israeli” army forces are operating in southern Lebanon. The details are under review.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481411976,
     "type": "intercept",
     "status": "confirmed",
