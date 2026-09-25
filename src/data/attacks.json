@@ -133186,6 +133186,38 @@
     "media": []
   },
   {
+    "id": 481539506,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: YemenA military source Yemeni media grace",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenA military source to Yemeni media:– By the grace of Allah, the Saudi enemy’s reinforcements attempting to target Mount Naman and its surroundings in Al-Wazi’iyah District were expelled.– Dozens of casualties, including fatalities and injuries, were reported among the Saudi enemy’s reinforcements near Mount Naman and its surroundings in Al-Wazi’iyah.– Three drones were shot down, and a number of vehicles belonging to the Saudi enemy’s reinforcements near Mount Naman and its surroundings in ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481411976,
     "type": "intercept",
     "status": "confirmed",
@@ -133668,6 +133700,81 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 481532387,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza City: Bone remains clothes with milk bottle",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇵🇸 🏴| Bone remains and clothes, with a milk bottle beside them...This is how the remains of an infant girl were found while retrieving the bodies of martyrs from beneath the rubble of an Al-Atallah family home in Gaza City, after the house was bombed during the war.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a20445e2ed.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LMRO7rETko0KaldGEFK2emLUEX6yuvMWGYFEalOntb_ef6lyUt-H0CH38LR3gz7_7OFVleysGmZV1vOFQW9SeHPaiNa32O90xksCtPnpnK6MsVUoZgVRc8mRwdQ0vuZ8KpjhfoNNEY_dqJdc7pVhSU4eqMcpSnHT9pQPc3to_m7sW6JCvdGKBwsekLnFqkj2M3yD49u1Pdpo-Gy24X-CKBRBF9_yFAZSTaULjkJ1lerYrUjXpCxbkgORpBSIfuhtPmPr-wGm6htTKuL-lauVN0EW2qOB_ayrkPDU4ndWxR3ErFDdfjeQLW3mn8_dTBww-JV10DSE-snlwRPbbF8U1Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62544",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LMRO7rETko0KaldGEFK2emLUEX6yuvMWGYFEalOntb_ef6lyUt-H0CH38LR3gz7_7OFVleysGmZV1vOFQW9SeHPaiNa32O90xksCtPnpnK6MsVUoZgVRc8mRwdQ0vuZ8KpjhfoNNEY_dqJdc7pVhSU4eqMcpSnHT9pQPc3to_m7sW6JCvdGKBwsekLnFqkj2M3yD49u1Pdpo-Gy24X-CKBRBF9_yFAZSTaULjkJ1lerYrUjXpCxbkgORpBSIfuhtPmPr-wGm6htTKuL-lauVN0EW2qOB_ayrkPDU4ndWxR3ErFDdfjeQLW3mn8_dTBww-JV10DSE-snlwRPbbF8U1Q"
+      }
+    ]
+  },
+  {
+    "id": 481535946,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Hodeidah, Yemen: Ansar Allah reportedly launches major crossborder",
+    "location": "Sanaa, Hodeidah, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Ansar Allah reportedly launches major cross-border operation against Saudi and Sudanese forces:Intelligence sources in Sanaa told Al-Akhbar that Ansar Allah carried out another cross-border operation at dawn yesterday in the Al-Malahit area, targeting a training camp belonging to the First Brigade of the Sixth Emergency Division in the Al-Tawal area, west of Jizan, as well as gatherings of the Second Brigade of the same division. The operation also reportedly targeted Sudanese forces as t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 477331196,
