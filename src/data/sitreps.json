@@ -181407,6 +181407,27 @@
     "verified": false
   },
   {
+    "id": 1790324178368,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: This video presents exclusive footage of the moment an \"Israeli\" army force fell into a Hezbollah ambush at the Ali Al-Taher ridge, resulting in casualties.#Military_Media",
+    "media": [
+      {
+        "url": "https://t.me/mmirlb/40842",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fK1R_ujc4ELJdUNQe9ptO1t-53G1rpUJwf3nV_NNQACmUJGr0Ztbh8Y-E_suqkX5GHAGa612F6z5cOhGYUz9rTW4r7Scnpxw1gLsjEKyvo5CIqQUOx3hLrZs4c8O3Zrp58ENkPeLnJm0ajsBTyhs1SjEnhS81Xu9YKX1aJDFktBJDymi_Fghd2KU7ka3ir_ilsXQGVaZTuGq3-aD9hnM3FkH9UTwT_S96bYhDCkpd64HhXowi982axS7afbDFhF5DbpEI2Ld46gJ7U0sU7WgKmbcCExAzw9ZZduvzBgwYZHjki2BKCCqwlmyiurFtSS2tDLFsaMvpKuz28ktq-WHRw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790223126378,
     "type": "intercept",
     "location": "Tehran",
@@ -181628,6 +181649,21 @@
     "verified": false
   },
   {
+    "id": 1790324145534,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Baqaei highlights Martyr Soleimani’s enduring legacy at UNGA📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has emphasized the enduring legacy of Iran’s martyred anti-terror commander, Lieutenant General Qassem Soleimani, while criticizing Israel’s presence at the United Nations Ge...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790316969964,
     "type": "drone",
     "location": "Hodeidah",
@@ -181640,6 +181676,50 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Regional developments | September 25, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 Yemen- Saudi artillery shelling continued against areas of Al-Dhahir District in Saada Governorate. Five Yemeni civilians were seriously injured after Saudi missile and artillery attacks targeted the Al Thabit a...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790324168187,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇦🇪 | Satellite images show the UAE-owned bulk carrier “CAPE DAO” that was attacked by Iran’s Islamic Revolutionary Guards Corps in the Strait of Hormuz, with a tugboat providing assistance nearby.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/HO_8H6Zy-IPPRyeEeO4eKEq2_8nx-l1GxeaJWy_72-uRSfzwk4r5hMsWAOsg_JKs_xq9Zo2PUjzVPquRhUVe0HKzl4R8IRE7XV6X_hxAi-R0Yv-pcmUMxY1JHpzJTrg1qis5LxjyVpO1Flzcj6-71NaTGs8rjAB1fhYgfZVjfLgIW01-G0B2GjyRsYsSWHJiOCwU2VyAq3s6vzNq6wm_qAvriWxwMp5HGcube5j9VOzqec9o2WdKC8tp2oe_f4RuZxl838A67wZWGHEpxg9oU3zqxYUSc6fqqaxCYnHbhNA0T18Fy09wj6fg9f1PBusiBep5Jhm5lAVym2TeaZ3YUg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790324183550,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾 🏴| Shia youth Mujtaba Habash al-Musawi, a native of Hatla village in Deir ez-Zor province, was stabbed to death in the Sayyidah Zaynab Shrine area. This marks the second violent incident targeting residents of Hatla in recent months, following the death of Osama al-Musawi, who died under tortu...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/i4inr1ba3JFDDcOyP1K22NUmVOnmCZXv224XiEucg6LP699l8bFDY5QgvqzWcb2CItSvpJ0s6wZKvmtH6wZRS5Kn20uJeMAzGv4nDXBG8pRQPvcRZIPJika9u33P49S_v7dkl_P6Cfm3j62sp_LJ8GGaVLmwHnLFwiG47bam19ODyXYslSEKvTCdknikK1V_o4EAO-7IIKd-2Rf_UJrvTY2QllNr4JcecOyQ9l1HhuwsjZeKQOE9viignzRbwXBBWr7tztWbK0qRO3GdBcSZO3y85UMaFBbhfGZ3ZEofiFSSHL_j79YmzN6V31p2anerPe588zhvx_6AdlE1treeBw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/maQbwjVo7twlYhwOop2zymtW56RHbQ-kUCedQWOWwPQi5y2hLCMn7KBnmUGtg0B0xNfSUkFCN10XRT4OmNnbFlaHv8YO5S1frx5oUIgrYcEjRN3pHULlXBCzQp8_Zi6cOaEjlQrJlMaDX33E_QbAt0c2zAIyOAAL6P1El11ari14eoqJ2iCxduacyM9-cMLKhbSe6p_FzMZBoNXIEXJYb7mJQKkLWw59X1MBsF7bL0I_Ptqvyx8RulO6BRsWW9Bw2YHleOwae2aATg15DNFAoyOHt-OQ4PpZoVV3u3hc4O_P9PAnQTAtE3WkeUjs1ivLqJQwTdsaSq60Zy-ATj_1pg.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

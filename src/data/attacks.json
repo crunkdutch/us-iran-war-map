@@ -133245,6 +133245,47 @@
     "media": []
   },
   {
+    "id": 481489757,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria: SyrianResistance Statement from Islamic Resistance Front",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇾 | #SyrianResistance | Statement from the Islamic Resistance Front in Syria Uli al-Ba's' General Command:In the name of Allah, the Most Gracious, the Most Merciful“So when the promise of the hereafter came, [We permitted your enemies] to disgrace your faces, and to enter the mosque as they entered it the first time, and to destroy what they had taken over with total destruction.” [Quran 17:7]O proud Syrian masses, O sons of our fighting Arab and Islamic nation: The Islamic Resistance Front i",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/i4inr1ba3JFDDcOyP1K22NUmVOnmCZXv224XiEucg6LP699l8bFDY5QgvqzWcb2CItSvpJ0s6wZKvmtH6wZRS5Kn20uJeMAzGv4nDXBG8pRQPvcRZIPJika9u33P49S_v7dkl_P6Cfm3j62sp_LJ8GGaVLmwHnLFwiG47bam19ODyXYslSEKvTCdknikK1V_o4EAO-7IIKd-2Rf_UJrvTY2QllNr4JcecOyQ9l1HhuwsjZeKQOE9viignzRbwXBBWr7tztWbK0qRO3GdBcSZO3y85UMaFBbhfGZ3ZEofiFSSHL_j79YmzN6V31p2anerPe588zhvx_6AdlE1treeBw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/maQbwjVo7twlYhwOop2zymtW56RHbQ-kUCedQWOWwPQi5y2hLCMn7KBnmUGtg0B0xNfSUkFCN10XRT4OmNnbFlaHv8YO5S1frx5oUIgrYcEjRN3pHULlXBCzQp8_Zi6cOaEjlQrJlMaDX33E_QbAt0c2zAIyOAAL6P1El11ari14eoqJ2iCxduacyM9-cMLKhbSe6p_FzMZBoNXIEXJYb7mJQKkLWw59X1MBsF7bL0I_Ptqvyx8RulO6BRsWW9Bw2YHleOwae2aATg15DNFAoyOHt-OQ4PpZoVV3u3hc4O_P9PAnQTAtE3WkeUjs1ivLqJQwTdsaSq60Zy-ATj_1pg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
