@@ -181362,6 +181362,51 @@
     "verified": false
   },
   {
+    "id": 1790316939412,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_PalestineIssued by the Islamic Resistance Movement – Hamas:In response to war criminal Netanyahu’s speech before the United Nations General Assembly, which represented an empty speech filled with lies and desperate slogans and exposed the depth of the crisis he is experiencing, the Islamic...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790316937485,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaSpokesperson for the \"Israeli\" enemy army:Two \"Israeli\" soldiers from the 7007 Battalion of the 16th Brigade in the Gaza Strip were announced killed.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790316960322,
+    "type": "drone",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Hebrew Channel 12:Yesterday, at 16:00, fighters from the 16th Brigade operated two explosive drones in the northern Gaza Strip. The first mission ended without any unusual incidents. During the second flight, and for a reason that is still under investigation, the drone fell inside the position. The...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790223126378,
     "type": "intercept",
     "location": "Tehran",
@@ -181526,6 +181571,75 @@
         "thumbnail": "https://cdn4.telesco.pe/file/fXMyFa66nqHqz25oVdm4faLkKaHe950qDLOBFEKtKbmlD5-bTIU_bdpd3N3gICy3B_eH5yCKygLEc_09VtVM3cKfI8bZkD0y3Vkbc5vm5GeTkgJ0tswPf89Rn204bF3tSrbYT5DD-eagvA6h565Uku_Eq3DenCSiHPSOl37F6NTAjWCB4jOJV4550zeDqZLu3tcCA2TLzmU1tRXPr30Fg10ZASFFZNBj1bbxbTwHKxYCZj0ALlZT5ocbKOdg2mtu__7IqXVNbHBcvJSoDgFYKwVcJaQ2GtzDXqjT2kIkQxjKTVWlRQ4mQgKFvQkW1xSTxipyYbFLmDOT0qDmXc4Jzw"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790316935677,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | A series of unusual fires and thermal hotspots were reportedly detected today in various parts of Riyadh, with the thermal indicators appearing at approximately 06:18 Coordinated Universal Time (UTC). The most intense cluster was detected near coordinates 24.63449, 46.78623, a location tha...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jyrwFniE1wLChq1c7YJ6qYc4OeqBdFULY791FTHIACgKbm5zaSXpW86OB1TCgZCJDdo5B8HDG_HkwijwDPytIXORcPfJ-_9fqQ8FocQjVV-teC4vp3RTEOgUNve80tRcFeS67geJipHEpGhzx-Wff7Jp9S7rdt8WjdL1wNoJQMr3W_7ZUN1mYPhGgM-rNLDBOSkIgHvqqqZKCxmo436_WkNMLSKCbbKiDjDkGHE3QVXib4rMgyAvBo99ov-xfj0phzhqKSjbRUna_lM0bJO-Hv9u4JRvK9h7rCelWTdqpvVO6kYxwmQVm4cPP_Jt8HlHHGDBtl69EkUcYmt_p-tGbg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tj1QZLoaOJ6U2RvRnld2i6oCLN7KpPM9bGYyjEkbtfXe703P-RMQahyTVltOOEnTVUa4KCdYqabzz-k284J3ruJ7CJEVqNl5aqnLV33qXvyIJGqTO12bSWFao5QMS_3_q0-Okc_MXQxKmTP2SkaDVEweC_-Zhv8I8zqb2AIrSHqHPUNk7rGDQ0w6G_HGp8E9GfuNYHdmAW_xfyVfXHcb5w4VvkFjSRn6PZMnoaSFOpfUS3bqoJ3QBDsnCqIpXnJs1_YarCt1pu7Y51vXpmqpnsMk0_XDnm8ysYhQHruvO55AN6GofoeCA4a38y0jKaNnb2NxvMUwwPM37yxGgN9i_g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790316914440,
+    "type": "airstrike",
+    "location": "Prince Sultan Air Base",
+    "coordinates": [
+      24.0767,
+      47.58
+    ],
+    "date": "2026-09-24",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ | Latest observed deployment of the tanker fleet in the region: heavy concentration along the Israel and Saudi Arabia axes:A review of Sentinel-2 satellite imagery from September 21 and 22 covering six major bases and airports in the region shows a dense deployment of identified aircraft on op...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790316953072,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-24",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenStatement issued by the Yemeni Armed Forces:In the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says:{That is so; and whoever retaliates with the equivalent of what he was subjected to, and then is wronged again, Allah will surely support him.} Allah Almighty is Truthful T...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790316969964,
+    "type": "drone",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-09-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | September 25, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 Yemen- Saudi artillery shelling continued against areas of Al-Dhahir District in Saada Governorate. Five Yemeni civilians were seriously injured after Saudi missile and artillery attacks targeted the Al Thabit a...",
+    "media": [],
     "verified": false
   },
   {

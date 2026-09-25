@@ -133108,6 +133108,143 @@
     ]
   },
   {
+    "id": 481482666,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Riyadh: series unusual fires thermal hotspots were",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇸🇦 | A series of unusual fires and thermal hotspots were reportedly detected today in various parts of Riyadh, with the thermal indicators appearing at approximately 06:18 Coordinated Universal Time (UTC). The most intense cluster was detected near coordinates 24.63449, 46.78623, a location that includes a mental health center.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jyrwFniE1wLChq1c7YJ6qYc4OeqBdFULY791FTHIACgKbm5zaSXpW86OB1TCgZCJDdo5B8HDG_HkwijwDPytIXORcPfJ-_9fqQ8FocQjVV-teC4vp3RTEOgUNve80tRcFeS67geJipHEpGhzx-Wff7Jp9S7rdt8WjdL1wNoJQMr3W_7ZUN1mYPhGgM-rNLDBOSkIgHvqqqZKCxmo436_WkNMLSKCbbKiDjDkGHE3QVXib4rMgyAvBo99ov-xfj0phzhqKSjbRUna_lM0bJO-Hv9u4JRvK9h7rCelWTdqpvVO6kYxwmQVm4cPP_Jt8HlHHGDBtl69EkUcYmt_p-tGbg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tj1QZLoaOJ6U2RvRnld2i6oCLN7KpPM9bGYyjEkbtfXe703P-RMQahyTVltOOEnTVUa4KCdYqabzz-k284J3ruJ7CJEVqNl5aqnLV33qXvyIJGqTO12bSWFao5QMS_3_q0-Okc_MXQxKmTP2SkaDVEweC_-Zhv8I8zqb2AIrSHqHPUNk7rGDQ0w6G_HGp8E9GfuNYHdmAW_xfyVfXHcb5w4VvkFjSRn6PZMnoaSFOpfUS3bqoJ3QBDsnCqIpXnJs1_YarCt1pu7Y51vXpmqpnsMk0_XDnm8ysYhQHruvO55AN6GofoeCA4a38y0jKaNnb2NxvMUwwPM37yxGgN9i_g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481486211,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: YemenStatement issued Yemeni Armed ForcesIn Name",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenStatement issued by the Yemeni Armed Forces:In the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says:{That is so; and whoever retaliates with the equivalent of what he was subjected to, and then is wronged again, Allah will surely support him.} Allah Almighty is Truthful The criminal Saudi enemy continues its criminal aggression against our people through its unjust blockade and the launching of aggressive airstrikes, which, since the beginning of the escalation and up",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481475579,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Tehran, Sirik, Hormozgan: Regional developments September 2026 developments Yemen",
+    "location": "Tehran, Sirik, Hormozgan, Erbil, Jeddah, Strait of Hormuz, Jordan, Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | September 25, 2026 (+ve) developments🇾🇪 Yemen ❌🇸🇦 Saudi Arabia- Yemeni forces launched a large-scale missile and drone operation targeting the depth of Saudi Arabia. Ballistic missiles were fired toward Saudi military positions and militia concentrations, with one missile launched toward Taif. Missile attacks also targeted Aramco, Ras Tanura, Yanbu, Jeddah, Jazan, Tabuk, and Taif, while alerts were activated across these regions. Explosions were reported in Jeddah,",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481479122,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Hodeidah, Riyadh, Strait of Hormuz: Regional developments September 2026 developments Saudi",
+    "location": "Hodeidah, Riyadh, Strait of Hormuz, Lebanon, Yemen, Saudi Arabia, Israel, Gaza Strip, Port Said, Turkey",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | September 25, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 Yemen- Saudi artillery shelling continued against areas of Al-Dhahir District in Saada Governorate. Five Yemeni civilians were seriously injured after Saudi missile and artillery attacks targeted the Al Thabit area in Qataber District, Saada Governorate.- Saudi warplanes continued their attacks across Yemen. Airstrikes targeted communications towers and civilian infrastructure in Hodeidah, while additional s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
