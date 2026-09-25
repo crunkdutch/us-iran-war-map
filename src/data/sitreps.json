@@ -177593,6 +177593,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/Z9fcWmbhwn0NZ4AZS68fjaVcLH-dpHAs1oo0sAohaa-xgtST1IvxN_g7bGdrm1dc3xVXtmy7on3bwTK98469jRYD-z7I4zXr24O0ptuFHGnY38fTBWpEW03HW9tTrnYWIm0Pd335YeRAHmICAjk0yfCSAOIa8XLHwzxvHu2QjU8zKV-SxPSqn1oT6MFJ3ZM1Hn9Vgi4b688M8t-MuZdH7Mo56P19RYbGgBc8Ou6q5FThaivdbrYAiP8-mw6INzbsHNofKIBXSqh9uy_PyjbXl_KiNBoNxtZMdf7NExQvkb4JcwQ7tPQ_mYuwb1cOxNCtOn4vB1jlEbiHcGPBAmBcUQ.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/SuumNUT9I5JVTEA82TXV-_wYgD1ENb3YeZRPB1-mL2Sios-v414CFN0XY75DOptEX37KzASWdqW99An1LsGxpXhQXPhK0856QdaRFujmOAOtgAMrqJ3s39FwQVG9oXLemgnkl2LfDCELGB4XWivGIVnSI0eSmvtqYf92L7xpOgabMcB7fclwB_qNRffOfL9cEFAgW4A8NXX9htmSBRd52bEpo-RkZe1h7M0M4ApgYBJ5wz3QDxohWofoyChIlbOXAeMeqPP8ClwXrsclORwcp87qoEvi4b4VoZFqkyyGUMVj1ywbrenWz_9XwQVDx39UCRtev-qXsRYGlAw5MvmuvA.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -178447,6 +178451,36 @@
     "verified": false
   },
   {
+    "id": 1790338592401,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Intelligence Ministry vows to pursue assassins of Sunni cleric📌 Tehran, IRNA – The Intelligence Ministry has strongly condemned the assassination of Molavi Yousef Gorgij, the Sunni prayer leader of the Mohammad Rasulollah Mosque in Zahedan, saying the killing will not undermine national and reli...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338637012,
+    "type": "missile",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Hollywood-style Shows cannot mask US war crimes: Iran’s London embassy📌 London, IRNA — The Iranian Embassy in London has posted a tragic video of the burial scene of the ‘Minab’ school children martyred in a US missile attack, slamming the US war crimes as so blatant that they cannot be conceale...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789717813604,
     "type": "airstrike",
     "location": "Tehran",
@@ -178759,6 +178793,166 @@
     "source": "Telegram (mmirlb)",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Enemy_Media\"Israeli\" media: Another attack: A vehicle without a license plate attempted to run over two \"Israelis\" from “Giv'at Yeshua Yisrael” on the Gil'in route [Gil'in/Wadi Al-Haramiya corridor northeast of Ramallah], at the Silwad cemetery intersection. There were no injuries. The vehicle fled...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338602953,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Additional damage reported at Abha oil facility:Satellite images taken today appear to show additional damage to the Abha oil products facility in Saudi Arabia. The latest imagery suggests that the new attacks likely targeted and destroyed two additional oil storage tanks at the facility....",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/sFh3ah9DLNe953JqPB5Qas_CammiwqBAoH8MPKomoGq2ZBdVMZ4iYf-ScyCvrSw9uINsI58ywTRtuX5ZZ-Bca5FTgyEnTItBFGkGXg8-sXyCUVT4Pqg1CRY90KcoVnG5e7j4iap-DGW41TnTTZIq-RmhOMZZHvIxm85-6r-8S4IcHZLiYVcZiWsFAl0sk7fICSyRWHy_gSEFkUO0vOGlHfTNF08P6NycpoYWCU_ZVIW4SRz-Wnlk1zbVMlj-LZj1qbbNzi2rY3E77GOwXvJ8gTt1ZXDyv2ngMRCA_MC-4sBP5m3moGVp53oxMI5TatLTEMoWElggyL6y7Pq1nRr_9Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790338643523,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Satellite imagery indicates damage at King Khalid Air Base:Satellite imagery appears to show that two aircraft shelters and a large aircraft maintenance hangar at King Khalid Air Base in Saudi Arabia were struck during the latest attacks by the Yemeni Armed Forces.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/A-mNB8WUuivNgQSORCE6B5ZxjRGSZsWrGtLW9i9H6UAuhf9MSPVVOlhycOmj7VAkhgHip0ZuZrHaQ9anIp-xXU9DRO5gQIyDdkRH3f4F2VWSUhVk47-3M2CWErsFA12rqfMAkFJocPbLuhOlDOahmLQuITjuqCKs-Yd5LLhUlLBY6NTmT7WHBSZRpJK8zBSSSW7D5CI2fJSgRu5q23WYTS742wd4Va8tzG4cZbUNAxtRBqzwjDVVUwK_Ds5ind17RGb17k9qci4Wimx2Gp7eKp1lYGCw4FUsPbsAAltS0dEgBI44zYJ3JOF-6us5i3JXCv4pa3jn2Ak-kCNdqP_O1Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790338571864,
+    "type": "missile",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-09-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Latest updates from the Yemen war:1. AnsarAllah breaches PLC defenses in Jabal HabashiAnsarAllah forces have breached the northern defensive lines of Jabal Habashi, northwest of Taiz city, after advancing from Adina toward Saudi-backed PLC positions in Al-Zawa’i. Jabal Habashi is regarded as ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338609946,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Latest updates from the Yemen war: 1. AnsarAllah breaches PLC defenses in Jabal Habashi AnsarAllah forces have breached the northern defensive lines of Jabal Habashi, northwest of Taiz city, after advancing from Adina toward Saudi-backed PLC positions…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338653854,
+    "type": "intercept",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Maritime incidents reported near Aden and the Strait of Hormuz:The United Kingdom Maritime Trade Operations (UKMTO) reported an incident approximately 75 nautical miles east of Aden, Yemen. A westbound oil tanker reported that a small vessel was following it and appeared to be attempting to i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338602810,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📌 | The Pakistani army, the region’s rented gang, is roaming across Saudi Arabia and Türkiye, holding meetings to design a massive assault against Yemen. All of this is being packaged under the fraudulent slogan of the so called “defence of the Haramain”,…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338656981,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚩| Dear Sunni Muslims...A call to Sunni Muslims, and to Muslims everywhere, is to have basirah: the ability to understand the enemy, distinguish political narratives from reality, and examine events through evidence rather than emotion or sectarian pressure.We have seen Eipsteinist figures repeated...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338617753,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | The engineer who reportedly uncovered the pager plot before the attack:Engineer and martyr Hussein Muhammad Riyad Bazzi, head of the Strategic Studies Department in the Signal Corps, is credited with uncovering the security risks surrounding the pager devices before the attack took place.Acco...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338579425,
+    "type": "drone",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-09-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni defenses destroy a Saudi spy drone over the capital, Sanaa.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338558961,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Iran is currently holding a major military parade in Tehran, with millions participating and various newly mobilized formations being showcased to mark the start of the Janfada (Self-Sacrificing) Campaign. A few days ago, millions of Iranians reportedly received SMS messages from t...",
     "media": [],
     "verified": false
   },
@@ -181428,6 +181622,26 @@
     "verified": false
   },
   {
+    "id": 1790338565659,
+    "type": "intercept",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Air defense systems were activated in the Galilee Panhandle area.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/T-iYI-P4ax69FsHUdwhuhk6N_UzwTJ_DZBIhEczPfznxYXeMGrN7lUm5oIYqtXAbIxVVI2Z7vLy5YbaSQVl0jBXbYrwweldyI4FNzEuH2UEO42KzXGvE7HHgZmRfcqp-Hw5pvBiq3Q3hBPAhR4WQ0AwvfXyOZXs2uMdm1xHJc-CxjbPiIjcvZO_dhELyBZDcjT3yGra2qXmJcLgzvqK_3-mWawIJGPeBJspEaHLqgIhWJn2llcagHO25kDO3Y_KhhVdC1mVfRWt5PN4oW1zY3qg7ulPyc5OK1-uDlRuqxAg9gnnSA7iwULXPXlnbsexEsl6sX0Hks0zMddBXKbf3Kg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790223126378,
     "type": "intercept",
     "location": "Tehran",
@@ -181664,6 +181878,21 @@
     "verified": false
   },
   {
+    "id": 1790338596321,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iranian diplomat responds to Netanyahu’s remarks at UN General Assembly📌 Tehran, IRNA – The third counsellor at the permanent mission of the Islamic Republic of Iran to the United Nations, Nasser Asadi, has responded to the remarks of Israeli prime minister Benjamin Netanyahu at the UN General A...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790316969964,
     "type": "drone",
     "location": "Hodeidah",
@@ -181720,6 +181949,36 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790338656746,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | Breaking — Sayyid Sadr al-Din al-Qubanchi, the Imam of Friday prayers in Najaf: It is not correct for Iraq to comply with sanctions against Iranian aviation.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790338631431,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 What fool would give the enemy a chance to catch its breath just when they're attempting to suffocate Iran? Renewed moves by Oman and Qatar have triggered a downward trend in oil prices, even as Trump’s regime of Judeo-Christian pedophiles refuses to budge…",
+    "media": [],
     "verified": false
   },
   {
