@@ -133777,6 +133777,75 @@
     "media": []
   },
   {
+    "id": 481543067,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Iraq: IraqiResistance Sheikh Akram alKaabi SecretaryGeneral Islami...",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Sheikh Akram al-Kaabi (H) (Secretary-General of the Islamic Resistance Movement Harakat Hizbullah al-Nujaba):Talking about sovereignty at a time when Iraq has been turned into a small village controlled by the criminal American is considered a double standard, and this cannot be accepted. Therefore, we blame political forces across all their factions and details for these regrettable stances. How can they accept subjecting a Muslim people to a blockade by rogue, infidel",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/aN3XWS2B2dsV2ZHQAPb8crW86ume-m6P9wRfEQkdHgaRmCWIUA6YesmCp1xgzbcmOVrYbwY_2h7Bw-vZcnQA0qFFc1761PAiunDX1QDtleTYX674voXci9NaFvDd6IU5ZEE7RwjwM12eVYajR6QZvDYt3Z9EQyahcBoVp9G4FiSOTzY3f61_PnwQ1GjX1hJ6vRVTw7rZpUjYeZvwDW_6DrmcFJRWJQYLTvsRB4gN-m_AaFZRlF9B6liHsFHZRsl9fiR7dgvu-01ZIWDoBi4ENQDc4o0yEYuqNT2M7TG3wZ7SWLcxd04H9cl1BnIoHfWAAv7sbkD3rIBcfHQkC8gxOw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481546629,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Riyadh, Red Sea, Bab al-Mandab: stab back against Ansar Allah appease",
+    "location": "Riyadh, Red Sea, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇾🇪 | A stab in the back against Ansar Allah to appease bin Salman and the White House:Why is the Pezeshkian government determined to damage relations with Iran’s most loyal ally?At a time when Western pressure on Iran is intensifying on multiple fronts, and America and the Zionist regime are openly seeking to impose a naval and air blockade on Iran, the basic principles of national security dictate that the diplomatic apparatus should devote all its efforts to strengthening alliances and ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
