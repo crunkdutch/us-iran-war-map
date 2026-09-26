@@ -133921,6 +133921,70 @@
     ]
   },
   {
+    "id": 481557321,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Riyadh, Strait of Hormuz, Bab al-Mandab: Regional developments September 2026 developments Yemen",
+    "location": "Riyadh, Strait of Hormuz, Bab al-Mandab, Yemen, Saudi Arabia, Israel, Turkey",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | September 26, 2026 (+ve) developments🇾🇪 Yemen ❌ 🇸🇦 Saudi Arabia- Yemeni attacks expanded across Saudi Arabia during the morning. Intense explosions were reported in Riyadh, while Saudi media reported a drone attack on the capital without prior warning. Arab sources reported Yemeni attacks on Riyadh, Jizan, Khamis Mushait, and Abha, while explosions were also reported in Khamis Mushait (2 times). Riyadh and Khamis Mushait were both reported as targets during the l",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481560887,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Fars, Persian Gulf, Lebanon: Regional developments September 2026 developments Saudi",
+    "location": "Fars, Persian Gulf, Lebanon, Syria, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | September 26, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 YemenSaudi warplanes continued airstrikes across Yemen. Three Saudi airstrikes targeted Marran District in Saada Governorate, while Saudi artillery shelling struck various areas of Al-Dhahir District in Saada. Saudi aircraft also continued bombing Taiz Governorate, including attacks on areas south of Taiz. Minutes ago, Saudi Air Force airstrikes targeted the al-Dalil Bridge, al-Makhader District, Ibb Gover",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
