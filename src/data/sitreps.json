@@ -178699,6 +178699,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/ciHE9gpgBSDQgDdmWrjso96stHVtnv9qI9ZZvh6JHaRaD5Vl3AoifHzRzcmkQoKCqrrrjCjrM6shYm4QAbwqSh3jBYsfFZYC_x8BSZlgR2C6l1uVGerZOT0E3Xw5RIAgfOuVDqcfK-SHFDsYp2IPXTEiZQLX_UrrArbVeDR8F7fhjelHyYIDDRB9IKA6XV5azpPWM42rQxumUOZ4HylanSD4DqXsbWAWedQ_He_3bBgGFhBcdiGUZ3sJDiKjTXFLqDPyb0TCORnC4EtPrpDX41_2VXxhy2BauDD5wrOzKzk6YL11rglaZeeEtVmQ_reOLM9dFuHAI0vkHkW5-Zes7g.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Wc7sxZFR0gCPQkWdLMPvihUPbaDlTXgYdYwpMlUTKt5NKJ564Ayt9CROCxFjBgloGJxn3g7B04vwXVFHZ0H5zTdhqB6paPSQnPyipGKyRIsa5WNE9sUSHrMQ0L2QlblF4o-DQeGQIoA18If4kVR93BgUdmrAkxz0wjx4FP1lQL2CC_0-WhovfiKIMMLrNmeL2vcU9L0V7YiT70wjQXPrmKDy3JSY2_SXdYEYkY9tDO5paAUTe4ZMdSOUnr6V7dHn_RLbBYqG1AtjgklO68dyDnEAiJa3mVZQVySU1Mqz_bjd9PApxrp23bCliH9EYEOiPsdpdKl3PgIfwHpthRVjog.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -179168,6 +179172,10 @@
     "media": [
       {
         "url": "https://cdn4.telesco.pe/file/sSaEWJI78yK6EZYEK1lytGsYmUB5dATWwaaq-NmN3ryI5YBMm46r0C1KmMdNm5SwY-Kr5w68Ojap9MjhpRGbnww57sTgpKoWUE31_jyt58g0AQRZbMFKnFUwGj8b5hu4sHJ0WWscx0UDEatqPLHDeggxer65FWj730yDK3BfcI0uRDp1J_-ofyOtQBPQS3WFbRUNehJwora6DxlPDaOqrV1FzqcmOeS2rC7nwc_jUHAeBn83KftWXfljNOPrAEtshlCIeMyrXnAKMopti72LW1XzJ0kqeQb6fYCYOfYrJi9bDod3hmaWnLAf14KkvB6VKWq39M2XlJx2DPzpMRJfEQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/W8fmTv2utbYw-gsELkQl52KI8MjV9GhXwfC3cUwuQiBtsZLc98l-YxK9cwBJFdI6R7wM8Lvss4cN4zmtNNFty-z1TsrNyLNgbWjrrmBLzCrCB8E26KqJVLupmS2SO5gBGyIXM_EeLdr4j86HAoYZ9dcrU_qUJnPc2x_RxI8uo74JXsNkx1OEgwtoefckTMvIlG1hgyBZR9G1BqswQJ8oBpeNehJFE4Pxa289tdR0PXdIfDp8r7v-Exwer8q7enfTr2TslV7-UfzbjOxCKFk0zZodI5EQwQiovlZgZ1araCIVpIZWY30f3JlYhDS43wu_ZcGXvaUpgIEdrNU-SJD3fA.jpg",
         "type": "photo"
       }
     ],
@@ -182241,6 +182249,21 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Yemen New footage shows the targeting of gatherings and vehicles belonging to the Saudi enemy with Rajum drones on several fronts.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790446809025,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-24",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Saudi warplanes carried out 27 airstrikes over the past 24 hours using F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif air bases. The strikes targeted civilian infrastructure, including bridges, roads, and other sites, in the governorates of Taiz, Ma’rib, Saada, Amran...",
     "media": [],
     "verified": false
   },
