@@ -130439,6 +130439,70 @@
     "media": []
   },
   {
+    "id": 481578732,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: Iran halts violating tanker Trend Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran halts violating tanker Trend in Strait of Hormuz📌 Tehran, IRNA – The commander of the Islamic Revolution Guards Corps (IRGC) Navy announces that the Trend tanker, sailing under the flag of Togo, has been stopped after attempting an illegal passage through the Strait of Hormuz.In a statement early on Friday, Rear Admiral Ali Ozmaei said that the Trend tanker, sailing under the flag of Togo, sought to cross the Strait of Hormuz unlawfully after being encouraged by the US military through ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481582304,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-18",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Iraq: Fifteen countries call prohibition attack threat",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Fifteen countries call for prohibition of any attack or threat against nuclear facilities📌 London, IRNA – Fifteen countries, including Iran, China and Russia, have stressed that peaceful, safeguarded nuclear facilities must never be subjected to any attack or threat of attack.In a joint statement on Thursday issued during the 70th General Conference of the International Atomic Energy Agency (IAEA), 15 countries&nbsp;underlined the need for clear and firm opposition to any attack or threat ag",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481112567,
     "type": "drone",
     "status": "confirmed",
@@ -134087,6 +134151,38 @@
       "other": 0
     },
     "description": "🟡 | Regional developments | September 26, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 YemenSaudi warplanes continued airstrikes across Yemen. Three Saudi airstrikes targeted Marran District in Saada Governorate, while Saudi artillery shelling struck various areas of Al-Dhahir District in Saada. Saudi aircraft also continued bombing Taiz Governorate, including attacks on areas south of Taiz. Minutes ago, Saudi Air Force airstrikes targeted the al-Dalil Bridge, al-Makhader District, Ibb Gover",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481575161,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Syria, Yemen: Regional developments September 2026 developments Saudi",
+    "location": "Lebanon, Syria, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | September 26, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 Yemen- Saudi aggression continued across Yemen. Saudi warplanes carried out two airstrikes on Qataber District in western Saada Governorate, while a separate wave of attacks targeted Taiz Governorate.- Saudi aircraft launched four airstrikes on the Maweeyah Junction in Al-Ta’izziyah District, Taiz Governorate. Additional Saudi airstrikes were also reported across Taiz Governorate.🇱🇧 LebanonIsraeli attack",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

@@ -178980,6 +178980,56 @@
     "verified": false
   },
   {
+    "id": 1790417943339,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 US cannot evade responsibility for war crimes: Iran deputy FM📌 Tehran, IRNA — Iran’s deputy foreign minister for legal affairs said everyone says that the US brutal attacks on Iran’s ‘Minab’ and ‘Lamerd’ cities were blatant war crimes, and Washington cannot evade its responsibility for these cri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790417992650,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-09-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "The Yemeni Ansarallah forces took control of the Al-Aghbarah mountain range in Lahj province's Al-Mudharibah district, which overlooks the strategic Bab al-Mandab strait in the Red Sea, driving out Saudi-backed forces.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/sSaEWJI78yK6EZYEK1lytGsYmUB5dATWwaaq-NmN3ryI5YBMm46r0C1KmMdNm5SwY-Kr5w68Ojap9MjhpRGbnww57sTgpKoWUE31_jyt58g0AQRZbMFKnFUwGj8b5hu4sHJ0WWscx0UDEatqPLHDeggxer65FWj730yDK3BfcI0uRDp1J_-ofyOtQBPQS3WFbRUNehJwora6DxlPDaOqrV1FzqcmOeS2rC7nwc_jUHAeBn83KftWXfljNOPrAEtshlCIeMyrXnAKMopti72LW1XzJ0kqeQb6fYCYOfYrJi9bDod3hmaWnLAf14KkvB6VKWq39M2XlJx2DPzpMRJfEQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790417982117,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran condemns terrorist attack in Pakistan📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has strongly condemned a terrorist attack near a mosque in Kohat, Pakistan’s Khyber Pakhtunkhwa province, during Friday prayers, which killed and injured dozens of people.In a statement on Fri...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789804431894,
     "type": "drone",
     "location": "Sanaa",
@@ -182268,6 +182318,41 @@
     "verified": false
   },
   {
+    "id": 1790417961466,
+    "type": "naval",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Iraqi Resistance leader Qais al-Khazali:In the name of Allah, the Most Gracious, the Most MercifulIt pains us, and indeed we flatly reject, to see the Islamic Republic subjected to a blockade by land, sea, and air with its people suffering severely while Iraq stands by as a...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/kcWO1djf7oxWIJbSTDrNH3h-ttE-OIuAafMPWuBpdw5FmvpjujFyYw_n8pWVlckBYK9jmq_AI8vs2RaQYGG6-kaVTFi9IP_OQdXOIL6MGGoiTfiXLBgnC3SkvU2dHiW5d4PbPmcPRnoM9rphElTGPV_-ycKnjQjmuOgA26A_hU_OU01exi6rhuTacaDwcpZDVB1VHIe_WvT9y1pTI77fm9KaR9fG50LDrnWMEFAf3ydm1JQmGqsS9iNwYpMdPUk8MD57BmT1oh-o5-9adIqDAQe1KNPr53F_iaqEUXXmOU4pxOaCFeSXi7QQHW2HBz4UtEmd9ItLFtbbnrKBd2JvuA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790417929530,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Legitimacy does not come from Washington: Iran Leader’s advisor📌 Tehran, IRNA – Ali Akbar Velayati, international affairs adviser to Iran’s Leader, says that legitimacy does not come from Washington, reacting to the closure of Najaf Airport in Iraq.In a post on X on Friday, Velayati said, From S...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790396339330,
     "type": "rocket",
     "location": "Fars",
@@ -182279,6 +182364,36 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 | Regional developments | September 26, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 YemenSaudi warplanes continued airstrikes across Yemen. Three Saudi airstrikes targeted Marran District in Saada Governorate, while Saudi artillery shelling struck various areas of Al-Dhahir District in Saada....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790417924591,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | September 26, 2026 (+ve) developments🇮🇷 Iran- Iran announced that flights from the country to East Asia remain operational. Imam Khomeini Airport City confirmed that Iranian flights to destinations including China, Vietnam, and Malaysia continue despite restrictions impo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790417978138,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | September 26, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 Yemen- Saudi aggression continued across Yemen. Saudi warplanes carried out two airstrikes on Qataber District in western Saada Governorate, while a separate wave of attacks targeted Taiz Governorate.- Saudi a...",
     "media": [],
     "verified": false
   },
