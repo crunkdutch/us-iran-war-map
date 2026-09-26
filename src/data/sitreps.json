@@ -182806,6 +182806,58 @@
     "verified": false
   },
   {
+    "id": 1790461335888,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "President Dr Pezeshkian , speaking in an interview with Al Jazeera: The US president accuses us of being terrorists, whereas, in reality, it is the American and Israeli regimes that are the true terrorists, and we are the victims of terrorism.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2290b0be7d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Qw5G-5cvaY4dQta5F52Qb_rx6XlGr35jlrnxDG0gEpUsNFXZQbT81GLp8H8EXibWtd2jPaRSfE1yEb7BITuV8NKOd-5MdH-gbfCSkFtpQrHAnKgAMjgpMFmjgU0Rly-38I86WBQnZHs_SN_d5aAJondt3_8SHo63b5qIxJtnE1CtcgHYiyxxbL9mO431hbqtupB50k0f2PjU2qbOCqqhaK2wV2GEL9PX2vHtLNQrBI32PqR4LJrRU5E5MaNEez6BQCHkWLlRMCHRfF6jb8i9_AzFmTay2IQVk02S039BXSVB4b4fa2YQe8VWhIIa1Leuv5cTkro05XlfCbsId-tvTQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/39973",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Qw5G-5cvaY4dQta5F52Qb_rx6XlGr35jlrnxDG0gEpUsNFXZQbT81GLp8H8EXibWtd2jPaRSfE1yEb7BITuV8NKOd-5MdH-gbfCSkFtpQrHAnKgAMjgpMFmjgU0Rly-38I86WBQnZHs_SN_d5aAJondt3_8SHo63b5qIxJtnE1CtcgHYiyxxbL9mO431hbqtupB50k0f2PjU2qbOCqqhaK2wV2GEL9PX2vHtLNQrBI32PqR4LJrRU5E5MaNEez6BQCHkWLlRMCHRfF6jb8i9_AzFmTay2IQVk02S039BXSVB4b4fa2YQe8VWhIIa1Leuv5cTkro05XlfCbsId-tvTQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790461328000,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "After returning to the country from New York, President Dr Pezeshkian appeared before and addressed the crowds who had come to Tehran's Mehrabad Airport to welcome him.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3051a6ac9a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Bwd8WPKZJOWuoSXexvtTYNqqysB1bQe0QpAOCt4PPR6Rm0HLP6PgWR7vVGrbp5R6S1K-MOdyPvqtyvESm9CeB30dTvxP7M5P2uyrx_m-OyqYkr49ab8nQuzUwtk-zXLDTZ4a6LoRRPF87N31UybifuTVaPzUazDiC5qPCRJZNCvVCT0sH4JK9_6fmH1itogELDjB6jHmvFm21SRqSlLaul2Zv5OA9CmnKJRfR9Rn-czS7BO5wx5Uy_dv_iISDA1JD2ko6_rIYTvnwTnzjNvshUfZ8WWaomCdfcE-QAwBKwuaD63fnYve2hd6Zs09iybUDLLT_fGVcXKtIBH28hPbdA"
+      },
+      {
+        "url": "https://t.me/Irna_en/39976",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Bwd8WPKZJOWuoSXexvtTYNqqysB1bQe0QpAOCt4PPR6Rm0HLP6PgWR7vVGrbp5R6S1K-MOdyPvqtyvESm9CeB30dTvxP7M5P2uyrx_m-OyqYkr49ab8nQuzUwtk-zXLDTZ4a6LoRRPF87N31UybifuTVaPzUazDiC5qPCRJZNCvVCT0sH4JK9_6fmH1itogELDjB6jHmvFm21SRqSlLaul2Zv5OA9CmnKJRfR9Rn-czS7BO5wx5Uy_dv_iISDA1JD2ko6_rIYTvnwTnzjNvshUfZ8WWaomCdfcE-QAwBKwuaD63fnYve2hd6Zs09iybUDLLT_fGVcXKtIBH28hPbdA"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
