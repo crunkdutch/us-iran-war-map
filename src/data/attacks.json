@@ -129868,6 +129868,38 @@
     "media": []
   },
   {
+    "id": 481610916,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-17",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: Yemen Statement MarchesSupporting Armed Forces Upholding",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen Statement on the Marches(Supporting the Armed Forces, Upholding the “Blockade for Blockade” Equation, and Exposing the Lie of Targeting Mecca):– Today, we took to the streets in defense of the honor of our affiliation with Islam and in rejection of the great falsehood and the lie of the age propagated by the Saudi enemy against our people.– We took to the streets to declare our position on the falsehood directed against our people and against those who adopted this slanderous and offensiv",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481091954,
     "type": "airstrike",
     "status": "confirmed",
@@ -134354,6 +134386,81 @@
       "other": 0
     },
     "description": "🖥 Iran no longer trusts dialogue with United States: President📌 Tehran, IRNA –President Masoud Pezeshkian has said Iran no longer trusts negotiations with Washington, pointing to repeated US breaches of the diplomatic process, attacks and sanctions imposed after every round of talks with Tehran.In an interview with Al Jazeera on Saturday, Pezeshkian set out the Islamic Republic’s position on key issues and drew a clear line against any renewed diplomatic engagement with the United States.​He s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481603757,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, West Bank: ProPalestinian protesters rally Liverpool ahead Labour",
+    "location": "Israel, West Bank",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Pro-Palestinian protesters rally in Liverpool ahead of Labour Party conference📌 London, IRNA – Pro-Palestinian supporters rallied in Liverpool on Saturday ahead of the annual conference of Britain’s ruling Labour Party, calling on the government to end military support for Israel and halt arms sales to the regime.Demonstrators gathered outside St George’s Hall carrying Palestinian flags and placards reading “Free Palestine,” “Stop arming Israel” and “From the river to the sea, Palestine will",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/b51f4bd743.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/be_dYrX8k_dppQu0KLKpMtbjwfI4qD_I8cLgLiP6oTrIcZzw3v4jADpYk3bVKTtkrr0E3fvZROzT-M1NA5-A9cW-PxWHy12h-K4LDKCiUc2dD105Fym8z0ou21Ea2dQ_XqGaFyeMsZBkSxr_68Epn-WkEBysebFs-9_VZtE1qp7Mt7E-1dvK8-gP7MQLxMGmg0eGJjnT---Wq1trGIMMx2deEk15-t3VVRbyQ9-ztDpUL_gGppoKh_sGfpyyh4r25DvTv3ma9Ph_Vno_113V1pIQQJyEGvBuMqFykX4YzU6p9ZSOxWD9PwKP_ewQ490QVYl0qMCP7vfkQ3v9gHTdfg"
+      },
+      {
+        "url": "https://t.me/enemywatch/62566",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/be_dYrX8k_dppQu0KLKpMtbjwfI4qD_I8cLgLiP6oTrIcZzw3v4jADpYk3bVKTtkrr0E3fvZROzT-M1NA5-A9cW-PxWHy12h-K4LDKCiUc2dD105Fym8z0ou21Ea2dQ_XqGaFyeMsZBkSxr_68Epn-WkEBysebFs-9_VZtE1qp7Mt7E-1dvK8-gP7MQLxMGmg0eGJjnT---Wq1trGIMMx2deEk15-t3VVRbyQ9-ztDpUL_gGppoKh_sGfpyyh4r25DvTv3ma9Ph_Vno_113V1pIQQJyEGvBuMqFykX4YzU6p9ZSOxWD9PwKP_ewQ490QVYl0qMCP7vfkQ3v9gHTdfg"
+      }
+    ]
+  },
+  {
+    "id": 481607336,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran, Minab: Iran womens kabaddi team finishes runnerup",
+    "location": "Tehran, Minab",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran women’s kabaddi team finishes runner‑up at Asian Games📌 Tehran, IRNA – Iran’s national women’s kabaddi team has delivered a strong performance and finished as runner‑up at the 2026 Asian Games kabaddi final in Nagoya.The women’s kabaddi final took place on September 26, 2026, at Tokai Citizen Arena in Nagoya, where a close 37–34 contest ended with India taking the title and the Iranian team finishing as runner‑up.​The match opened evenly, with both sides trading points in the first minu",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
