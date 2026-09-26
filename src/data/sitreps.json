@@ -182212,6 +182212,62 @@
     "verified": false
   },
   {
+    "id": 1790410794854,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Utter disgrace for the entire Iranian nation, the Resistance world, and the Shia world.Pezeshkian, while sitting inside America, the country that killed the highest religious authority of the Shia Islamic world, was asked about Imam Mujtaba Khamenei and his recovery. His response says a lot. There...",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/b51f4bd743.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/be_dYrX8k_dppQu0KLKpMtbjwfI4qD_I8cLgLiP6oTrIcZzw3v4jADpYk3bVKTtkrr0E3fvZROzT-M1NA5-A9cW-PxWHy12h-K4LDKCiUc2dD105Fym8z0ou21Ea2dQ_XqGaFyeMsZBkSxr_68Epn-WkEBysebFs-9_VZtE1qp7Mt7E-1dvK8-gP7MQLxMGmg0eGJjnT---Wq1trGIMMx2deEk15-t3VVRbyQ9-ztDpUL_gGppoKh_sGfpyyh4r25DvTv3ma9Ph_Vno_113V1pIQQJyEGvBuMqFykX4YzU6p9ZSOxWD9PwKP_ewQ490QVYl0qMCP7vfkQ3v9gHTdfg"
+      },
+      {
+        "url": "https://t.me/enemywatch/62566",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/be_dYrX8k_dppQu0KLKpMtbjwfI4qD_I8cLgLiP6oTrIcZzw3v4jADpYk3bVKTtkrr0E3fvZROzT-M1NA5-A9cW-PxWHy12h-K4LDKCiUc2dD105Fym8z0ou21Ea2dQ_XqGaFyeMsZBkSxr_68Epn-WkEBysebFs-9_VZtE1qp7Mt7E-1dvK8-gP7MQLxMGmg0eGJjnT---Wq1trGIMMx2deEk15-t3VVRbyQ9-ztDpUL_gGppoKh_sGfpyyh4r25DvTv3ma9Ph_Vno_113V1pIQQJyEGvBuMqFykX4YzU6p9ZSOxWD9PwKP_ewQ490QVYl0qMCP7vfkQ3v9gHTdfg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790410781379,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Foreign minister outlines Iran’s seven-day plan to reopen Strait of Hormuz📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has outlined Iran’s seven-day plan to reopen the Strait of Hormuz, provided that the United States accepts the conditions of the Islamic Republic.Speaking at a stakeout at t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790410740601,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Araghchi: Development must not be held hostage to coercion, discrimination📌 Tehran, IRNA – Foreign Minister Abbas Araghchi says development must never be held hostage to coercion, discrimination, political agendas, or unilateralism, stressing that sustainable development is impossible without pe...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790396339330,
     "type": "rocket",
     "location": "Fars",

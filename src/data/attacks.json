@@ -133921,6 +133921,113 @@
     ]
   },
   {
+    "id": 481564454,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, Taba: Utter disgrace entire Iranian nation Resistance",
+    "location": "Israel, Taba",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Utter disgrace for the entire Iranian nation, the Resistance world, and the Shia world.Pezeshkian, while sitting inside America, the country that killed the highest religious authority of the Shia Islamic world, was asked about Imam Mujtaba Khamenei and his recovery. His response says a lot. There was no expression of protest over the martyrdom of the Leader and his family, nor any strong condemnation of the circumstances surrounding their deaths. Instead, the response focused directly on the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/b51f4bd743.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/be_dYrX8k_dppQu0KLKpMtbjwfI4qD_I8cLgLiP6oTrIcZzw3v4jADpYk3bVKTtkrr0E3fvZROzT-M1NA5-A9cW-PxWHy12h-K4LDKCiUc2dD105Fym8z0ou21Ea2dQ_XqGaFyeMsZBkSxr_68Epn-WkEBysebFs-9_VZtE1qp7Mt7E-1dvK8-gP7MQLxMGmg0eGJjnT---Wq1trGIMMx2deEk15-t3VVRbyQ9-ztDpUL_gGppoKh_sGfpyyh4r25DvTv3ma9Ph_Vno_113V1pIQQJyEGvBuMqFykX4YzU6p9ZSOxWD9PwKP_ewQ490QVYl0qMCP7vfkQ3v9gHTdfg"
+      },
+      {
+        "url": "https://t.me/enemywatch/62566",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/be_dYrX8k_dppQu0KLKpMtbjwfI4qD_I8cLgLiP6oTrIcZzw3v4jADpYk3bVKTtkrr0E3fvZROzT-M1NA5-A9cW-PxWHy12h-K4LDKCiUc2dD105Fym8z0ou21Ea2dQ_XqGaFyeMsZBkSxr_68Epn-WkEBysebFs-9_VZtE1qp7Mt7E-1dvK8-gP7MQLxMGmg0eGJjnT---Wq1trGIMMx2deEk15-t3VVRbyQ9-ztDpUL_gGppoKh_sGfpyyh4r25DvTv3ma9Ph_Vno_113V1pIQQJyEGvBuMqFykX4YzU6p9ZSOxWD9PwKP_ewQ490QVYl0qMCP7vfkQ3v9gHTdfg"
+      }
+    ]
+  },
+  {
+    "id": 481568022,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Qeshm, Minab: Foreign minister outlines Irans sevenday plan",
+    "location": "Tehran, Qeshm, Minab, Sirik, Strait of Hormuz, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Foreign minister outlines Iran’s seven-day plan to reopen Strait of Hormuz📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has outlined Iran’s seven-day plan to reopen the Strait of Hormuz, provided that the United States accepts the conditions of the Islamic Republic.Speaking at a stakeout at the United Nations headquarters in New York on Friday, Araghchi said that the seven-day period begins once the US accepts the plan. “If this happens tomorrow, the implementation of the plan will begin ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481571591,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Minab, Lebanon: Araghchi Development must held hostage coercion",
+    "location": "Tehran, Minab, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Araghchi: Development must not be held hostage to coercion, discrimination📌 Tehran, IRNA – Foreign Minister Abbas Araghchi says development must never be held hostage to coercion, discrimination, political agendas, or unilateralism, stressing that sustainable development is impossible without peace and respect for international law.Araghchi made the remarks on Friday at a high-level meeting of the Global Development Initiative held on the sidelines of the annual session of the United Nations",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481557321,
     "type": "drone",
     "status": "confirmed",
