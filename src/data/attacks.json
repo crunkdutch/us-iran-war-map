@@ -133693,6 +133693,43 @@
     "media": []
   },
   {
+    "id": 481589451,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaIsrael Hayom Hebrew newspaper citing Sergeant",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper , citing Sergeant “A,” an Iron Dome battery operator:– For two months, we have faced large-scale barrages from Hezbollah.– Hezbollah is trying to study our methods, and we, in turn, are trying to study it.– Our enemy differs, to some extent, from the enemy faced by the fighters who cross the fence. The enemy in our area reaches us via drones and missiles.– Like any citizen who feels fear, we also feel afraid when we see Hezbollah’s drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/T-iYI-P4ax69FsHUdwhuhk6N_UzwTJ_DZBIhEczPfznxYXeMGrN7lUm5oIYqtXAbIxVVI2Z7vLy5YbaSQVl0jBXbYrwweldyI4FNzEuH2UEO42KzXGvE7HHgZmRfcqp-Hw5pvBiq3Q3hBPAhR4WQ0AwvfXyOZXs2uMdm1xHJc-CxjbPiIjcvZO_dhELyBZDcjT3yGra2qXmJcLgzvqK_3-mWawIJGPeBJspEaHLqgIhWJn2llcagHO25kDO3Y_KhhVdC1mVfRWt5PN4oW1zY3qg7ulPyc5OK1-uDlRuqxAg9gnnSA7iwULXPXlnbsexEsl6sX0Hks0zMddBXKbf3Kg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 481475579,
     "type": "drone",
     "status": "confirmed",
@@ -134183,6 +134220,38 @@
       "other": 0
     },
     "description": "🟡 | Regional developments | September 26, 2026 (-ve) developments🇸🇦 Saudi Arabia ❌ 🇾🇪 Yemen- Saudi aggression continued across Yemen. Saudi warplanes carried out two airstrikes on Qataber District in western Saada Governorate, while a separate wave of attacks targeted Taiz Governorate.- Saudi aircraft launched four airstrikes on the Maweeyah Junction in Al-Ta’izziyah District, Taiz Governorate. Additional Saudi airstrikes were also reported across Taiz Governorate.🇱🇧 LebanonIsraeli attack",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481585877,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Strait of Hormuz, Qatar: Pezeshkian says Iran ready talks rejects",
+    "location": "Tehran, Strait of Hormuz, Qatar, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Pezeshkian says Iran is ready for talks, but rejects coercion and bullying📌 Tehran, IRNA – President Masoud Pezeshkian says Iran engages in dialogue to resolve issues but will never accept bullying or the use of force, and will never allow anyone to force it into submission.The president made the remarks in an exclusive interview with CBS News’ “Face the Nation,” aired late on Friday. Pezeshkian elaborated on Iran’s stance on domestic issues as well as regional and international developments",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
