@@ -178700,7 +178700,18 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇸🇦 | Breaking — Explosions reported near King Khalid International Airport in Riyadh:Flames and a large plume of black smoke were observed rising near King Khalid International Airport in Riyadh. Renewed explosions were also reported near the airport as the situation continued to develop.🔻@enemyw...",
-    "media": [],
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/d98c690120.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/Q8rkP_PLa1yIkiBmZIxgJdEYCRtQVLMYtO8IA5sHyUZyu99pv1YDAqOdHK26WI0msmc5kr708Hg9AgUfc2RA1YHi_zHwlmO4A3aiPVTVwXInX-YQrP1P7ml1hz6oXdZtM8Q_-J47fU_XCf4RIt6Fb8RDOFgbb10Dnw_zLUod7BSfh6ZPvK0gqSkIusBqKBQEmygfemTf49zc_dkkATeO_M4gspq_Yq4eDw-dxLiyENYBFv12FaCoDlp5wZf52PfkD_VR6pNI0YbmkYKHL7qtE9CN7euLZcXJd_GUcI0dGZek-pKAzepco7ZP3bj5ZNf5PjL6w26KZKVV9eMyF2eblw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62293",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/Q8rkP_PLa1yIkiBmZIxgJdEYCRtQVLMYtO8IA5sHyUZyu99pv1YDAqOdHK26WI0msmc5kr708Hg9AgUfc2RA1YHi_zHwlmO4A3aiPVTVwXInX-YQrP1P7ml1hz6oXdZtM8Q_-J47fU_XCf4RIt6Fb8RDOFgbb10Dnw_zLUod7BSfh6ZPvK0gqSkIusBqKBQEmygfemTf49zc_dkkATeO_M4gspq_Yq4eDw-dxLiyENYBFv12FaCoDlp5wZf52PfkD_VR6pNI0YbmkYKHL7qtE9CN7euLZcXJd_GUcI0dGZek-pKAzepco7ZP3bj5ZNf5PjL6w26KZKVV9eMyF2eblw"
+      }
+    ],
     "verified": false
   },
   {
@@ -182079,6 +182090,21 @@
     "verified": false
   },
   {
+    "id": 1790432370638,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-24",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen New footage shows the targeting of gatherings and vehicles belonging to the Saudi enemy with Rajum drones on several fronts.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790316969964,
     "type": "drone",
     "location": "Hodeidah",
@@ -182494,6 +182520,57 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790432439494,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | New footage showing Yemeni armed forces using “Rajum” drones to target concentrations of troops and vehicles belonging to the Saudi enemy on multiple fronts. 🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62576",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/v8EWSm4lcMbbJYBkjRHLT_ILsf8ReUZXIsSKNZ5sCrEgKymFIxPfNnj_iL1v0rSj7iz5IukCJ14rDKzOZeuG_uIeUEKeBgU_9QxglZTmnaTWro5n-H_NamqP10bLBgQ0t5EmXjEiqSDO8_Josbp4TVtIPYjegMEj-vNJpo3EcMC5aYKvmKYBTjisQ_eqvm0jLyMPOWguP97s7a8WCeb0qSCG_b3KnaPfIk_pthENgjTQepiYX0Sh1XKcz6F8G_nYjbBEckPVlaymP2hJ8u4dAqooiDQ0GUW5xA4y8-8lvmdr_Tnx_MXdaerhFL5-Q49YKM-JQHD4fkamvGlXRhJiWg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790432414852,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶/ 🇮🇷 | A rally is being held in Basra, Iraq, against Iraq’s acceptance of American pressure to restrict Iranian flights.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790432380525,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 England vs Spain: Team news, injuries, predicted lineups at Wembley📌 England vs Spain: team news, possible lineups, head-to-head stats and TV coverage for the UEFA Nations League clash at Wembley.England face Spain at Wembley in a heavyweight UEFA Nations League meeting that also brings back mem...",
+    "media": [],
     "verified": false
   },
   {

@@ -134257,6 +134257,108 @@
     "media": []
   },
   {
+    "id": 481593026,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: footage showing Yemeni armed forces using",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | New footage showing Yemeni armed forces using “Rajum” drones to target concentrations of troops and vehicles belonging to the Saudi enemy on multiple fronts. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62576",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/v8EWSm4lcMbbJYBkjRHLT_ILsf8ReUZXIsSKNZ5sCrEgKymFIxPfNnj_iL1v0rSj7iz5IukCJ14rDKzOZeuG_uIeUEKeBgU_9QxglZTmnaTWro5n-H_NamqP10bLBgQ0t5EmXjEiqSDO8_Josbp4TVtIPYjegMEj-vNJpo3EcMC5aYKvmKYBTjisQ_eqvm0jLyMPOWguP97s7a8WCeb0qSCG_b3KnaPfIk_pthENgjTQepiYX0Sh1XKcz6F8G_nYjbBEckPVlaymP2hJ8u4dAqooiDQ0GUW5xA4y8-8lvmdr_Tnx_MXdaerhFL5-Q49YKM-JQHD4fkamvGlXRhJiWg"
+      }
+    ]
+  },
+  {
+    "id": 481596602,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Jordan: England Spain Team news injuries predicted",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 England vs Spain: Team news, injuries, predicted lineups at Wembley📌 England vs Spain: team news, possible lineups, head-to-head stats and TV coverage for the UEFA Nations League clash at Wembley.England face Spain at Wembley in a heavyweight UEFA Nations League meeting that also brings back memories of the Euro 2024 final. Spain won that match 2-1 in Berlin, but England will now have home advantage as both sides begin their latest Nations League campaign.​La Roja arrive with a remarkable un",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481600179,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Strait of Hormuz, Yemen: Iran longer trusts dialogue with United",
+    "location": "Tehran, Strait of Hormuz, Yemen, Qatar, Saudi Arabia, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran no longer trusts dialogue with United States: President📌 Tehran, IRNA –President Masoud Pezeshkian has said Iran no longer trusts negotiations with Washington, pointing to repeated US breaches of the diplomatic process, attacks and sanctions imposed after every round of talks with Tehran.In an interview with Al Jazeera on Saturday, Pezeshkian set out the Islamic Republic’s position on key issues and drew a clear line against any renewed diplomatic engagement with the United States.​He s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
