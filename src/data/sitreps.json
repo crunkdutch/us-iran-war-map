@@ -686,6 +686,21 @@
     "verified": false
   },
   {
+    "id": 1790511782891,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2024-09-27",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Tehran Province to hold rallies marking Nasrallah’s martyrdom anniversary📌 Varamin, IRNA – People in cities and towns across Tehran Province will hold evening rallies on Sunday to commemorate the second anniversary of the martyrdom of Hezbollah Secretary-General Sayyed Hassan Nasrallah, an Irani...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785002024075,
     "type": "airstrike",
     "location": "Gilan",
@@ -183356,6 +183371,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790511791236,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenAnsar Allah Political Bureau member Judge Abdul-Wahab Al-Mahbashi:– We do not forget Sayyed Hassan Nasrallah’s stance on the second day of the Saudi aggression against our country, at a time when the entire world remained silent.– Sayyed Hassan Nasrallah stood with Yemen in every speech and on...",
+    "media": [],
     "verified": false
   },
   {

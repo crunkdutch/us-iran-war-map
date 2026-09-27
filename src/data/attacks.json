@@ -135003,6 +135003,38 @@
     ]
   },
   {
+    "id": 481668332,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-27",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Strait of Hormuz: Iran captures second underwater drone Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran captures second US underwater drone in Strait of Hormuz📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced the seizure of a second unmanned underwater vehicle (UUV), belonging to \"the US terrorist military\" in the Strait of Hormuz.In a statement on Sunday, the IRGC said its naval forces intercepted and successfully took into possession an advanced American UUV, as it was conducting espionage activities in the strategic waterway off the country's southern coast",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
