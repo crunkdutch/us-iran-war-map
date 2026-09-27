@@ -134289,6 +134289,70 @@
     "media": []
   },
   {
+    "id": 481643181,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Lebanon, Israel: Enemy_MediaHebrew Channel Hezbollah members launched explosi...",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 12: Hezbollah members launched an explosive drone tonight toward “Israeli” army forces operating in the security zone in southern Lebanon.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481646771,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Lebanon, Yemen, Iraq: Occupied_PalestineIn name Allah Most Gracious Most",
+    "location": "Lebanon, Yemen, Iraq",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the name of Allah, the Most Gracious, the Most MercifulPress statement issued by the Resistance Committees in Palestine on the second annual anniversary of the martyrdom of the great Islamic and jihadist leader, Sayyed Hassan Nasrallah:The Resistance Committees in Palestine, together with our people, our Arab and Islamic nation, and free people around the world, commemorate the second anniversary of the martyrdom of Sayyed Hassan Nasrallah on the path to Al-Quds, rememberin",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481557321,
     "type": "drone",
     "status": "confirmed",
@@ -134626,6 +134690,113 @@
       "other": 0
     },
     "description": "🇮🇷 | Initial reports of explosions in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481632417,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-27",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Israel: Iran NATO chiefs remarks confirm Europes",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran: NATO chief’s remarks confirm Europe’s ‘indispensable role’ in US-Israeli war📌 New York, IRNA – Iran’s Ambassador and Deputy Permanent Representative to the United Nations in New York, Gholamhossein Darzi, says NATO chief’s acknowledgment that thousands of planes took off from European territory to launch attacks against Iran demonstrates “the indispensable role” Europe played in facilitating US aggression and war crimes against Iran.The ambassador made the remarks in a letter dated Sep",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481636004,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-27",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia: interview with Jazeera Iranian President Pezeshkian",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "In an interview with Al Jazeera, Iranian President Pezeshkian said: The attack on Saudi Arabia's pipelines was carried out neither by Iran nor by the Resistance groups.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b095f207f1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V-2rFvO0jjQ8ke0AbUbVlAuvlgL8hnHc5ntile_FpxRXuErwLMz-1xkbUmuQVOH8EVTyBMfYmheIi8VeqsFBARJOCREa9HzZfHHA7KHOyj4Y8gedj_B6_MG3FfZ4UOAGXvFqJrW9KjsRV6-Ha_o5lDQ4IKd-tJyaFx2dT-hZ1uUICDD0WYq6w1yJzoKDQoJOKi1xr3U0HRwldvF7ox0izg46DY4W1U9wHuRV0l7ikhiPeLRSEDEbU4fTc1FIYjd4rquxuvX2KuvGNUlzoZ9yqpXAyultpFAwqqANu5U-TTynbzPQTg2NTxOMFQ83W3x6cvVeq-lxAcy6YR_74yzPfA"
+      },
+      {
+        "url": "https://t.me/Irna_en/40006",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V-2rFvO0jjQ8ke0AbUbVlAuvlgL8hnHc5ntile_FpxRXuErwLMz-1xkbUmuQVOH8EVTyBMfYmheIi8VeqsFBARJOCREa9HzZfHHA7KHOyj4Y8gedj_B6_MG3FfZ4UOAGXvFqJrW9KjsRV6-Ha_o5lDQ4IKd-tJyaFx2dT-hZ1uUICDD0WYq6w1yJzoKDQoJOKi1xr3U0HRwldvF7ox0izg46DY4W1U9wHuRV0l7ikhiPeLRSEDEbU4fTc1FIYjd4rquxuvX2KuvGNUlzoZ9yqpXAyultpFAwqqANu5U-TTynbzPQTg2NTxOMFQ83W3x6cvVeq-lxAcy6YR_74yzPfA"
+      }
+    ]
+  },
+  {
+    "id": 481639592,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-27",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Tehran, Strait of Hormuz: Iran respond aggression with military technologies",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran to respond to any aggression with new military technologies: Armed Forces📌 Tehran, IRNA – Brigadier General Abolfazl Shekarchi, senior spokesperson of Iran’s Armed Forces, says Iran’s missiles and drones have become more advanced and powerful, warning that the country has “surprises” for its enemies and will respond to any possible aggression with new military technologies.Speaking on a special news program on Saturday evening, Shekarchi said the most important transformation in Iran’s ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
