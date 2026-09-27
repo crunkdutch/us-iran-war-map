@@ -184240,6 +184240,49 @@
     "verified": false
   },
   {
+    "id": 1790547949428,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Higher chances that escalation in the Strait of Hormuz will increase now after the failure of any attempt at negotiations.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790547916749,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-27",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇱| Exclusive satellite imagery of three newly built Israeli military bases in the occupied Syrian Golan Heights.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LstTMpD8NGGQiZ2E_7SQT4Cbk7RM7PPViEB06KSfN0kQsetzLxVWJzUgJq5CMhuu1dBvxlcsBigNRGC9iyGJs3ziGYr-gvxFg2jK2uCzR0SvanzUxTVc5948juQOmQe4IvD2fCmVKvZ9Li2DCCA0xd-ojRy0tdm8AU0QPKnhr3l0ij8usgMo6zSgCKnPW1ZImDzJggmJdLjYfDv3BbKqJlzGyfoh92SntugmC8q79FIoYmCAmJLfyEOvTVTSaIABD58jchWjJe7XW9wKFcBOitzhAGBb6263142jEyKvNCsq_wIcywc06U-HchDxNlrOd1QPKDeXY5KC95tLW0V08g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/GWgZzjXcqlb6nwUdS7mNhSeN6-lEUTk1BKJcnaxiVnefjxbV3wiQnWkm-3VF6IB0pMcwwzJBD5XlSBYIZyW3F7v7IEAmK1DUJuBeTjN6AT_0lpGiO7wQ7egGFbn_8rq9BjNUSKJUE-vOS7_e-Isj1AVx_wBRZYSrd3_ie8tKYBqNY0hyDwRAHiAp1LgBmWZmObYcFjVmoPxid-Kj1JCwBcbe1dZJxEHIYf5sUfjjI9YM1YOco-kyPa4-6Pxji7MBluWG_k2xJxuomOgm06SyOZgEAJ0JkgPJqDhw7j8XMX7jLEoEcHJvL2bpjZ8z_8yIqZfDk5rko1xlXgFHXSJCeg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JcAdUtIr4FpHy_Qzne9Oq1o5oKJ9E-LzdeP_HOsBoZfWz4Ed59XrZyx3eLgZlTHIzYGUDcpXPQHrkX3g71sg9sEjBxJWgxDkjoVXJ1TtZpGC-PBCchVq2FcRKabCBOXZofz6z8x3uhhRQ2phWKzBN7Z5Uy8MWeJjZODDBYESow9D7Or3JiW-g5ROEJu3WLVqiuwp9lhczrdka8FKKCNac8YEp-UleOOS4S1xYa_2ELSRBJEG0m227kySbab0T2_B2aO-M7H9vDY0p5qH3HYNNCC6ehx9yWySs4-MS_SZSFqg-qQ-FOHQHHzau6vWuY0va491j4_sMZxWaT48HvINRA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
