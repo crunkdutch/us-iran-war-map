@@ -131010,6 +131010,102 @@
     "media": []
   },
   {
+    "id": 481621662,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Hodeidah, Red Sea: AnsarAllah begun installing radars hills overlooking",
+    "location": "Sanaa, Hodeidah, Red Sea, Bab al-Mandab",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | AnsarAllah has begun installing radars on hills overlooking the southern Red Sea. AnsarAllah coast guard forces are working to protect deployments in the Bab al-Mandab Strait and impose extensive maritime control within their area of control, amid concerns that hostile parties could target ships or expose them to piracy. An official source in the Red Sea Ports Corporation confirmed that the corporation, which manages the ports of Salif, Ras Issa, and Hodeidah, has restored the port of Moc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481625246,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Strait of Hormuz, Red Sea, Bab al-Mandab: currently stands there appear increasingly high",
+    "location": "Strait of Hormuz, Red Sea, Bab al-Mandab, Lebanon, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🚨 | As it currently stands, there appear to be increasingly high chances of a mass joint aggression against AnsarAllah, Lebanon, and Iran, potentially involving america, israel, and some of their regional allies. The ongoing military deployments, aerial activity, naval positioning, diplomatic coordination, and escalating rhetoric point toward preparations for a much broader regional confrontation rather than isolated operations.The potential scenario is that Trump’s meeting at Camp David was pa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481628831,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iran condemns terrorist attack Pakistan Tehran",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran condemns terrorist attack in Pakistan📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has strongly condemned a terrorist attack near a mosque in Kohat, Pakistan’s Khyber Pakhtunkhwa province, during Friday prayers, which killed and injured dozens of people.In a statement on Friday evening, Baqaei expressed condolences to the families of those killed as well as the government and people of neighboring Pakistan.​He underscored Iran’s principled position in firmly condemning a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481160804,
     "type": "airstrike",
     "status": "confirmed",
