@@ -135439,6 +135439,81 @@
     "media": []
   },
   {
+    "id": 481715171,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-27",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Regional developments September 2728 2026 YemenThe",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | September 27–28, 2026 (+ve) 🇾🇪 YemenThe Yemeni Armed Forces stated: “With God’s help, the Yemeni armed forces were able to shoot down an armed Karial-type reconnaissance aircraft, belonging to the Saudi enemy, while it was carrying out hostile activities in the airspace of the Al-Tina area in Hajjah province. The aircraft was shot down using appropriate weaponry.”🇮🇷 Iran• The CEO of Imam Khomeini Airport stated that despite sanctions, the airport continues to pro",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e5f69aa012.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FVJdGbcsRltG9DKxtQd7zBuwPCOfxb79rr1_1sC1iAJTENBKEwIxb1MMGgSL067p7SvllbnSAlKwxzHPtILQAdG-eAA9KZbW-iG4JoOlJC2HuRwAYIZYKD0y2KfhP-kRbigRy99gv0aZ88T0S24OYMj_YXMmhGckb7CJM1LS3dKdFuq3brjJTL7PQxlyj3OvxfI9sJ-LrvUrSF4OzZueOf_lq3rRUhmOjboK4WiR7OmaWZMk4Nv6cAzo1HlQPWm-gN2v99W7FYccwq1ncuxRH7J0CWSzmATQizrJZnsk_Fi8vRKjdRwUmjU1QtObpG1KF0hHkVVbpjsu7FgTs2h64Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62636",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FVJdGbcsRltG9DKxtQd7zBuwPCOfxb79rr1_1sC1iAJTENBKEwIxb1MMGgSL067p7SvllbnSAlKwxzHPtILQAdG-eAA9KZbW-iG4JoOlJC2HuRwAYIZYKD0y2KfhP-kRbigRy99gv0aZ88T0S24OYMj_YXMmhGckb7CJM1LS3dKdFuq3brjJTL7PQxlyj3OvxfI9sJ-LrvUrSF4OzZueOf_lq3rRUhmOjboK4WiR7OmaWZMk4Nv6cAzo1HlQPWm-gN2v99W7FYccwq1ncuxRH7J0CWSzmATQizrJZnsk_Fi8vRKjdRwUmjU1QtObpG1KF0hHkVVbpjsu7FgTs2h64Q"
+      }
+    ]
+  },
+  {
+    "id": 481718781,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-27",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: naval cruise missile launched offending vessel",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | A naval cruise missile was launched at an offending vessel that was following an unauthorized route through the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
