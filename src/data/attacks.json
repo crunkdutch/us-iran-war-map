@@ -131138,6 +131138,38 @@
     "media": []
   },
   {
+    "id": 481689929,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-19",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Qatar: Islamic_RepublicSecretary Irans Supreme National Security Co...",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council, Major General Mohsen Rezaei: – The U.S. president’s assessments and calculations regarding Iran were incorrect, and the war was instigated by Netanyahu.– It is in Washington’s interest to accept our conditions for exiting the war. Trump’s threats will achieve no results, and we are prepared for a decisive war.– We know the weaknesses of the U.S. army and are more prepared than before to confront its airstrikes.– We have reac",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481160804,
     "type": "airstrike",
     "status": "confirmed",
@@ -131713,6 +131745,144 @@
       "other": 0
     },
     "description": "🎙 Top security official: Trump foolishly continues war, but Iran fully ready for self-defense📌 Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Mohsen Rezaei says US President Donald Trump waged a foolish war on Iran and is foolishly continuing it. However, Iran stands ready to give a stronger and more painful response should the US resume military aggression, as it did during the 40-day conflict that began earlier this year.Rezaei made the remarks in an exclusive interview",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481671929,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Rocket Attack — Yemen, Kuwait, Saudi Arabia: there direct recent indications from Iranian",
+    "location": "Yemen, Kuwait, Saudi Arabia, Taba, Turkey",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— As of now, there are NO direct and recent indications from the Iranian side regarding the situation in Yemen and its possible response in the event of massive bombardment of the Yemeni resistance. If such strikes occur, there is a higher possibility that AnsarAllah could begin targeting American bases and infrastructure inside Saudi Arabia and potentially American diplomatic facilities. There are also concerns that Kuwait could be used as a platform for major strikes against Iran, which could,",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481675527,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Imam Khamenei nation Yemen Ansarallah really",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇮🇷 | Imam Khamenei (r): \"The nation of Yemen and Ansarallah really did a great job. What they did in support of the people of Gaza was a great work. They struck the vital channels of the Zionist regime. They didn't fear the threats of America, for a God-fearing person does not fear anyone but God.\" (16/01/2024)\"What they did is a clear example of jihad in the path of Allah. God willing, these actions, these endeavors, and these efforts will continue until victory.\" (16/01/2024)\"The Saudis",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/VEDtDkks34ExKmHt_1F73wWERJXiL6d8AuxBtEt3ZxwsuZBtkijW1iljFHRv5DDMLCNXy6E7t-2J614YI4pdIeqm7-6pLaO2Buhi6VW4klmePHO-HpWjKJULA80wuWEuxYU-vmUZ1Y8k0NgoycL8zKD9vH-GFETGoB1zqjsxOOQo7GSGCD_-XdCdtUEMPLI0wKq_qH98D8-I6W5oDP41NZfQ8_g89toWaQNbJn1VZEjhXGqIwB7yQXxex2hZYrPT7v5zzo9mZ1ZPGyxdtBPTnR4YAzoNZvrC0MvR7dkqHTmPJcoty_r7rJHO_2BtE74iccKQ4gE5EpiwIU0MHWsMeQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481679126,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Kerman: Three terrorist operational cells dismantled West",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Three terrorist operational cells dismantled in West Azerbaijan, Alborz, and Kerman:Iran’s Ministry of Intelligence announced that it has identified and dismantled three operational cells affiliated with terrorist groups in the provinces of West Azerbaijan, Alborz, and Kerman of Iran.West Azerbaijan: A member of a separatist terrorist group, who allegedly planned to assassinate a security commander in Piranshahr, was killed during a clash with security forces.Alborz: A man identified as A",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Wr9APFTDNYyao75Lu5XhZhJAS__FsYYdvn-hK48lpDvzwS4SUY6Zy_6ksjjmwLv-DJJG2Pn1CzC4ttxejnXQ7H9q7KmHhoytHq7eCradMckzSvUEATDy7Ri6MPFaoESgfkIXzcgJoQ28UoyuI2bhm5_x7gRmzk_qJDYsTsKS5MzYn8MzPXsErwW1jiDE_yc_5TBgwTMFflN02S6z9AOsloGArqsB-N8VGw8jJWb-9omx4yixSW4nF_EungkqaX-1Y609uCPBXknQzwLF9jr4H7WC8ILP2Hd6eKjRBJ6JwfMuGTsV6mRUoSt9qbewfzCZ8cPQ9BoAnXLGX5xbqKp1_A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481682726,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Lebanon, Syria, Yemen: increasing systematic oppression Muslims which intensified",
+    "location": "Lebanon, Syria, Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "✅ | Due to the increasing and systematic oppression of Muslims, which intensified further after the genocide in Gaza, many ordinary Muslims have naturally developed a strong emotional affinity toward Muslim nations and communities generally. However, one must not overlook the fact that several governments of these same Muslim-majority countries have themselves played significant roles in the destruction and destabilization of Gaza, Lebanon, Iran, Syria, and Iraq. The public in these countries, w",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
@@ -135030,6 +135200,38 @@
       "other": 0
     },
     "description": "📡 Iran captures second US underwater drone in Strait of Hormuz📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced the seizure of a second unmanned underwater vehicle (UUV), belonging to \"the US terrorist military\" in the Strait of Hormuz.In a statement on Sunday, the IRGC said its naval forces intercepted and successfully took into possession an advanced American UUV, as it was conducting espionage activities in the strategic waterway off the country's southern coast",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481686327,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-27",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Minab, Yemen, Saudi Arabia: Yemeni Armed ForcesToday Sunday September 2026",
+    "location": "Minab, Yemen, Saudi Arabia",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 50,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:Today, Sunday, September 27, 2026, at 11:00 AM, a Saudi military formation of \"F-15\" aircraft headed from Khamis Mushait base toward Taiz Governorate and launched two airstrikes on the Taiz market at Mawiyah junction at 11:29 AM, committing an abominable crime against civilians that left approximately 50 people between martyrs and wounded as an initial toll. It then left Taiz airspace at 11:37 AM, heading to Al-Jawf Governorate, where it launched four airstrikes o",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

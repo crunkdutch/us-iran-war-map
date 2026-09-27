@@ -179716,6 +179716,141 @@
     "verified": false
   },
   {
+    "id": 1790519083847,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-19",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: Two soldiers from the \"Israeli\" army were wounded today after an engineering vehicle drove over a Hezbollah explosive device inside the security belt in Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519003529,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio:The \"Israeli\" army estimates that the explosive device that detonated was an old device planted in the area before the ceasefire.The device detonated in the Wadi Al-Salouqi area in southern Lebanon. The two soldiers who were wounded are reservists.#Military_Med...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519057771,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council: – We remain committed to the fatwa issued by the martyred Leader of the Islamic Revolution, and we have not changed our nuclear doctrine. However, we do not know what may happen in the future.– The American and \"Israeli\" actions...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519014181,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-19",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Hezbollah Secretary-General His Eminence Sheikh Naim Qassem, in a speech during the Martyr of Resistance Conference marking the 55th anniversary of the founding of the Imamia Students Organization in Pakistan: – Resistance is the only way to liberate the land.– Confronting hegemony and \"Israel\" can ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519033317,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-19",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper: The \"Israeli\" army is concerned that Hezbollah may take advantage of the upcoming winter weather and infiltrate under foggy conditions to plant explosive devices targeting \"Israeli\" army forces in southern Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519092575,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israeli\" enemy army radio: An \"Israeli\" was critically wounded in the shooting attack in Neve Tzuf.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519023031,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: A security source calls on those holding weapons licenses to go to the synagogue with their personal weapons during Yom Kippur, remain vigilant, and be prepared for any emergency.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519090509,
+    "type": "airstrike",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_Palestine Saraya Al-Quds: We congratulate the heroic operation near the “Halamish” settlement, west of Ramallah, which resulted in the killing of a settler. We call on the revolutionaries and heroes of our people in all cities, camps, and villages of the occupied West Bank and Jerusalem to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519000016,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Another attack: A vehicle without a license plate attempted to run over two \"Israelis\" from “Giv'at Yeshua Yisrael” on the Gil'in route [Gil'in/Wadi Al-Haramiya corridor northeast of Ramallah], at the Silwad cemetery intersection. There were no injuries. The vehicle fled...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789898374125,
     "type": "airstrike",
     "location": "Kharg Island",
@@ -180298,6 +180433,101 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 Top security official: Trump foolishly continues war, but Iran fully ready for self-defense📌 Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Mohsen Rezaei says US President Donald Trump waged a foolish war on Iran and is foolishly continuing it. However, Iran stands ready to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519044412,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-20",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— As of now, there are NO direct and recent indications from the Iranian side regarding the situation in Yemen and its possible response in the event of massive bombardment of the Yemeni resistance. If such strikes occur, there is a higher possibility that AnsarAllah could begin targeting American b...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519003429,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇮🇷 | “I declare my support for the resistance of Yemen’s believing men and women&#33;\"— Imam Khamenei (r)🚩@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/VEDtDkks34ExKmHt_1F73wWERJXiL6d8AuxBtEt3ZxwsuZBtkijW1iljFHRv5DDMLCNXy6E7t-2J614YI4pdIeqm7-6pLaO2Buhi6VW4klmePHO-HpWjKJULA80wuWEuxYU-vmUZ1Y8k0NgoycL8zKD9vH-GFETGoB1zqjsxOOQo7GSGCD_-XdCdtUEMPLI0wKq_qH98D8-I6W5oDP41NZfQ8_g89toWaQNbJn1VZEjhXGqIwB7yQXxex2hZYrPT7v5zzo9mZ1ZPGyxdtBPTnR4YAzoNZvrC0MvR7dkqHTmPJcoty_r7rJHO_2BtE74iccKQ4gE5EpiwIU0MHWsMeQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790519079326,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-20",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇮🇷 | Imam Khamenei (r): \"The nation of Yemen and Ansarallah really did a great job. What they did in support of the people of Gaza was a great work. They struck the vital channels of the Zionist regime. They didn't fear the threats of America, for a God-fearing person does not fear anyone but...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519016259,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Three terrorist operational cells dismantled in West Azerbaijan, Alborz, and Kerman:Iran’s Ministry of Intelligence announced that it has identified and dismantled three operational cells affiliated with terrorist groups in the provinces of West Azerbaijan, Alborz, and Kerman of Iran.West Aze...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519017327,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟦 | Breaking — Khatm al-Anbiyaa Central HQ:Make a mistake, and you will become targets of painful attacks:Based on the information received, the “criminal” america, in an attempt to cover up its failures and achieve illusory gains in a war that began by relying on israeli lies and fabricated scenes...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519013715,
+    "type": "intercept",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-20",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Collapse of Saudi Arabia’s most heavily fortified defense system:Explosions erupted again in the Saudi capital on Saturday evening, for the third time within hours, amid thick columns of smoke. What does this mean for a city considered the Kingdom’s most heavily defended and home to ma...",
     "media": [],
     "verified": false
   },
@@ -183604,6 +183834,36 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790519075353,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:Today, Sunday, September 27, 2026, at 11:00 AM, a Saudi military formation of \"F-15\" aircraft headed from Khamis Mushait base toward Taiz Governorate and launched two airstrikes on the Taiz market at Mawiyah junction at 11:29 AM, committing an abominable crime against...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790519033420,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-27",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran ready for decisive response to any new aggression, says Army spokesperson📌 Tehran, IRNA – Iranian Army spokesperson Brigadier General Mohammad Akrami-Nia has emphasized the Armed Forces’ readiness to confront any potential aggression, noting that if the enemy launches another attack, the Ar...",
+    "media": [],
     "verified": false
   },
   {
