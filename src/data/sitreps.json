@@ -179370,6 +179370,21 @@
     "verified": false
   },
   {
+    "id": 1790526319350,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-18",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— As of now, there are NO direct and recent indications from the Iranian side regarding the situation in Yemen and its possible response in the event of massive bombardment of the Yemeni resistance. If such strikes occur, there is a higher possibility that AnsarAllah could begin targeting American b...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789804431894,
     "type": "drone",
     "location": "Sanaa",
@@ -183619,6 +183634,26 @@
     "verified": false
   },
   {
+    "id": 1790526235167,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 In photos: Tehran welcomes students back as new school year begins📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/RakTET21LfwaSUJGJwpPqKnIy_ZXiDKkLN76VplaT9nRV_2QF9-21IZpxCy6Xwz1gRg9px1cEMf-GNL836qqkaND10JNulhK0sz3x3MjyTCEvbyWkGs7lt6jV_yuHvmcLDzTe7Jx33xpcw1pgOq84K3V1l6rpCvxb3eAosS4GZJx7C1xt52jMaH7aZz1nfAwOZa6_oIktqQVVSh2BHgKRS7wY5BLiaxaugJwdKlna0gCDR4MzNnwShvInZa2P4zd2lZqvAKNmLkKW1rgjJ-apQ5DZiyPTov8-_d0Ev44p2frNJkq8_EP_czygRCWrb4DlOqcu7WR1dF8Or1IiBao8A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790490143472,
     "type": "airstrike",
     "location": "Tehran",
@@ -183863,6 +183898,170 @@
     "source": "Iranian Army (Artesh)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Iran ready for decisive response to any new aggression, says Army spokesperson📌 Tehran, IRNA – Iranian Army spokesperson Brigadier General Mohammad Akrami-Nia has emphasized the Armed Forces’ readiness to confront any potential aggression, noting that if the enemy launches another attack, the Ar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790526288682,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 | Palestinian Islamic Jihad – Lebanon Front:Beloved of Palestine and the Master of the Martyrs of the Islamic Resistance in Lebanon, His Eminence Sayyid Hassan Nasrallah.🫥@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/sjlhxCTB3SFg4uCLtkQFw3SKFRz6aH_Js5pAer2LYju3Ys5rKO-9UfENR7nYtZk24q0AgDEYc23k8_mCtBaz46hat53vcerbmzel-OteBYA7vY_HIhYvzApwxDBU1LLqd8ikzrpxiGm0jw72-n4xkpTk-y1qmjjjc1ed8zHrA2EwmqhZp4nOrSLAnebPj_ihnotug65Z0ft2_LkbDhuM64AM4iJmZ8SJ1oG6_4HTIxlHO7VAu63EWSzZ8qqBeIVgL0C5sP9E-LO4xOZ55a4BfsNfgyMYFAgK4atL-TrD-vUyLpu530WYNwuOfUDCE7JoNNaE6OAKeSfAHXcx6SCvhQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790526251962,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-09-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Secretary-General of Kata’ib Sayyid al-Shuhada, Abu Alaa al-Wala’i, on the second anniversary of the martyrdom of Sayyid Hassan Nasrallah:In the name of Allah, the Most Compassionate, the Most Merciful“And those who strive in Our cause, We will surely guide them to Our ways...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790526239835,
+    "type": "airstrike",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 | Google has added comprehensive, high resolution satellite images taken in early 2026 covering most areas of the southern Gaza Strip. These images cover a total area of 235 square kilometers, with 99 km² from January and 137 km² from February. This is further proof of the horrific destruction,...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/T7UxlT1ihwuwW3LTOmT9atcKCRt7B9X_mEi2hKmQnLP5vJWr5edrHFP45f2NQvUYNbhBqKO6nr2trKbf-JNXPWMshYoNWd1FceVMzpmVTAsvTH1XGxwsGUoL-Iw5LHybzkH8IR02rFRxKYFd0atBLWWbXzmwdZrAMD2X3UZzVbatCuSLYKmrmwKJhDIGaqQm8H-DIeaaNWOhreZlNFNI1umn6JHPYyeTDWpEbgxt5PAOVpREf4fRwnjLm_PoIYbRYY2reRDoRth1-TRpT89Yari4yvSIdGfkrTC7os5lDcjXzvpHi0nP8knM0DAMsWob0zaBM6vy0HJNQtXbSoCCzQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Azzj0ii_tXC2FUttNSBauVeGPeG7k3oEPLwA60EDKHn1e2H6V0Glr7Xu15DH4O-S0iHLGlTW7doJ8sVsbvlI4cQWZaaQdoLLf7P04z67JWabtk7wMYpeyKi7JrslPwTd6jlOcPRlMGuzN2FAA-xgNIhLo0OluRP1YDyOXk9nSIrVDzo_NfCQ49DUfdpzNYE5rgc6BssV1bdJsFNY5Sjiq9NU-AsPVHucaNlvqgk70V-cKOaZM5k49GXP-QMtNHM3G1sN7TJbsl7RiK2owNVZtiPMAwjHsfDTYgTRbXf5xcyJQtFb0z1WTruMI11lvFb--YfaaNShLOcw7Fedz90_GA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/aaaEySiWUZXvdbpiqJv2GGLdUor0tzEZVn_y8X-daLqnI8emvnVyI9gXiremiMzgHk_4YC1_g9a1YhnhW7GhQg3QJTQcX3idVLe6DbnvSCRZUsyNNTQA6SU0QraAAi_Qe1hfMKPhRyeVpnqYpuQAvZ1XwnIjewtzv84AE7uSzcu1JMNUlPEtRr7We_KO12W69n6nKBhOFr6tPxvTy764UU-w3wuhLJCCCypZ8p9AzKcr2S9dLOabDGmm9Z36QtZjfczNaOj76ms256Kfe_En8C1ROPKVL4gGWZ32ucI8gpXFDY4wbr08gfyd6qTT4hxOTp1Pmn85gEYvWhesD0jg6w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/P1prwO4XeJkVNOnbAc2pZ3kOvLaa4xVoX1hb65JZqYHZmsBOulThmPeQ_n5hONaGZIcSLL3EBTrEHE3JmUw4Xkp1hYcWn_MBLq2s3gGiEYQNzo_gKTFwla_lecGUwnUEF0CWiAo2yVDw_d4epZfDXw6bC0li9E1xCjNlRpT2-p1fs4a9hTM42t7ehJXnoWH1F7DnP9kpWV__Njj7KHbc1oyFUfx8YuwATFyY0Rl1z8IK_TUYtDFcs3yHGxjKGIB2SZsbQdhtirh1NUvepPcUV6CuUUxkQhITzcTqMT1l8a28NNIEu2-JNFwH0BBqGRgaRmEnPZcCJz5EXHpUHBaQWw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/uoCUfJz1jH0bVrJIIYzPeulrHzUSM1Facra0zwXYcnSu-oiF_-jTQ4XXjMqdD3h_h6letIXd4JrOBJLWaOO2y3WReQFtXVX0GU302M3MKHu1qG2l7RPZhrOzunPgwQFMW2Hbi5cvPnMinTE5uirjksj-Q0J76pxRy3RafoChZen9i_N-pw9ry7SNFfPpGe8pn15Amwcl82b4C19CXPysbV4I8n9CU6_Dvz-F8QmjTpcrz3MAMh0BFlI9IEEVDb8bFyG5dOcSCbVi6V9OQbTl0YW_EwCmz_bA_SoM3A9ANbuLrW0VU7o26jhAysJMszB4Ss68KurXy9a4-uMpmG8KzQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bD37Ic4j_jxOBPcj7a8ISPrHsu8He0ad7DqiVObVIp1vYCaaRGoUGk66BvH_9twKqrowm7F9epjjIFO6hWUull4WnsQumvhVYyuQEMrspqIMIYjXL-zHfEeIgvtWwUo7UGyQmdwPFBH_6VVqLXxUEstG5O0M06y08qtCwWknALJrSkRGMayeZbY9xlGDKPe23yWG0ASmeEiXHp3s9vaDdIH4WIWIz8N1S628EtnBMN3bAdJp-U2SLOOuZt8gMZ3Xs_Qq3OOs7H01O2Ufjiw03negeVpiAifLt2GjxLXi5zEZC5aCxHWCMUdsQwKxjUUCToY8f63CmaSb2TpsCn00Vw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/PrRC0sTBM_eVEJujUBUXBEctkBPx8DkwB6GqmjtCGUd8uwdl7gA25sTkb_J3sJ8UKAmZcK_qQngIiYN8Ny1P_8eHtgt_0Av4dVl2gkaaZVIuNblKfTrhaWPSHFoHBB6ObuX2ExKabJAcWjdg-DCER2ebnLliEzU9GhbXmq_rnxcKLALqNJvoOIPzobxoDW-aRkUNAet9bFPWgBSuYinWPpur3aA3ri0rDuHPtWnPLXJ68Myy3JdFqimHvDK2zpiRGjG2pulTg8-frCqRXKtyzIMt8yLkbMFiTXHpe3AgKknhcJdNzSha4kxJ6uGHVZpcaELAaeEJmcHfnlLSnSf7Bg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790526237714,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🇮🇷| Exclusive: Published for the first timeA never-before-seen image of the meeting between Martyr Grand Ayatollah Imam Sayyid Ali Khamenei and the late Grand Ayatollah Shubayri Zanjani (may Allah be pleased with them both) in March 2015 in the holy city of Qom. Leader of Islamic Revolution I...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/vHdpxVP_AvAaNFTNbrStBnqgbA6nUYdOk-sqM65ifDozsc_kcNeBcrLtr9aIe3xJqi_kQtp5bJFn_0pV0o9lLtV7XsihhwwPWD4n5NsKwPKPOWVtfJHhcehps9Q91X40fDWT-ict0Ht2tV82yKqhevAXdoxnVFVLG1ingaoeIT3zP8sXVDAwtD_FO8iNXTBA71Ko5PmvSMmXHs7PKcIUVkCjbk10aOrDqe2WBQrVRXabr553J4n7r6HZB_liG3etTY86w6BNj7JE55CSBV2Vu9K8ww2oIprBVKo54fnP_cCD2MvTpLpGn-McV5oL7NAnpZvlZwVmG-SUp_WZGWVRPQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790526283811,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🇮🇷| Exclusive: Published for the first time A never-before-seen image of the meeting between Martyr Grand Ayatollah Imam Sayyid Ali Khamenei and the late Grand Ayatollah Shubayri Zanjani (may Allah be pleased with them both) in March 2015 in the holy city…",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/pVQZIWLexl4fz2OZdu0aoCUCqGburhEcsnVlG44wwC9PyScOivk6FbZgLeL-XDFFSubPPoDZe0y3d5LVDP9ambSJQjS_6K5Wd3SgBKynsNWpt5WNASBgQeJ1JxPGmoff0QcG-l32D86tMmf0i015H5uKHHvUezJ7jf3LbunY2U9G_160VueEzAEaCzodSSEn0cuCG3UrXgJyVOTGrcEbfuxA3d4LUEkbtX1n2vMeWcWQAqhVk2fpZMumM02MWL5yY7atUaunXaqHZ1ML2eAYA3QUBPK65C0x3KwPZAWZCTjMT3qu0Y3Wjl585C_vfdSSfTEA7VqC2egORiX8aMAauQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790526289037,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-27",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Key points from the speech delivered by Hezbollah Secretary-General His Eminence Sheikh Naim Qassem at the ceremony marking the second annual anniversary of the martyrdom of Hezbollah Secretary-General, Master of the Ummah's Martyrs, Hujjat Al-Islam wa Al-Muslimeen His Eminence Sayyed Hassan Nasrall...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790526224457,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "– “We Remain True to the Pledge” by remaining committed to our constants, foremost among them the courageous, dignified, divine resistance with a mission, in confronting aggression.– We support the continuation of the resistance, and we will work to maintain it against the enemy so that it leaves ou...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790526253456,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "– Whoever bets on retaining part of Lebanon in exchange for relinquishing the other part of the land or the people is deluded.– The Framework Agreement was presented in a single moment and in a single session with everything Lebanon could discuss or say in the interest of the enemy.– The authorities...",
     "media": [],
     "verified": false
   },
