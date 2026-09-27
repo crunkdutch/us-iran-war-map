@@ -179205,6 +179205,156 @@
     "verified": false
   },
   {
+    "id": 1790504567570,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "The United Kingdom Maritime Trade Operations (UKMTO): Report of an incident in the Strait of Hormuz.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504590002,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: Within a few days, three security cases involving Arab \"Israeli\" citizens have been uncovered. Following the disclosure of Mustafa Issa from Kafr Qasim, who served as a firefighter and was allegedly planning to carry out attacks and even examined a strategic target as ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504597238,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: A serious espionage case involving spying for Iran from within the \"Israeli\" army is currently under investigation.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504572517,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Criminal attempts carried out by the Saudi enemy in the capital, Sana’a, bearing the hallmarks of ISIS, have been foiled and will not go unanswered.http://t.me/army21ye",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504580724,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Over the past 24 hours, the Saudi warplanes carried out 26 airstrikes using F-15 aircraft that took off from Khamis Mushait Air Base, targeting Taiz Governorate.The total number of airstrikes carried out by the Saudi enemy this week has reached 300, using F-15 and Typhoon aircraft that took o...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504586035,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: Two soldiers from the \"Israeli\" army were wounded today after an engineering vehicle drove over a Hezbollah explosive device inside the security belt in Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504630580,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio:The \"Israeli\" army estimates that the explosive device that detonated was an old device planted in the area before the ceasefire.The device detonated in the Wadi Al-Salouqi area in southern Lebanon. The two soldiers who were wounded are reservists.#Military_Med...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504569495,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council: – We remain committed to the fatwa issued by the martyred Leader of the Islamic Revolution, and we have not changed our nuclear doctrine. However, we do not know what may happen in the future.– The American and \"Israeli\" actions...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504563618,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Hezbollah Secretary-General His Eminence Sheikh Naim Qassem, in a speech during the Martyr of Resistance Conference marking the 55th anniversary of the founding of the Imamia Students Organization in Pakistan: – Resistance is the only way to liberate the land.– Confronting hegemony and \"Israel\" can ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504582884,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper: The \"Israeli\" army is concerned that Hezbollah may take advantage of the upcoming winter weather and infiltrate under foggy conditions to plant explosive devices targeting \"Israeli\" army forces in southern Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789804431894,
     "type": "drone",
     "location": "Sanaa",
@@ -180118,6 +180268,21 @@
     "source": "Telegram (mmirlb)",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Enemy_Media Hebrew Channel 12, citing an \"Israeli\" security source: \"The situation is sensitive and volatile. We do not know where it will develop. It does not appear that the Iranians are prepared to make concessions; things could get out of control.\"#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504595046,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-20",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Top security official: Trump foolishly continues war, but Iran fully ready for self-defense📌 Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Mohsen Rezaei says US President Donald Trump waged a foolish war on Iran and is foolishly continuing it. However, Iran stands ready to...",
     "media": [],
     "verified": false
   },
@@ -183262,6 +183427,153 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ Iran’s handball goalkeeper signs with Athinaikos H.C.📌 Tehran, IRNA – Zahra Afshari, a promising 19-year-old goalkeeper for Iran’s national handball program, has signed a one-year contract with the Greek club Athinaikos H.C.Athinaikos ranks among the notable clubs in the Greek Handball League an...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504601651,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🫥 🇵🇸 | Statement by the Palestinian Resistance Committees on the second anniversary of the martyrdom of Sayyid Hasan Nasrallah:In the name of Allah, the Most Compassionate, the Most MercifulThe Palestinian Resistance Committees, together with the masses of our people, our Arab and Islamic Ummah, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504638733,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇰 | Ayatollah Sayyid Jawad Naqvi, a prominent Shia scholar in Pakistan:“The rumor that Yemen’s Ansar Allah attacked Mecca was fabricated for Pakistanis in order to provoke the people of Pakistan.”▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e5f69aa012.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FVJdGbcsRltG9DKxtQd7zBuwPCOfxb79rr1_1sC1iAJTENBKEwIxb1MMGgSL067p7SvllbnSAlKwxzHPtILQAdG-eAA9KZbW-iG4JoOlJC2HuRwAYIZYKD0y2KfhP-kRbigRy99gv0aZ88T0S24OYMj_YXMmhGckb7CJM1LS3dKdFuq3brjJTL7PQxlyj3OvxfI9sJ-LrvUrSF4OzZueOf_lq3rRUhmOjboK4WiR7OmaWZMk4Nv6cAzo1HlQPWm-gN2v99W7FYccwq1ncuxRH7J0CWSzmATQizrJZnsk_Fi8vRKjdRwUmjU1QtObpG1KF0hHkVVbpjsu7FgTs2h64Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62636",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FVJdGbcsRltG9DKxtQd7zBuwPCOfxb79rr1_1sC1iAJTENBKEwIxb1MMGgSL067p7SvllbnSAlKwxzHPtILQAdG-eAA9KZbW-iG4JoOlJC2HuRwAYIZYKD0y2KfhP-kRbigRy99gv0aZ88T0S24OYMj_YXMmhGckb7CJM1LS3dKdFuq3brjJTL7PQxlyj3OvxfI9sJ-LrvUrSF4OzZueOf_lq3rRUhmOjboK4WiR7OmaWZMk4Nv6cAzo1HlQPWm-gN2v99W7FYccwq1ncuxRH7J0CWSzmATQizrJZnsk_Fi8vRKjdRwUmjU1QtObpG1KF0hHkVVbpjsu7FgTs2h64Q"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790504622150,
+    "type": "rocket",
+    "location": "Doha",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "date": "2026-09-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | September 27, 2026 (-ve) developments🇱🇧 Lebanon• According to a summary of israeli attacks on southern Lebanon on September 26, israeli warplanes carried out airstrikes on Jabal Al-Rafia and Al-Mansouri. Israeli artillery shelling targeted Wadi Zibqin, Doha Kafr Rumman...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504560197,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-27",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | September 27, 2026 (+ve) developments🇮🇷 Iran • Strait of Hormuz• Intense activity was reported in the Strait of Hormuz, with at least four confirmed impacts by Iranian missiles and drones against ships. The IRGC Navy also escalated its targeting of violating vessels, usi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790504647846,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ In photos: National Iranian Soldier Festival held in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/NxIjEB2I5je9_w1d1qQ_LPMHBoI88vWSMg6zfVeC_SPCKRSc2UpHaaP8KCQ0gM5d_14At-a51Z28SNKhyWQZihJhos3AfcLvPkCIwj5Qmg_vZmiaYQSqKy660a5NnUn-0CpF37qwxXNMi5x4H_AONDukXKn1LfhAjP9fCZX7hRe3pZT6u8bZlgnrHzin_Cj_NGGfVlTMgzj_0wmOy5ysBDB1YXkCrM1TxbGbSXs9FkJyknXSerJFGd2UEwof0FpIB13xV8i-ra7uqEGFZaw7bqqrgvIyn-MjuAlvVaTEXMTdgIlUHjgfI6ooRW7PQayWdrpMs_eXuaWCgWMEzfrkBQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790504607903,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-27",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "National Iranian Soldier Festival held in TehranThe National Iranian Soldier Festival, named in honor of the late Chairman of the Chief of Staff of Iran’s Armed Forces, Major General Abdolrahim Mousavi, was held on September 27, at Imam Ali Officers’ Academy. Major General Amir Hatami, Commander-in-...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/SHSn6S66QAexVBZZ5p3Pu5ddCrl69neEUhS7aKiPI06IpGwrLSPNmuFlzBefaHJ64ENAXnNbTFzRCg3T_VoI_ux90onD3rF-F8pd_YpsrOE2cFV5mIsYYDI8KJ2wOAHhu5euR-cLe-CXCm8A74KBOj905M4f0gO9jfOKkuwD6VsFbHszwUdd1bFpUkunc6qqRrfMHxCqrP7dHHf9iY-ZhYwj0REdtdL1fUkX8AhfU0Kh3_NlqD0llFsFU7HmV_eDJU1XnSnUJGuaDABxQircNEnv-kKt8IpwiHNB-CSJgPdT3ltYcOkmc_jSlAaLZhf-S1Cx37rCaJBsdoyfEn9Oyw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qByRN_QuFkKh-Z5YVrdjWu2nKxQCOnY0ZeZxuCaGu8u4qAwzPJdczkXduVBjMwI1azRm_RvtJpNuOdD_O0WBf3ZrSS5D6PTB8QmYK5fBELBMDvzEr5YHMpyXpYqdmtSmqwXB1vg9Pt32nwsiGAQWtWJzJvpB9Ysyi0T2D7kdPmErbCG95YeWgs_lg4E6E12m1ChW2YMsuZpYljvpK9P_D2akbM5UIMPgWHMQ4Wrya7zslXIzXoNWer2NiBS4dZsfCDfaubQYDz6tJ6AoFpmtxDv4SdA3Q6rcTQfIUm6T98fgbdRwtDGreGbUOkHx2XAy8BNbcfpsjIpRUqXCYeRnoQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/sZr035YZwG2sQoFRkz9RFy9EPAjHRyLaFGXD1cPCRDNWd0yYgOqR4PJp3TKuZ44zBzPXy7HyDUZefNnxU2MfUmVoGvWGwTmv5bjon1f5UO49tO1wZIzlLjoNqPmagny5uT8d238uLoN9PQOY-0tppMnobhoq2F_YQuZh3hyWyDekv0hrizaQm1DBwOby1lEYa6J8CdixHyRwq_dKWLuwO5DyHNNGENuGk6TQyrDWxXToNEXVG3zcKzvbbcketvvWUIQqhfIDWqMB58rVA5CGxE6lR4LVVJSuDxviSxY3pAaCRC3T67SAcHPyATwFxnWKeDpvIc91yK0bZM-HFdK1og.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TXNHzo63G1o94Ge1AsTmpRBQahkq3q8vIrLVJ5CwXaZMT0pF-OYJDLF1L3_WEuRl3_KKQ6xRLI1jTgbFfkLNJLooDTxZcjeRFNYqEpihimCO2p9RuLdHK6oR20FqDMhP2obHVnZGIL7ndOYlinjUiYFWaW5rBQhAxTb0pcjdfI4oJrN-rXNXVkq3ANYh524uL3fUSrRBA3K5rEvZN4bzUuC8byBLelqNKxuKDOazOetJu695T3uoXHYTu3nBD-emNBF1lbzSbt3ES6oBRrDtk2DcN8-s1wLMY7lpQBLjMwzQjcdZcuWB4rzSqaYK23CYTq-laj1GU2we9RAP2j9bJA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/csai7DdIVtYvmFKuoJukrF75whFIJnM0Esk5gmGU9QO8NlIfvhXspw5iqk-6dof1x77QpHWFIZiCHSUf6pUf5AQgmttqrk-HJeeui18XOpoit_SOCkwlS0MVoq1788OA4S1ITKjDKH2pHh0QjN5O-3iedDY4zb0Va0BnSiPVuN0qVCzbruvouZ_-_ypT2E_RJSsLg-lsFCGHAruGv0fAgq0IBQnmWHkzD2bOzVCW5grTIV70oQfrDO5CZ_U4GW8ZlpeNIbKYTajDHM_9vCJBEQ5QQsKVz35ev3cjazJjvy2VtxAhZ8R1Ya27V7LriC_ZmohQEq787UnWGyLWItieGA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/nwiHgeYkAyNr5lKg2S5sENsliqN-hKjAjxVipRdzIP7AKE1eD-kxG-WrMNPs-CC7wyUol3iXpz6702CQncPzjHdII4vQmYpX7YA1XHoe5RlGdtMW4pd7CnhWb3qA7Iy6PRGlIYkGBhy1mLKLpumZp8HkeJX4R4qjT4_go7lMSCUTBJIq5n5rPS7SllqdVhXZPDZaYJsDtTbAALLi3eECEL-Oj_a0j941ELRLvTEovDcvd2iftO2nd1a-ZZr9HQLD2MCNFxaQv-n0vFPvjMc2_uVNEAISrujAJm0Gl1YuJqnoK1jP1h1o8mhoEywRXJV9TgRCFsMrMwmkR52_M4M2OA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/n8HZoTjJIvFQSDStBYogRYeNm69r-eAmkkA2mU8zbY354bApKL_3oPsP_B5BROcvoN-3HdvubDCImP1tRJVgU_WLB4iO01CRP1-4Z-8ChkQP2PIxqSUff34ImtoQbc2EuD5XGAuaW6MDu6nbXfnCcdw7dPeUg8TFb6CkPPYipXHJeOT1HgJgYBIp6bYP-eHeiyol3CYqRAi3VVbk2bSJ3mTzYPasCCRtx9M0QN_21j4AvUYq2a6SKGnl_5ValcsJDq8jwmDgUKS69UX4DVlY2X1IUoAjVL1vhqT7EseKuzUYQxpQU7K8EohqB_b-qZsRcdsbtWoz7cQ7CdAW5P3NFg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cv_ayQLs5lgpzm4cP3aWdilDQaX44vRWw5OFcaes7pPwIkIoPaqXjBKu_RRdoNsHoBPRvpANT4w9YHh-bkIzbUiLwAdrOw96xjM13jMdtAMdbZTcsK5VYAmhCtSyelmHb3Zx9w5SUASvRjRfVB--MRH6-82yIp8yC3lewfg4zavRTI_Sjlv1rgyI6h2D-e25fFhMptQwCaF8OvI1Ct7kxw1Wt7vG5FwwAqko1IJzc5YIsShi7Q-4cmiha0T42SazcvXYA4byLmpE7PblnjACeeplYL3XCWzoYmYs7ZPGmru3X3jUUSD7gcdbXlKdgi-mNh5S-QwcVVcwVvWfQaNLKQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/krbVrj-tmfBgtXA3_Y3Hj_bzTgfGS5t0tEtZZ31zeK2woUif1OH_G9XuG440FqTXC9-bO_yUwN9iAE9bDLlDUQK5Koe0e0Z3hYs79jMEfWSETo6l9GSTZ_UBBhXcY6CNA-eii56-mM7quXdw5gqzogcr-hwYT0m2Lz_Z-lp0wIMdgg_RieDTPBhqFVLgdE7XYjgdtzPCOlanAR0JfpgcACVNyPmc22HhAGvJwzgvZQ6LrdfdlazZ4vIxVblwlV1jo5mCkvFnKA-UDvT-Ri1xr_fEyIaYBu26l4xATvwMfOYMATo-gNTl02xJaxPBy6T1X9HAzmw1uaSDhCe_Cwb_nQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/J4A0lQoEAl59j2-1T4wrDF5oxxE8szhLEHqFhvfiQPYWEMEFcKqSg24mWrU8DTRKfcqmhoTHNJpLRGx7jkWZo76WU4c9kfEXowrg5HidEkjZszEtSjAVlP_ql1EjhppfACpFczLDivNR3Ft5WuuM5nPxdCkpK-GwHvW11-11gl4l5FVwu7CIyrwk8pCxvhEhqxLXEvlD388bVD7mi_IVa7RoaoZNETHMORPdZRjsKduUcOz_yvLefT6IAr282PJgOIrFAfpU2AMHKm8GiVLtikY0CCD59i24BEXrizkzLUrDOFo9ztK4pIuoG7jGXbRSWtRgx0CAevasCKX5xafAKQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
