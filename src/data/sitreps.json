@@ -184983,6 +184983,56 @@
     "verified": false
   },
   {
+    "id": 1790602911954,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-28",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Statement issued by Hezbollah:In the Name of Allah, the Most Compassionate, the Most Merciful“Let those who sell the life of this world for the Hereafter fight in the way of Allah. And whoever fights in the way of Allah and is killed or achieves victory, We shall grant him a great reward.”All...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790602913249,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🫥 | No man of his stature...He [Sayyid Hasan Nasrallah] was a man for whom victory and triumph were constant companions, and without a doubt, throughout the entire history of the Levant until today, after the prophets and their successors, no man of his stature had risen in that ancient land.—...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Wgt8rbfqyLTFRkJ56zuhQnrAYFQl7-p4I1pCpNmbvROcbqNqvqLJ408Akbkd7VOmZF_gq8Xdtx_wT0GYVXA-BAutmPhU2toOzDYoNPiNh0bKWp9pQShKvdgETgpQSGU7t9VLcbJaBDj6_oGWlwNMo8B3SfM-9VYjIDxuKQbJkJYBF_CCnU-fVyOvanPD7Z0rMo8rPw7TnlTtsTOb989yW2RJslpLPRK9pYW36JlkpmhhHX39SSVSyXkOx1w6_rvdClWmoASuSN-4R5H7zijIvHQemS0q1Jcn1FAsCqFxL2gnWWu5Qk6_qQJNUca2vIEFfZiWp7CGmqAAi0JCxpB7qQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790602890417,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Leader: Iran won’t return to era that enemy longs for📌 Tehran, IRNA – Ayatollah Sayyid Mojtaba Khamenei, the Leader of the Islamic Revolution, said, “I, as a servant of the dear people of Iran, declare that those bygone days to which our enemy longs to return have passed and will never be repeat...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

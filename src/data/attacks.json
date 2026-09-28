@@ -135840,6 +135840,38 @@
     "media": []
   },
   {
+    "id": 481754936,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Taba: Statement issued HezbollahIn Name Allah Most",
+    "location": "Lebanon, Taba",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Statement issued by Hezbollah:In the Name of Allah, the Most Compassionate, the Most Merciful“Let those who sell the life of this world for the Hereafter fight in the way of Allah. And whoever fights in the way of Allah and is killed or achieves victory, We shall grant him a great reward.”Allah the Most High and Almighty has spoken the truth.His Eminence the Sayyid, the Sayyid of the Resistance, the righteous servant, has passed into the presence and pleasure of his Lord as a great martyr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
