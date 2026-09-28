@@ -131920,6 +131920,70 @@
     "media": []
   },
   {
+    "id": 481744079,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Lebanon, West Bank, Gaza Strip: Occupied_PalestineIn Name Allah Most Gracious Most",
+    "location": "Lebanon, West Bank, Gaza Strip",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Gracious, the Most MercifulStatement Issued by the Palestinian Islamic Jihad Movement Regarding War Criminal Netanyahu’s Desecration of the Buraq WallThe act of the head of the Zionist occupation government, war criminal Benjamin Netanyahu, accompanied by a gang of his ministers and settler leaders, storming the Buraq plaza and desecrating the tunnels beneath the blessed Al-Aqsa Mosque, while surrounded by a massive military force, transforming t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481747697,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Yemen, Saudi Arabia: YemenChairman Supreme Political Council Mahdi AlMashat",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenChairman of the Supreme Political Council Mahdi Al-Mashat, on the occasion of the 12th anniversary of the glorious September 21 Revolution:– I extend my congratulations and blessings to the Leader of the Revolution, Sayyed Abdul-Malik Badreddine Al-Houthi, may Allah protect him, on the occasion of the victory and the advent of the 12th anniversary of the blessed September 21 Revolution.– I extend my thanks and appreciation to the steadfast Yemeni people, with special thanks to the fighters",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481219641,
     "type": "intercept",
     "status": "confirmed",
@@ -135627,6 +135691,102 @@
       "other": 0
     },
     "description": "🟡 Regional developments | September 28, 2026 (-ve) developments🇱🇧 Lebanon• Israeli attacks across southern Lebanon continued throughout September 27. Israeli warplanes carried out raids on the outskirts of Mayfadoun, Kafr Tibnit, Al-Mansouri, the area between Hadatha and Haris, Al-Khiam, Mays Al-Jabal, and Al-Qantara.• Israeli artillery shelling targeted Wadi Zibqin, Wadi Al-Saluqi, Hadatha, Al-Mansouri, Sreyyin, Houla, Zawtar Al-Sharqiyah, the plain of Al-Khiam, Kafr Tibnit, Arnoun, Aitaroun",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481733231,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Iran Trumps annihilation threats made UNGA",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran: Trump’s annihilation threats made at UNGA are ‘grave and alarming’📌 New York, IRNA – Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, says the latest threats made by US President Donald Trump to “annihilate” Iran are grave and alarming because they were issued from the podium of the United Nations.Darzi made the remarks in a letter dated September 27 to UN Secretary-General António Guterres and President of the UN Security Council Jérôme B",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481736846,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab: Iran calls roadmap deepen cultural ties",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran calls for roadmap to deepen cultural ties with Russia📌 Moscow, IRNA – Iranian Culture Minister Abbas Saleh Shariati has called for a clear roadmap and sustained initiatives to deepen cultural relations with Russia, describing artists as cultural ambassadors of the Iranian nation.Speaking at a meeting with Iranian artists who traveled to Moscow as part of the “Days of Iran” events in Russia and the 168-member cultural caravan named in honor of the Minab martyrs, Saleh Shariati said Russi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481740462,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel: Iranian nation wellprepared defend homeland from",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iranian nation well-prepared to defend homeland from enemy: Senior commander📌 Tehran, IRNA – Rear Admiral Habibollah Sayyari, deputy chief of the Iranian Army for Coordination, has described all the people of the country as soldiers, emphasizing that their combat readiness to defend the Iran sends a clear message to enemies.Speaking to the IRNA reporter on Monday, Admiral Sayyari made the remarks in response to US President Donald Trump's Iran bluster and a renewed threat of bombing and anni",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
