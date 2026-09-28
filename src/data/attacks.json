@@ -136022,6 +136022,38 @@
     "media": []
   },
   {
+    "id": 481773051,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Jeddah, Yemen: Regional developments September 2829 2026 developments",
+    "location": "Sanaa, Jeddah, Yemen, Saudi Arabia",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | September 28–29, 2026 (-ve) developments🇾🇪 Yemen• Saudi missile and artillery shelling targeted the border district of Al-Dhahir in western Saada Governorate, according to Saba News Agency in Sanaa.• The Yemeni Armed Forces spokesperson stated that Saudi fighter jets carried out 38 airstrikes over the previous 24 hours, targeting Taiz, Saada, and Hajjah. He said the total number of Saudi strikes since the escalation began had reached 1,123.• Saudi aggression against ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

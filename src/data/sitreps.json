@@ -185241,6 +185241,71 @@
     "verified": false
   },
   {
+    "id": 1790631760174,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | September 28–29, 2026 (+ve) developments🇾🇪 Yemen • 🇸🇦 Saudi Arabia• Yemeni missiles targeted the Jazan and Najran regions of Saudi Arabia, while alerts were reported in both areas. Further alerts were reported in southwestern Saudi Arabia amid an Ansarullah ballistic...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790631774618,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📕 | A first-time-released photograph of Martyr Sayyid Hasan Nasrallah (r) with Imam Sayyid Mujtaba Husayni Khamenei (H).▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/mfwPER_j-Q8HhtZB988t1Id09JsTPbh_jb9WUS7K_zZHbpMPdqDByGmnA8bQtaNNLqzq95wwH4EA8mwyq1FTnyt0dx54Bl1TYCVuAVKkzDBA_HmHbYGoOKOtFJzblcJoDSkt51htrs-O1NNWRnH0TGOeUSSKJbWLV3pbNvRaZkeNhVb0k2TloWua0D-F_xVeeJOdnIGigoq6GFasnlwTsEMy-SqGQnyBBfJoS3EYOS2bcF-oMCh4XC0Jo8XtaNBHW869z4xndQ3gsr34VtZjsbC29kkkmSd4ACKteVK3Fc2xDMPn0CsSMsvj0stfzIpE6-yerBBuIooYRZ9C5nyKng.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790631783216,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Top commander: Iran and resistance fighters will deliver devastating response to any threat📌 New York, IRNA –&nbsp;Chief of Staff of the Iranian Armed Forces Major General Ali Abdollahi&nbsp;in a message has warned that Iran's Armed Forces, alongside the fighters and combatants of the Islamic Re...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790631740423,
+    "type": "naval",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-10-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Security official of the Islamic Resistance Movement Kata’ib Hezbollah, Hajj Abu Mujahid Al-Asaf (H):In the name of Allah, the Most Gracious, the Most Merciful&nbsp; On the thirtieth day of this month, our resistant Iraqi people will celebrate the expulsion of the American ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
