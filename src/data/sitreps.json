@@ -184410,6 +184410,36 @@
     "verified": false
   },
   {
+    "id": 1790574005712,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇱 🇦🇪 | Netanyahu’s visit to the UAE, during which the meeting with Emirati President Mohamed bin Zayed reportedly lasted approximately six hours, focused primarily on Iran. The visit follows a series of recent discussions between Netanyahu and Mohammed bin Zayed. This raises questions about the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790573963526,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "U.S. media: Eight U.S. Marines were injured two weeks ago when an Iranian cruise missile struck a naval vessel operating in the Strait of Hormuz, according to three U.S. officials.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790566722622,
     "type": "airstrike",
     "location": "Baghdad",
