@@ -132469,6 +132469,38 @@
     "media": []
   },
   {
+    "id": 481758557,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tel Aviv, Damascus, Syria: Occupied Syria once again brink massive",
+    "location": "Tel Aviv, Damascus, Syria, Qatar, Israel, Turkey",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴 | Occupied Syria once again on the brink of massive domino fallsOccupied Syria is once again standing on the edge of another dangerous collapse. The past several months have been consumed by the removal and elimination of top HTS and affiliated figures through mysterious accidents, alleged heart attacks, and other unexplained incidents. Alongside this came HTS led sectarian massacres, soaring prices, widespread corruption, the disappearance of public funds and subsidies, and growing public an",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481278767,
     "type": "missile",
     "status": "confirmed",
@@ -135837,7 +135869,18 @@
     "description": "🔊 Iranian nation well-prepared to defend homeland from enemy: Senior commander📌 Tehran, IRNA – Rear Admiral Habibollah Sayyari, deputy chief of the Iranian Army for Coordination, has described all the people of the country as soldiers, emphasizing that their combat readiness to defend the Iran sends a clear message to enemies.Speaking to the IRNA reporter on Monday, Admiral Sayyari made the remarks in response to US President Donald Trump's Iran bluster and a renewed threat of bombing and anni",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4077f05978.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/K1DMpN37N50dj-OZy8mv5X1pXSXxdBnCKammQ8dFzhdMw7b_DmN_tEhK4hPaUp7cZOerlcu2CIvU2JQJ6LjlbGLBv4elzwifPk0qzrYBhfHpctckxfzSVpGSXPuGZMISQYO6W5WTMUNoSjynWPUduQ5vOtITVCyl25xVoMO5ZNlQ1OslRWnSW60NBu2v9PAmaFVxm6Q8Yy2tkWf9iASJ3ji54vfd1mU2GZilI2WDeNdQtOLbhLNVYOkCN1irX0_YXymdmkZhf8J_Kncv39yP5WtmrY2PFRi_yUeeiIEQlNyfoWr-8isPeGxf_5BczIhIdu3sFYUtwZM23ld1NcQ5hQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/62691",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/K1DMpN37N50dj-OZy8mv5X1pXSXxdBnCKammQ8dFzhdMw7b_DmN_tEhK4hPaUp7cZOerlcu2CIvU2JQJ6LjlbGLBv4elzwifPk0qzrYBhfHpctckxfzSVpGSXPuGZMISQYO6W5WTMUNoSjynWPUduQ5vOtITVCyl25xVoMO5ZNlQ1OslRWnSW60NBu2v9PAmaFVxm6Q8Yy2tkWf9iASJ3ji54vfd1mU2GZilI2WDeNdQtOLbhLNVYOkCN1irX0_YXymdmkZhf8J_Kncv39yP5WtmrY2PFRi_yUeeiIEQlNyfoWr-8isPeGxf_5BczIhIdu3sFYUtwZM23ld1NcQ5hQ"
+      }
+    ]
   },
   {
     "id": 481754936,
@@ -135870,6 +135913,44 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 481762179,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Beirut: beloved Sayyid father brotherFor long years",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "آهٍ يا سيّدَنا الحبيب، يا أبانا، يا أخانا…عامانِ مضيا، وما زلنا نحترقُ بنارِ فراقِكَ، وتكتوي قلوبُنا بلوعةِ غيابِكَ.يا صادقَ الوعد…يا مُحطِّمَ الميركافا…يا مُنقذَ معتقلِ الخيام…يا مُحرِّرَ بيروت…تقبَّلْ منّا هديَّتَنا المتواضعة، واذكُرْنا في دعائِكَ، كي نبقى ثابتينَ على دربِكَ، أوفياءَ لنهجِكَ، ما حييناO our beloved Sayyid, our father, our brother…For two long years, we have burned in the fire of your absence, our hearts consumed by the ache of your loss.O you, true to your promise…O you, the br",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62689",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hfe-beWOmEt6IwQx89B3UNILZlkdeRUJJt9o-g4bS6y-X2ZOvP5NxGq7f6kczX6-1Vv9cCDVrKco88nITXGF5KqS4e_UoAyi03XoulU7FKYid3GKHXmY_65sld0ETGGQ69IUba2PprLScsdmLnJ-w_It1_g6K9_ayjC5dalRPyxFiVHK-OHvQZjuG6WCR85Us9U7p-41opTbFasJ1jotNnzuN7YcEesFyTmWiFaY_Z9FrknNT7-9IfMuU3WpLn70By0cVTsJpKXZYoGdoXlllGk0GaYIthSKE8sVa1th55kZHmbzU-Fnx2FLu10HphuJAZLC50t3AKpJQ-ToT543pA"
+      }
+    ]
   },
   {
     "id": 477331196,
