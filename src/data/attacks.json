@@ -135632,6 +135632,43 @@
     ]
   },
   {
+    "id": 481751316,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-27",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Message from Eminence Ayatollah Sayyed Mojtaba",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Message from His Eminence Ayatollah Sayyed Mojtaba Khamenei (may Allah preserve him):In the Name of Allah, the Most Gracious, the Most Merciful“And Our Messenger Moses promised you that he would bring your people out of darkness into light and remind them of the Days of Allah.”The first days of the month of Mehr remind us of the Days of Allah and of the great and enduring phenomenon represented by the valiant defense waged by the Iranian people over eight years during the First Imposed War. In t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/inIuU1FIXlCAYandCpIQSmeBNKTglGUlhyblyWYnP-tE__nwzGu6za1NpAGuCDxnty07C3ynp6aa545rfNgs8k3x8dqp0ZLT3vElRz667SGtr-f4LyMWyipoIhEDjnCKWBPvpVaKBAEMefYuL6CSriyYsqppYtaEoEqNTAuHTuwhrQn-M_6cesK6gOIgoS1d2_JSFf1lHcbHwY39CVnB7FNPPZWLU9h_gk4g_vTRLETCMlMEEJ52sDHQ_5TYN9WBVmrxUrMwaonAtUduGmsqo_10WPnxNLsKxtpr7xGNm91lxBUTwtI9zGi9UiTWwzRKEp3Cjr-oD73DoayOOxb3UA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 481722392,
     "type": "airstrike",
     "status": "confirmed",
@@ -135725,7 +135762,18 @@
     "description": "📄 Iran: Trump’s annihilation threats made at UNGA are ‘grave and alarming’📌 New York, IRNA – Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, says the latest threats made by US President Donald Trump to “annihilate” Iran are grave and alarming because they were issued from the podium of the United Nations.Darzi made the remarks in a letter dated September 27 to UN Secretary-General António Guterres and President of the UN Security Council Jérôme B",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9180e8fe29.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/JSQ0NmSM42xfFSdQxuRHPfLwSQjTpyJqa4zxCUyBB6J8tYpWTHYh9p-YCcx048sPQWLH4R0lQre8UoIgAEWX1nBL6jX_9MBxvOAIuwsEp4S4Dzf4Y71ULJiw6ZZQ6i3cECKpDEfXum4DRmSaGAICMUJk16gT3xl_9DFmlbPMk4_7LBE0RRM9NGzEV_NYEFusGwkakN-ptnjxb6glVPuTR2CAWOKc_ERXJ0BI5PIr9buyqxQJ6Ll_-Bpmlseb-mDsGuhd_GfoemP2TdJMXVmc8jWdR_P80B2wDIipvNKW6TcB9BwD_nNHHQ9OqFqZb_ORKDuUPXJCthDWNS8T2j1Reg"
+      },
+      {
+        "url": "https://t.me/Irna_en/40074",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/JSQ0NmSM42xfFSdQxuRHPfLwSQjTpyJqa4zxCUyBB6J8tYpWTHYh9p-YCcx048sPQWLH4R0lQre8UoIgAEWX1nBL6jX_9MBxvOAIuwsEp4S4Dzf4Y71ULJiw6ZZQ6i3cECKpDEfXum4DRmSaGAICMUJk16gT3xl_9DFmlbPMk4_7LBE0RRM9NGzEV_NYEFusGwkakN-ptnjxb6glVPuTR2CAWOKc_ERXJ0BI5PIr9buyqxQJ6Ll_-Bpmlseb-mDsGuhd_GfoemP2TdJMXVmc8jWdR_P80B2wDIipvNKW6TcB9BwD_nNHHQ9OqFqZb_ORKDuUPXJCthDWNS8T2j1Reg"
+      }
+    ]
   },
   {
     "id": 481736846,
