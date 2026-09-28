@@ -135953,6 +135953,75 @@
     ]
   },
   {
+    "id": 481765802,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemen Monitoring websites reveal truth about",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇾🇪 Yemen | Monitoring websites reveal the truth about the site targeted in Taiz:Monitoring and OSINT platforms say the coordinates of the site targeted by Saudi airstrikes yesterday indicate that the location was not a military facility, but rather vegetable and fruit warehouses inside Taiz Central Market at the Mawiyah Junction in Taiz Governorate.Target coordinates: 13°39’05.77”N, 44°07’33.63”EAccording to MenchOsint, the Saudi airstrike hit a country already suffering from a severe food ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ugdrLbMRPrxTEnN5gyugNnViaSOY8u7Yi2gM96FniHWH9oE8KX1llEIB_fEX-FPSGXvmHFBrxgmeLJTZap41tkNYMLa0FJbDpfR__sVio_2iYTmANV1RCy4SRXKHylDYwhFw5wu2WanEZJAlcHkfAitJ5bagwDIg2wwUNbaUVaEvrXxf1DRLLW8sHfXI3BbY_B4G3ERDcPR47D0Ogsivg4dbfPYASFhISEP58gtJuoGN9h4H0Xt41ip1jdcrF5N8f76JpgI99riR1RuhxkM56JZPYsGCiBFgFEz1Jj9lugiuNSOR_2YFP1t9t2FBIJDIKdlDbUzg6Qsuyr5AXz1A1g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481769426,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces spokesperson Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:During the past 24 hours, the Saudi warplanes launched 38 airstrikes and missiles via \"F-15\" and \"Typhoon\" aircraft that took off from Khamis Mushait and Taif bases, along with missile aggression from Najran and Jizan, targeting the provinces of Taiz, Sa'ada, and Hajjah, leaving martyrs and wounded among civilians, including women and children. This brings the total number of Saudi aggression strikes since the beginning of th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

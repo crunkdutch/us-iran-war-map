@@ -185157,6 +185157,86 @@
     "verified": false
   },
   {
+    "id": 1790617292643,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇾🇪 Yemen | Monitoring websites reveal the truth about the site targeted in Taiz:Monitoring and OSINT platforms say the coordinates of the site targeted by Saudi airstrikes yesterday indicate that the location was not a military facility, but rather vegetable and fruit warehouses inside Taiz Cen...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ugdrLbMRPrxTEnN5gyugNnViaSOY8u7Yi2gM96FniHWH9oE8KX1llEIB_fEX-FPSGXvmHFBrxgmeLJTZap41tkNYMLa0FJbDpfR__sVio_2iYTmANV1RCy4SRXKHylDYwhFw5wu2WanEZJAlcHkfAitJ5bagwDIg2wwUNbaUVaEvrXxf1DRLLW8sHfXI3BbY_B4G3ERDcPR47D0Ogsivg4dbfPYASFhISEP58gtJuoGN9h4H0Xt41ip1jdcrF5N8f76JpgI99riR1RuhxkM56JZPYsGCiBFgFEz1Jj9lugiuNSOR_2YFP1t9t2FBIJDIKdlDbUzg6Qsuyr5AXz1A1g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790617302748,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:During the past 24 hours, the Saudi warplanes launched 38 airstrikes and missiles via \"F-15\" and \"Typhoon\" aircraft that took off from Khamis Mushait and Taif bases, along with missile aggression from Najran and Jizan, targeting ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790617280160,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | Breaking — Iraqi Airways resumes flights to Iranian airports via Najaf International Airport.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790617272824,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-28",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Ghalibaf: Nasrallah turned resistance into a deterrent doctrine📌 Tehran, IRNA – Iran parliament speaker stated that Martyr Seyed Hassan Nasrallah turned Hezbollah resistance movement from a guerrilla group into a deterrent doctrine.In a message marking the second anniversary of Nasrallah’s marty...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790617330097,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicChief of Staff of the Iranian Armed Forces and Commander of the Central Khatam Al-Anbiya (PBUH) Headquarters, in a message marking the second anniversary of the martyrdom of the Master of the Resistance, Sayyed Hassan Nasrallah:– The Zionist-American enemy believed that physically a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
