@@ -136054,6 +136054,107 @@
     "media": []
   },
   {
+    "id": 481776677,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Gaza City, Israel: Martyrdom alDin alBayek Hamas military commander",
+    "location": "Gaza City, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇵🇸 🏴| Martyrdom of “Izz al-Din al-Bayek,” a Hamas military commander in Gaza:Palestinian local sources reported that “Izz al-Din al-Bayek” (Abu Hamza), known by the nickname “Ashmawi,” one of the commanders of the al-Qassam Brigades in the Northern Gaza Brigade, was martyred this morning (Tuesday) following an Israeli airstrike on his place of residence in the Al-Nasr neighborhood, west of Gaza City.This is not a rare case. Almost three to four commanders are being targeted every week, and th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/PbSCyBGfs5_Az66GZgO0idxfUSys1RFLM734CCgZRvYxFOrU5KAwrgyGvPDgumoQjeYFZqKYisH4ICvHApvmVYz2T0eKrcLdtTtfD6PME77XKdjeSbFfXxZvDZx17rSA7vJb1-ygisO-ahVfuhy3sM4kV8ZTN3yBnrc6TSYWIQPmwRhRYDRAMlrAZ-tarJ05eqsUdzjPM5jU8JxPa_jxVmW48W3K3qm6qHiqwwbcY1IaIBtxuBLSEFKVEeMeWTHDaExfOtbYUMFICrmGEmMhzqHw5lxuqPcxDy9CrVgVfqv-jO4XUGGT69lG3ordA-b6pE0s9ZsACNQ8p_tsw_OgDA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481780304,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz, Qatar, Oman: Exclusive Media reports consultation with Qatari",
+    "location": "Strait of Hormuz, Qatar, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Exclusive | Media reports on consultation with Qatari mediator ‘baseless speculations’: Baqaei📌 New York, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has dismissed as ‘baseless speculations’ some media reports regarding Iran’s diplomatic consultation with the Qatari mediator in New York.Speaking to an IRNA reporter late on Monday, Baqaei made the clarification regarding published reports on Iran–US negotiations were merely speculations, noting that such accounts had no basis in reali",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481783932,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel: Iranian Nigerien discuss expanding mutual ties",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iranian, Nigerien FMs discuss expanding mutual ties📌 Tehran, IRNA –Foreign Minister Abbas Araghchi and his Nigerien counterpart, Bakary Yaou Sangare, have met on the sidelines of the 81st UN General Assembly, discussing bilateral relations and international developments.Araghchi—who has traveled to New York to attend the annual UNGA sessions— sat down with Sangare on Monday evening, with the talks being largely focused on Iran-Niger ties, as well as issues of common concern.​The two top dipl",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
