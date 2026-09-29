@@ -136155,6 +136155,38 @@
     "media": []
   },
   {
+    "id": 481805721,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Israel, Gaza Strip: Enemy_MediaHebrew Walla website Hezbollahs various types",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Walla website: Hezbollah’s use of various types of drones against the forces poses another threat, particularly for reconnaissance purposes. However, the main concern is the possibility that they may attack any military force as soon as they identify an operational opportunity. The “Israeli” army does not rule out the possibility of armed men infiltrating the newly established forward positions, as well as those currently being developed, similar to the attacks targeting “Isra",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481780304,
     "type": "naval",
     "status": "confirmed",
@@ -136278,6 +136310,38 @@
       "other": 0
     },
     "description": "🟡 Regional developments | September 29, 2026 🇸🇦 Saudi Arabia• Saudi Arabia’s East-West Pipeline is operating with reduced capacity after two damaged pumping stations were bypassed. Satellite images showed that the maximum transit capacity had fallen to around 3.5 million barrels per day until the damaged stations are repaired.• Air operations at Abha International Airport in Saudi Arabia were suspended.• Explosions were reported across southern Saudi Arabia.• An explosion was also heard in th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481802087,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Jordan: Czechia England Team news lineups stats",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Czechia vs England: Team news, lineups, and key stats📌 Czechia vs England preview: team news, predicted lineups, injuries, head-to-head stats and how to watch the Nations League clash in Prague.England head to Prague looking to respond to their 3-2 defeat against Spain and keep their 2026-27 UEFA Nations League campaign on course. Thomas Tuchel’s side showed plenty of attacking promise against the world champions at Wembley but were undermined by individual mistakes in a high-scoring contest",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

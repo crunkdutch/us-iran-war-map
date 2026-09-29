@@ -185466,6 +185466,21 @@
     "verified": false
   },
   {
+    "id": 1790696701925,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-28",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Walla website: Hezbollah’s use of various types of drones against the forces poses another threat, particularly for reconnaissance purposes. However, the main concern is the possibility that they may attack any military force as soon as they identify an operational opportunity. Th...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790682256908,
     "type": "rocket",
     "location": "Lebanon",
@@ -185518,6 +185533,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 Iran, Russia discuss ways to accelerate economic cooperation📌 Tehran, IRNA – Iran's Oil Minister Mohsen Paknejad says a high-level webinar with Russian Energy Minister Sergey Tsivilev was held to discuss accelerating economic cooperation between the two countries.On Tuesday, Paknejad announced t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790696710080,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Foreign Ministry stresses development of Mazandaran citrus exports to neighboring countries📌 Tehran, IRNA – Foreign Ministry has stressed the need to expand exports of citrus products from northern Mazandaran province to neighboring countries, focusing on the province’s production and export pot...",
     "media": [],
     "verified": false
   },
