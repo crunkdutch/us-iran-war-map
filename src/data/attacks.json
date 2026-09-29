@@ -136641,6 +136641,38 @@
     "media": []
   },
   {
+    "id": 481838472,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Israel: Pezeshkian Israeli regime plan create exacerbate",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Pezeshkian: US and Israeli regime plan to create and exacerbate internal divisions in Iran📌 Tehran, IRNA – Emphasizing the necessity of maintaining unity, solidarity, and national cohesion, President Masoud Pezeshkian said that enemies of Iran have realized they cannot subdue the people through war or military action and are instead attempting to harm the country by fomenting and exacerbating internal divisions; therefore, public participation and the cooperation of all segments of society a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
