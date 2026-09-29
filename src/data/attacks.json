@@ -136609,6 +136609,38 @@
     "media": []
   },
   {
+    "id": 481834829,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Qatar, Israel: security official Trump caught quagmire unable",
+    "location": "Tehran, Qatar, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Top security official: Trump caught in quagmire, unable to decide📌 Tehran, IRNA – Secretary of Iran’s Supreme National Security Council (SNSC) Mohsen Rezaei&nbsp;says Iran has conveyed its conditions to the United States, but US President Donald Trump is unable to make a decision.“Trump is caught in a quagmire where he can neither negotiate nor fight,” Rezaei said during a Tuesday meeting in Tehran with Shahin Mustafayev, Azerbaijan’s deputy prime minister.​“Iran’s conditions have been conve",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
