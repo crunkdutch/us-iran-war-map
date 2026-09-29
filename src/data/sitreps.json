@@ -181399,6 +181399,122 @@
     "verified": false
   },
   {
+    "id": 1790703965864,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenAnsar Allah Political Office:– We extend our congratulations to the Leader of the Revolution, the Chairman and members of the Supreme Political Council, the government, our people, and our forces on the 12th anniversary of the September 21 Revolution.– The September 21 anniversary comes amid s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703928240,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "UK Maritime Trade Operations (UKMTO): An oil tanker was struck by a projectile in the Strait of Hormuz, resulting in two injuries on board.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703933083,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicThis video shows the moment of intercepting and destroying the MQ-1 drone belonging to the terrorist U.S. army this morning, using the advanced modern air defense system of the Aerospace Force of the Islamic Revolutionary Guard Corps, under the control of the country’s integrated ai...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/39069d79a6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dU3CdDiklsAnY8cszf3q11ggus-QRkXKtybQMUeF4p0vlcxHV8uVk2g52ArAZXhD9ajskiNtEmLeYZu5p5aHB1Vz142ISfdWrc9IK0RMxWeKxxIbywWqT2BpdHXS5YdUaCCwPr9XuJcEhG3uEV7mtFidQhUxvBJlBW0TUBnxNgoixspyNPN8chpw-sM2hZO_bHiup0oMbLamAXi-jlm7sWo8be4kq7BECAaAFJ8iVaVBrK-PjQFHPn_CB7cSSyUJYVPbPEHoWvBLvLJDGxdzYMx-DQo43ywToXTvEHbN4Ivrpp_J1KCUR7HmQc54tAFLFhPLxZurPIuC9J0l3MkXCA"
+      },
+      {
+        "url": "https://t.me/mmirlb/40793",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dU3CdDiklsAnY8cszf3q11ggus-QRkXKtybQMUeF4p0vlcxHV8uVk2g52ArAZXhD9ajskiNtEmLeYZu5p5aHB1Vz142ISfdWrc9IK0RMxWeKxxIbywWqT2BpdHXS5YdUaCCwPr9XuJcEhG3uEV7mtFidQhUxvBJlBW0TUBnxNgoixspyNPN8chpw-sM2hZO_bHiup0oMbLamAXi-jlm7sWo8be4kq7BECAaAFJ8iVaVBrK-PjQFHPn_CB7cSSyUJYVPbPEHoWvBLvLJDGxdzYMx-DQo43ywToXTvEHbN4Ivrpp_J1KCUR7HmQc54tAFLFhPLxZurPIuC9J0l3MkXCA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790703914319,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenKey points from the speech delivered by Ansar Allah Leader Sayyed Abdul-Malik Al-Houthi on the occasion of the 12th anniversary of the September 21 Revolution: – We turn to Allah with praise and gratitude for granting our dear people victory and support in their blessed September 21 Revolution...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703981316,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "United Kingdom Maritime Trade Operations (UKMTO): A time-delayed report indicated that an incident involving a liquefied petroleum gas (LPG) tanker sailing out of the Strait of Hormuz had occurred. The vessel was struck by a projectile.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703917542,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio: In \"Israel\", they are following the expansion of the Turkish Navy’s submarine capabilities in recent years. This is a broad expansion process that includes a significant increase in the submarine fleet through new and advanced submarines manufactured in German...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703946712,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Hebrew Channel 12, citing an \"Israeli\" security source: \"The situation is sensitive and volatile. We do not know where it will develop. It does not appear that the Iranians are prepared to make concessions; things could get out of control.\"#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790021075451,
     "type": "missile",
     "location": "Tehran",
@@ -181980,6 +182096,99 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Baqaei: Blaming Iran for rising fuel prices is a textbook symptom of “The March of Folly”📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has described blaming Iran for rising fuel prices as a textbook symptom of “The March of Folly”.“U.S. officials blame Iran for rising fuel prices...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703939157,
+    "type": "airstrike",
+    "location": "Zanjan",
+    "coordinates": [
+      36.6769,
+      48.4963
+    ],
+    "date": "2026-09-22",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟦 | Message from the Chief of Staff of the Armed Forces and Commander of the Central Khatam al-Anbiya Headquarters Ali Abdollahi on the passing of Ayatollah al-Uzma Sayyid Musa Shubairi Zanjani:In the name of Allah, the Most Compassionate, the Most Merciful“When a scholar dies, an irreparable breac...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703953834,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴🇵🇸 | The infant Fares Firas Abu Kmail, aged six months and from Gaza, has died after suffering from a heart condition that required surgery abroad, which he was unable to travel to receive. His death came amid the deterioration of Gaza’s healthcare system as a result of the ongoing war and the I...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/kUpPH2iPL_n6r81nhQyfOkqydEcH7u1Yv-hpMwYxHEJJPARGe49zSdBrjS6L6ZM84nPPHQA-0WFwmbi4rugjSStM0KOMYUotK2ZPeptg0qriNmDgmCWESXLML4oETpNcmNBNHShvHv5TrMO24V9XLxlAcOccBVG1kez-XVKVtdOrdaem8Fq8hO5GkRBGK8k-8WUPdII6AcVLDB3OpWbPRxvtaaJG-AZtWAkcXhAR1asPvFqm1N2xdAia4W4wzzjzcN3A5Pqx2M73mamN1v5PKB5IAtd608DcXJvizbYjFJRoUnbp590coJCWf4vJ8nx3JAJz4ZLxNb0Y_z-WZHFDlg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790703994497,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | An image showing the effects of the bombing on the face and body of a survivor of the Minab school massacre.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fqQzQbX3lan4-zD7k3VNoYNNL7muTR0yKCBDUJnY5Ub9ersffAJhHL1kd2wbnDh6uq1bW2TrDTEdP-g9I2U0KgnOqH1V3gli8b-UdccCfmxZmrEhHn8gKofX2DpyTOX9C3eiP6uFsrE2o87TDs8QlO7uJ9PrTP5wEBKxH-yD2rcUOekBkrfWj3RwTU3893SNKwa8du1sbLrabuEC8k7GC4tHE3FKRXr3aF6iGDBQ1zesKayDpzWbGkRpsk5emjOyou493PLheVtMTAHvvqQttVwE0XgPi6ZTl-91yCUNRFCa_avReUnd59J4N0-V6m7tLWJflMHZyH7-6kR03pGbww.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hwZh3YXSD6_OYJFtjOQ7iOkvEXnMafYBYHs0QnyLxpbMbfyEiXHSqB6BcH_K_g207NIBc0sLut1zYh8GGQ8iUQvlc41-6b94Xcj0wamK7Ul0ebrRNLwhVy3KO4ScalLtSgKonjSjetdmmlLOxT8L0v2octU8glRxu2sbtZCFTikzO2uJA9SP2s2G5s_PRbA08qA9VOvTAlg8vs630fcC1FrXwDINwzlG7AWtgs2TOJA3KjrYDe2zgkcsudb5mvBCMges2ZKGHPucOYaEe4bEJTnKagrsZ2wripvEkJtjlityhmO29YJwDyB5h-lqDWzS6oHTDVRF8aZnZRVItWeYbw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NLOsGdkOFAwtRIwb6KF0u-Ys9WXt2DClTYX-A19RYPbisf-2jr4FYw0V3CAisnNu69LYxbNSZ3IoXtDLkn3xRD5jQG3iD7EFkIG_6eV70tcEjgJcgGrSgu8gFd51KXzioRR3MofmKLSgYXuq4Ipe20b8FK85TrA692ko1afJKp3Qmbz5JEWLjUXxCLt_OJOVZ5X3Fa17qr8ldzPqs3FozcSHoqpFq2fj2mjedaKKukFtY_m4GBV0x-dzSj34lqLNe3rl4Q2p-tEXK86ysMVrGWg-9SeOw6NT4UmhCzASTiBaEjHGT_bSTQKRUx-rhuGvUzrHK6G7m15TMTPF7Tj-5Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790703961998,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Hearing of a large explosion in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703972911,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Upcoming | A message from the Leader of the Islamic Revolution, Imam Mujtaba Husayni Khamenei (H), on the occasion of the reopening of schools and universities will be released shortly.🔹@enemywatch",
     "media": [],
     "verified": false
   },
@@ -185481,6 +185690,81 @@
     "verified": false
   },
   {
+    "id": 1790703911303,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: “Israeli” opposition leaders are calling on Netanyahu to issue a clarification regarding his recent remarks, in which he indicated that there was information about a possible attack against “Israel” before the elections.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703910878,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaOffice of “Israeli” enemy Prime Minister Benjamin Netanyahu: Prime Minister Netanyahu regularly holds security briefings with the opposition leader. Their most recent meeting took place two weeks ago, on September 14.The Prime Minister has instructed his military secretary to brief the o...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703929282,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: Netanyahu invites the opposition leader to a security briefing at 11:30 pm.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703964047,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Over the past 24 hours, the Saudi air force carried out 35 airstrikes using “F-15” and “Typhoon” aircraft that took off from the Khamis Mushait and Taif air bases. The strikes targeted civilian infrastructure, including telecommunications networks, schools, and other facilities, in the govern...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703962369,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media “Israeli” media: Netanyahu invites the opposition leader to a security briefing at 11:30 pm. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790682256908,
     "type": "rocket",
     "location": "Lebanon",
@@ -185548,6 +185832,75 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 Foreign Ministry stresses development of Mazandaran citrus exports to neighboring countries📌 Tehran, IRNA – Foreign Ministry has stressed the need to expand exports of citrus products from northern Mazandaran province to neighboring countries, focusing on the province’s production and export pot...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703992922,
+    "type": "airstrike",
+    "location": "Abu Dhabi",
+    "coordinates": [
+      24.4539,
+      54.3773
+    ],
+    "date": "2026-09-29",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Saudi Crown Prince Mohammed bin Salman met UAE Vice President Sheikh Mansour bin Zayed Al Nahyan in Riyadh, with Saudi Defence Minister Prince Khalid bin Salman also present, creating a significant regional scene. Taken together with Netanyahu’s recent visit to Abu Dhabi, the reported Iran-focused...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/suKdYS6y2-23NtAQyQ4_vjv8-lwUF1sljB5d4dkTUnpWdCcbpdevLtiSeawXVQZD4Ofif4q_4Az31SRASIk8kLnVjtEUHhOFTFNi-A5uBl9GvWRgsMoa2TEQXe8vkbxqw8OSpvjRZV3XvTUrKoMKIQ5AmnCnTnjv_jm_K-c_DmM_B5Zw7Cu3mOojtRGfk2U6Kiv9dtx5HUhax7AckByNgHXQC4Q5HpvS6BpHz7eNgwOBw6vZ_grbUCUVlpLq4ppeLr5LObdmBSmw7a9RDu6qaZYpdBIzcSvSVQV_6jKH57-U7nWUWDvupt96SsIbagFVrM-K6_adxj1sCNmjv24glQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ezpBbcnr2BJ7pRmtCopDiJjS2bbpobUh5UCxehIgVDXpCuYvoL2Lr6OhEgxsEF4nQG0RCC1sLixDFgiKJjv08lQYGDX1KY9Yp9NqwgYcHCut06r2BotpgsRIccrd59oldj3flsvxPCGopxS0HBFFYsfkXCgf4b0JxvcWl10jfIBLhVY6I33erk7ivZy5T1BFhux-Dbik5YJ5M9Wjp_F8w4lfxr4Lqe4tlGgtj2hrgx2E5Fmzq8UtyLndZDUFkiuijap8A7I4lK_93Fs_EbKd68fMZG8P08naeFPb9OQMN98EvaMrXhQJ85zYxmEieWpNASCq_v7tWYh7Ag6XbsDfWg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790704002978,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Drones were launched toward the Strait of Hormuz, and an explosion was heard.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703991394,
+    "type": "airstrike",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "date": "2026-09-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— It is clear as of now that there are higher chances of joint aggression against Iran, with a new face directly launching attacks. That is why the Iranian response, as estimated, would be more damaging and severe, aimed at reciprocating the losses and establishing deterrence. Iran is preparing for ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790703931645,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-29",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Israel puts senior Hamas leaders abroad on assassination target list📌 Tehran, IRNA – Israel has placed senior Hamas leaders living outside the Gaza Strip on a list of assassination targets, Israeli minister in charge of military affairs said, according to Al Arabiya.Israel Katz said on Tuesday t...",
     "media": [],
     "verified": false
   },

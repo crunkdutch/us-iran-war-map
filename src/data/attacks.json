@@ -132533,6 +132533,113 @@
     "media": []
   },
   {
+    "id": 481823906,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: Islamic_RepublicIslamic Revolutionary Guard Corps Another dr...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps: Another MQ-1 drone belonging to the terrorist U.S. army was detected and shot down by the advanced air defense systems of the IRGC Aerospace Force over the Strait of Hormuz.This model of American drone was withdrawn from service several years ago by the naval and air forces of the terrorist army of that country and was replaced by MQ-9 drones. However, now, with a significant portion of the MQ-9 drones destroyed, the United States has been forc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/39069d79a6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dU3CdDiklsAnY8cszf3q11ggus-QRkXKtybQMUeF4p0vlcxHV8uVk2g52ArAZXhD9ajskiNtEmLeYZu5p5aHB1Vz142ISfdWrc9IK0RMxWeKxxIbywWqT2BpdHXS5YdUaCCwPr9XuJcEhG3uEV7mtFidQhUxvBJlBW0TUBnxNgoixspyNPN8chpw-sM2hZO_bHiup0oMbLamAXi-jlm7sWo8be4kq7BECAaAFJ8iVaVBrK-PjQFHPn_CB7cSSyUJYVPbPEHoWvBLvLJDGxdzYMx-DQo43ywToXTvEHbN4Ivrpp_J1KCUR7HmQc54tAFLFhPLxZurPIuC9J0l3MkXCA"
+      },
+      {
+        "url": "https://t.me/mmirlb/40793",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dU3CdDiklsAnY8cszf3q11ggus-QRkXKtybQMUeF4p0vlcxHV8uVk2g52ArAZXhD9ajskiNtEmLeYZu5p5aHB1Vz142ISfdWrc9IK0RMxWeKxxIbywWqT2BpdHXS5YdUaCCwPr9XuJcEhG3uEV7mtFidQhUxvBJlBW0TUBnxNgoixspyNPN8chpw-sM2hZO_bHiup0oMbLamAXi-jlm7sWo8be4kq7BECAaAFJ8iVaVBrK-PjQFHPn_CB7cSSyUJYVPbPEHoWvBLvLJDGxdzYMx-DQo43ywToXTvEHbN4Ivrpp_J1KCUR7HmQc54tAFLFhPLxZurPIuC9J0l3MkXCA"
+      }
+    ]
+  },
+  {
+    "id": 481827546,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Jordan, Iraq: Islamic_RepublicIslamic Revolutionary Guard Corps spokespers...",
+    "location": "Jordan, Iraq",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps spokesperson:– Over the course of several decades, the United States established numerous bases in the region, in the Gulf states, and in the countries east and west of Iran, in order to impose its hegemony over this region.– However, all these bases have been struck by Iranian missiles and drones, resulting in most of them being destroyed or rendered inoperable.– The United States was forced to relocate its forces and equipment to more distant ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481831187,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-21",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: YemenAnsar Allah Political Office extend congratulations",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenAnsar Allah Political Office:– We extend our congratulations to the Leader of the Revolution, the Chairman and members of the Supreme Political Council, the government, our people, and our forces on the 12th anniversary of the September 21 Revolution.– The September 21 anniversary comes amid strategic victories along the coast and escalating operations against the Saudi enemy to end the aggression and lift the blockade.– The September 21 Revolution is a revolution of freedom and independen",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481278767,
     "type": "missile",
     "status": "confirmed",
@@ -133092,6 +133199,88 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 481809356,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Israel, Gaza Strip: infant Fares Firas Kmail aged months",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴🇵🇸 | The infant Fares Firas Abu Kmail, aged six months and from Gaza, has died after suffering from a heart condition that required surgery abroad, which he was unable to travel to receive. His death came amid the deterioration of Gaza’s healthcare system as a result of the ongoing war and the Israeli blockade on the Gaza Strip.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/kUpPH2iPL_n6r81nhQyfOkqydEcH7u1Yv-hpMwYxHEJJPARGe49zSdBrjS6L6ZM84nPPHQA-0WFwmbi4rugjSStM0KOMYUotK2ZPeptg0qriNmDgmCWESXLML4oETpNcmNBNHShvHv5TrMO24V9XLxlAcOccBVG1kez-XVKVtdOrdaem8Fq8hO5GkRBGK8k-8WUPdII6AcVLDB3OpWbPRxvtaaJG-AZtWAkcXhAR1asPvFqm1N2xdAia4W4wzzjzcN3A5Pqx2M73mamN1v5PKB5IAtd608DcXJvizbYjFJRoUnbp590coJCWf4vJ8nx3JAJz4ZLxNb0Y_z-WZHFDlg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481812992,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab: image showing effects bombing face body",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | An image showing the effects of the bombing on the face and body of a survivor of the Minab school massacre.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fqQzQbX3lan4-zD7k3VNoYNNL7muTR0yKCBDUJnY5Ub9ersffAJhHL1kd2wbnDh6uq1bW2TrDTEdP-g9I2U0KgnOqH1V3gli8b-UdccCfmxZmrEhHn8gKofX2DpyTOX9C3eiP6uFsrE2o87TDs8QlO7uJ9PrTP5wEBKxH-yD2rcUOekBkrfWj3RwTU3893SNKwa8du1sbLrabuEC8k7GC4tHE3FKRXr3aF6iGDBQ1zesKayDpzWbGkRpsk5emjOyou493PLheVtMTAHvvqQttVwE0XgPi6ZTl-91yCUNRFCa_avReUnd59J4N0-V6m7tLWJflMHZyH7-6kR03pGbww.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hwZh3YXSD6_OYJFtjOQ7iOkvEXnMafYBYHs0QnyLxpbMbfyEiXHSqB6BcH_K_g207NIBc0sLut1zYh8GGQ8iUQvlc41-6b94Xcj0wamK7Ul0ebrRNLwhVy3KO4ScalLtSgKonjSjetdmmlLOxT8L0v2octU8glRxu2sbtZCFTikzO2uJA9SP2s2G5s_PRbA08qA9VOvTAlg8vs630fcC1FrXwDINwzlG7AWtgs2TOJA3KjrYDe2zgkcsudb5mvBCMges2ZKGHPucOYaEe4bEJTnKagrsZ2wripvEkJtjlityhmO29YJwDyB5h-lqDWzS6oHTDVRF8aZnZRVItWeYbw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NLOsGdkOFAwtRIwb6KF0u-Ys9WXt2DClTYX-A19RYPbisf-2jr4FYw0V3CAisnNu69LYxbNSZ3IoXtDLkn3xRD5jQG3iD7EFkIG_6eV70tcEjgJcgGrSgu8gFd51KXzioRR3MofmKLSgYXuq4Ipe20b8FK85TrA692ko1afJKp3Qmbz5JEWLjUXxCLt_OJOVZ5X3Fa17qr8ldzPqs3FozcSHoqpFq2fj2mjedaKKukFtY_m4GBV0x-dzSj34lqLNe3rl4Q2p-tEXK86ysMVrGWg-9SeOw6NT4UmhCzASTiBaEjHGT_bSTQKRUx-rhuGvUzrHK6G7m15TMTPF7Tj-5Q.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 481348697,
@@ -136342,6 +136531,79 @@
       "other": 0
     },
     "description": "💬 Czechia vs England: Team news, lineups, and key stats📌 Czechia vs England preview: team news, predicted lineups, injuries, head-to-head stats and how to watch the Nations League clash in Prague.England head to Prague looking to respond to their 3-2 defeat against Spain and keep their 2026-27 UEFA Nations League campaign on course. Thomas Tuchel’s side showed plenty of attacking promise against the world champions at Wembley but were undermined by individual mistakes in a high-scoring contest",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481816629,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "Egypt Airstrike — Abu Dhabi, Riyadh, UAE: Saudi Crown Prince Mohammed Salman Vice",
+    "location": "Abu Dhabi, Riyadh, UAE, Saudi Arabia, Israel, Egypt, Turkey",
+    "coordinates": [
+      24.4539,
+      54.3773
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Saudi Crown Prince Mohammed bin Salman met UAE Vice President Sheikh Mansour bin Zayed Al Nahyan in Riyadh, with Saudi Defence Minister Prince Khalid bin Salman also present, creating a significant regional scene. Taken together with Netanyahu’s recent visit to Abu Dhabi, the reported Iran-focused discussions, and the UAE’s renewed statements over the three Iranian islands, these meetings point toward preparations for a coordinated regional move against Iran. The emerging picture is that the U",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/suKdYS6y2-23NtAQyQ4_vjv8-lwUF1sljB5d4dkTUnpWdCcbpdevLtiSeawXVQZD4Ofif4q_4Az31SRASIk8kLnVjtEUHhOFTFNi-A5uBl9GvWRgsMoa2TEQXe8vkbxqw8OSpvjRZV3XvTUrKoMKIQ5AmnCnTnjv_jm_K-c_DmM_B5Zw7Cu3mOojtRGfk2U6Kiv9dtx5HUhax7AckByNgHXQC4Q5HpvS6BpHz7eNgwOBw6vZ_grbUCUVlpLq4ppeLr5LObdmBSmw7a9RDu6qaZYpdBIzcSvSVQV_6jKH57-U7nWUWDvupt96SsIbagFVrM-K6_adxj1sCNmjv24glQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ezpBbcnr2BJ7pRmtCopDiJjS2bbpobUh5UCxehIgVDXpCuYvoL2Lr6OhEgxsEF4nQG0RCC1sLixDFgiKJjv08lQYGDX1KY9Yp9NqwgYcHCut06r2BotpgsRIccrd59oldj3flsvxPCGopxS0HBFFYsfkXCgf4b0JxvcWl10jfIBLhVY6I33erk7ivZy5T1BFhux-Dbik5YJ5M9Wjp_F8w4lfxr4Lqe4tlGgtj2hrgx2E5Fmzq8UtyLndZDUFkiuijap8A7I4lK_93Fs_EbKd68fMZG8P08naeFPb9OQMN98EvaMrXhQJ85zYxmEieWpNASCq_v7tWYh7Ag6XbsDfWg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481820267,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Strait of Hormuz: Drones were launched toward Strait Hormuz",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Drones were launched toward the Strait of Hormuz, and an explosion was heard.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
