@@ -131984,6 +131984,38 @@
     "media": []
   },
   {
+    "id": 481798454,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Riyadh, Red Sea, Bab al-Mandab: YemenChairman Supreme Political Council Mahdi AlMashat",
+    "location": "Riyadh, Red Sea, Bab al-Mandab, Lebanon, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenChairman of the Supreme Political Council Mahdi Al-Mashat, on the occasion of the 12th anniversary of the glorious September 21 Revolution:– We commend the members of the Armed Forces and security forces for their discipline and commitment to ethical and religious principles, continuing the revolution’s approach in their treatment of prisoners, wounded individuals, and those who were deceived.– We condemn the Saudi regime’s false allegations that our army targeted Mecca. We tell it: Shame ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481219641,
     "type": "intercept",
     "status": "confirmed",

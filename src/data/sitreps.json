@@ -180720,6 +180720,21 @@
     "verified": false
   },
   {
+    "id": 1790689515939,
+    "type": "naval",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-20",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenChairman of the Supreme Political Council Mahdi Al-Mashat, on the occasion of the 12th anniversary of the glorious September 21 Revolution:– We commend the members of the Armed Forces and security forces for their discipline and commitment to ethical and religious principles, continuing the re...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1789948818553,
     "type": "drone",
     "location": "Fars",
@@ -185430,6 +185445,27 @@
     "verified": false
   },
   {
+    "id": 1790689557441,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Al-Masirah has published the full video of what turns out to be the Bani al-Akham airfield, near Dhubab, Yemen. This is a newer airfield than the airfield at Mayyun Island. Construction started in 2023 and became operational in April 2025. It was originally constructed by the Yemeni National ...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62718",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/PS2FJ6nC6cuT8lqAY4CNr68JMiK-ccGsIqNNBB9d3aw-FT8-xUyMdKYHBRc5y_7MYb1ngWvckWCM42j17aJayKgNiWPHmd0768cO6dWjPcfLZ-pFuF-J-__btb_2tGFjskdLGcgqocQ5J7QTAjRFoqDmWjKJ0eix1EuqBKgr4apTmjTyii5CkwMX9J9RbyiKgEZWUC7E7VSTZ10aPa4wIGzqn8v05B-f0XE64DZhZdOv8dzT-AIq8GxmsqJD7tw6Qbw6mBs5Tqf2qoGJDRj0AVFgXnfnu-Fca2UYKoR6CVm8uyOFuo522spIFXexra3Cxitf0oArkDFl2NfdUFPsnw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790682256908,
     "type": "rocket",
     "location": "Lebanon",
@@ -185441,6 +185477,47 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Regional developments | September 29, 2026 🇸🇦 Saudi Arabia• Saudi Arabia’s East-West Pipeline is operating with reduced capacity after two damaged pumping stations were bypassed. Satellite images showed that the maximum transit capacity had fallen to around 3.5 million barrels per day until the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790689529520,
+    "type": "airstrike",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "'Jan Fada' exercise held in Tabriz, East Azarbaijan Province.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8957432ced.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Oq5pt4F0HRw1mE61ks1A_KVu8ulO35_gYPdcfFIm0Ihrvq7dyBmUuGfyW734heh3wNoGJ18HpslfHNgxkmNaJlB8g3HrBbmTiatzqkHukiQ-oEnnKvdgf8TnThnc7GzZBIT7TqAZ9LpV-j4h36t6JO_MIj1qR2uM-Z5-hXq67TGCKvIpz7dGmf-UhMAZrs5SLwzOhwHL3SdeSEzcd4bnuLIoMKCW6w2cPRtwQ24MRA9Q7KP47MD1WapeXZgrlRjhW5IqdYQN5s7jJlpe6Qc_jf8dYRQwZLgDFftCvjedLvOKgPGyAZj-Cj8uO6LzHqmcV9YWHFLCTP54UJUCEBfddg"
+      },
+      {
+        "url": "https://t.me/Irna_en/40130",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Oq5pt4F0HRw1mE61ks1A_KVu8ulO35_gYPdcfFIm0Ihrvq7dyBmUuGfyW734heh3wNoGJ18HpslfHNgxkmNaJlB8g3HrBbmTiatzqkHukiQ-oEnnKvdgf8TnThnc7GzZBIT7TqAZ9LpV-j4h36t6JO_MIj1qR2uM-Z5-hXq67TGCKvIpz7dGmf-UhMAZrs5SLwzOhwHL3SdeSEzcd4bnuLIoMKCW6w2cPRtwQ24MRA9Q7KP47MD1WapeXZgrlRjhW5IqdYQN5s7jJlpe6Qc_jf8dYRQwZLgDFftCvjedLvOKgPGyAZj-Cj8uO6LzHqmcV9YWHFLCTP54UJUCEBfddg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790689488732,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran, Russia discuss ways to accelerate economic cooperation📌 Tehran, IRNA – Iran's Oil Minister Mohsen Paknejad says a high-level webinar with Russian Energy Minister Sergey Tsivilev was held to discuss accelerating economic cooperation between the two countries.On Tuesday, Paknejad announced t...",
     "media": [],
     "verified": false
   },
