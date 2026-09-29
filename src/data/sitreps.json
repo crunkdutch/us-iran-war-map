@@ -185295,6 +185295,41 @@
     "verified": false
   },
   {
+    "id": 1790660682305,
+    "type": "airstrike",
+    "location": "Abu Dhabi",
+    "coordinates": [
+      24.4539,
+      54.3773
+    ],
+    "date": "2026-09-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪🇮🇱 🇹🇷 🇸🇦 | What is being coordinated in Abu Dhabi?The developments in Abu Dhabi point to an increasingly intense regional push centred on Iran and Ansar Allah. Netanyahu arrived in Abu Dhabi with a senior Israeli security delegation and held an extended meeting with Mohammed bin Zayed, wit...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790660659979,
+    "type": "airstrike",
+    "location": "Abu Dhabi",
+    "coordinates": [
+      24.4539,
+      54.3773
+    ],
+    "date": "2026-09-28",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪🇮🇱 🇹🇷 🇸🇦 | What is being coordinated in Abu Dhabi? The developments in Abu Dhabi point to an increasingly intense regional push centred on Iran and Ansar Allah. Netanyahu arrived in Abu Dhabi with a senior Israeli security delegation and held an extended…",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ev8ovyCSvBAFyAWCPv4Mu1WIrD339g-fApZJnfXRpR9QcbomAq1J-J4S6hHdsSXrq9Hs0aCC16pij3TO685AcVmgobIBlKur0nymQhQ4s8ynjYp_OO4x-qzjvKiRXXAGtRh967fuMILPyg_WkAZSRwUa0ffnCQ3AUe_OSgYWV4upTxhI-VLssxnM-wq3cyrINlB6EtTWRfuJtDBKn0HWyMV0VfBp81MRP9b6R1xM9LAmES-vDb6x3qOZVuNfjM0fC3I1TZsRMqKx54831v_EIdbgqgta7EdJvs5hkxU3CM8Jh7J-ityyamMj12UoRXu8nX_nKaGG_hV_Y278-pZ9Qg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
