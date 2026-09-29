@@ -136219,6 +136219,38 @@
     "media": []
   },
   {
+    "id": 481794822,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Lebanon, Yemen, Saudi Arabia: Regional developments September 2026 Saudi Arabia",
+    "location": "Lebanon, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | September 29, 2026 🇸🇦 Saudi Arabia• Saudi Arabia’s East-West Pipeline is operating with reduced capacity after two damaged pumping stations were bypassed. Satellite images showed that the maximum transit capacity had fallen to around 3.5 million barrels per day until the damaged stations are repaired.• Air operations at Abha International Airport in Saudi Arabia were suspended.• Explosions were reported across southern Saudi Arabia.• An explosion was also heard in th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",

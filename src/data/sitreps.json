@@ -181939,6 +181939,36 @@
     "verified": false
   },
   {
+    "id": 1790682330345,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Pezeshkian says he will convey Iranian nation’s grievances, strength to world📌 Tehran, IRNA – President Masoud Pezeshkian, who has left Tehran for New York to attend the 81st session of the United Nations General Assembly (UNGA), says he will use the session to convey to officials and people fro...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790682301074,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Baqaei: Blaming Iran for rising fuel prices is a textbook symptom of “The March of Folly”📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has described blaming Iran for rising fuel prices as a textbook symptom of “The March of Folly”.“U.S. officials blame Iran for rising fuel prices...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790150918222,
     "type": "drone",
     "location": "Tehran",
@@ -185382,6 +185412,36 @@
         "thumbnail": "https://cdn1.telesco.pe/file/nqJx7nrLcLcwxLorw2HL046rZmpKUGzZABuw0ZOslX_oUiFtyrFLx5y727rpl68zhUkCyEVGP83R3B0v8Xp6tbzwizhC6VvVeHsyQs3aOaPcO5gNXF2swGRtQEQVM2eHYl9P9uYF3bOlSB3dD8C7_wuGru0crtEFrR47rtrg8dnHGbm9-a4t4IftbqnEBsnbMD9e6-eNamDPq6XGr86ze1POgoKGXE7YlhHvi-jRj77mvjaR80hVNde2i83bKdohmhvDsRw4-iV-q3x7RSVChcIpllSRh1cdw0lvGY_pnSWFJKbs11PcecXDike0RJC51HUxivzyLGuMLuhkPRap-Q"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790682279536,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-28",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIranian Parliament Speaker Mohammad Baqer Qalibaf:– We are marking the second anniversary of the martyrdom of Sayyed Hassan Nasrallah. He was not merely a military commander or a religious jurist; he was a strategist who changed the balance of power in the region in favor of the opp...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790682256908,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | September 29, 2026 🇸🇦 Saudi Arabia• Saudi Arabia’s East-West Pipeline is operating with reduced capacity after two damaged pumping stations were bypassed. Satellite images showed that the maximum transit capacity had fallen to around 3.5 million barrels per day until the...",
+    "media": [],
     "verified": false
   },
   {
