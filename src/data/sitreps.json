@@ -185795,6 +185795,36 @@
     "verified": false
   },
   {
+    "id": 1790754510736,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: The current assessment is that an altercation broke out aboard the Emirati aircraft heading toward Tel Aviv, prompting a distress call.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790754536747,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: The “Israeli” Air Force was placed on full alert due to an altercation between the pilots.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790682256908,
     "type": "rocket",
     "location": "Lebanon",
@@ -186000,6 +186030,66 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 ❌ 🇸🇦/🇦🇪 | Following a week of heavy fighting in the Al Mazaq area, AnsarAllah has reportedly managed to advance south of Al Qashimiyah toward the slopes of Jabal Aghbar, while also capturing the villages of Al Ghawl and Jabal al-Ayli. To the east, AnsarAllah forces are reportedly advancing ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790754518701,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran warns of repeated Gaza pattern in Southern Lebanon📌 London, IRNA – Iran’s ambassador and permanent representative to the United Nations Office in Geneva, Ali Bahreini, has warned that the pattern of destruction and forced displacement seen in Palestine could be repeated in southern Lebanon,...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790754518091,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 US aviation sanctions threaten Iran’s civil aviation safety, rights📌 Tehran, IRNA – US sanctions on Iran’s aviation sector have raised concerns over flight safety and the rights of people who rely on air travel for family visits, medical treatment, education and other essential needs, and should...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790754497130,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-09-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪🇮🇱 | Breaking — A flight from Dubai to Tel Aviv briefly squawked 7500, the code for a hijacking. The plane is currently flying over northern Saudi Arabia.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790754539426,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Seems Netanyahu planned this during his UAE visit.",
     "media": [],
     "verified": false
   },
