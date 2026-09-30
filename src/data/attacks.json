@@ -133283,6 +133283,38 @@
     ]
   },
   {
+    "id": 481922511,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-22",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Lebanon, Israel: LebanonHead Loyalty Resistance Bloc Mohammad Raad",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHead of the Loyalty to the Resistance Bloc, MP Mohammad Raad: – Hezbollah remained steadfast for four months in Ali Al-Taher despite the siege being imposed by air and land, and despite being subjected to tons of explosives, shells, and airstrikes.– The Islamic Resistance wrote an epic of martyrdom under the most difficult and sensitive circumstances in confronting the aggression.– There was an expectation that the Resistance would surrender, but the enemy, its collaborators, and the aut",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481348697,
     "type": "airstrike",
     "status": "confirmed",
@@ -137206,6 +137238,102 @@
       "other": 0
     },
     "description": "as their official camps on the outskirts of Iraqi cities. They also assassinated commanders in civilian areas, foremost among them Hajj Qassem Soleimani and Hajj Abu Mahdi Al-Muhandis. The series of assassinations of commanders continued, including Hajj commander Abu Taqwa Al-Saeedi and Hajj commander Abu Baqir Al-Saaedi, and most recently the assassination of senior commander Hajj Abu Hassan Al-Furaiji. Hundreds of martyrs and wounded were left in the wake of American attacks on Iraqi soil.The ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481911525,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Yemen: Yemeni Armed Forces spokesperson Brigadier General",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:During the past 24 hours, Saudi warplanes and missile attacks launched 51 airstrikes and missiles—using F-15 aircraft that took off from Khamis Mushait base, and missile aggression from Najran and Jizan—targeting civilian communication networks and civilian infrastructure in the governorates of Marib, Sa'ada, Al-Hodeidah, Taiz, and Amran. This brings the total number of attacks by the Saudi aggression since the start of the e",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481915186,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Tehran, Gaza City, Israel: Hamas Israels attacks genocide blatant ceasefire",
+    "location": "Tehran, Gaza City, Israel, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Hamas: Israel’s attacks are genocide, blatant ceasefire breach📌 Tehran, IRNA – The Islamic Resistance Movement (Hamas) said that the Zionist regime’s continued escalation of attacks in the Gaza Strip amounts to continued genocide against the Palestinians and a blatant violation of the ceasefire agreement.In a statement, referring to the Israeli occupation army’s crime in western Gaza City that killed five Palestinians, Hamas said the ongoing assassinations and bombardment of civilians are ex",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481918848,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iran urges UNESCO cooperation restore cultural",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran urges UNESCO cooperation to restore cultural heritage damaged in war📌 Tehran, IRNA – An official from Iran’s Ministry of Cultural Heritage and Tourism has called for strengthened international cooperation, particularly from UNESCO, to assess, document, and restore Iranian cultural heritage damaged in US attacks.Farhad Azizi Zelani made the remarks during a meeting with Lazare Eloundou Assomo, Director of the UNESCO World Heritage Centre, in Hanoi, the capital of Vietnam, where they disc",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
