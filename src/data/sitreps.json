@@ -185825,6 +185825,36 @@
     "verified": false
   },
   {
+    "id": 1790761705850,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” enemy army radio: In “Israel,” the incident involving the aircraft is believed to have indeed been a security incident, and one of the pilots may have attempted to hijack the aircraft and crash it. The details are under investigation and examination.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790761741422,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media “Israeli” enemy army radio: In “Israel,” the incident involving the aircraft is believed to have indeed been a security incident, and one of the pilots may have attempted to hijack the aircraft and crash it. The details are under investigation…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790682256908,
     "type": "rocket",
     "location": "Lebanon",
@@ -186064,6 +186094,56 @@
     "verified": false
   },
   {
+    "id": 1790761675045,
+    "type": "airstrike",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "date": "2026-09-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "A flydubai flight en route from Dubai to Israel was forced to land at Saudi Arabia's Tabuk Airport following what officials described as a 'dispute between the pilots on board.📲 @Irna_en",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790761761378,
+    "type": "airstrike",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Multiple accounts of the FlyDubai plane incident continue: While some Israeli media outlets consider a pilot's suicide attempt to be the cause of the incident, others have raised the possibility of a knife attack on a pilot.📲 @Irna_en",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790761719117,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Ben-Gvir's threat to cremate the bodies of Palestinian martyrsIsrael's Minister of Internal Security: Upon assuming the Ministry of War, I shall ensure that their bodies are cremated. As minister, I will effect a fundamental transformation in prevailing concepts through war.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/E4FhDIa2BfrDvutqq-Q191xBnZ8vEvdrrki3eFJCR8meBtlJ6krsz0Y_zxqyek7fkvz7vUWKcsQfXYi-KLHKWJEETTQhTJS_WB_-73rd218azzLLncy3X7MTTnL9GkPOiJXA030B1a7vDVPZjW6T9sy3GVu5ohpQwgftSOow5CmUyARBMGeMdt-ISGzY2T-rKE9bmeFykTnxLnx6eedhOrkXKAo_G-d35uACEwzG2UyssjpdDB_Awov74b9jbBF_i4aIT8o1aNZhH1keuZ_zYTSR34F6FhQXj70Xfuc78-uHpAWEX4BBhCTAFgMM6sX0GlLefTPedzJv5It-5qW7cA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790754497130,
     "type": "airstrike",
     "location": "Tel Aviv",
@@ -186090,6 +186170,21 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "Seems Netanyahu planned this during his UAE visit.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790761712780,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — LNG carrier attacked in the Strait of Hormuz.🔻@enemywatch",
     "media": [],
     "verified": false
   },

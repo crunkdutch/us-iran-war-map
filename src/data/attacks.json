@@ -136801,6 +136801,43 @@
     "media": []
   },
   {
+    "id": 481856702,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: spokesperson affirms sanctions hurt ordinary people",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 UN spokesperson affirms sanctions hurt ordinary people📌 New York, IRNA – United Nations Secretary-General spokesperson Stephane Dujarric says that the UN chief has repeatedly expressed concern over the growing use of unilateral sanctions, stressing that such measures ultimately harm ordinary people.At a press briefing, an IRNA correspondent asked Dujarric about the impact of US sanctions on Iran, particularly their effects on access to medicines and aviation safety.​Dujarric replied, “Look, ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/E4FhDIa2BfrDvutqq-Q191xBnZ8vEvdrrki3eFJCR8meBtlJ6krsz0Y_zxqyek7fkvz7vUWKcsQfXYi-KLHKWJEETTQhTJS_WB_-73rd218azzLLncy3X7MTTnL9GkPOiJXA030B1a7vDVPZjW6T9sy3GVu5ohpQwgftSOow5CmUyARBMGeMdt-ISGzY2T-rKE9bmeFykTnxLnx6eedhOrkXKAo_G-d35uACEwzG2UyssjpdDB_Awov74b9jbBF_i4aIT8o1aNZhH1keuZ_zYTSR34F6FhQXj70Xfuc78-uHpAWEX4BBhCTAFgMM6sX0GlLefTPedzJv5It-5qW7cA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
