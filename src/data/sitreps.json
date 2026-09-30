@@ -186388,6 +186388,21 @@
     "verified": false
   },
   {
+    "id": 1790776146408,
+    "type": "rocket",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Press StatementIn the Name of Allah, the Most Gracious, the Most MercifulThe ongoing Zionist escalation in the Gaza Strip constitutes a continuation of the chapters of the war of extermination against our Palestinian people. The latest of these was the horrific massacre perpetrated by the occupation...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790754497130,
     "type": "airstrike",
     "location": "Tel Aviv",
@@ -186501,6 +186516,77 @@
         "thumbnail": "https://cdn4.telesco.pe/file/KjC8OL89t7Y5QREfSdO1OePMGwN0BQUz5jP-G8P4Ut59DQXE9d_nYAeKfIiXPwpiMfSEln128vg_Px4wneaXEQzv0RYJy_AluZvr9EISrD-GBmm1TcIKqq5t8w-nwLfffnkYuRqYKPdHz8gPQKOkJiq9A6wLXz-CBfOEDNudtuG0R5_ge5a6pmqdnoI-JwtEyF5sKEkG-ogxjNvCgZPCXOPNfyNcAMCgZZhgx7iAWo1rdKOezMTDYJRcWZOomoIv8oKDj8-BKVTV3b1ukN3b8FVJTGi99qt6bAzVeSUj_VpAKyMp3_GpGft6RTXNEJN03INBNgTYHzUn5yYmf6T6dg"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1790776144723,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— With coalition forces leaving Iraq while remaining stationed in Jordan and Turkey, this could raise concerns that they may activate and organize false-flag attacks across Iraq through their proxy, ISIS 2.0, particularly in the Iraq-Syria and Iraq-Jordan border regions. If such incidents occur, it ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790776142403,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-09-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Attack targeting Saudi Arabia’s Abqaiq oil facilities.🇾🇪@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790776112393,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Amin Mirzazadeh, world champion and bronze medalist of the Paris Olympics, secured the gold medal at the 2026 Asian Games by defeating his Uzbek opponent in the 130 kg Greco-Roman wrestling final.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f57238416b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ee7W5uMLb52gryzY_UcAB4D1M1FVJGbC3SgJUWfN1oI2whRPzj7HMA4zJNo3JaXYW0LKDnjHb6fgtdcOBiIr3a9TztZ_1aqBZKz5m58l_-NNZ1ZdHtwqxPOrSwPw2HNxqIxS3xnI09R4fu5WZ8C4oxzu1-W0wcRUMKSSQAHFFdkZB6wfg4FMqpnxIc_Vy8wJETAjy5kqTsU--jLY77tJMYpUn-PcPJbHvydW-xhp7fx2lyk1HBsMZwMfMmechwCvAEHNRxjR7corKX9UNcwAWM8EyI3n7bnI21awGB7DJud6Lr5-Qb1d3SPprHhaJ3rZBGkov2Z6FBUkK48F1B0cGw"
+      },
+      {
+        "url": "https://t.me/Irna_en/40181",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ee7W5uMLb52gryzY_UcAB4D1M1FVJGbC3SgJUWfN1oI2whRPzj7HMA4zJNo3JaXYW0LKDnjHb6fgtdcOBiIr3a9TztZ_1aqBZKz5m58l_-NNZ1ZdHtwqxPOrSwPw2HNxqIxS3xnI09R4fu5WZ8C4oxzu1-W0wcRUMKSSQAHFFdkZB6wfg4FMqpnxIc_Vy8wJETAjy5kqTsU--jLY77tJMYpUn-PcPJbHvydW-xhp7fx2lyk1HBsMZwMfMmechwCvAEHNRxjR7corKX9UNcwAWM8EyI3n7bnI21awGB7DJud6Lr5-Qb1d3SPprHhaJ3rZBGkov2Z6FBUkK48F1B0cGw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790776130372,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iranian Greco-Roman wrestler wins gold at 2026 Asian Games📌 Nagoya, IRNA – Iranian Greco-Roman wrestler Amin Mirzazadeh has won a gold medal at the 2026 Asian Games.Mirzazadeh defeated Uzbekistan’s Rafael Tsitsuashvili 3-1 in the final bout of the men’s 130kg category on Wednesday.​He defeated K...",
+    "media": [],
     "verified": false
   },
   {

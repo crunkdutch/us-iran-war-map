@@ -136977,6 +136977,38 @@
     "media": []
   },
   {
+    "id": 481889576,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Gaza City, Gaza Strip: Press StatementIn Name Allah Most Gracious",
+    "location": "Gaza City, Gaza Strip",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Press StatementIn the Name of Allah, the Most Gracious, the Most MercifulThe ongoing Zionist escalation in the Gaza Strip constitutes a continuation of the chapters of the war of extermination against our Palestinian people. The latest of these was the horrific massacre perpetrated by the occupation army this afternoon west of Gaza City, which resulted in the martyrdom of five citizens, in addition to the ongoing shelling targeting all parts of the Strip. This once again confirms the criminal oc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
@@ -137041,6 +137073,38 @@
       "other": 0
     },
     "description": "🏴‍☠️ | US-led military operation shifts headquarters to Jordan after Iraq withdrawal:The US-led Operation Inherent Resolve has shifted its headquarters to Jordan following the completion of the coalition's military withdrawal from Iraq, US Central Command (CENTCOM) said today.CENTCOM commander Admiral Brad Cooper said US and coalition forces stationed across the region would remain prepared to respond to \"ISIS threats\" after Iraq assumed primary responsibility for its security.\"As we step back ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481885920,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia: Attack targeting Saudi Arabias Abqaiq facilitiesenemywatch",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Attack targeting Saudi Arabia’s Abqaiq oil facilities.🇾🇪@enemywatch+",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
