@@ -137339,6 +137339,81 @@
     "media": []
   },
   {
+    "id": 481926174,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Damascus: explosion occurred pipeline supplying Tishreen power",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇾| An explosion occurred in a gas pipeline supplying the Tishreen power plant in the Haran al-Awamid area, near Damascus International Airport.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481929838,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Erbil, Iraq: drone attack targeted Azadi Camp belonging",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷❌ 🇮🇶 | A drone attack targeted the Azadi Camp, belonging to the Iranian Kurdish opposition Kurdistan Democratic Party of Iran (KDPI), in Erbil Governorate, northern Iraq.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cc8236016b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/aVTBlF5aWpkj-DzE4pIIXhZsNhh81LldX4KHmpRJemvVaDleZC--tjvfNZ0PYsXLsZlPl1ZaQBp7exlYDFfuOLXX1_dnvLt0dAbC6vWp9VHOb_SsEsPRxClwKn7iv2u2zeAyF0-x0um2iK-zeU61oWbGViG5xQNjbrY5EVOLhftWtteKlazUlI_bp9QEfd5U8m2RRwCM_0hJbuxWec5pUC1oe4U3t3vxja1gkpUiW2YS00NgNpb2ynULdfcGTmScxB9P42eCX8dBmlz1-lplWQiSnFhvW-v-w73cqqcSO2ErIhBQKvvwpseHPFEUFtVtYF6an5soE_JbOeJEtyc9kQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/62774",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/aVTBlF5aWpkj-DzE4pIIXhZsNhh81LldX4KHmpRJemvVaDleZC--tjvfNZ0PYsXLsZlPl1ZaQBp7exlYDFfuOLXX1_dnvLt0dAbC6vWp9VHOb_SsEsPRxClwKn7iv2u2zeAyF0-x0um2iK-zeU61oWbGViG5xQNjbrY5EVOLhftWtteKlazUlI_bp9QEfd5U8m2RRwCM_0hJbuxWec5pUC1oe4U3t3vxja1gkpUiW2YS00NgNpb2ynULdfcGTmScxB9P42eCX8dBmlz1-lplWQiSnFhvW-v-w73cqqcSO2ErIhBQKvvwpseHPFEUFtVtYF6an5soE_JbOeJEtyc9kQ"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

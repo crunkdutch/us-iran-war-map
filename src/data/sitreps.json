@@ -186805,6 +186805,73 @@
     "verified": false
   },
   {
+    "id": 1790797808131,
+    "type": "airstrike",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾| An explosion occurred in a gas pipeline supplying the Tishreen power plant in the Haran al-Awamid area, near Damascus International Airport.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790797786103,
+    "type": "drone",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷❌ 🇮🇶 | A drone attack targeted the Azadi Camp, belonging to the Iranian Kurdish opposition Kurdistan Democratic Party of Iran (KDPI), in Erbil Governorate, northern Iraq.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cc8236016b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/aVTBlF5aWpkj-DzE4pIIXhZsNhh81LldX4KHmpRJemvVaDleZC--tjvfNZ0PYsXLsZlPl1ZaQBp7exlYDFfuOLXX1_dnvLt0dAbC6vWp9VHOb_SsEsPRxClwKn7iv2u2zeAyF0-x0um2iK-zeU61oWbGViG5xQNjbrY5EVOLhftWtteKlazUlI_bp9QEfd5U8m2RRwCM_0hJbuxWec5pUC1oe4U3t3vxja1gkpUiW2YS00NgNpb2ynULdfcGTmScxB9P42eCX8dBmlz1-lplWQiSnFhvW-v-w73cqqcSO2ErIhBQKvvwpseHPFEUFtVtYF6an5soE_JbOeJEtyc9kQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/62774",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/aVTBlF5aWpkj-DzE4pIIXhZsNhh81LldX4KHmpRJemvVaDleZC--tjvfNZ0PYsXLsZlPl1ZaQBp7exlYDFfuOLXX1_dnvLt0dAbC6vWp9VHOb_SsEsPRxClwKn7iv2u2zeAyF0-x0um2iK-zeU61oWbGViG5xQNjbrY5EVOLhftWtteKlazUlI_bp9QEfd5U8m2RRwCM_0hJbuxWec5pUC1oe4U3t3vxja1gkpUiW2YS00NgNpb2ynULdfcGTmScxB9P42eCX8dBmlz1-lplWQiSnFhvW-v-w73cqqcSO2ErIhBQKvvwpseHPFEUFtVtYF6an5soE_JbOeJEtyc9kQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790797813145,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni forces targeted Aramco’s natural gas facility in Yanbu, Saudi Arabia, between September 25 and 27; traces of strikes were observed on several storage tanks.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/490dd44bba.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SPY998A_6bfpLMmj7SpE2bQrxCtcHOkI6ZK4y_w1fNoettKo2ztOCw6NPmMl4_UQ3t3i2v9MNwAzhXMMwuyFzclVBuJa2HwvK8miJLECIeTEIJQoWqopNOW7mhZcqoBfqNq-9tIUtlkWl8FbH-mOjC7IVxwaYvcegGCj5zXY7sHrz6J4UDEiYxKLsSTyaiAtkQ7xQ8IAcllznKihRBvXNPLAcbBD9Q2rILuUQNZstuJgL46iVi412vuiim81uNhfAOE6gvgod8XkwdJouCtKHU6uYaLkilz6Mq7Nzy3Anx9l10NHQjEKKm8BzVJVCsxKIsFmVXTAQR7LqDPQIb6smQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/62775",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SPY998A_6bfpLMmj7SpE2bQrxCtcHOkI6ZK4y_w1fNoettKo2ztOCw6NPmMl4_UQ3t3i2v9MNwAzhXMMwuyFzclVBuJa2HwvK8miJLECIeTEIJQoWqopNOW7mhZcqoBfqNq-9tIUtlkWl8FbH-mOjC7IVxwaYvcegGCj5zXY7sHrz6J4UDEiYxKLsSTyaiAtkQ7xQ8IAcllznKihRBvXNPLAcbBD9Q2rILuUQNZstuJgL46iVi412vuiim81uNhfAOE6gvgod8XkwdJouCtKHU6uYaLkilz6Mq7Nzy3Anx9l10NHQjEKKm8BzVJVCsxKIsFmVXTAQR7LqDPQIb6smQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
