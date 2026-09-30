@@ -182193,6 +182193,21 @@
     "verified": false
   },
   {
+    "id": 1790747226481,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Full text of the message from the Leader of the Islamic Revolution Imam Mujtaba Khamenei (H) on the occasion of the reopening of schools and universities: (1/2) In the name of Allah, the Most Compassionate, the Most Merciful The dawn of the new academic…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790150918222,
     "type": "drone",
     "location": "Tehran",
