@@ -185920,6 +185920,75 @@
     "verified": false
   },
   {
+    "id": 1790740066197,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance in Iraq - Ashab Al-Kahf:In the name of Allah, the Most Gracious, the Most Merciful.The Islamic Resistance in Iraq (Ashab Al-Kahf formation) congratulates our steadfast people and our great religious authorities on the humiliated exit of the American occup...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790740088280,
+    "type": "drone",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance in Iraq - Men of Great Might:In the name of Allah, the Most Gracious, the Most Merciful.O sons of our proud Iraqi people... O stalwarts of the nation and men of steadfastness, On this glorious and historic day, we raise our heads high and convey to you th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790740072914,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-09-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 🤡 | Announcement of the deaths of two Saudi soldiers, Mukhtar Al-Ali and Hani Al-Saleh, in the southern region of Saudi Arabia, on the glorious road to Washington and Tel Aviv.🏴‍☠️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/r1RlFVj8gCGNdq3ql5D9uwWHnjbK4KtBy14Xeohvcjf_qn1DFgYQ8mhbfmekrKGs6ONoPbW44dlU-SriQ9MNEiYgnuWsLyxmdGCy9ZtIqSlIovHaqSI-Oc8Q_F4BzvvEYyBJxjzenTG_Jnvb_6bhBHK_E0kOEbYIXl3EIcLnS-rDRMWAQVJ92Z6pFh-VpBG_4spmB229ZOo-iGGJY_89tOrfq7iF3z_bzM0lzV1V9I0NwaVhLxZKhjYcGu6v71_DrLvI_T7QZnTmO0IiWHihqKWq3MA_NKxWMb_fmDhWzo0R18xqffrA0Awm6HfUiuV_0ivAc6pefMOK-T4vTqffsg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/T1-tVinQYUw-OW_ltR2gBJdQROXFnd9Tbqi5aRxWpf_lGgmnqSR5fAKGp0A3csBdxG4bHK-cuDP0BWRwdjCbbSY5YD1GMG7FAXHjcPpkpJmwKYErKZtQ3HBvHNZTx9GAh8xMHNWoqf859KEqFvLIPp_nHxiqLRglb1dd3a0n9cUS5NBEamDT2DNDcCaysOYA_haX8P2PonDyYkECDLJuJezg9LjnetIwrtaVANn9vDW6a1z7hjsSXf1vaAK4j0R8eZAvQg6CQdPdrD0t8SfLYb3wcNNhAF75C-XL_AjVuI40bQieCtqbFZJ6Pf9D1YwGI3bH2jBwStOWt4o_KXuK1g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790740072560,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦/🇦🇪 | Following a week of heavy fighting in the Al Mazaq area, AnsarAllah has reportedly managed to advance south of Al Qashimiyah toward the slopes of Jabal Aghbar, while also capturing the villages of Al Ghawl and Jabal al-Ayli. To the east, AnsarAllah forces are reportedly advancing ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",

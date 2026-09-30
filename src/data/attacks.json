@@ -136673,6 +136673,70 @@
     "media": []
   },
   {
+    "id": 481842116,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "Saudi Arabia Drone Strike — Iraq: IraqiResistance Islamic Resistance Iraq Ashab AlKahfIn",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance in Iraq - Ashab Al-Kahf:In the name of Allah, the Most Gracious, the Most Merciful.The Islamic Resistance in Iraq (Ashab Al-Kahf formation) congratulates our steadfast people and our great religious authorities on the humiliated exit of the American occupier under the strikes of the resistance's drones and missiles.Our formation wishes to clarify several matters:First: The issue of surrendering weapons is an illusion dreamt of by the weak, the humilia",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481845761,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Gilan, Iraq: IraqiResistance Islamic Resistance Iraq Great MightIn",
+    "location": "Gilan, Iraq",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance in Iraq - Men of Great Might:In the name of Allah, the Most Gracious, the Most Merciful.O sons of our proud Iraqi people... O stalwarts of the nation and men of steadfastness, On this glorious and historic day, we raise our heads high and convey to you the news of the defeat and retreat of the last soldiers of the brutal occupation from the pure land of Iraq, dragging their tails of disappointment and humiliation, after they thought that the land of M",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
