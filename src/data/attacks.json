@@ -137414,6 +137414,70 @@
     ]
   },
   {
+    "id": 481933503,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-01",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Tehran, Mashhad, Strait of Hormuz: Regional developments September October 2026 developments",
+    "location": "Tehran, Mashhad, Strait of Hormuz, Persian Gulf, Lebanon, Syria, Yemen, Iraq, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | September 30 – October 1, 2026, +ve developments:🇮🇷 Iran • 🇷🇺 Russia• Iran’s ambassador to Russia, Kazem Jalali, said flights between Iran and Russia are operating regularly according to schedule. He stated that flights are currently operating between Tehran and Moscow, Tehran and St. Petersburg, and other cities, adding that there has been no reduction in the number of flights and that Iran hopes the number will increase. He also said Russian officials have repe",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481937169,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-01",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Damascus, Red Sea, Lebanon: Regional developments September October 2026 developments",
+    "location": "Damascus, Red Sea, Lebanon, Syria, Yemen, Israel",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 ~ Regional developments | September 30 – October 1, 2026, -ve developments:🇾🇪 Yemen• A Saudi airstrike targeted civilian farms in Al-Shajan village in Al-Durayhimi District, south of Al-Hudaydah on the Red Sea.• Four Saudi airstrikes targeted the communications network in Jabal Dhayn in Amran Governorate.🇱🇧 Lebanon• On September 29, israeli warplanes carried out raids on Baraashit, Kafr Tibnit, Al-Qantara, while israeli artillery shelling targeted Kafr Tibnit, Arnoun, Sarbine, Al-Mansouri",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

@@ -186872,6 +186872,21 @@
     "verified": false
   },
   {
+    "id": 1790805018894,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 In response to Bessent's recent insolence, Ghalibaf unveiled a new economic formula📌 Tehran, IRNA — Iranian Parliament Speaker Mohammad Bagher Ghalibaf In response to the recent rhetoric from US Treasury Secretary Scott Bessent—who had claimed Iran’s economy would collapse within the next two we...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
@@ -186883,6 +186898,36 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇶 | #IraqiResistance | Security official of the Islamic Resistance Movement Kata’ib Hezbollah, Hajj Abu Mujahid Al-Asaf (H):In the name of Allah, the Most Gracious, the Most Merciful&nbsp; On the thirtieth day of this month, our resistant Iraqi people will celebrate the expulsion of the American ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790805002608,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | September 30 – October 1, 2026, +ve developments:🇮🇷 Iran • 🇷🇺 Russia• Iran’s ambassador to Russia, Kazem Jalali, said flights between Iran and Russia are operating regularly according to schedule. He stated that flights are currently operating between Tehran and Mosc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790805078146,
+    "type": "drone",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-10-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 ~ Regional developments | September 30 – October 1, 2026, -ve developments:🇾🇪 Yemen• A Saudi airstrike targeted civilian farms in Al-Shajan village in Al-Durayhimi District, south of Al-Hudaydah on the Red Sea.• Four Saudi airstrikes targeted the communications network in Jabal Dhayn in Amran G...",
     "media": [],
     "verified": false
   },
