@@ -134569,6 +134569,75 @@
     "media": []
   },
   {
+    "id": 481944504,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Iraq: IraqiResistance Head Executive Council Harakat AlNujaba",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Head of the Executive Council of Harakat Al-Nujaba Sheikh Nazem Al-Saeedi:We declare our absolute rejection of Iraq's involvement in the tyrannical decision of the criminal Trump regarding the blockade on the Shia of Ali ibn Abi Talib (A). We also reject compliance with directives issued at airports to prevent visitors coming to visit the holy shrines. Responding to the Zionist-American enemy and submitting to its dictates completely contradicts Iraq's claim of sovereig",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/j2-s-dbiayrIgLX0u7eunvYRLqKg8qdDhaAPnG8MF0ieLR5xVyG0WHEagEzXvO_NmA4cK3hYSJaSO3LGGt4s-CufG-HR78xE-yX7r1IAkBrOj-C9u_-Xv4iOG5r6A46-mOX584f8gTnQ8uVcwz4QAGYtjiADQ6r88Pgjj_hwu3okOVn4EnQfDsVGkpSb_JB5H9ShGoAVZwfJ_xuWSwgpIMU4gqSEkra9awrpfH25Zk7SsmlBy_FbhesBqm0nuW6nklcMeIhTYRfrHvmJSRTtbMW2u00y9Fs8hgxgUzPN59bHVFYTBYExGcJHjtUsAwtMM2DtvSwAKrDsLaFq0HU8QQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 481948173,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-24",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Yemen, Port Said: Developments TaizAden lineAnsarAllah reportedly launched ove...",
+    "location": "Aden, Yemen, Port Said",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Developments on the Taiz-Aden line:AnsarAllah reportedly launched an overnight attack toward Al-Ashbut, with the stated objective of capturing the Hayjat al-Abd highway and disrupting a major supply route to the PLC in Taiz. The clashes were accompanied by artillery fire and Saudi airstrikes. One report said the PLC’s 4th Mountain Infantry Brigade, alongside Yemeni and Saudi-backed air forces, managed to repel the advance, while the highway was reportedly disrupted for several hour",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481475579,
     "type": "drone",
     "status": "confirmed",

@@ -183661,6 +183661,88 @@
     "verified": false
   },
   {
+    "id": 1790870060561,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | A 5.6-magnitude earthquake struck southern Turkey and northern Syria a short while ago.📣@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790870058960,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🇹🇯 | A Varash Airlines flight from Tehran to Dushanbe, the capital of Tajikistan, was forced to return to Imam Khomeini International Airport after its planned air route was canceled. The aircraft reportedly attempted to enter Tajikistan through an alternative route via Azerbaijani airspace, ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ebd3cb8e2e.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D1i32jqX9LUxJfRpSLQbm-qu0UEnqG6Qc-KXtvVOMEeoFf3fQA9FqLauZB2lLnamy5XllEM2KBbEGVU9dJOwNIyRrawxRP6NYl18AyllzbrRWkAV4gsWlXWe5-OFxK2A7Cn_PKpA_h4_WTTQhNUUdSbZGHg-wGrLMwPeoyWXW8hNOSo-PXSNmcm5B1mhZ_UtCTLymGeV3pFWsj3FFnEqkCvD1c2yp6BaT29lHcDRYZgoh-IvcMOXfVSCNzoeDcBK7oME7PU6Jh88FdOmTEXRkjwvoBQwhH-nbXnVUOowXm81tfAzuM_BoGJAAS-hDBnpex7PJQN4pnLeD8YX_djuvQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/62497",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D1i32jqX9LUxJfRpSLQbm-qu0UEnqG6Qc-KXtvVOMEeoFf3fQA9FqLauZB2lLnamy5XllEM2KBbEGVU9dJOwNIyRrawxRP6NYl18AyllzbrRWkAV4gsWlXWe5-OFxK2A7Cn_PKpA_h4_WTTQhNUUdSbZGHg-wGrLMwPeoyWXW8hNOSo-PXSNmcm5B1mhZ_UtCTLymGeV3pFWsj3FFnEqkCvD1c2yp6BaT29lHcDRYZgoh-IvcMOXfVSCNzoeDcBK7oME7PU6Jh88FdOmTEXRkjwvoBQwhH-nbXnVUOowXm81tfAzuM_BoGJAAS-hDBnpex7PJQN4pnLeD8YX_djuvQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790870043964,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷🇹🇯🇦🇿🇹🇲| A Varesh Airlines flight from Tehran to Dushanbe, capital of Tajikistan, had to return to IKA Airport in Tehran after neighbouring countries between Iran and Tajikistan had denied passage of this Iranian passenger plane.The Iranian plane then attempted to use an alternative route a...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/deaf17f8f8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GXjh_5EzaCBCnl9v8Xli3ypkmvAR6TDFXN-ARpcf1-D0kcwpXKZ7KbASbT8aRt4eBMU0g0zoV5YOGz2-P_cLL-SCN07ZZ35kW37Ra3G2LL3bRBI6fdFoOTPzQKeGdnDF8P6hpUE3dtPwmXLiBgCh9l_DVh8jnDktCD5_7tNvbJLLdmifG3dNQNipDs1JOtthNChypyWD4F8KAi0O9o1Xt5lyu3iUlZO5ymGCDL2T_Uw0qYlSWKRzK7gIGNEAhW7bPHPNbsR5pkGUUo1Gke4R5-1LqWqIvaL7-CCHYznT4hTq37fXYxtjszwcyBBQe1GqUskiJkeddkWy8zJkwe1b6Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62500",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GXjh_5EzaCBCnl9v8Xli3ypkmvAR6TDFXN-ARpcf1-D0kcwpXKZ7KbASbT8aRt4eBMU0g0zoV5YOGz2-P_cLL-SCN07ZZ35kW37Ra3G2LL3bRBI6fdFoOTPzQKeGdnDF8P6hpUE3dtPwmXLiBgCh9l_DVh8jnDktCD5_7tNvbJLLdmifG3dNQNipDs1JOtthNChypyWD4F8KAi0O9o1Xt5lyu3iUlZO5ymGCDL2T_Uw0qYlSWKRzK7gIGNEAhW7bPHPNbsR5pkGUUo1Gke4R5-1LqWqIvaL7-CCHYznT4hTq37fXYxtjszwcyBBQe1GqUskiJkeddkWy8zJkwe1b6Q"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790869987038,
+    "type": "missile",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-09-24",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Developments on the Taiz-Aden line:AnsarAllah reportedly launched an overnight attack toward Al-Ashbut, with the stated objective of capturing the Hayjat al-Abd highway and disrupting a major supply route to the PLC in Taiz. The clashes were accompanied by artillery fire and Saudi airs...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790316969964,
     "type": "drone",
     "location": "Hodeidah",
@@ -186988,6 +187070,36 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 IRGC dismantles terrorist team in southeast Iran📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has dismantled a terrorist team in Iran’s southeastern province of Sistan and Baluchestan.In a statement released on Thursday, the Public Relations Office of the Quds Base of the IRGC Grou...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790870029098,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Statement from Al-Nujaba Movement:In the Name of Allah, the Most Compassionate, the Most MercifulFollowing the expulsion of the criminal American occupation forces and the other forces allied with them, we have, by the grace of Allah Almighty, emerged from a dark era in our...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790870026963,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Hezbollah Statement on the Withdrawal of US Forces from IraqHezbollah congratulates Iraq, its religious authority, government, and people, on this great historic achievement and blessed victory represented by the departure of US forces from its territory, humiliated and subdued, after all their ambi...",
     "media": [],
     "verified": false
   },
