@@ -182833,6 +182833,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/h8hu5srFD1S4FT25-OYJlBPhpqwXSnvsdKEU2NfdDZNJXx1YwbfYIhqnZNlfFwhPwx2FgAZD6ne1F-A8GCTMEpXy344p8mz_td_Nex9aoJq1VBt-ZY6gn0_ZFprWWRqLg9jks0WuQYd7mqtCvHIQPNrXe0Xk9NseuJW2NSg3pkgrERsvIWfDfrGAA32GqlMXl_HAyqbG3Ld2H930TWDMVaMGaZloQSRkyUXvy6wUXGY0-onesMxCcGJ9sNAmh2xZpPe_JlnAQ8YbL74kISTsqGGIg6duyQ8GsTQ0vCyfeVW5-PgEbZyyubRyZCGMDVZzWy6z_7q40E-Vqcu0n6gNaw.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fS8bmDVs3fIv55YcR3MEpE8AaLN93jrBatj33YFMSp8hAf0VLQ0vX5aS8IpN4ea6Xv2DV6NUM11MyC4kLmNChpeGOpTGgUJk3UfeJJKpl5KrMC0Nc4mmFhSyR1jH-m2Nly1rL2-jmKu3JMFDe7a13Wcv5uvYcQV4yjQ5ag-Q_s3mc6Cd1B5d9Hwk-vvV2RrNvWBANSK8qakR4P9qHa9zxCEZb5kqAa-7eBs2uxMkBW3Ab657iBCXrjMN6Pdeo_hRmMZT9XOvERYzN_PC9TwjTMXSffPwX-vAQGshjo9OT--yeNAeAD3FfFkwbs03Yd8poKWFznMxJkjBf45qMLpTMQ.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -187503,6 +187507,54 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 | Regional developments | October 1, 2026 (-ve) developments 🇱🇧 Lebanon Israeli attacks on Lebanese territory continued on September 30. Israeli warplanes carried out airstrikes on Al-Mansouri, while an Israeli drone carried out a strike on Al-Jarmuq.…",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790887937074,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🇱🇧 | An Iranian delegation visited the home of martyr Hussein Hashem, a Hezbollah member, and presented his family with a blessed gift from Imam Sayyid Mujtaba Khamenei, Leader of the Islamic Revolution.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Rod4V7T6CkFow7OUOHfs2y2nr6wRd_TKjMiQqKS-SOdRUuenmr0CPwwHf64y0xROtCaPOCjcAMmV5iOYCfVWuBM-QvW3PE7nzNR0JNHIcG_ato0fcCGjGXnFdwgEKYH20hU6XjbPiXb_1H2g-wsiKKxBHV9U815KYyeeTW7ZioSMHz-hh1Pjzl3av7KJHPP0cfcwYfFg5T5_oPjkw1ivZjpIT1IZ-klqcEn98uVFNWHff16rFWcohmds0NeuDvtMJ6q-N-l8_6TpeHLzHETHupAKkA8mNausCiEg9DfTn-kT-btPGhBtILU47PIrRlnJXjZm-Qrmnj4ncdG9greB9w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Y2CKmBcjV_Q6kcIaKP2FOdcv2Q6GuliVW8_C2P8RzwOA0XTPdCcJlUh1_In5vaQFlnyXyQ8NFcowj6NkqyqqMZuiVcOjJdKLcyTmKIpAYkzGOfgvAGKVCnykgwLmP-GBUBdMiH7dYJRe1gp070VF-oVmbJDKTOEVO7JbLduzql2GbktCkxFoCfI4RSRmYh3zkAEf6WntRrmwSgGOhiyMCBFd60r4cQroXS8gBdNE4zxMfCw0enfEWSfeNferzNFd2oHLOQsYQO6PQkQhtAD1pay5JpZSHxBtncNxdpPyqTuhud9xnUUxVWWe21HnoWP8ivJ7gQDANFGG6wiDzfK6uw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fUJEILkBBOrpRXy3_5aEH21CSzauJmJRaUZtIwtv9-_gvZdp52jWRuzIpje6m4myHay-D43rPSa7Y0huoY6ETLAFcYj7iB1HgWUXzrh4ekZyK9m5IbeegD-cEtst3MYdIKVhKkP4CCcCFyyorYMKoz4M048Fv2MmBS6RyeEjmJLVVRWxFZjL_OvzBbNyBOh_CDxGhXpwl_HbjJvJ0kDmTMMrJz1zZB9MD7XkVicq2DNlIZj2M9u_Wq319lmtPCCDI__fMH0L6ViA5Ew35wNXfMD6jPRpTqoc1WJLLFUrVamQxSOsLis8dBnb2LVh2ysnSMA77V7COMlQXdRMZXSDKA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790887937485,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | The Popular Mobilization Forces raised pictures of the two martyrs, Yahya Sinwar and Ismail Haniyeh, on their vehicles during an official parade held today in the capital, Baghdad, celebrating the complete withdrawal of American forces from Iraq.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qumrNCcW8JNtj22b4ELwnWJ16aArgONzoR6uuo0wtCtjjKzwZabUpRJrn30suzH3a1ZSIykyWReKSuzR_J4fbAWUhlLwWwbg22hNQOZA8pl59hacZd3pQrA0bFpAtMSZjqwR9jL2nEFx5LAmo9Qn88oZLAqc524aKyeuAx4xOvuQxYkcwxM-R3bbO_EV7C_9EAbNy7KEZjc4s2LnL_nbKZWgWqM1X6Hm_dNJz0-FUEmgUO441Zpi6YgFLTdNwLbNYJlgAe7WWUhKaMY9AyqSAG6QQiGSCaCg-MOqMoh1hvtxKpRHQYrJRUrJcz-UMP9FKFRJ635mldtC03uhuKcfhA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
