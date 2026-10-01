@@ -134089,6 +134089,102 @@
     "media": []
   },
   {
+    "id": 481970208,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemen Saudi warplanes carried airstrikes missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen The Saudi warplanes carried out 52 airstrikes and missile strikes over the past 24 hours, using \"F-15\" and \"Typhoon\" aircraft that took off from the King Khalid Air Base in Khamis Mushait and the King Fahd Air Base in Taif, while the missile attacks were launched from Jizan. The strikes targeted the governorates of Al-Hudaydah, Taiz, Al-Bayda, Ma’rib, and Saada, leaving martyrs and wounded, including women and children, and causing destruction to civilian infrastructure, including telecom",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481973884,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Strait of Hormuz, Persian Gulf, Red Sea: Islamic_RepublicAssistant Adviser CommanderinChief Armed For...",
+    "location": "Strait of Hormuz, Persian Gulf, Red Sea, Bab al-Mandab, Yemen, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicAssistant and Adviser to the Commander-in-Chief of the Armed Forces Major General Safavi: – The Strait of Hormuz will never return to what it was before.– The Islamic Republic of Iran will assume management of the Strait of Hormuz and fully control it.– We and Oman reached a mechanism for managing the Strait of Hormuz, but the Americans obstructed it.– Linking the Strait of Hormuz with the Bab Al-Mandab will change the course of the war.– For more than 100 years, the Yemenis hav",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481977561,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-23",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — West Bank, Gaza Strip: legitimate defense undertaken resistance raise voice",
+    "location": "West Bank, Gaza Strip",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "to the legitimate defense undertaken by the resistance to raise its voice, protect the homeland and its people, and condemn the silence accompanying the aggression. This ignores the fact that the resistance fully adhered to a ceasefire for fifteen months, while the enemy expanded the scope of its criminal aggression through killing, destruction, bulldozing, and the blowing up of homes, neighborhoods, and institutions and hospitals throughout that period, during which the government, which was th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481411976,
     "type": "intercept",
     "status": "confirmed",
@@ -137547,6 +137643,38 @@
     ]
   },
   {
+    "id": 481962859,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: ship Strait Hormuz reportedly struck missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | A ship in the Strait of Hormuz was reportedly struck by a missile fired by the Iranian Revolutionary Guard Navy, resulting in a fire onboard.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481933503,
     "type": "intercept",
     "status": "confirmed",
@@ -137638,6 +137766,102 @@
       "other": 0
     },
     "description": "🟡 | Regional developments | October 1, 2026 (+ve) developments🇾🇪 YemenAnsar Allah forces captured Dhiab, Jabal Al-Mansoura, Jabal Al-Barha, Jabal Lasbah, and Jabal Hawab in Lahij Governorate in the direction of the Gulf of Aden. Ansar Allah forces also advanced on the northern front of Al-Mudharabah in Lahij Governorate. For around eight hours, clashes and attacks by Ansar Allah forces continued around the outskirts of Taiz from the northern, eastern, and western directions. Clashes later sub",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481955514,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-01",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Gaza City, Lebanon, Syria: Regional developments October 2026 developments LebanonIsrae...",
+    "location": "Gaza City, Lebanon, Syria, Yemen, Bahrain, Saudi Arabia, Israel, Port Said",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 1, 2026 (-ve) developments🇱🇧 LebanonIsraeli attacks on Lebanese territory continued on September 30. Israeli warplanes carried out airstrikes on Al-Mansouri, while an Israeli drone carried out a strike on Al-Jarmuq. Israeli artillery shelling targeted Wadi Al-Salouqi, Hadatha, Kafr Tibnit, Al-Khiam, Al-Majidiyah, Wadi Khansa–Kfar Shuba, Beit Yahoun, Harsh Ayta Al-Jabal, Zawtar Al-Sharqiyah, Baraashit, and Al-Mansouri. Israeli forces also carried out explosi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481959186,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-01",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Israel: Regional developments October 2026 developments Lebanon",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 1, 2026 (-ve) developments 🇱🇧 Lebanon Israeli attacks on Lebanese territory continued on September 30. Israeli warplanes carried out airstrikes on Al-Mansouri, while an Israeli drone carried out a strike on Al-Jarmuq.…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481966533,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Iran warns against abuse security council",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran warns against abuse of security council by US and its allies📌 New York, IRNA – Gholamhossein Darzi, Iran’s Ambassador and Chargé d’Affaires to the United Nations, emphasized that the Security Council must uphold the UN Charter and international law while refraining from any politicization or abuse of its procedures; anf also warned that the United States and its allies have repeatedly exploited the Council’s procedures and powers to advance short-sighted political agendas.On Thursday (l",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

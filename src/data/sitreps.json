@@ -183260,6 +183260,126 @@
     "verified": false
   },
   {
+    "id": 1790884452379,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio:In a highly exceptional move, with no similar step having been carried out since the beginning of the 2000s, Chief of Staff Zamir decided to activate the 98th Division under the Central Command.The meaning: The division command will assume responsibility for pa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884482796,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media \"Israeli\" enemy army radio: War Minister Katz, in a threat to the Syrian president: \"Every piece of land in Syria that we take control of this time will be ours forever.\"#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884427612,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Hebrew Channel 15: The wounded in the car-ramming attack is an \"Israeli\" police officer. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884423120,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-23",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Saudi warplanes carried out 52 airstrikes and missile strikes over the past 24 hours, using \"F-15\" and \"Typhoon\" aircraft that took off from the King Khalid Air Base in Khamis Mushait and the King Fahd Air Base in Taif, while the missile attacks were launched from Jizan. The strikes targe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884449589,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: The soldier wounded in today’s car-ramming attack is the son of the \"Israeli\" ambassador to the United States, and his condition is critical.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884475706,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Netanyahu’s speech at the United Nations will focus on the Iranian issue, as he will work to lay the groundwork for the next battle.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884406640,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" enemy army radio:The \"Israeli\" army has significantly reduced the size of its combat forces in the security zone in southern Lebanon in recent days: the number of brigades in the sector has decreased from 8 to 6, and many reserve forces have been released.Four brigades have lef...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884429470,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-23",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "The Loyalty to the Resistance Bloc held its regular meeting in the presence of all its members and issued the following statement:Time and age are filled with longing and nostalgia, and the awe inspired by the memory and remembrance of the founding leaders does not subside. The universe is perfumed ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790223126378,
     "type": "intercept",
     "location": "Tehran",
@@ -187240,6 +187360,47 @@
     "verified": false
   },
   {
+    "id": 1790884455772,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | A ship in the Strait of Hormuz was reportedly struck by a missile fired by the Iranian Revolutionary Guard Navy, resulting in a fire onboard.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884451370,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Moment of presenting the blessed gifts of Imam Sayyid Mujtaba Khamenei, Leader of the Islamic Revolution, to the family of a Hezbollah martyr in a village near the front lineThe Iranian delegation met with the family of the Hezbollah martyr in a village near the front line of the conflict wit...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3201b6bf83.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ux35cwxKtVyt0GrjveY26fhGMg13jyMhvT16sxLpZkDS7lBkrsfnmShM9rsyaw1_nm02o4Q9Qzm9KKuqSur5wt1VFKuTGF3GR8wp4u3uCq0fKdVBO3xD4B2Rmf-RGVU5x8GwegxWJgbO-pvAYPaA7Jv0VHMIiUWF93a3QK6awdwD-5AIfTdVJSddb9mEN-YEBUDSEH5T4XNw9E1emelY5nALvHH8xE8IQRsU42HAISTRorzesf5RUXb8XH2or734UwvA2Ohv3xnxqh5GC10KQdV4pSvvJ147HjnulQxGsK23jOnx0WuFJc26241Q_YZ1y3d8ERMnt7b1hWRo7N0Z9Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62799",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ux35cwxKtVyt0GrjveY26fhGMg13jyMhvT16sxLpZkDS7lBkrsfnmShM9rsyaw1_nm02o4Q9Qzm9KKuqSur5wt1VFKuTGF3GR8wp4u3uCq0fKdVBO3xD4B2Rmf-RGVU5x8GwegxWJgbO-pvAYPaA7Jv0VHMIiUWF93a3QK6awdwD-5AIfTdVJSddb9mEN-YEBUDSEH5T4XNw9E1emelY5nALvHH8xE8IQRsU42HAISTRorzesf5RUXb8XH2or734UwvA2Ohv3xnxqh5GC10KQdV4pSvvJ147HjnulQxGsK23jOnx0WuFJc26241Q_YZ1y3d8ERMnt7b1hWRo7N0Z9Q"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
@@ -187311,6 +187472,36 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 | Regional developments | October 1, 2026 (+ve) developments 🇾🇪 Yemen Ansar Allah forces captured Dhiab, Jabal Al-Mansoura, Jabal Al-Barha, Jabal Lasbah, and Jabal Hawab in Lahij Governorate in the direction of the Gulf of Aden. Ansar Allah forces also…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884406316,
+    "type": "drone",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-10-01",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | October 1, 2026 (-ve) developments🇱🇧 LebanonIsraeli attacks on Lebanese territory continued on September 30. Israeli warplanes carried out airstrikes on Al-Mansouri, while an Israeli drone carried out a strike on Al-Jarmuq. Israeli artillery shelling targeted Wadi Al-S...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790884409912,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | October 1, 2026 (-ve) developments 🇱🇧 Lebanon Israeli attacks on Lebanese territory continued on September 30. Israeli warplanes carried out airstrikes on Al-Mansouri, while an Israeli drone carried out a strike on Al-Jarmuq.…",
     "media": [],
     "verified": false
   },
