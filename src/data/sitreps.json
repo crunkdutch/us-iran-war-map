@@ -186917,6 +186917,51 @@
     "verified": false
   },
   {
+    "id": 1790841150480,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Intense battles are taking place simultaneously on multiple fronts, with Yemeni forces launching attacks on several axes. Key areas include Al-Aqroub, Al-Shaqb, and Sam’ in the south, as well as west and east of Taiz city, plus the Hifaan front. Fighting is also ongoing on the Ahqum, A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790841106051,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Leader sends message to 33rd National Prayer Conference📌 Tehran, IRNA – Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has issued a message to the 33rd National Prayer Conference, stressing the importance of establishing and promoting prayer as a prerequisite for bui...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790841099274,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” enemy Prime Minister Benjamin Netanyahu: It is too early to say whether Iran was involved in the attempted bombing of the aircraft that occurred yesterday. We will investigate and look into the matter in depth.He added: “The co-pilot is expected to be handed over to the United ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
