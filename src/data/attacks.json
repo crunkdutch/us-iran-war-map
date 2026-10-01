@@ -137867,6 +137867,43 @@
     "media": []
   },
   {
+    "id": 481981239,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-01",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: BREAKING suicide bomber attempted detonate himself",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | BREAKING: A suicide bomber attempted to detonate himself inside the Holy Kaaba in Mecca, Saudi Arabia. The vest did not detonate, according to local reports.(It is clear that the Saudis are desperate and could cross any limit, including harming the holy sanctuaries themselves, in order to blame it on Yemen.)▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Yt1UiI8bjnOrirq_cUGvgSkaQ1CAO034ZUxX3EvZCN-wtfvOC_D_LKeGLIM9heAWrxC4oOtrbUXa3zX4fOJh_LfWnLsVsTholbtHEHZZGbPX7GPygL_HywPRIfap2Pq4qVlphKcCFxMWC8A3wRmNwyUFGhuEN6mh7P9HwKgyOBJ7b0-Am-DiVd7Sv8UJyhzS0Hkcc9kZOcpm_kl7pxiO9Vjoovh0Dvgwb0Zp2kixUYGHPPkzC27ODvK2fnF2Lch6V02EQ8xrvfRYvySvVecaERJipLXw_BfjEaBZYF0Az7378QPE9e7v7g1bNkHKkwAKtTcvbqZni4OZqiGykfPSEg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
