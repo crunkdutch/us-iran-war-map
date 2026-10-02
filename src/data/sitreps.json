@@ -187489,6 +187489,21 @@
     "verified": false
   },
   {
+    "id": 1790953031424,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Ambrey Maritime Security Company: An oil tanker flying the Panamanian flag was struck by a projectile, with columns of smoke rising from it as it passed through the Strait of Hormuz.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
@@ -187782,6 +187797,36 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "💬 US expelled from Iraq, suffered humiliating defeat against Iran: IRGC Quds commander📌 Tehran, IRNA – Commander of the Quds Force of the Islamic Revolution Guards Corps (IRGC), Brigadier General Esmaeil Qa’ani, says the United States has been expelled from Iraq and has suffered a humiliating defe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790953089667,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ IRGC warns of ‘painful, devastating response’ to any aggression, threat📌 Tehran, IRNA – The Islamic Revolution Guard Corps (IRGC) has warned, “The era of cost-free threats is over; any aggression will be met with a painful and devastating response.”In a statement issued on Friday, marking the se...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790953074042,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran: Silence on US, Israeli crimes complicity in violence📌 Tehran, IRNA — Iran’s deputy foreign minister in legal affairs has described military aggression, killing of civilians, and destruction of infrastructure by the US and the Zionist regime as clear examples of state violence.Marking the I...",
     "media": [],
     "verified": false
   },
