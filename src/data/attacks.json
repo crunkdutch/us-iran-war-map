@@ -138105,6 +138105,38 @@
     "media": []
   },
   {
+    "id": 482007013,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Tehran, Sanaa, Hodeidah: Regional developments October 2026 Military confrontations",
+    "location": "Tehran, Sanaa, Hodeidah, Aden, Riyadh, Strait of Hormuz, Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 2, 2026— Military confrontations between Sanaa forces and factions loyal to Riyadh intensified on the outskirts of Al-Turbah, the capital of Al-Hujariya District, after Saudi-backed forces advanced toward Bab Al-Najd and took control of Jabal Al-Maswari and the areas of Daba Al-Dakhel, reaching the villages of Sha’ab Al-Darahim. According to informed military sources, Ansar Allah secured Bab Al-Najd, which is considered key to controlling Al-Turbah because it",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

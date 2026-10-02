@@ -187721,6 +187721,71 @@
     "verified": false
   },
   {
+    "id": 1790938601492,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-10-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Commander of the IRGC Quds Force Sardar Esmail Qaani on the second anniversary of the martyrdom of the leaders of the Lebanese Resistance Front:The martyred Leader of the Revolution emphasized, during the Nasr Friday Prayers, one week after the martyrdom of Sayyid Hassan Nasrallah, that the u...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790938626385,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Ansarullah have advanced along the west of Jabal Habashi, northwest Tai'zz direction, southern Yemen.🔻@enemywatch+",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HyXZ3Svfr08dl9i8nY34Wu2IWsy_NdErmcsvWLg3ijEPf2JrZO26pssm4a218lSK6RUZbJ4jtoNFiinWuiaK-8q7fvXytUReHY9wrKUx852v_wr2e275goBEf4GU4eQKoGAZ2INxBcsBlnDaRrH3qC11PXqfRxuYs16RRCYHWNYEK1D9eNTQSFjOlfnuBjaW55mHzH3A4JilmZh2qlJ08S350TZOT7D2I-rFIZCtV6IoN8L5ti6fvHAvMnRfKTw5vQRrXigAWPEhrCL5yTZVx6AJqGyNm4vX6jzB49-v2WkVS1Q_mlrlWEr-5r0vKEZs_RsFy4gyofXxN4KhOIPMWw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790938651233,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-01",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Qatar, Egypt, Iraqi Kurdistan Region offer condolences to Iranian FM📌 Tehran, IRNA – Qatar’s prime minister and foreign minister, Egypt’s foreign minister, and Kurdistan Region president have offered condolences to Iranian Foreign Minister Abbas Araghchi over the demise of his sister.During a te...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790938575778,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 US expelled from Iraq, suffered humiliating defeat against Iran: IRGC Quds commander📌 Tehran, IRNA – Commander of the Quds Force of the Islamic Revolution Guards Corps (IRGC), Brigadier General Esmaeil Qa’ani, says the United States has been expelled from Iraq and has suffered a humiliating defe...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790916918521,
     "type": "intercept",
     "location": "Aden",
@@ -187747,6 +187812,21 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 ❌ 🇸🇦 | Yemen-Saudi Arabia war front developments | October 2, 2026 (-ve)— Saudi Arabia carried out airstrikes against Yemen. Saudi aircraft reportedly struck Sana’a four times, while three Saudi airstrikes targeted southern Taiz. Explosions were reported in Sana’a following the strikes. Repor...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790938645589,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-02",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | October 2, 2026— Military confrontations between Sanaa forces and factions loyal to Riyadh intensified on the outskirts of Al-Turbah, the capital of Al-Hujariya District, after Saudi-backed forces advanced toward Bab Al-Najd and took control of Jabal Al-Maswari and the a...",
     "media": [],
     "verified": false
   },
