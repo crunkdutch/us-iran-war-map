@@ -184329,6 +184329,60 @@
     "verified": false
   },
   {
+    "id": 1790931347633,
+    "type": "drone",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-09-25",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:The criminal Saudi enemy continues its criminal aggression against our people through its unjust siege and the launching of aggressive airstrikes, which, since the start of the escalation until this evening, have reached 1,018 airstrikes and missiles using F-15 and Ty...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790931405107,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | A series of unusual fires and thermal hotspots were reportedly detected today in various parts of Riyadh, with the thermal indicators appearing at approximately 06:18 Coordinated Universal Time (UTC). The most intense cluster was detected near coordinates 24.63449, 46.78623, a location tha...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jyrwFniE1wLChq1c7YJ6qYc4OeqBdFULY791FTHIACgKbm5zaSXpW86OB1TCgZCJDdo5B8HDG_HkwijwDPytIXORcPfJ-_9fqQ8FocQjVV-teC4vp3RTEOgUNve80tRcFeS67geJipHEpGhzx-Wff7Jp9S7rdt8WjdL1wNoJQMr3W_7ZUN1mYPhGgM-rNLDBOSkIgHvqqqZKCxmo436_WkNMLSKCbbKiDjDkGHE3QVXib4rMgyAvBo99ov-xfj0phzhqKSjbRUna_lM0bJO-Hv9u4JRvK9h7rCelWTdqpvVO6kYxwmQVm4cPP_Jt8HlHHGDBtl69EkUcYmt_p-tGbg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tj1QZLoaOJ6U2RvRnld2i6oCLN7KpPM9bGYyjEkbtfXe703P-RMQahyTVltOOEnTVUa4KCdYqabzz-k284J3ruJ7CJEVqNl5aqnLV33qXvyIJGqTO12bSWFao5QMS_3_q0-Okc_MXQxKmTP2SkaDVEweC_-Zhv8I8zqb2AIrSHqHPUNk7rGDQ0w6G_HGp8E9GfuNYHdmAW_xfyVfXHcb5w4VvkFjSRn6PZMnoaSFOpfUS3bqoJ3QBDsnCqIpXnJs1_YarCt1pu7Y51vXpmqpnsMk0_XDnm8ysYhQHruvO55AN6GofoeCA4a38y0jKaNnb2NxvMUwwPM37yxGgN9i_g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790931365497,
+    "type": "airstrike",
+    "location": "Prince Sultan Air Base",
+    "coordinates": [
+      24.0767,
+      47.58
+    ],
+    "date": "2026-09-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ | Latest observed deployment of the tanker fleet in the region: heavy concentration along the Israel and Saudi Arabia axes:A review of Sentinel-2 satellite imagery from September 21 and 22 covering six major bases and airports in the region shows a dense deployment of identified aircraft on op...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790396339330,
     "type": "rocket",
     "location": "Fars",

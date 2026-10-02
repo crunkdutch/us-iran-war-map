@@ -135229,6 +135229,47 @@
     "media": []
   },
   {
+    "id": 481999644,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Riyadh: series unusual fires thermal hotspots were",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇸🇦 | A series of unusual fires and thermal hotspots were reportedly detected today in various parts of Riyadh, with the thermal indicators appearing at approximately 06:18 Coordinated Universal Time (UTC). The most intense cluster was detected near coordinates 24.63449, 46.78623, a location that includes a mental health center.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jyrwFniE1wLChq1c7YJ6qYc4OeqBdFULY791FTHIACgKbm5zaSXpW86OB1TCgZCJDdo5B8HDG_HkwijwDPytIXORcPfJ-_9fqQ8FocQjVV-teC4vp3RTEOgUNve80tRcFeS67geJipHEpGhzx-Wff7Jp9S7rdt8WjdL1wNoJQMr3W_7ZUN1mYPhGgM-rNLDBOSkIgHvqqqZKCxmo436_WkNMLSKCbbKiDjDkGHE3QVXib4rMgyAvBo99ov-xfj0phzhqKSjbRUna_lM0bJO-Hv9u4JRvK9h7rCelWTdqpvVO6kYxwmQVm4cPP_Jt8HlHHGDBtl69EkUcYmt_p-tGbg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tj1QZLoaOJ6U2RvRnld2i6oCLN7KpPM9bGYyjEkbtfXe703P-RMQahyTVltOOEnTVUa4KCdYqabzz-k284J3ruJ7CJEVqNl5aqnLV33qXvyIJGqTO12bSWFao5QMS_3_q0-Okc_MXQxKmTP2SkaDVEweC_-Zhv8I8zqb2AIrSHqHPUNk7rGDQ0w6G_HGp8E9GfuNYHdmAW_xfyVfXHcb5w4VvkFjSRn6PZMnoaSFOpfUS3bqoJ3QBDsnCqIpXnJs1_YarCt1pu7Y51vXpmqpnsMk0_XDnm8ysYhQHruvO55AN6GofoeCA4a38y0jKaNnb2NxvMUwwPM37yxGgN9i_g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 481557321,
     "type": "drone",
     "status": "confirmed",
@@ -137966,6 +138007,38 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 482003328,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-01",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Tehran, Yemen: Saudi warplanes strike areas northern Yemen",
+    "location": "Tehran, Yemen",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Saudi warplanes strike areas in northern Yemen: Report📌 Tehran, IRNA – Saudi warplanes have carried out airstrikes on areas in northern Yemen, according to Yemeni media outlets.Saudi warplanes carried out two airstrikes on the Saqayn district in Yemen’s northern province of Saada, Yemen’s Saba news agency reported on Friday.​So far, there are no reports of possible casualties or damages resulting from the attack.📲 @Irna_en​",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 481984918,
