@@ -184383,6 +184383,21 @@
     "verified": false
   },
   {
+    "id": 1790967486897,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Explosion in the Strait of Hormuz just now.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790396339330,
     "type": "rocket",
     "location": "Fars",
@@ -187887,6 +187902,66 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 | Breaking — The Yemeni army took control of the strategic Rasen mountain range in Taiz Governorate.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790967457616,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-02",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:During the past 24 hours, Saudi warplanes launched 94 airstrikes and missiles targeting civilian objects in the governorates of Sana'a, Sa'ada, Taiz, Hajjah, Amran, and Ibb, leaving martyrs and wounded among civilians, through \"F-15\" and \"Typhoon\" aircraft that took off fr...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790967483272,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Breaking — Yemeni forces have taken control of Bani Muhammad and Al-Kuwayrah; clashes have now reached Az-Za’azi’ and Bani Sheihb.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790967490809,
+    "type": "drone",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-10-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | October 2, 2026 (+ve)🇾🇪 YemenYemeni forces continued advancing in Sam‘ District southeast of Taiz. Reports said Yemeni forces made progress in the Al-Shari‘ area and advanced through the areas of Qu’an, Al-Barah, and Al-Jubbah, reaching Al-Ja’shah in Sam‘ District. The...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790967515292,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-02",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | October 2, 2026 (-ve)🇾🇪 YemenSaudi forces continued missile and artillery attacks across Yemen. Saudi aggression targeted civilians in Ghamr District in Saada, while Saudi artillery shelled various areas of the border district of Monabbih. Saudi aircraft also targeted ...",
     "media": [],
     "verified": false
   },
