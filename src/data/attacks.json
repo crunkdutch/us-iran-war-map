@@ -137904,6 +137904,70 @@
     ]
   },
   {
+    "id": 481984918,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Aden, Riyadh, Yemen: YemenSaudi Arabia front developments October 2026",
+    "location": "Aden, Riyadh, Yemen, Qatar, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen-Saudi Arabia war front developments | October 2, 2026 (+ve)— Breaking : AnsarAllah targeted the headquarters of Saudi forces in Aden, southern Yemen, with ballistic missiles and drones. According to the latest reports, dozens of Saudi soldiers and officers inside the compound were killed or injured, armored vehicles were burned, and warehouses were destroyed. The situation remains ongoing, and further details are emerging.— Yemeni forces launched a new missile and drone attac",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 481988598,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen, Saudi Arabia: YemenSaudi Arabia front developments October 2026",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemen-Saudi Arabia war front developments | October 2, 2026 (-ve)— Saudi Arabia carried out airstrikes against Yemen. Saudi aircraft reportedly struck Sana’a four times, while three Saudi airstrikes targeted southern Taiz. Explosions were reported in Sana’a following the strikes. Reports also said Saudi aviation carried out attacks in Taiz as Ansar Allah forces continued their advance on several fronts.— The spokesman for the Yemeni Armed Forces, Brigadier General Yahya Saree, said",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
