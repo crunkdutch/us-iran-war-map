@@ -187405,6 +187405,36 @@
     "verified": false
   },
   {
+    "id": 1790924182959,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-09-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_Republic Commander of the Quds Force, Brigadier General Esmail Qaani: – The criminal United States entered this confrontation on the assumption that it would be able to force the Islamic Republic of Iran to surrender within a few days, but look at the humiliating situation in which it found...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1790924214137,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-30",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_Republic Commander of the Quds Force, Brigadier General Esmail Qaani, on the second anniversary of the martyrdom of the leaders of the Resistance Front in Lebanon: – This year’s commemoration is being held under circumstances in which the United States was expelled from Iraq despite possess...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
@@ -187585,6 +187615,53 @@
       {
         "url": "https://cdn4.telesco.pe/file/GbuIzgb3TY4Qx9UsTOtqNnQ_yIe3xdkpzLpUpnAzSLcO07cItwHBoUqmwUCM6itsAVRzF_x8bQqzmWImegBHqx8t9xD3wEWETZLmPEzzE8H1p6b0K8OlCH2QHpi5Y1BTf346IgGYoWK5dU5DuKlNlJBnFXMCLDAil6kEo-Hqbx5zozzyK29nzmQZQyYNkYNY5kHag4SaG40yRhd9UzHkrWQwTli3KJSxA_u8R7dOI2qrVX5bFxrBi_IMC3p9fVs12SePM6y28le6mfzeO9iJS9vK_RugAF2bCpkF7_kaVcf4iZygPeWZNH5Glagj2EX1sYeP7ILmBwPN6w2vg08FCg.jpg",
         "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790924180832,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🇱🇧 | Presentation of the blessed keffiyeh of the Leader of the Islamic Revolution, Imam Sayyid Mujtaba Khamenei, to the Mujahid Hezbollah fighters on the front line of the battle against the Zionist regime’s army, near the Litani River.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6ed9d34d24.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dn5LrRG-7X6TQDbBVhJzK1ic8cFmj_3S_AZ7mMOjsQ1zJmSxje11f2zxLJDqAKWsO2XsXxnKV_1V65L1aAYlwJ3tZARewhjPB6upTv20SDvD3Z2rnPQHdyIU7CNLIWEjTyfGt67etwkqh5GbCJZLyz-jObLDj4iqGmNxLgtzHJ9ChMB5HW6IGT1gxbKRd0in8lrUQqLxXHrW9-4zkM_7Jwh2AkevzIEBHvFLxwV6K3yAUCIGJVLlGQWoo1i39pRO9CVK1hi7d-gzlJntAj_RX4th6SqHkIioHQhPYw9YDqIRl7R4cPlWAWr3W-jCdECPJP6PUdjyQRS744X12MWUMw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62815",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dn5LrRG-7X6TQDbBVhJzK1ic8cFmj_3S_AZ7mMOjsQ1zJmSxje11f2zxLJDqAKWsO2XsXxnKV_1V65L1aAYlwJ3tZARewhjPB6upTv20SDvD3Z2rnPQHdyIU7CNLIWEjTyfGt67etwkqh5GbCJZLyz-jObLDj4iqGmNxLgtzHJ9ChMB5HW6IGT1gxbKRd0in8lrUQqLxXHrW9-4zkM_7Jwh2AkevzIEBHvFLxwV6K3yAUCIGJVLlGQWoo1i39pRO9CVK1hi7d-gzlJntAj_RX4th6SqHkIioHQhPYw9YDqIRl7R4cPlWAWr3W-jCdECPJP6PUdjyQRS744X12MWUMw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1790924145490,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Precision sniping operations were carried out by the sniper unit on the Jizan frontlines, targeting Saudi enemy concentrations of Yemeni and Sudanese forces, on October 1, 2026.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62820",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hvXw9wMGoxyP3qMJ_LmwEx39Ie1PyLQnz0qg9U67eINWgf2fCZPuu443B8PM1ZtkDPqS3Yakup_GLVItv4yDTjSdenLveOK4eNRZ9uRbZA1sKvKalD4sr3vEQ9GHE8bsz72SukEypVbnbTbSM5bTeQepkPrTCkMUMhr0wk9-c4Q6j9dgFXj6oCbc0U7N8bvyowDAy3Sf70Lr0dD1lVezB_EJF0ZuHlpKihhhHhPCFpvsu0tjr3Id6r1GseAIfBV0as7KubexvR4HoyibKCs1AH6312qtqYmP4gC6qaF20gPLARd6OUzX4E50TeZu0Zfs4WSusfsCVtWRUAUQXipPYw"
       }
     ],
     "verified": false
