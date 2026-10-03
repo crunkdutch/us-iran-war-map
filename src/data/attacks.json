@@ -138605,6 +138605,38 @@
     "media": []
   },
   {
+    "id": 482062408,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Kerman: Iranian Intelligence Ministry Four street sabotage",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian Intelligence Ministry: Four street sabotage networks dismantled; 31 key and affiliated operatives linked to the enemy arrestedMinistry of Intelligence of the Islamic Republic of Iran:• Members of four organized networks, comprising 31 operatives described as mercenaries of the American-Zionist enemy, were identified and arrested in Sirjan County following reports from the public and intelligence surveillance by the “Unknown Soldiers of Imam al-Mahdi” at the Intelligence Department",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
