@@ -135745,6 +135745,43 @@
     "media": []
   },
   {
+    "id": 482066109,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Iraq, Turkey: IraqiResistance Iraqi Resistance leader Qais alKhazaliIn",
+    "location": "Iraq, Turkey",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Iraqi Resistance leader Qais al-Khazali:In the name of Allah, the Most Gracious, the Most MercifulIt pains us, and indeed we flatly reject, to see the Islamic Republic subjected to a blockade by land, sea, and air with its people suffering severely while Iraq stands by as a mere spectator, or worse, participates in this unjust, oppressive siege.I do not say that we should look to countries of the size of China and Russia, which prioritize their own interests and soverei",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/kcWO1djf7oxWIJbSTDrNH3h-ttE-OIuAafMPWuBpdw5FmvpjujFyYw_n8pWVlckBYK9jmq_AI8vs2RaQYGG6-kaVTFi9IP_OQdXOIL6MGGoiTfiXLBgnC3SkvU2dHiW5d4PbPmcPRnoM9rphElTGPV_-ycKnjQjmuOgA26A_hU_OU01exi6rhuTacaDwcpZDVB1VHIe_WvT9y1pTI77fm9KaR9fG50LDrnWMEFAf3ydm1JQmGqsS9iNwYpMdPUk8MD57BmT1oh-o5-9adIqDAQe1KNPr53F_iaqEUXXmOU4pxOaCFeSXi7QQHW2HBz4UtEmd9ItLFtbbnrKBd2JvuA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 481632417,
     "type": "naval",
     "status": "confirmed",
@@ -138632,6 +138669,102 @@
       "other": 0
     },
     "description": "🇮🇷 | Iranian Intelligence Ministry: Four street sabotage networks dismantled; 31 key and affiliated operatives linked to the enemy arrestedMinistry of Intelligence of the Islamic Republic of Iran:• Members of four organized networks, comprising 31 operatives described as mercenaries of the American-Zionist enemy, were identified and arrested in Sirjan County following reports from the public and intelligence surveillance by the “Unknown Soldiers of Imam al-Mahdi” at the Intelligence Department",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482077218,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Jordan: Croatia England Team news predicted lineups",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Croatia vs England: Team news, predicted lineups & key stats📌 Croatia vs England preview: team news, injuries, predicted lineups, stats and Harry Kane’s record chase in the UEFA Nations League.Old rivals collide once again this Saturday as Croatia host England in Rijeka for their 2026–27 UEFA Nations League fixture. Both nations are locked on three points in League A Group 3 after picking up wins against Czechia, trailing group leaders Spain, who defeated them both.​The clash presents Harry ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482069811,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Strait of Hormuz, Yemen: Regional developments October 2026 Yemen Saudi",
+    "location": "Riyadh, Strait of Hormuz, Yemen, Saudi Arabia, Iraq, Port Said",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 3, 2026 (+ve)🇾🇪 Yemen • 🇸🇦 Saudi ArabiaYemeni forces continued operations against Saudi positions. Missiles were launched from Sana’a toward Saudi positions, while reports indicated that aircraft were avoiding landing at King Khalid Airport in Riyadh and that civilian air operations at King Fahd Airport in Dammam had stopped. Taif Airport was also reported to have joined the list of closed Saudi airports, with civilian aircraft avoiding the airport’s airs",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482073514,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Gaza City, Lebanon, Yemen: Regional developments October 2026 YemenSaudi artillery",
+    "location": "Gaza City, Lebanon, Yemen, Israel, West Bank, Gaza Strip",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 3, 2026 (-ve)🇾🇪 YemenSaudi artillery shelling targeted populated villages in the border district of Razih in Saada Governorate. Saudi artillery also shelled the border district of Ghamr.Saudi aviation carried out two airstrikes on Sana’a, while renewed attacks were reported against the Yemeni capital. More than 10 Saudi airstrikes were reported against different areas of Sana’a within two hours.🇱🇧 LebanonIsraeli attacks on southern Lebanon continued from ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
