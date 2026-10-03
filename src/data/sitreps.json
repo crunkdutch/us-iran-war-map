@@ -188656,6 +188656,41 @@
     "verified": false
   },
   {
+    "id": 1791052505388,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🔴 | Grand Ayatollah Hossein Nouri Hamedani (may his authority endure and may he be blessed with a long life) was admitted on Monday morning to a hospital in Tehran for follow-up treatment and remains hospitalized. At the age of 101, he continues to be one of the prominent Grand Marjas of Shia ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/vu14YZ1ZSxKGdHVRsKFKtBe0OARV_cciFUhw1ot8gl6IzrQaRmB8ckRKcwRCBb8-bwXwc1358C7QoobtvDmwpsVAIqdbBBJBa4bVcfiBd4vvPzfdIMi3GdZAvy320Ti019L7kLTJvfsAGZfD1mrLX4SIwBWSzS4trcQLk40DD9VYaFPrF8ehU0G7TX0kmiPT7C0aeGZOBZPo7y9jK0h0kzuxePAAgXKUNhoxA16pwtZsenEpha0ayBrOI-F022qIVDD02CQ1JYE_ECwOn04S1Ci07NE0O_lh_TiiovUF6nh1_9XBeZwp1BsHNh0wteYNVxkHph8L2wTT5MedfZFm_Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791052532473,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:During the past 24 hours, Saudi warplanes launched 60 airstrikes and missiles targeting civilian objects in the governorates of Sana'a, Sa'ada, Taiz, Hajjah, and Marib, using F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif bases, along with missile agg...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
