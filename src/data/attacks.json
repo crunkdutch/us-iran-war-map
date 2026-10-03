@@ -138462,6 +138462,149 @@
     "media": []
   },
   {
+    "id": 482047614,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz: latest Washington Institute reportedly shows tankers",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | A latest map by the Washington Institute reportedly shows oil tankers targeted by Iran over the past month, recording at least 20 incidents involving oil tankers along the Strait of Hormuz. This comes as Trump continues to repeatedly claim that he has “destroyed Iran’s navy.”&rlm;🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dM5dRa-C3y2OKy3oCAuOuVEJukvqtu-6_b_o01hfWOHpjJsqpX6WA-gP10TXsu8nlkXc_qCOqdiJPrQssT7_pa-qvjogasP7C5wtMDSL5GQKZxFwm_xZOZAiJDyEXHOP-T_M45BHJ9WMaZtXGdoaSy86_kYKpXWsphWjhIBRvjo_NH1H4uKlXRwALvejvZyLj3dD8lkTNQHkPPNxsqK5n8q0zsDyh7T4Ili34BErGCtPp4A-dLRaZInBTw6z4nnzxk5J5SJTpXtV1mSDFF8P48qL81gEGTzqJtsMbGFnTxIjawGRygNX2UgdHonV8FO5Hc-9hgONfsB3WbE7hkefMg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482051311,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Yemen: Satellite imagery detected thick smoke rising",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Satellite imagery detected thick smoke rising from the Aramco refinery in Riyadh. A Saudi local source claimed that the smoke resulted from a Yemeni attack, stating: “About an hour ago, we heard a huge explosion in Riyadh.”🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f5i53cmXE8U84W0kGRgdFilPnYsBKzcWqFD47oQLf_xPpydmRpP2Mz4LSrGFQ4MWxTgbMvKZnPvsd1PURzGp9m0yrAXnMh0TbMyQ9SggD2jyueVGMw5_YP024WdyaFv_aSeuOdaS2BXx12hkUj5M-44FnojpsWAWIGwHayfnn5bE-nECHm6OOkQ37IfeGog29ezWOIHq1tkYPJ-VbDIDbmmY-C3DW3TsEZjwy0RAQplNCZEPmdCbfbl5vPuXsW7vJ8M2g7LB5RKq2SCTBW54AgfokUHjPdlL5h0ECsMIsEbOWznigibz5nW2mHLLFppB3j7jFfOrP75tl4EdJjHbGg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482055009,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Satellite images show that superstructure giant",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Satellite images show that the superstructure of the giant oil tanker struck by the IRGC in the Strait of Hormuz yesterday sustained severe damage.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Ieq62cnQQzHy6AoIrVbrXfsTx6C1p2JbrS3Huz8Kfd8_i1VQgK2J-n0ypTwkN007DGHr2KZiQ1c8580wpSXjUrfJuaKwZu2_ePUX2pb1i6_NMRozXelFk4w3PoXaHQzYUGOg3oAPt_v9LxTwhGcUixFZy2s-808Wj4JMcQJovMyJuNQfwFjYFrUB4rfEoHOu-7nLcVAZS1SK77WVfRgz3xPkZ8ZXRkwBr1CXhftuap9oYZJD2bgqDCavmvVm26Pvc03LtBOcg2xnfcRivhWEsPRX9QNNtfTmlPYTEV6hHyDE7CRF5uY_ZR_efmwOmH3x4mFJ_wu-_YHlAQNIBBoLjA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482058708,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Minab, Israel: Iran ready longterm partnership with Eurasian",
+    "location": "Minab, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran ready for long-term partnership with Eurasian Economic Union: VP Aref📌 Moscow, IRNA – Iran is ready to play an active, constructive and responsible role alongside member states of the Eurasian Economic Union (EAEU), First Vice President Mohammad Reza Aref said in a message to the EAEU Intergovernmental Council’s meeting.Aref said Iran was prepared to become an active, reliable and long-term partner in expanding economic and regional cooperation with the bloc. His message was delivered F",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
