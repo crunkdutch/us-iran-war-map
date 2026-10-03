@@ -241,6 +241,21 @@
     "verified": false
   },
   {
+    "id": 1791067023875,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2003-03-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iranian Foreign Ministry issues statement on withdrawal of US occupying forces from Iraq📌 Tehran, IRNA – In a statement regarding the withdrawal of the US occupying forces from Iraq, the Ministry of Foreign Affairs of the Islamic Republic of Iran emphasized the necessity of holding the US govern...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785184791152,
     "type": "airstrike",
     "location": "Qatar",
