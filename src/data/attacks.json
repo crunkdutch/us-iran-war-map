@@ -138398,6 +138398,70 @@
     "media": []
   },
   {
+    "id": 482040223,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Strait of Hormuz, Yemen, Oman: Regional developments October 2026 Yemen Yemeni",
+    "location": "Strait of Hormuz, Yemen, Oman, Port Said",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 2–3, 2026🇾🇪 Yemen — Yemeni forces launched ballistic missiles toward Khamis Mushait, with three missiles reported in the attack. Saudi sources reported the interception and destruction of three ballistic missiles launched toward Khamis Mushait. Explosions were also reported in Aseer, Najran, and Jizan, amid an ongoing Ansar Allah missile and drone attack. A ballistic missile attack was also reported in Aseer.— Yemeni forces continued their offensive in Taiz",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482043918,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Lebanon, Yemen, Saudi Arabia: Regional developments October 2026 Saudi Arabia",
+    "location": "Lebanon, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 2–3, 2026🇸🇦 Saudi Arabia— Saudi airstrikes continued against Yemen. A Saudi raid targeted the communications network in Qa’ra District, injuring one civilian. Saudi missile and artillery shelling also targeted border villages in Al-Dhahir and Marran districts in Saada Governorate.— Reports said Saudi Arabia and the Yemeni Presidential Leadership Council are preparing for a major offensive against Ansar Allah positions in the coming weeks. According to the r",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
