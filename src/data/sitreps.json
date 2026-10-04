@@ -188238,6 +188238,21 @@
     "verified": false
   },
   {
+    "id": 1791124761822,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Our Armed Forces – by the grace of Almighty Allah – succeeded in expelling and targeting the Saudi enemy’s forces gathered east of Al-Jawf following failed attempts to advance toward the positions of our Armed Forces. The operation to target and expel them resulted in the following:– A large number ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
@@ -189121,6 +189136,21 @@
     "verified": false
   },
   {
+    "id": 1791124738643,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-03",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌🇸🇦 | Yemeni forces liberated the Bierin market and managed to capture a unit of pro-Saudi forces. This occurred after the pro-Saudi forces crossed a Yemeni army checkpoint, unaware that Yemeni forces had already reached Bierin.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791117480202,
     "type": "airstrike",
     "location": "Yemen",
@@ -189204,6 +189234,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1791124735705,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Yemeni forces repel Saudi-backed advance in al-Jawf📌 Tehran, IRNA – Yemen’s armed forces repelled an attempt by Saudi-backed forces to advance toward their positions in eastern al-Jawf province, destroying military equipment and killing or wounding dozens of mercenaries, the armed forces spokesp...",
+    "media": [],
     "verified": false
   },
   {
