@@ -186241,6 +186241,46 @@
     "verified": false
   },
   {
+    "id": 1791110277775,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Statement of Ayatollah Mohsen al-Araki (H), Iran:In the Name of Allah, the Most Gracious, the Most MercifulAllah the Almighty said:“And those who disbelieve, their patrons are the Taghut.”What the Iraqi government has done by blocking the path of the visitors of the Commander of the Faithful ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rkUmzW2XZXRFyBrp-WgG7nMcWt1nnlXexXCQcb_90ccNsP2NVOf7LLHmN_GEVD2zvyJSSVPKmUAERnx2OCieiVz5w8b25VTtyR7T9oJCcXP-Vsdt19DGYGktfMZ_XsLyNBJL0pvP-uZmCEW_vy3T9zWjNNt4nxCwScM52tP7cPxBL2NrB_SiieiGbHTFR3-UbzS3vzaYUBmhDVfl_nvHOPFsk4FogH2OcNjDzdLJEMXn0ZKWFyLEGitnCF-e9mjcNHob4T9eu_ObBnBXyPJYoxZ8nSgd27y0MronbnTEAHvAPrPAd7QEEqnNMSDElrDIcAjf1j6up-HNMpl-g_5BOQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791110269328,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷🫥🤲 | The pivotal role of Sayyid Hasan Nasrallah (r): Imam Ali Khamenei: Fathered the entire idea of resistance against global hegemony and the formation of Israel.Sayyid Hasan Nasrallah: Framed, implemented, and advanced it by adding momentum to the Islamic resistance movements through compreh...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/paN8MG0_QBsaiHzjnJtGWjN-bu2ewZ7XIGmuFz2bR_8Xximx0FGCTpxYslLw5W6LStkInfHI0uCFRxS80A50VnjpHnTFBS-nlIzL7FnqYN89bxWom25g3jNczytlGGlTrjEsZqN962-ab_PnfcWOf8s2vPfTBV1MdWFt7D-mZg70ZXGYIZp8f0wPwi3lboBg58gkX4BWbgD_hfTYjuW8MqtUWD-vXIwPocS9SRvonzDJeq1sW57yvB_9yXLM_iV3smJxbYLPKBdM2LjXBorpbDFxrKoolvYizsOY5zpaLpIuIGb0FhQY6KHfewG0_YjtdsHcm33OSTm7HiF74E9ZGQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790566722622,
     "type": "airstrike",
     "location": "Baghdad",
