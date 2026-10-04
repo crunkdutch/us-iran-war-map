@@ -139020,6 +139020,70 @@
     "media": []
   },
   {
+    "id": 482106886,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Riyadh, Yemen: Regional developments October 2026 Yemen Initial",
+    "location": "Aden, Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 3–4, 2026 (+ve)🇾🇪 Yemen— Initial reports indicate that Yemeni forces have reached Safiya Junction, cutting off the last supply route for pro-Saudi forces between Taiz and Aden. So far, the sources reporting this are pro-Saudi forces, and there has been no confirmation from Yemeni forces themselves.— On the Taiz front, AnsarAllah reportedly captured Al-Masahin, Al-Muqarmah Heights, and Al-Zakirah.— The latest military map of the Taiz front reported that the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482110599,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Gaza City, Lebanon: Regional developments October 2026 Yemen people",
+    "location": "Sanaa, Gaza City, Lebanon, Yemen, Israel, West Bank",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 3–4, 2026 (-ve)🇾🇪 Yemen— Two people were injured as a result of Saudi aggression targeting a police station in Saada city, Yemen.— Saudi aviation bombed the water tank project at Jabal Rasn after pro-Saudi forces lost control of the area the previous day.— A citizen was martyred and women and children were injured in a Saudi raid targeting a house in the Al-Barh area of Maqbanah District, Taiz.— Yemeni media reported new Saudi attacks against Sanaa, as well",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

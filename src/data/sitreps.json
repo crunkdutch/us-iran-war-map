@@ -188706,6 +188706,36 @@
     "verified": false
   },
   {
+    "id": 1791074216844,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-03",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Ongoing Ansarullah ballistic missile and drone attack on Saudi Arabia. Explosions were heard in Yanbu, Abqaiq (near Dammam), Abha, Jizan, and Riyadh.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791074166142,
+    "type": "drone",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-03",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | October 3–4, 2026 (-ve)🇾🇪 Yemen— Two people were injured as a result of Saudi aggression targeting a police station in Saada city, Yemen.— Saudi aviation bombed the water tank project at Jabal Rasn after pro-Saudi forces lost control of the area the previous day.— A ci...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
