@@ -185382,6 +185382,47 @@
     "verified": false
   },
   {
+    "id": 1791132001366,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🫥 🇵🇸 | Statement by the Palestinian Resistance Committees on the second anniversary of the martyrdom of Sayyid Hasan Nasrallah:In the name of Allah, the Most Compassionate, the Most MercifulThe Palestinian Resistance Committees, together with the masses of our people, our Arab and Islamic Ummah, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131970153,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇰 | Ayatollah Sayyid Jawad Naqvi, a prominent Shia scholar in Pakistan:“The rumor that Yemen’s Ansar Allah attacked Mecca was fabricated for Pakistanis in order to provoke the people of Pakistan.”▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e5f69aa012.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FVJdGbcsRltG9DKxtQd7zBuwPCOfxb79rr1_1sC1iAJTENBKEwIxb1MMGgSL067p7SvllbnSAlKwxzHPtILQAdG-eAA9KZbW-iG4JoOlJC2HuRwAYIZYKD0y2KfhP-kRbigRy99gv0aZ88T0S24OYMj_YXMmhGckb7CJM1LS3dKdFuq3brjJTL7PQxlyj3OvxfI9sJ-LrvUrSF4OzZueOf_lq3rRUhmOjboK4WiR7OmaWZMk4Nv6cAzo1HlQPWm-gN2v99W7FYccwq1ncuxRH7J0CWSzmATQizrJZnsk_Fi8vRKjdRwUmjU1QtObpG1KF0hHkVVbpjsu7FgTs2h64Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62636",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FVJdGbcsRltG9DKxtQd7zBuwPCOfxb79rr1_1sC1iAJTENBKEwIxb1MMGgSL067p7SvllbnSAlKwxzHPtILQAdG-eAA9KZbW-iG4JoOlJC2HuRwAYIZYKD0y2KfhP-kRbigRy99gv0aZ88T0S24OYMj_YXMmhGckb7CJM1LS3dKdFuq3brjJTL7PQxlyj3OvxfI9sJ-LrvUrSF4OzZueOf_lq3rRUhmOjboK4WiR7OmaWZMk4Nv6cAzo1HlQPWm-gN2v99W7FYccwq1ncuxRH7J0CWSzmATQizrJZnsk_Fi8vRKjdRwUmjU1QtObpG1KF0hHkVVbpjsu7FgTs2h64Q"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790490143472,
     "type": "airstrike",
     "location": "Tehran",
@@ -186443,6 +186484,126 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1791132002625,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-27",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: Hezbollah members launched an explosive drone tonight toward “Israeli” army forces operating in the security zone in southern Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131952179,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenThe central event commemorating the second anniversary of the martyrdom of the Martyr of Islam and Humanity, His Eminence Sayyed Hassan Nasrallah, may Allah bless him, has begun in the capital, Sana’a.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131977573,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenFouad Naji, member of the Yemeni Scholars Association, at the event commemorating the martyrdom of Sayyed Hassan Nasrallah:– Sayyed Hassan Nasrallah was the first to change the equation and achieve a victory over “Israel”.– Sayyed Hassan Nasrallah was the axis of the Axis and the safety valve ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131992548,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA member of the Yemeni Scholars Association:– The greatest description of the martyr [His Eminence Sayyed Hassan Nasrallah] is the one given to him by Leader Sayyed Abdul-Malik Al-Houthi: “the Martyr of Islam and Humanity,” a description befitting his stature.– Sayyed Nasrallah was an Islamic ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131997560,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA member of the Yemeni Scholars Association:– We in Yemen will not forget his stance with us when he stood by us while everyone else abandoned us. Our generations will not forget him, nor will they forget his stances toward Palestine and Bosnia and Herzegovina.– The blood of Martyr Sayyed Nasr...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131928467,
+    "type": "naval",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_PalestineIn the name of Allah, the Most Gracious, the Most MercifulPress statement issued by the Resistance Committees in Palestine on the second annual anniversary of the martyrdom of the great Islamic and jihadist leader, Sayyed Hassan Nasrallah:The Resistance Committees in Palestine, to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131937753,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-27",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenActing Prime Minister of the Yemeni Government Mohammed Miftah, at an event marking the anniversary of the martyrdom of Sayyed Hassan Nasrallah:– We commemorate the martyrdom of one of the greatest leaders and figures in human history.– The assassination of Sayyed Hassan Nasrallah cannot be co...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131956720,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenAnsar Allah Political Bureau member Judge Abdul-Wahab Al-Mahbashi:– We do not forget Sayyed Hassan Nasrallah’s stance on the second day of the Saudi aggression against our country, at a time when the entire world remained silent.– Sayyed Hassan Nasrallah stood with Yemen in every speech and on...",
+    "media": [],
     "verified": false
   },
   {
@@ -188610,6 +188771,51 @@
     "verified": false
   },
   {
+    "id": 1791131992830,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: In “Israel”, assessments are increasingly growing that the Omani attacker, who is the pilot who attempted to destroy the Emirati aircraft heading toward Tel Aviv, acted alone and was not acting on anyone’s orders.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131943271,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source told Yemeni media: With the help of Allah, the Saudi enemy’s forces gathered in the Al-Turbah area and the districts of Al-Shamayatayn and Sama’ in Taiz Governorate were expelled.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131917959,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Lebanon Head of Hezbollah’s Executive Council, His Eminence Sheikh Ali Daamoush, at the grand scouting gathering: – We will not hesitate to confront the occupying Zionists, nor will we deviate from the path of our martyrs.– Political accusations and attempts at defamation targeting the Imam Al-Mahd...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790916918521,
     "type": "intercept",
     "location": "Aden",
@@ -189248,6 +189454,129 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📄 Yemeni forces repel Saudi-backed advance in al-Jawf📌 Tehran, IRNA – Yemen’s armed forces repelled an attempt by Saudi-backed forces to advance toward their positions in eastern al-Jawf province, destroying military equipment and killing or wounding dozens of mercenaries, the armed forces spokesp...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131927407,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Yemen ❌ Saudi Arabia developments | October 4, 2026 (+ve)— More than 20 armored vehicles and five vehicles carrying weapons and ammunition belonging to Saudi-backed forces reportedly fled the Al-Turbah front toward Sharjab and Tur Al-Bahah, while other vehicles reportedly withdrew from Al-Turba...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131922876,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-04",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚩| Here we are…They tried to annihilate Hamas, failed.They tried to remove Gaza from the map, failed.They tried to dismantle and fully destroy Hezbollah, failed.They tried to impose their will over Hezbollah, failed.They tried to destroy Iran, failed.They tried to demolish the Islamic Revolution, f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791131993681,
+    "type": "airstrike",
+    "location": "Caspian Sea",
+    "coordinates": [
+      40,
+      51
+    ],
+    "date": "2026-10-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "A Caspian seal was freed from an illegal fishing net in northern Iran and, following roughly two weeks of expert care in Miankaleh, was successfully released back into the wild.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5af903a0f7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rePLUWvkQackynwGZ3p5ISHbZYgakMbhYQZWF-l4hPyx20XR01y2czWaUwjEgv9g7lxDp8tyvkITHgLXrK-8H5O8GhtISr0Il73EebdNsV2SUtvc0K2P9RdGoGIVuX8VqsUpHnRNnBGfEh0e6r5pAXKyd8lDi18XnvyDxicXVKaECVP8ewliAn00G5_iaCru09y9gNSGYEVrnJ8tr8CGf9NYN-6M2-QF70Dgo2_XwiS1sNe5_xMPlv3zkPna--Os7naoZCSduBnrpl1s7n4k3JQhci2O5zcCB7K5H7djaWBCIN7HiYTttYuGkHjmciTjETA_bcdz_cWnqoYdXn_2jw"
+      },
+      {
+        "url": "https://t.me/Irna_en/40281",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rePLUWvkQackynwGZ3p5ISHbZYgakMbhYQZWF-l4hPyx20XR01y2czWaUwjEgv9g7lxDp8tyvkITHgLXrK-8H5O8GhtISr0Il73EebdNsV2SUtvc0K2P9RdGoGIVuX8VqsUpHnRNnBGfEh0e6r5pAXKyd8lDi18XnvyDxicXVKaECVP8ewliAn00G5_iaCru09y9gNSGYEVrnJ8tr8CGf9NYN-6M2-QF70Dgo2_XwiS1sNe5_xMPlv3zkPna--Os7naoZCSduBnrpl1s7n4k3JQhci2O5zcCB7K5H7djaWBCIN7HiYTttYuGkHjmciTjETA_bcdz_cWnqoYdXn_2jw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791131925750,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-10-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Bahraini citizens took to the streets across different areas once more to voice their condemnation of the detention and prosecution of Shia religious scholars in the country.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2594d3d082.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sENTtSApksjM2CNxYD_zXuU6JQotXrJdGsKshJEoEoF0DGoi4f_FhYPjXdoOJR7f4skHhtRdimqvJyss_gq40SPKQrmr0X96HF7VoRC_S2M77bzthq6QhqLElSdmpXSVeXa0btYuYtREWAEQOfAgjs0Gtxlz7yxRjEooEuEhg-kSQbc3KLM1IIA7RRd9vtxuv8YpDA-f_vEC0zVMiGIUN8qAR8gKxcKbtjkeFO_FsYc7GSNfSUG-_TGWhviU5vHRKu9jXeLSwETeKkhcf0fYaTCdUd6fuiMcWoF0gYjkUjXFRTtgRp7LPrUCQHW9w4G5Tisu8eo1Pu42fGqaIDB0hg"
+      },
+      {
+        "url": "https://t.me/Irna_en/40282",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sENTtSApksjM2CNxYD_zXuU6JQotXrJdGsKshJEoEoF0DGoi4f_FhYPjXdoOJR7f4skHhtRdimqvJyss_gq40SPKQrmr0X96HF7VoRC_S2M77bzthq6QhqLElSdmpXSVeXa0btYuYtREWAEQOfAgjs0Gtxlz7yxRjEooEuEhg-kSQbc3KLM1IIA7RRd9vtxuv8YpDA-f_vEC0zVMiGIUN8qAR8gKxcKbtjkeFO_FsYc7GSNfSUG-_TGWhviU5vHRKu9jXeLSwETeKkhcf0fYaTCdUd6fuiMcWoF0gYjkUjXFRTtgRp7LPrUCQHW9w4G5Tisu8eo1Pu42fGqaIDB0hg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791131924718,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "The moment Yemeni Ansarullah forces reached the Al-Turbah market, which serves as a link between Aden and Taiz.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1448bc23b1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/X8p-tyuQ0K3uFRMAAK3SDIImIXEAhSwMexHEGFAcnmmU0gdXlrqYfQKPV3X1clMMfWoz_s3TAvY5Gv-wd2ji-Xf1vgxseMLy79x4TUgywNxKEt7Uv3nfQ7hTte98CAiexU0R-ATUuWVBH4Plvub5lSHeMR4OcXAQ2xeNQpP0_hSgaP1OHTZQOQZSbOH41CK-49onXRyhW6n-txkpF7A1hs0Mz4J9QXKzaFvwwZiXsKje-tIQDoJk4tVtPVgiZMbi2jJ3_Jh9cZedyvYgCgdPMyLgsxqCQx7Hg-KEAYsbNUlBgPj1tZJzvfL9jy5BSLsKDGYpUneOGSudanclXyVUIA"
+      },
+      {
+        "url": "https://t.me/Irna_en/40283",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/X8p-tyuQ0K3uFRMAAK3SDIImIXEAhSwMexHEGFAcnmmU0gdXlrqYfQKPV3X1clMMfWoz_s3TAvY5Gv-wd2ji-Xf1vgxseMLy79x4TUgywNxKEt7Uv3nfQ7hTte98CAiexU0R-ATUuWVBH4Plvub5lSHeMR4OcXAQ2xeNQpP0_hSgaP1OHTZQOQZSbOH41CK-49onXRyhW6n-txkpF7A1hs0Mz4J9QXKzaFvwwZiXsKje-tIQDoJk4tVtPVgiZMbi2jJ3_Jh9cZedyvYgCgdPMyLgsxqCQx7Hg-KEAYsbNUlBgPj1tZJzvfL9jy5BSLsKDGYpUneOGSudanclXyVUIA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791131984657,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-04",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 IRGC chief praises Iran’s astronomy team’s world title📌 Tehran, IRNA – Chief Commander of the Islamic Revolution Guards Corps (IRGC) Major General Ahmad Vahidi has congratulated the Iranian national astronomy and astrophysics Olympiad team for winning five gold medals and the world title in Hano...",
     "media": [],
     "verified": false
   },
