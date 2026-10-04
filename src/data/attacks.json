@@ -135942,6 +135942,102 @@
     ]
   },
   {
+    "id": 482151508,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaIsrael Hayom Hebrew newspaper citing Sergeant",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper , citing Sergeant “A,” an Iron Dome battery operator:– For two months, we have faced large-scale barrages from Hezbollah.– Hezbollah is trying to study our methods, and we, in turn, are trying to study it.– Our enemy differs, to some extent, from the enemy faced by the fighters who cross the fence. The enemy in our area reaches us via drones and missiles.– Like any citizen who feels fear, we also feel afraid when we see Hezbollah’s drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482155233,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemen Saudi warplanes carried airstrikes over",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen The Saudi warplanes carried out 27 airstrikes over the past 24 hours using F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif air bases. The strikes targeted civilian infrastructure, including bridges, roads, and other sites, in the governorates of Taiz, Ma’rib, Saada, Amran, Ibb, and Hajjah.The total number of Saudi aggression airstrikes and missile strikes since the beginning of the escalation has reached 1,059.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482158959,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Lebanon, Yemen, Iraq: Occupied_PalestineIn name Allah Most Gracious Most",
+    "location": "Lebanon, Yemen, Iraq",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the name of Allah, the Most Gracious, the Most MercifulPress statement issued by the Resistance Committees in Palestine on the second annual anniversary of the martyrdom of the great Islamic and jihadist leader, Sayyed Hassan Nasrallah:The Resistance Committees in Palestine, together with our people, our Arab and Islamic nation, and free people around the world, commemorate the second anniversary of the martyrdom of Sayyed Hassan Nasrallah on the path to Al-Quds, rememberin",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481632417,
     "type": "naval",
     "status": "confirmed",
@@ -139239,6 +139335,207 @@
       "other": 0
     },
     "description": "🟡 | Regional developments | October 3–4, 2026 (-ve)🇾🇪 Yemen— Two people were injured as a result of Saudi aggression targeting a police station in Saada city, Yemen.— Saudi aviation bombed the water tank project at Jabal Rasn after pro-Saudi forces lost control of the area the previous day.— A citizen was martyred and women and children were injured in a Saudi raid targeting a house in the Al-Barh area of Maqbanah District, Taiz.— Yemeni media reported new Saudi attacks against Sanaa, as well",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482140339,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni Armed ForcesOur Armed Forces grace",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:Our Armed Forces, by the grace of Allah Almighty, succeeded in expelling and targeting the Saudi enemy’s mobilizations in eastern Al-Jawf following failed attempts to advance toward the positions of our Armed Forces. The operation to target and expel them resulted in the following:• A large number of vehicles belonging to the Saudi enemy’s mobilizations were burned.• Dozens of members of those mobilizations were killed and wounded.• The remaining forces were pursu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482132898,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-04",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Aden, Gaza City, Strait of Hormuz: Regional developments October 2026 Yemen Yemeni",
+    "location": "Aden, Gaza City, Strait of Hormuz, Yemen, Iraq, Israel, Gaza Strip",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 4, 2026 (+ve)🇾🇪 Yemen— Yemeni forces took control of the Al-Barkani and As-Samsarah areas after advancing from the Safiya Junction, and continued to progress along the supply route connecting Taiz and Aden.— Yemeni forces took control of Al-Zariqah and Jabal Munif and were approaching the city of Al-Turbah.— Yemeni forces continued their advance after capturing Wadi Al-Barkani, reaching the home of the Saudi-backed Speaker of the House, amid ongoing clashes",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482136618,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-04",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Iraq: Regional developments October 2026 Yemen Saudi",
+    "location": "Yemen, Iraq",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 4, 2026 (-ve)🇾🇪 Yemen— Saudi aircraft launched an airstrike on Abs District in Hajjah Governorate.— Saudi aircraft carried out three airstrikes on Kataf and Al-Baqa’ District in Saada.— Saudi aircraft carried out two airstrikes on Sahhar District in Saada, Yemen.🇮🇶 Iraq— Iraq’s Ministry of Defense reported that two fighters were martyred and two were injured in an explosion caused by remnants of an explosive device left behind by ISIS in Nineveh.▪️@enemyw",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482144061,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Tehran: Iran moves closer launching Shahid Soleimani",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran moves closer to launching Shahid Soleimani satellite constellation: Minister📌 Tehran, IRNA — Iran is preparing to take a major step toward developing satellite constellations, with three satellites set to be unveiled and launched as part of the country’s expanding space program, says the country’s minister of information and communications technology.Sattar Hashemi has said three of the 24 satellites in the country’s Shahid Soleimani constellation are ready, which will be unveiled durin",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/srWIbZ729yUb4xZ5zzfAIKpuahMgnRupxpD4oZwWTOhYOq4U0hirTO2Et7w4tzGX96Gs2Ua99ochY7tWywf6QxH2dDqNbQhCe3xrUUfSKIJxVXvpFgfjghE2bSForCrVr-oQznMK3YOGs53MGICySSKan46JSM-pEwR9Z-M1kGJFTwSfTNeJHzOY998vgYgppZ_g3_NM98_xaTeiejWRIgKpixURrsR-oMkDzG_N8xL2WgYvyavMaq5pYfbjFCOPak29Xh3lDrIvAqjF69I_B10fi5Z0kBkwc0tcsy5unEB4WawkwhP3haDEmd-LDhjGy7qroZb7LgPbR2dkqRSn3Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Xz-W4F8SsDoG-UTddOmpVdeySmIlimpyI0CyMlH2XucjuE0-YvBP31LoOE28M0Psk9IAjQoQ8-q9Zxe25KBoChlmbjgLaeKYs_GK7TTHGExI2Vak5KhcnsN0o-tBcAtx0erakiK14tXdO9fo9LE4JyRepV4MOlE_Xzyt6jZtg4knTlxmnm1skeF64kexsCVAeHe2e4VD1pi4FdwLKJTDjHDyfMd3lQudL0VWtvdyYIthBR1YzlIme1EUDY8ektiQiFSDsfg9J6xI_K0UY402N7ozjFrMtpWhF94lYmf61L7Y3Y08ihN51Lq30rCP6TmyilT04lvi8aVvzK_eq8padg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/XVz4sSbP6HMbI_cjX2URZpWkZSPTgL6b6MEmhx5cFdDwUP8F_o-o-LdiZ8AbkDYVuReE5ZFUvI8CPbXtUsd21FoJTGRVNAKIm0IsGbdwZ4i1KHTuyUI6vZ3sokcqJX-BnK71nAThuEmKV7zHm7btUgmSQEt3RSRF1fCJASVjmD9U_7osUvHFcPl87vmYpBHpCa3vRtS7maGUtkstHQSeqVARPISY-yPk0Qh8orncK1CTCCHJ2o4k6nsaPeynMqaXElY_odSdxPSI77va54yEzWNZugajJennaez1Qmop9EQyS06OBx8ERQeGwYZmF7I9vj3WWJD3amqr8OOdGYGbXg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/HXGsefC8zwkZr4u6dhHozod9cVQEtaZhbemtSKsuxWoQiRx1yGpFnJVLV8HEeoDq-BwndEqoeR-qB1QI50uFLX_RURVtmC_ShURYTHf4__VG-LE-GiNT0ViaP-MdryAeLN5uNq9WL4efzEUSFpptMynoSAJSPimaKL9rU-ZzuZAZk0jU5elBZQlzW1YxbNd-yEXMkDVNcenJjqq6kv4Bl6nLp-c85GL9ox0QE37KCUhTI7ei8xBa5rj7MIyqo7Kh2O73phJeK84Ud9GnQgw48qUPmx7nl54JE46B61ebV4wR_UiTWwivmAIAymrTsSwqq39ZuNAdWzZUwQFBRIIoEw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/AXz8qIYy1BiZ_9sm9CNhdiLIffIUJEFvRPZeVJHUa5suR0-PC3DgkkUMudeing9oFrlET74dlOXg91QQwb9ttiFCnwFcnf8ocBu4ET0PuPlFHEEZwHdP_p2kT-B0hT8jWHJwGwfl9QW-20y0IaGWR52RP19h6DkOWIYDqoJqY27obTLHlLIxBaXmfAD63RGHz21yOwR-PYzkNr9sj9CBR8yJH3_RQQyZPS5JOSNLqJeE4CqE6tZcCnO6oFXgwUIRpCaTTiY5Js2VFnCkW_RDeyy5Q0DNX86R9ckg5Bl5ozXcjg7Cm5Y0dz8cp0LL9KcMh0pFvIc6EOZZHvYhW3b6ew.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JPWpAR2_LKh2F194ybnySFF71Li-XJE0is-vXD4Dy-qFEf8G1mlhTZlNLPwtAFDzHA-s_8B33NQsAI1M5Fwm-Q5f8i6E2SFQVHaKJA8kwTeDzNbckGQ4jrd7rylD4RlT4t6hpC1phx2XOXaMGq_SB0L9d5m55kkfklTXAOq9sW99DQo11I5ImtZe3nn_xPPjfJHGOvy9rKobvKPmxj5J6-deCy625uMK87CywEIHAvfO08ASuh5bCGBoo1YW9C98k4VtCWJgAVi2RHJf1rUJtk_MJbSGqK_zOFR743-WEkcXeCqgQV9eD5gAGOAOtsJppVcqTaCPIZHklGAqNU_DCg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/FWS5naNzYo1yaQiGkjjW2ulg3RoOX93oxH7rI0T71kJ-vqQNSNpqDsxSrC6n5N0SyKNsOij7ow2nOAB_75kJnoe2wxCywMa0A4Znp8eG85g-7kLVBbxbzCsvk4pEEk0qC30P8tiCPokqE9aq_F7d6g-1mdOeKGGmUzShlaMh3iQNUpyWr1i0qhL5n0ymuOF8HCM26iRH-MLC-RPy8eVL0b0ggC9vcQX_Zuqlo93PQ97s6oiy7mQ2vh1lr1G-N3QtuCwIYZxD_pzZM4W2WsDeI0ZUDWe93IGokeSmmhBNX14fYE7A2vNXsgDM_qTIbilH-QiLFuxlX0qgE6-yjwn-Ng.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/gz0gm3vQcpoBIu7f5clzMzZE7Js3KlpFsdo71YBXLYjzbj3rVhGMilLjQL78WthEMD9EC_qAWz8If9hlufCrRwzQS2IFia3tTcUfTzakdKeN8V4oLSWNyNBUMhUFjYKGJWrAFNAWVysuAJiNGUnZZUgxylKiFGW5lzVLUNkN6weBBK8wKvbZOcl38JzCSX1NF3JzHDnCehNXBaHjo5MT4hqaxoWy_mAx1VSuGPWZBuYeaSEkMte0ktyYMb16-Lcc6lxt6xbikVIHc43Vek_FASYXrp7P-C359uPxkIaPJa3w36aIp3tz0qJXbnGEaKRIwNmRm5vwUg8xXHBaHwX-tQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JKmiRhknR-PT3wn8zrrTfMMUJlt7Dqq3IJuZFt1K2C8nk_tOGeItM3TZNigCR7QNwpVcKbu384ylgvaKYy19GfDkz-QZGVkTd54Ufh0REGuWy4oZAe6IMJfXPaRyG58ZnquAkWATI-QpHNCTkNDYAkNzBc1n-xg9k82xtYJkW9P3Mkp1ns88Bj6OFNZJBrhDDJ_mzqMis6vWK9fzv7X63wPDTH_VyplProBBsX7belClAbGNUmi62jdhokMrHwYMKWuar07jNCc0Z9_Nr3uCLQn0ZtJqcsZlvQoxCTy2uMvLsYPduZs-HLK9CmqucI78KhkUvY7BhTGTnX9Vv7ojpQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vsH00ZZra6FY0wz5sExVtinDxFahtmagx48vk5vtHRWnD9WiwJe8HXdKReW9imo0M_5aTcfehKroLprxNeH-N8G7rSoxaM-suVuotZ82tTMY35BBRtCobTIzsCabLpraaNe_bX8DyrEXoE-wQc7WcJA03KFHf7839hHw6EsiRTsunp847Ca2XC6bVObIigSOWQVy0lUCx8MS3soTi_NzJbpcuQBwDUpJ6eC6yiJg5FruDNfDP4UOxmdZJL2-YdLKIgQAEsOmY-_ec5FRxQAUXBT_o1RYbVaTneoTpHLrYSMQQNUtO0MxzI7UWUhSFMQRpoDD-4-AeGnlz1oHmh35CA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482147784,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-04",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran: Iran achieves several historic milestones space",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran achieves several historic milestones in space industry: ISA chief📌 Tehran, IRNA – Hassan Salarieh, head of Iran's Space Agency (ISA), highlighted the country's space-related achievements over the past two years, recounting several records set in the sector through domestic know-how.Speaking at a ceremony marking Space Week at the Ministry of Communications and Information Technology, Salarieh pointed to progress in the Iranian space industry, saying that expanding space applications in ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

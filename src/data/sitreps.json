@@ -185217,6 +185217,171 @@
     "verified": false
   },
   {
+    "id": 1791117557077,
+    "type": "intercept",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper , citing Sergeant “A,” an Iron Dome battery operator:– For two months, we have faced large-scale barrages from Hezbollah.– Hezbollah is trying to study our methods, and we, in turn, are trying to study it.– Our enemy differs, to some extent, from the enemy f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117489301,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen New footage shows the targeting of gatherings and vehicles belonging to the Saudi enemy with Rajum drones on several fronts.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117503869,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen The Saudi warplanes carried out 27 airstrikes over the past 24 hours using F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif air bases. The strikes targeted civilian infrastructure, including bridges, roads, and other sites, in the governorates of Taiz, Ma’rib, Saada, Amran...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117495810,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: \"Israeli\" opposition leaders signed a document pledging to make replacing the Netanyahu government their foremost objective in the upcoming elections.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117485955,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-26",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: Hezbollah members launched an explosive drone tonight toward “Israeli” army forces operating in the security zone in southern Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117543553,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenThe central event commemorating the second anniversary of the martyrdom of the Martyr of Islam and Humanity, His Eminence Sayyed Hassan Nasrallah, may Allah bless him, has begun in the capital, Sana’a.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117553037,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenFouad Naji, member of the Yemeni Scholars Association, at the event commemorating the martyrdom of Sayyed Hassan Nasrallah:– Sayyed Hassan Nasrallah was the first to change the equation and achieve a victory over “Israel”.– Sayyed Hassan Nasrallah was the axis of the Axis and the safety valve ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117554764,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA member of the Yemeni Scholars Association:– The greatest description of the martyr [His Eminence Sayyed Hassan Nasrallah] is the one given to him by Leader Sayyed Abdul-Malik Al-Houthi: “the Martyr of Islam and Humanity,” a description befitting his stature.– Sayyed Nasrallah was an Islamic ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117538697,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA member of the Yemeni Scholars Association:– We in Yemen will not forget his stance with us when he stood by us while everyone else abandoned us. Our generations will not forget him, nor will they forget his stances toward Palestine and Bosnia and Herzegovina.– The blood of Martyr Sayyed Nasr...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117525413,
+    "type": "naval",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-09-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_PalestineIn the name of Allah, the Most Gracious, the Most MercifulPress statement issued by the Resistance Committees in Palestine on the second annual anniversary of the martyrdom of the great Islamic and jihadist leader, Sayyed Hassan Nasrallah:The Resistance Committees in Palestine, to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117527805,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-26",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenActing Prime Minister of the Yemeni Government Mohammed Miftah, at an event marking the anniversary of the martyrdom of Sayyed Hassan Nasrallah:– We commemorate the martyrdom of one of the greatest leaders and figures in human history.– The assassination of Sayyed Hassan Nasrallah cannot be co...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790490143472,
     "type": "airstrike",
     "location": "Tehran",
@@ -188058,6 +188223,21 @@
     "verified": false
   },
   {
+    "id": 1791117499752,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12:On the cabinet’s agenda today:– An update from the Prime Minister regarding his visit to New York and other matters– Political situation assessment: a briefing from the Foreign Minister on aspects of legitimacy and other matters– Operational plans for the Central Comman...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
@@ -188923,6 +189103,107 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Hormuz Strait to remain closed until Iran’s seven conditions are met: Ghalibaf📌 Tehran, IRNA – Iran will not reopen the Strait of Hormuz until seven conditions outlined in the Islamabad memorandum are fulfilled, Parliament Speaker Mohammad Bagher Ghalibaf has said, adding that Tehran does not ba...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117552332,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:Our Armed Forces, by the grace of Allah Almighty, succeeded in expelling and targeting the Saudi enemy’s mobilizations in eastern Al-Jawf following failed attempts to advance toward the positions of our Armed Forces. The operation to target and expel them resulted in ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117480202,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Regional developments | October 4, 2026 (-ve)🇾🇪 Yemen— Saudi aircraft launched an airstrike on Abs District in Hajjah Governorate.— Saudi aircraft carried out three airstrikes on Kataf and Al-Baqa’ District in Saada.— Saudi aircraft carried out two airstrikes on Sahhar District in Saada, Yeme...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117534389,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-04",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran moves closer to launching Shahid Soleimani satellite constellation: Minister📌 Tehran, IRNA — Iran is preparing to take a major step toward developing satellite constellations, with three satellites set to be unveiled and launched as part of the country’s expanding space program, says the co...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791117474382,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "A photo collection showing Foreign Minister Araghchi's session with ambassadors and officials of international missions resident in Tehran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/srWIbZ729yUb4xZ5zzfAIKpuahMgnRupxpD4oZwWTOhYOq4U0hirTO2Et7w4tzGX96Gs2Ua99ochY7tWywf6QxH2dDqNbQhCe3xrUUfSKIJxVXvpFgfjghE2bSForCrVr-oQznMK3YOGs53MGICySSKan46JSM-pEwR9Z-M1kGJFTwSfTNeJHzOY998vgYgppZ_g3_NM98_xaTeiejWRIgKpixURrsR-oMkDzG_N8xL2WgYvyavMaq5pYfbjFCOPak29Xh3lDrIvAqjF69I_B10fi5Z0kBkwc0tcsy5unEB4WawkwhP3haDEmd-LDhjGy7qroZb7LgPbR2dkqRSn3Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Xz-W4F8SsDoG-UTddOmpVdeySmIlimpyI0CyMlH2XucjuE0-YvBP31LoOE28M0Psk9IAjQoQ8-q9Zxe25KBoChlmbjgLaeKYs_GK7TTHGExI2Vak5KhcnsN0o-tBcAtx0erakiK14tXdO9fo9LE4JyRepV4MOlE_Xzyt6jZtg4knTlxmnm1skeF64kexsCVAeHe2e4VD1pi4FdwLKJTDjHDyfMd3lQudL0VWtvdyYIthBR1YzlIme1EUDY8ektiQiFSDsfg9J6xI_K0UY402N7ozjFrMtpWhF94lYmf61L7Y3Y08ihN51Lq30rCP6TmyilT04lvi8aVvzK_eq8padg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/XVz4sSbP6HMbI_cjX2URZpWkZSPTgL6b6MEmhx5cFdDwUP8F_o-o-LdiZ8AbkDYVuReE5ZFUvI8CPbXtUsd21FoJTGRVNAKIm0IsGbdwZ4i1KHTuyUI6vZ3sokcqJX-BnK71nAThuEmKV7zHm7btUgmSQEt3RSRF1fCJASVjmD9U_7osUvHFcPl87vmYpBHpCa3vRtS7maGUtkstHQSeqVARPISY-yPk0Qh8orncK1CTCCHJ2o4k6nsaPeynMqaXElY_odSdxPSI77va54yEzWNZugajJennaez1Qmop9EQyS06OBx8ERQeGwYZmF7I9vj3WWJD3amqr8OOdGYGbXg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/HXGsefC8zwkZr4u6dhHozod9cVQEtaZhbemtSKsuxWoQiRx1yGpFnJVLV8HEeoDq-BwndEqoeR-qB1QI50uFLX_RURVtmC_ShURYTHf4__VG-LE-GiNT0ViaP-MdryAeLN5uNq9WL4efzEUSFpptMynoSAJSPimaKL9rU-ZzuZAZk0jU5elBZQlzW1YxbNd-yEXMkDVNcenJjqq6kv4Bl6nLp-c85GL9ox0QE37KCUhTI7ei8xBa5rj7MIyqo7Kh2O73phJeK84Ud9GnQgw48qUPmx7nl54JE46B61ebV4wR_UiTWwivmAIAymrTsSwqq39ZuNAdWzZUwQFBRIIoEw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/AXz8qIYy1BiZ_9sm9CNhdiLIffIUJEFvRPZeVJHUa5suR0-PC3DgkkUMudeing9oFrlET74dlOXg91QQwb9ttiFCnwFcnf8ocBu4ET0PuPlFHEEZwHdP_p2kT-B0hT8jWHJwGwfl9QW-20y0IaGWR52RP19h6DkOWIYDqoJqY27obTLHlLIxBaXmfAD63RGHz21yOwR-PYzkNr9sj9CBR8yJH3_RQQyZPS5JOSNLqJeE4CqE6tZcCnO6oFXgwUIRpCaTTiY5Js2VFnCkW_RDeyy5Q0DNX86R9ckg5Bl5ozXcjg7Cm5Y0dz8cp0LL9KcMh0pFvIc6EOZZHvYhW3b6ew.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JPWpAR2_LKh2F194ybnySFF71Li-XJE0is-vXD4Dy-qFEf8G1mlhTZlNLPwtAFDzHA-s_8B33NQsAI1M5Fwm-Q5f8i6E2SFQVHaKJA8kwTeDzNbckGQ4jrd7rylD4RlT4t6hpC1phx2XOXaMGq_SB0L9d5m55kkfklTXAOq9sW99DQo11I5ImtZe3nn_xPPjfJHGOvy9rKobvKPmxj5J6-deCy625uMK87CywEIHAvfO08ASuh5bCGBoo1YW9C98k4VtCWJgAVi2RHJf1rUJtk_MJbSGqK_zOFR743-WEkcXeCqgQV9eD5gAGOAOtsJppVcqTaCPIZHklGAqNU_DCg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/FWS5naNzYo1yaQiGkjjW2ulg3RoOX93oxH7rI0T71kJ-vqQNSNpqDsxSrC6n5N0SyKNsOij7ow2nOAB_75kJnoe2wxCywMa0A4Znp8eG85g-7kLVBbxbzCsvk4pEEk0qC30P8tiCPokqE9aq_F7d6g-1mdOeKGGmUzShlaMh3iQNUpyWr1i0qhL5n0ymuOF8HCM26iRH-MLC-RPy8eVL0b0ggC9vcQX_Zuqlo93PQ97s6oiy7mQ2vh1lr1G-N3QtuCwIYZxD_pzZM4W2WsDeI0ZUDWe93IGokeSmmhBNX14fYE7A2vNXsgDM_qTIbilH-QiLFuxlX0qgE6-yjwn-Ng.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/gz0gm3vQcpoBIu7f5clzMzZE7Js3KlpFsdo71YBXLYjzbj3rVhGMilLjQL78WthEMD9EC_qAWz8If9hlufCrRwzQS2IFia3tTcUfTzakdKeN8V4oLSWNyNBUMhUFjYKGJWrAFNAWVysuAJiNGUnZZUgxylKiFGW5lzVLUNkN6weBBK8wKvbZOcl38JzCSX1NF3JzHDnCehNXBaHjo5MT4hqaxoWy_mAx1VSuGPWZBuYeaSEkMte0ktyYMb16-Lcc6lxt6xbikVIHc43Vek_FASYXrp7P-C359uPxkIaPJa3w36aIp3tz0qJXbnGEaKRIwNmRm5vwUg8xXHBaHwX-tQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JKmiRhknR-PT3wn8zrrTfMMUJlt7Dqq3IJuZFt1K2C8nk_tOGeItM3TZNigCR7QNwpVcKbu384ylgvaKYy19GfDkz-QZGVkTd54Ufh0REGuWy4oZAe6IMJfXPaRyG58ZnquAkWATI-QpHNCTkNDYAkNzBc1n-xg9k82xtYJkW9P3Mkp1ns88Bj6OFNZJBrhDDJ_mzqMis6vWK9fzv7X63wPDTH_VyplProBBsX7belClAbGNUmi62jdhokMrHwYMKWuar07jNCc0Z9_Nr3uCLQn0ZtJqcsZlvQoxCTy2uMvLsYPduZs-HLK9CmqucI78KhkUvY7BhTGTnX9Vv7ojpQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vsH00ZZra6FY0wz5sExVtinDxFahtmagx48vk5vtHRWnD9WiwJe8HXdKReW9imo0M_5aTcfehKroLprxNeH-N8G7rSoxaM-suVuotZ82tTMY35BBRtCobTIzsCabLpraaNe_bX8DyrEXoE-wQc7WcJA03KFHf7839hHw6EsiRTsunp847Ca2XC6bVObIigSOWQVy0lUCx8MS3soTi_NzJbpcuQBwDUpJ6eC6yiJg5FruDNfDP4UOxmdZJL2-YdLKIgQAEsOmY-_ec5FRxQAUXBT_o1RYbVaTneoTpHLrYSMQQNUtO0MxzI7UWUhSFMQRpoDD-4-AeGnlz1oHmh35CA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
