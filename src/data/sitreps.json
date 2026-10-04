@@ -189136,6 +189136,21 @@
     "verified": false
   },
   {
+    "id": 1791146390995,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Foreign media, citing the UK maritime authority: An oil tanker reported several explosions in its vicinity, 60 nautical miles south of Al-Mokha, Yemen.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791038056672,
     "type": "missile",
     "location": "Riyadh",
@@ -189652,6 +189667,21 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | An explosion occurred on an oil tanker in the Strait of Hormuz. 🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791146362913,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Yemen ❌ Saudi Arabia developments | October 4, 2026 — Reports indicated that unusual AnsarAllah military columns were advancing south along the N3 Highway, with no resistance reported at Mattar al-Qadim Military Camp. The reports were not independently confirmed, but if accurate, the movement w...",
     "media": [],
     "verified": false
   },
