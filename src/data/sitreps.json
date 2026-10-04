@@ -184771,6 +184771,21 @@
     "verified": false
   },
   {
+    "id": 1791139193489,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-09-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media:– By the grace of Allah, the Saudi enemy’s reinforcements attempting to target Mount Naman and its surroundings in Al-Wazi’iyah District were expelled.– Dozens of casualties, including fatalities and injuries, were reported among the Saudi enemy’s reinforcemen...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790396339330,
     "type": "rocket",
     "location": "Fars",
@@ -189577,6 +189592,66 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 IRGC chief praises Iran’s astronomy team’s world title📌 Tehran, IRNA – Chief Commander of the Islamic Revolution Guards Corps (IRGC) Major General Ahmad Vahidi has congratulated the Iranian national astronomy and astrophysics Olympiad team for winning five gold medals and the world title in Hano...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791139140689,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "This Ansarallah offensive cannot be compared to what happened in Syria, because the PLC force did put up a fight—for several weeks, in fact.The Mokha front was slightly different, it was a highly coordinated surprise offensive that caught the PLC off guard and forced them into successive retreats wi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791139219039,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:Over the past 24 hours, Saudi warplanes have conducted 106 air raids and missile strikes, targeting civilian sites in the capital, Sana’a, and the governorates of Al-Jawf, Taiz, Amran, Hajjah, and Saada.According to the report, the attacks were carried out by F-15 and...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791139192721,
+    "type": "missile",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Yemen ❌ Saudi Arabia developments | October 4, 2026 — Yemeni Armed Forces are preparing to complete the encirclement of Taiz city and its surrounding area. The Sanaa government said Taiz Governorate had expelled Saudi occupation forces and regained its health after repelling the occupation forc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791139168554,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | An explosion occurred on an oil tanker in the Strait of Hormuz. 🔻@enemywatch+",
     "media": [],
     "verified": false
   },
