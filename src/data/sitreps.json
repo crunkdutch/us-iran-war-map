@@ -189686,6 +189686,47 @@
     "verified": false
   },
   {
+    "id": 1791175327666,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | The bravery of a Yemeni nurse during Saudi airstrikes near a maternity hospital in Sana’a, Yemen’s capital.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/7450448a63.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WZgUK9rVLLwPRmDlXz8xkvs1zzO6r1Mc09OhHe3rcy_34YUyZgO_3sYR2yS0Fyw0JMTfIwk7WMZctgxJVF5MEq-3DmfKOD4ZLGQV_lK2_ZglxUue5JdebhgzqOEBqzZ9O3vCR4WenWsvo4SLdn8j3ZWnqU1D3SMwDIrHoLaAGHgq0D3gM0xU0Ue6_a05L90hwVmjY8yLOLFpJGuClMpolG4p7tUmX2mDu1SpnHHi3wQDPgX5uYX5OcNXG54b-FqbxGhnc-gH-qzeYX-wVfithCY7KoA1_EBx5uIMRurbvd4Ok212AyhuG97vvWJTSUFrwxxl1MGDO1DpkH5xRWi-xw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62904",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WZgUK9rVLLwPRmDlXz8xkvs1zzO6r1Mc09OhHe3rcy_34YUyZgO_3sYR2yS0Fyw0JMTfIwk7WMZctgxJVF5MEq-3DmfKOD4ZLGQV_lK2_ZglxUue5JdebhgzqOEBqzZ9O3vCR4WenWsvo4SLdn8j3ZWnqU1D3SMwDIrHoLaAGHgq0D3gM0xU0Ue6_a05L90hwVmjY8yLOLFpJGuClMpolG4p7tUmX2mDu1SpnHHi3wQDPgX5uYX5OcNXG54b-FqbxGhnc-gH-qzeYX-wVfithCY7KoA1_EBx5uIMRurbvd4Ok212AyhuG97vvWJTSUFrwxxl1MGDO1DpkH5xRWi-xw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791175231840,
+    "type": "cyber",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Yemen ❌ Saudi Arabia developments | October 5, 2026 — Yemeni sources reported that Sanaa government forces control the headquarters and camp of the 35th Armored Brigade in the Al-Ain area of Al-Mawasit district in Taiz governorate.— Yemeni sources reported that Sanaa government forces entered T...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
