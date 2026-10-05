@@ -190203,6 +190203,21 @@
     "verified": false
   },
   {
+    "id": 1791218602586,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media:With the help of Allah, the militias affiliated with the Saudi enemy’s forces gathered in Al-Ma'afer and Al-Mawasit districts in Taiz Governorate were expelled.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791175231840,
     "type": "cyber",
     "location": "Sanaa",
@@ -190593,6 +190608,21 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Yemen Footage of targeting Saudi enemy forces gathered in Ras Al-Ara with a number of locally manufactured ballistic missiles – October 5, 2026.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791218593460,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 President Pezeshkian nominates Mehrdad Akhlaghi as defense minister📌 Tehran, IRNA – President Masoud Pezeshkian has nominated Mehrdad Akhlaghi Ketabchi to serve as defense minister, submitting the nomination to Parliament for a confidence vote.Akhlaghi is a senior Defense Ministry official and h...",
     "media": [],
     "verified": false
   },
