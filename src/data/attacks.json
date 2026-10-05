@@ -136070,6 +136070,38 @@
     "media": []
   },
   {
+    "id": 482293761,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Lebanon, Israel: Remain True Pledge remaining committed constants",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "– “We Remain True to the Pledge” by remaining committed to our constants, foremost among them the courageous, dignified, divine resistance with a mission, in confronting aggression.– We support the continuation of the resistance, and we will work to maintain it against the enemy so that it leaves our land and we achieve the complete liberation of the occupied territory.– “We Remain True to the Pledge” means that we preserve the trust of the martyrs, foremost among them the Master of the Ummah's ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481632417,
     "type": "naval",
     "status": "confirmed",
@@ -140679,6 +140711,75 @@
       "other": 0
     },
     "description": "🟡 | Regional developments | October 5, 2026🇾🇪 Yemen— Yemeni forces entered Al-Turbah and cut the last supply route to Saudi-backed forces in Taiz.— Southern Giants’ Brigades forces launched counterattacks against AnsarAllah positions in Dhubab District in southwestern Yemen, while pro-Emirates forces attacked recently captured Yemeni Army positions along the coast in an effort to retake them.— A military source in the Yemeni Armed Forces told Saba News Agency: “By the grace of God, enemy Saud",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482286238,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Pakistani military advisor reportedly killed drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🔻🇸🇦🇵🇰 | A Pakistani military advisor was reportedly killed in a drone strike carried out by the Yemeni Armed Forces. The military advisor, was providing operational support and guidance to the PLC on the front lines in northwestern Marib.Note: The accompanying picture is not of the reported individual.🚩@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/uukVYLIfdCmo_CzBYkifFPmiAMAeM8tSrgdL-yIvkZF7Ga1ThnkGeqX8JiiQxRt1SQTEHNV_eBY91zLdlZY-kh83DTCydBnDpzYGmYVBeyfaBZtSO8qVIUJ_Ljq0JCL3ozibLy0vreCl3Z0OOBI_2kqHSeC5prwvmKPZIDcMO-BMVFY-ctta_NA5WpQd_PCkAdwlpp6R6DcA1hzwDGKyoj8nP0I1ySm8HS8q8q6ZyymQts2YkmftjM8fgXwgewXrPrQI_YfjzjXmg_5u5bxtHuVAWMOBWMsFMsgdh4VgAhtXwY-ZdQhYyWDGEYQdcg130CdHc1oZi2gB2daNGiz3iA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482289999,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Doha, Sanaa, Aden: Hourly developments October 2026 Iran Maritime",
+    "location": "Doha, Sanaa, Aden, Riyadh, Strait of Hormuz, Yemen, Qatar, Saudi Arabia, Iraq",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly developments | October 5, 2026🇮🇷 Iran— UK Maritime Trade Operations received another report of an Iranian strike against a vessel in the Strait of Hormuz, described as the third reported incident of the day. A crude oil tanker was struck above the waterline, with no confirmation regarding the condition of the crew or vessel.— Interior Minister Momeni arrived in Doha and was officially received by Qatar’s Minister of State Abdulaziz bin Faisal. The visit was made at the official invit",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
