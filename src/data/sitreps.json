@@ -189742,6 +189742,21 @@
     "verified": false
   },
   {
+    "id": 1791189747398,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media: What the Saudi enemy’s media is promoting about advances toward Dhubab is completely untrue and is an attempt to cover up their failure and repeated defeats.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791175231840,
     "type": "cyber",
     "location": "Sanaa",
@@ -189754,6 +189769,108 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 | Yemen ❌ Saudi Arabia developments | October 5, 2026 — Yemeni sources reported that Sanaa government forces control the headquarters and camp of the 35th Armored Brigade in the Al-Ain area of Al-Mawasit district in Taiz governorate.— Yemeni sources reported that Sanaa government forces entered T...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791189715456,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iran’s 15th Women’s Premier Hockey LeagueThe 15th Women’s Premier and First Division Hockey League, named the “Minab Martyrs Cup”, took place on October 1-4, 2026, in Markazi Province, hosted at the Shohada-ye Panjom Mordad Sports Complex.https://en.irna.ir/photo/86283491/📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Wv7TaiwEozm_URO8uGF0jUicPOI5MbjyZQHclRJbA5D7oI-8Cr7ZkUnscUkjsXKKtNxnO9KbNxpcozEeTTkVsEebHNztiMmEKOb7GNY-cjL1tAhUZpRtEsuidEvr_Tdvcy9xOM9AXp6T2SZIlR48UECLL8DiXqHGaQoYcH3Fvn4zsFkRx3mnw8wTBiKXZxzgm0UxcYArBgmLVcelZXzGvwgTwQAUg_lqgAqz26DFQTDFcdumAO4nA3ljBfDCnh-aT31qYwvybl6nyFVMBq5p9WJSgw-tRcY-KFPA0muxfGXL3-lnRqmOs7oeS3j35Ct1PaYfFaC94sDFqPcjvFG6tQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vlrgigf2crJxwCjLoReRYNK71zGzK8y1rmbtDjqAsx4NFYz-_ZEBaIInn97Xw0zqfZ831D2nOQqfOBngrfpH4CpukwU9K1dCP8Og01C89VBQ_4OcTi3zS6bCP6t195L6PpKJNiaRD6K_EG32uPfp54So7Vmlu0hnXP6a3-0xpMBi6f0XQCrROXBArLxgNFWwcK14XfCoIzjLvHfrvJdAVXyyXceNaifGz02cA9_9oOXLphuDdqaeylco5NnebIdQdx-ywPFc7kNXq3VC9bYrSg-ytnisZMQ1LvsvFD2EGCIqd5hsOq7y4FL7_Gd7WmIPQySOGGHCwbkAoXUJUKsMng.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jYf8c4-7y-NfBM6XiN2x3_gszk-mhhg_wX8047shdPSk5J9hMiJNbqdy7htiOC0Ih3VFljE75Lm4V60xWZCBpqHeh7VHtSXCx8twUFwiZLLtjV-XoI4NK-Jkt9y-xjjffwaK-u6xkDCxCuMDOZj6Ut0ptNeEsfuBLsYBYtyw-aN8jg1rM4OP-BKicKrUVaPLSMhAfAIlvk-POGl-n_LV3spK61_TlU_efYjlVWbYBKxzQJMyOEOllo7k_bTfgbTG8_j33RRzXNyFsve8csTMZZsLWVo9k75qHN3oEFzqNxM-JqtBUQ3xt3J-qDXzclTemPJA-E-HlGry2Zem8eZOkQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/mtPr6IoWojjEWPdJf_mn9lDaSpOdNr9awz1pVksFf0s-684u6SF5jhDfDxkwZcKqjE9tZ2Xc_ZawPCHak6-oB1En2ousobdylieOH-FKnlxsu1yUOtWiQTEzRJodaJ6CyNdRoR8HTh_Y8vWi7l4Vp0t-Htay3kPDC8SCr3Lxj74Cnh35C0ptIt_sT93DdbqaBQxSW388ZVwNjwHYrTIltBN9AZFssMQi2u7yuxLw11XmWLnsj0rRGwGwwxcbzeC2S8gzX9N-Ok19BJnQzFRKKxLMoT5kIOYdNKXRwU1WhzWwEIkP2tMjrz-l3pdqUEUR3kotdKjTH6amviSQxIHibA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/dbR-yELWO7-InjGdOMp4bxk8ervZgtZcJCCpPIRnuev8JZLPLDkxCmDBvUD5fGHBLfGAIhbX6CbUMVOQ4TUWpzPoE32T7OVOp5V2tERaBsUGRsFtJ8bd9CPzDo0MY6bVQHXu9IURGB2L03wvt7cT5HSnnYVrJHs0yD7wPUH_gyU4uFNp2DN4DcBAvD8LF7NuzWm9X8RgjhrFqTEr6WlRu--R16G_V3BIYNDDDVYukZPdz4TiFt16XrzudAzsdYt-AaEz8jR1Oge481Ny16Xibg3OzvMSunE4gt6Eee8_gnmKaQGbLgP-egP3bjU7HQdScseHavXhdZSULUgMwnkY8Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/KcjcbZqtHULui95eS5t-W1X4lc9VzW-kVPfofF7c47QG5aAeKcYTzecDBo9IhFGW2ogH4oqt04DjTn_df_kqwrN39_-c10YYMwOUhmA5LUnMcCQHbLSuUhg2FoJf_HnoWhFTPSKre92DHZ5cQTN5QukVi0YOyjO6Y6UmGd4ox0NgMIPOMZz76b_2ErR39PIOu3yMjUR9jMe6KF4pUvtRBKWOu7pgkmNED_JVdX5JVSf0DOQS_JfdEwmzIqsOE8ezimSH-I29Vn7Q6BmceBpTg8KYc_mJezLIij9DHfG5v7Wu-Nf_IWt3gq1BnHPba3sv3JMxJd5hp3OQzbcXx45w6A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/dRcUjmnwzhi9ojKGBIigcZC6uNjf11aJGGIapymirsjvyqJ-UvfFCnSnHPSYiV-JSjZA3IP6mDE1sMdBw2PfO6IZ5LuYMUGFqfhROsxWfQplfgcW6D-pocqbI4z9OhCb0i4Qs1TZgEk-O1zZWY6NT-w-V4T2LkMFjw0U3ryd2O_IUax6jP2kZxcKarMS9ZEcSsu1vQlLb-GtZir1JoCbjkBzGK1lNldsErJWne9DghW6i0_WpxtgboYgh6eXCQo_ZgEE1ULY1Lr9GE63lb2U-uIDKrIgyw55mbrgTOWoLm64-CbwxIQPwcGJq7_mZD9zKgdOY41OPwwdR0G1_AKoAA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Mby2n4BGuEE4E8IqOwtHFVBjSOyruMtz1sBNOiKr_B78LAwaGEq2OgMyzqEo069GHFNOCVnmMu40b0ykGKmNwlwW3RWWFBAKW7umYs5DnWQeY7gwXaFSG5bFslkGAYJZOFVVGi6SXob3wKcs_q4pGkuLDz8wCpFhhcW_DwJnbBFGKUeq5Zwo91DF8q3G9uX0-RimWiTnHerJ2VbJpsVeVgKlJoDbwEdIj6UVTKCXQWGw6DCiYb87oa6AZMwQ_NG9dJKlLDnA80Jx_v_9sZzj8w-LqQdgzcukGMbuCXKLOF84_Wetqdq-tcNaRwreXwBVQnILTDFJpr8ajCQtgaBbiA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MLz5Dbiqrifrml8dfQ863FWvCaTkouu1_RuO7kRt9HpKiXaNpnt9ucXG674QB-cblu-9pw-ty6XwuoxfO0W2O6U2O6GjUT7LhQ8a_CmbY40-R5DlfhUNNLFqqF5RfpYpJ-0yuEhxjumcGHbt2qq6ROU93Dtk09d-T9oSWOWyMP5KmJikVAXBGs3EE4MzVtcp35zVEZmQ62qhIkxOkl8zsWmyaWlkAXAyW9DHTsh8ypPZYB-0WpkIXenc5_277vHMYaURddmBJpuw8tijNuUI6FDfTFURmQ5gQ1gs-K2e4huaqPOxq84W_-bBqRTS_GUTcNsorRKKnlv-AwI342tZjA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/rzcx0UFI5xxhODJ6Ji3BUd7DmKHV-a7sOEMxPyAKi5C2p2jLaXP4893Ycd_Dh7ui0ocTp-MaISyuhd93hGyVXfC4zboSV1oHNo_z9EY2ZfmDr-oFoKCG2G3_-4w8ZxhyfqeXwQO8XmXyM_zDq4nry7F88GMNAcrFLroYLuL2BAPvR7tphNOC4jun4HbdUrEt9LxlKv-jrPFRX-D5usuzbJ3mhUes-tSZRPlwfS_ejef6lx1GUsg6pvanZ_LH6cUrL04LVESk6erUbZsgH6IeFGQNO4wJpA4Z6ZiXI_6B94OIA3vzS-WgM1UgO7o3jQUVWWaJW3kvl7wYKf0y7rQBlQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791189672398,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 In photos: FM Araghchi welcomes Armenian counterpart in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BqiPHhYQQkpwYRRSxX28RDwdxMkeaSLOdCgm5VrZNK-LqIjYiBWRpaWQ0dE-VzdJoaMALujaRXXSsB8wr-bWgeDj79UtlUKeXyv40gok3hNhgV94P9e7bIHwOwSLd2yyRM9Vu5QBCqyChn98ozshLknf9GczwbtATMnL3V3YYlrEbTrKfzYFT7Lh5lmjgjWwquwriY41qq_hiVQ_UIiJ0H4e026YQ0utLEisNS6w1zF0UBZkT5_-okVP4uWC21dUD8m6T9HakZZzcLaQ65i97L_v_vHk1B9rUkBjMyyzSRAklk6rByiHIfnGRtGWj5uaFDBXL1yzERyjvggI-pPlRQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791189725597,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Foreign Minister Araghchi has welcomed his Armenian counterpart Ararat Mirzoyan her in Tehran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/56675123aa.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vqCwjyqvlb0ks0_W0YTWL1XlsUNgEC9-IkjU1tTSmK4y3zn7nU4BffV5L5tgGJDmgIcR5v2CuTpuTa3qRnQ5XwD58wQZyFRNH3X2qoFfFcPupINKOUjpwZ3KZWFgEFuKiB0R5vwtgWocG_PUWMYg__OXZgo3QNnTvfUl5KlEadp33wdI0osBdT8HdL0y5_X5dW_Cn6HfuBvsHvrhzPw6ZIyLY-5kxzf_KW542oQl6CyvSjlyo_1X-823Tf3z-IVyz3evRIxFItckDCJmJV6RPDpRwxQ3dFqjO_XCxAUJr-oPTiqeJeWjhz5iG4zokBc4DFMT2dpYlayUmIV_XAwNVQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/40337",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vqCwjyqvlb0ks0_W0YTWL1XlsUNgEC9-IkjU1tTSmK4y3zn7nU4BffV5L5tgGJDmgIcR5v2CuTpuTa3qRnQ5XwD58wQZyFRNH3X2qoFfFcPupINKOUjpwZ3KZWFgEFuKiB0R5vwtgWocG_PUWMYg__OXZgo3QNnTvfUl5KlEadp33wdI0osBdT8HdL0y5_X5dW_Cn6HfuBvsHvrhzPw6ZIyLY-5kxzf_KW542oQl6CyvSjlyo_1X-823Tf3z-IVyz3evRIxFItckDCJmJV6RPDpRwxQ3dFqjO_XCxAUJr-oPTiqeJeWjhz5iG4zokBc4DFMT2dpYlayUmIV_XAwNVQ"
+      }
+    ],
     "verified": false
   },
   {
