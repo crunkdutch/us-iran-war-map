@@ -137296,6 +137296,118 @@
     "media": []
   },
   {
+    "id": 482248683,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Ansarallah defense activity against PLCSaudi UAVs",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Ansarallah air defense activity against PLC/Saudi UAVs above 'Amran Governorate's Raydah district, northern Ansarallah-controlled Yemen.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/164c6be31a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/IoXQLCkPmepeBJ27ShIQfDyTmdcRyvFRlNpOcBPyBL_L2okfpii_WdkzYgOxa_gkpfRhleLI5C3b8I1VlbMOYTV26bI3o8dJ8dTrAYaPoT6FTOI91HDZptC3XOeQXPnBLCHWrAWUczuc2ptaOu3rVfxfUSwkUdf-oYl-UoOFTBo8FZKGZiMSuCm8zAiXbGZea_vIlooDULTioi9UCTX44bUc-VmYMSiE3uErHci2OYA8h2fMujY5tM2lhNXykiKNJyMtAZnPOadaxta8Xh_8jY0zqZxMJgscBn1p280T-vHW1CDWhql1l0cbut9KUaFy4PK-vcWApaflJzJ_btlAHw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62669",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/IoXQLCkPmepeBJ27ShIQfDyTmdcRyvFRlNpOcBPyBL_L2okfpii_WdkzYgOxa_gkpfRhleLI5C3b8I1VlbMOYTV26bI3o8dJ8dTrAYaPoT6FTOI91HDZptC3XOeQXPnBLCHWrAWUczuc2ptaOu3rVfxfUSwkUdf-oYl-UoOFTBo8FZKGZiMSuCm8zAiXbGZea_vIlooDULTioi9UCTX44bUc-VmYMSiE3uErHci2OYA8h2fMujY5tM2lhNXykiKNJyMtAZnPOadaxta8Xh_8jY0zqZxMJgscBn1p280T-vHW1CDWhql1l0cbut9KUaFy4PK-vcWApaflJzJ_btlAHw"
+      }
+    ]
+  },
+  {
+    "id": 482271204,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: media Eight Marines were injured weeks",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "U.S. media: Eight U.S. Marines were injured two weeks ago when an Iranian cruise missile struck a naval vessel operating in the Strait of Hormuz, according to three U.S. officials.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482274961,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Message from Eminence Ayatollah Sayyed Mojtaba",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Message from His Eminence Ayatollah Sayyed Mojtaba Khamenei (may Allah preserve him):In the Name of Allah, the Most Gracious, the Most Merciful“And Our Messenger Moses promised you that he would bring your people out of darkness into light and remind them of the Days of Allah.”The first days of the month of Mehr remind us of the Days of Allah and of the great and enduring phenomenon represented by the valiant defense waged by the Iranian people over eight years during the First Imposed War. In t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/inIuU1FIXlCAYandCpIQSmeBNKTglGUlhyblyWYnP-tE__nwzGu6za1NpAGuCDxnty07C3ynp6aa545rfNgs8k3x8dqp0ZLT3vElRz667SGtr-f4LyMWyipoIhEDjnCKWBPvpVaKBAEMefYuL6CSriyYsqppYtaEoEqNTAuHTuwhrQn-M_6cesK6gOIgoS1d2_JSFf1lHcbHwY39CVnB7FNPPZWLU9h_gk4g_vTRLETCMlMEEJ52sDHQ_5TYN9WBVmrxUrMwaonAtUduGmsqo_10WPnxNLsKxtpr7xGNm91lxBUTwtI9zGi9UiTWwzRKEp3Cjr-oD73DoayOOxb3UA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 481780304,
     "type": "naval",
     "status": "confirmed",
@@ -140207,6 +140319,115 @@
     "media": []
   },
   {
+    "id": 482252434,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-10-04",
+    "time": "TBD",
+    "title": "Ansar Allah Cyber Attack — Riyadh, Yemen, Saudi Arabia: Yemeni Ansarullah armed forces also targeted",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Ansarullah armed forces also targeted Pumping Station No. 2 of Saudi Arabia’s East-West oil pipeline, located east of Riyadh.Sentinel-3 satellite imagery reportedly shows a plume of black smoke approximately 50 kilometers long rising over the site of the incident on Sunday, October 4, 2026.Pumping Stations Nos. 8, 9, and 10 have previously been hit, while No. 7 was reportedly affected following a sophisticated systems-hacking attack.The East-West pipeline requires 13 pumping statio",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IYtJruqQfofcvDQLUDwoleDuZxfQvwbQmu62GzHYGkEGvDswW17_msbuARJqMKVbnYQB4YcAut2P-MjmuRNGb8qX9YjE2Gbnt3gPHeSfTfnYNz5kubPP8oF5qmPwnbmBzncEwWBT84B_9hhyu-KKu17Y8K8JbWwIoeswKJGPqs07-nmVGmAByFoqFB120qQH1ogkGkcvAP_cUPqPmPgOdeI71GKONIBYTdJAXjARK7DTFfuoLEU2L_lPG4y-mFWEM49atVg50kL0LsGCN4pqL8ZzDy5tVC3Vm4-C69toM9HpBjS1_Qev9cs96iEXVrPf7GCUE2eUf5hSIN1IMCdXgw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/d8vHWrsSdZF9DgnkxFtIVlnLew8sYv02fvTfsJCA4iZ8IMSI9ZlrlM3ltSXhMgxM6DW2Y1Lztv8bWNHg-MYN-kzK5aLt8mawxrFC5P74GTY6uSpgztZGVOeFCP4kqwj9ZRexwarWgyL8QXMqbtlkxFKYozcfZBB34IRQaaUrNRJ--4OxR6hKsFXVu3upy3ie1Z0SFehF21wsHpirbu7k_wdzZz16SqQb55c5lF50CdGXXVWsvtKfKr4mUVbWPbeVBSwjVgzqGRH0bJ8Nmx1j6-BrkkjRMrZWBbpKazbVFDg8KPBK09QBErvVbfYVLFPboqHsi-X87iMGQe0GOyng5A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MW8IvvkoJEksTlxUXLN-x36b2y9PGASAnuV4SDVpc7IitEgvygA81HEDrQ1Q2Sofhrpn3gmqWaPNuIFTxcD4U24ED5-pSOntpxYHGmJ56IuCF-XzXjvaJG8L4Awu3XtSFcgG3rBVUgP4ej9BIdQu5ETYWMfKmpgZY72taFOSGcFax57j_IMRvDr26E0r2JRlu7I80--iAvvu30IaUy8Kbnb-sscVUV1yrLpCmhJXOS90Va5FuwZfkkA5MHgD_PIqzmSFnzpyL6ICQg2ti2IfmqP4H34WMmYqw3jYA8iR-t6KiQGe8_nPlIUco4UoFauSTK3NUsIqa03X8Q3N6BS4jg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482278719,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-04",
+    "time": "TBD",
+    "title": "Ansar Allah Rocket Attack — Yemen: YemenHead National Negotiating Delegation Mohammad Abdulsala...",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenHead of the National Negotiating Delegation, Mohammad Abdulsalam: Following the 2015 aggression and the resounding failure suffered by the Saudi regime, it has once again officially announced an escalation of its aggression and blockade. After failed attempts to keep the state of aggression and blockade in place while continuing to control all the details from behind the scenes, it now emerges, under the weight of the defeats suffered by its forces gathered in the field, to take the forefr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482282478,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-04",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: YemenHead Supreme Political Council Mahdi AlMashat",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenHead of the Supreme Political Council Mahdi Al-Mashat: Our equations will continue until achieving their objectives, namely ending the Saudi aggression and unjust blockade against our country.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482226198,
     "type": "naval",
     "status": "confirmed",
@@ -140306,6 +140527,161 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 482256186,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Scenes targeting enemy",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces: Scenes of targeting enemy Saudi mercenary troop concentrations in Ras Al-Ara with a number of locally manufactured ballistic missiles - October 5, 2026.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8910a1f480.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/VH3STaTNeXwj_Txk3T6sHTZw3_gw2SbDFPPofyGFU_TmcBG4vJshZ0Azs7zoJ3EBCAoFQklqMkPeDcb6nQdHfPfSBgLeF185TXH8TYPNNpjE0K5nKucRntlKlGS8Oj9jccYa09rqW4Qwyf2sc0kDAu14gZpPPzk1hWe0xxnv2dH_uE2Q5JplOVpInoiuLp3RjGPpQ0LTzVPkL9jwrcoPoAFtu9vpfRsyUq6Q761Vyi4O6uZHA6FN6mg57t4EVUpYmke0-faz5qWYmx7Epkl2HNQ4qAsRy1DeLIfXx0xhmNyTRnwtgUb-p_sJzzqLRnl0G57sPlwJHnB0gt98IV3N1g"
+      },
+      {
+        "url": "https://t.me/enemywatch/62919",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/VH3STaTNeXwj_Txk3T6sHTZw3_gw2SbDFPPofyGFU_TmcBG4vJshZ0Azs7zoJ3EBCAoFQklqMkPeDcb6nQdHfPfSBgLeF185TXH8TYPNNpjE0K5nKucRntlKlGS8Oj9jccYa09rqW4Qwyf2sc0kDAu14gZpPPzk1hWe0xxnv2dH_uE2Q5JplOVpInoiuLp3RjGPpQ0LTzVPkL9jwrcoPoAFtu9vpfRsyUq6Q761Vyi4O6uZHA6FN6mg57t4EVUpYmke0-faz5qWYmx7Epkl2HNQ4qAsRy1DeLIfXx0xhmNyTRnwtgUb-p_sJzzqLRnl0G57sPlwJHnB0gt98IV3N1g"
+      }
+    ]
+  },
+  {
+    "id": 482259939,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Riyadh, Saudi Arabia: satellite images indicate massive fire near",
+    "location": "Riyadh, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | New satellite images indicate a massive fire near Pumping Station No. 2 of Saudi Arabia’s East-West Strategic Pipeline, east of Riyadh. The smoke from the fire reportedly extended approximately 50 kilometers.The pipeline was targeted in September, and according to The New York Times, it had been operational again for less than a week. Several pumping stations along the pipeline have been damaged in previous attacks.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b5b104eb2a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/JMKYw5JdfLeNX-t4d85wHfH0HGXfYEtPILmkf6i12_Qvm8MCfe8t8MlV06sMY2lxPhNbkP7-ptY3kigjqpSOShJB4EABGprUb5wzKIxE3L5qdrXBwud6HD5jgpb34mKUrnabBmGnK5y_ukEJnWNOlIATjcH_DSm_Wr9cNybuEgD21PjKYQACC3tKUCiyFQTsVjuCnb3zf9j9YeQUWwsCXJU_xsw25itJEvaPC9vQotbBcosqgPO6ZzOY_n4B8XKqx4r0L7JBWPMXyNHZeqQmjCgrBe6kwI-La2G8MIaL5UW4n4HZcUlNtQmldziElAG51MdEYUfiChiXQiiXKFKWIA"
+      },
+      {
+        "url": "https://t.me/enemywatch/62920",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/JMKYw5JdfLeNX-t4d85wHfH0HGXfYEtPILmkf6i12_Qvm8MCfe8t8MlV06sMY2lxPhNbkP7-ptY3kigjqpSOShJB4EABGprUb5wzKIxE3L5qdrXBwud6HD5jgpb34mKUrnabBmGnK5y_ukEJnWNOlIATjcH_DSm_Wr9cNybuEgD21PjKYQACC3tKUCiyFQTsVjuCnb3zf9j9YeQUWwsCXJU_xsw25itJEvaPC9vQotbBcosqgPO6ZzOY_n4B8XKqx4r0L7JBWPMXyNHZeqQmjCgrBe6kwI-La2G8MIaL5UW4n4HZcUlNtQmldziElAG51MdEYUfiChiXQiiXKFKWIA"
+      }
+    ]
+  },
+  {
+    "id": 482263693,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia: Fires have broken along Saudi Arabias",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | Fires have broken out along Saudi Arabia’s East-West oil pipeline.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/PhujzK3LsKZRRqFdQ5SO7fG8J47iJoLvVgXgO9DXBqc1jgQXgVb2pbQQHgcRXSX8bPuTKD1gUyvHvCx6syP4CkZs8Ng9uahetS2zNnKUyyjbdBE67Ev3AAqCD-zej_wLFPDXTOPNy_gMFhz_yz4BBqeI-iu55MZZaakQp1GznSRPojz2ie1gbIVYK5g1sd5Ucii7PQ2EkvntS3rjrkias7QyO_FtfCnGFPe-nyq_9oEsVroUtrNqYsaqZKjzrMfXIxSG7gqvEUBi2gPB2rWRAp1LYX7utqOkFm7I-TsyuZZCi8DORERpfUmiSwnFblxM5dizKDAdkqrMQWyuLLBDQw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482267448,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Fars, Sanaa, Aden: Regional developments October 2026 Yemen Yemeni",
+    "location": "Fars, Sanaa, Aden, Bab al-Mandab, Yemen",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 5, 2026🇾🇪 Yemen— Yemeni forces entered Al-Turbah and cut the last supply route to Saudi-backed forces in Taiz.— Southern Giants’ Brigades forces launched counterattacks against AnsarAllah positions in Dhubab District in southwestern Yemen, while pro-Emirates forces attacked recently captured Yemeni Army positions along the coast in an effort to retake them.— A military source in the Yemeni Armed Forces told Saba News Agency: “By the grace of God, enemy Saud",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
