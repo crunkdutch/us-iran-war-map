@@ -140271,6 +140271,43 @@
     "media": []
   },
   {
+    "id": 482244933,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel: Irans Armed Forces chief warns would",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iran’s Armed Forces chief warns new war would spread across region📌 Tehran, IRNA – Chief of Staff of Iran's Armed Forces Major General Ali Abdollahi has warned that any new act of aggression against Iran would have consequences for countries hosting US forces in the West Asia region, saying continued American military presence was the main source of insecurity and economic problems.In a message on Monday, Abdollahi said reports indicated efforts to use the propaganda campaign that Iran is se",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BqiPHhYQQkpwYRRSxX28RDwdxMkeaSLOdCgm5VrZNK-LqIjYiBWRpaWQ0dE-VzdJoaMALujaRXXSsB8wr-bWgeDj79UtlUKeXyv40gok3hNhgV94P9e7bIHwOwSLd2yyRM9Vu5QBCqyChn98ozshLknf9GczwbtATMnL3V3YYlrEbTrKfzYFT7Lh5lmjgjWwquwriY41qq_hiVQ_UIiJ0H4e026YQ0utLEisNS6w1zF0UBZkT5_-okVP4uWC21dUD8m6T9HakZZzcLaQ65i97L_v_vHk1B9rUkBjMyyzSRAklk6rByiHIfnGRtGWj5uaFDBXL1yzERyjvggI-pPlRQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
