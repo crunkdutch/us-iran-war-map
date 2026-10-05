@@ -190773,6 +190773,41 @@
     "verified": false
   },
   {
+    "id": 1791233021842,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Israel, Pakistan, and Turkey collectively want to launch aggression against Yemen.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791233008135,
+    "type": "airstrike",
+    "location": "Jeddah",
+    "coordinates": [
+      21.5433,
+      39.1728
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | With Aramco Jeddah, Yemeni forces attacked the Rabigh refinery; a column of smoke stretched 61 kilometers.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/MPuNAvD9cgm9BVZKCvfrEA-GsZvVnw7oYk5GpZCdp2qk3-niN6AYbqM8X7qg3yWBUl6jlfGvHyPkN9lQgKHQvTByTEkA1oqTOilc9eCmvpsjFyMiCsihhvYXAWL0KLYIabulUEbprC9qmduTnY2h0nIgh9m4s5zOMjZEdUFgnqcTF9ESkhvJQdNgC3uq7aNvHoZd6nzZB2un8imjz7ORoW1z6Q7S114XUDMNlHCle1_m2ZaGx4BkI0Hi0EyyQZkqlGVu-gVvvYUneQSVsIdFmX2w7wmHZlyHtTEuEiWnVH7etqcjf6VwKaDN8EnBhPgSmHNL5Cp7a8-9sagtXEe9Rg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

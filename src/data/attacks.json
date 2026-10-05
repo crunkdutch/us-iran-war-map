@@ -140785,6 +140785,43 @@
     "media": []
   },
   {
+    "id": 482297524,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Jeddah, Yemen: With Aramco Jeddah Yemeni forces attacked",
+    "location": "Jeddah, Yemen",
+    "coordinates": [
+      21.5433,
+      39.1728
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | With Aramco Jeddah, Yemeni forces attacked the Rabigh refinery; a column of smoke stretched 61 kilometers.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/MPuNAvD9cgm9BVZKCvfrEA-GsZvVnw7oYk5GpZCdp2qk3-niN6AYbqM8X7qg3yWBUl6jlfGvHyPkN9lQgKHQvTByTEkA1oqTOilc9eCmvpsjFyMiCsihhvYXAWL0KLYIabulUEbprC9qmduTnY2h0nIgh9m4s5zOMjZEdUFgnqcTF9ESkhvJQdNgC3uq7aNvHoZd6nzZB2un8imjz7ORoW1z6Q7S114XUDMNlHCle1_m2ZaGx4BkI0Hi0EyyQZkqlGVu-gVvvYUneQSVsIdFmX2w7wmHZlyHtTEuEiWnVH7etqcjf6VwKaDN8EnBhPgSmHNL5Cp7a8-9sagtXEe9Rg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
