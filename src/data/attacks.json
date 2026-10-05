@@ -140175,6 +140175,38 @@
     "media": []
   },
   {
+    "id": 482241184,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-04",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Israel: Enemy_MediaIsrael Hayom Hebrew newspaper Lilach Shoval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: The “Israeli” army is preparing to act – whether preemptively or in response to the possibility that Iran may fire on “Israel” if it believes that doing so could enable it to escape the blockade. The possibility of the “Israeli” or US taking action before the midterm elections is not high, but it should be remembered that the Iranians do not act in a manner that serves Trump’s interests.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482226198,
     "type": "naval",
     "status": "confirmed",

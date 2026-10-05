@@ -189712,6 +189712,36 @@
     "verified": false
   },
   {
+    "id": 1791182450851,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-04",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾 🏴 | Breaking — A Syrian citizen was martyred after being shot by Israeli occupation forces in the Quneitra countryside after reportedly approaching an Israeli military site in the so-called “security zone” in southern Syria, according to claims by the Israeli military.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791182466013,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-04",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: The “Israeli” army is preparing to act – whether preemptively or in response to the possibility that Iran may fire on “Israel” if it believes that doing so could enable it to escape the blockade. The possibility of the “Israeli” or US taki...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791175231840,
     "type": "cyber",
     "location": "Sanaa",
