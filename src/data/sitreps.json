@@ -191079,6 +191079,66 @@
     "verified": false
   },
   {
+    "id": 1791283545275,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪|According to Yemeni military sources and various media reports, Ansar Allah (the Houthi movement) has discovered a large number of passports belonging to foreign combatants in liberated areas, confirming a direct link between the Saudi-led coalition and terrorist organizations such as ISIS.Pass...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791283577846,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:The Yemeni Armed Forces carried out a targeting operation against Abha International Airport with a ballistic missile, and the strike was precise and direct, thanks to Allah, leading to the disruption of air traffic at the airport.We renew our warning to all international ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791283613713,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:• The Yemeni Armed Forces, by the grace of Allah, targeted Saudi enemy mobilizations at Al-Dagharir Camp in Jizan with several ballistic missiles. The strikes were accurate and direct, by the grace of Allah, resulting in dozens of killed and wounded among them. Ambulances ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791283610258,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Minister of Justice lauds Iran’s police performance during imposed wars📌 Tehran, IRNA — Minister of Justice Amin Hossein Rahimi has praised the performance of the police during the recently imposed wars against Iran.The American and Zionist enemy, contrary to all international laws, attacked pol...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

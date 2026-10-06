@@ -62359,6 +62359,38 @@
     ]
   },
   {
+    "id": 482335209,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-07-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Strait of Hormuz, Lebanon: Araghchi holds talks with special coordinator",
+    "location": "Tehran, Strait of Hormuz, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Araghchi holds talks with UN special coordinator for Lebanon📌 Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi has held talks with Jean Arnault, the United Nations Special Coordinator for Lebanon.The two sides met in Tehran on Tuesday, discussing the latest developments in Lebanon and the region, according to a post shared on the Telegram page of the Iranian Foreign Ministry spokesperson.​The post did not provide details about the discussions between Araghchi and Arnault.​They last tim",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 53,
     "type": "missile",
     "title": "Iranian Ballistic Missile Strike on Erbil",
@@ -141072,6 +141104,102 @@
       "other": 0
     },
     "description": "🟡 Regional developments | October 6, 2026🇾🇪 Yemen ❌ Saudi Arabia — Yemeni forces repelled Saudi-backed forces from several areas on the western coast of Yemen. The Yemeni Armed Forces also took control of the Al-Haql area near Jabal Habashi, west of Taiz.— A Yemeni military source said the Yemeni Armed Forces targeted Saudi military gatherings between Ras Al-Arah and Al-Suqiya with more than 20 missile and drone strikes during the day. Dozens were reportedly killed or wounded, and several veh",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482327664,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Syria, Yemen: According Yemeni military sources various media",
+    "location": "Riyadh, Syria, Yemen, Kuwait, Qatar, Saudi Arabia, Iraq, Turkey",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪|According to Yemeni military sources and various media reports, Ansar Allah (the Houthi movement) has discovered a large number of passports belonging to foreign combatants in liberated areas, confirming a direct link between the Saudi-led coalition and terrorist organizations such as ISIS.Passports of Foreign Terrorists Found in Liberated Yemeni Areas: Saudi Coalition’s \"International Legion\" ExposedAnsar Allah (the Houthi movement) has discovered dozens of passports belonging to ISIS memb",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482331436,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed ForcesThe Yemeni Armed Forces",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:The Yemeni Armed Forces carried out a targeting operation against Abha International Airport with a ballistic missile, and the strike was precise and direct, thanks to Allah, leading to the disruption of air traffic at the airport.We renew our warning to all international airline companies of the consequences of continuing to operate flights in Saudi airspace, as it has become a theater for our military operations, with the exception of the airspace of the holy sites i",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482338983,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Gilan: Minister Justice lauds Irans police performance",
+    "location": "Tehran, Gilan",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Minister of Justice lauds Iran’s police performance during imposed wars📌 Tehran, IRNA — Minister of Justice Amin Hossein Rahimi has praised the performance of the police during the recently imposed wars against Iran.The American and Zionist enemy, contrary to all international laws, attacked police headquarters, which, according to the rules, constitutes a war crime, because the police serve to maintain order and security for the people, and police headquarters are different from military in",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
