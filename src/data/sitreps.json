@@ -190808,6 +190808,51 @@
     "verified": false
   },
   {
+    "id": 1791254744587,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-05",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Statement issued by the Yemeni Armed Forces:In the Name of Allah, the Most Compassionate, the Most MercifulAllah the Almighty says: “So whoever transgresses against you, then transgress against him in the same manner that he transgressed against you.” Allah the Almighty has spoken the truth.A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791254654440,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | October 6, 2026🇾🇪 Yemen ❌ Saudi Arabia — Yemeni forces repelled Saudi-backed forces from several areas on the western coast of Yemen. The Yemeni Armed Forces also took control of the Al-Haql area near Jabal Habashi, west of Taiz.— A Yemeni military source said the Yemeni...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791254700755,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | October 6, 2026 🇾🇪 Yemen ❌ Saudi Arabia — Yemeni forces repelled Saudi-backed forces from several areas on the western coast of Yemen. The Yemeni Armed Forces also took control of the Al-Haql area near Jabal Habashi, west of Taiz.…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
