@@ -50974,6 +50974,30 @@
     "verified": false
   },
   {
+    "id": 1791261949633,
+    "type": "intercept",
+    "location": "Prince Sultan Air Base",
+    "coordinates": [
+      24.0767,
+      47.58
+    ],
+    "date": "2026-06-12",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Google satellite imagery dated June 12, 2026 (June 22, 1405) shows one of the US Army’s air defense sites at Prince Sultan Air Base in Saudi Arabia.At least 10 Patriot (MIM-104) system launchers can be identified at the site. Of these 10 launchers, eight appear to be oriented toward Iran a...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IjHMbYX-2ZldK5bymKnGeMfEM5lQoaxPjOivU5DUY6ALGDmjZlw0tqfJrz0LvFiZlO5mDGXI_bwq7xn8XUVdAuQPe1adeJSkZCItG1KQNNEG64AOV4MK0BvQ7lT9-slxs4ZaBkMe2iz0lX8tbqPofUCEoBLxS6dHeHSBSQus_08PxIvyentKsfvW_abRwwUjnhoc1Ecn4jdbbASkWy10yY9BmxDRJgq-HRz2gv2f7CHNh4HTCp8jow4e9eDwwP-uUhSKteuvLXnyGpeS1F8ArUKt_DUMppJ3slLF6skXpsQEl5dE602_5zcu1GsJn0W6QrKaQLLTI17ml4PkZrb9Jw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/PraWddTtxGgPokol9pOlFY0pyjAQdVC_G5-cNcwonQNjj01OU8x09JH5CWxPxLNutyC_SGc9KhY3v7DhmwSSpdbeJ3CLfLXpUQg-PNRlOwX1VEUBIl1PQjYAvqgrncOpwFN6bvF4k4_axuWg7PA2vVAX8OCRcal-LaLsTUouxZnJoxOJxNyZUfhMhdt8qPyR8GQZ1JWQ7a3AEbVv2vjGevl2hDb8gx9ZfoKxzjtZxJy83KbEYcF2aLzMwV5KDZOyMY9xdDV-SO-LzN7HFWcLpwCdcPvF9SdHb2M7ouO-domRxTedT68h2s0OqWonwjGlePblAgIDqBDAan0U0-qCPA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1784999971164,
     "type": "airstrike",
     "location": "Tehran",
@@ -190819,6 +190843,51 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 | Statement issued by the Yemeni Armed Forces:In the Name of Allah, the Most Compassionate, the Most MercifulAllah the Almighty says: “So whoever transgresses against you, then transgress against him in the same manner that he transgressed against you.” Allah the Almighty has spoken the truth.A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791261893448,
+    "type": "missile",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 ❌ 🇾🇪 | Saudi aggression targeted Kamaran Island and Al-Salif District in Hudaydah, while Saudi aggression also targeted the Yemeni capital, Sanaa. Saudi aggression targeted Saada Governorate in northern Yemen, including Sahar and surrounding areas, while Saudi missile bombardment also targete...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791261871424,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇱 ❌ 🇱🇧 | On October 5, israeli warplanes carried out raids on Wadi al-Hujeir, Kfar Tibnit, Wadi al-Saluqi and the outskirts of Ayta ash-Shab. israeli artillery shelling targeted Wadi al-Saluqi, Al Mansouri, Hadatha-Haris, Nabatieh al-Fawqa, Majdal Zoun, the outskirts of Baraashit, Beit Yahoun, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791261962512,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Intensified artillery and rocket exchanges along the Yemeni-Saudi border in Saada Governorate.🔻@enemywatch",
     "media": [],
     "verified": false
   },
