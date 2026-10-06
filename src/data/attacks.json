@@ -141205,6 +141205,70 @@
     "media": []
   },
   {
+    "id": 482342758,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Strait of Hormuz, Yemen: Regional developments October 2026 Yemen Yemeni",
+    "location": "Sanaa, Strait of Hormuz, Yemen, Saudi Arabia",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | October 6, 2026🇾🇪 Yemen— The Yemeni Armed Forces carried out dozens of strikes during the past hours targeting gatherings of the Saudi enemy east of Al-Jawf Governorate, resulting in a large number of dead and wounded and the burning of several vehicles. Yemeni forces also targeted gatherings of the Saudi enemy east of Ragwan in Marib Governorate, resulting in a large number of dead and wounded and the burning of several vehicles.— Brigadier General Abdul Ghani Al-Zu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482346534,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Shiraz, Minab, Fars: Minister crimes Lamerd Minab proves Iranian",
+    "location": "Shiraz, Minab, Fars, Israel",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Minister: US crimes in Lamerd, Minab proves Iranian nation was oppressed📌 Shiraz, IRNA – Iran’s minister of education says the crimes committed in Lamerd and Minab by the US and Israeli terrorist armies stand as testaments to the Iranian nation’s suffering and its rightful cause.Alireza Kazemi&nbsp;made the remarks during his visit to Lamerd, Fars Province.​He characterized the atrocities in Lamerd and Minab as a profound scar upon the fabric of history, stressing the imperative of conveying",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

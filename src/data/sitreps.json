@@ -191049,6 +191049,51 @@
     "verified": false
   },
   {
+    "id": 1791290791292,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-05",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenStatement issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Compassionate, the Most MercifulAllah Almighty says: {So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.} Allah Almighty is Truthful As part of the respons...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791290781646,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenOur Armed Forces, by the grace of Allah, succeeded in targeting the Saudi enemy’s forces gathered at Al-Dagharir Camp in Jizan with a number of ballistic missiles. The strikes were precise and direct, by the grace of Allah, leaving dozens of dead and wounded among them, while ambulances rushed...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791290818066,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-05",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenThe Yemeni Armed Forces carried out an operation targeting Abha International Airport with a ballistic missile. The strike was precise and direct, by the grace of Allah, and resulted in the disruption of air traffic at the airport.We renew our warning to all international airlines against the ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791254654440,
     "type": "drone",
     "location": "Aden",
@@ -191136,6 +191181,114 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔻 Minister of Justice lauds Iran’s police performance during imposed wars📌 Tehran, IRNA — Minister of Justice Amin Hossein Rahimi has praised the performance of the police during the recently imposed wars against Iran.The American and Zionist enemy, contrary to all international laws, attacked pol...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791290832384,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | October 6, 2026🇾🇪 Yemen— Saudi aggression killed six members of one family and injured a six-year-old girl in the village of Umm Al-Dahi in Haradh District. The martyrs were the father, mother and four of their children. The children killed in the Saudi enemy’s attack we...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791290769147,
+    "type": "missile",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-06",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | October 6, 2026🇾🇪 Yemen— The Yemeni Armed Forces carried out dozens of strikes during the past hours targeting gatherings of the Saudi enemy east of Al-Jawf Governorate, resulting in a large number of dead and wounded and the burning of several vehicles. Yemeni forces al...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791290831863,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Pezzeshkian: European perceptions of Iran do not reflect reality📌 Tehran, IRNA – President Masoud Pezeshkian says perceptions of Iran held by some European countries do not accurately reflect the realities of the Islamic Republic, urging the new Danish ambassador to help present a more realistic...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791290762378,
+    "type": "airstrike",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Minister: US crimes in Lamerd, Minab proves Iranian nation was oppressed📌 Shiraz, IRNA – Iran’s minister of education says the crimes committed in Lamerd and Minab by the US and Israeli terrorist armies stand as testaments to the Iranian nation’s suffering and its rightful cause.Alireza Kazemi&n...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791290803601,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-06",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 IRGC fully dismantles a terrorist team in southeastern Iran📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) identified and completely dismantled a terrorist team involved in the assassination of two Sunni clerics in Sistan and Baluchestan province.In a statement released on Tuesday, t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791290790385,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Jean Arnault, the UN Special Coordinator for Lebanon, met with Foreign Minister Seyed Abbas Araghchi.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qUvhVyLse0W-QHVxQYuFikAJKfF83YOm1rbpRmofttIscVv0DBRDVTTruC67SSLJqiQ6SBHtXyglVnE2ueTZlF25nbFDA6AQjjQlqSi6rpG8g0Oa2NVYpzI_8gFDE7p_HJS3pEozasxpPPftTOwM6yK__jZ4llwJn09WT1zUeTEqm7yHVQBTNMfo8iX5GnAZJW1tLbo57jc0g25cFa82PtJtNNijHfLxjuKaFGZeCfOFxlYPkS29pvEs8LR_tlYuJnaCOSdAOczWONXRvvRcj0kp-fB4KXGu4XldCCUzPd8L_HY0dPUGq2X78f44eK4p5jcxxGDu1RJiagSAwDK0VA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/gTf2rMqgVzvf3X2K6J0L7ebBVxlrl-PDhyg8TC7MdVazrmd_XFYvfeIQWDXcWWvD8z8kZ9ARX1ggG_wNR1mSdgRss5aCcjqjcVppMuWFYG39WFG0IZtF0tVLosSIYCkix6b7wrCti7fiDN-uww4P9jOLB4t8-8hlr7OdvoktD5aVwyHwao52zZpDynTL4QmfLcDYLUqkgsLvyJO5t4f0AEWcsVszNDydQpNwfQYeWaIyewawLNOTJ1GGl5yN0RXpCh-QCpCD02df5M7kn16FvoZkhNH12xvg9krxRfomfzYU-7IzGJRy2DJwSE-GuRDOfhhcOricMmh5ejbeM5NA0Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RxP-GxFSeLE5OBNHewJ4clrEM4tq3y8ebvm6VfBflaMzXB8UrU6IqLuth5cKtqvA78E4st8lgSxn_08T0KUqK24Z7KmDjQOP-V7ZHz1b3lyVVQf83zin1229XmbyUrRipAYmw6mYMtjX4gt_-clktZr-VgwhentWSD1qmkolWFAUh71w5n6UwS1JAB5YI67fBiI4qWeqD7srF56Cz08e6smZTbUyN8j3O9ajYdcdBO_CfHR0X7vPM1Kj3VuNwvaGgoPjl2QQM9QKq-bycd51Oyr6HYP0CwGoiYGLAiBMQyXAf3ftyiR90B6BCipEgE0P7GzLZuvtX1hz-_XhyyFZIA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://t.me/Irna_en/40391?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ROSUmD2l6LFR21UguPPhgONBFdysNmKbJ9Vb8rOQVQDWtvj8z1DVx6LPNPTB5sTDOf4GK2lcdACNoOMn2dCxOA-jcNMWN57uZ0s0hqLBxiwmUEuzuf7ha0YAjFpaMZmTCQYEpdsHGsgzAji8yZ2C2LTZUMvwe0f82Sv9kP4LljK5LmnxbrTnzJgTwAf19ffyWRGpbD9rqb2MWnvgLGsz9v4sbcEo-mPEc_JozH3Ij3fIM5tghScF6Uy3Mccg_B5vYahOZdR73HYwhIouhoXCjgWt2niVdaAhUACxy9I0F1V6mwRPwcblSBVGVY8Cg8jS8_RULvGC1mNvyrtx5UYhVg"
+      }
+    ],
     "verified": false
   },
   {
