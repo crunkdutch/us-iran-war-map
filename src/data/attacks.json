@@ -141077,6 +141077,38 @@
     ]
   },
   {
+    "id": 482354089,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Egypt Airstrike — Lebanon, Syria, Jordan: Name Allah Most Gracious Most MercifulStatement",
+    "location": "Lebanon, Syria, Jordan, West Bank, Egypt",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulStatement issued by the Palestinian Islamic Jihad MovementOn the occasion of the 39th anniversary of the Jihadist founding and the third anniversary of the “Al-Aqsa Flood” BattleO great Palestinian people everywhere,O sons and daughters of our Arab and Islamic Ummah and free people of the world,The 39th anniversary of the founding of the Palestinian Islamic Jihad Movement coincides with the third anniversary of the glorious “Al-Aqsa Flood",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482305053,
     "type": "drone",
     "status": "confirmed",
@@ -141138,7 +141170,18 @@
     "description": "🇾🇪|According to Yemeni military sources and various media reports, Ansar Allah (the Houthi movement) has discovered a large number of passports belonging to foreign combatants in liberated areas, confirming a direct link between the Saudi-led coalition and terrorist organizations such as ISIS.Passports of Foreign Terrorists Found in Liberated Yemeni Areas: Saudi Coalition’s \"International Legion\" ExposedAnsar Allah (the Houthi movement) has discovered dozens of passports belonging to ISIS memb",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/979316d648.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/b-sFiybkp9ocHPP352OE_EizWoPrymYInrDltNXMCk3WV24RqCdugaGcEhffPYZb7DJFwsoNY5DR1n5JlMhabxWWAsK_6cMkbju8ip-Ledm60UHh5b6XrixZFmcoR3S90SPgpDusnXkpagK4djYweNiicus8PVp__UjCgHgyEqeoiZeWP1i9dqKKEz2yT9hygs7ojwd6lCJetU1A23vASKn5NYSE8q4eGKhsvXe3gkZu0_JBnQlAdhERfMc43ktUPwmODQJGNHyXCp9nAmw-cv61DeA_YGE_tkmQ-krBbLE1QNvwYGZSXQaORKAEtpNo4Ki9oRrmQIvnh5kobsup5Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62969",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/b-sFiybkp9ocHPP352OE_EizWoPrymYInrDltNXMCk3WV24RqCdugaGcEhffPYZb7DJFwsoNY5DR1n5JlMhabxWWAsK_6cMkbju8ip-Ledm60UHh5b6XrixZFmcoR3S90SPgpDusnXkpagK4djYweNiicus8PVp__UjCgHgyEqeoiZeWP1i9dqKKEz2yT9hygs7ojwd6lCJetU1A23vASKn5NYSE8q4eGKhsvXe3gkZu0_JBnQlAdhERfMc43ktUPwmODQJGNHyXCp9nAmw-cv61DeA_YGE_tkmQ-krBbLE1QNvwYGZSXQaORKAEtpNo4Ki9oRrmQIvnh5kobsup5Q"
+      }
+    ]
   },
   {
     "id": 482331436,
@@ -141264,6 +141307,70 @@
       "other": 0
     },
     "description": "⚡️ Minister: US crimes in Lamerd, Minab proves Iranian nation was oppressed📌 Shiraz, IRNA – Iran’s minister of education says the crimes committed in Lamerd and Minab by the US and Israeli terrorist armies stand as testaments to the Iranian nation’s suffering and its rightful cause.Alireza Kazemi&nbsp;made the remarks during his visit to Lamerd, Fars Province.​He characterized the atrocities in Lamerd and Minab as a profound scar upon the fabric of history, stressing the imperative of conveying",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482350311,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "Ansar Allah Rocket Attack — Bab al-Mandab, Lebanon, Yemen: Regional developments October 2026 Yemen Saudi",
+    "location": "Bab al-Mandab, Lebanon, Yemen, Saudi Arabia, Qusayr",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | October 6, 2026🇾🇪 Yemen— Saudi airstrikes targeted the Al-Omari area and Bab Al-Mandab in Dhubab District, west of Taiz Governorate, with six strikes, while three Saudi airstrikes targeted Hayfan District.— Saudi Arabia confirmed that King Abdullah bin Abdulaziz International Airport in Jizan and Najran International Airport were targeted on Monday evening. Saudi authorities said three people were lightly injured and material damage was caused to the airport faciliti",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482357868,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Lebanon, Syria, Yemen: Third affirm necessity obliging enemy halt",
+    "location": "Lebanon, Syria, Yemen, Israel, West Bank, Gaza Strip",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Third: We affirm the necessity of obliging the enemy to halt its violations in the Gaza Strip, foremost among them ending assassination operations and the perpetration of further massacres. We hold the mediators responsible for obliging the enemy to permanently halt the aggression against our people, fully withdraw the occupation from the Strip, expedite the entry of relief supplies and aid, lift the unjust blockade on the Strip and its people, and launch the reconstruction process.Fourth: We wa",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
