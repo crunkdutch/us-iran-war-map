@@ -191588,6 +191588,51 @@
     "verified": false
   },
   {
+    "id": 1791319658703,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Explosion heard in the Strait of Hormuz off the coast of Sirik, Iran.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791319707142,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷⚓️⚔🇺🇸🏴‍☠ Again&#33; A missile launch towards the Strait of Hormuz. It is the sixt launch in two hours. @stayfreeworld",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791319663256,
+    "type": "missile",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-10-06",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Navy anti-ship cruise missile launches from Sirik, Iran.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
