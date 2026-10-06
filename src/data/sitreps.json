@@ -190892,6 +190892,77 @@
     "verified": false
   },
   {
+    "id": 1791269174863,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-05",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:The Armed Forces confirm the death and injury of more than 200 of the Saudi enemy's mobilizations during the past hours, through dozens of strikes carried out by our forces on their movements in Ras Al-Arah and Al-Suqya.The losses among the ranks of the Saudi enemy's mobil...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791269152206,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Turks and Pakistanis are brazenly joining the Saudi accords to attack Yemen, openly exposing their true colors. There is absolutely no justification for this, and those Pakistani Twitter armchair commentators who are scrambling to protect themselves from it while desperately trying to justify thei...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791269168280,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni missiles target an oil field in Riyadh, Saudi Arabia.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3288f3052e.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/koLZp_I2KlnvBg9cHrHdxiDGxBuiowBZtucNeXzbcXNsfCPEwf3qcU_E_Fcqdyu6s7xMelpR_r29iTCXc1NlirIrjxSK6Xppe3lxcJLQkon8KyyL3JtnnkACg4eb6-M-gJiEh5V2Ka_Jp4-zJ1XV6m1o30GKfEg2lUIk4tFG10o1ZpiOo6-svIdDt1B9S75cbAzf7EWX9sxNJw75qASVEinf2oSD6Bq0nP1wYBNbyu1s-Yjx4I8xpsN22UgmDsTtHj-3DHCypYaKQzCr6-iLqjbAjlNpP3cJXV2zAf3ZFmbaI-npdlKWlboL4G8J78hjcJh_i1tb-4lOHsZNpglFOw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62962",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/koLZp_I2KlnvBg9cHrHdxiDGxBuiowBZtucNeXzbcXNsfCPEwf3qcU_E_Fcqdyu6s7xMelpR_r29iTCXc1NlirIrjxSK6Xppe3lxcJLQkon8KyyL3JtnnkACg4eb6-M-gJiEh5V2Ka_Jp4-zJ1XV6m1o30GKfEg2lUIk4tFG10o1ZpiOo6-svIdDt1B9S75cbAzf7EWX9sxNJw75qASVEinf2oSD6Bq0nP1wYBNbyu1s-Yjx4I8xpsN22UgmDsTtHj-3DHCypYaKQzCr6-iLqjbAjlNpP3cJXV2zAf3ZFmbaI-npdlKWlboL4G8J78hjcJh_i1tb-4lOHsZNpglFOw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791269179373,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iran warns Bahrain, regional states against hosting attacks📌 New York, IRNA – Tehran has warned Bahrain and other regional states against allowing their territory or airspace to be used in attacks on Iran, stressing that it will respond if they allow such attacks again.Ali Karimi Magham,&nbsp;Se...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791254654440,
     "type": "drone",
     "location": "Aden",

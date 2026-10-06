@@ -140959,6 +140959,92 @@
     "media": []
   },
   {
+    "id": 482320123,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni Armed ForcesThe Armed Forces confirm",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:The Armed Forces confirm the death and injury of more than 200 of the Saudi enemy's mobilizations during the past hours, through dozens of strikes carried out by our forces on their movements in Ras Al-Arah and Al-Suqya.The losses among the ranks of the Saudi enemy's mobilizations are unprecedented throughout all previous confrontations in both personnel and vehicles.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/439e373fa1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/vk4_lVXdbkgU_j0SWXD9gJhmY5lnSX0S1owxnjhw4wdHwvyUGT_cgYUb4D8nuUirLGTYMlFYXMkp8MXsKfAHrj7NueVNaS12pdPw1DbV1sZBKgS1rnSzpw4MMVTog_VXthrP8M-MHgjGBL0MiBSQrcOzELzuCjOSUJEEYOWseawLKq9lrjOCi-L184YCb3KOS69vR6a9kn48vHxCsHLFz39j4r-TObT-6BSA-ZINyk5NUdF31sz44p3MyavmPA94uGeFbkVJZ7tAc5GUNqkf6hHepEam4tan2cvgOdaTzN6uVu37ytEDBaGEQKbVNWOi9-UgoNuh2o_rtlpgtYTYFw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62922",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/vk4_lVXdbkgU_j0SWXD9gJhmY5lnSX0S1owxnjhw4wdHwvyUGT_cgYUb4D8nuUirLGTYMlFYXMkp8MXsKfAHrj7NueVNaS12pdPw1DbV1sZBKgS1rnSzpw4MMVTog_VXthrP8M-MHgjGBL0MiBSQrcOzELzuCjOSUJEEYOWseawLKq9lrjOCi-L184YCb3KOS69vR6a9kn48vHxCsHLFz39j4r-TObT-6BSA-ZINyk5NUdF31sz44p3MyavmPA94uGeFbkVJZ7tAc5GUNqkf6hHepEam4tan2cvgOdaTzN6uVu37ytEDBaGEQKbVNWOi9-UgoNuh2o_rtlpgtYTYFw"
+      }
+    ]
+  },
+  {
+    "id": 482323893,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-05",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Yemen, Saudi Arabia: Yemeni missiles target field Riyadh Saudi",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni missiles target an oil field in Riyadh, Saudi Arabia.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3288f3052e.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/koLZp_I2KlnvBg9cHrHdxiDGxBuiowBZtucNeXzbcXNsfCPEwf3qcU_E_Fcqdyu6s7xMelpR_r29iTCXc1NlirIrjxSK6Xppe3lxcJLQkon8KyyL3JtnnkACg4eb6-M-gJiEh5V2Ka_Jp4-zJ1XV6m1o30GKfEg2lUIk4tFG10o1ZpiOo6-svIdDt1B9S75cbAzf7EWX9sxNJw75qASVEinf2oSD6Bq0nP1wYBNbyu1s-Yjx4I8xpsN22UgmDsTtHj-3DHCypYaKQzCr6-iLqjbAjlNpP3cJXV2zAf3ZFmbaI-npdlKWlboL4G8J78hjcJh_i1tb-4lOHsZNpglFOw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62962",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/koLZp_I2KlnvBg9cHrHdxiDGxBuiowBZtucNeXzbcXNsfCPEwf3qcU_E_Fcqdyu6s7xMelpR_r29iTCXc1NlirIrjxSK6Xppe3lxcJLQkon8KyyL3JtnnkACg4eb6-M-gJiEh5V2Ka_Jp4-zJ1XV6m1o30GKfEg2lUIk4tFG10o1ZpiOo6-svIdDt1B9S75cbAzf7EWX9sxNJw75qASVEinf2oSD6Bq0nP1wYBNbyu1s-Yjx4I8xpsN22UgmDsTtHj-3DHCypYaKQzCr6-iLqjbAjlNpP3cJXV2zAf3ZFmbaI-npdlKWlboL4G8J78hjcJh_i1tb-4lOHsZNpglFOw"
+      }
+    ]
+  },
+  {
     "id": 482305053,
     "type": "drone",
     "status": "confirmed",
