@@ -191109,6 +191109,36 @@
     "verified": false
   },
   {
+    "id": 1791305216683,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-05",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonKey points from the speech by the Secretary-General of Hezbollah, His Eminence Sheikh Naim Qassem, at the ceremony marking the launch of the Foundation for the Preservation and Publication of the Heritage of the Master of the Ummah's Martyrs, His Eminence Sayyed Hassan Nasrallah (may Allah b...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791305286904,
+    "type": "missile",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-10-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenOur Armed Forces, by the grace of Allah, succeeded in confronting a number of attempts by Saudi enemy forces gathered in the field to advance toward Bab Al-Mandab, driving them back and forcing them to retreat, without making any progress. The gatherings of those forces were targeted with ten ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791254654440,
     "type": "drone",
     "location": "Aden",
@@ -191381,6 +191411,26 @@
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "Third: We affirm the necessity of obliging the enemy to halt its violations in the Gaza Strip, foremost among them ending assassination operations and the perpetration of further massacres. We hold the mediators responsible for obliging the enemy to permanently halt the aggression against our people...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791305271104,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenPhotos | Footage of qualitative operations targeting Saudi enemy forces gathered across several fronts using locally manufactured Shawath EFP ballistic loitering drones – October 6, 2026#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/pLI0iCLLZoK2Gh8b08cSAwHYpg2kfvR-ppIvDcFX58GPNe_6NaUseCUjPY2vUMCYNwKIiyuhL4KxhuXviHLAcFZdez5mqCZOlgeZ2ij_IsFPtbQ7reHc4XCzO3wpRZQ5dxmOily5h2ec262I9GlAJcubk1yrmhEqqf932qckAmHFh1Na9A2zsw_PJ52yu3RMmzjZuR7wnlP5iUl70j8Yc-EPxEqV82TZR9sD8q6B0RnHaeO0tGWCE6CnL_liQP8G_bP1uNNzIo8T0JMVOGHZ2QIL7m09y859okMTMNd66m2dM65D8vpQcNHKftnZJO_sjzCr6oe73dnbmawqRftFmg.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
