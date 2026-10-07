@@ -188814,6 +188814,45 @@
     "verified": false
   },
   {
+    "id": 1791363013440,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-09-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 🤡 | Announcement of the deaths of two Saudi soldiers, Mukhtar Al-Ali and Hani Al-Saleh, in the southern region of Saudi Arabia, on the glorious road to Washington and Tel Aviv.🏴‍☠️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/r1RlFVj8gCGNdq3ql5D9uwWHnjbK4KtBy14Xeohvcjf_qn1DFgYQ8mhbfmekrKGs6ONoPbW44dlU-SriQ9MNEiYgnuWsLyxmdGCy9ZtIqSlIovHaqSI-Oc8Q_F4BzvvEYyBJxjzenTG_Jnvb_6bhBHK_E0kOEbYIXl3EIcLnS-rDRMWAQVJ92Z6pFh-VpBG_4spmB229ZOo-iGGJY_89tOrfq7iF3z_bzM0lzV1V9I0NwaVhLxZKhjYcGu6v71_DrLvI_T7QZnTmO0IiWHihqKWq3MA_NKxWMb_fmDhWzo0R18xqffrA0Awm6HfUiuV_0ivAc6pefMOK-T4vTqffsg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/T1-tVinQYUw-OW_ltR2gBJdQROXFnd9Tbqi5aRxWpf_lGgmnqSR5fAKGp0A3csBdxG4bHK-cuDP0BWRwdjCbbSY5YD1GMG7FAXHjcPpkpJmwKYErKZtQ3HBvHNZTx9GAh8xMHNWoqf859KEqFvLIPp_nHxiqLRglb1dd3a0n9cUS5NBEamDT2DNDcCaysOYA_haX8P2PonDyYkECDLJuJezg9LjnetIwrtaVANn9vDW6a1z7hjsSXf1vaAK4j0R8eZAvQg6CQdPdrD0t8SfLYb3wcNNhAF75C-XL_AjVuI40bQieCtqbFZJ6Pf9D1YwGI3bH2jBwStOWt4o_KXuK1g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791362956318,
+    "type": "airstrike",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦/🇦🇪 | Following a week of heavy fighting in the Al Mazaq area, AnsarAllah has reportedly managed to advance south of Al Qashimiyah toward the slopes of Jabal Aghbar, while also capturing the villages of Al Ghawl and Jabal al-Ayli. To the east, AnsarAllah forces are reportedly advancing ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
@@ -191698,6 +191737,36 @@
     "verified": false
   },
   {
+    "id": 1791362991942,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 President Pezeshkian urges action to improve public trust📌 Tehran, IRNA — President Masoud Pezeshkian has called for greater focus on solving people’s problems, saying social trust would not have deteriorated to its level if officials had worked to resolve difficulties instead of criticizing oth...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791363037030,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Greeks protest Rubio visit, US military presence📌 Tehran, IRNA – Demonstrators in Athens and Thessaloniki have staged anti-war rallies to protest US policies and the expansion of military cooperation between Greece and the United States as US Secretary of State Marco Rubio visited the country.Ac...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791348527371,
     "type": "intercept",
     "location": "Aden",
@@ -191724,6 +191793,36 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Regional developments | October 7, 2026🇾🇪 Yemen— Saudi aggression reportedly targeted Sanaa, Amran, Saada and Al-Jawf Governorates.— Saudi aggression reportedly targeted Mudhaykhirah District in Ibb Governorate and Shar’ab District in Taiz Governorate.🇸🇾 Syria— Al-Sharq reported that Syrian P...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791363003494,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-07",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🥀 🇱🇧 | Today, we mourn the resistance leaders, fighters, and people of Lebanon who were lost across generations of war. We remember those who belonged to Hezbollah, Amal, and other resistance factions, as well as the countless men and women whose names never entered the public record. We remember...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791362959279,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-07",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🥀 | We mourn the leaders and commanders of the resistance in Lebanon, Iraq, Iran, and Yemen who have been martyred during years of war and in the struggle surrounding Palestine. We remember Martyr Qassem Soleimani, Abu Mahdi al-Muhandis, Abu Abbas al-Mousawi, Sayyid Hassan Nasrallah, Sayyid Hashem ...",
     "media": [],
     "verified": false
   },

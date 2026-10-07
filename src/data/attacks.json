@@ -138716,6 +138716,38 @@
     "media": []
   },
   {
+    "id": 482399503,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Iraq: reopening Najaf flight related request made",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The reopening of the Najaf flight is related to the request made by the son of Ayatullah Ali Sistani. The son of Ayatollah Sistani reportedly contacted the head of the Iraqi Supreme Shia Council and warned him that the issue of Iranian and Iraqi pilgrims traveling by air must be resolved as quickly as possible. Following this contact, Najaf Airport was reopened after the Ali Zaidi government negotiated with the Americans. Interestingly, the Iraqi side has set conditions for reopening airports ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481933503,
     "type": "intercept",
     "status": "confirmed",
