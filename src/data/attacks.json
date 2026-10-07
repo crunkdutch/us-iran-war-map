@@ -138119,6 +138119,102 @@
     ]
   },
   {
+    "id": 482410879,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemen Over past hours Saudi force",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen Over the past 24 hours, the Saudi air force carried out 35 airstrikes using “F-15” and “Typhoon” aircraft that took off from the Khamis Mushait and Taif air bases. The strikes targeted civilian infrastructure, including telecommunications networks, schools, and other facilities, in the governorates of Taiz, Al-Jawf, Amran, Saada, and Al-Hudaydah.The total number of Saudi aggression airstrikes and missile attacks since the escalation began has reached 1158.http://t.me/army21ye",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482414673,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — UAE, Israel: Enemy_MediaIsrael Hayom Hebrew Newspaper During secret",
+    "location": "UAE, Israel",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew Newspaper: During his secret visit to the UAE, Prime Minister Benjamin Netanyahu briefed President Mohammad bin Zayed on new intelligence indicating that Iran is renewing its nuclear program, according to a report published this morning. Netanyahu also claimed during the meeting, based on “Israeli” assessments, that Iran might launch an attack in the coming weeks.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482418468,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-29",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Syria, Israel: Statement issued Hezbollahs Media Relations regarding",
+    "location": "Lebanon, Syria, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by Hezbollah’s Media Relations regarding the claims made by the Syrian Ministry of Interior:Hezbollah’s Media Relations categorically denies any connection or affiliation with the alleged cell that the Syrian Ministry of Interior announced had been apprehended in the Yarmouk Basin area of Daraa. It reiterates that it has no presence on Syrian territory and is not involved in any security or military activity there.Hezbollah also affirms its constant commitment to Syria’s securit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 477331196,
     "type": "intercept",
     "status": "confirmed",
@@ -141796,6 +141892,38 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 482407086,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni Armed ForcesOur Armed Forces with",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:Our Armed Forces, with the help and support of Allah, succeeded in expelling the Saudi mobilizations that attempted to advance toward the positions of our Armed Forces east of Al-Jawf Governorate. They were dealt with and all their gatherings were targeted with a number of ballistic missiles and drones.The enemy, by the grace of Allah, made no advance, while dozens of them were killed or wounded and a number of their vehicles were destroyed.🚩@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
