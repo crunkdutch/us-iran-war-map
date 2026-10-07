@@ -138844,6 +138844,70 @@
     "media": []
   },
   {
+    "id": 482433658,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Dubai, Israel: Enemy_MediaIsraeli Enemy Army Radio Mossad currently",
+    "location": "Dubai, Israel",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” Enemy Army Radio: The Mossad is currently investigating the attempted attack on a Flydubai aircraft, with the Shin Bet assisting in the investigation.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482437458,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Gaza City, Gaza Strip: Press StatementIn Name Allah Most Gracious",
+    "location": "Gaza City, Gaza Strip",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Press StatementIn the Name of Allah, the Most Gracious, the Most MercifulThe ongoing Zionist escalation in the Gaza Strip constitutes a continuation of the chapters of the war of extermination against our Palestinian people. The latest of these was the horrific massacre perpetrated by the occupation army this afternoon west of Gaza City, which resulted in the martyrdom of five citizens, in addition to the ongoing shelling targeting all parts of the Strip. This once again confirms the criminal oc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481933503,
     "type": "intercept",
     "status": "confirmed",
