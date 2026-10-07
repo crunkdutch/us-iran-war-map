@@ -141749,6 +141749,55 @@
     "media": []
   },
   {
+    "id": 482403294,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Iraq, Israel: Irans chemical weapons compliance concerns remain",
+    "location": "Tehran, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran’s US chemical weapons compliance concerns remain unresolved: Ambassador📌 London, IRNA — Iran’s ambassador and permanent representative to the Organisation for the Prohibition of Chemical Weapons (OPCW) has said Tehran’s concerns over US non-compliance with the Chemical Weapons Convention and its calls for clarification have remained unanswered for more than two decades.Speaking at the 113th session of the OPCW Executive Council in The Hague, Hadi Farajvand reaffirmed Iran’s full commitm",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QQowEDOB6XAiF9PKqX6bES6QNDenx7oYHhr7jX-LGYfTEpUwVL_yLytHaqEqOMrIvGZMe4o3eUElU5DTuxA73YTS4xBKSaZT8AhxNW5tVLzzX0IdcSlHdTgRfjaOx5OMlb06CVCLFybu47tMSDvqlN3BXuaQ0U0CJ33aMREv_eTgjpyrKlDhOe9Tel15HKcZ62jsy-1m1JsnHnbtCX6zQuGPX5WpI4iEIDhZjBsYb6TM5MnSDlrkrT6VoD4vSF1qJNnTQRNegTCMnAt_bjSj-zjuJ91OHsUSniGAXqeVMi2jODSnkGwJx2VEyQHoBpayAk7JROBPuhkzKaDx5ke1IA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NXdzEz89FBo9hWnlVkaMM8xmXM1QK6I0OYoafh2n76WPkOWLuJFzVdwCYChOP4lGTAfHphx7WgyX8RURyA7GRunoJ8qLM1nO6tjYdKs9hjzBCzBCUAbsm8wmQSLZ753aQdDKRVSHgeOJQBPJW-4T-h2MbBbqfBc_f1s6Ufvv8kU8yg0fkPnclEBWWaWNDn0Ph5sf5pGNilOlKJRrw4ZanLN6pQrubNgDDrG5KpKfbtLat9750O3lKuSGR2Kpnj3AkNRwPZcilcxL8oYuCUEnmxZWXjrmL-qa65reBVQOGTTqG0EGvoOm47mWfldYUTHV1KriRSltL0o-6UAhQj-aEQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/GrG30MOkoKiA1d9XaAmAFAiEa0pNgjVzmDBtz3Wz2mRgKaNg-wF9r5nkyi5aNIwV-2fBoUOY2K051_j5ZN4LFVvQCSzy_zvPWbZ3UcxqBlsyTJ8Eq-3iJJbkM76xoeTZiDQoqLlXGX76U-S7XJndJbaM2_PfVoJm_uPrC49zKfb8s8VIb0G-FnFKtP2Ry-FNsARBNktPb27quv_zaCMM0D_XdkoLqFMQJfO1UJLiUHh3eCLcAgVAN0W_RzlyJqpy66hkXuYz3Rojd7gMhFQUWZS4EvK6JRVat2g5_hrvRQYNhQI9ZrFoGABwhh9RN2V-Y0TSN_b6TPEtev6k98jGSA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/pDWbtQhFzeLTHDeWyvDKj6qc_qV0pNu4quTwsORJtgI4lcEWqNhTJmxwYPTsyAjINPH6APX6SntHcCdFQhOo2nFBfgppktEyRFykrQB8nZR6j02rpzU49YfehcWoZ_N030pXTuetBbxKPCJln7gD1T-l4YyUgHc-T1hZkeuQaJirB3xuaPogv3uVd7-L0hpzSBZg9L5r2OkmQ8HgInwUb8BjnQcPlhAl5D9VWIoxxxVaol5-QZjpGrSqCwxKsotMDGMcMeIM2oq6nzTLy-br1qh0qlKf7k7jMg_GAvHnA3VR1IV3eJolezqBpuamtLidluV8Nby4aBm0PY7EE3vO5g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
