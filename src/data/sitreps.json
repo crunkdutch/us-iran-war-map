@@ -191633,6 +191633,71 @@
     "verified": false
   },
   {
+    "id": 1791348542965,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni forces:By the grace of Allah, our armed forces carried out a specialized military operation targeting the Dgharir camp in Jizan, the Aqifah camp in Asir, and the Al-Moussem camp in Jizan—all of which housed concentrations of Saudi enemy forces. The operation utilized a large number of ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791348572821,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | The impostor Colonel Emad Al-Haddadi Al-Yafi’i, Chief of Staff of the 5th Brigade under the so-called “Shield of the Nation” forces loyal to Saudi Arabia, was killed by Yemeni forces in Al-Jawf.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O9v9eEzhf_-Fdo7PC2RIe4sXNgIoE84WC3oUkkzSQU46AJwBNE9CBDKNpBqoFqsphdMc98OzCHwpGtKr2hyAbUd1D60Z08M9ymVfxSE6p4ZQNEsH81IbY7pdUpiq1iRkc-auwEd8U_3aBif-QF017SOBd_HDAjjQ4HhyPGepFxm1XXvgXbNTckcBa9tBT1aRgOvbbxgeDa__WG1GcWrG4Wf-_xeyufLiVyrIFwh9t69UU3RcDK29XyMz28FQwrA1hof7x8-wwhmiixFyoCL7bMl_dW8ZGDPtPrwDpEueZAwGRRBuvW1H9CmDhMPKOY3maGA2T6KLu0lrq4fnJkzx4w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791348527371,
+    "type": "intercept",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | October 7, 2026— AnsarAllah reportedly eliminated the last pockets of PLC resistance in the Qadas heights and Salu Mountain. The towns of Hasahes, Sharaf, Hayjat Al-Abd and Souq Jamrak were also reportedly captured.— In the northern direction of Taiz city, AnsarAllah repor...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791348579015,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Regional developments | October 7, 2026🇾🇪 Yemen— Saudi aggression reportedly targeted Sanaa, Amran, Saada and Al-Jawf Governorates.— Saudi aggression reportedly targeted Mudhaykhirah District in Ibb Governorate and Shar’ab District in Taiz Governorate.🇸🇾 Syria— Al-Sharq reported that Syrian P...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

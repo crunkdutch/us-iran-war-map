@@ -141314,7 +141314,12 @@
     "description": "🇾🇪 | Yemeni Armed Forces:The Yemeni Armed Forces carried out a targeting operation against Abha International Airport with a ballistic missile, and the strike was precise and direct, thanks to Allah, leading to the disruption of air traffic at the airport.We renew our warning to all international airline companies of the consequences of continuing to operate flights in Saudi airspace, as it has become a theater for our military operations, with the exception of the airspace of the holy sites i",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O9v9eEzhf_-Fdo7PC2RIe4sXNgIoE84WC3oUkkzSQU46AJwBNE9CBDKNpBqoFqsphdMc98OzCHwpGtKr2hyAbUd1D60Z08M9ymVfxSE6p4ZQNEsH81IbY7pdUpiq1iRkc-auwEd8U_3aBif-QF017SOBd_HDAjjQ4HhyPGepFxm1XXvgXbNTckcBa9tBT1aRgOvbbxgeDa__WG1GcWrG4Wf-_xeyufLiVyrIFwh9t69UU3RcDK29XyMz28FQwrA1hof7x8-wwhmiixFyoCL7bMl_dW8ZGDPtPrwDpEueZAwGRRBuvW1H9CmDhMPKOY3maGA2T6KLu0lrq4fnJkzx4w.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 482338983,
@@ -141611,6 +141616,70 @@
       "other": 0
     },
     "description": "🇮🇷 | IRGC Navy anti-ship cruise missile launches from Sirik, Iran.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482388136,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Aden, Riyadh, Jeddah: Regional developments October 2026 AnsarAllah reportedly",
+    "location": "Aden, Riyadh, Jeddah, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | October 7, 2026— AnsarAllah reportedly eliminated the last pockets of PLC resistance in the Qadas heights and Salu Mountain. The towns of Hasahes, Sharaf, Hayjat Al-Abd and Souq Jamrak were also reportedly captured.— In the northern direction of Taiz city, AnsarAllah reportedly captured Zanam Mountain, Shanakheb Mountain, and the towns of Balaan, Maysar and Al-Makhaf, and was approaching Al-Misrakh.— The PLC reportedly attempted a counterattack west of Al-Wazi’iyah, bu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482391924,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Syria, Yemen: Regional developments October 2026 Yemen Saudi",
+    "location": "Sanaa, Syria, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | October 7, 2026🇾🇪 Yemen— Saudi aggression reportedly targeted Sanaa, Amran, Saada and Al-Jawf Governorates.— Saudi aggression reportedly targeted Mudhaykhirah District in Ibb Governorate and Shar’ab District in Taiz Governorate.🇸🇾 Syria— Al-Sharq reported that Syrian President discussed with Saudi officials during his official visit the possibility of Syria joining the war against AnsarAllah, although no final decision had been made.▪️@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
