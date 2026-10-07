@@ -141781,6 +141781,56 @@
     "media": []
   },
   {
+    "id": 482429859,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Yemen, Iraq: YemenKey points from speech Ansar Allah",
+    "location": "Lebanon, Yemen, Iraq, Israel, Gaza Strip",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenKey points from the speech by Ansar Allah Leader Sayyed Abdul-Malik Badreddine Al-Houthi on the third anniversary of the Al-Aqsa Flood operation and the latest developments:– On the third anniversary of the blessed Al-Aqsa Flood operation, we pause to examine its results, assess the reality of the Ummah, and remind those around us of the great responsibility toward the Palestinian cause and the position toward the “Israeli” enemy.– When we assess the Al-Aqsa Flood operation, we find it to ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qUvhVyLse0W-QHVxQYuFikAJKfF83YOm1rbpRmofttIscVv0DBRDVTTruC67SSLJqiQ6SBHtXyglVnE2ueTZlF25nbFDA6AQjjQlqSi6rpG8g0Oa2NVYpzI_8gFDE7p_HJS3pEozasxpPPftTOwM6yK__jZ4llwJn09WT1zUeTEqm7yHVQBTNMfo8iX5GnAZJW1tLbo57jc0g25cFa82PtJtNNijHfLxjuKaFGZeCfOFxlYPkS29pvEs8LR_tlYuJnaCOSdAOczWONXRvvRcj0kp-fB4KXGu4XldCCUzPd8L_HY0dPUGq2X78f44eK4p5jcxxGDu1RJiagSAwDK0VA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/gTf2rMqgVzvf3X2K6J0L7ebBVxlrl-PDhyg8TC7MdVazrmd_XFYvfeIQWDXcWWvD8z8kZ9ARX1ggG_wNR1mSdgRss5aCcjqjcVppMuWFYG39WFG0IZtF0tVLosSIYCkix6b7wrCti7fiDN-uww4P9jOLB4t8-8hlr7OdvoktD5aVwyHwao52zZpDynTL4QmfLcDYLUqkgsLvyJO5t4f0AEWcsVszNDydQpNwfQYeWaIyewawLNOTJ1GGl5yN0RXpCh-QCpCD02df5M7kn16FvoZkhNH12xvg9krxRfomfzYU-7IzGJRy2DJwSE-GuRDOfhhcOricMmh5ejbeM5NA0Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RxP-GxFSeLE5OBNHewJ4clrEM4tq3y8ebvm6VfBflaMzXB8UrU6IqLuth5cKtqvA78E4st8lgSxn_08T0KUqK24Z7KmDjQOP-V7ZHz1b3lyVVQf83zin1229XmbyUrRipAYmw6mYMtjX4gt_-clktZr-VgwhentWSD1qmkolWFAUh71w5n6UwS1JAB5YI67fBiI4qWeqD7srF56Cz08e6smZTbUyN8j3O9ajYdcdBO_CfHR0X7vPM1Kj3VuNwvaGgoPjl2QQM9QKq-bycd51Oyr6HYP0CwGoiYGLAiBMQyXAf3ftyiR90B6BCipEgE0P7GzLZuvtX1hz-_XhyyFZIA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://t.me/Irna_en/40391?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ROSUmD2l6LFR21UguPPhgONBFdysNmKbJ9Vb8rOQVQDWtvj8z1DVx6LPNPTB5sTDOf4GK2lcdACNoOMn2dCxOA-jcNMWN57uZ0s0hqLBxiwmUEuzuf7ha0YAjFpaMZmTCQYEpdsHGsgzAji8yZ2C2LTZUMvwe0f82Sv9kP4LljK5LmnxbrTnzJgTwAf19ffyWRGpbD9rqb2MWnvgLGsz9v4sbcEo-mPEc_JozH3Ij3fIM5tghScF6Uy3Mccg_B5vYahOZdR73HYwhIouhoXCjgWt2niVdaAhUACxy9I0F1V6mwRPwcblSBVGVY8Cg8jS8_RULvGC1mNvyrtx5UYhVg"
+      }
+    ]
+  },
+  {
     "id": 482388136,
     "type": "intercept",
     "status": "confirmed",
@@ -141921,6 +141971,70 @@
       "other": 0
     },
     "description": "🇾🇪 | Yemeni Armed Forces:Our Armed Forces, with the help and support of Allah, succeeded in expelling the Saudi mobilizations that attempted to advance toward the positions of our Armed Forces east of Al-Jawf Governorate. They were dealt with and all their gatherings were targeted with a number of ballistic missiles and drones.The enemy, by the grace of Allah, made no advance, while dozens of them were killed or wounded and a number of their vehicles were destroyed.🚩@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482422264,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Mashhad, Aden, Lebanon: Regional developments October 2026 Iraq explosion",
+    "location": "Mashhad, Aden, Lebanon, Syria, Yemen, UAE, Saudi Arabia, Iraq, Taba",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Regional developments | October 7, 2026🇮🇶 Iraq— An explosion was heard in Sulaymaniyah Governorate in northern Iraq.🇾🇪 Yemen— Yemeni forces took control of the Matali area and Jabal Al-Rahsh and are approaching the center of Mosrak District.— Four Saudi military cargo planes and one early warning aircraft returned from southern Yemen to Saudi Arabia’s Sultan Base, just hours after Yemeni armed forces targeted Aden Airport and warned against its use for military purposes.— Yemeni missiles w",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482426061,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran: ExIran minister says resignation nothing with",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Ex-Iran oil minister says his resignation had nothing to do with Trump’s claims📌 Tehran, IRNA – Former Iranian oil minister Mohsen Paknejad has emphasized that his resignation had nothing to do with claims made by US President Donald Trump.Writing on his X account, Paknejad said he remained a soldier of the homeland and one of the millions willing to sacrifice for Iran.​He added that although he was sanctioned by Iran’s number one enemy only months after taking office, oil production and exp",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

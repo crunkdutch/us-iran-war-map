@@ -671,6 +671,21 @@
     "verified": false
   },
   {
+    "id": 1791384622568,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2023-10-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Support for Resistance Front will continue until liberation of al-Quds: Iran’s top general📌 Tehran, IRNA - Iran’s top military commander says the Al-Aqsa Flood operation of October 7, 2023 exceeded the Israeli regime's expectations, and that support for the Resistance Front will continue until t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -188203,6 +188218,21 @@
     "verified": false
   },
   {
+    "id": 1791384654142,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-09-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Aref: Iranophobia neutralized, time for Iran’s new regional role📌 Tehran, IRNA — First Vice President Mohammad Reza Aref says that, with Iranophobia now neutralized in the post-war landscape, it is time for Iran to assume a new role in the region.Speaking in a meeting with the members of the Sup...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790754497130,
     "type": "airstrike",
     "location": "Tel Aviv",
@@ -191902,6 +191932,36 @@
     "verified": false
   },
   {
+    "id": 1791384689196,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenKey points from the speech by Ansar Allah Leader Sayyed Abdul-Malik Badreddine Al-Houthi on the third anniversary of the Al-Aqsa Flood operation and the latest developments:– On the third anniversary of the blessed Al-Aqsa Flood operation, we pause to examine its results, assess the reality of...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791384670496,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-06",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "– Hezbollah has made the greatest sacrifices and offered martyrs, foremost among them the Secretary-General of Hezbollah, the Martyr of Islam and Humanity, Sayyed Hassan Nasrallah (may Allah bless him), Sayyed Hashem Safieddine, and the leaders and mujahideen of Hezbollah.– Hezbollah has been engage...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791348527371,
     "type": "intercept",
     "location": "Aden",
@@ -192097,6 +192157,61 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 | Yemeni Armed Forces:Our Armed Forces, with the help and support of Allah, succeeded in expelling the Saudi mobilizations that attempted to advance toward the positions of our Armed Forces east of Al-Jawf Governorate. They were dealt with and all their gatherings were targeted with a number of...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791384620497,
+    "type": "drone",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-10-07",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Regional developments | October 7, 2026🇮🇶 Iraq— An explosion was heard in Sulaymaniyah Governorate in northern Iraq.🇾🇪 Yemen— Yemeni forces took control of the Matali area and Jabal Al-Rahsh and are approaching the center of Mosrak District.— Four Saudi military cargo planes and one early warn...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791384713595,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "President Pezeshkian called his Russian counterpart Vladimir Putin to wish him a happy birthday, extending hopes for Russia's progress and prosperity. The two leaders reaffirmed their dedication to continuing and expanding strategic cooperation between Tehran and Moscow.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c6TKGUKAEM8SSHvg_dKPbfbgNDxFIqeG3T-NEXJaBcc4eGnUZMVuOPLkiM06KYRHHpgK_V4Ct0S9-_lK6u_n17BirGqm6VlI60VNQnDvKt28IL_H7cl8KOJQOi9MXUcvGPpN24W2H31E5UCjKBZEhs0795MmqGFcxqclUZCaCYIV_bRWk2AQqF5uGnRVWC_CWjhFa8i7dbjsf3_lD1NzVfa-QLx_j6cvOlsJ7VO_arjQBz_vrGe0l0MWJHlHIvrolppyce31xgjDXLvpbg6_hWvZ8Do-9rPG6fM6XjYQkpM4stJf26FQNplflLYTLw1eC48rHjchv2EUcVg-Jn5kCw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791384681264,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 In photos: Minab martyrs commemorated in Pakistan📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/T1Sr_7-bZxUMEa6dJfFP10TRkweZH_xBqExb5LqZcmSPR5lpH02mSqN7HMvYTbpu2WgwzLtHwj29-3wpupf7d8qrqbQMiT2CeDJ2BMu_YNYmfgN482vXdfGY_A1pIANjwTHcb1HFlNyGjrOAXDFELCI3UQmjRHEjouGh9lPdY_rqAIsIurZa0cJwaEviVl-BDN_wFpaIuqA_J-dHGSqGWeFV6KsNWTPxHp1ztReV-rWoVlfgrT5IACQ3rBCv7O3kjb23J_UQgrJlbGziSDVOOdGbT4TNrql5oDJYdLzzd_2YTEDB4TNdswilRR8hkN8Bj--ZzYkZm50lWIr-7s5ZBA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
