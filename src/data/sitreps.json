@@ -191206,6 +191206,36 @@
     "verified": false
   },
   {
+    "id": 1791355748502,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaReporter for the “Israeli” enemy army radio:6:29, the time when everything began exactly three years ago.1,318 “Israeli” army and security forces personnel killed; 1,029 settlers killed.251 people were taken captive to the Gaza Strip – all of them have been returned, but around 40 were k...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791355819067,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-05",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "It also exposed the falsehood of the international community and its institutions’ claims of defending freedom and justice, and revealed their inability to protect even the most basic human rights. It also lifted the veil from those who shirked their responsibilities and those complicit who chose si...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791254654440,
     "type": "drone",
     "location": "Aden",

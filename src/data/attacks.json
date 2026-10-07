@@ -141621,6 +141621,38 @@
     "media": []
   },
   {
+    "id": 482395713,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Bandar Abbas, Gilan, Persian Gulf: Enemy made grave miscalculation seeking Irans",
+    "location": "Bandar Abbas, Gilan, Persian Gulf, Oman",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Enemy made grave miscalculation in seeking Iran’s collapse: IRGC deputy chief📌 Bandar Abbas, IRNA – The enemy made a grave miscalculation by believing that military attacks, sanctions, unrest, and assassination of Iranian officials could create a power vacuum and lead to the collapse of the country within a week, Islamic Revolution Guards Corps (IRGC) Political Deputy Brigadier General Yadollah Javani says.Speaking at a specialized training course for school managers in Hormuzgan Province la",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482388136,
     "type": "intercept",
     "status": "confirmed",
