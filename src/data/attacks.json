@@ -142104,6 +142104,102 @@
     "media": []
   },
   {
+    "id": 482441259,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Yemen: Yemens Armed Forces Saudi warplanes carried",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemen’s Armed Forces say Saudi warplanes carried out 156 air and missile strikes over the past 24 hours against what they described as civilian sites in Sanaa, Taiz, Saada, Al-Jawf, Marib and Amran.According to the statement, F-15 and Typhoon aircraft operated from Khamis Mushait and Taif, while missile attacks were launched from Najran and Jizan. The group says the total number of Saudi air and missile strikes since the latest escalation began has reached 1,798.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482445061,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed ForcesThanks Allah armed forces",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed ForcesThanks to Allah, our armed forces managed to target 11 gatherings of Saudi enemy forces over the past 24 hours in areas south of Bab el-Mandeb, Al-Saqiya, Ras Al-Ara, and Al-Mudarba. A total of 11 ballistic missiles were fired, resulting in dozens of dead and wounded, including enemy commanders, as well as the destruction of numerous vehicles. Meanwhile, our forces tracked and monitored a platoon belonging to the so-called 13th Giants Brigade, which had run over prisone",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482448864,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-07",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Aden, Yemen, Saudi Arabia: Years when said Yemeni official that",
+    "location": "Aden, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Years ago, when it was said by a Yemeni official that there was nothing left to lose in Yemen, Saudi Arabia had destroyed almost everything. It hurts, but it is today’s reality. The Yemen that was destroyed by Saudi Arabia has returned from the ashes like a phoenix, and is now fighting for its own dignity and freedom.Today, whatever we are witnessing might not impress everyone, but a true believer and someone who is aware and deeply engaged with what is happening knows what is actually ongoing",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
