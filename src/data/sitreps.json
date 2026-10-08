@@ -192158,6 +192158,51 @@
     "verified": false
   },
   {
+    "id": 1791435160380,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenThe Armed Forces, by the grace of Allah, succeeded in shooting down a Turkish-made “Bayraktar Akıncı” armed reconnaissance aircraft belonging to the Saudi enemy while it was carrying out hostile activities in the skies over Taiz Governorate. It was shot down with a suitable weapon.#Military_Me...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791435184313,
+    "type": "missile",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenOur Armed Forces, by the grace of Allah, succeeded in targeting Saudi enemy forces gathered in the field at Qawah Camp in the Ras Al-Ara area with a number of ballistic missiles. The strikes were direct, by the grace of Allah, resulting in many killed and wounded and the burning of some weapon...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791435172698,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenOur Armed Forces, by the grace of Allah, succeeded in targeting King Khalid Airport in Riyadh with a ballistic missile, which accurately struck its target and disrupted airport operations.We renew our call and warning – for the last time – to all international airlines regarding the consequenc...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791348527371,
     "type": "intercept",
     "location": "Aden",
@@ -192467,6 +192512,66 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📄 Araghchi: Iran is firm and determined in its self-defense📌 Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi said the foreign ministry presented Iran's conditions and considerations to the mediators in the form of a precise and operational plan, and it became clear to everyone that the Isla...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791435185889,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | In the face of AnsarAllah, Saudi Arabia and its proxy forces are reportedly suffering significant losses across the fronts, particularly in Taiz and Lahj, where recent confrontations with the Yemeni Armed Forces have resulted in the deaths, injuries, and capture of several senior field...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791435165452,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | BREAKING — Iran has struck an Emirati tanker off the coast of Fujairah, UAE, resulting in a massive fire. This is the second ship to be struck outside the Strait of Hormuz in the past 24 hours, seemingly as part of a new escalatory doctrine by Iran’s IRGC.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791435227442,
+    "type": "missile",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Regional developments | October 8, 2026🇾🇪 Yemen— AnsarAllah are about to enter Al-Misrakh, the last major town between the frontlines and Taizz city.— AnsarAllah launched an offensive to capture the remaining portion of Jabal Habashi mountain, west of Taizz city. Clashes between Yemeni forces a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791435193293,
+    "type": "intercept",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Regional developments | October 8, 2026🇸🇦 Saudi Arabia— Saudi missile and artillery shelling targeted the Al-Sheikh area in the border district of Munabbih, west of Saada.— Six members of a Yemeni family were killed and a six-year-old girl was wounded in a Saudi airstrike on the village of Umm ...",
     "media": [],
     "verified": false
   },
