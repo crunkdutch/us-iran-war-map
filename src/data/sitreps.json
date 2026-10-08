@@ -192218,6 +192218,51 @@
     "verified": false
   },
   {
+    "id": 1791471276641,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Our Armed Forces, by the grace of Allah, successfully targeted King Khalid Airport in Riyadh with a ballistic missile this afternoon. The missile successfully hit its target, causing damage and disrupting air traffic at the airport.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791471297044,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: Two soldiers from the “Israeli” army were seriously injured in an operational incident in southern Lebanon.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791471295497,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "settlers free rein to expel some Palestinians from their homes and expand their settlements in their towns. The Bloc calls on the international community, global rights organizations, human rights organizations, and Arab governments to move immediately to criminalize the aggression, take all necessa...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791348527371,
     "type": "intercept",
     "location": "Aden",
@@ -192683,6 +192728,186 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴 Regional developments | October 8, 2026🇸🇦 Saudi Arabia— Saudi missile and artillery shelling targeted the Al-Sheikh area in the border district of Munabbih, west of Saada.— Six members of a Yemeni family were killed and a six-year-old girl was wounded in a Saudi airstrike on the village of Umm ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791471280231,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇹🇷 | Turkish Foreign Minister Hakan Fidan, speaking during a press conference with his Hungarian counterpart in Ankara, warned that there is a risk of the Russia-Ukraine war expanding, noting that increasing attacks on civilian ships in the Black Sea are beginning to affect navigation security. Fi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791471281044,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Satellites have detected fires at the Abqaiq facility in Saudi Arabia.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/otOeXIfQFH6VNlNgESgjjMLO-Mv6KYK_7vId6I6MPHVqHz3-E5T6T2MlevycS1Sre73CW1mYfQUwv6sMEtjcE2I_9rPM8a0GjsMWl-06Wpt6_2kVi_sWXvKFgBiKuH8dCGQpSLQard-lLe_PtXgcrCjF5BOY3x7CJtTcv3gQdh8z72slUR8p561IDAxms0iktlRRTtcyrjU8B8FV1Yej6mTx-hi5jrW6J8e_3S4yCDNPeQrMf5EvuxnKBciuCs-f7vFt4h_bU6cyqdNBDGvEj7x-ih5lGC6_NdkK82FKuqncF_P1AaEAJYtzzXdtjUtLPXhNSw_GjIBAuBDeuURWFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Cxhl0f4AaL66xw9UZOuKSnZkIpO1LzZYNQZhcs3ql-NQWDtG8fkELWDC7BwIUvvhTf6GtRGiruug5T5Q-UPuRnhQyRbkG_KsvnHEE7H6hkhSn6IksO2Y_BI88SW2RCo-Y02fjuOVr9-M71U8Pcv9Pw5X8Ou6RjtvSLKinb73fYpImDrMoo4Ll-EpzaUnKq7TqEVWL4hpJAqk6LiNE9mZSA49_nrqg4nxtwHcZKKWcO63O1ki58EB8eI0ay2UDHZBA7T2cJgAZr_LtQWtt9U2OW1L1JhQ_cHHcq4o7yU69Myg_vBtx8khdAcRiRfzca5P_MVJgOTMCATmHuAkohIK6Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/q49QzYyv-Rhjza9_oHS5i655KU4Qtch7hQzXR9Vkze2cT3B9OVDwGwVfHZtTrcfs6ERPYb74vpdCDoAcxNSUr1nK9HhfzWr0UlmPkEa7IYjamohjWiYZ_htVBUN2AYUGZV_0XKU1_whLkxBg8buSFMyf4AJnu_Vo3nfTp5KZLuF6OJE2GJMiKy5_5liZB8RjlvryT-MiTHoHwUYFyH_DUC2Y1EBV1asmw0NUn368fWpiDZ3Mt38eXXxgbjguG2oh9KG3PumI9AUM3H81n-WkENK7U5N0J_41H8KhJmU3gdlly7sNAoqFMhO3xL1p0z5w3SNGEMvRX-H1f2MSS8fGtg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Lfp-laUyeX-2nzFYa4oX5MtgKDWiOLc6hx3N8LtIWNKyHHT9QlgnwVT4xwm1UennvpMuFXQBLbw3ZEDVAYigXdlA6RwfcwU3R2tcJ9C_EULByvlDZubcbfqm47UdqsqR4-8zD3FVy9SlFg2sTQe7SFRHyYVMuWb4R6OdmGix59MH1JfGM0iPcfxp28JlEa29ThqcK8yZhxr3HMcEGtcIeUAVoRk62YNRCLeZHm-LKGXVkbYCIMJUraiRqRbkNnNFubRp_qsHICTObsmaaaECi-WYANgs5hRYwy39tOuhDoEAYyCF5khAKlGkM-IPXaYI-Px9R6Xbnpclx5taiEaMDQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791471307459,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🏴| Saudi aggression continues against the homes of civilians in Yemen’s Al-Yarim district.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0a46942fb8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WLWGZ9mp2Gk5X4LAW5Zz1cDUCF9OD1G3QyuX18nVTjytI5FzuXBSucz6qpQ55d8TSMkvcl4wlsz5a64G7NWxDHJsHzDHI8nvgtgaGnuWK4oi_MtUI8GWUNP95x4Bu3eR3O87dSkeu4Qc1fjTVPPdm30qxnaHG31BNMuKcZhQKfneyD88aNbFE6HH6w7ZqclR7Rh_QGkomBk_ltb8SrYeRQa7rjJYnTS29YzGhwhLmTy065GrjsgqNiRLiwQZLNLo5V5gg5mC56fiYtPADdCU9cIwec6TvgfYTfg9GbxQAB1F1dhgx-O57HPB0QxO61ji0Kl2fcV-T1XzjIlNI5lLVg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63093",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WLWGZ9mp2Gk5X4LAW5Zz1cDUCF9OD1G3QyuX18nVTjytI5FzuXBSucz6qpQ55d8TSMkvcl4wlsz5a64G7NWxDHJsHzDHI8nvgtgaGnuWK4oi_MtUI8GWUNP95x4Bu3eR3O87dSkeu4Qc1fjTVPPdm30qxnaHG31BNMuKcZhQKfneyD88aNbFE6HH6w7ZqclR7Rh_QGkomBk_ltb8SrYeRQa7rjJYnTS29YzGhwhLmTy065GrjsgqNiRLiwQZLNLo5V5gg5mC56fiYtPADdCU9cIwec6TvgfYTfg9GbxQAB1F1dhgx-O57HPB0QxO61ji0Kl2fcV-T1XzjIlNI5lLVg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791471258387,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Satellite imagery of damage to Aramco facilities in Rabigh:Satellite imagery from Sentinel-2, captured yesterday, indicates damage to several oil storage tanks and pressurized storage tanks at Saudi Aramco’s refinery in Rabigh, Saudi Arabia.According to the OSINT page Egypt’s Intel Observe...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/54fb7a7863.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hEOAxPZ5X3KiUi9EL5BYmH51SeQCjv9DwcFa0Kx-0RgcabHefU4wkUxbCsgqRywimnKfgab7O0wIHJC7cNCv8ZQRWI4b1bLoMcVX4IPKx77yufp5d0sx4LYZ-BraesuKL_yoR9PRCaXpcYKQBntfZ-2Z4TUWpqRouUytEJPkiTH-vPGYWl5Ujqjot_ajcY1q661qU3h3aoVlS50z-v-MjplQ24KnFjrM-8isZB-4KS-UsdXkkhKQWOno3r65Kyl_Nv4RbgdGf-zTTwVh-EViwwvX4nPLa0nvMvZ0rto_9xiOYfnUGZIr2o1ywfvGnMQnJ3DmWTPItPlaP6F7k8sL8g"
+      },
+      {
+        "url": "https://t.me/enemywatch/63094",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hEOAxPZ5X3KiUi9EL5BYmH51SeQCjv9DwcFa0Kx-0RgcabHefU4wkUxbCsgqRywimnKfgab7O0wIHJC7cNCv8ZQRWI4b1bLoMcVX4IPKx77yufp5d0sx4LYZ-BraesuKL_yoR9PRCaXpcYKQBntfZ-2Z4TUWpqRouUytEJPkiTH-vPGYWl5Ujqjot_ajcY1q661qU3h3aoVlS50z-v-MjplQ24KnFjrM-8isZB-4KS-UsdXkkhKQWOno3r65Kyl_Nv4RbgdGf-zTTwVh-EViwwvX4nPLa0nvMvZ0rto_9xiOYfnUGZIr2o1ywfvGnMQnJ3DmWTPItPlaP6F7k8sL8g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791471281971,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | Three people were reportedly killed and around 36 wounded following a Yemeni strike on King Khalid International Airport in Riyadh. Smoke was reportedly seen rising from a parked aircraft at Riyadh Airport on Thursday, while there was no immediate official confirmation from Saudi authorities ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/hrowcajtSjaVC0FFop9llO8EBzSSaZ7HEA9jD-doy3UpEf5G-dCfEFfbdBHyF5N1RI4e6WPswxgD0Sbvycp79a2bhMXXF1tHvr9rilU9xRO9ws5ggU2KIxLmrFFJFgdGcyB9-xj9JCXSXSOqPeZAJ-YYSqjoV2QZSyCEqAlIH_U23FQa4cMi0nV3slXx5ERvRth94KgXOOd7G-ze1rpF5mh7ay2c3EhEmOCGGE2u9yqBDG54qSzjTIXMHjjLP8EZTMyPSXsdeCaHwBFFZUC2YlhEzMP8nmhCEsspbRoqAwhS_c2gpQygxQiYxxj86NQusSpKuRYuRzbCJF_Hkuo4_Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791471344757,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran has expanded its naval operations beyond the Strait of Hormuz, now targeting ships in both the Arabian Gulf and the Gulf of Oman. Over the past 24 hours, the Iranian Revolutionary Guard Corps (IRGC) launched attacks targeting two vessels, one a very large crude carrier (VLCC) near the UA...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a13f4fa578.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lpJPEZ-Fpt0C0lMkn5rzUPXxdUnKzggN6d3dyC8UqDYJlQijGX-KyrLzBqClInu3mVDYSpgB-sMQpaCre1Nr_VR4aUCVjYqvkU80v579ZGxprqt9MnfdSwCEU7b75z4kXa7_7T_mV6qJvqsNncSTNZbh3Hl3CfWcRd0WzZvqjpv2Aremv6fInRDr6_oXqLiyP286E8yu5BKekCg8BvRla423EoBgETn8_laDr9xxE5MwyFxioNzjRmWjR4MYf_4PZXJ5MfCiT7jEQigC-ODlfPGnfm1q6TljdJDOrUoyW2nOc_Wj70OWLCmuO101IeT3px3vbPFReCUTUdVlGLmTpg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63097",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lpJPEZ-Fpt0C0lMkn5rzUPXxdUnKzggN6d3dyC8UqDYJlQijGX-KyrLzBqClInu3mVDYSpgB-sMQpaCre1Nr_VR4aUCVjYqvkU80v579ZGxprqt9MnfdSwCEU7b75z4kXa7_7T_mV6qJvqsNncSTNZbh3Hl3CfWcRd0WzZvqjpv2Aremv6fInRDr6_oXqLiyP286E8yu5BKekCg8BvRla423EoBgETn8_laDr9xxE5MwyFxioNzjRmWjR4MYf_4PZXJ5MfCiT7jEQigC-ODlfPGnfm1q6TljdJDOrUoyW2nOc_Wj70OWLCmuO101IeT3px3vbPFReCUTUdVlGLmTpg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791471345835,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | More than 60 Shia clerics from Bahrain are on trial today in the courts of the Al Khalifa regime.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/WxaI8333lcBCdy7NZ1U9nRaRE9yoIv1UEWqY7t4H-CYQSXt99NUSwu19ICgvF1GwgZezURL_tcKKmmdXBbXie3D-EK5LnF_HbRBlaKavEHUoox-KvcyfvWNf_bHdulOvoBDa_m77NsdEE4-uB9ecUG6M2vjQ4UD_I5G9LostrMBObON36JDXFneOOpqinJoqCbx45q-2OLTcnGgbrXg4zSW_R95CCRlBJDjCqVOrheJmTkaqYIjhqQ47PyFV34j7nl1NjOHGQ5OC1B6uA8pOp23C2WqYqK80eXTqhyXGdXHJJIwQd3wl7Nvy2RI7-uYVw2BqiSOKJRijzIm4gK4r1A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791471291334,
+    "type": "rocket",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-10-08",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonStatement of the Loyalty to the Resistance Bloc – 08-10-2026:The U.S.-backed Zionist enemy continues its documented crimes in Lebanon and Palestine, killing civilians and destroying and bulldozing both stone and people. As the anniversary of October 7 approaches, it once again confirms the d...",
     "media": [],
     "verified": false
   },
