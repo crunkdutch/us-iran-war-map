@@ -142948,6 +142948,81 @@
     "media": []
   },
   {
+    "id": 482532783,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Erbil, Iraq: Massive Iranian attacks currently ongoing Erbil",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🇮🇶 | Massive Iranian attacks are currently ongoing in Erbil, Iraqi Kurdistan. Shahed-136 drones have impacted targets in the region, possibly following a leak concerning an enemy gathering. Two drones have impacted the village of Sazman in the Razgari subdistrict of Erbil, Kurdistan Region of Iraq.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/1dfea08b4f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/WwfL2sT4Ycy9RMcio5CTyZrY5LeXZ2BuB0mIKuGz7b1d3LmEWFTXcCPJ7l20vAQ74cYWNYB0MYgklhjD4EGlIX5MHC-bOin0AKLj53m3fhUW1Z4Vnq5CYmaPYn8UAP4aiY7PiJbn7nyTFaOIK-PT_PxRhx0sHg7BvXUFAhcPOxKqsgq7kBtKzPA7NHTzuDRgflZ4SNZqq0mwhi_1ni8gA7Wz1eOpmvC_mMAf5ax1DmdK_O2gIuOkQgCO_9Kf5hqVXGff4wNGUFbe9a9medmXkAByIfwKkkFlyoESnPz_6CyWncVu0PyD8SG5cHiOW4b4Y7uifw-ntwxjWnPpl-82Lg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63116",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/WwfL2sT4Ycy9RMcio5CTyZrY5LeXZ2BuB0mIKuGz7b1d3LmEWFTXcCPJ7l20vAQ74cYWNYB0MYgklhjD4EGlIX5MHC-bOin0AKLj53m3fhUW1Z4Vnq5CYmaPYn8UAP4aiY7PiJbn7nyTFaOIK-PT_PxRhx0sHg7BvXUFAhcPOxKqsgq7kBtKzPA7NHTzuDRgflZ4SNZqq0mwhi_1ni8gA7Wz1eOpmvC_mMAf5ax1DmdK_O2gIuOkQgCO_9Kf5hqVXGff4wNGUFbe9a9medmXkAByIfwKkkFlyoESnPz_6CyWncVu0PyD8SG5cHiOW4b4Y7uifw-ntwxjWnPpl-82Lg"
+      }
+    ]
+  },
+  {
+    "id": 482536609,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Breaking Several powerful explosions occurred minutes",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 Breaking — Several powerful explosions occurred minutes ago in the southern part of the Strait of Hormuz, apparently caused by oil tankers violating regulations and striking mines deployed in the area.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
