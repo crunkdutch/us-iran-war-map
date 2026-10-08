@@ -142842,6 +142842,112 @@
     "media": []
   },
   {
+    "id": 482521311,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Taba: Message from Leader Islamic Revolution Imam",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Message from the Leader of the Islamic Revolution Imam Mujtaba Husayni Khamenei on the occasion of Internal Security Forces Week:In the Name of Allah, the Most Compassionate, the Most MercifulSecurity is one of the greatest divine blessings. Establishing security throughout our beloved Iran—from major cities to the smallest settlements in villages and neighborhoods, and from guarding difficult borders under challenging climatic conditions across diverse regions, from mountains to seas and",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/PbgKsP_4-pDxCBeGS8H9vly2xyU4hExsm53bFNfDpQ4Qzdr96KoK-joQbNOES4FwF3vFQ4wd6KVVXA8WhIujhfqoUOwB1liTuGejMBwjJBmrzuhf63ZvGS-5Rl1Qfi5CwMfzBF1KblzlZkeirjLIs8vpbKWVghQkZKXMMhD9D9DTD1ilNqQ45UpFFXsjLqUkPXBIHqt-S0ehnt3Ri6wL4vrk4jV0Fc40htGw347IVKmHAVIAulKaBtcu0YUBovQYv744uu1e_6u_ri4uihE42pH4bSkVOBkJMkm9Zh1bfYK_G4LXDb-3Mgq49O_wBT6WzGlRSv5yS5ducsQN3tzhkg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482525134,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Jordan, Yemen, Iraq: IraqiResistance Abdul Qader AlKarbalai Military Assistant",
+    "location": "Jordan, Yemen, Iraq, Israel",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Abdul Qader Al-Karbalai Military Assistant for the Islamic Resistance / Harakat al-Nujaba:When we find that a boy of the fugitive, outcast Jordanian intelligence accused of terrorism and behind the car bombings that targeted innocent people in markets and places of worship issues a statement under the name of the so-called \"Association of Muslim Scholars,\" which includes neither scholars nor Muslims, know that the strikes of Ansar Allah in Yemen are directed accurately.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/GUE3Fd9lbYzyl4iBcsn-PiYzE83GypChW752YU_77C4huGfFnOOz_6cDxmmXsXXc7JHGURiyxRosLn4Mb9of-1Q5amEYUYvE2NqM15VD7QyqX9nuCMahJXZVrqIYtzitSroigy0jnGCcTwBm-HwthoEjHDTbmmbv_fzSq7XwLUkHiqaDP-rUZu_sop4A3J0hYWKW6tZW6iGeDmZkJQ-eC8DxTJAOnquaSYGjB-I8d5O2PuW6M-IeOm1wcwsRf-J6u3ccaAGXrPvSrfeZHGUXrccMc-V0aEqmztjUpBv7QulzI5iPuDlyZoPkZOCXnbnWqWMdOkD5b4ClbrFaqc2yLw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482528958,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Tehran, Taba: Leader Signs police forces significant impact",
+    "location": "Tehran, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Leader: Signs of police force’s significant impact in recent conflicts have become more evident📌 Tehran, IRNA –&nbsp;Ayatollah Sayyid Mojtaba Khamenei, the Leader of the Islamic Revolution, said, “In recent years, the significant role played by police force—spanning levels from command and staff echelons to local police stations and outposts—in ensuring security has become increasingly prominent; the impact of this role became even more evident during the second and third imposed wars.”The f",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
