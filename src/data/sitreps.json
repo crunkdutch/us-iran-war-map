@@ -121,6 +121,21 @@
     "verified": false
   },
   {
+    "id": 1791478537296,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "1987-10-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC chief calls Hormuz security ‘a red line,’ warns enemies against interference📌 Tehran, IRNA - The commander-in-chief of the Islamic Revolution Guards Corps (IRGC) warns that the security of the Persian Gulf and the Strait of Hormuz is “a red line” for the Islamic Republic, and that no extra-...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785159548238,
     "type": "airstrike",
     "location": "Tehran",
@@ -188481,6 +188496,10 @@
       {
         "url": "https://cdn5.telesco.pe/file/uR0lz3ma8EocjcRdKzaGdOABtb923E_ZZKuSkWTtVq9AssIoiygenG3qOFL5HVJeGGXrBZIqEmXpJC7qItnmQ3BZbSwVpvPGPiIUQSIBL-MHxnUJMZhBmnNZaFukwlVpsGil7plT2wmNOxVGiPazxsGLRxtbY9t6oDBGXr1h4ylgUnd3i4SsS9COnD0TnYM7aDt63veQajmmIMIbP7CflvT45JqUHO8X7osK0fp0sClWbv35x7goohzs2uJCYHWkVCvWZUr4nznnoQh_cjWAnolq687GlVdbyPEiJFlR3-j69pw6AVRt53ajHc0LV5Mqddn2ofm3FUKCY2o1yuvzNQ.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/trUl6WQ7CXXFlqBYm4ha4HfZ0kDVPgAG71hmYEQmXKGaW-L6LxjVDXdBuplO3xBCwg8Oye_z5XUjAEpKfOlgbpK6rKfN83H0hZBiFdxTPBi0tSTBejMp1PU_JsG_Apb_VFBPUwcHw8rLhtwGzkJhXYiTmyAwyroh5DiNOHNRCXhtzD9H5ZYLk6kKYhGk_B3qhduHU0vGKf8vBAOOOUBB1sZm00HE_ZpBZKsub4E9Dp68icl8vHTY8bYelfksFJ67WLBRqEb4hUXvkP1Ducfir_ewnv_aj7sbGvCeFCGjJitOQ-LCNZZAzorh5Z7SGcWkyc4i1uQ4MJpfIk73wanm_g.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -192263,6 +192282,36 @@
     "verified": false
   },
   {
+    "id": 1791478550852,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces statements — October 6–8, 2026October 6, 2026Our Armed Forces, by the grace of Allah, succeeded in confronting several attempts by Saudi enemy mobilizations to advance toward Bab al-Mandab, expelling them and forcing them to retreat. They made no advance. The gatherings of...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791478537035,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenOur Armed Forces targeted King Khalid Airport in Riyadh this evening with two cruise missiles, Najran Airport with a ballistic missile, and the airbase in Khamis Mushait with a ballistic missile. The strikes were accurate and direct, by the grace of Allah, and resulted in the disruption of air...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791348527371,
     "type": "intercept",
     "location": "Aden",
@@ -192908,6 +192957,51 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#LebanonStatement of the Loyalty to the Resistance Bloc – 08-10-2026:The U.S.-backed Zionist enemy continues its documented crimes in Lebanon and Palestine, killing civilians and destroying and bulldozing both stone and people. As the anniversary of October 7 approaches, it once again confirms the d...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791478558169,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Sayyid Abdul-Malik al-Houthi (H) on the Great Hall massacre and latest developments:Ansar Allah leader Sayyid Abdul-Malik Badr al-Din al-Houthi, speaking on the anniversary of the Great Hall massacre and regarding the latest developments:• The most bitter adversaries are becoming increasingly...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791478473654,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "https://thecradle.co/articles/slow-death-sentence-over-20000-palestinians-in-gaza-face-eight-year-wait-for-urgent-care-due-to-israeli-siege",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791478509897,
+    "type": "rocket",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Regional developments | October 8, 2026🇾🇪 Yemen— Yemen’s air ban on Riyadh International Airport remains in effect. Eleven aircraft are avoiding landing at the airport, with some circling nearby and others changing their routes to alternative airports.— Saudi authorities ordered employees to eva...",
     "media": [],
     "verified": false
   },

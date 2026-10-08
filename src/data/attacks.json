@@ -141970,6 +141970,38 @@
     ]
   },
   {
+    "id": 482517489,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Maritime Trade Operations received delayed report",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "UK Maritime Trade Operations: We received a delayed report from a reliable source stating that a crude oil tanker was targeted by an unknown projectile on October 6, 2026, while transiting the Strait of Hormuz.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482388136,
     "type": "intercept",
     "status": "confirmed",
@@ -142709,6 +142741,102 @@
       "other": 0
     },
     "description": "#LebanonStatement of the Loyalty to the Resistance Bloc – 08-10-2026:The U.S.-backed Zionist enemy continues its documented crimes in Lebanon and Palestine, killing civilians and destroying and bulldozing both stone and people. As the anniversary of October 7 approaches, it once again confirms the deeply rooted will of resistance among the Palestinian people and their constant readiness to make sacrifices and surprise the brutal occupying enemy with new forms of confrontation that expose the fra",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482506029,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Israel: Sayyid AbdulMalik alHouthi Great Hall massacre",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Sayyid Abdul-Malik al-Houthi (H) on the Great Hall massacre and latest developments:Ansar Allah leader Sayyid Abdul-Malik Badr al-Din al-Houthi, speaking on the anniversary of the Great Hall massacre and regarding the latest developments:• The most bitter adversaries are becoming increasingly defiant, criminal, and insistent on oppression and tyranny. Among the most prominent examples in our time are the Zionist enemy, its sponsor, the United States, and others.• The Saudi aggressor is am",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482509848,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Sanaa, Riyadh, Gaza City: Regional developments October 2026 Yemen Yemens",
+    "location": "Sanaa, Riyadh, Gaza City, Caspian Sea, Syria, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Regional developments | October 8, 2026🇾🇪 Yemen— Yemen’s air ban on Riyadh International Airport remains in effect. Eleven aircraft are avoiding landing at the airport, with some circling nearby and others changing their routes to alternative airports.— Saudi authorities ordered employees to evacuate several office towers in Riyadh amid reports of explosions being heard.— More than four explosions were reported in Riyadh, including an explosion that shook the city. Reports also indicated tha",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482513668,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran, Caspian Sea: Iran cannot blockaded borders with nations",
+    "location": "Tehran, Caspian Sea",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran cannot be blockaded as it has borders with 15 nations: Pezeshkian📌 Tehran, IRNA – President Masoud Pezeshkian, referring to the US economic war, says the enemy cannot easily isolate the Islamic Republic, given that the country shares borders with 15 nations, allowing it to continue trade, political, and security exchanges through various routes.Pezeshkian made these remarks on Thursday prior to his departure for Turkmenistan to participate in the Commonwealth of Independent States (CIS)",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
