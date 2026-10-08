@@ -189765,6 +189765,67 @@
     "verified": false
   },
   {
+    "id": 1791500168444,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-01",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | Announcement of the killing of the commander of Saudi-backed forces’ emergency troops in Taiz, following intense clashes with Yemeni forces.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Yt1UiI8bjnOrirq_cUGvgSkaQ1CAO034ZUxX3EvZCN-wtfvOC_D_LKeGLIM9heAWrxC4oOtrbUXa3zX4fOJh_LfWnLsVsTholbtHEHZZGbPX7GPygL_HywPRIfap2Pq4qVlphKcCFxMWC8A3wRmNwyUFGhuEN6mh7P9HwKgyOBJ7b0-Am-DiVd7Sv8UJyhzS0Hkcc9kZOcpm_kl7pxiO9Vjoovh0Dvgwb0Zp2kixUYGHPPkzC27ODvK2fnF2Lch6V02EQ8xrvfRYvySvVecaERJipLXw_BfjEaBZYF0Az7378QPE9e7v7g1bNkHKkwAKtTcvbqZni4OZqiGykfPSEg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791500186838,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | A ship in the Strait of Hormuz was reportedly struck by a missile fired by the Iranian Revolutionary Guard Navy, resulting in a fire onboard.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791500179446,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Moment of presenting the blessed gifts of Imam Sayyid Mujtaba Khamenei, Leader of the Islamic Revolution, to the family of a Hezbollah martyr in a village near the front lineThe Iranian delegation met with the family of the Hezbollah martyr in a village near the front line of the conflict wit...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3201b6bf83.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ux35cwxKtVyt0GrjveY26fhGMg13jyMhvT16sxLpZkDS7lBkrsfnmShM9rsyaw1_nm02o4Q9Qzm9KKuqSur5wt1VFKuTGF3GR8wp4u3uCq0fKdVBO3xD4B2Rmf-RGVU5x8GwegxWJgbO-pvAYPaA7Jv0VHMIiUWF93a3QK6awdwD-5AIfTdVJSddb9mEN-YEBUDSEH5T4XNw9E1emelY5nALvHH8xE8IQRsU42HAISTRorzesf5RUXb8XH2or734UwvA2Ohv3xnxqh5GC10KQdV4pSvvJ147HjnulQxGsK23jOnx0WuFJc26241Q_YZ1y3d8ERMnt7b1hWRo7N0Z9Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/62799",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ux35cwxKtVyt0GrjveY26fhGMg13jyMhvT16sxLpZkDS7lBkrsfnmShM9rsyaw1_nm02o4Q9Qzm9KKuqSur5wt1VFKuTGF3GR8wp4u3uCq0fKdVBO3xD4B2Rmf-RGVU5x8GwegxWJgbO-pvAYPaA7Jv0VHMIiUWF93a3QK6awdwD-5AIfTdVJSddb9mEN-YEBUDSEH5T4XNw9E1emelY5nALvHH8xE8IQRsU42HAISTRorzesf5RUXb8XH2or734UwvA2Ohv3xnxqh5GC10KQdV4pSvvJ147HjnulQxGsK23jOnx0WuFJc26241Q_YZ1y3d8ERMnt7b1hWRo7N0Z9Q"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1790916918521,
     "type": "intercept",
     "location": "Aden",
