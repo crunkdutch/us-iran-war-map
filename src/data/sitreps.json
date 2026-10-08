@@ -686,6 +686,21 @@
     "verified": false
   },
   {
+    "id": 1791449668499,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran says Israel must be held accountable for genocide, war crimes📌 Tehran, IRNA – Iran’s representative to the Sixth Committee of the UN General Assembly has strongly condemned US-Israeli crimes against the peoples of Iran and Palestine, saying Israel must be held accountable for genocide, war ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -192542,6 +192557,21 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | BREAKING — Iran has struck an Emirati tanker off the coast of Fujairah, UAE, resulting in a massive fire. This is the second ship to be struck outside the Strait of Hormuz in the past 24 hours, seemingly as part of a new escalatory doctrine by Iran’s IRGC.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791449681235,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "⚡Iranian TV: Clashes between Iranian armed forces and militants in the Nusratabad area of ​​Zahedan, southeastern Iran@SimurghRes",
     "media": [],
     "verified": false
   },
