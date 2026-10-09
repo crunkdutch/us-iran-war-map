@@ -143135,6 +143135,70 @@
     ]
   },
   {
+    "id": 482551923,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Gaza City, Lebanon: Regional developments October 2026 Saudi Arabia",
+    "location": "Sanaa, Gaza City, Lebanon, Syria, Kuwait, Oman, Saudi Arabia, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Regional developments | October 9, 2026🇸🇦 Saudi Arabia— Saudi aircraft carried out an airstrike on Jabal Al-Khadra in Al-Siyani District, Ibb.— A Saudi attack on a bus in Taiz killed a young man and a woman. The attack also caused a pregnant woman on the bus to suffer a miscarriage, while seven others were reported wounded.— Saudi aircraft launched two raids on Al-Dhahir and Al-Salem districts in Saada Governorate.— Saudi aircraft launched two raids on Haradh border district in Hajjah Gov",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482555754,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Baghdad, Erbil, Sanaa: Regional developments October 2026 Yemen Several",
+    "location": "Baghdad, Erbil, Sanaa, Riyadh, Strait of Hormuz, Yemen, UAE, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Regional developments | October 9, 2026🇾🇪 Yemen— Several explosions have been heard in Riyadh, while reports indicate that aircraft are continuing to avoid Saudi airspace over the capital.— Najran Airport has remained closed to flights for more than 56 hours, Jazan Airport for more than 56 hours and Yanbu Airport for more than 32 hours.— Yemen’s Humanitarian Operations Coordination Center again warned airlines of the dangers of navigation in Saudi airspace.— Yemeni drones were reported headi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
