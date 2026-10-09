@@ -193410,6 +193410,41 @@
     "verified": false
   },
   {
+    "id": 1791536272242,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iranian FM holds phone conversation with Armenian counterpart📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has held a phone conversation with his Armenian counterpart, Ararat Mirzoyan.During a phone call late Thursday, Araghchi and Mirzoyan discussed bilateral issues and the latest regional d...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791536304426,
+    "type": "airstrike",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 In photos: Shams Tabrizi mausoleum complex officially opened in Khoy📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jw_p0bELN3nM-nbYKdY9Tz65OpEgU07qAG6IQ6GNk_MiNgmI4NNcOCDwdJAL-h6l9I7zN5NUlWh1hILq-C6c9rr_wr5B2brac84nbwxBz4EzOgTz6EG7VHCpoFyLaFYwgSZ_NbL6QcW3Xryo1KzHAXU81CbmmveCpMVF89eutlMiqzTEjA_0hcwXIUzBRPsmQzcGuOQzagEbRbsQA6WEogNCOpruHzP8ACAFe7rEPAby6sZqSeUkj8UXStyLyxBKorLLuDBypX0VVt_Ry-C5LCeZ6pnZOC8foNMBXyUZUjiXfCGc-pbW7qxsRIafa0FFVA-mnIWSS0MRt6ah_u83tQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1791521819467,
     "type": "drone",
     "location": "Sanaa",
