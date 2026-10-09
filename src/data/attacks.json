@@ -138908,6 +138908,38 @@
     "media": []
   },
   {
+    "id": 482563419,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-09-30",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz: Maritime Trade OperationsWe received delayed report",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "UK Maritime Trade Operations:We received a delayed report of an incident that occurred inside the Strait of Hormuz.A liquefied natural gas (LNG) carrier was struck by an unidentified projectile.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481933503,
     "type": "intercept",
     "status": "confirmed",
@@ -143131,6 +143163,49 @@
       {
         "url": "https://cdn4.telesco.pe/file/Mk2tHe_rEmSgwYC5ghSkf1U9iSvtN0Wlkz9DGFRw2TJci_w5n14npNdSUxCXKrFZM75CfFNCHseBqNc6HKUj2rZvkOBNlT_Yo8cmp9rE8uX7qZkywvTNo7pGO_C8x0GPNtuVcTHFyBSqFLPYwGbVOHNbKMf0VkpKNgdccjS4_FJMCWlrtFjDidZKs699TkiAzv_6Rn0IaWPzGAd3ULY32tYoLmJYTW7F8DKJ1j4u9W1T8_GYYGGu8f0kq4KJSX8vrbfD62_mLoUwTz3UMZmu5_MkMI8QFCYTFYN4NGPJ9d1DphDiZ1tcdGXncjNtravVXZv7sndpLF5OxJMX4Pu33Q.jpg",
         "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482559586,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen, Saudi Arabia: Satellite images shows destruction heavily fortified",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇸🇦 | Satellite images shows the destruction to a heavily fortified bunker at Khamis Mushait Air Base in southwestern Saudi Arabia, following reports of a Yemeni ballistic missile strike.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9646f950c1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C0o5usm6MhunitXWyqnq6Y_Qcb4iJP-gbmtqE9eHfhkyz4UJ_OowD9yRD5AHgXCq6YZFRwbyH-rzMYxaNMMNFwtNNgH5jsn-yKK9UBEZ-etIecnUYrWVGjqqcNsJV27ARU_1ze5efHhBrc9Az6yKou_fIeoO_5foJaux3y_lWg9327bwLCivDhGSU2wLAaqDzF7j_LNScwkaYJgnE8VmsYk0AjazrOq6JPFqbLMlS0eHokZHGEnEet8V-sq7yS2f0OI-HoCCG2nNA87jm8kIoFTw_O-hvuBIQ2wr0VtRwYEfUuRgbbCSzTkjrlhmQcFBxBJl0t48e2JheTfKPWjfjQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63128",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C0o5usm6MhunitXWyqnq6Y_Qcb4iJP-gbmtqE9eHfhkyz4UJ_OowD9yRD5AHgXCq6YZFRwbyH-rzMYxaNMMNFwtNNgH5jsn-yKK9UBEZ-etIecnUYrWVGjqqcNsJV27ARU_1ze5efHhBrc9Az6yKou_fIeoO_5foJaux3y_lWg9327bwLCivDhGSU2wLAaqDzF7j_LNScwkaYJgnE8VmsYk0AjazrOq6JPFqbLMlS0eHokZHGEnEet8V-sq7yS2f0OI-HoCCG2nNA87jm8kIoFTw_O-hvuBIQ2wr0VtRwYEfUuRgbbCSzTkjrlhmQcFBxBJl0t48e2JheTfKPWjfjQ"
       }
     ]
   },

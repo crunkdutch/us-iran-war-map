@@ -189252,6 +189252,21 @@
     "verified": false
   },
   {
+    "id": 1791529063912,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-09-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "UK Maritime Trade Operations:We received a delayed report of an incident that occurred inside the Strait of Hormuz.A liquefied natural gas (LNG) carrier was struck by an unidentified projectile.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790631740423,
     "type": "naval",
     "location": "Iraq",
@@ -193351,6 +193366,47 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1791529107999,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📡 🇸🇦 | Satellite images shows the destruction to a heavily fortified bunker at Khamis Mushait Air Base in southwestern Saudi Arabia, following reports of a Yemeni ballistic missile strike.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9646f950c1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C0o5usm6MhunitXWyqnq6Y_Qcb4iJP-gbmtqE9eHfhkyz4UJ_OowD9yRD5AHgXCq6YZFRwbyH-rzMYxaNMMNFwtNNgH5jsn-yKK9UBEZ-etIecnUYrWVGjqqcNsJV27ARU_1ze5efHhBrc9Az6yKou_fIeoO_5foJaux3y_lWg9327bwLCivDhGSU2wLAaqDzF7j_LNScwkaYJgnE8VmsYk0AjazrOq6JPFqbLMlS0eHokZHGEnEet8V-sq7yS2f0OI-HoCCG2nNA87jm8kIoFTw_O-hvuBIQ2wr0VtRwYEfUuRgbbCSzTkjrlhmQcFBxBJl0t48e2JheTfKPWjfjQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63128",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C0o5usm6MhunitXWyqnq6Y_Qcb4iJP-gbmtqE9eHfhkyz4UJ_OowD9yRD5AHgXCq6YZFRwbyH-rzMYxaNMMNFwtNNgH5jsn-yKK9UBEZ-etIecnUYrWVGjqqcNsJV27ARU_1ze5efHhBrc9Az6yKou_fIeoO_5foJaux3y_lWg9327bwLCivDhGSU2wLAaqDzF7j_LNScwkaYJgnE8VmsYk0AjazrOq6JPFqbLMlS0eHokZHGEnEet8V-sq7yS2f0OI-HoCCG2nNA87jm8kIoFTw_O-hvuBIQ2wr0VtRwYEfUuRgbbCSzTkjrlhmQcFBxBJl0t48e2JheTfKPWjfjQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791529092648,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran pursues justice for Minab school attack victims at national, international levels📌 Bandar Abbas, IRNA – Deputy Justice Minister for Human Rights and International Affairs, Askar Jalalian, announces that efforts are being made to seek justice for the victims of the Shajareh Tayyebeh school a...",
+    "media": [],
     "verified": false
   },
   {
