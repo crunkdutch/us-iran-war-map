@@ -192503,6 +192503,36 @@
     "verified": false
   },
   {
+    "id": 1791543514321,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media: The Armed Forces have completed the expulsion of Saudi enemy forces gathered in the field from all areas of Jabal Habashi District in Taiz Governorate.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791543458969,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media:An attack by Saudi enemy forces gathered in the field south of Bab Al-Mandab, advancing from Lahij, was repelled. Dozens were killed and wounded, and a number of vehicles were burned and disabled.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791348527371,
     "type": "intercept",
     "location": "Aden",
@@ -193442,6 +193472,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1791543529660,
+    "type": "cyber",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Pezeshkian meets SCO secretary-general on sidelines of CIS summit📌 Tehran, IRNA – President Masoud Pezeshkian has met with the Secretary General of the Shanghai Cooperation Organization (SCO), Nurlan Yermekbayev, in Turkmenistan.Pezeshkian held talks with Yermekbayev on the sidelines of the Comm...",
+    "media": [],
     "verified": false
   },
   {

@@ -142066,6 +142066,44 @@
     "media": []
   },
   {
+    "id": 482567253,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-06",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Bab al-Mandab, Yemen: YemenA military source Yemeni mediaAn attack",
+    "location": "Bab al-Mandab, Yemen",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenA military source to Yemeni media:An attack by Saudi enemy forces gathered in the field south of Bab Al-Mandab, advancing from Lahij, was repelled. Dozens were killed and wounded, and a number of vehicles were burned and disabled.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/62970",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/eZRIth5JyEyypJXQxrJm_tY_rvryinBZh9Ev42JszDVXPv8J_ZlQ8UPl3mEDpFvMDSfcBZuXxpCyRiYzvnvhAHaZ4m0vvaFrYvbprnud3I0ZzEfgEOPvye-um6xwA5W43Eby7lowgIMVvZsa0Xf6V0EQZCxycuCGRG44p-ai0URU5PRh-dr5v9jW2_nPXRGMFUvdhVbmjsBiYx-UcHav86fC8CiM7mdn9RQ5AkQ1ZXTmI9m0qrVQ00umpjqwGOdGqMyCooxiiQXEkX-q2_URfxCOshOgsNP23dOjwYev31jopvs-Da9cfXYiwPXIzeR2DTKaEOXLUqqSIAl4TcVNHw"
+      }
+    ]
+  },
+  {
     "id": 482388136,
     "type": "intercept",
     "status": "confirmed",
@@ -143084,7 +143122,18 @@
     "description": "🇮🇷 Breaking — Several powerful explosions occurred minutes ago in the southern part of the Strait of Hormuz, apparently caused by oil tankers violating regulations and striking mines deployed in the area.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/4f0f5f9ebd.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/pwhFZQl-UjqdqH2IXocdWOYL4NGrWX5XzLb28sxOuIzdAsCSvBeadiPoswCuTNG-Wst0frnlMv4mjmInjxpmsqwx5_PZrQeFxd5MVTnHmVHhG15dfOyliJg0AoYsT6VyuHf1G89MVm5phoEsWHEUa4ghl2G63zyZp09UyF0lzkD70PyuNl_Q5uPvu5KrE1COqJI9HifKAKfTdHrWCT0r8JXD_Zfknq2tj5DpMUq92oxeQE5I2EmNKd02_8TpxaQSYH4f0PejAmNsOGjMgzbebMLaumKpR8ESIJ3xNNelwNmCQtBhH6ETtcjAlPXsCOoIYzrVNRV1exby2P3dd0sP7g"
+      },
+      {
+        "url": "https://t.me/enemywatch/63135",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/pwhFZQl-UjqdqH2IXocdWOYL4NGrWX5XzLb28sxOuIzdAsCSvBeadiPoswCuTNG-Wst0frnlMv4mjmInjxpmsqwx5_PZrQeFxd5MVTnHmVHhG15dfOyliJg0AoYsT6VyuHf1G89MVm5phoEsWHEUa4ghl2G63zyZp09UyF0lzkD70PyuNl_Q5uPvu5KrE1COqJI9HifKAKfTdHrWCT0r8JXD_Zfknq2tj5DpMUq92oxeQE5I2EmNKd02_8TpxaQSYH4f0PejAmNsOGjMgzbebMLaumKpR8ESIJ3xNNelwNmCQtBhH6ETtcjAlPXsCOoIYzrVNRV1exby2P3dd0sP7g"
+      }
+    ]
   },
   {
     "id": 482544264,
