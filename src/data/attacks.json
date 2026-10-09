@@ -137513,6 +137513,38 @@
     ]
   },
   {
+    "id": 482574924,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Dubai, Israel: Enemy_MediaIsraeli Enemy Army Radio Mossad currently",
+    "location": "Dubai, Israel",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” Enemy Army Radio: The Mossad is currently investigating the attempted attack on a Flydubai aircraft, with the Shin Bet assisting in the investigation.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481780304,
     "type": "naval",
     "status": "confirmed",
@@ -143259,6 +143291,102 @@
     ]
   },
   {
+    "id": 482578761,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "Egypt Airstrike — UAE, Egypt: added that informed legal adviser this",
+    "location": "UAE, Egypt",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Gil added that he informed the legal adviser of this matter, describing what happened as a “criminal pattern” that serves, in his assessment, a narrative portraying Netanyahu as the only person who took action from the earliest moments of the attack.These allegations place the documentation of communications during the attack’s critical hours at the center of the controversy over the sequence of events and whether records were altered in a way that could affect the attribution of responsibility.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482582599,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Statement issued HamasIn Name Allah Most",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by HamasIn the Name of Allah, the Most Compassionate, the Most MercifulThe Islamic Resistance Movement (Hamas) affirms that the escalation of settler terrorism and attacks by occupation forces in the West Bank, accompanied by the targeting of farmers and olive harvesters, the burning of vehicles, the seizure of property, raids on homes, and the arrest of citizens, comes within the context of a systematic aggression sponsored by Netanyahu’s terrorist government and carried out by",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482586438,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-08",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Bab al-Mandab, Yemen, Israel: YemenStatement Marches Steadfast with Palestine High",
+    "location": "Bab al-Mandab, Yemen, Israel",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenStatement of the Marches: Steadfast with Palestine and on High Alert in the Face of the Saudi Enemy’s Aggression, Siege, and Falsehoods– We reaffirm our steadfast position on the Palestinian cause and our commitment to the path of jihad and resistance in confronting the plan to reshape the “Middle East.”– We congratulate the people on the liberation of districts in Taiz Governorate and their liberation from the militias and gangs assembled by the Saudi enemy.– We congratulate our Armed For",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482551923,
     "type": "drone",
     "status": "confirmed",
@@ -143318,6 +143446,38 @@
       "other": 0
     },
     "description": "🔴Regional developments | October 9, 2026🇾🇪 Yemen— Several explosions have been heard in Riyadh, while reports indicate that aircraft are continuing to avoid Saudi airspace over the capital.— Najran Airport has remained closed to flights for more than 56 hours, Jazan Airport for more than 56 hours and Yanbu Airport for more than 32 hours.— Yemen’s Humanitarian Operations Coordination Center again warned airlines of the dangers of navigation in Saudi airspace.— Yemeni drones were reported headi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482571088,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: Islamic Revolutionary Guard CorpsHeroic risen nation",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 Islamic Revolutionary Guard Corps:Heroic and risen nation of Islamic Iran;220 nights of the epic of your presence in the millions, steadfastness, and endurance in defense of truth and justice have astonished the world, call upon nations to play a role in reforming the global situation, and serve as the most important divine support and source of encouragement for the fighters of Islam.The brave fighters of the IRGC Navy, in fulfilling the command of the Supreme Commander-in-Chief and the ge",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

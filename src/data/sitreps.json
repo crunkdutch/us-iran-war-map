@@ -187652,6 +187652,21 @@
     "verified": false
   },
   {
+    "id": 1791557990815,
+    "type": "airstrike",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” Enemy Army Radio: The Mossad is currently investigating the attempted attack on a Flydubai aircraft, with the Shin Bet assisting in the investigation.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790682256908,
     "type": "rocket",
     "location": "Lebanon",
@@ -190158,6 +190173,67 @@
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "Foreign media, citing the UK maritime authority: An oil tanker reported several explosions in its vicinity, 60 nautical miles south of Al-Mokha, Yemen.#Military_Media",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557964725,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-02",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🇱🇧 | Presentation of the blessed keffiyeh of the Leader of the Islamic Revolution, Imam Sayyid Mujtaba Khamenei, to the Mujahid Hezbollah fighters on the front line of the battle against the Zionist regime’s army, near the Litani River.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6ed9d34d24.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dn5LrRG-7X6TQDbBVhJzK1ic8cFmj_3S_AZ7mMOjsQ1zJmSxje11f2zxLJDqAKWsO2XsXxnKV_1V65L1aAYlwJ3tZARewhjPB6upTv20SDvD3Z2rnPQHdyIU7CNLIWEjTyfGt67etwkqh5GbCJZLyz-jObLDj4iqGmNxLgtzHJ9ChMB5HW6IGT1gxbKRd0in8lrUQqLxXHrW9-4zkM_7Jwh2AkevzIEBHvFLxwV6K3yAUCIGJVLlGQWoo1i39pRO9CVK1hi7d-gzlJntAj_RX4th6SqHkIioHQhPYw9YDqIRl7R4cPlWAWr3W-jCdECPJP6PUdjyQRS744X12MWUMw"
+      },
+      {
+        "url": "https://t.me/enemywatch/62815",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dn5LrRG-7X6TQDbBVhJzK1ic8cFmj_3S_AZ7mMOjsQ1zJmSxje11f2zxLJDqAKWsO2XsXxnKV_1V65L1aAYlwJ3tZARewhjPB6upTv20SDvD3Z2rnPQHdyIU7CNLIWEjTyfGt67etwkqh5GbCJZLyz-jObLDj4iqGmNxLgtzHJ9ChMB5HW6IGT1gxbKRd0in8lrUQqLxXHrW9-4zkM_7Jwh2AkevzIEBHvFLxwV6K3yAUCIGJVLlGQWoo1i39pRO9CVK1hi7d-gzlJntAj_RX4th6SqHkIioHQhPYw9YDqIRl7R4cPlWAWr3W-jCdECPJP6PUdjyQRS744X12MWUMw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791557923525,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-10-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Commander of the IRGC Quds Force Sardar Esmail Qaani on the second anniversary of the martyrdom of the leaders of the Lebanese Resistance Front:The martyred Leader of the Revolution emphasized, during the Nasr Friday Prayers, one week after the martyrdom of Sayyid Hassan Nasrallah, that the u...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557956589,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Ansarullah have advanced along the west of Jabal Habashi, northwest Tai'zz direction, southern Yemen.🔻@enemywatch+",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HyXZ3Svfr08dl9i8nY34Wu2IWsy_NdErmcsvWLg3ijEPf2JrZO26pssm4a218lSK6RUZbJ4jtoNFiinWuiaK-8q7fvXytUReHY9wrKUx852v_wr2e275goBEf4GU4eQKoGAZ2INxBcsBlnDaRrH3qC11PXqfRxuYs16RRCYHWNYEK1D9eNTQSFjOlfnuBjaW55mHzH3A4JilmZh2qlJ08S350TZOT7D2I-rFIZCtV6IoN8L5ti6fvHAvMnRfKTw5vQRrXigAWPEhrCL5yTZVx6AJqGyNm4vX6jzB49-v2WkVS1Q_mlrlWEr-5r0vKEZs_RsFy4gyofXxN4KhOIPMWw.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
@@ -193505,6 +193581,81 @@
     "verified": false
   },
   {
+    "id": 1791557926279,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Navy:The naval forces of the IRGC, acting on the orders of the Commander-in-Chief of the Armed Forces and in response to the demand of the Iranian people to establish sovereignty over the Strait of Hormuz, are managing the strait. They have not allo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557986304,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Navy: From this moment onward, confronting vessels that violate the rules will not be limited to the Strait of Hormuz. Any vessel transiting through an unauthorized passage anywhere in the region will be pursued, and punishment will be certain.#Mili...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557936051,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Humanitarian flights to and from Riyadh Airport will be permitted for all flights that have obtained authorization from the Humanitarian Operations Coordination Center in the capital, Sana’a.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557918056,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "UK Maritime Trade Operations:A vessel was struck by an unknown projectile 13 nautical miles west of the UAE, and a fire broke out on board.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557950403,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "UK Maritime Trade Operations: A vessel was struck by an unknown projectile 13 nautical miles west of the UAE, and a fire broke out on board. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791521819467,
     "type": "drone",
     "location": "Sanaa",
@@ -193516,6 +193667,71 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔔 | Regional developments | October 9, 2026🇸🇦 Saudi Arabia— Saudi aircraft carried out an airstrike on Jabal Al-Khadra in Al-Siyani District, Ibb.— A Saudi attack on a bus in Taiz killed a young man and a woman. The attack also caused a pregnant woman on the bus to suffer a miscarriage, while sev...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557964066,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🔻 🇸🇦 | The killing of Maaz Ali Saleh, commander of the 16th Giants Brigade in the Saudi-backed forces, and leader Abdulrahman Khalid Hamoud by Yemeni forces at Bab el-Mandeb.🔴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/j48UfwnjyPIpWPCXB83YEfTSMZK1-fxoDCdaDXi9X1vuSCzlSE3z2JUDWJ6KjOYOnQ5nGqlErLuJbIuHlE4p4ICfbm5yWBR0pa__yvGJ4tLHPS18YE9qy8-yRWkvqVS3dj9nsqwIugG-hKvtH3F5YF1-nCOgSc2BuLG0iNZOYLUB2E2uM7iTaBmg1Fu0dTVP2WOLzzwOoDu1Q1NQdCRk9lOSu6fVa9Y6QfAi4JrUZEDSr8bZ2lOY9thIYJrqRMux1d6v8tCgoIyinKg-LxyxLlREoxoNU02fL5NUDp4CR3drw6jHsja1vEifsi6OA2doBl5Uovj0wcY8DehHiD3Oaw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791557933139,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | What's next? With the start of massacre of christians of Syria who are left alone by an western or christian country. No condemnation came out of the Resistance, as if Muslims don’t care? While America pretended to be “waiting” for an Iranian response…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557934249,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ Read the tagged post: ✅ | The ISIS 2.0 is attacking Syria now, clearing the remnants of HTS, and expanding its operations, killing SDF members and also targeting Alawites and other minority groups. This surge is reminiscent of a Mongol invasion outburst…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791557974365,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The naval command of the Revolutionary Guard: From now on, dealing with ships violating regulations in the Strait of Hormuz will no longer be limited to that area. Any ship that passes through an unauthorized passage in the region will be pursued, and the penalties will be final.🔻@enemywatch",
     "media": [],
     "verified": false
   },
