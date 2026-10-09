@@ -193735,6 +193735,36 @@
     "verified": false
   },
   {
+    "id": 1791572386712,
+    "type": "missile",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenYemeni Armed Forces Spokesperson Brigadier General Yahya Saree:By the grace, assistance, and support of Allah, our Armed Forces have once again, for the second time within hours, successfully confronted and driven back the Saudi enemy forces gathered in the field that attempted to advance from...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791572403661,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Yemeni Armed Forces Spokesperson Brigadier General Yahya Saree:Over the past 24 hours, Saudi warplanes carried out 77 airstrikes and missile attacks targeting civilian infrastructure in the capital, Sana’a, and the governorates of Marib, Saada, Al-Jawf, Hajjah, Taiz, and Amran. The attacks were carr...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791521819467,
     "type": "drone",
     "location": "Sanaa",
@@ -193826,6 +193856,51 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "— It is time to consider an Erbil model for dealing with terrorist hideouts in Sistan and Baluchestan Province and the adjoining border regions of southwestern Pakistan, including stronger cross-border coordination to eliminate the terrorist threat and prevent…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791572352501,
+    "type": "drone",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-09",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly developments | October 9, 2026🇾🇪 Yemen / 🇸🇦 Saudi Arabia— Saudi aircraft carried out further attacks on Sanaa, including strikes targeting communications networks in Bilad al-Rus, Arhab and Jabal Anam, while additional Saudi raids targeted the communications network in Kitaf and the Al...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791572397344,
+    "type": "drone",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "date": "2026-10-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly developments | October 9, 2026🇾🇪 Yemen / 🇸🇦 Saudi Arabia— AnsarAllah forces reportedly expelled Saudi-affiliated forces from Jabal Habashi in Taiz following intense clashes. Yemeni forces have reportedly taken control of more than 2,000 square kilometres of territory, in addition to pr...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791572382801,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-09",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:During the past 24 hours, Saudi warplanes launched 77 airstrikes and missiles targeting civilian objects in the capital Sana'a and the governorates of Marib, Sa'ada, Al-Jawf, Hajjah, Taiz, and Amran, through \"F-15\" and \"Typhoon\" aircraft that took off from the Khamis Musha...",
     "media": [],
     "verified": false
   },
