@@ -193308,6 +193308,52 @@
     "verified": false
   },
   {
+    "id": 1791514662679,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾/ 🇮🇶 | Julani terrorist gangs attacked Iraqi tanker drivers inside Syrian territory.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e1bac77cb0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nVHi8EuF-6YLIynVf6fUIyZ98wX_DiiuTvXQeK-hR1bBO85cgc0ybGa2wwkMCbGUCPZjWurRxWBK6FsMFO5KBld5DaL02pniQWsJ-ttUZvgimDbtsFVjgT9oun9-okiuwslDPjkQgpNdmQ2Ezo_aZmIy1SsdYutnaT2wudcKFgCJ936tEOO6IkT8eSRSEfdZMKtdWKH9v-oeCWn2br-3QMxYWIO5aXCwI-J-k_I_njIKcZYFt3UHtBYKL4vDzVIyX9A00g3wZW5zcxd2B7CCq_Kw1PU12zQnGQcY4QHOaelQW-o21cyBvOExzs66gOmaAMeb2Or0RTD_uVmjlQTQyA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63122",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nVHi8EuF-6YLIynVf6fUIyZ98wX_DiiuTvXQeK-hR1bBO85cgc0ybGa2wwkMCbGUCPZjWurRxWBK6FsMFO5KBld5DaL02pniQWsJ-ttUZvgimDbtsFVjgT9oun9-okiuwslDPjkQgpNdmQ2Ezo_aZmIy1SsdYutnaT2wudcKFgCJ936tEOO6IkT8eSRSEfdZMKtdWKH9v-oeCWn2br-3QMxYWIO5aXCwI-J-k_I_njIKcZYFt3UHtBYKL4vDzVIyX9A00g3wZW5zcxd2B7CCq_Kw1PU12zQnGQcY4QHOaelQW-o21cyBvOExzs66gOmaAMeb2Or0RTD_uVmjlQTQyA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791514598454,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | Saudi local sources mourn a Saudi pilot killed as a result of the Yemeni strike on Riyadh Airport today.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Mk2tHe_rEmSgwYC5ghSkf1U9iSvtN0Wlkz9DGFRw2TJci_w5n14npNdSUxCXKrFZM75CfFNCHseBqNc6HKUj2rZvkOBNlT_Yo8cmp9rE8uX7qZkywvTNo7pGO_C8x0GPNtuVcTHFyBSqFLPYwGbVOHNbKMf0VkpKNgdccjS4_FJMCWlrtFjDidZKs699TkiAzv_6Rn0IaWPzGAd3ULY32tYoLmJYTW7F8DKJ1j4u9W1T8_GYYGGu8f0kq4KJSX8vrbfD62_mLoUwTz3UMZmu5_MkMI8QFCYTFYN4NGPJ9d1DphDiZ1tcdGXncjNtravVXZv7sndpLF5OxJMX4Pu33Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
