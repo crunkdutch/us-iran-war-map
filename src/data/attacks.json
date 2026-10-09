@@ -139329,6 +139329,38 @@
     "media": []
   },
   {
+    "id": 482590278,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria, Jordan, Kuwait: IraqiResistance Statement from AlNujaba MovementIn Name",
+    "location": "Syria, Jordan, Kuwait, Iraq",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Statement from Al-Nujaba Movement:In the Name of Allah, the Most Compassionate, the Most MercifulFollowing the expulsion of the criminal American occupation forces and the other forces allied with them, we have, by the grace of Allah Almighty, emerged from a dark era in our modern history, during which this black nightmare weighed heavily upon Iraq with its military forces that desecrated our sacred land. This victory is the fulfillment of the pledge we made to the two ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481984918,
     "type": "intercept",
     "status": "confirmed",
@@ -143478,6 +143510,38 @@
       "other": 0
     },
     "description": "🇮🇷 Islamic Revolutionary Guard Corps:Heroic and risen nation of Islamic Iran;220 nights of the epic of your presence in the millions, steadfastness, and endurance in defense of truth and justice have astonished the world, call upon nations to play a role in reforming the global situation, and serve as the most important divine support and source of encouragement for the fighters of Islam.The brave fighters of the IRGC Navy, in fulfilling the command of the Supreme Commander-in-Chief and the ge",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482594119,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz, Persian Gulf: IRGC warns vessels against violating designated",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 IRGC warns vessels against violating designated routes in Strait of Hormuz📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has renewed its warning to vessels defying the shipping guidelines and attempting to pass through a restricted zone south of the Strait of Hormuz.In a message posted on its social media account on Friday, the IRGC Navy stated that any vessel traversing an unauthorized route in the strait will be pursued throughout the region and will be punished.​The soci",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

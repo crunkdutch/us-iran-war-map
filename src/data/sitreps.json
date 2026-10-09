@@ -189430,6 +189430,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/qumrNCcW8JNtj22b4ELwnWJ16aArgONzoR6uuo0wtCtjjKzwZabUpRJrn30suzH3a1ZSIykyWReKSuzR_J4fbAWUhlLwWwbg22hNQOZA8pl59hacZd3pQrA0bFpAtMSZjqwR9jL2nEFx5LAmo9Qn88oZLAqc524aKyeuAx4xOvuQxYkcwxM-R3bbO_EV7C_9EAbNy7KEZjc4s2LnL_nbKZWgWqM1X6Hm_dNJz0-FUEmgUO441Zpi6YgFLTdNwLbNYJlgAe7WWUhKaMY9AyqSAG6QQiGSCaCg-MOqMoh1hvtxKpRHQYrJRUrJcz-UMP9FKFRJ635mldtC03uhuKcfhA.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/f-f3wpRLJo0uXE80MkaqK-xJ6vmaVoZvor_uyZDh3dGuEnIPYRhywo0buevbbfVIu98YmtrzF3S1cTq4ewykF4AXdTQ3ZGmkXUvWwTZznittkw0x2PCOICKawUKIcK_xE5U-maO84_9WwAFiuHuXhToNuQfN2BAtJ9v1PxEze5I79zZ65EWeRVlO9oUB4lYc9KupGu-8-4iFLt7pr8drgz535QN5z9VWpGO0ziPpDgX3dxF9dANdIBeVgXRmjhZN3tzmWF-iLyFpBgZcZuS3r4_Fky6m-sn5zSRbd0oHaIVxpdT2lAPI1LNdU-2V9Kk-S0qCb2whkBjsHd-lnidTfA.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -189853,6 +189857,81 @@
         "thumbnail": "https://cdn4.telesco.pe/file/Ux35cwxKtVyt0GrjveY26fhGMg13jyMhvT16sxLpZkDS7lBkrsfnmShM9rsyaw1_nm02o4Q9Qzm9KKuqSur5wt1VFKuTGF3GR8wp4u3uCq0fKdVBO3xD4B2Rmf-RGVU5x8GwegxWJgbO-pvAYPaA7Jv0VHMIiUWF93a3QK6awdwD-5AIfTdVJSddb9mEN-YEBUDSEH5T4XNw9E1emelY5nALvHH8xE8IQRsU42HAISTRorzesf5RUXb8XH2or734UwvA2Ohv3xnxqh5GC10KQdV4pSvvJ147HjnulQxGsK23jOnx0WuFJc26241Q_YZ1y3d8ERMnt7b1hWRo7N0Z9Q"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1791565146418,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Message of the Leader of the Islamic Revolution, Imam Sayyid Mujtaba Husayni Khamenei, on the Occasion of the 33rd National Prayer Conference: (1/2) In the Name of Allah, the Compassionate, the Merciful Paying heed to the sublime matter of “establishing…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791565146564,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Intense battles are taking place simultaneously on multiple fronts, with Yemeni forces launching attacks on several axes. Key areas include Al-Aqroub, Al-Shaqb, and Sam’ in the south, as well as west and east of Taiz city, plus the Hifaan front. Fighting is also ongoing on the Ahqum, A...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791565158734,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Statement from Al-Nujaba Movement:In the Name of Allah, the Most Compassionate, the Most MercifulFollowing the expulsion of the criminal American occupation forces and the other forces allied with them, we have, by the grace of Allah Almighty, emerged from a dark era in our...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791565126509,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-10-01",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Hezbollah: Statement issued regarding the withdrawal of American forces from Iraq:Hezbollah congratulates Iraq—its religious authority, government, and people—on this great historic achievement and blessed victory marked by the withdrawal of American forces from its territory, defeated and hu...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791565195850,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-10-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Statement from Kata’ib Sayyid al-Shuhada:In the Name of Allah, the Most Compassionate, the Most MercifulAs we congratulate our patient Iraqi people on ending the foreign presence on Iraqi soil and taking an important step toward completing their national sovereignty, we aff...",
+    "media": [],
     "verified": false
   },
   {
@@ -193732,6 +193811,21 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | The naval command of the Revolutionary Guard: From now on, dealing with ships violating regulations in the Strait of Hormuz will no longer be limited to that area. Any ship that passes through an unauthorized passage in the region will be pursued, and the penalties will be final.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791565209255,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— It is time to consider an Erbil model for dealing with terrorist hideouts in Sistan and Baluchestan Province and the adjoining border regions of southwestern Pakistan, including stronger cross-border coordination to eliminate the terrorist threat and prevent…",
     "media": [],
     "verified": false
   },
