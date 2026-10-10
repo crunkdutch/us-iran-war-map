@@ -144742,6 +144742,38 @@
     "media": []
   },
   {
+    "id": 482736939,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Jeddah, Yemen: Current Updates Yemen Breaking missile attack",
+    "location": "Riyadh, Jeddah, Yemen, Saudi Arabia, Cairo",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎯 Current Updates🇾🇪 Yemen— Breaking: A missile attack hit the Al-Kharj province in Saudi Arabia.— Yemeni forces are making progress on Mount Sabr overlooking Taiz and have taken control of vast areas of the strategic Mount Han, which serves as the western gateway to Taiz.— Yemeni forces have taken control of parts of Mount Sabr and are approaching Cairo Fortress in Taiz city.— Intense fighting was reported in the Taiz direction, with PLC forces launching localized counterattacks in several di",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

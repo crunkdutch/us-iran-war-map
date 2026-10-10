@@ -194895,6 +194895,51 @@
     "verified": false
   },
   {
+    "id": 1791673430358,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The IRGC Navy has targeted a vessel violating regulations in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791673452673,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-10",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🎯 Current Updates🇾🇪 Yemen— Breaking: A missile attack hit the Al-Kharj province in Saudi Arabia.— Yemeni forces are making progress on Mount Sabr overlooking Taiz and have taken control of vast areas of the strategic Mount Han, which serves as the western gateway to Taiz.— Yemeni forces have take...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791673420461,
+    "type": "intercept",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-10-10",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🎯 Current Updates (-ve)🇾🇪 Yemen— The Yemeni Ministry of Health said 91 people had been martyred and 168 wounded as a result of Saudi aggression since the escalation began on September 3. The ministry said 60 percent of the victims were women and children and described this as evidence that civili...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
