@@ -140399,6 +140399,245 @@
     "media": []
   },
   {
+    "id": 482690469,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Strait of Hormuz, Yemen, Oman: Regional developments October 2026 Yemen Yemeni",
+    "location": "Strait of Hormuz, Yemen, Oman, Port Said",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 2–3, 2026🇾🇪 Yemen — Yemeni forces launched ballistic missiles toward Khamis Mushait, with three missiles reported in the attack. Saudi sources reported the interception and destruction of three ballistic missiles launched toward Khamis Mushait. Explosions were also reported in Aseer, Najran, and Jizan, amid an ongoing Ansar Allah missile and drone attack. A ballistic missile attack was also reported in Aseer.— Yemeni forces continued their offensive in Taiz",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482694336,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Lebanon, Yemen, Saudi Arabia: Regional developments October 2026 Saudi Arabia",
+    "location": "Lebanon, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Regional developments | October 2–3, 2026🇸🇦 Saudi Arabia— Saudi airstrikes continued against Yemen. A Saudi raid targeted the communications network in Qa’ra District, injuring one civilian. Saudi missile and artillery shelling also targeted border villages in Al-Dhahir and Marran districts in Saada Governorate.— Reports said Saudi Arabia and the Yemeni Presidential Leadership Council are preparing for a major offensive against Ansar Allah positions in the coming weeks. According to the r",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482698204,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz: latest Washington Institute reportedly shows tankers",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | A latest map by the Washington Institute reportedly shows oil tankers targeted by Iran over the past month, recording at least 20 incidents involving oil tankers along the Strait of Hormuz. This comes as Trump continues to repeatedly claim that he has “destroyed Iran’s navy.”&rlm;🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dM5dRa-C3y2OKy3oCAuOuVEJukvqtu-6_b_o01hfWOHpjJsqpX6WA-gP10TXsu8nlkXc_qCOqdiJPrQssT7_pa-qvjogasP7C5wtMDSL5GQKZxFwm_xZOZAiJDyEXHOP-T_M45BHJ9WMaZtXGdoaSy86_kYKpXWsphWjhIBRvjo_NH1H4uKlXRwALvejvZyLj3dD8lkTNQHkPPNxsqK5n8q0zsDyh7T4Ili34BErGCtPp4A-dLRaZInBTw6z4nnzxk5J5SJTpXtV1mSDFF8P48qL81gEGTzqJtsMbGFnTxIjawGRygNX2UgdHonV8FO5Hc-9hgONfsB3WbE7hkefMg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482702073,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Yemen: Satellite imagery detected thick smoke rising",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Satellite imagery detected thick smoke rising from the Aramco refinery in Riyadh. A Saudi local source claimed that the smoke resulted from a Yemeni attack, stating: “About an hour ago, we heard a huge explosion in Riyadh.”🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f5i53cmXE8U84W0kGRgdFilPnYsBKzcWqFD47oQLf_xPpydmRpP2Mz4LSrGFQ4MWxTgbMvKZnPvsd1PURzGp9m0yrAXnMh0TbMyQ9SggD2jyueVGMw5_YP024WdyaFv_aSeuOdaS2BXx12hkUj5M-44FnojpsWAWIGwHayfnn5bE-nECHm6OOkQ37IfeGog29ezWOIHq1tkYPJ-VbDIDbmmY-C3DW3TsEZjwy0RAQplNCZEPmdCbfbl5vPuXsW7vJ8M2g7LB5RKq2SCTBW54AgfokUHjPdlL5h0ECsMIsEbOWznigibz5nW2mHLLFppB3j7jFfOrP75tl4EdJjHbGg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482705943,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Satellite images show that superstructure giant",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Satellite images show that the superstructure of the giant oil tanker struck by the IRGC in the Strait of Hormuz yesterday sustained severe damage.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Ieq62cnQQzHy6AoIrVbrXfsTx6C1p2JbrS3Huz8Kfd8_i1VQgK2J-n0ypTwkN007DGHr2KZiQ1c8580wpSXjUrfJuaKwZu2_ePUX2pb1i6_NMRozXelFk4w3PoXaHQzYUGOg3oAPt_v9LxTwhGcUixFZy2s-808Wj4JMcQJovMyJuNQfwFjYFrUB4rfEoHOu-7nLcVAZS1SK77WVfRgz3xPkZ8ZXRkwBr1CXhftuap9oYZJD2bgqDCavmvVm26Pvc03LtBOcg2xnfcRivhWEsPRX9QNNtfTmlPYTEV6hHyDE7CRF5uY_ZR_efmwOmH3x4mFJ_wu-_YHlAQNIBBoLjA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482709814,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Kerman: Iranian Intelligence Ministry Four street sabotage",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian Intelligence Ministry: Four street sabotage networks dismantled; 31 key and affiliated operatives linked to the enemy arrestedMinistry of Intelligence of the Islamic Republic of Iran:• Members of four organized networks, comprising 31 operatives described as mercenaries of the American-Zionist enemy, were identified and arrested in Sirjan County following reports from the public and intelligence surveillance by the “Unknown Soldiers of Imam al-Mahdi” at the Intelligence Department",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482713686,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-03",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen, Saudi Arabia: Regular exchanges fire between Yemen Saudi",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Regular exchanges of fire between Yemen and Saudi Arabia have been ongoing for the past several hours. Recent reporting indicates continued Saudi strikes in Yemen alongside AnsarAllah attacks and Saudi air-defense interceptions. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482132898,
     "type": "airstrike",
     "status": "confirmed",
@@ -144332,6 +144571,172 @@
       "other": 0
     },
     "description": "🇾🇪 ❌ 🇸🇦 | Yemen and Saudi Arabia War Updates: (9-10 October) (Mostly Breaking Updates) — Saudi Arabia | Jeddah airport air-traffic disruption: Multiple flights were reported to be holding over Jeddah amid an ongoing AnsarAllah missile and drone attack targeting…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482717559,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC NavyA violating supertanker carrying crude",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy:A violating supertanker carrying crude oil is burning in a massive fire.A violating supertanker carrying crude oil, which intended to exit through an unauthorized route in the Strait of Hormuz, suffered a high-intensity explosion due to striking a naval mine along the declared high-risk route.This supertanker, which had turned off its navigation and positioning systems, is burning in a massive fire after striking the naval mine, such that the flames are clearly visible to coasta",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482721433,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Visual confirmation unidentified supertanker engulfed massiv...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Visual confirmation of the unidentified supertanker engulfed in a massive fire in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/63185",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rutplVRcB1WDXJo9n69M6RG024RaRyUlb3gkyjQMksuFjO2_mSLkK3w6VVEBQCPgLzkdD1OJOCmZgUJLO4OiHCBGWeHrUSd6QTFBInOoozFOcHojIIu2Uq7JfxroZ4lvdr93oT4TJ9S3DVYLvfJvEdvYfJIvC-fKb9xOcq6u676zMYt2hwvVBnaSO7kLpMyUvyuY6a0mfj1KnPnegsenJpQLU7uod-ygCYegKdhTwwA2Q4P2IYqsVA9wL-9OnaPL8wQe7toYX77vkjG7twU51jy_9Ccyae6zkeGtSnNsBsrzCJx4I2erLvKaRFggSZ0C0wl3QCq64NQhbOMiAyRTuQ"
+      }
+    ]
+  },
+  {
+    "id": 482725308,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Gaza City, Red Sea, Bab al-Mandab: Current Updates Yemen Hazam alAsad member",
+    "location": "Gaza City, Red Sea, Bab al-Mandab, Syria, Yemen, Israel",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎯 | Current Updates:🇾🇪 Yemen— Hazam al-Asad, a member of AnsarAllah’s Political Bureau, said: “There is American and Saudi desperation to regain control of Bab al-Mandab. We dealt a slap to the Saudi regime and everyone who promoted the claim that its forces had taken control of Bab al-Mandab.”— Hazam al-Asad said the Yemeni armed forces had established fire control over Bab al-Mandab and the Red Sea even before taking control of the western coast.🇵🇸 Occupied Palestine— Three children were ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482729184,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Riyadh: Financial Times hospitals near King Khalid",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇾🇪⚔️🇸🇦🇺🇸🏴‍☠️ Financial Times: “One of the hospitals near King Khalid International Airport in Riyadh received about 50 injured people, some in critical condition, following the attack. Other hospitals are also receiving injured individuals, while major hospitals in Riyadh have activated emergency protocols.”@stayfreeworld",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482733061,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: IRGC Offending supertanker burning Strait Hormuz",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 IRGC: Offending supertanker is burning in Strait of Hormuz📌 Tehran, IRNA – The Navy of the Islamic Revolution Guards Corps (IRGC) announced that a rogue supertanker carrying crude oil exploded after striking a naval mine while exiting the Strait of Hormuz via an unauthorized route.The IRGC Navy in a statement announced that a supertanker carrying crude oil—which was attempting to exit the Strait of Hormuz via an unauthorized route—suffered a massive explosion after striking a naval mine with",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
