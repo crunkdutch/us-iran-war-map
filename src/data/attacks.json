@@ -143846,6 +143846,139 @@
     "media": []
   },
   {
+    "id": 482632584,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Strait of Hormuz: IRGC targeted vessels violating regulations Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The IRGC targeted vessels violating regulations in the Strait of Hormuz with missile strikes.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482644143,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Israel: Enemy_MediaIsraeli media interceptor missile launched toward",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media: An interceptor missile was launched toward a target in the area where “Israeli” army forces are stationed inside Lebanese territory. Details are being investigated.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482636436,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Israel: Defense minister nominee will accelerate deterrence",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Defense minister nominee will accelerate deterrence capabilities: Iranian MP📌 Tehran, IRNA –Salar Velayatmadar, chairman of the Iranian Parliament's Defense Committee, has backed the nomination of Mehrdad Akhlaqi as the new minister of defense, emphasizing that his appointment could accelerate the pace of advancements and the country's deterrence capabilities.Speaking to the IRNA correspondent on Saturday, Velayatmadar cited Akhlaghi’s background in the defense industry and Iranian missile p",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482640289,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Terrorist acts will shake resolve Iranian",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Terrorist acts will not shake the resolve of Iranian security forces: President📌 Tehran, IRNA – President Masoud Pezeshkian says the security forces’ resolve will never be shaken by “blind terrorist acts, after a senior police official was assassinated in southeastern Sistan and Baluchestan Province.Pezeshkian issued a message on Saturday, offering condolences on the martyrdom of Nosrat Eftekhari, deputy for cultural and social affairs at the provincial police command, who was killed in a ro",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bmH-y4ueL0Nk49QeQg8ooqOrkJWq02oPOMFDuimcdGDg4ANW96yYbdjSllazgdeKLxLXvjL3SiUc0QjyFO5YVQ_hnYhBAtG6aIqbSxpmT_mT48t7qsWHybN2TjgE20evZM2s4NqHNzhrqODZ5vxqmzVwusujhWfN9a9AzJQ_TyZUmoioI_XbDHlqwYVNiDVdE2beLS66anq3UJnbxVoQ4oRvIFaAdG0n6KXR9qFl3bE4MIbRHXwDruMbJA1lkZnl5ZiA_5wnNLkEcC2XeY-Q7lm2X5wsNYW-1KNVU8w6EFAp0k09iDoHTA-u8dXr9_XXHLX0VEx2OAnF5jFmsVA0aQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

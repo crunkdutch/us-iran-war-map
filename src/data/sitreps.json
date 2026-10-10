@@ -716,6 +716,21 @@
     "verified": false
   },
   {
+    "id": 1791644608774,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2023-10-07",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12 website: On October 7, 2023, “Israel” was caught by surprise. A \"state\" possessing one of the world’s most powerful armies failed to prevent an attack that resulted in the deaths of approximately 1,200 ones and the capture of 251 others in the Gaza Strip. This is the tr...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -1210,6 +1225,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 Pezeshkian pays tribute to Minab school martyrs📌 Tehran, IRNA – President Masoud Pezeshkian has honored the memory of the Minab school martyrs during the ceremony marking the start of the new school year in Tehran.During Monday’s new school year ceremony in Tehran, Pezeshkian paid tribute to the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791644556766,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-02-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran’s Red Crescent rescued 7,250 people from rubble during two wars: Director📌 Tehran, IRNA — The Iranian Red Crescent Society rescued 7,250 people from beneath the rubble during the 12-day war and the Ramadan war, says Pir Hossein Kolivand, the president of the IRCS.Speaking at a ceremony on S...",
     "media": [],
     "verified": false
   },
@@ -194218,6 +194248,36 @@
     "verified": false
   },
   {
+    "id": 1791644616012,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The IRGC targeted vessels violating regulations in the Strait of Hormuz with missile strikes.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791644552283,
+    "type": "intercept",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: An interceptor missile was launched toward a target in the area where “Israeli” army forces are stationed inside Lebanese territory. Details are being investigated.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791622968754,
     "type": "airstrike",
     "location": "Israel",
@@ -194290,6 +194350,92 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1791644595286,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Rural and nomadic exhibition opens in TehranThe 6th International Exhibition of Rural and Nomadic Capabilities is taking place at the Tehran International Exhibition Centre from October 8 to 11, 2026. More than 400 booths have been set up to showcase the capacities of Iran’s provinces, while 50 boot...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/MP7Mjxyv3gSv7kjJC1rOJqZ8Tz8tOfPzVNv69q6_m2aO_B4LyYXA8yS8JI1NsiPpiu0YJYlRGyxNy1XzdiUE2HUjigBFv3iqyCK2O2CcGCtQpBbocA07Gfsj8E0bSUyqDhZVnc8UVsGyMzp3ogO6ECxXHNbq1l601MjS4IipWQdjsLenk8FRO7JSQxGzoZ5cRrTSQq2JWwLcHKm25lP4gCNThfaxDzm8ysTWS3OI2ZSuOTpXPt5H_fEvH3eNOhnWEqmzQVYwAc99Ug7kNKFephOxfWHfVPB4ef6QBZKkcDKhSlMh-pq2fCuMVtqMCRLiDGVgMPDs_ERKQd_RK2IlXw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/XHQeuk1RxQ0wfoWM3pCFM5xoxlfU5OKvH0VGJOpv305fv4LX4tucHyuT1HMGN_DdeFSwMPlIwePtmhKV5zubHsYUSGjQof2ynICOun2x6jmTEuh9JwOeXIZYMPNd8NE4zcE-WlAxOa9dDOo8nSkc6LJ9d0h-S241IcDTukHYbpL2qvSG71YEmvsSAlwpFKlM348aRRLZKcQDkSaQpjJVPXbmKlgVbSGcnRuPy8EVQ5T46UPxmM6S4Z6YW1_jzrrxTgAvxLSSTAlLus0AHBs3w0talZUuPyKxr0njBm4ir26PE33vXfqfhUuP7UPX7qOFGCDaMzeHySmqXScPnM9pzA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/e0O5begBTnvg1t_9ro9w89oIfbCBu9CETAMmOt33olvoP6qJEUiAebmZq_uo5PWf_mZ5sHqLmzAOJ7P3tgqxA9oHAIlv6t2mJFF9LX50-oPjg3U1aiOdy_pfeENeT0imtPegQtT52M8PRvVp40V_Gg45oPsnLfi74MmhkVI-q79JV5qN7SJJ5qQ8sQV9tQ361-qFlHCT4oYfjT8SlLwdwMPF5-JTwQseDHLW3rjv6dmoRk9HOpDOQ2mSNpTdk8GuDwndEivrp6tG4lFmrUIptKrlaHqNGhxsHPkkaf3ZxegHCMOAXC4YcKX3K2FE2Fv4G_HRNVIaM0vQqa6kqJOyVw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vMhsGDEVe7lOKycxz9cgvafv-cM0UNTxvbKSnnQjmtcnL2PmhabgSfMlfkWNPFVAmj1p_N1JWB-1GuJ28oXxTTjYehUW2ssV27poWLH6D6Cs_w2oMBzE3m0gP4kcv39e0xICslIHMxiEvz5Ta8rUQlraFTspNkQ3LkxM7I4zZ2-N0QyRLvwOPV-sCjOgA6lAV82IOclriewMVvjxCNcFeLYLOx4MP0eZ6WnBnhnBRkAQJuprPlnXckhMbYDOkTSFUxTHC7QuiX-WBU57oqF6KknXfBrxmTvMzuCQyZOKZszsGaElHFjgLD656bUR02G-IK0DsL0MVwkCzvJtNar86w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/KipzxelnuJihqtqtLLAolCaah5n21-L9hRObfuPfEeMQX1G6K9v07k7COeYmzUVAHYWl20W7ngMluVUU3mQ6pzBwRPc0ZeV4RFagnFsNKmdDHgAJZq_nFxowvFMfUkQiMlQmcRFDkWg4EOVTz2BN-EHVrjzd03xR4gIRF_itnBgyMmdXjBaVokCLwFWmYjNKSTIr8lqOvWf9A3yVFTxHwgmtls-utYup3AJRnOEki8DMNveC7U2dK39Rw3lrgCBeoWPyxG0iPhbz-seCznJxaHGN-dmciPz0rieL4QF4kBlVlXbGAFlpz3zKenaJqnDBHKYVvnkije7QuYOBsDxLNg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RBG4Y8ZVLHCR3hDBOkC6K6SMkcz1dVXIIj4sPLMFIU7T5dud4zuIUYk3ifnZRaA3d8DJyP96JDIaogdH027-ESso0u-1DypOq-WhKyL2xpxz3s0tyP0u4ZRt6veWbqUJ06f1uoF8xYdGYm2yJFGt6Anw-cnp55TC4Sx5YRvlMoe2NM8-zdoOzpRrFmPQ473KgL-7XO0eO37BpT_5FCDHMQUU6nDqYnDt-4dzDZS72_kigldkfjETOCRxBq8IAgcEUc8F2c4mIdLco-xwpJWgqa_crXb1b2mmpiP2eJNwsBuzGNSZkEz9iNRAobvl8fElWjVirGCE09l-dUSm8bAnew.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cBweZ1IFypUtkwYFQASZLP376_ero95TUdhLt-oTsNDypShmyATYwFVbMpw3HwxP5kSwySvdUX-cZQf1wo2Zoyz_1vCjfFfhGK9yjuPOjrbxZI-vguhlbcbYIqba_i5XhF-NVvRO_HvpxPAzrTE7wKR6cHmOyFyr1waZxkp1sFGqAcEKU0BzbC5LlnzUkEal8X_zAUBItR5MTLu8n6gRQuL0HeSh2gTbOV4AqbQexv9_twHVbhhmgSVCDs2kDFdSy4o9E54ikwBcSxr9qBRwdSACbyIhStKuwz7ygu9dBbJDoqU3A0yGM7HL6KszWnCscLcUbfrzfJx89sLjk6Y8yg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vhPetX0ftWP5hAy60dK4gfv5Jo2-Iit4trzRYHnczN9tqTZbyC39IfUs0WyjErc9qebC_kIrDQ9nQc8NxUgcp2NJbkzHylR39A9CjkNc0fFiEYzkEOM3pIkxTrRpUnzmRv0-pVEMSnOX9rlSw09YJWDJJBNvjWF3cmeo3h0LWA5nWy353HWeayD5zu5n90naNjBoVcWTDnC_821GdndTPdV5fnaroejgymjwLep8vEiNwZKFXI_N97X7d20PUgiYqh4VdZ24VjLfCxpLMuWwe2-QP4iIwST0xc7hV7CQh6FYIenUYXOuychLTB4WeFK1V_3EUSmth7IZCnBybR3f_w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RLIgiDXqxknq8lEB1w5vwFhG2xS5yzzLZ4MljCYDHn9K7Igc6VP0aLMUQadJ-YXoYoH5JyD7iH8tMfrs6RfmfEn8G13KXgMNC0gjswQ8d_KfIWFVK0tkRhiLmM1EyAF0BacahnjLKcUVMU9VOfheflSQ_oOCTtlb4QkIQr7bszmHVBckywFi_t8evt5SLTC5hSKLatknhcqMlSHoeZcnzFMr6i7ENtiTqElZgVZ6WnJg8-FoKdKkluUxRikmtjZ5L1vLHqlONtjITK6be09e3TXbRiezYMScbf6FRsHQNn4Q_dZ3S91KheGlZlO0T_Ll9HFvIe2W5S04u2LjD92vGw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/G6reYWxjLVP4gkR_RTLmR7kDz0JittRDcVXAJaV0mVZRy-DoFQh5kMTRb5SDOnDueLot0lxgrWYdaiHa9S5s2RZXjG0geqPLo_6pTBDfbvux0VoKEnwTsmWbVFNp6_JmDyMN5hIYmb6GTKSmDDU_z08hJVy7GVULxy969WRuXNU0Yc7NI_kZxU3MlTCv-NTPypVOmNjF919Z3iFEO0T-mfR_hzb3HNJeIMT9U2Vs_rqiK9ZYaN2AsDSG9IlTwNOA5TmCeAy8IdkNlIJD0pLXPOHH5HGqOFzyQIN9rlKuvPwx9YnBMDO3JQQrlSE0NEoRCSN0IiCvf5XK_dT9ZqX68A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791644588007,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Defense minister nominee will accelerate deterrence capabilities: Iranian MP📌 Tehran, IRNA –Salar Velayatmadar, chairman of the Iranian Parliament's Defense Committee, has backed the nomination of Mehrdad Akhlaqi as the new minister of defense, emphasizing that his appointment could accelerate t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791644565849,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Terrorist acts will not shake the resolve of Iranian security forces: President📌 Tehran, IRNA – President Masoud Pezeshkian says the security forces’ resolve will never be shaken by “blind terrorist acts, after a senior police official was assassinated in southeastern Sistan and Baluchestan Prov...",
+    "media": [],
     "verified": false
   },
   {
