@@ -193825,6 +193825,21 @@
     "verified": false
   },
   {
+    "id": 1791630106565,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 13 – Alon Ben David: Despite Trump’s reservations about the possibility of an imminent attack, the “Israeli” security establishment is not waiting and understands that the Americans will want to resume fighting in Iran sooner or later. Meanwhile, the “Israeli” army is prep...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791521819467,
     "type": "drone",
     "location": "Sanaa",
@@ -194147,6 +194162,62 @@
     "verified": false
   },
   {
+    "id": 1791630131149,
+    "type": "airstrike",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Persepolis defeats Sanat Naft Abadan in Iran Pro LeagueThe football teams of Persepolis and Sanat Naft Abadan faced each other at Shohada-ye Shahr-e Qods Stadium on October 9, 2026, on Day 8 of the Iran Pro League. The match ended in a 3–1 victory for Persepolis.https://en.irna.ir/photo/86288344/📲 ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/C3cbUBHQguwPWYQ6v6eUtQwK7H6wQoy04txzkt3MAXgvqT4tnEX3NNgtCSqTpEJOKYMlv2lZuCOn2br4h2zhiDJAZcpn3aOOC0WYDzGpsSDdKNH5SVTcnqhBvxRIvHHk1Xu9qzg3zZUjstuiTP2Hht7TqDSxVcFXsfvf8C_HZftRpITYj9_rCmKuVvR2FKtc-V9wR8LI0B5UkPrBBQPyk-hgEFLejc4f48D7RK2GlNCGNYzjzIzUNPOwUwV-qkN6CcMi8fLyx4h09RfNYcVMv1AW0aUYbpFt6Xv5eDXxsUpv3xaVtguJ5zOmtmL8HPga7Tg2IouKZoNBnlEEXV9LLQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/iLL1bTgsBq6PvzWE3IAoEIafQv5GiNNOR4f3t7AWhjVfc9zlA4uL4RuoRMAfJbFgl4h84iTyN4SV1T9TMccAN3dls41WBu8DlyT30D7fPAWWXPKByRvFMSDapHMDGucCMgM5-fuR3yv-OS53SoiRFRXCh7sHyAOqC7v0d6AENfxWSBZn8FwS6WI5KkMl8W8Ugs1XUnSMuHpJmn-wAtWPtDDaEia9MWcwi-saBPfP8ysAW6Edu-A17hP1J3PaTTqYoWybwsuQWV9Twcmy0DbcwW2nDZRxrXLGg-FrvIFwdQuWuNFcRV3vMsoz8ayrtzqpdWVutDaxv9IaY5mCELxGFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/BTsA4IBu8ZPk9yND8s_R-Lj7iBZaNcnklzjTCYy4A9WwyviXtIeZiX5lKlqZQRuhHX8JUc9RxG6GV2u8nLUfpleaeZy4J91tn3Q9ZDI26rZmWF6_3yStMdADFo5DrW-zFneCISjcBhBSSE8QNLj1Wum3VAYMW8XCjHfJm9YCQSpXp0UlqtBWySP0fWie8sUOyizxNdz50kzPwbrEEHVNYsvinofxzN2KkdoEDl7XGxHchUXb3ZmmoeR_QBJw4R631tlnnzSx6DI2zMi3cP4PELBguwrpIiQjAYhy7xtcclSYqX6zS2mOSZaUL6kP7-LkvTbc7bV9XDxkH7FJ9P-IVw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/EL6lg1vcRfFGPW5q6Lw6Trcqq4g6gml2iAGSPwisI7p99UpYwBIb269reg3AA2z3IhLXz8ll9xA6qaTsqfCPSAk4ePRWaazCY-M2r5R2i9Icq2qT4S289MrvdlPjz5XAWQENbtXHPoUJj2ZYox97Y8Rb4d9LdmPX7N5HpkKuULzZ8ZR61_BfB-qPLVnlkE2EbWEg8nJeNEyH-RaB76u2mmF6M2vuz83n8tUYM2eeFJ3KFNZa9W6RKQ1XJgnCbxMMkmfU5diMyxYz-my4HnY2UI6RteYHnm8X7tgdqSSzJBzKIDPVwDAeF_HGwMBGDXsI_TqPtkgjq5pOSgVGqQDZ2w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/H6BydS52HI6ieUkxgiVwzyZJE_CL5v2We78maFWD3TxY_VlujkxIF7pMzJn-8L0yLZjjdCK83MxSm_ah9U5uERIZTqJjoFEKGNfbVEO2rjgy4gvZn6zrz4cXuCQkjPNi2y-fCHMJwnilhaXlwbKNXvTfJbei2BDGdPxRJNhu_vCGFahZ1IftsveNAikFUuzm6mE7Kkz87EYgz3dEzjDEz5dcPvWtDfgzal3Sg-aBex82aK3yhjmu5D3OfW7PQ1RMXj-D_1PS3rYCqVCmgpkXz_EKjFsyzzoE0vqyrbHLqIn9-qsdB-Abf-YHNFeSy17MX-k2vOLLRnSJF6J4OXRBPg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TDz7RarLPrzWKMzViQT5dHHoNfCKiBIzmhZSc4t0DdXDx1hM4X568TGgMnl95PUtZ4RIpGRiZY4JFu3BLG_ciEEDqkAD1l5zrEemk1cggNnq1ggMFgDovoLXPxZu6VQHZ1hnfGHcD9AN9471-vHtNkBZrFtNKpdvGgdQehfrFFLe2nfoQ0EShSboIDj0Jo45K7gn5AnYcki8egJ5HuTdC8MD86-iXmul97yLyAPsEF7c7tUecbsWt7zwSTfmTrtxM4CjFWLntuPZpNjb4WbAfdDoWyDohtL6R6BnXgDHQDXz8Pw0h6Hs_lOgeKz7nku06wszJNJfJ1HQ07-mo70NCA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RORqXOG8vhvBRjuHu2jPvJc2X6HajxFHzokyab06-I8hLs9gPr2Nw-7HVnhnMXN92HjpVI0GBMaSm-4Y8eRb4IeBDSzO7rhAmM6Dx5Q5KFmOJhluaBJ9eBRYJ_jcdzun28fafKD1OKHhnA0ykwKIoRF3LypCm1iuE-unzhycnqoMY48NL9jhBxUtdgsQ78Ndyi0aN1mR-43ebsjUSa_CMBIQ0aUEZVGtp31MgRe5VGxEcvjUwRSkjPDBAb9UtGluLRzEwI9qtExmY4OpYz17MnZQqw3Wd0x2fBUJs5oqU2KfgCVLJt5P4kkn7EbNvENTWbO59CAU5j9ycz8mgDYGNw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WEY6R9PHvB-jcMa9a68cirN_2tyLI-ZLoU5mO6DX_yKzCpSXG8vRiBcaN7a9XXgrUdYJLoslBdJmcAMj_7LKzRUh2uQ06rs5eJv2fgjG3TbwEV0RjCRnbG27lGqJSBek5uYn5hQW-yBSIIW4I-oOq-X26KWqeSjuCqH2I_NS8b9qRfu1qrWVChNJd-WXsfy0T3L5jR57o-xpSZgZ2mUYHs2FKS3Xu1Ylk8T5h3aRAwMPav_He5Bdvc5v1og7Y0F1yk1sBvyv5v21uHU-d248TRdBPjoKfOhwBhaoJGi50eoMnyQh0upYGlXf2ILctJqGh42qfSeKXysDxd6kErEF_g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/dlkstLkjIRVZEOvA7WfWr0nHGJQ0p_Uu2e16X2R_Rzzi_UL6P_gOZK-pvLvWhrkdMBHW2SdCxbU0xJcP3kIx_Icr7nssQQ3oBvrpuhnqIKLoLQN2nA-43J4m8pxWGXW4OWZ1KugUrTG76QCWCc4unS3z44sWVJ5hGENCsXA0YY3VqH5KwG8HOK0mG_ANQ3kLf2nxbMw0w_9hEJfLdxpyI8Q7voezyTSdBU1HmcC8iHAgeRSmdMfclK7IegQM-bzuJDKZv4fBz4jvtuw7i8mLJrDRQOpVYZ6uNk2D1lGyR1Q84Ux8dhRa35LQV9ndsnXcSZ8gymaISi2A3aMoeUj8EA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/iNJ_1i_cELsDJErj0fkm146Ul_muKHfJZjg394H-2DUg7l3punji8orsRy6xnRfHJ83TeGwUg5XslrVU1vhX-yYUu0OLtyD50Tz7v9PR43fxafOsfMaPP7uy5dkwrFGWbohzcOib6PDPM1X693zQX8VlQmrYjB9tVe94raa8e9hzSx37WpX5aI3Uslu--93O-NfgLPkIvmTkpOxLtBliYTnuUO_Jvrrad5qUrj40rBA7yS7Hr2eS0GzHzoAMpeuCTU5wW8rURZhkZoLVgRa5MB40FXa3hOgceY-_Hr76uSkZUXEdJQ2WgzpzCoEJkYnxOF0c8kQDPK9ir2VEQtPX-w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1791622968754,
     "type": "airstrike",
     "location": "Israel",
@@ -194161,6 +194232,61 @@
     "media": [
       {
         "url": "https://cdn4.telesco.pe/file/t3Ewf23dTIzWAe3-BPgG9RtH4uKDND8AvgnpmxCQntoGMoSiRb8Yuk30WcrVapgqW_jKEteXmy3P_H4qxUwJ54lTBExW0lgwPo_KDejk6h7rltwXpySd1TZVm_4hNOabr65TunplCbCpMxqilnX9VpR77p6raKTYrNIvSGJdYbW0R5sQjzSTgTIIbs0xr2rlIaxqDO8PeE7XZyAlMyBwnHy3lzDFdpOgbhgfVVO2umL-Ibh9LFciiNdi4R62iEwDiC7v5Bxtb_PY9agGxPXLQ0NQWVSMdWSUDOAySHNY8PSNWenHbH4Y_IQQuDdWGSv7UaXVzTfAjHwmTleQEtYkqQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791630145100,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 US problem is with Iran’s civilization: Velayati📌 Tehran, IRNA — Ali Akbar Velayati, a senior adviser to the Leader of the Islamic Revolution on international affairs, has responded to remarks by US Secretary of State Marco Rubio, saying that Washington’s problem is not with the Islamic Revoluti...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791630156732,
+    "type": "airstrike",
+    "location": "Abadan",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "date": "2026-10-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 In photos: Persepolis defeats Sanat Naft Abadan in Iran Pro League📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Oh1U17OUUB59EasogHyGdyLFYGf55TGVPfNMuf0vyRWH7-8NRH6FMNS1SaxxYhT53TNyPKDpo_bZ2hiyGJYzdU2PWvFISalF_kLlsBdGyLHf5KfhObEiOj_DdLgso98cDlsJaB08gQ6DsYeixUNuk5DiHBUCYPkAAdVRKiV2SWpBQcB1qX2emtop_OrgU4w6eCCKZ6ckjLI33mwk_9bBhO6lmZWbOCW2Isc0VBq9fFTHCkFpCM1sAUJo7z6ATM7pdGEBBZZBd-ZG-ffus_c6kURY5xIEuXwG1_n4iBkjB8keDlPZMXYwqfA9LNwI82LlG6YLMVVu1neRH5XhQw3eDw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791630184655,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 In photos: Rural and nomadic exhibition opens in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bmH-y4ueL0Nk49QeQg8ooqOrkJWq02oPOMFDuimcdGDg4ANW96yYbdjSllazgdeKLxLXvjL3SiUc0QjyFO5YVQ_hnYhBAtG6aIqbSxpmT_mT48t7qsWHybN2TjgE20evZM2s4NqHNzhrqODZ5vxqmzVwusujhWfN9a9AzJQ_TyZUmoioI_XbDHlqwYVNiDVdE2beLS66anq3UJnbxVoQ4oRvIFaAdG0n6KXR9qFl3bE4MIbRHXwDruMbJA1lkZnl5ZiA_5wnNLkEcC2XeY-Q7lm2X5wsNYW-1KNVU8w6EFAp0k09iDoHTA-u8dXr9_XXHLX0VEx2OAnF5jFmsVA0aQ.jpg",
         "type": "photo"
       }
     ],
