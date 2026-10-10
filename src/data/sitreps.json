@@ -193905,6 +193905,102 @@
     "verified": false
   },
   {
+    "id": 1791594042577,
+    "type": "drone",
+    "location": "Muscat",
+    "coordinates": [
+      23.588,
+      58.3829
+    ],
+    "date": "2026-10-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | Hourly Updates | October 9–10, 2026🇾🇪 Yemen / 🇸🇦 Saudi Arabia— Saudi aircraft continued attacks on Yemen. Saudi artillery attacks continued against Yemeni villages in Al-Thahhar district of Saada province, while Saudi airstrikes targeted Saada province in northern Yemen.— Saudi aggression c...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791594004379,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔔 | Hourly Updates | October 9–10, 2026 🇾🇪 Yemen / 🇸🇦 Saudi Arabia — Saudi aircraft continued attacks on Yemen. Saudi artillery attacks continued against Yemeni villages in Al-Thahhar district of Saada province, while Saudi airstrikes targeted Saada province…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791594048516,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The IRGC has released footage showing the targeting of vessels in the Strait of Hormuz. 🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/63159",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jP96vEuTK-LiKcI76c8tlvN4BXi9W-oB7UZk2m94iVHqGanqTyK8vVkgg2awMeeJUW86_VZqJCXGi7L9J2z5aSqMcOZcZcqsyUyZLjh8rFKpi89M4upXlSt4fPITm_ARaIHWeXw4nUE_e1c5X8wso7eVm74MVT_ty_MKA2gNG-5CqJZYgklnYa44Aa6rdsbAm19LBZD5f1vUOst8RquAtJs39wjuaN_TGV76OwZjc7848YzL7Dzvs_k0b3zVqgtLW3Gk9cFR8NX4W5J3KdjAUlx4wL57jTDtyoWDejsoLqfREsvtcsUe6Az5a0FCmB7uy2xTvQLrBgrA1AMOlEJ_5A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791593997469,
+    "type": "drone",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "date": "2026-10-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates | October 9–10, 2026🇾🇪 Yemen / 🇸🇦 Saudi Arabia— AnsarAllah forces continued their advance towards Taiz. The Jabal Habshi area west of Taiz city was reported to have been completely liberated. AnsarAllah forces have taken full control of the area after clearing the remaining are...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791594086635,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates | October 9–10, 2026 🇾🇪 Yemen / 🇸🇦 Saudi Arabia — AnsarAllah forces continued their advance towards Taiz. The Jabal Habshi area west of Taiz city was reported to have been completely liberated. AnsarAllah forces have taken full control of…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791594042905,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-09",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Major events ongoing and expected to occur:1) A new and widespread war in the region is imminent and highly likely to erupt soon, potentially within the next 20 days or shortly before or after. The war may begin with a joint or unilateral Israeli attack on Iran, Yemen, or Iraq. A major attack o...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
