@@ -190155,6 +190155,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/f5i53cmXE8U84W0kGRgdFilPnYsBKzcWqFD47oQLf_xPpydmRpP2Mz4LSrGFQ4MWxTgbMvKZnPvsd1PURzGp9m0yrAXnMh0TbMyQ9SggD2jyueVGMw5_YP024WdyaFv_aSeuOdaS2BXx12hkUj5M-44FnojpsWAWIGwHayfnn5bE-nECHm6OOkQ37IfeGog29ezWOIHq1tkYPJ-VbDIDbmmY-C3DW3TsEZjwy0RAQplNCZEPmdCbfbl5vPuXsW7vJ8M2g7LB5RKq2SCTBW54AgfokUHjPdlL5h0ECsMIsEbOWznigibz5nW2mHLLFppB3j7jFfOrP75tl4EdJjHbGg.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/BIPOJksiWcZp59ovwlSrrJCkguhZyPQI6D5b7Ac_R72ILyE6fggb76_LLQVhMw5NyvRezYeAO9PG7nQ2y5uU3-gFKOXx15U1YFKBFsPu_mOGFIoaKxuQVRe10g8lmk_HuaqBcUt_e3wVyfifJ6akdVIgfinmmvCSHLZT4ts9PKy3gtwaMq3Z3XM3838nxo8rCXF0HbtgUv60_Z_P-BJdxg0OHjAeK_pFKBuHY54DhIQMenHx71oSlt37Wp0YnO3q4PscgjCA09PC3oTqaqyOIus63hmZZ0zq9HAZn1NbwjmoSQQ9657kFSJQ1HkTq9h5Bp_bWHEBSSX9-0R7EfPC9A.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -194857,6 +194861,36 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Yemen Moments when groups of Saudi enemy forces gathered in the field surrender to the Armed Forces in response to the general amnesty decision.Footage of securing the remaining areas of Same’a, As Silw, and Al-Mawasit districts – October 10, 2026.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791666206834,
+    "type": "naval",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-10-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC Navy has targeted a vessel off the coast of the UAE.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791666284032,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-10",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷| Iranian Air Force fighter jets have taken off from Tactical Air Base 1 in western Tehran. The activity may be part of a routine drill, although its exact purpose remains unclear.🔻@enemywatch",
     "media": [],
     "verified": false
   },
