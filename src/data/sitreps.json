@@ -1244,6 +1244,21 @@
     "verified": false
   },
   {
+    "id": 1791724730774,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-02-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran pursuing legal action over Minab school attack: Deputy FM📌 Bandar Abbas, IRNA – Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, says Iran is following up on legal action over the Minab school attack, including lawsuits in foreign courts.Gharibabadi made the r...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -167730,6 +167745,21 @@
     "verified": false
   },
   {
+    "id": 1791724660728,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-09-01",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Deputy FM pays tribute to martyrs of Minab📌 Bandar Abbas, IRNA — Deputy Foreign Minister for Legal Affairs Kazem Gharibabadi has paid tribute to the martyrs of Shajareh Tayyebeh School in Minab.Gharibabadi arrived in Hormozgan on Sunday morning at the head of a delegation of domestic and foreign...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788321393211,
     "type": "missile",
     "location": "Sirik",
@@ -194467,6 +194497,32 @@
     "verified": false
   },
   {
+    "id": 1791724706006,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media “Israeli” enemy army radio: 12 hours of search operations in the Western Galilee: The “Israeli” army is continuing, as of this hour, to investigate the nature of an unidentified object detected by radar systems yesterday evening at around 20:00…",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ebe607d55c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Mc3Heyk7IQKfRFr4IM21RAimhLNRGZaUXqhK1R3GMkbWwl7nVr9AU7a9Bmx6yCiwbTComEO1ImO_W-3VzkeumGU4cvN7mklIFsJCWhpkiwqYo01GaS-StVPKRtwbxBkM2Ol2BHppFSUvNzqL1bc5Pn5ah14BdSIM4TEY5KMd5e3gcXkuaq_TxlqvFqzu06aAYxiZwFjIBfpm2M-YvD9w9-k8p14etqWhAR-u9UTiyjFQBxvU4TdkHMP0gtjx4vxkg_yyPbWo0i2aUNcQ5Ei6dK_QKkQiqSKaAsP-9V9KEGii6p-Sg_rDHhpKxG10rasJ2FOsnesa0-6MV8FgGBirLg"
+      },
+      {
+        "url": "https://t.me/mmirlb/41045",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Mc3Heyk7IQKfRFr4IM21RAimhLNRGZaUXqhK1R3GMkbWwl7nVr9AU7a9Bmx6yCiwbTComEO1ImO_W-3VzkeumGU4cvN7mklIFsJCWhpkiwqYo01GaS-StVPKRtwbxBkM2Ol2BHppFSUvNzqL1bc5Pn5ah14BdSIM4TEY5KMd5e3gcXkuaq_TxlqvFqzu06aAYxiZwFjIBfpm2M-YvD9w9-k8p14etqWhAR-u9UTiyjFQBxvU4TdkHMP0gtjx4vxkg_yyPbWo0i2aUNcQ5Ei6dK_QKkQiqSKaAsP-9V9KEGii6p-Sg_rDHhpKxG10rasJ2FOsnesa0-6MV8FgGBirLg"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1791622968754,
     "type": "airstrike",
     "location": "Israel",
@@ -194936,6 +194992,187 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🎯 Current Updates (-ve)🇾🇪 Yemen— The Yemeni Ministry of Health said 91 people had been martyred and 168 wounded as a result of Saudi aggression since the escalation began on September 3. The ministry said 60 percent of the victims were women and children and described this as evidence that civili...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724645751,
+    "type": "intercept",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-11",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly developments | October 11, 2026🇾🇪 Yemen— Yemeni forces have taken control of Jabal Habshi in Taiz. Saudi aircraft subsequently carried out airstrikes on Jabal Habshi after the Yemeni armed forces took control of the area.— Yemeni forces have liberated the village of Al-Sayahi and Suq Al-...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724693791,
+    "type": "intercept",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-11",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly developments | October 11, 2026 (-ve)🇾🇪 Yemen— A child was martyred in Jabal Habshi, Taiz, after a device left from Saudi attacks exploded. Yemen’s Ministry of Health said the child was killed by an explosive device from the remnants of the Saudi attacks.— Saudi aircraft carried out an a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724649339,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-11",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly developments | October 11, 2026 (-ve) 🇾🇪 Yemen — A child was martyred in Jabal Habshi, Taiz, after a device left from Saudi attacks exploded. Yemen’s Ministry of Health said the child was killed by an explosive device from the remnants of the Saudi…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724688221,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-10-11",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🚨 | Major assassination attempts may be expected inside Iran and across the Resistance Axis. Amid concerns that the IOF and USAF may attempt to assassinate Imam Mujtaba Khamenei, Shaykh Naim Qassem, PIJ-Hamas delegations, and Sayyid Abdul Malik al-Houthi, we are raising awareness to encourage great...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724663519,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-11",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | There were two explosions in the Strait of Hormuz just now.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724737538,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-11",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | The moment of the AnsarAllah attack on King Khalid International Airport in Riyadh, Saudi Arabia.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/7688571a5c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uPCH6hou1nLGHvtNvqPSc3Ys6WGYUFmRBPkXBrODBxNqik-l3Vle9dUTVVOycH1-n1QeFfajHHCAeiY5y7BmKtBuN9J-cyHDyhMr-u-Y3YRPSKmL2FOF2Eh9FeOUFCPSIQDNKuqFhnuv6of1KZGwRNMuKWyNd828wze3E-dQMIEllbItUcIe5Q_2FzOW_ZtoLlMGXEEKrpTZURpdQ2dNhbVRvnzYTyS58xjSpCrktQ4ZIxYCZpgz9G1EQQ7vB3u5Opu2qwvU-oBp-yPfqtVFvTQapQ_2QxFwFd-L67tjnf7a_ZQoxNRLkAFtQteSf3TW1VoWPMWoOnvvY0Zv3v5Csw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63223",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uPCH6hou1nLGHvtNvqPSc3Ys6WGYUFmRBPkXBrODBxNqik-l3Vle9dUTVVOycH1-n1QeFfajHHCAeiY5y7BmKtBuN9J-cyHDyhMr-u-Y3YRPSKmL2FOF2Eh9FeOUFCPSIQDNKuqFhnuv6of1KZGwRNMuKWyNd828wze3E-dQMIEllbItUcIe5Q_2FzOW_ZtoLlMGXEEKrpTZURpdQ2dNhbVRvnzYTyS58xjSpCrktQ4ZIxYCZpgz9G1EQQ7vB3u5Opu2qwvU-oBp-yPfqtVFvTQapQ_2QxFwFd-L67tjnf7a_ZQoxNRLkAFtQteSf3TW1VoWPMWoOnvvY0Zv3v5Csw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791724735763,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-11",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧🏴| Lebanese engineer Hussein Ali Ramadan was martyred after an unexploded Israeli ordnance detonated while he was harvesting olives on his land in the southern Lebanese town of Froun.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/dsEI0u32nYmRwPpHxzfA9bZwLmlGTQa2sQGuQ-W5gzoOf_x-aJJr4XNcu-z3hpIRwrxK-6aC4Jx2t78HQgSyvB3yTZhUHTBLOy75hUN7J7cDcis-nY-VUdmH8gt_xSIVl5OJWHJC1sX0F-BAmo9dWhFqAkMyo0rMwYvGPiEHdEdlOwKwKqC2hBfVSJdyP8biLfijlFCey_KyDjNPKNNtaONRb49v6y9AAAxLXl1XrS4wn-3wKQJJP8tyiCETLvkuwVSHEsHJkGt48RhIw72d-RAjILe_VqUz0jRFCNMN-YzGXIGd2Y0kmKL4upENvR6_CTObIb7ZXaaNA7TRe1QHEw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791724687533,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 VP: World must not forget Minab incident📌 Tehran, IRNA – Vice President for Women and Family Affairs Zahra Behrouz-Azar says that just as the global community has preserved the memory of Hiroshima, the US attack on Minab must neither be forgotten nor obscured by distorted accounts and revised te...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724711175,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran’s nuclear chief challenges US double standards on nuclear technology📌 Tehran, IRNA – Director of the Atomic Energy Organization of Iran (AEOI) Mohammad Eslami has criticized Washington’s double standards on nuclear technology, questioning why the United States prioritizes expanding its own ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724713267,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran’s foreign minister: Environment must not be used as tool of political pressure📌 Tehran, IRNA — Foreign Minister Abbas Araghchi says the environment is a shared heritage of humanity and must not be used as a tool of political pressure or sacrificed to short-term economic and military interes...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791724669119,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran to use nuclear technology to control disease-carrying mosquitoes📌 Tehran, IRNA – The Atomic Energy Organization of Iran (AEOI) and the Ministry of Health have signed an agreement to use nuclear technology to control disease-carrying mosquitoes, including the Aedes aegypti species.AEOI Chief...",
     "media": [],
     "verified": false
   },

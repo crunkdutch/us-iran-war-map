@@ -144245,6 +144245,38 @@
     "media": []
   },
   {
+    "id": 482767999,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen, Saudi Arabia: Yemeni Armed Forces renew their warning",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Yemeni Armed Forces renew their warning to all aviation and shipping companies, experts, employees, workers, and travelers against using Saudi airports and airspace, as they are liable to be targeted and constitute an operational theater for our forces, with the exception of the airports of Mecca and Medina.They urge everyone to take their warnings seriously and hold Saudi Arabia responsible for any failed interceptions.The Yemeni Armed Forces affirm that they will continue to consolidate th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482636436,
     "type": "missile",
     "status": "confirmed",
@@ -144769,6 +144801,252 @@
       "other": 0
     },
     "description": "🎯 Current Updates🇾🇪 Yemen— Breaking: A missile attack hit the Al-Kharj province in Saudi Arabia.— Yemeni forces are making progress on Mount Sabr overlooking Taiz and have taken control of vast areas of the strategic Mount Han, which serves as the western gateway to Taiz.— Yemeni forces have taken control of parts of Mount Sabr and are approaching Cairo Fortress in Taiz city.— Intense fighting was reported in the Taiz direction, with PLC forces launching localized counterattacks in several di",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482740818,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-11",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Riyadh, Jeddah, Yemen: Hourly developments October 2026 Yemen Yemeni",
+    "location": "Riyadh, Jeddah, Yemen, Kuwait, Saudi Arabia, Egypt, Cairo, Alexandria, Port Said",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly developments | October 11, 2026🇾🇪 Yemen— Yemeni forces have taken control of Jabal Habshi in Taiz. Saudi aircraft subsequently carried out airstrikes on Jabal Habshi after the Yemeni armed forces took control of the area.— Yemeni forces have liberated the village of Al-Sayahi and Suq Al-Maqhaiah, cut the Douban supply line and surrounded Saudi-backed forces in the Najd Qasim and Al-Masrak areas.— A high-ranking Yemeni official source told Al Mayadeen that more than 400 Giants Brigade",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482744698,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-11",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Lebanon, Yemen, Israel: Hourly developments October 2026 Yemen child",
+    "location": "Lebanon, Yemen, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly developments | October 11, 2026 (-ve)🇾🇪 Yemen— A child was martyred in Jabal Habshi, Taiz, after a device left from Saudi attacks exploded. Yemen’s Ministry of Health said the child was killed by an explosive device from the remnants of the Saudi attacks.— Saudi aircraft carried out an airstrike on Naqil al-Zarbi in Hayfan District, south of Taiz.— Saudi aggression targeted northern and eastern areas of Taiz.— Saudi aircraft carried out an airstrike on Al-Jil Al-Jadid School in the A",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482748579,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-11",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Hourly developments October 2026 Yemen child",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly developments | October 11, 2026 (-ve) 🇾🇪 Yemen — A child was martyred in Jabal Habshi, Taiz, after a device left from Saudi attacks exploded. Yemen’s Ministry of Health said the child was killed by an explosive device from the remnants of the Saudi…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482752461,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-11",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Isfahan, Tabriz: Iran launched largescale military exercises amid",
+    "location": "Tehran, Isfahan, Tabriz, Mashhad, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 5
+    },
+    "description": "🇮🇷 🇮🇷 🇮🇷 | Iran has launched large-scale military exercises amid indications of a possible joint Israeli-American escalation very soon. The Iranian Army, the IRGC, and allied paramilitary forces have been conducting extensive drills since last night, with further exercises expected to continue tonight.The Iranian Air Force is participating in the manoeuvres. F-4 Phantoms, F-14 Tomcats, MiG-29s, and F-5 fighter jets have reportedly been seen flying across Iran. The country’s remaining aeria",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482756344,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-11",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Red Sea, Bab al-Mandab, Yemen: spokesperson Saudi government officially announces Jazeera",
+    "location": "Red Sea, Bab al-Mandab, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | The spokesperson for the Saudi government officially announces, on Al Jazeera, that Saudi Arabia is seeking to expel Ansar Allah from Bab al-Mandab and the Yemeni coast, with the aim of preventing Yemenis from threatening the Israeli port of Eilat and disrupting the movement of Israeli ships in the Red Sea. Saudi Arabia is now announcing, through its official spokesperson, that it is waging war on Yemen, bombing its territory, and killing its people in order to protect Israeli interests a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/47c2c79faf.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/qSxmXo24AOeAU-jz2uYGFK-S7x7WK2mCzeYtWxi8FRZzuU1dvwdKbU5sdbbXIyRiEoQEnpxSP7bZXfIUwZGO4lXd81Pw2-W_gEqYzp84HH3TwvyKXWiRE2HrDO4V52-ZSnNm-K50WsrWQzHO_CFhrHIBYjqJTy94hyNFs_vynZoRRm36nGzoMEPrz1n38st0cGG5XrFB4SVWtPhdWcMLvgC_rxPpW3-RpzgrHxUP-7dKdSjPVjf09hosxRecLUuTHbplcsOFf9yqHUYbZYfupMWv9fGUCM9ZrRoElVFJxCTrLnKGFWj0B5NDJiqmtRhcB2wRy1dPrrmldCHt8Kbv1w"
+      },
+      {
+        "url": "https://t.me/enemywatch/63222",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/qSxmXo24AOeAU-jz2uYGFK-S7x7WK2mCzeYtWxi8FRZzuU1dvwdKbU5sdbbXIyRiEoQEnpxSP7bZXfIUwZGO4lXd81Pw2-W_gEqYzp84HH3TwvyKXWiRE2HrDO4V52-ZSnNm-K50WsrWQzHO_CFhrHIBYjqJTy94hyNFs_vynZoRRm36nGzoMEPrz1n38st0cGG5XrFB4SVWtPhdWcMLvgC_rxPpW3-RpzgrHxUP-7dKdSjPVjf09hosxRecLUuTHbplcsOFf9yqHUYbZYfupMWv9fGUCM9ZrRoElVFJxCTrLnKGFWj0B5NDJiqmtRhcB2wRy1dPrrmldCHt8Kbv1w"
+      }
+    ]
+  },
+  {
+    "id": 482760228,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-11",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Saudi Arabia: moment AnsarAllah attack King Khalid International",
+    "location": "Riyadh, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | The moment of the AnsarAllah attack on King Khalid International Airport in Riyadh, Saudi Arabia.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/7688571a5c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uPCH6hou1nLGHvtNvqPSc3Ys6WGYUFmRBPkXBrODBxNqik-l3Vle9dUTVVOycH1-n1QeFfajHHCAeiY5y7BmKtBuN9J-cyHDyhMr-u-Y3YRPSKmL2FOF2Eh9FeOUFCPSIQDNKuqFhnuv6of1KZGwRNMuKWyNd828wze3E-dQMIEllbItUcIe5Q_2FzOW_ZtoLlMGXEEKrpTZURpdQ2dNhbVRvnzYTyS58xjSpCrktQ4ZIxYCZpgz9G1EQQ7vB3u5Opu2qwvU-oBp-yPfqtVFvTQapQ_2QxFwFd-L67tjnf7a_ZQoxNRLkAFtQteSf3TW1VoWPMWoOnvvY0Zv3v5Csw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63223",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uPCH6hou1nLGHvtNvqPSc3Ys6WGYUFmRBPkXBrODBxNqik-l3Vle9dUTVVOycH1-n1QeFfajHHCAeiY5y7BmKtBuN9J-cyHDyhMr-u-Y3YRPSKmL2FOF2Eh9FeOUFCPSIQDNKuqFhnuv6of1KZGwRNMuKWyNd828wze3E-dQMIEllbItUcIe5Q_2FzOW_ZtoLlMGXEEKrpTZURpdQ2dNhbVRvnzYTyS58xjSpCrktQ4ZIxYCZpgz9G1EQQ7vB3u5Opu2qwvU-oBp-yPfqtVFvTQapQ_2QxFwFd-L67tjnf7a_ZQoxNRLkAFtQteSf3TW1VoWPMWoOnvvY0Zv3v5Csw"
+      }
+    ]
+  },
+  {
+    "id": 482764113,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-11",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Minab: World must forget Minab incident Tehran",
+    "location": "Tehran, Minab",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 VP: World must not forget Minab incident📌 Tehran, IRNA – Vice President for Women and Family Affairs Zahra Behrouz-Azar says that just as the global community has preserved the memory of Hiroshima, the US attack on Minab must neither be forgotten nor obscured by distorted accounts and revised terminology.Referring to the necessity of supporting the families of the martyrs of Minab, Behrouz-Azar said that no child, in fact, no human being anywhere in the world, should ever fall victim to such",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
