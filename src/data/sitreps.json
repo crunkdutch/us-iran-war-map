@@ -190590,6 +190590,141 @@
     "verified": false
   },
   {
+    "id": 1791754903654,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Ambrey Maritime Security Company: An oil tanker flying the Panamanian flag was struck by a projectile, with columns of smoke rising from it as it passed through the Strait of Hormuz.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754841844,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” enemy army radio: Yesterday, 8 soldiers from the “Israeli” army’s 7th Armored Brigade sustained minor injuries as a result of an operational traffic accident in southern Lebanon. The incident is under investigation.The initial investigation indicates that two vehicles collided ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754846505,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_Republic Iranian television: An oil tanker exploded in the Strait of Hormuz after it had switched off its tracking system upon entering the strait.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754866422,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper: A Beersheba court sentenced a 30-year-old “Israeli” man, a former security guard at the court, to three years in prison after convicting him of communicating with a foreign agent, following his contact with an Iranian agent approximately two years ago.#...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754841095,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12:On the cabinet’s agenda today:– An update from the Prime Minister regarding his visit to New York and other matters– Political situation assessment: a briefing from the Foreign Minister on aspects of legitimacy and other matters– Operational plans for the Central Comman...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754906500,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-02",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Our Armed Forces – by the grace of Almighty Allah – succeeded in expelling and targeting the Saudi enemy’s forces gathered east of Al-Jawf following failed attempts to advance toward the positions of our Armed Forces. The operation to target and expel them resulted in the following:– A large number ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754869674,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-10-02",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: In “Israel”, assessments are increasingly growing that the Omani attacker, who is the pilot who attempted to destroy the Emirati aircraft heading toward Tel Aviv, acted alone and was not acting on anyone’s orders.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754899091,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-02",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source told Yemeni media: With the help of Allah, the Saudi enemy’s forces gathered in the Al-Turbah area and the districts of Al-Shamayatayn and Sama’ in Taiz Governorate were expelled.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754869489,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-02",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Lebanon Head of Hezbollah’s Executive Council, His Eminence Sheikh Ali Daamoush, at the grand scouting gathering: – We will not hesitate to confront the occupying Zionists, nor will we deviate from the path of our martyrs.– Political accusations and attempts at defamation targeting the Imam Al-Mahd...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791038056672,
     "type": "missile",
     "location": "Riyadh",
@@ -195607,6 +195742,58 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ ‘Don’t let my friends be forgotten’: Surviving Minab student writes to Araghchi📌 Tehran, IRNA - Iranian Foreign Minister Abbas Araghchi said Sunday he has received a letter from a surviving student of the Shajareh Tayyebah School in Minab, which came under a deadly US missile attack late in Febr...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1791754875208,
+    "type": "airstrike",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "date": "2026-10-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Newly surfaced footage shows Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Hosseini Khamenei at the residence of the late Allameh Mesbah Yazdi.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a8cd4148c4.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KTeT8pTYimvsDRqVMdbwnSw5l0KN_s0y8dRI0HNI2L91AYEXvydalFVqqcDJNhxV0Erk6dGXGMCBth5Ukrz4qlsM9WUZ7IvxSN8fHqTrNsyhYT3J10ga1ibpMAUAxzNG09UBj4aMeBXAg4Rd-jeYotTGzZQfkQVZPWQx6uFlWHD8XI-5MQUxC-KxdkSdHiRg2NDOytZlROCRGF2vdACqF3DcfE3XszC2QubPxLLTDXt1vSA6x7PH72MjylQj5E6uny213WZ2VKOR3OyKB5_r114GhxI4FuFzJpyyb-qmecNIy7UYYfK_r00dCuNunzTijf9Pr1y65HWWTN1kNBNZtw"
+      },
+      {
+        "url": "https://t.me/Irna_en/40670",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KTeT8pTYimvsDRqVMdbwnSw5l0KN_s0y8dRI0HNI2L91AYEXvydalFVqqcDJNhxV0Erk6dGXGMCBth5Ukrz4qlsM9WUZ7IvxSN8fHqTrNsyhYT3J10ga1ibpMAUAxzNG09UBj4aMeBXAg4Rd-jeYotTGzZQfkQVZPWQx6uFlWHD8XI-5MQUxC-KxdkSdHiRg2NDOytZlROCRGF2vdACqF3DcfE3XszC2QubPxLLTDXt1vSA6x7PH72MjylQj5E6uny213WZ2VKOR3OyKB5_r114GhxI4FuFzJpyyb-qmecNIy7UYYfK_r00dCuNunzTijf9Pr1y65HWWTN1kNBNZtw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1791754877583,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-11",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "IRGC Navy: A violating supertanker came into contact with a naval mine in the southern part of the Strait of Hormuz on Sunday, triggering an explosion and setting its engine room ablaze.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dcfcd64639.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/QTXck-g2sxjh-M8_joh41e0stDp-a92iug5psMtRvgZJPkzxkYjDlMGMk54bREjS017RzNerN6mgP8amSuEwma427JHNZSRL-Zr4fdjKJwCwXxmscUZgxTmmMw053T5MASsI209_tzsCHnkXzT88eX6ddz4EFCVdV6tCb8qOCpceSvdF_6ntY06gUxkaa7B9PGASaBJtKJZTaUkoOfqx9Zfdjvh4bm3vbuZnK_F_bGwSYJ2l0OPii1lTC3oqRtcXbBwvVFosRSn6QDsbnNroJem4D_eqp8bmmwbBiFhAAL7iDprzgA5MeqsL9EAmLYr_3Ru8hjIWtJgR_1YwMz_SCg"
+      },
+      {
+        "url": "https://t.me/Irna_en/40671",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/QTXck-g2sxjh-M8_joh41e0stDp-a92iug5psMtRvgZJPkzxkYjDlMGMk54bREjS017RzNerN6mgP8amSuEwma427JHNZSRL-Zr4fdjKJwCwXxmscUZgxTmmMw053T5MASsI209_tzsCHnkXzT88eX6ddz4EFCVdV6tCb8qOCpceSvdF_6ntY06gUxkaa7B9PGASaBJtKJZTaUkoOfqx9Zfdjvh4bm3vbuZnK_F_bGwSYJ2l0OPii1lTC3oqRtcXbBwvVFosRSn6QDsbnNroJem4D_eqp8bmmwbBiFhAAL7iDprzgA5MeqsL9EAmLYr_3Ru8hjIWtJgR_1YwMz_SCg"
+      }
+    ],
     "verified": false
   },
   {

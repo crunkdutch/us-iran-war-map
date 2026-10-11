@@ -140021,6 +140021,102 @@
     "media": []
   },
   {
+    "id": 482814709,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Armed Forces grace Almighty Allah succeeded",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Our Armed Forces – by the grace of Almighty Allah – succeeded in expelling and targeting the Saudi enemy’s forces gathered east of Al-Jawf following failed attempts to advance toward the positions of our Armed Forces. The operation to target and expel them resulted in the following:– A large number of vehicles belonging to the Saudi enemy’s forces gathered there were set ablaze.– Dozens of those forces were killed and wounded.– The remaining forces were pursued and chased through the Al-Jawf des",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482818608,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tel Aviv, Oman, Israel: Enemy_MediaHebrew Channel Israel assessments increasingly gr...",
+    "location": "Tel Aviv, Oman, Israel",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 15: In “Israel”, assessments are increasingly growing that the Omani attacker, who is the pilot who attempted to destroy the Emirati aircraft heading toward Tel Aviv, acted alone and was not acting on anyone’s orders.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482822508,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-02",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon: Lebanon Head Hezbollahs Executive Council Eminence",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Lebanon Head of Hezbollah’s Executive Council, His Eminence Sheikh Ali Daamoush, at the grand scouting gathering: – We will not hesitate to confront the occupying Zionists, nor will we deviate from the path of our martyrs.– Political accusations and attempts at defamation targeting the Imam Al-Mahdi Scouts Association (may Allah hasten his reappearance) or the Imam Al-Mahdi Schools (may Allah hasten his reappearance) are rejected and will not deter them from continuing their role in educating g",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482069811,
     "type": "missile",
     "status": "confirmed",
@@ -145182,7 +145278,12 @@
     "description": "— There is currently no real understanding of why America wants to impose its will and continue its aggression against Iran and the entire Resistance Axis, while the world stands on the brink of a major economic crisis due to the disruption of shipping through the Strait of Hormuz. If Bab al-Mandab were also to be affected, the consequences could choke major global trade routes within a week. The alternatives proposed to avoid these routes are largely unrealistic, exposing a serious miscalculati",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/SvS0vTIIsfYH_et4IoWzGsuq-RHh4ubF_X0-phxyv5yD9DPDwxKB-3RJU7E30zu_YKiejg7n3ddgKdZFe16ckjl7wTVrzuVaUEjmzrNAxPgczcrOvmgM7sSjYG8NtS9ToCdAeuNNm7n064ar7i2Rv2HSrkHUDb43pOnBUOLzwxmff99QZyHAgjbJSI9_HGzZUH5PrsS48F9RFd1JzzcyYJHqQadzoftDaTUYWBm7JJx5fY3743_NbbF0TnA5URv4_jfxYHyHa9XTOAyllDvEVWs_tZFQ4PeoXsDcvJH6i3-vmZ-FRQS3YbcR6kXQL1GHcblMiSAqtSp8zbon6M6Vew.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 482775774,
@@ -145375,6 +145476,49 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 482810811,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-11",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC Navy violating supertanker came into",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC Navy: A violating supertanker came into contact with a naval mine in the southern part of the Strait of Hormuz on Sunday, triggering an explosion and setting its engine room ablaze.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dcfcd64639.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/QTXck-g2sxjh-M8_joh41e0stDp-a92iug5psMtRvgZJPkzxkYjDlMGMk54bREjS017RzNerN6mgP8amSuEwma427JHNZSRL-Zr4fdjKJwCwXxmscUZgxTmmMw053T5MASsI209_tzsCHnkXzT88eX6ddz4EFCVdV6tCb8qOCpceSvdF_6ntY06gUxkaa7B9PGASaBJtKJZTaUkoOfqx9Zfdjvh4bm3vbuZnK_F_bGwSYJ2l0OPii1lTC3oqRtcXbBwvVFosRSn6QDsbnNroJem4D_eqp8bmmwbBiFhAAL7iDprzgA5MeqsL9EAmLYr_3Ru8hjIWtJgR_1YwMz_SCg"
+      },
+      {
+        "url": "https://t.me/Irna_en/40671",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/QTXck-g2sxjh-M8_joh41e0stDp-a92iug5psMtRvgZJPkzxkYjDlMGMk54bREjS017RzNerN6mgP8amSuEwma427JHNZSRL-Zr4fdjKJwCwXxmscUZgxTmmMw053T5MASsI209_tzsCHnkXzT88eX6ddz4EFCVdV6tCb8qOCpceSvdF_6ntY06gUxkaa7B9PGASaBJtKJZTaUkoOfqx9Zfdjvh4bm3vbuZnK_F_bGwSYJ2l0OPii1lTC3oqRtcXbBwvVFosRSn6QDsbnNroJem4D_eqp8bmmwbBiFhAAL7iDprzgA5MeqsL9EAmLYr_3Ru8hjIWtJgR_1YwMz_SCg"
+      }
+    ]
   },
   {
     "id": 480276116,
