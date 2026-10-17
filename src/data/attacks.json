@@ -145269,6 +145269,38 @@
     "media": []
   },
   {
+    "id": 483309834,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Strait of Hormuz: IRGC targeted vessels violating regulations Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The IRGC targeted vessels violating regulations in the Strait of Hormuz with missile strikes.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482740818,
     "type": "intercept",
     "status": "confirmed",
@@ -149671,7 +149703,12 @@
     "description": "🇾🇪 ❌ 🇸🇦 | Yemeni ballistic missiles targeted a military assembly of pro-Saudi forces in Lahij, who were preparing to advance toward areas controlled by Yemeni forces.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Mk1Cc1CxbUhr5UZMWWdXRkOpvrYI6BF6syLU2JMK6_btAew07g8wgwCzSMFQOAyiLwv4X2v_GavMyd7Q1onhQ2Vy9_UJNpMBWfRA3fOKEnMyqVyEEPz1YICTkdOQBhZTkTR0rsDwxA-YPNOI0cnuBllZ4t4Roq-UGrCqRPeAbOoU13xiP1ZtePMn7hWsja0YmffyOKRSpKAy-pJ3CRL2XbATuATLwUCToqI_NROGcGv1LcL1VJFUmFMZzGDxkVu_4OLctRWhbYiMrrira7MsmharRyL3KqL7me8dg2Kvm1SjFbZ-rn77uoSzuDQIW58FVcPn-jf_BsOVzByN3sqelw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 483277678,
@@ -149770,6 +149807,38 @@
       "other": 0
     },
     "description": "📄 Second supertanker explodes after hitting mine in Strait of Hormuz: IRGC Navy📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has reported an explosion aboard a second supertanker following a collision with a naval mine in the Strait of Hormuz.In a statement on Saturday, the IRGC’s Public Relations office said the fire engulfed the engine room of the supertanker — carrying over 2 million barrels of crude oil — after a powerful explosion, leaving the vessel immobilized.​The st",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483313858,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Bandar Abbas, Sirik: Once again explosions have been heard",
+    "location": "Bandar Abbas, Sirik",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Once again, explosions have been heard off the coasts of Sirik and Bandar Abbas in Iran. However, the cause remains unclear, including whether they are related to a naval battle or something else.▪️@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
