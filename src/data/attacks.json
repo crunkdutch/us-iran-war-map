@@ -149844,6 +149844,38 @@
     "media": []
   },
   {
+    "id": 483317883,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: liquefied natural tanker came under gunfire",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | A liquefied natural gas (LNG) tanker came under gunfire approximately 140 nautical miles southeast of Al-Mukalla, off the Yemeni coast. The authority reported that a small boat carrying seven people approached the tanker and fired two shots. The vessel’s armed security team responded by firing two warning shots, prompting the boat to change course and move away.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

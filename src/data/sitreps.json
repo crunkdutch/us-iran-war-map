@@ -195843,6 +195843,21 @@
     "verified": false
   },
   {
+    "id": 1792265516425,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-10",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "One particularly important point raised by @Alqadhi1Anas concerns the motives behind the Saudi-backed \"Operation Dawn of Yemen.\" If this operation were genuinely conceived and led by Yemeni leadership, in pursuit of Yemeni national interests, why has it concentrated…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791724645751,
     "type": "intercept",
     "location": "Riyadh",
@@ -199342,6 +199357,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1792265586130,
+    "type": "naval",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | A liquefied natural gas (LNG) tanker came under gunfire approximately 140 nautical miles southeast of Al-Mukalla, off the Yemeni coast. The authority reported that a small boat carrying seven people approached the tanker and fired two shots. The vessel’s armed security team responded by firin...",
+    "media": [],
     "verified": false
   },
   {
