@@ -145096,7 +145096,18 @@
     "description": "🟡 Hourly developments | October 11, 2026 (-ve) 🇾🇪 Yemen — A child was martyred in Jabal Habshi, Taiz, after a device left from Saudi attacks exploded. Yemen’s Ministry of Health said the child was killed by an explosive device from the remnants of the Saudi…",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4d470e97fb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r_eMMqqMvhSilmDacz6VNskPehikX8IFK6xebPW-ngXBJLkn-Dxe4DvnvETo5_IkqWeDquYk06sFkxQCyvt_PSutIVpMAJJYVkKfXQos0nm9VS4uZvxjGm_BuFy-J_xBIVI_b2xyCwS022Kriyn5DDxyvehqL7K1rkb62t9gC8Mq2bmVh5NLcg9Y1Dy0sQs29-yjJLd9P2fnWXgMAudSLKKAbaNjWi7rQfbgSXa3JrSoZgaMK6LcxKcETo9ICF_vOK3FTdXGE8GaBKyj82EgNTHUqu7flor38FvMEDonIPjZxhCOYzrWLzttM0I1Dbq5qafDnHYLoiL3v7CDB6ezmw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63253",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/r_eMMqqMvhSilmDacz6VNskPehikX8IFK6xebPW-ngXBJLkn-Dxe4DvnvETo5_IkqWeDquYk06sFkxQCyvt_PSutIVpMAJJYVkKfXQos0nm9VS4uZvxjGm_BuFy-J_xBIVI_b2xyCwS022Kriyn5DDxyvehqL7K1rkb62t9gC8Mq2bmVh5NLcg9Y1Dy0sQs29-yjJLd9P2fnWXgMAudSLKKAbaNjWi7rQfbgSXa3JrSoZgaMK6LcxKcETo9ICF_vOK3FTdXGE8GaBKyj82EgNTHUqu7flor38FvMEDonIPjZxhCOYzrWLzttM0I1Dbq5qafDnHYLoiL3v7CDB6ezmw"
+      }
+    ]
   },
   {
     "id": 482752461,
@@ -145519,6 +145530,3464 @@
         "thumbnail": "https://cdn4.telesco.pe/file/QTXck-g2sxjh-M8_joh41e0stDp-a92iug5psMtRvgZJPkzxkYjDlMGMk54bREjS017RzNerN6mgP8amSuEwma427JHNZSRL-Zr4fdjKJwCwXxmscUZgxTmmMw053T5MASsI209_tzsCHnkXzT88eX6ddz4EFCVdV6tCb8qOCpceSvdF_6ntY06gUxkaa7B9PGASaBJtKJZTaUkoOfqx9Zfdjvh4bm3vbuZnK_F_bGwSYJ2l0OPii1lTC3oqRtcXbBwvVFosRSn6QDsbnNroJem4D_eqp8bmmwbBiFhAAL7iDprzgA5MeqsL9EAmLYr_3Ru8hjIWtJgR_1YwMz_SCg"
       }
     ]
+  },
+  {
+    "id": 483066261,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Erbil, Riyadh, Bab al-Mandab: This Hour Updates October 2026 Yemen",
+    "location": "Erbil, Riyadh, Bab al-Mandab, Yemen, Kuwait, Saudi Arabia",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🕰️ This Hour Updates | October 12, 2026 (+ve)🇾🇪 Yemen— Yemeni sources reported that the Yemeni Armed Forces had taken control of Jabal Sabr camp and its affiliated villages, as well as Al-Sarari, on the Taiz front. The forces were reportedly continuing their advance toward the strategic summit of Jabal Al-Arous, which overlooks the city of Taiz. In Lahij Governorate, AnsarAllah reportedly captured Hawab Mountain and Harooz Mountain, threatening to cut off PLC forces along Yemen’s southern coa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483070224,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Yemen, Oman: This Hour Updates October 2026 Yemen",
+    "location": "Sanaa, Yemen, Oman, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 12,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⏰ | This Hour Updates | October 12, 2026 (-ve)🇾🇪 Yemen— Saudi forces continued attacks across Yemen. A child was killed and his mother injured by a shell fired by Saudi-backed forces in Al-Makh’af village in Al-Aqrudh, Al-Misrakh district, in southwestern Yemen. Saudi airstrikes on Sanaa killed one man and wounded 12 people, including a woman and three children. One strike hit a salt factory in Hamdan, killing one person and injuring eight, while a separate strike on a residential house wounde",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483074188,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: ship Strait Hormuz reportedly struck missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | A ship in the Strait of Hormuz was reportedly struck by a missile fired by the Iranian Revolutionary Guard Navy, resulting in a fire onboard.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483078153,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Yemen: Yemeni Armed ForcesSaudi warplanes carried raids",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:Saudi warplanes carried out 119 air raids and missile strikes against civilian targets in the capital Sanaa and the provinces of Al-Jawf, Taiz, Saada, Marib, Lahj, Al-Bayda and Ibb over the past 24 hours, using \"F-15\" and \"Typhoon\" aircraft that took off from the bases of Khamis Mushait and Taif, and missile attacks from Najran and Jizan, leaving martyrs and wounded civilians, including women and children. The total number of air raids and missile strikes by the Saudi ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483082119,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Amman, Red Sea, Yemen: Sanaa rejects logic ceasefires therefore Kingdom",
+    "location": "Amman, Red Sea, Yemen",
+    "coordinates": [
+      31.9454,
+      35.9284
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Sana’a rejects the logic of ceasefires; therefore, if the Kingdom knocks on Amman’s door, it will be met with a “no” from Yemen. The conditions for stopping the war have been put on the table by Yemen: a complete cessation of hostilities and an end to the conflict, not a ceasefire based on promises and subject to American manipulation.Fighting continues in Yemen’s mountainous areas, where forces opposing Ansar Allah, backed by air support, have attempted to advance from the highlands toward th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483086086,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: Yemeni Armed ForcesBy grace help Allah",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:By the grace and help of Allah, our armed forces targeted King Khalid International Airport in the capital of the Saudi enemy, Riyadh, this evening with a ballistic missile, and the strike was accurate.We renew our warning to all international airlines, as well as all experts, employees, workers, and travelers from around the world, against operating flights to Saudi airports, as they are not safe, with the exception of the airports and airspace of the holy areas ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/SREr7cTOLkrTTbvV_ELqa4RAlHyYskiV4sT2vZAvVYL4peKVxYsDlbrc1LiMCN_eMRLBeslWQdYoWspuGqkFws3NyL3nm02Ku6FnkGDt6feEEuwuubatVcAnJ5m9l94Deyvfc2TGpb4epPmYYcsCskha4Un_08N8aMgYhWfuAUGRM520ycQIO3CCUbHs3HQwC7Al2pVzVD-o4Pu2eZove7X6j85jdOC2owVzmtVWLNXp1B0hQtQQkQriWFqp2ezJLLphyfY75MOx8t7mBWUOovcnJeYSIsu9KyafFGcKsFWfiV4ctJzRyXDOXMZvYsXAKnxqpHpehG0mYl0Ho7w_cA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483090054,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz, Persian Gulf: Intense fires currently ongoing Strait Hormuz",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Intense fires are currently ongoing in the Strait of Hormuz. According to the UKMTO, Iran has struck 6 vessels in the Strait of Hormuz over the past 24 hours. The IRGC has effectively confirmed that it has taken the initiative at sea, both in the Strait of Hormuz and its surrounding waters.Strikes on tankers have reached a high level, with heavy losses being inflicted on vessels that violate the restrictions. Meanwhile, a partial blockade of ports in the Persian Gulf remains in effect. This is",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483094023,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Saudi airstrike killed nine members family",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/🏴| A Saudi airstrike killed nine members of the family of Yemeni citizen Mubarak Dayel in Khub wa ash Sha’af District of Al-Jawf Governorate, most of them women and children.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/63289",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/JpjQO7yI5dAwuBE26-swGxWP-Ewft1mtTcIWNSbrTe6S-VErE5X0NsSM8rLa2xnHzofATsk80yKeUAY8oAi8xWGW4HNJglXyXzoeZ5BebZVInrSZUG5YTVBjM9KzsH9RXGOcIcJVZvZfJWB0pJVwNI9llTIH32v0Wx8aCYUjdJLOUL_Lph1ltaezg8FvG8Qh5G0xkQ_EzH7hXSjUdqKhMpNRs-ttcMV4ClExWpVGZZLNbapZKNgaHKjT_g-WP2ILkHolgbHMci2ki2U4CgtVhwmUkgsM8bnKSGj9Uld4Qx4dA0hg334qVcPVKzURilrv6wxtH6tYom1sbBvtDI4UVQ"
+      }
+    ]
+  },
+  {
+    "id": 483097993,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Riyadh, Jeddah, Damascus: This Hours Updates October 1213 2026",
+    "location": "Riyadh, Jeddah, Damascus, Syria, Yemen, Oman, Saudi Arabia, Iraq, Israel, Gaza Strip",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🕰️ | This Hours Updates | October 12-13, 2026🇾🇪 Yemen— An AnsarAllah official warned america of a “swift and painful response” if it entered the war in Yemen. Separately, reports says that AnsarAllah had launched an attack against Jeddah International Airport in western Saudi Arabia, with several aircraft reportedly placed in holding patterns. Additional reports indicated continued Yemeni attacks targeting Riyadh airport.🇮🇷 Iran l 🇮🇶 Iraq— Iranian Foreign Minister Seyed Abbas Araghchi hel",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483101964,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Footage ongoing battles northern fronts Marib",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/ 🇸🇦 | Footage of ongoing battles on the northern fronts of Marib Governorate, coinciding with the Yemeni government forces' announcement of targeting Houthi group barracks and military gatherings with drones on the governorate's fronts. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/70f2c1fe24.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/F9n8cS9KPQw5vGXUeT-AfTDz_og57OaDfAAzNaPUP0BCBtFZoAALf4C9nAHhCgSRnA3rXQEQxnCU4oxPeDphxzMYsTH2ev2Dz9zPPLl671r90ypS7uFgWP1wPaCIOoNxv68IaYC42kOTiGz5pr8vg0uoP_Wgal-yGO0OypQFORwzKXKC8CYJgc1n-c39BHDjpFlXxUEdTo48dBV8KPrHg9gJhLjhivU9MFp8wUG4_GLGXacndIBgProx1COPIOkzUie_Xhaf9zKHYjamWJNf3rkbRLMoDdrfaFFgzoQqdRM56ElyInW1v3JIZ0F8lcy5y2sSdccpJ9LopNTeMFz9DQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63292",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/F9n8cS9KPQw5vGXUeT-AfTDz_og57OaDfAAzNaPUP0BCBtFZoAALf4C9nAHhCgSRnA3rXQEQxnCU4oxPeDphxzMYsTH2ev2Dz9zPPLl671r90ypS7uFgWP1wPaCIOoNxv68IaYC42kOTiGz5pr8vg0uoP_Wgal-yGO0OypQFORwzKXKC8CYJgc1n-c39BHDjpFlXxUEdTo48dBV8KPrHg9gJhLjhivU9MFp8wUG4_GLGXacndIBgProx1COPIOkzUie_Xhaf9zKHYjamWJNf3rkbRLMoDdrfaFFgzoQqdRM56ElyInW1v3JIZ0F8lcy5y2sSdccpJ9LopNTeMFz9DQ"
+      }
+    ]
+  },
+  {
+    "id": 483105936,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria: explosion fuel depot caused fire house",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇾 | An explosion in a fuel depot caused a fire in a house in the Al-Nashwa neighborhood of Al-Hasakah city, northeastern Syria.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dTYy-IwQWwHnjWBbuz_mR6Grathgy79LPFTooucVBqtztBNubKLHf6aOxQGgK5htt2cQI1YXM4DU3nm0Gs_DA9g1-4PDIiKE43Zmvnqux9j3IEp1f0qrPYTH-AirSqK8LGMEEQ3cwXSp57X5a_zBIP-Jl4fsowKjiSN92H_dQRYz1j2cDlnMIamC7COlcNIIGgNx-BlVn_JrrXxba7CblkmybfOjnG6YFMSXL3u57BujFfxtc7m6NK3YcXQtngXtv-kwRyEV6imFi0i3YtgVuWsSf30qjAj6-WeMDlM-z9NwtfgTyaSbPjiA1MYN_JxOXL5rfupFsU9dZjimiGOBmg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/U_CFDFAQ7JnTtHoiK5a7-0fjiFxraHACEpo7b5xaj4FlMlrzgTN1vWTFCpManUzLkhxh3SLd0IkMIB8RH6OmtqVTaZJLow-F2JCdXsjkkSIyePoKAQFVQiHt1MzwMdyfWJbgIkVwoAQbcHGvyVsnm_NpThHelcCWl6VQ8va_oOmDuP4AJ4VjmfbnwBUBGiPQsHEe3PmApHaC-c-WJYwPIqfO5ph34G7qKA7fPZlmvmjDSay0J9IMYAdYREl7nEY9nUnpTKIaycGV0eQc_O60r7iTEFSyvthkPd64jK2_gwamsdTXsZLXlMtbP8UC40TteJvNeHeilV9f6oXQbze1Zg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Y12DDmAgl6A6x42Oe_XfhaBhe172Q2RHHfTRu8MyHbXvjXCRh8JpiYGu6kc4-Y4kzLwHCzRDUPtr3uda2C3KXx-YRWVuXJWTArJgOVHjvlgKesmYa4aVcvoEBz7cfsY3U-dCIUdBQR0h0rcCZvnFKtU1phlx-ga7sQgHuoa8fYQgXgo6dw-3oW1TvWTzE0jbgn5bMjm3DSk14Ug1Xq7fe7Fy7RNVDtRi4ga5yA8hB1CQSrqB7YdkFLJywhuQffrrSR0KLMBzbWGs3AMAT0Kj_kVAlyrFuCMuVJ2vBWnXSPsdRb10ObFGhgLQi6LEUT9CdaHgGV6P4DvaQtGxD8KOfA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/f98c242914.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/irpihXPlftDsmlSgZxYcNtad3wMWY9eyaL9Ved9p-7aPhpQcmjST6e6AwazBPvRTEHw3QwM-F4w7DDoaKx-5XcOh-zCQm2t3x2EOIaaH6KV3ixUU42g_VLZUrBkdjYD4vfqwrUBBj68SHj58LH9QrBw9y99toGpcn8jSwEDAxRF9HrpCKa03X16wqsLhzyGQ3kYPMIgBfqe1GN3IQjPHpvUZ4ryJulzoeOxxlJwPOeYmK8AnCw1YxK1hT8TyWM78ilN_TLAV4tpVO67DOWpEE_uGrHO5nuaa3w2MBcOOSKfRzYgdCmMl9ria49_rh-7gQ30FbL9S1-bfnEM0YDacDg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63293?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/irpihXPlftDsmlSgZxYcNtad3wMWY9eyaL9Ved9p-7aPhpQcmjST6e6AwazBPvRTEHw3QwM-F4w7DDoaKx-5XcOh-zCQm2t3x2EOIaaH6KV3ixUU42g_VLZUrBkdjYD4vfqwrUBBj68SHj58LH9QrBw9y99toGpcn8jSwEDAxRF9HrpCKa03X16wqsLhzyGQ3kYPMIgBfqe1GN3IQjPHpvUZ4ryJulzoeOxxlJwPOeYmK8AnCw1YxK1hT8TyWM78ilN_TLAV4tpVO67DOWpEE_uGrHO5nuaa3w2MBcOOSKfRzYgdCmMl9ria49_rh-7gQ30FbL9S1-bfnEM0YDacDg"
+      }
+    ]
+  },
+  {
+    "id": 483109909,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Fars, Lebanon, Yemen: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Fars, Lebanon, Yemen, Israel, Gaza Strip",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates | October 12, 2026 (-)🇾🇪 Yemen— Saudi aggression with missiles targeted Al-Dhaher border district.🇱🇧 Lebanon— Heavy israeli artillery shelling targeted the town of Al-Mansouri in Jabal Amel at dawn.— Israeli attacks across Jabal Amel from midnight until 7 AM included artillery shelling against Wadi Al-Saluqi, Wadi Zibqin, Al-Mansouri, Kfarshouba and Haris.— Machine-gun fire was reported toward Srebbine and Zawtar Al-Sharqiyah.— A further summary of israeli attacks reported ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483113883,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Yazd: ballistic missile launches reported from Yazd",
+    "location": "Yazd",
+    "coordinates": [
+      31.8948,
+      54.367
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | 3 ballistic missile launches are reported from Yazd, central Iran.🔻@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483117858,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Jeddah, Yemen: Dammam Jeddah airports standby potential Yemeni",
+    "location": "Jeddah, Yemen",
+    "coordinates": [
+      21.5433,
+      39.1728
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦/ 🇾🇪 | Dammam and Jeddah airports are put on standby due to potential Yemeni attacks.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483121834,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz, Persian Gulf: Public Relations Islamic Revolutionary Guard Corps",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Public Relations of the Islamic Revolutionary Guard Corps Navy:This morning, the third offending supertanker was hit in the Strait of Hormuz and caught fire.This tanker, by turning off its navigation system and ignoring the warnings of the IRGC Navy, intended, like the previous offenders, to exit the Strait of Hormuz and disrupt its order and security. As a result, it was hit.The IRGC Navy announces that any cooperation between commercial ships and tankers and the terrorist and smuggling ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bbae4946b9.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l4hhZ1oL3pOg-t3a8irMEQiiPM3vEN2iUTjfFxKS6vdDMWYEYUmQQFF_0nUwe0SCHCQJXTo8jYwArsE8gOG4qkgC8PjDC14-Fn14-iGP2MeP9sc2vPzeQ_I1YmIzFcJFeNNYwMbW0FwgP3dO6P_1n3BJEoUZqceBQyD1C-Oz5-KMpT8HRM99gekYJ0caGiai_SROo-74J95imx7dnD943myxcgtQko8uH-yiFN33zbUlgtGJYvb69B6wY7_Cm0VWFwwV-0QsYY_sKNVHQy7qn3565N55c_d9iaehmp5BOxfEGhYdCyEKIFw11w7SC6uWdeVRhhJB2iqAr6lh9JSqgg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63275",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/l4hhZ1oL3pOg-t3a8irMEQiiPM3vEN2iUTjfFxKS6vdDMWYEYUmQQFF_0nUwe0SCHCQJXTo8jYwArsE8gOG4qkgC8PjDC14-Fn14-iGP2MeP9sc2vPzeQ_I1YmIzFcJFeNNYwMbW0FwgP3dO6P_1n3BJEoUZqceBQyD1C-Oz5-KMpT8HRM99gekYJ0caGiai_SROo-74J95imx7dnD943myxcgtQko8uH-yiFN33zbUlgtGJYvb69B6wY7_Cm0VWFwwV-0QsYY_sKNVHQy7qn3565N55c_d9iaehmp5BOxfEGhYdCyEKIFw11w7SC6uWdeVRhhJB2iqAr6lh9JSqgg"
+      }
+    ]
+  },
+  {
+    "id": 483125811,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Tehran, Riyadh, Yemen: Regional developments October 2026 Yemen After",
+    "location": "Tehran, Riyadh, Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Regional developments | October 12, 2026 (+)🇾🇪 Yemen— After gaining control of Najd Al-Qasim, Yemeni forces seized Al-Kulaybah. They then joined forces with troops coming from Al-Bayrin and launched an attack on Al-Masrakh from multiple directions. AnsarAllah captured Najd Al-Qasim southwest of Taiz city, Al-Kulaybah, Al-Hanjar checkpoint at the western entrance of Taiz city and the Central Prison in Taiz.— Yemeni armed forces had succeeded in pushing Saudi-backed forces out of Al-Masrakh d",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483209559,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Lebanon: Enemy_MediaHebrew Maariv newspaper soldier from 188th",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Maariv newspaper: A soldier from the 188th Brigade was injured in an ammunition explosion inside a tank (operational incident) during an operation in the “Beaufort” sector in southern Lebanon.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483213558,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaHebrew Channel incident Ramim Ridge area",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 14: The incident in the Ramim Ridge area: According to initial assessments, the object that exploded appears to have been a cluster bomb launched toward the “Israeli territories” during the war.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fKxihJ0KhctiVROo3h0AEvTzlS-DA8y9krGFLFNOO_E5wxVVIlOHyTQAT_TO-mramgiLUXs6rWFkF1VB3nlLQyUdxhR4zbqUzEH13iZbqCxC5atlgk6l4FEhzpRF6aXImYMCXC4Z_8kaTJY5LPR7nk3V3MJGQN99Yah8hJXLBYJAqWTJXbL5cZ0jAwLPTLe5kBdisg7pP2n_ZzbiLm4YODlhWpVVOyTKYFnIlLs7A2fnpuBzbqpl0DmvlNZS69eeHmgbiB9Q9fbP-TWYOUoHqZITGU2ORRQGsymsPNFRshXxkKl5w18kYXCXFhXT8kc1Ub9Mg_6ZHvSIhfUlPYPrqg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483006936,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: largescale Yemeni attack targets Saudi heartland",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴A large-scale Yemeni attack targets the Saudi heartland.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/nCH5276v-YJpKrqSCBr5diu7a4GADjnxTGm81aiNc0g-y812G6wmOmC8n74P4XOhxNzN6ZDJVmq5a3lLIHnW-cncq8UysFy344Yo3U8P7GTLScOk1x2WGfNhbVPwHSDd2SaH_iYF8lTJMHl5bJvMLkwkCMJR89MScYWgPUsZ5xM3ODO81Akjs15c82eiQGWo247feDI_5aAfIpZbTnQfOprnsj8lc0Xjv56tuUPKJU3_wRqGSjf-OFRyYdnarEuYB74R2rfPj6ZO7Tq20QqGSJ4xAhU7nwiyMaadgB9d6L988-n8sKsU75nTXAantCLjwFvgmN3dXsvxpSXxmfG-iw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483010884,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Saudi Arabia Drone Strike — Riyadh, Saudi Arabia: Breaking Multiple defence activities have been",
+    "location": "Riyadh, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/ 🇸🇦 | Breaking — Multiple air defence activities have been reported across Khobar, Dhahran, Dammam, and Abha. Air defence activity is ongoing over Dhahran in Saudi Arabia’s Eastern Province. More munitions are being launched shortly after the previous wave, while a swarm of drones is reportedly heading towards Riyadh.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483014833,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Saudi Arabia Missile Strike — Sanaa: Sanaa bombs Saudi facilities with cluster",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/ 🇸🇦 | Sanaa bombs Saudi oil facilities with cluster missiles.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483018783,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Riyadh, Yemen, Saudi Arabia: Breaking this very moment explosions reportedly",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/ 🇸🇦 | Breaking — At this very moment, explosions are reportedly continuing across Saudi Arabia, with blasts heard around oil facilities in the Eastern Region, including reported targeting of Aramco sites. Riyadh Airport was also reportedly rocked by explosions moments ago, while further explosions were reported in Al-Khobar and northern Riyadh simultaneously. Meanwhile, intense clashes are ongoing along the Taiz frontlines in Yemen. The Saudi-led coalition says it intercepted two Ansar Al",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483022734,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Riyadh: Ongoing explosions being reported Riyadh northern",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/ 🇸🇦 | Ongoing explosions are being reported in Riyadh and its northern areas..🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HRkuLqUzKWDjfkINx9LKTG5OIu1ct-JZ485uG_di7AHy12u7o4BuKj_gPvIHY7cyC-RkUwl_jN8OcZl8oPuLWkJVn7lxA_8uIxQwTh2Tmwa-bo7WluqWPGgfy7LpN5m6YPMOIH6LtreXClgGR_p77ELR0GS6-dVelsuHCAann4i5n5k9ok1Hciccvsf3k8Neb4_pg4Hl6f6g4V3OpCHWnHfi8ii7vaA4yDP7Zh9g9faTcqLrj68xO6VUTojmbjaywoq3MNd-0a1vBM-pJyFp6UOLcSxmHMft83BtMXK0LOtj6xRYdLCPP4bu-2G6ao_AFJBxkkn6l3Yms9SB0as2jg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483026686,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, Gaza Strip: Hourly Updates October 2026 Palestine Intensive",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates | October 13, 2026 (-ve) 🇵🇸 Palestine — Intensive gunfire was reported from israeli occupation military vehicles south of Khan Younis in the southern Gaza Strip. — The israeli army spokesperson said occupation forces arrested four Palestinians…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483030639,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Hezbollah Missile Strike — Isfahan, Tabriz, Kerman: Hourly Updates October 2026 Iran Despite",
+    "location": "Isfahan, Tabriz, Kerman, Kermanshah, Hormozgan, Beirut, Lebanon, Yemen, Oman, Israel, Egypt",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates | October 13, 2026 (+ve)🇮🇷 Iran— Despite the unjust war and tightening economic restrictions, the Director General of Ports and Maritime Affairs in Hormozgan said 5,140,000 tons of petroleum products were exported from Shahid Rajaee Port during the first six months of the current year.— Iran conducted four separate ballistic missile exercises in Isfahan, central Iran, and later continued the exercises for a fifth time that day, according to Iranian reports.— The General Direc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483034593,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Yemen: Breaking Saudi aggression targets company AlSubah",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📮 🇸🇦/ 🇾🇪 | Breaking — Saudi aggression targets an oil company in Al-Subah, west of Sanaa. Several airstrikes targeting the AlSabah central oil station in Yemen's Sana'a. Company's station in Al-Sabaha is empty of petroleum derivatives, and there is no military value in targeting it.▪️@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/DbHSpQ4K9gTKHJ5HqdhWtmcKDi5U1-maAuc38XJihyyCBdJEnADLP6YS8aTTe03EbNwYKE86vx-wSi1-VmwggxZuSae6MywCwbi_UBCbCevBfHYPdSqrmBYvy9psL9kNpAR55gl0OecZdxAMiawUsJxQ_ZmVf8ivNtgFepFwBtPNTAellUolV37hGYxPYlQx0bkosnMLdQyRifnzmOAvrOFFH0wixHhhjsvptlEm4vczgIH0uP5hbKrnY5PZTA-_jAPJy8eWF1E2WKTqri27qBr3lllL3mxNF7sZtZkb0DKF5cguRFzIqnhgqh8jt-zqn-4wjrakYEdi0GWxC-Ib7Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483038548,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Strait of Hormuz: Iranian Army Navy said that vessel",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The Iranian Army Navy said that an oil vessel involved in violations caught fire in the eastern part of the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/caj5v370_jCvB1j3S7eMEYmmFEoxIekQUisnHvvJCh-6zkYq-BUmw9MW802NtBEl3aTYphtganVL6RodJpQsFp840L9Ev6uBo759F6Oz_YIylza0wApj4M67ecCvPpMhG26EqYVRbKJ4scQOw76cYWoSG8k28EreqmMIVledK8I9SvK1skVwFbWbEYcMlG-2Lc9dNux-YKPG3M522B6FpO0ntTWkKU4kGEyc_cWvEDTQTgoITGXJ6_kbn31fpcct2ckDvRm0kVjGoFfuBA5fkhVF3qTkeXq_0rPUu6h-8ObPbEOPcxXiB66kAONPS5vaBmf-fqHgjlhHekK_tNnNew.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483042504,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Yemen: Yemeni Armed ForcesDuring past hours Saudi",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:During the past 24 hours, Saudi warplanes and missiles launched 104 airstrikes and missiles, targeting civilian objects in the capital, Sana'a, and the provinces of Dhamar, Taiz, Amran, Lahj, Al-Jawf, Marib, Sa'ada, and Al-Hodeidah using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif bases, along with missile aggression from Najran, leaving martyrs and wounded among civilians.This brings the total number of raids by the Saudi aggression since ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/hyLjybOz-3T828lwzS5RXFSxv_1HtshpwuwoesRF07Zd5FfJiVohGxTEFGatz6bf132O0TXbe-OjvtGWnapHBWF3mXeTyPC-39yllaPIU9O18FfQV2e3evdrWZX3txvjXNVSpsQrV49cHeKe-gNyV9-1k-qSkZ-0svwVNf6n2uazR3-Xad1P5C-6KbzqUog4fmkO_pgs0oOwD9MrjNeNHQ9L3ovMR1USkXzvbRmhcldyo1Hk0VCvAEs6oLMKLPJv4oMuDgIbvW5C44UaY5kOat4gqjiItVBOQr_295d4m-742ySMHu2WVofMzIzJMwgn_jW3b6plNaMr3D0Jz46OFg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483046461,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Isfahan, Yazd, Erbil: Latest Hourly Updates October 2026 Yemen",
+    "location": "Isfahan, Yazd, Erbil, Abu Dhabi, Sanaa, Riyadh, Jeddah, Yemen, Qatar, Saudi Arabia, Iraq",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Latest Hourly Updates | October 13, 2026 (➕)🇾🇪 Yemen— AnsarAllah continued its advance on the Taiz front, pushing into the Jabal Saber heights south of Taiz city, capturing Al-Sarari village and approaching the summit of Jabal Al-Arous, according to the latest battlefield map. However, PLC forces reportedly launched a limited but successful counteroffensive in western Taiz, expelling AnsarAllah from Al-Hanjar checkpoint and the nearby Hamraa heights. Clashes were subsequently reported aroun",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483050419,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Sanaa, Gaza City, Lebanon: Latest Hourly Updates October 2026 Palestine",
+    "location": "Sanaa, Gaza City, Lebanon, Syria, Yemen, Kuwait, Saudi Arabia, Israel, Gaza Strip",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Latest Hourly Updates | October 13, 2026 (😎)🇵🇸 Palestine— israeli occupation artillery targeted the vicinity of Al-Durrah Hospital in the Al-Tuffah neighbourhood, east of Gaza City, according to reports. The attack added to continuing military operations in the Gaza Strip.🇱🇧 Lebanon— israeli forces continued attacks on southern Lebanon. On October 12, hostile airstrikes reportedly targeted Kfar Tebnit and Wadi Al-Hujeir. Artillery shelling was reported in Wadi Zibqin, Wadi Al-Saluqi, Al-",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483054378,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Aden, Red Sea, Bab al-Mandab: Saudi Arabia loses Battle alMandab Ansar",
+    "location": "Aden, Red Sea, Bab al-Mandab, Yemen, Saudi Arabia, Turkey",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Saudi Arabia loses the Battle of Bab al-Mandab as Ansar Allah establishes its first positions in the Gulf of Aden:About a week after Saudi Arabia launched a new escalation targeting the key shipping routes off Yemen’s western coast, the results appear to be going in the opposite direction. What are the main developments?On 5 October, Saudi Arabia launched a large-scale operation south of Yemen’s western coast. According to coalition spokesman Turki al-Maliki, the operation involved nearly",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483058338,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: suicide drone attack Yemens Ansar Allah",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪| A suicide drone attack by Yemen’s Ansar Allah forces targeted Saudi forces in Kahboub and Al-Waziyah.Forces that are not trained and prepared to deal with emerging threats can be caught by surprise in this way.On the other hand, consider the various training exercises conducted by the Chinese army for deploying and countering suicide drones.The mass production and distribution of multirotor drones, such as Russia’s Yolka, by small workshops is one of Russia’s successful methods. These type",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/79328a3af7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/EhThRotBeF4ojyhhU5MZFv1mEljymf7AGbs7B-yjH1wWE9SQHVxdO_a0K4nTd0W8loAusjaloYJCoS958RxbfPxIL0E6t-qtw4NkhEKRD2rISz8QnOpb5SeOq5fQRfdd9rcpokcakuFhVye__23w1Y2j8nxtEIxoUjlEw_X7xEU7F3PaRaKBp3xoT8tTkhoy-MW6xxfZnfpJ_DOltFdqM93NMP_3Hk3bS4IY0MR_62VzhLETvIehcIrZhU7LR0Lwm3n5rrju2ACslVVPWBpmRYEIBoBfnm_bukDTqjuLGotLU74-eVOTGU78rss3MsYw9hx12UJ4XmEDH75x9Tg7Kg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63308",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/EhThRotBeF4ojyhhU5MZFv1mEljymf7AGbs7B-yjH1wWE9SQHVxdO_a0K4nTd0W8loAusjaloYJCoS958RxbfPxIL0E6t-qtw4NkhEKRD2rISz8QnOpb5SeOq5fQRfdd9rcpokcakuFhVye__23w1Y2j8nxtEIxoUjlEw_X7xEU7F3PaRaKBp3xoT8tTkhoy-MW6xxfZnfpJ_DOltFdqM93NMP_3Hk3bS4IY0MR_62VzhLETvIehcIrZhU7LR0Lwm3n5rrju2ACslVVPWBpmRYEIBoBfnm_bukDTqjuLGotLU74-eVOTGU78rss3MsYw9hx12UJ4XmEDH75x9Tg7Kg"
+      }
+    ]
+  },
+  {
+    "id": 483062299,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Sanaa, Riyadh, Gaza City: Hourly Updates October 2026 Palestine Intensive",
+    "location": "Sanaa, Riyadh, Gaza City, Strait of Hormuz, Lebanon, Yemen, Qatar, Oman, Saudi Arabia, Israel, West Bank, Gaza Strip, Port Said",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates | October 13, 2026 (-ve)🇵🇸 Palestine— Intensive gunfire was reported from israeli occupation military vehicles south of Khan Younis in the southern Gaza Strip.— The israeli army spokesperson said occupation forces arrested four Palestinians in Qabatiya and Arraba, claiming they were planning a bombing operation in the northern West Bank.— Occupation artillery targeted the vicinity of Al-Durrah Hospital in the Al-Tuffah neighbourhood, east of Gaza City.— Occupation artillery s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483169624,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen: YemenAnsar Allah Political Bureau confrontation this",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenAnsar Allah Political Bureau:– The confrontation in this decisive round against the Saudi enemy, under the equation of blockade for blockade and escalation for escalation, is proceeding toward achieving its objectives, foremost among them ending the aggression and lifting the blockade.– We regret the deviation of a group of mercenaries and their allegiance to the external enemy. Yemen’s history confirms that it is the graveyard of invaders, and that the dustbin of history is the deserved f",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483173613,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Saudi Arabia: Enemy_MediaYedioth Ahronoth Hebrew newspaper effects economi...",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper: The effects of the economic damage inflicted on the country are already beginning to emerge. The aviation sector has been affected by Houthi attacks that led to the closure of King Khalid International Airport, a major gateway for visitors, investors, and businesspeople. The effects of other Houthi attacks on airports and other strategic centers in Saudi Arabia are also beginning to emerge.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483177603,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Lebanon, Israel: Enemy_MediaIsraeli enemy army radio Against backdrop",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: Against the backdrop of the “unidentified flying object” incident at the Lebanese border, at least three Hezbollah drones and intelligence-gathering devices have been launched toward the security zone in southern Lebanon over the past two weeks.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483181594,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Lebanon, Israel: Enemy_MediaIsraeli enemy army radio recent weeks",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: In recent weeks, and in at least five separate incidents, the Air Force has launched interceptor missiles at “suspicious targets” detected in southern Lebanon. As reported by our outlets this morning, three of these cases turned out to involve aerial objects launched by Hezbollah, one involved an object belonging to the “Israeli” army that was mistakenly identified as suspicious, and in one case it was impossible to determine the object’s identity with cer",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483185586,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaIsraeli enemy army radio three intelligencegather...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: Of the three intelligence-gathering devices launched by Hezbollah, interception attempts failed in two cases, while the Air Force successfully intercepted one. In all these incidents, the “Israeli” army announced that interceptor missiles had been launched at “suspicious targets,” as the interceptor missiles were clearly visible in the northern skies. However, in none of the cases did the “Israeli” army subsequently issue an update clarifying that the obje",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483189579,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Aden, Israel: Enemy_MediaIsraeli media From Israels perspective threat",
+    "location": "Aden, Israel",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media: From “Israel’s” perspective, the threat is not measured solely by the number of missiles Hezbollah has remaining in its arsenal. Advanced explosive-laden drones, small units operating in the field, and decentralized combat formations may pose serious challenges to the “Israeli” army, even after strikes have been carried out against the organization’s command centers and critical infrastructure.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483193573,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemen With help Allah Armed Forces",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen With the help of Allah, our Armed Forces successfully shot down a Saudi enemy Wing Loong II armed reconnaissance drone while it was carrying out hostile missions in the airspace over Saada Governorate. It was targeted with an appropriate weapon.http://t.me/army21ye",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483197568,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Lebanon: LebanonHead Hezbollahs Executive Council Sheikh Daamoush",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHead of Hezbollah’s Executive Council, Sheikh Ali Daamoush:– Those who bet on the blockade and promoted it believed that sanctions would prevent us from making efforts. They did not stop there; some institutions also worked to tighten the blockade to prevent aid from reaching those affected.– All these attempts collapsed before the will of our people, and it became clear that none of them could prevent us from fulfilling our responsibility to alleviate our people’s suffering.– Once again",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483201564,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon: LebanonHead Hezbollahs Executive Council Sheikh Daamoush",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHead of Hezbollah’s Executive Council, Sheikh Ali Daamoush:– The government has not yet presented a program to directly assist those affected. Its efforts to remove rubble and implement some projects fall within the framework of rehabilitating infrastructure and do not directly reach those affected.– The factor that makes a difference in addressing displacement is popular solidarity and mutual support, many examples of which we witnessed in the previous phase. We must see this in the cur",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483205561,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-13",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Bab al-Mandab, Yemen: renew call regimes entities that endorse",
+    "location": "Bab al-Mandab, Yemen",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "– We renew our call to regimes and entities that endorse the Saudi regime’s fabrications to reconsider their positions and verify the facts. We affirm that our people retain their legal and moral right to respond.– Salute to the heroes of the Armed Forces and Security for their achievements in expelling Saudi enemy forces gathered in the field, and thanks to the free people of Taiz for their cooperation in protecting the city from conspiracies.– We advise those who remain among the Saudi formati",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482936043,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed ForcesDuring past hours Saudi",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:During the past 24 hours, Saudi warplanes launched 42 airstrikes and missiles targeting civilian objects in the capital Sana'a and the provinces of Taiz, Lahj, Marib, Amran, and Mayyun Island, using \"F-15\" and \"Typhoon\" aircraft that took off from the Khamis Mushait and Taif bases, alongside missile aggression from Najran.This brings the total number of raids by the Saudi aggression since the start of the escalation against our country to 2,323 airstrikes and missiles.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Lo-pR8upj2TG3Dr1tAIIY-OCRPWFynkb_MsizjT2yTHOYQWEXu7dJ6NM7c_JuUHbSA4JnByA_dAOqB4qBO87QkJR2fGhFxFoaKlW4aymPQfzsKw2aueVshOLQLKe9Dun5HCVcPfB6S29_XNygqBDNVakr22McL2-mvREmT48rkHgnKNHWCponvf31-fJqJru1XJjObzmPeNH_yt5LRlmsfMImCWe9UbPm-ECIci1ZV9mGepARN9XNIldACUWI7uP6q2YGs0OgejTFNjX1s35TTyTkFsrLs4djljPSBCEObA1aEsV3c1i9_FlQYzRTf7h62ewFmpgB0GI6WCLLiKhyA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482939973,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Aden, Riyadh, Damascus: Hourly Updates October 2026 Yemen expanded",
+    "location": "Aden, Riyadh, Damascus, Bab al-Mandab, Syria, Yemen, Saudi Arabia, Israel, Gaza Strip",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates: October 14, 2026🇾🇪 Yemen— An expanded tribal gathering was held in Hajjah Governorate, bringing together tribes from the Tihama districts of Abs, Aslam, Khairan Al-Muharraq, Hayran, Midi, Haradh and Ku’aydinah to announce general mobilisation and readiness to confront Saudi aggression.— Reports claimed that 20 districts in Taiz were under the control of the Yemeni Armed Forces, with mediation reportedly underway to secure the city’s surrender without fighting.— Yemeni forces",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482947836,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Yemen: Yemeni Armed Forces1 Yemeni Armed Forces",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:1) The Yemeni Armed Forces stated that, with Allah’s help, they had targeted King Khalid International Airport in Riyadh, the Saudi capital, with a ballistic missile, claiming the strike hit its target accurately and directly.2) In a separate operation, the Armed Forces said they targeted Saudi enemy troop concentrations in the Ras al-Ara and Al-Mudharaba areas with three ballistic missiles. According to the statement, the missiles struck their targets accurately, resu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/jyf9YVBoUdZeuHMtLVLe3Dm55UmoxgF4psos7KvOT7fQEHKB14mlE3t5QeXi_Z8y3pnhv-HSvcDlweDDC41b9h-JNIUtiJMux9ize4LAXBEvG6u5wR8ot8p5RCvNWOJKxPjeaNbgl3iOkDxaIKskmupbcn33QAOPKQ55-yUTEoyptp8Ln2suBViFQ7eVE-eNNCrAJMRZD9RJ3Vh4hORH3NYhQRhOatkLJ7FaI4iICiITYokfZ13UHV5h8_VZmzriVrodogAhGUPp7LFErVjH06heOL39JVi-iLpHI_pFwnr0O0hDtADvJG9h6nYbpnC-PX7FKOWghv29QOalWBJ7MQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482951769,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Aden, Riyadh, Red Sea: Entering Sanaa versus blockade blockade Since",
+    "location": "Aden, Riyadh, Red Sea, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Entering Sana’a versus blockade for blockade: Since the bombing of Sana’a Airport on July 13, the confrontation in Yemen has evolved between two competing projects: a Saudi project adopted by the Aden government, centred on entering Sana’a, and a project pursued by the Sana’a government, centred on the principle of blockade for blockade. To assess the outcome of this confrontation, gains and losses must be measured by how close each side has come to achieving its objectives. Sana’a has not mad",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482955703,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bahrain: prisoners launch hunger strike Bahrains Central",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇧🇭 | 57 prisoners launch hunger strike at Bahrain’s Jau Central Prison:57 prisoners in Wing No. 2 of Bahrain’s Jau Central Prison have been on hunger strike since October 4, protesting harsh detention conditions and demanding their basic rights.Bahraini human rights activist Ibtisam al-Sayegh announced the strike and expressed concern over the deteriorating physical condition of some of the participants.According to al-Sayegh, the hunger strike initially began with 47 prisoners from Wings 4, 5",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/byLPsRTEVTjozDz-GD5syy8ht43I0b4S7AOLJiFRfxb8NniGkxySekf0CRtxexFEDfhJrNvScP6aAojpcP-8QAsXRXrF3SXx5Q-KyOSK2edn_PbbBJ4eZ1v6Su9wXhwT2B318mWwuhXeph7_lrpzXRfQcCV7TYTolBBwzPV-v22uJ1npR6fqIsxV6uJutVEWWmCACSzQUZPdeKPDpGNwG25uFfdU4YwJrOGkFHQomAhS8pVvDWySB9GN_oet_tiLqtJ7qQCaGOqqC67FGf4e0T_ZlbpsBx_qWXMe0UmbTW_E3cP6MjJbH1Es9JClvV_jPECO3prp3KzVeeXhe6yyYA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482959638,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Hodeidah, Riyadh, Yemen: Saudi Arabia acknowledges fierce overnight clashes",
+    "location": "Hodeidah, Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | Saudi Arabia acknowledges fierce overnight clashes in Riyadh and reveals destruction of a residential neighbourhood:Saudi Arabia on Wednesday acknowledged fierce confrontations in the capital, Riyadh, over the previous 24 hours as Yemen carried out its largest operations deep inside Saudi territory.The Saudi Civil Defense reported the destruction of an entire residential neighbourhood in Riyadh containing around 15 homes, attributing the damage to what it described as shrapnel from interc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482963574,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen, UAE, Iraq: IraqiResistance Security Official Mujahid AlAssafIn name",
+    "location": "Yemen, UAE, Iraq",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Security Official Abu Mujahid Al-Assaf:In the name of Allah, the Most Gracious, the Most Merciful Out of our keenness on the stability and security of the country, it is necessary to clarify the official stance regarding fateful issues that touch upon Iraq's sovereignty and foreign policies. Hence, we point out the following:First: The Iraqi people are looking for answers to a number of questions that the designated Prime Minister should answer, which are:• 1. What is y",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482967511,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC published container ship suspected carrying",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC published: A container ship, suspected of carrying contraband and attempting to pass through an unauthorized and dangerous route in the Strait of Hormuz, exploded and caught fire after striking a naval mine.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e134a20b75.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Z_-I9T9EQIh3-_x8e3KgtoHqL92_vpLU3KcOKbwl8KnHCd9LX2Qp9YYPPkV6SPa9Umu4HovRAf_5khmEfEpl9B01h-W-f7kEIVAe5qKnmoXyv_LLkmzZ3XyNXZaoH9WPnPhUBQ0n0fEnDjZrPKO0xRg4t46gKEtZSCSg9SQqlWoauq1YeVqWVZ56GX3mFHuC0OJZsQvjFoRZ9RcaJipGCEf0lCa42Hjix3hmqqpH3VZ1SthG7-S-5Jd3_GTrs-VVbf9GS-oX4kkBDbNQhcMYzCEuuLZd9C3reaTNRv3X_4Od8H_DJ6mxfNiYKGObJb3L6jN4cyHTVwYhCz-TjWAfLA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63385",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Z_-I9T9EQIh3-_x8e3KgtoHqL92_vpLU3KcOKbwl8KnHCd9LX2Qp9YYPPkV6SPa9Umu4HovRAf_5khmEfEpl9B01h-W-f7kEIVAe5qKnmoXyv_LLkmzZ3XyNXZaoH9WPnPhUBQ0n0fEnDjZrPKO0xRg4t46gKEtZSCSg9SQqlWoauq1YeVqWVZ56GX3mFHuC0OJZsQvjFoRZ9RcaJipGCEf0lCa42Hjix3hmqqpH3VZ1SthG7-S-5Jd3_GTrs-VVbf9GS-oX4kkBDbNQhcMYzCEuuLZd9C3reaTNRv3X_4Od8H_DJ6mxfNiYKGObJb3L6jN4cyHTVwYhCz-TjWAfLA"
+      }
+    ]
+  },
+  {
+    "id": 482971449,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: Latest images show heavy damage Saudi",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇸🇦 | Latest images show heavy damage to Saudi Arabia’s King Fahd International Airport:Published satellite images reportedly show that an attack by the Yemeni Armed Forces on King Fahd International Airport in Dammam, Saudi Arabia’s third-busiest airport, caused extensive damage to the roof and various sections of its main terminal.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f4815dba61.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WQzatcsn1xpqXbhyK1jtpKCx83HqgGp5qszaIaUcxQoqLdWIfpqE70N2FOPF0GaecsZwyqqFYDzINsMKl8pd1PaiW4MhLMuqqBDo4uM4Op75Efikjpb4iE5tLmwsOqCFQEoJXeT7Y7GyG8u6yWHAyu409Rnva-6ZxA4OO7bQ1qznnAXjMFbv2wyLkvteM3IzfGnYkyv82KG0C540qnPFjU1Cu0r3_Finx3cEDLBGpNyyLURaxlQy_RMVigTAfZNkN_cjlUKy0avEyrkMQ-q2Tz6vxCJKdl7TceLcpn0UkcsTX6PeS6fT4xbDmsiHJA9Abgf4ZkaEf7FsdQMSPJ9KTA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63387",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WQzatcsn1xpqXbhyK1jtpKCx83HqgGp5qszaIaUcxQoqLdWIfpqE70N2FOPF0GaecsZwyqqFYDzINsMKl8pd1PaiW4MhLMuqqBDo4uM4Op75Efikjpb4iE5tLmwsOqCFQEoJXeT7Y7GyG8u6yWHAyu409Rnva-6ZxA4OO7bQ1qznnAXjMFbv2wyLkvteM3IzfGnYkyv82KG0C540qnPFjU1Cu0r3_Finx3cEDLBGpNyyLURaxlQy_RMVigTAfZNkN_cjlUKy0avEyrkMQ-q2Tz6vxCJKdl7TceLcpn0UkcsTX6PeS6fT4xbDmsiHJA9Abgf4ZkaEf7FsdQMSPJ9KTA"
+      }
+    ]
+  },
+  {
+    "id": 482975388,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Strait of Hormuz: ships Strait Hormuz were reportedly struck",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Two ships in the Strait of Hormuz were reportedly struck by IRGC missiles moments ago.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482979328,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Explosions heard from Strait Hormuz with",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Explosions heard from the Strait of Hormuz with a tanker reported on fire.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Jg4Mw4mmaJQTpy39VOIDJiLpKKkYjbmaq1rcuwdE6ePuLOwyF71VsDu1LY5hC4K1qEJkk8VPrr0asvDdap4DFoStiZHrxtVwXssHrcg6vAdfniskpidxn9iSPHWOAC6UwfNJb9M-Gp9H_6ypzs73FtCDiXSwhAEyFZO-dAmCPEsQgWpAGv5g7Fm38EAOYEi9xrNqdeRa71M-B4CqRBNIP0zw4oYJAiDEKBdd79E1OwqH3hDrPnGAMls6ks6Tio3sRVSTSIi5FzheuW2xinQaQfQ-AgqaabTkH79re40Iguvns2JJLI2R9g8DQRDmG452boTaiXfQ64uPq6PbEQlk0w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tSoeKfhf2M9aewca_9chX9Q0i2paseR2DnkLT-SUXRjbUyHlkPcqbfSHQD3UmpPLEffkfAauWvUSlrAO-k5poPtJ1ZuZU4xLD-nf3QpKspIsJ5B_JniV0ZpCLxHBBoZiP_SzJ6MQ1uGuFOfgKvaE3fMF1MTuGndE-LDknksPj1P0u-JYycJpsGmO0iBirVLo2I_JT71Z_YVoXMRdW0rtBn9-91dfXR0q8nlUAiHyxxgxVTIz-oFyOTS6n2nOjqZKlsrNKD6lroTTmneXfLYdt1G-sSYe9fHNV69HScUsFMYgrxpSE4X5hf6lrRMZYONtSUlqxrlDdRtTmOIek2YiXg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482983269,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm Island, Qeshm, Strait of Hormuz: Powerful Explosions heard Qeshm Island coming",
+    "location": "Qeshm Island, Qeshm, Strait of Hormuz",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | 2 Powerful Explosions heard on Qeshm Island, coming from the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482987211,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Tehran, Sanaa, Aden: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Tehran, Sanaa, Aden, Yemen, Oman, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve) | October 14, 2026🇾🇪 Yemen— Yemeni forces reportedly liberated the Al-Hanjar checkpoint at the western entrance to Taiz and tore down posters of Abu Sala’ah Al-Alimi. Reports said the Wadi Al-Dhabab front was completely cleared, with the forces reaching the Al-Hanjar checkpoint and the central prison.— Yemeni forces reportedly arrived at Jabalayn Cemetery in Taiz and were preparing to storm Mount Han west of Taiz from three directions.— AnsarAllah forces, advancing alon",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482991154,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Sanaa, Strait of Hormuz, Lebanon: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Sanaa, Strait of Hormuz, Lebanon, Syria, Jordan, Yemen, Saudi Arabia, Iraq, Israel, Port Said",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (-ve) | October 14, 2026🇾🇪 Yemen— Saudi airstrikes reportedly targeted the Malbiyah and Shatin areas in Al-Mudarbah District in an attempt to halt the advance of Yemeni forces from Lower Mudarbah toward Shatin.— Saudi warplanes reportedly targeted areas of the Shada border district in Saada with artillery fire.— Saudi warplanes reportedly carried out an airstrike targeting the Yemeni Oil Company in the Sabaha area of Bani Matar District, west of Sanaa.— Yemeni media reported ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482995098,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Yemen, Saudi Arabia: Breaking Currently ongoing Yemeni retaliatory attacks",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 / 🇸🇦 Breaking — Currently, ongoing Yemeni retaliatory attacks are being reported against Saudi Arabia. Three Saudi helicopters departed Riyadh Airport moments ago, reportedly heading toward a helipad near Al-Kharj. A Yemeni attack is reportedly targeting Riyadh, while another attack by the Yemeni Armed Forces is targeting Al-Kharj Governorate. Two loud explosions were also heard between Riyadh and Al-Kharj, Saudi Arabia. Minutes ago, Aramco facilities in Saudi Arabia’s Eastern Province we",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oTzymDHuHSfxMVSYdjyX7V63FFPRyr63llwM9xE50_-q6Kt9vE0jnumQcTEyxd8_kJWcRouM9R98-ArP-JwKCG4I-kH8cR1Tw5697953qg_4jjscisXt1aCLunxpOfX-o7xLtPGR5MvePXrYGv1m1UIUFfu3cC1FS786Y4qJPwFoaiBAh8bSEYawo2BlMA9uwPNlUGeB-QUcReo-vrvQ-yBixICAUXtPdA32gp5AFT88D9DNSC5sMo0bOGmUwx2b9bMQGLgz5NVoAXCrfSub1-d_TcQOUW8eMBsxIC4_vvGW45er9XmyNnaHxmMLPTKp2roet2sG-L8j2eZ1kvkPuQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482999043,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Kerman, Yazd, Sirik: Latest Developments October 2026 Yemen source",
+    "location": "Kerman, Yazd, Sirik, Hormozgan, Tel Aviv, Sanaa, Riyadh, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Latest Developments | October 14, 2026🇾🇪 Yemen— A source in AnsarAllah said the decision to resume flights at Riyadh Airport is in Sanaa’s hands, not the Saudi regime’s, indicating that the movement intends to keep one of Saudi Arabia’s main airports closed as pressure on the kingdom to lift the blockade on Yemeni airports and ports and fulfil its commitments under the UN roadmap.— According to Al-Akhbar, AnsarAllah forces continued advancing at the western entrance to Taiz and reportedly t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483002989,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: Statement issued Yemeni Armed ForcesIn name",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Statement issued by the Yemeni Armed Forces:In the name of Allah, the Most Gracious, the Most Merciful.Allah Almighty says: “So whoever transgresses against you, then transgress against him in the same manner that he transgressed against you.” Allah Almighty has spoken the truth.In response to the brutal Saudi aggression against the capital, Sana’a, and the free provinces, and as part of deterrence operations against the Saudi aggressor, who targeted our country and our people during the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483153678,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Golestan, Persian Gulf, Israel: enemy mischief will with crushing response",
+    "location": "Golestan, Persian Gulf, Israel",
+    "coordinates": [
+      36.8,
+      54.4
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Any enemy mischief will be met with crushing response: IRGC commander📌 Gorgan, IRNA – Brigadier General Yadollah Javani, deputy for political affairs of the Islamic Revolution Guards Corps (IRGC), underscoring the full combat readiness of the Iranian Armed Forces to counter potential threats, says any miscalculation by the enemy will prompt a crushing response.Speaking at the Administrative Council of the northern province of Golestan on Wednesday, General Javani addressed the regional and g",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483157663,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran, Tabriz, Taba: Iran says negotiations require approval SNSC",
+    "location": "Tehran, Tabriz, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran says any negotiations require approval of SNSC and Leader📌 Tehran, IRNA – Mohammad Jafar Ghaempanah, vice president for executive affairs, says no negotiations would take place without approval from the Supreme National Security Council and final authorization from the Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei.Speaking at a meeting with intellectuals and political, social and cultural activists in Tabriz, during his visit to East Azerbaijan Province on ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483161649,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran: Ghalibaf mocks Treasury chief over failed",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Ghalibaf mocks US Treasury chief over failed economic predictions📌 Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has mocked US Treasury Secretary Scott Bessent over his repeated deadlines for Iran’s economic collapse, saying the missed predictions could earn him a Nobel Prize in Physics for proving that time could be irrelevant.In a post on X on Wednesday night, Ghalibaf pointed to several predictions that had failed to materialize, including claims that Iran would have “nothing",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483165636,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Airstrike — Tehran: Iranian Army spokesperson facing strategic isolation",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iranian Army spokesperson: US facing strategic isolation📌 Tehran, IRNA – Iran’s Army spokesperson Brigadier General Mohammad Akrami-Nia says the United States launched an illegal war against Iran with the aim of destroying Iranian-Islamic civilization, but has now found itself strategically isolated for the first time since World War II, with even its closest allies refusing to come to its aid.Speaking on the anniversary of the founding of the Army’s Political-Ideological Organization on Oct",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Hwv9IYigy0QuHB5a_I0uEYpGG4sGdHhwW2cFWQtQeWRKVuIOfzwoZBr2P5KAzlmZLUjPPYT90FhSl4hN_A7pZT4nMpRit9-X9lzquPotdMVUr6FIUrxz9iMoS0oUgfyHWltcs98mTahhOICnz2-CSFNFTgvFUVBZLhaDuZBo_aB7VqZRb24HLzfzIwe_8irJe6I5_sOAJRIFO-Zxzd_QuEunjqx3tmQ3f5Lx85Sr_h2Ebe83BhFsZBdljU2XwszcnfWYoEpTcnCseOfsZztZRnHItZvJeRUzE0YBn6Z0OkqbgyxmLJLJvrrQFlO1S_jvoZD2mWlwdaLzF_vTgWCjVA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482853744,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Hodeidah, Yemen: Yemeni Armed ForcesSaudi warplanes launched airstrikes",
+    "location": "Sanaa, Hodeidah, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:Saudi warplanes launched 65 airstrikes and missiles during the past 24 hours, targeting civilian objects in the capital Sanaa and the governorates of Lahj, Hodeidah, Taiz, Amran, Saada, and Marib, using F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif bases, and missile aggression from Najran.This brings the total number of Saudi aggression raids since the beginning of the escalation against our country to 2388 airstrikes and missiles.🇾🇪@enemywatc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/a3qpliiowRFIeKK0jm4W1-clXYsKJfIZmL7DgEQFB7s9NhNr4qq-tknuss0zX-4SHlt3QbxJyFdYKffa5_1uhGg_VaMoqP5wS8urRTqUl7idLjcoCrvieu65biFNxkEeVPPl_NElnYxGvm6zafAKC10G3kOIqppJcsAq1e0OZQuOQ_vabLEC5RNMByVk11itqldIfznKsOspX144gC3YpYz_FUSTkJCjexU9Fnx_dQ1nQLGxXlIDr_Ri98In4A30qAPK_7SLH1NA_8BIKpz5hfVQfI5eBhmATraLnDtRIHPjNbXFFbXxpww9R6WDT2_-vs0jgyB-tXmGP2VWiuC3jw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482865474,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gilan, Damascus, Beirut: Islamic Resistance Front SyriaAt critically dangerous",
+    "location": "Gilan, Damascus, Beirut, Lebanon, Syria",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇾 | Islamic Resistance Front in Syria:At a critically dangerous security juncture, Turkish intelligence agencies today carried out a coordinated security operation resulting in the arrest, kidnapping, and disappearance of Professor Ali Kayali (Meraj Ural), exploiting a compromised security environment and local proxies that carried out this despicable targeting on the Lebanese arena. This field crime was accompanied by the launch of a systematic media disinformation campaign aimed at tarnishi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482869386,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Head Tehran Emergency Services Mohammad Esmail",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇮🇷| The Head of Tehran Emergency Services, Mohammad Esmail Tavakoli, says the martyrdom of Imam Khamenei was confirmed around 8:00 PM: In an interview with Javad Mogouei, Mohammad Esmail Tavakoli, Head of Tehran Emergency Services, recalled the events of the 9th of Esfand, the first day of the war, and described what happened following the initial explosions near the leadership compound.Interviewer: On the 9th of Esfand, around 9:30 in the morning, where were you on the first day of the w",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482881128,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Aden, Yemen, Saudi Arabia: Ongoing events Yemen Aden Missile Strike",
+    "location": "Aden, Yemen, Saudi Arabia, Taba",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Ongoing events in Yemen:— Aden: Missile Strike on Al-Ma’ashiq Presidential PalaceReports indicate that Al-Ma’ashiq Presidential Palace in Aden, the provisional capital of the internationally recognized Presidential Leadership Council (PLC), was struck by AnsarAllah's ballistic missiles during a meeting involving Prime Minister Sha’i Al-Zindani, several cabinet members, and Saudi officials. Video footage reportedly shows smoke rising from the palace following what local sources desc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482885044,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Strait of Hormuz, Yemen, Saudi Arabia: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Strait of Hormuz, Yemen, Saudi Arabia",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve) : October 15, 2026🇾🇪 Yemen— Yemeni attacks reportedly targeted Najran and Jizan in Saudi Arabia.— Reuters reported that the Yemeni attack on the ARAMCO headquarters in Najran caused extensive damage to the building.🇮🇷 Iran— Hossein Taeb, head of the Popular Mobilization Organization, said that the accuracy of monitoring, intelligence gathering and targeting within Iran’s defence sector had increased.— Initial reports indicated that missiles targeted vessels described ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482888961,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Riyadh, Damascus, Gaza City: Hourly Updates October 2026 Saudi Arabia",
+    "location": "Riyadh, Damascus, Gaza City, Lebanon, Syria, Jordan, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (-ve): October 15, 2026🇸🇦 Saudi Arabia— Najran and Jazan airports reportedly remained closed for more than 212 hours, while Riyadh Airport had been closed for approximately 115 hours. Yanbu Airport had reportedly been shut for more than 85 hours, Arar Airport for nearly 19 hours, and Tabuk Airport for around five hours.🇱🇧 Lebanon— israeli forces reportedly carried out artillery shelling between Hadatha and Haris, in Wadi al-Hujair, Kfar Tibnit, near al-Dabsha, around the ou",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482892879,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria: fire broke Jabsa export pipeline Occupied",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇾| A fire broke out on the Jabsa gas export pipeline in Occupied Syria after it was targeted.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9eb7713ff7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y-OpuccmTKAnZCpv1SGN9IAewA8NmClloBSv7CZ_uXtTzAEOQv5MU83jsQNYXQ3qAMKGrvZ1bQ_AL6weXU-CP15zXNUOvjtS7thED6gwZR6qvywRoqZ2JDyX3Xg93fk1a_ESNyTeyM3f8uFafUTHdLV7X0UmbDOuu-kwalLZc1c5Q-pEbVAQ4bftMUiVPDaPI86mfdtMdG3QqZaWiUw03W3nMU4o7yTIafG1L9T3ywLAaHybHwIFdDXq0YhGvyk6giCrnV3s5FhVcrDV-HU_GsHBpy0k01SmGyBeelp4yf4fo9bVWQdwuBZqXcK0MPXWl40HDaqmx0uJCcZjXoeC8A"
+      },
+      {
+        "url": "https://t.me/enemywatch/63456",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Y-OpuccmTKAnZCpv1SGN9IAewA8NmClloBSv7CZ_uXtTzAEOQv5MU83jsQNYXQ3qAMKGrvZ1bQ_AL6weXU-CP15zXNUOvjtS7thED6gwZR6qvywRoqZ2JDyX3Xg93fk1a_ESNyTeyM3f8uFafUTHdLV7X0UmbDOuu-kwalLZc1c5Q-pEbVAQ4bftMUiVPDaPI86mfdtMdG3QqZaWiUw03W3nMU4o7yTIafG1L9T3ywLAaHybHwIFdDXq0YhGvyk6giCrnV3s5FhVcrDV-HU_GsHBpy0k01SmGyBeelp4yf4fo9bVWQdwuBZqXcK0MPXWl40HDaqmx0uJCcZjXoeC8A"
+      }
+    ]
+  },
+  {
+    "id": 482896798,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Yemen, Saudi Arabia: Taizz tribes mobilize expel Saudibacked mercenariesThousands",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Ta’izz tribes mobilize to expel Saudi-backed mercenaries:Thousands of people from the tribes of the Mawiyah and Sabr al-Mawadim districts gathered and emphasized that they would work alongside the Yemeni army to expel Saudi-backed forces from the country.The participants, emphasizing their readiness to respond to any escalation by Saudi Arabia and to defend Yemen and its sovereignty, said that this tribal mobilization is aimed at supporting the oppressed Yemeni people and represents firm ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/aV5e-ggZYek-6MWz7rfEmF7rrUHr6TGzdEvgPJVC6blMBFdyiMFN-tpcLatHVn4crz4kUYsMIeMCwimNwpeI40bCs6o75OuTK-Ov7btTOxBrsc2m0JIPGt56IeijxdtcPFcucM_GwHbNFqm02PCFgYFDH435iLdGahc06rlStjnRntNLy_4KbmOB5RHE3sdK8CqRVrdubDv8GXc00d42Sqz45IZGHuDupM7wNFF0Qqmkhh-3IlHywgXOSWxnL6hAOZIsRoAeqyOKr1IpQAYOhDd7wp-AWBj8PNzeQWG6ZXvN0DYd2LBQZxy86FhqJwTp1B9zUcKPs_5mqf-RQAOM2Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/iHMx9CfiQYUSsT7hj0PA4fxZyCH7SgJ5TDazCwXYKsCfvBwUzPEG0ewAv-B9UnCNJR7kopHZhIGEOjhsDdCZnIQoKTCQVTIidOrhOIsQPrVHcM8190TkhjCJ1NfDnmbpuHc9M2XSzfahtw1psdFQsW6k9vaJYnURkdEjM7Vy7mDOLNq3S0n8uQDUTI87UQEKneWIjNAEc0E3LWKqAK54Eqy3DBjRO32VB1zMll2gOuo48ONXxCOUDKZrW4dE0uk_5dSf6K6R8nuf9UbdkbsxhMeVnoiJLHNdW345xt595OpmDQ7qcUQIjN4EhguTx_EhzY6RS4hKLrlC-pu_ISMBDg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/rq7aIhzoEwL6XtHX_xQoDktzOCZusGl6sGqAL5jFm1mGsIOrSJgg0ZqFwKEg6MeMDFeCQF-8IpOUJhbccCW0qO6WVZJbwatjH8kW1za3GDMzvbXMvEbuU5Eub-JvA7vRklB5CkTTm-rgktZuEqwhqFzI2cLa5yNzlIYSnIy-rReo-90yU1v8QFr6ZEmGgQ9S9JlRkiN-tM5gOC10jWKNjpxIrZB8P7tfkVO-yU_sHNMRrsXd4rhCX03T7YowRT30OgumSodppBKSR3f5kpQw0x3FARruI_mk814kVBdYfP0wmvdr5gDAoX35AhZ66Iv8bN1wQjhRSxmCgcPcxN7Y-g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/M1ljBll4dsrx39I-0cZ7tg7dStOcNZjqNhzaMn0I33D8VCsATfJykyRqLEqZlpeQ-z1rvNnAG_1MCPbHBUgPIecHBt31bwxmwjU1lQj7vdDTUx3a7g0OSR7JkQjk9fdKm2ojtsOteZjpwThfwZ5TMljhBKkOTl1Z_ctHQjfTVqnkXjO8vrCR1Upri4MS-_pQpSwd7XV-mjmnfAVhDsI2wwYCzzHyGoU7TUonON4HQ8J1Gf90tDo1gazxOxhRAiaZKJWnPUL9LBlCqsIY0B9zxYJqBSqvLNVEoGTzmD4Y_8M3soDnArs8YdBndRnL9p6mKamvRrtnFdHF44JxrRbh0w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/SeQMVvDofrAMujpd30y55Kh0B2Xu4ws1yquBHl9XjqaMa7cG2fTv8pMt0liQQlQgjY7smYHf1FVapJS5vUmzoM_dFj40V-4K8dLkvw3WsFBWwaco4nZLqQmP8Jj_ywBI5qynJTSHcP4jdNpYQxgaFr0vVGi_mFOicJMos2_FyjOraNYUzgAwcF1EdyTha0ypf3yo2oCYPh8vnTsGVIE2baT9JHE5fUynwXN2tPuUY0vtzkyoIynjY5GR_iSX6mw-E3mS-vZYJknjsOiNM0c5FXXyYwp36Yc40hxcfxejowcBlLSHAb2BCT33nASTZDbcZF4oweB47Gaa7Jzy4Har0w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482900718,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Jeddah, Saudi Arabia: AnsarAllah strictly prohibited military attacks airspace",
+    "location": "Riyadh, Jeddah, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | AnsarAllah has strictly prohibited any military attacks in the airspace over Makkah and Medina. Medina Airport has been excluded from all military retaliatory actions. Any claims that AnsarAllah has attacked Medina are fabricated and false, and are instead false-flag operations launched from Saudi positions themselves. Those who wish to leave Saudi Arabia can use the safe passage through Medina to leave the country instead of remaining stranded in Riyadh, Jeddah, or Dammam.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482904639,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz, Oman: Explosions have been reported Strait Hormuz",
+    "location": "Strait of Hormuz, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Explosions have been reported in the Strait of Hormuz. A container ship flying the Indian flag was involved in an incident near Omani ports in the Strait of Hormuz and was subsequently towed to India’s Kandla Port for repairs.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482908561,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — UAE, Israel: Iranian social media replete with jokes",
+    "location": "UAE, Israel",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 Iranian social media is replete with jokes and satire about the \"Reformist\" former president Syed Mohammad Khatami's antics while attending a public ceremony.Called the \"Leader of the Sedition\" in the revolutionary circles, his PR team insisted that he had a broken leg and bored the nation to tears about his dedication to the public for having attended.But as can be verified from his last five steps, he didn't require the crutches at all.Khatami is backed by the power hungry and dollar-lovi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/17957c28bc.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cbulP1udAdJwmHP1hClaJP_uObgpEFWNlxjPYsHfLg0FZ8hzKgWD6DKIWAWRiTSGbsuYMY7KB4omxwIHMk9y0kBrlr8LQ2EtI4R7gZI9TmviHDAkxKUyjHVV9waR3J14eXbY7eNiQgk4T1i1aSbrIcZteJMJ5fa6oa42twMyymrz-Sg5Mzo5oxPFQdlOD2r64fpoyOZiMSRiWD2XAJJkMrgyVkPq_rgDcZLUrcaMhynCFDe1_h1hENN6-sKk0Ns8Wl_34S4rM-IpuiWAwnGQtZizUETi2hwc40bFuMZ9oxVHHsYz9Q-ER5LjsZ3HlLW0_4QWI_6y9byIZ-JmZLMMBw"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/e7277ed873.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cbulP1udAdJwmHP1hClaJP_uObgpEFWNlxjPYsHfLg0FZ8hzKgWD6DKIWAWRiTSGbsuYMY7KB4omxwIHMk9y0kBrlr8LQ2EtI4R7gZI9TmviHDAkxKUyjHVV9waR3J14eXbY7eNiQgk4T1i1aSbrIcZteJMJ5fa6oa42twMyymrz-Sg5Mzo5oxPFQdlOD2r64fpoyOZiMSRiWD2XAJJkMrgyVkPq_rgDcZLUrcaMhynCFDe1_h1hENN6-sKk0Ns8Wl_34S4rM-IpuiWAwnGQtZizUETi2hwc40bFuMZ9oxVHHsYz9Q-ER5LjsZ3HlLW0_4QWI_6y9byIZ-JmZLMMBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63425?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cbulP1udAdJwmHP1hClaJP_uObgpEFWNlxjPYsHfLg0FZ8hzKgWD6DKIWAWRiTSGbsuYMY7KB4omxwIHMk9y0kBrlr8LQ2EtI4R7gZI9TmviHDAkxKUyjHVV9waR3J14eXbY7eNiQgk4T1i1aSbrIcZteJMJ5fa6oa42twMyymrz-Sg5Mzo5oxPFQdlOD2r64fpoyOZiMSRiWD2XAJJkMrgyVkPq_rgDcZLUrcaMhynCFDe1_h1hENN6-sKk0Ns8Wl_34S4rM-IpuiWAwnGQtZizUETi2hwc40bFuMZ9oxVHHsYz9Q-ER5LjsZ3HlLW0_4QWI_6y9byIZ-JmZLMMBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63426?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TqDmc8i7g9pJamBwLbqTcoWOTbjvsajXqee_btiZ3GrTtxy0kHirGhJ6fhOVFil6KslBdaHGDCbVQU1wdUAYl_eZRCz8ntaFTbf_-gEv4L9FwX3gpN3beS15QP_Zh-XUsbRFiP5nkdioknNoPHaOT8W13spr3ynoCXTrWUhcInTj_zGFPmlOSE13W3XpN9svWFkGdUEmHamEUYuvaZ3rHAR7L1I1PiF1FMf6Oxrx_JnOK_zxg_vcw_Afz0TmqbGBSf7esMP3O58_hxnnanfoC6vokQ31ArlVvjGPPg87ItFZqnB4_bsDK3I4PNBXY1TgJnQvg7t0cf1aqsV37axEdg"
+      }
+    ]
+  },
+  {
+    "id": 482912484,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz, Oman: Fire reported aboard another tanker east",
+    "location": "Strait of Hormuz, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Fire reported aboard another oil tanker east of the Strait of Hormuz:Iranian Army Navy Public Relations:Hours ago, Iranian Army Navy monitoring teams identified an oil tanker on fire in a prohibited zone east of the Strait of Hormuz during patrol and surveillance operations.The tanker had reportedly switched off its tracking systems and was attempting to pass through the prohibited zone in the Sea of Oman.The Iranian Army Navy stated that the Strait of Hormuz remains under the full contro",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ebaffed498.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GSNxT3VBuSFxZsZDBwr2-mjKsiOsBaTzrZbrlFH0kFBsex-D5i4oKkZAkzit2lcTCIcqTrkr1MVGbbaQxE0yi__PWNCVnpJH-jxX0h6gWrkDPHXrDQPlz402YZKVhZGHT1osV7k6gFpUiOCMQt13qEEktKOxrsTILCYsZgj088MqVVHNnKT2RmSUhYFj4e4cZhAlatmN6g3K__4oIXLZZND7PL_tIxnqQeqBhuOcy-HcfL_YBRqkvwGIilbgfsvy_IzGjaowUpNaWFoLAJmOCoKtoeFyJvV8zxX0uheLXx_w1WZ7ShtCz2bsz22hKW7gnNAgajpynk-Qw4dKEKh14Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/63429",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GSNxT3VBuSFxZsZDBwr2-mjKsiOsBaTzrZbrlFH0kFBsex-D5i4oKkZAkzit2lcTCIcqTrkr1MVGbbaQxE0yi__PWNCVnpJH-jxX0h6gWrkDPHXrDQPlz402YZKVhZGHT1osV7k6gFpUiOCMQt13qEEktKOxrsTILCYsZgj088MqVVHNnKT2RmSUhYFj4e4cZhAlatmN6g3K__4oIXLZZND7PL_tIxnqQeqBhuOcy-HcfL_YBRqkvwGIilbgfsvy_IzGjaowUpNaWFoLAJmOCoKtoeFyJvV8zxX0uheLXx_w1WZ7ShtCz2bsz22hKW7gnNAgajpynk-Qw4dKEKh14Q"
+      }
+    ]
+  },
+  {
+    "id": 482916408,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Baghdad, Damascus, Strait of Hormuz: Julani Erdogan Asim Munir they think",
+    "location": "Baghdad, Damascus, Strait of Hormuz, Lebanon, Syria, Yemen, Kuwait, Saudi Arabia, Iraq, Israel, Turkey",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— ❓ | Julani, Erdogan and Asim Munir: Do they think their regimes will remain safe at home while fighting for Zionist interests across the region?In short, it remains unclear whether Julani can convince the current army commanders and Syrian Hay’at Tahrir al-Sham leaders that this war is justified and winnable, and persuade them to leave the country and head into a battle 2,500 kilometres from Damascus for meagre sums of money. This comes at a time when Israel is advancing in southern Syria, ISI",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482920333,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Iraq: Iran tests various ballistic missiles during",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran tests various ballistic missiles during latest military drills:Iran tested various ballistic missiles today during a new round of regular military exercises. Exclusive footage shows missiles launched by Iran’s Islamic Revolutionary Guard Corps (IRGC) being seen from Basra Governorate on the Iraqi side.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/aa8017036f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/R3iKR-Xkk_YdnuB97PumSrMaqrrHKMzOUcTruDtnhUL8ILeVd4P9UgwlglQdNMCwcmP3Cq0tDnhViFmBQQsXhPTrdp7_sPdZtKDLeC6elJZocOEEz3DVSH5eOv_uRlICSP17qq_TDXT2mUVoNAL7KSHnJ3rOTy_aZHtm0EA3rZ1qIas_HaVzcip8v_aVXOfDJYaWaRbMjI00WJT9hTiFZDKg_QgbKkuKcUEjK0EhGhCc5urLe9OLK7yUm65Af-AENF5s0lrEVdDTKQWWrvOpcm11gMZbPe1j1B2_8NPxO9GOZEdEmyyIkWm9HgfUjbCPGXW6M2_XzhtKfz99Npoe6Q"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/74e2f7dfd3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/R3iKR-Xkk_YdnuB97PumSrMaqrrHKMzOUcTruDtnhUL8ILeVd4P9UgwlglQdNMCwcmP3Cq0tDnhViFmBQQsXhPTrdp7_sPdZtKDLeC6elJZocOEEz3DVSH5eOv_uRlICSP17qq_TDXT2mUVoNAL7KSHnJ3rOTy_aZHtm0EA3rZ1qIas_HaVzcip8v_aVXOfDJYaWaRbMjI00WJT9hTiFZDKg_QgbKkuKcUEjK0EhGhCc5urLe9OLK7yUm65Af-AENF5s0lrEVdDTKQWWrvOpcm11gMZbPe1j1B2_8NPxO9GOZEdEmyyIkWm9HgfUjbCPGXW6M2_XzhtKfz99Npoe6Q"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/3638e3f7db.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/R3iKR-Xkk_YdnuB97PumSrMaqrrHKMzOUcTruDtnhUL8ILeVd4P9UgwlglQdNMCwcmP3Cq0tDnhViFmBQQsXhPTrdp7_sPdZtKDLeC6elJZocOEEz3DVSH5eOv_uRlICSP17qq_TDXT2mUVoNAL7KSHnJ3rOTy_aZHtm0EA3rZ1qIas_HaVzcip8v_aVXOfDJYaWaRbMjI00WJT9hTiFZDKg_QgbKkuKcUEjK0EhGhCc5urLe9OLK7yUm65Af-AENF5s0lrEVdDTKQWWrvOpcm11gMZbPe1j1B2_8NPxO9GOZEdEmyyIkWm9HgfUjbCPGXW6M2_XzhtKfz99Npoe6Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/63434?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/R3iKR-Xkk_YdnuB97PumSrMaqrrHKMzOUcTruDtnhUL8ILeVd4P9UgwlglQdNMCwcmP3Cq0tDnhViFmBQQsXhPTrdp7_sPdZtKDLeC6elJZocOEEz3DVSH5eOv_uRlICSP17qq_TDXT2mUVoNAL7KSHnJ3rOTy_aZHtm0EA3rZ1qIas_HaVzcip8v_aVXOfDJYaWaRbMjI00WJT9hTiFZDKg_QgbKkuKcUEjK0EhGhCc5urLe9OLK7yUm65Af-AENF5s0lrEVdDTKQWWrvOpcm11gMZbPe1j1B2_8NPxO9GOZEdEmyyIkWm9HgfUjbCPGXW6M2_XzhtKfz99Npoe6Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/63435?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cZWDjIHQurbiRjsKdsJwnZidlMYrnwk3vPkYzppduxFk3tZoYNZ-A9OWrefzUxWZhtOrT9g8Dx4SVEQe1HyzulaN-KLQutWYQW3epgMl7txxAiAltefbXqNi2B1DBCqimBAlH2XSXXGdSt-Ukmf-GJZnYmaq20WV6HJufOnbuLSja2ZdjhafXaOyD2wnqVwQThhmIqSpPkf2mBc6DXukw0r2LiakOJfegVacNW7WXxHjXtQFRw7pJLlQfNYMk7dskiJX8Ekx2ShJ6UYOSWa-xw9WivcO9p5KeJTc4kBOHQ2UV40NRnWVGbz_KLyyN8rWkp0DniZCuL18s0P0DdPAWg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63436?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/muZPF2fvEkZ5j8jxS0NcQxTQDOGLnnaZ2imB0WUMiTe5WNBItpEVFOlRZfINF2Zv4gJIeaxkZr3OVYq-08aUhyXbltNj6GH49F1SAFZl-xtGzGEKWw_RB-Lvd8WJmbMahDg1anfqByH61ualWRfqoUupWfRj_rro8fP1I_amLg7RT9wNf1yBDtfP9bWPtEQb4x38rvt9pDHS_AkngxaPV7NQJ3n9_zuf3kTaFVAztidfjR9HDGT7VEJYLn5c0TyYQpeswy_KTseZT1GaJjSvTX4vfnOEPaRX4a7oGWnXkmP-qLRpQ3tLPKO5hdZAy1Bo0aiNPyu2g8XeGCvDsoS24w"
+      }
+    ]
+  },
+  {
+    "id": 482924259,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: images show severe damage Dammam Airport",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 🇸🇦 | New images show severe damage to Dammam Airport in eastern Saudi Arabia. Satellite images reportedly show that an attack by the Yemeni Armed Forces on Dammam International Airport, Saudi Arabia’s third-busiest airport, caused extensive damage to the roof of the main passenger terminal.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/75b74e4b15.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/s4iu2kf7RNPxGRaXaK9RnPg65sAr3_IZfLI8zj9zy3jRMrHIKBqqUef31eteXtGcjmkAw29a6uVdW2oA51zIqTgzQFKEgmSikKhMeDKmJHMiqBuKYILkUQzckrWK2fcz2W6mgssW7nA5aao6G2gxjHIsOG8etItOUTp-UXlRM9wt7c-PwEi0qWx57amhKmGwOTbsQiYzTrfiDglxrYdrhhETbZqXAzLbLot0jR34NpK2eco1zHE72QZnfkBgAWPQvGPjtg_5Q1qHUfIaNzJo-uuCwttDS2cI5sfkEpmjJzQ9gcUBJ1wl6-obj3v18xRIW1sYG1nhmKxpyGjze9OGUA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63437",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/s4iu2kf7RNPxGRaXaK9RnPg65sAr3_IZfLI8zj9zy3jRMrHIKBqqUef31eteXtGcjmkAw29a6uVdW2oA51zIqTgzQFKEgmSikKhMeDKmJHMiqBuKYILkUQzckrWK2fcz2W6mgssW7nA5aao6G2gxjHIsOG8etItOUTp-UXlRM9wt7c-PwEi0qWx57amhKmGwOTbsQiYzTrfiDglxrYdrhhETbZqXAzLbLot0jR34NpK2eco1zHE72QZnfkBgAWPQvGPjtg_5Q1qHUfIaNzJo-uuCwttDS2cI5sfkEpmjJzQ9gcUBJ1wl6-obj3v18xRIW1sYG1nhmKxpyGjze9OGUA"
+      }
+    ]
+  },
+  {
+    "id": 482928186,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen, Saudi Arabia: Yemeni Armed ForcesWhat Saudi aggressors spokesman",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:What the Saudi aggressor’s spokesman recounted earlier is something the criminal Saudi enemy has inflicted on our country many times over for the past 12 years, totaling more than 274,302 airstrikes, through which it has committed all types of crimes and massacres.Since the beginning of the resumption of aggressive operations and the escalation initiated by the Saudi enemy against our country, the Saudi enemy has carried out more than 2,350 airstrikes and missile attac",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/nWRS7U0r6yvlGgxRvoLU_xj2RGHY-H7rML33RmHgpIIVX4lhbierz6GiiGb4d0S9MezBphsFFFeIO1Aun6fMGV6-sAAqipD_0bLzLlT9Ka17gcqAVMTV-cCyJ82om05an8ycsqIe2R-iTQbw6s_cgoC_Hy12VNBbyWhdjCdS-8J5QfF88xp99Nmm9fc0ZTiTgphWEVx8qP8tP79OAiiTLWoVziiespk12_3b-NzkM11sWgR5R7UOAZiTubuWDoHpoZBra_sXVpcZ3euPjuQBPNIpU2KS5mZsy-IbwPxUlBVkz98h3ymvYF0pC3OCVTay3SIXGDR6zUgB-JVQizSqIg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482932114,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Yemen: AnsarAllah ballistic missiles struck alMaashiq Presidential",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | AnsarAllah ballistic missiles struck the al-Maashiq Presidential Palace in Aden, southern Yemen.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YRB15QDw8M0ytTTt8KN1N5viMiRIIzqJb5D4mz0qqIvnyl-Gl9BPoQpCxOC-0BJNOxwV6NW14XwYbqB49JmSV8LSde4fcWmQx4r_pGXHzcBzNQ8bFRQ4ESiScn-2bK051dv2PRzzbsKggigg8VrjlhYOzMBcviAbYHL2xe8Z1zm4_zKQiY5ZSlitOuMNdjV7F1mHacHs8ISCVe8o6HVCiV0iHtwHHTkVvKD7TI1nbNGug2RwvoteLP-sZwupnz2QTwuSOpgqiABtHNEXxNU4UGlvpWpk_43BBdbE37BYvpsohyS6hlFtznGknVjXstYnYKCkoa4Kj6gRHe7IvSEe0w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482943904,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Sanaa, Damascus, Lebanon: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Sanaa, Damascus, Lebanon, Syria, Jordan, Yemen, Saudi Arabia, Iraq, Israel, Turkey",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates: October 15, 2026 (-ve)🇾🇪 Yemen— The Saudi military reportedly shelled residential villages in the Shada and Qataber border districts of Saada Governorate with artillery.— Saudi-backed forces and Yemeni forces continued to clash across the northern and western outskirts of Taiz, amid reports of a major AnsarAllah offensive.— Saudi/PLC airstrikes were reportedly carried out against areas in the rear of Yemeni forces as fighting intensified around Taiz.— Reports said Saudi aggr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483137748,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Tehran, Lebanon, Yemen: Yemen says downed Saudi Typhoon fighter",
+    "location": "Tehran, Lebanon, Yemen, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Yemen says it downed Saudi Typhoon fighter📌 Tehran, IRNA – Yemen’s armed forces have downed a Saudi Typhoon fighter jet over the northern province of Sa’ada, military spokesperson Yahya Saree has said, as Sana’a reported a sharp escalation in Saudi-led coalition attacks.According to Lebanon’s Al Mayadeen TV channel, the spokesperson said late on Wednesday that the aircraft had taken off from Taif Air Base and was struck directly by a surface-to-air missile while flying over Sa’ada. He said t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483141729,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz, Oman: Iran Strait Hormuz remains closed requires",
+    "location": "Tehran, Strait of Hormuz, Oman, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran: Strait of Hormuz remains closed, requires coordination for passage📌 Tehran, IRNA – Deputy chief of the Iranian Army for coordination Rear Admiral Habibollah Sayyari says the Strait of Hormuz remains closed and that any passage through the strategic waterway must be coordinated with Iranian forces who maintain full control and surveillance over the area.Speaking to reporters on Thursday on the sidelines of a ceremony honoring army nurses, Sayyari said the situation was evident from oil ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483145711,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Shiraz, Fars, Israel: IRNA chief calls documenting evidence USIsraeli",
+    "location": "Shiraz, Fars, Israel",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 IRNA chief calls for documenting evidence of US-Israeli attacks📌 Shiraz, IRNA – IRNA CEO Hossein Jaberi Ansari has called for comprehensive documentation and preservation of evidence from US and Israeli attacks on Iranian cities.Speaking during a Thursday meeting with Ebrahim Azizi, chairman of Parliament’s National Security and Foreign Policy Commission, Jaberi Ansari stressed the need to record damage to affected areas before reconstruction removes physical evidence.​He said documentation ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483149694,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Minab, Lebanon: Iran calls Israeli regimes expulsion from",
+    "location": "Tehran, Minab, Lebanon, Syria, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran calls for Israeli regime’s expulsion from CICA📌 Tehran, IRNA — Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, has described the Israeli regime as the main source of insecurity and instability in Asia, particularly West Asia, calling for its crimes to be condemned and for it to be expelled from the CICA mechanism.Speaking at the 7th Summit of the Conference on Interaction and Confidence Building Measures in Asia (CICA) held in Baku, Azerbaijan, on Thursda",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482826409,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Strait of Hormuz, Oman: Identification Burning Rogue Tanker OmanArmy Navy",
+    "location": "Strait of Hormuz, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇴🇲 | Identification of a Burning Rogue Oil Tanker in the Sea of Oman:Army Navy Public Relations: Hours ago, the Army’s Navy observation teams, while maintaining continuous surveillance east of the Strait of Hormuz, discovered and identified a rogue oil tanker that had caught fire in the prohibited area.The oil tanker had also switched off its tracking systems and was attempting to pass through the prohibited area in the Sea of Oman.The Navy of the Islamic Republic of Iran Army emphasized that ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dd519f9412.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GjOUmC8yYM5bJivvkGPESFjlV8NtvUz8VL_NoFalkZyVT0wv3peXUZ0RmuGwSTwXLB4Fd0NPLFLUxk4MnKUcQng5kEkfz_bu12HIDFp5vyQfsp_me3-RKD5tYQPJAq1jUXRsK243alpRCuSOT8S9DNs37sVlIcPfBPlczgaAh0ZgwfbvXUQaQw2oLdT_-4NF8Mbxkcqpi7dSqKCh_IDolNjjJKtmuW1R7JAJfFSd0nyescH2Yfj76lPMkojYhb3kmOZlSChvM7MlJ1jdXOw6TbRM3dQpTvRGUNLBa0ibCdol54FtXU2PeNBy6XkJHFYwjdJ2awpZBL5d8BiVFmNfBA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63494",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/GjOUmC8yYM5bJivvkGPESFjlV8NtvUz8VL_NoFalkZyVT0wv3peXUZ0RmuGwSTwXLB4Fd0NPLFLUxk4MnKUcQng5kEkfz_bu12HIDFp5vyQfsp_me3-RKD5tYQPJAq1jUXRsK243alpRCuSOT8S9DNs37sVlIcPfBPlczgaAh0ZgwfbvXUQaQw2oLdT_-4NF8Mbxkcqpi7dSqKCh_IDolNjjJKtmuW1R7JAJfFSd0nyescH2Yfj76lPMkojYhb3kmOZlSChvM7MlJ1jdXOw6TbRM3dQpTvRGUNLBa0ibCdol54FtXU2PeNBy6XkJHFYwjdJ2awpZBL5d8BiVFmNfBA"
+      }
+    ]
+  },
+  {
+    "id": 482830311,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen, Saudi Arabia: Breaking past minutes explosions have been",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — In the past few minutes, explosions have been reported in Yanbu, Riyadh, and southern Saudi Arabia amid reports of Yemeni missile and drone attacks. Saudi Arabia has announced that its capital, Riyadh, came under drone attacks, while air navigation at Abha Airport has reportedly been suspended. Meanwhile, reports suggest that Saudi Arabia has bombed the positions of its mercenaries in Taiz, possibly as they were surrendering to the Yemeni armed forces or following a sign",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482834214,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Yemen: Yemeni Armed ForcesDuring past hours Saudi",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:During the past 24 hours, Saudi warplanes and missile attacks launched 101 airstrikes and missiles targeting civilian objects in the capital Sana'a and the provinces of Al-Dhale'e, Taiz, Al-Hodeidah, Dhamar, Marib, Sa'ada, Al-Jawf, Amran, and Lahj, using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif bases, along with missile aggression from Najran, resulting in civilian martyrs and wounded, including women and children.This brings the total n",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rsBGuZtiNZ4KkMhsFJkygaoljntgaqnWQn84VHDWWn5kuxUGampTeu4PJ5W677jixnslyF42QD4rviOPx4uE3IJcxBbs8zHbAPAwSiWgnvIMcJ-t-6dHljP9nSWPdSQ-jhxHAcoFrIUSy-MIrtDJjV9N1ztIl4mTEpo1g_EeVEoMNJaEg9GAV_OBLBqBRkKqnsPtAAqkUrqMhFf1swGFe5Ep1amQ8G0fJk-hyHQKr1DSMJGeys8mdli0fugLJk9Ug2f4lFesudlYV-vVqldzKW0lGrNHnijcAjBhsqB4f5sHOjV7eCfPYfmsNakyV-7zf6Y3xecpNQtUEwci1X2s7w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 482845929,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Yemen, Saudi Arabia: Breaking past minutes Yemeni attacks have",
+    "location": "Aden, Yemen, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — In the past few minutes, Yemeni attacks have reportedly targeted multiple locations across Saudi Arabia.A Yemeni Armed Forces attack reportedly targeted Khamis Mushait, prompting Saudi Civil Defense to activate early warnings in Khamis Mushait and Abha. Saudi authorities later stated that the danger had passed. A separate Yemeni attack reportedly targeted Abha, where explosions were subsequently heard.Reports also indicated that a Yemeni missile strike targeted oil facil",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482849836,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Yemen: Yemens Ministry Health reportedly said number",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/🏴| Yemen’s Ministry of Health reportedly said the number of victims of Saudi aggression had reached 124, with 327 injured as a result of bombings and airstrikes on residential areas. Local sources in Saada reported Saudi missile strikes on eastern Saada city and Sahar District, while a Saudi air raid reportedly targeted Marran District in southwest Saada Governorate. Local Yemeni sources also reported six Saudi air raids on Sahar District. Saba agency in Sanaa reported three Saudi airstrik",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482857653,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Aden, Jeddah, Strait of Hormuz: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Aden, Jeddah, Strait of Hormuz, Yemen, Oman, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 16, 2026🇾🇪 Yemen— Yemeni AnsarAllah forces reportedly wrested control of the summit of Jabal Sabr from Saudi-backed Presidential Leadership Council forces. Battles for the strategically important Jabal Han in the northwest were reportedly continuing.— Yemeni drones reportedly attacked southern Saudi Arabia, with reports specifically stating that suicide drones targeted Khamis Mushait.— The Yemeni Armed Forces reportedly targeted Jizan in Saudi Arabia.— French n",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482861563,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Aden, Gaza City: Hourly Updates October 2026 Yemen Explosions",
+    "location": "Sanaa, Aden, Gaza City, Lebanon, Syria, Yemen, Kuwait, Israel, Port Said",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (-ve): October 16, 2026🇾🇪 Yemen— Explosions were reportedly heard in Sanaa.— Yemeni sources reported a Saudi missile attack targeting the Sahar and Al-Salam districts in Saada.— Explosions were reportedly heard in Aden, while the Yemeni Armed Forces reportedly carried out another drone attack targeting the city.— A Yemeni outlet reported that AnsarAllah had announced the arrest of a cell accused of carrying out four operations in different parts of Sanaa. The report said no i",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482873299,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Tehran, Baghdad, Yemen: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Tehran, Baghdad, Yemen, Oman, Saudi Arabia, Port Said",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 16, 2026🇾🇪 Yemen / Saudi Arabia— A Yemeni drone reportedly struck vital installations in Saudi Arabia’s Eastern Province. At 02:45, the Saudi coalition announced the interception of a drone launched toward the Eastern Province, while satellite imagery reportedly appeared to indicate that something reached its target.🇮🇷 Iran— Iranian Army Commander Major General Amir Hatami stated that three ships entered the Sea of Oman and came under fire from Iranian forces",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482877213,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Baghdad, Gaza City, Lebanon: Hourly Updates October 2026 Pakistan water",
+    "location": "Baghdad, Gaza City, Lebanon, Syria, Yemen, Israel, West Bank, Gaza Strip",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (-ve): October 16, 2026🇵🇰 Pakistan— The water pipeline in Dashtiari County, Balochistan, reportedly exploded after terrorist groups damaged the water infrastructure, disrupting water supplies to around 8,000 people across 24 villages. The report attributed the damage to the groups’ alleged response to the villagers’ non-cooperation.🇱🇧 Lebanon— Israeli artillery shelling was reported on the outskirts of Haris, Sarbine, Kafr Tibnit, Al-Jarmaq, Wadi al-Hujeir, Zawtar al-Sharqi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483129789,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Tehran, Strait of Hormuz: Iranian Navy spots tanker fire Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iranian Navy spots oil tanker on fire in Strait of Hormuz📌 Tehran, IRNA — Iranian Navy surveillance teams have detected and identified a non-compliant oil tanker that had caught fire in the eastern Strait of Hormuz while attempting to pass through a prohibited area.According to the Iranian Navy on Friday, the tanker had switched off its tracking systems and was attempting to pass through the prohibited area east of the Strait of Hormuz.​It further warned that uncoordinated movements in prohi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483133768,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Hamburg court antiIran allegations baseless invalid",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Hamburg court anti-Iran allegations baseless, invalid: Embassy📌 London, IRNA — Iran’s Embassy in Germany has dismissed a Hamburg court ruling based on security-related and baseless claims against Tehran as invalid, describing it as part of the West’s double standards and political posturing against Iran.A Hamburg court on October 15 sentenced two individuals based on baseless allegations that one of the defendants had links to Iran’s intelligence service and was planning actions against cert",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482838118,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Tabriz, Aden, Strait of Hormuz: Hourly Updates October 2026 Iran missile",
+    "location": "Tabriz, Aden, Strait of Hormuz, Persian Gulf, Yemen",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 17, 2026🇮🇷 Iran— Two missile launches were reportedly detected from Tabriz in northwest Iran.— The International Maritime Organization stated that more than 100 ships have been attacked in the Strait of Hormuz since the beginning of the war.— The IMO said negotiations were underway to resume maritime navigation in Hormuz, but mines had not yet been cleared and the operation would resume once the conflict ends. It also said Iran had not provided information nece",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 482842023,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Sanaa, Lebanon, Syria: Hourly Updates October 2026 Yemen AlMasirah",
+    "location": "Sanaa, Lebanon, Syria, Yemen, Oman, Saudi Arabia, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (-ve): October 17, 2026🇾🇪 Yemen— Al-Masirah correspondent in Saada reported that Saudi forces shelled populated villages in the border district of Razih with artillery.— Saudi aircraft reportedly attacked the homes of Yemeni civilians in the villages of Al-Ar and Barza in Qaa Al-Haql, Dhooran Anes District, Dhamar, using internationally prohibited cluster bombs. The reported attack killed three Yemeni children and wounded seven others, including several women.— Al-Masirah rep",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
