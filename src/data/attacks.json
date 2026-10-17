@@ -149876,6 +149876,43 @@
     "media": []
   },
   {
+    "id": 483321909,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni military forces announced Saturday night",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Yemeni military forces announced on Saturday night that they had shot down a Saudi Apache helicopter in the south of the country, near the border with Yemen.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qxCt7Xqls380IZfeI71-q3sM5cQyXdY1Lkx515x4_gvMJvbYBIIrXbjh0kbMFR-t4L4lKQTjkSlxxd__63FZm7H79dxxRezLubS_EsCvIj4SH3ekl06gMPgkEHEz3SCYe3sgJbd_-EI4noDIIEThtxIsUP7eQscnKy--wh92QltJm5LwyB5awVw5X1G5UmF2byKs0LgEghPVSB0VTd2n4aKPaKI-p7asQ_mVMd3kYHpR26UAH1VWhT4r_O7bAx5yKXPEgV71ZJO0VDsIN4cV69XBoqzuyfyM6pPmnM8dlepu7T3b_1puLphjg8oxrpwMieJurlcCc4hI7qu9gjxySg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
