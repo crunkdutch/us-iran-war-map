@@ -192698,6 +192698,36 @@
     "verified": false
   },
   {
+    "id": 1792217796728,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: “Israeli” Chief of Staff Eyal Zamir told the members of the Security and Political Cabinet: “We are going through a sensitive period, both because of the elections at the end of the month and because of the anniversary of October 7. There are many threats, and the “Isr...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217836932,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-05",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 13: Three years after the events of October 7: Hamas is preparing for renewed fighting and attempts to capture hostages.The level of alert along the Gaza Strip border and inside it is currently extremely high, and security establishment assessments indicate that Hamas is d...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791254654440,
     "type": "drone",
     "location": "Aden",
@@ -193366,6 +193396,51 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#YemenA military source to Yemeni media:An attack by Saudi enemy forces gathered in the field south of Bab Al-Mandab, advancing from Lahij, was repelled. Dozens were killed and wounded, and a number of vehicles were burned and disabled.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217848754,
+    "type": "missile",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-10-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenOur Armed Forces, by the grace of Allah, succeeded in confronting a number of attempts by Saudi enemy forces gathered in the field to advance toward Bab Al-Mandab, driving them back and forcing them to retreat, without making any progress. The gatherings of those forces were targeted with ten ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217825539,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-06",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaReporter for the “Israeli” enemy army radio:6:29, the time when everything began exactly three years ago.1,318 “Israeli” army and security forces personnel killed; 1,029 settlers killed.251 people were taken captive to the Gaza Strip – all of them have been returned, but around 40 were k...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217775922,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-06",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "It also exposed the falsehood of the international community and its institutions’ claims of defending freedom and justice, and revealed their inability to protect even the most basic human rights. It also lifted the veil from those who shirked their responsibilities and those complicit who chose si...",
     "media": [],
     "verified": false
   },
@@ -194231,6 +194306,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/Mk2tHe_rEmSgwYC5ghSkf1U9iSvtN0Wlkz9DGFRw2TJci_w5n14npNdSUxCXKrFZM75CfFNCHseBqNc6HKUj2rZvkOBNlT_Yo8cmp9rE8uX7qZkywvTNo7pGO_C8x0GPNtuVcTHFyBSqFLPYwGbVOHNbKMf0VkpKNgdccjS4_FJMCWlrtFjDidZKs699TkiAzv_6Rn0IaWPzGAd3ULY32tYoLmJYTW7F8DKJ1j4u9W1T8_GYYGGu8f0kq4KJSX8vrbfD62_mLoUwTz3UMZmu5_MkMI8QFCYTFYN4NGPJ9d1DphDiZ1tcdGXncjNtravVXZv7sndpLF5OxJMX4Pu33Q.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/psL5I3N5hQUs_bGb0rNz19U3mEj5BnU7WT8qtdG-MTedi9VKecte0Ue3wrDFYuruO3dMckRHNt040amZJ3HyzwAjgLKpVn1yKf3LRGNmL8GhoF63W8gwF77sT6PeitwoJ0V9jYlTXh8Tryl5ZfXkogSzS2tuSW1IvOwB_E_dnZu_mjmYMmDtB_OjEZrBSblCE_EPgT3MSLicieEL2NmPGUVC-P3Tig0Ui7DRtUde3_IbsfDm1BcB4rIOUscEUfkQj3Ozf4sX3fBHnWun1xnwu0hiA1JFq9GAjKzjYT_b-1UNpjM-kFDuBn4Teccx3FW5UWtBGKENsJth8NRneL_wrg.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -194458,6 +194537,66 @@
     "source": "Telegram (mmirlb)",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Enemy_MediaHebrew Channel 13 – Alon Ben David: Despite Trump’s reservations about the possibility of an imminent attack, the “Israeli” security establishment is not waiting and understands that the Americans will want to resume fighting in Iran sooner or later. Meanwhile, the “Israeli” army is prep...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217836689,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "settlers free rein to expel some Palestinians from their homes and expand their settlements in their towns. The Bloc calls on the international community, global rights organizations, human rights organizations, and Arab governments to move immediately to criminalize the aggression, take all necessa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217845391,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-08",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenOur Armed Forces targeted King Khalid Airport in Riyadh this evening with two cruise missiles, Najran Airport with a ballistic missile, and the airbase in Khamis Mushait with a ballistic missile. The strikes were accurate and direct, by the grace of Allah, and resulted in the disruption of air...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217820513,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media: The Armed Forces have completed the expulsion of Saudi enemy forces gathered in the field from all areas of Jabal Habashi District in Taiz Governorate.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217848560,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-10-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media:An attack by Saudi enemy forces gathered in the field south of Bab Al-Mandab, advancing from Lahij, was repelled. Dozens were killed and wounded, and a number of vehicles were burned and disabled.#Military_Media",
     "media": [],
     "verified": false
   },
@@ -194893,6 +195032,36 @@
         "thumbnail": "https://cdn4.telesco.pe/file/Mc3Heyk7IQKfRFr4IM21RAimhLNRGZaUXqhK1R3GMkbWwl7nVr9AU7a9Bmx6yCiwbTComEO1ImO_W-3VzkeumGU4cvN7mklIFsJCWhpkiwqYo01GaS-StVPKRtwbxBkM2Ol2BHppFSUvNzqL1bc5Pn5ah14BdSIM4TEY5KMd5e3gcXkuaq_TxlqvFqzu06aAYxiZwFjIBfpm2M-YvD9w9-k8p14etqWhAR-u9UTiyjFQBxvU4TdkHMP0gtjx4vxkg_yyPbWo0i2aUNcQ5Ei6dK_QKkQiqSKaAsP-9V9KEGii6p-Sg_rDHhpKxG10rasJ2FOsnesa0-6MV8FgGBirLg"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1792217788745,
+    "type": "cyber",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Pezeshkian meets SCO secretary-general on sidelines of CIS summit📌 Tehran, IRNA – President Masoud Pezeshkian has met with the Secretary General of the Shanghai Cooperation Organization (SCO), Nurlan Yermekbayev, in Turkmenistan.Pezeshkian held talks with Yermekbayev on the sidelines of the Comm...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217805256,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran proposes long-term action plan to address falling water level of Caspian Sea📌 Tehran, IRNA – President Masoud Pezeshkian has proposed the formulation and implementation of a long-term regional program to address the shrinking water level of the world’s largest lake.Addressing an extraordina...",
+    "media": [],
     "verified": false
   },
   {
@@ -195449,6 +195618,21 @@
     "verified": false
   },
   {
+    "id": 1792217776041,
+    "type": "missile",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-10-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Navy anti-ship cruise missile launches from Sirik, Iran.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1791724645751,
     "type": "intercept",
     "location": "Riyadh",
@@ -195855,6 +196039,21 @@
         "thumbnail": "https://cdn4.telesco.pe/file/r_eMMqqMvhSilmDacz6VNskPehikX8IFK6xebPW-ngXBJLkn-Dxe4DvnvETo5_IkqWeDquYk06sFkxQCyvt_PSutIVpMAJJYVkKfXQos0nm9VS4uZvxjGm_BuFy-J_xBIVI_b2xyCwS022Kriyn5DDxyvehqL7K1rkb62t9gC8Mq2bmVh5NLcg9Y1Dy0sQs29-yjJLd9P2fnWXgMAudSLKKAbaNjWi7rQfbgSXa3JrSoZgaMK6LcxKcETo9ICF_vOK3FTdXGE8GaBKyj82EgNTHUqu7flor38FvMEDonIPjZxhCOYzrWLzttM0I1Dbq5qafDnHYLoiL3v7CDB6ezmw"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1792217844988,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-11",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Statement issued by the Yemeni Armed Forces:In the Name of Allah, the Most Compassionate, the Most MercifulIn response to the Saudi aggression targeting our country and our people, which carried out 124 airstrikes over the past 24 hours, targeting the capital Sana’a and the governorates of Ta...",
+    "media": [],
     "verified": false
   },
   {
@@ -198381,6 +198580,90 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔻 President Pezeshkian arrives in Tehran📌 Tehran, IRNA — President Masoud Pezeshkian has arrived in Tehran after participating in the Summit of the 17th Conference of the Parties to the Convention on Biological Diversity.Pezeshkian arrived in Tehran on Friday after participating in and delivering ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217818848,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | An explosion occurred on an oil tanker in the Strait of Hormuz. 🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217809535,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-16",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | Sipchem (Saudi International Petrochemical Company), located in Jubail Industrial City in eastern Saudi Arabia, has reportedly been struck by AnsarAllah ballistic missiles.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/nE59r_LC_6h4CpYkWN1GzTPUAd4EXtfm7cvoN5SioGSP7Q3CYPnNzAsJ9iNc7dxLSrsaG5GWSpVNk0mJr7iODkiXO00RlcjKlqQ_b5EFrJQAK0o59HILmQPJvOB961kt7EOKyOlpLbD7AaAfkOe0XUuqg6DWeOJEQBTUE4KcG2h3R00_opTHjga6nSsio8VsyWTo0lw2vVQPQx---3G9J7P9W-PCqGwW1Yx9HZcxcm310_IE5lWeDs_kxkkhvg3MuqS87jxqnHyzRFKn0yFqwZZ1j4Nv6IzaG5i_0OQjOnxDX17x0rqvy3tkiYA5v952jqOqjqj4qCNL3gY4JUqiOQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/AgQRXwafz0yYZ4kcCyETmRmBMpS_q14hv8lY_5ZOLZsEPwQe4p9O4Kll0FVS-hpKI1vSKhIKPhwuyzRUt02_urnI3F4FfKB0_BYQIHbSuRZZQCOHoZRnNwowGGY9-fgemLLfA-yK5KMEvFHY4FYO42YtyJHyaPiIjt-5K-sgJCxVIAs0T8FXoqPNfkzXBJgdQRzK4Spt6vnLJC2o4Bxbgdmiw9DfpLLSLXgMV0Eqn-J-o8kfqyU0oaM7deA4e7QwOpiIE5Sr9XFiw_aaZCpUcbOFa2WFfmdImJ99SwyAHnGQaqwWjK3W5uDsqSWDDi6XpDvmWpd6z48IM9kgKrHnIg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792217791250,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-16",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— It is obviously not in Saudi Arabia’s interest to leak news that it is receiving Israeli support in its aggression against Yemen. But it is even less in the Israelis’ interest to leak the same news.What are they trying to say? That Saudi Arabia is being defeated like this despite Israel’s support?...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217861530,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran urges UNSC to ‘act decisively’ to compel Israel to fulfill its int’l obligations📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, says Israel’s continued aggression and destabilizing activities across West Asia pose a grave th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792217868281,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Araghchi arrives in Baghdad to attend 52nd OIC session📌 Tehran, IRNA — Foreign Minister Abbas Araghchi has arrived in Baghdad, the capital of Iraq, at the head of a diplomatic delegation to participate in the 52nd Session of the Council of Foreign Ministers of the Organization of Islamic Coopera...",
     "media": [],
     "verified": false
   },

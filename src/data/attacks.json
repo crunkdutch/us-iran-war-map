@@ -144469,6 +144469,80 @@
     "media": []
   },
   {
+    "id": 483217558,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Trump responds reports will attack Iran",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "☑️ | Trump responds to reports: “We will not attack Iran before the midterm elections in November.”In other words, he wants to say that he will not attack Iran directly, but Israel will do it for him, with America’s assistance and at its direction. America will avoid a direct war before the November midterm elections while continuing to support Israel’s actions against Iran.If the media reports that Netanyahu escalated the war and dragged America into a conflict, the media will fabricate a narra",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/lWJmMN0PjcqUj30YP5b79-gEYXEZ1mjjvHC6pPxsQL3v9TgA1306gTXq9qQuXfcS6e0inwcgoHk0cHcOSScdMnPCzgwi8ZHCy4SyTju71fNUoCF06kDCCcZFhPYu01ctma-6_R50pd9ICFymcf-R1W64OhfETky-tTxlXDQH288XiV0MUy-NBTwCjyL6-xn6ny9TgJyOmc2k2U9iO2Uya8EoX0dQ06_I_Cst2ie7vBufdiLgFe4O6Swz-OVD0idI5co6PMBRO3qIRI61HrdZTEzP1U1OhGD3V9dTS3TcIi1M8U4dhQq87wtnx94nd4phVpPgZR4XO2w054WwjQW42Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483221559,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-09",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni Armed Forces warn employees including",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | The Yemeni Armed Forces warn all employees, including experts, engineers, and workers in all Saudi oil facilities, against being exist in locations that represent targets for our forces, so as not to endanger their lives, whether those that have been targeted before or others. They also renews their warning to air navigation companies in the fields and airports, and to travelers and workers in them that were declared previously.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GuE_ttVDPF7rGPYAa9hgHiG1ULp4fW9ooE6Ylx9Bf_lBt-5De-5NtplLu5-AuGYJFlg3cKf6UwWuOQZc7_624QC-guhfMsEiBlkDt3ckdGpgpdhAIHltu17v1oQAESJ4tfmbNFDKvETd-TJq2ZY4vlmZdHeSOCopDvO9nIqiGbdYcCAoPogReX8KIqEBclZCZ0V7a5ucCMAgAlV5-G-ldvC6iTbRxTOfXgmDb8z4GpdczvaaTq6ZguW8Bkz-FT0rcR0C5Bo6Hv5fRJ20WH8cynbtBHjpE_4dsh6Ddlma7imIbZQV1gSJzVRa3yiJXSYcgoawoOUNr2aJe2nMjhMi-w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 482636436,
     "type": "missile",
     "status": "confirmed",
@@ -144998,6 +145072,38 @@
       "other": 0
     },
     "description": "🎯 Current Updates🇾🇪 Yemen— Breaking: A missile attack hit the Al-Kharj province in Saudi Arabia.— Yemeni forces are making progress on Mount Sabr overlooking Taiz and have taken control of vast areas of the strategic Mount Han, which serves as the western gateway to Taiz.— Yemeni forces have taken control of parts of Mount Sabr and are approaching Cairo Fortress in Taiz city.— Intense fighting was reported in the Taiz direction, with PLC forces launching localized counterattacks in several di",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483225561,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-10",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Sirik: IRGC Navy antiship cruise missile launches",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy anti-ship cruise missile launches from Sirik, Iran.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
@@ -148921,6 +149027,143 @@
       "other": 0
     },
     "description": "🔻 Hamburg court anti-Iran allegations baseless, invalid: Embassy📌 London, IRNA — Iran’s Embassy in Germany has dismissed a Hamburg court ruling based on security-related and baseless claims against Tehran as invalid, describing it as part of the West’s double standards and political posturing against Iran.A Hamburg court on October 15 sentenced two individuals based on baseless allegations that one of the defendants had links to Iran’s intelligence service and was planning actions against cert",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483229564,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: explosion occurred tanker Strait Hormuz enemywatch",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | An explosion occurred on an oil tanker in the Strait of Hormuz. 🔻@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483233568,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Saudi Arabia: Sipchem Saudi International Petrochemical Company located",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | Sipchem (Saudi International Petrochemical Company), located in Jubail Industrial City in eastern Saudi Arabia, has reportedly been struck by AnsarAllah ballistic missiles.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/nE59r_LC_6h4CpYkWN1GzTPUAd4EXtfm7cvoN5SioGSP7Q3CYPnNzAsJ9iNc7dxLSrsaG5GWSpVNk0mJr7iODkiXO00RlcjKlqQ_b5EFrJQAK0o59HILmQPJvOB961kt7EOKyOlpLbD7AaAfkOe0XUuqg6DWeOJEQBTUE4KcG2h3R00_opTHjga6nSsio8VsyWTo0lw2vVQPQx---3G9J7P9W-PCqGwW1Yx9HZcxcm310_IE5lWeDs_kxkkhvg3MuqS87jxqnHyzRFKn0yFqwZZ1j4Nv6IzaG5i_0OQjOnxDX17x0rqvy3tkiYA5v952jqOqjqj4qCNL3gY4JUqiOQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/AgQRXwafz0yYZ4kcCyETmRmBMpS_q14hv8lY_5ZOLZsEPwQe4p9O4Kll0FVS-hpKI1vSKhIKPhwuyzRUt02_urnI3F4FfKB0_BYQIHbSuRZZQCOHoZRnNwowGGY9-fgemLLfA-yK5KMEvFHY4FYO42YtyJHyaPiIjt-5K-sgJCxVIAs0T8FXoqPNfkzXBJgdQRzK4Spt6vnLJC2o4Bxbgdmiw9DfpLLSLXgMV0Eqn-J-o8kfqyU0oaM7deA4e7QwOpiIE5Sr9XFiw_aaZCpUcbOFa2WFfmdImJ99SwyAHnGQaqwWjK3W5uDsqSWDDi6XpDvmWpd6z48IM9kgKrHnIg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483237573,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Syria, Israel: Iran urges UNSC decisively compel Israel",
+    "location": "Lebanon, Syria, Israel, West Bank",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran urges UNSC to ‘act decisively’ to compel Israel to fulfill its int’l obligations📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, says Israel’s continued aggression and destabilizing activities across West Asia pose a grave threat to regional and international peace and security.The Iranian envoy made the remarks on Friday during the UN Security Council’s open debate on the situation in the Middle East. The debate began on",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483241579,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Persian Gulf, Israel, Turkey: Israeli aggression main cause energy crisis",
+    "location": "Persian Gulf, Israel, Turkey",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 US, Israeli aggression main cause of energy crisis: Iranian official📌 Moscow, IRNA – National Iranian Gas Company (NIGC) chief Saeid Tavakoli says that recent wars launched by the United States and the Israeli regime are contributing to the global energy crisis, calling for stronger regional cooperation to safeguard energy supplies.Speaking to reporters on the sidelines of the eighth Russian Energy Week International Forum in Moscow on Friday, Tavakoli said countries needed geopolitical secu",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
