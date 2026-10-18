@@ -150340,6 +150340,70 @@
     "media": []
   },
   {
+    "id": 483378378,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Mashhad, Jeddah, Yemen: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Mashhad, Jeddah, Yemen, Saudi Arabia",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Hourly Updates (+ve): October 18, 2026🇾🇪 Yemen— Yemeni Armed Forces reportedly continued advancing in Taiz amid Saudi aerial aggression targeting residential neighborhoods in the city.— AnsarAllah reportedly advanced into multiple neighborhoods in western Taiz on several fronts while clashing with the 35th Armored Brigade of the Taiz Military Axis. AnsarAllah forces were reportedly pressing along both main roads toward the Bir Basha junction, a strategic transportation hub, while consolid",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483382419,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Aden, Jeddah, Yemen: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Aden, Jeddah, Yemen, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 19,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (-ve): October 18, 2026🇾🇪 Yemen— Saudi forces reportedly carried out an airstrike against a residential house in Sahar District, Saada Governorate, in northwestern Yemen, with initial reports indicating civilian casualties.— Yemen’s Ministry of Health in Sana’a initially reported that nine people, including five children, were killed and 19 wounded in the Saudi shelling of Sahar District. Some of the wounded were reportedly in critical condition.— Rescue teams reportedly cont",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
