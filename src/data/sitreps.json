@@ -199601,6 +199601,21 @@
     "verified": false
   },
   {
+    "id": 1792301640558,
+    "type": "naval",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷| UKMTO announces a tugboat traveling southbound northeast of Khor Fakkan, UAE was struck by 2 projectiles. Tugboat is continuing its route despite damage. 1 casualty was reported.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792294411068,
     "type": "drone",
     "location": "Tehran",

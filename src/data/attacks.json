@@ -150020,6 +150020,38 @@
     ]
   },
   {
+    "id": 483350119,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — UAE: UKMTO announces tugboat traveling southbound northeast",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 1
+    },
+    "description": "🇮🇷| UKMTO announces a tugboat traveling southbound northeast of Khor Fakkan, UAE was struck by 2 projectiles. Tugboat is continuing its route despite damage. 1 casualty was reported.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483325936,
     "type": "intercept",
     "status": "confirmed",
