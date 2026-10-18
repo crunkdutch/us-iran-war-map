@@ -196282,6 +196282,21 @@
     "verified": false
   },
   {
+    "id": 1792294472368,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-11",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The IRGC Navy has targeted a vessel violating regulations in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210671421,
     "type": "drone",
     "location": "Erbil",
@@ -198113,6 +198128,62 @@
     "verified": false
   },
   {
+    "id": 1792294479471,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-14",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "White Cane Safety Day ceremony held in IranA ceremony marking World White Cane Safety Day took place in Tehran on October 14, 2026, with the participation of officials.https://en.irna.ir/photo/86294710/📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/U6QCOu6j9ZoKYWd4FU_u1SMD3xY0mwGLUevIHme3ri8i4pXkooFDgveJzdxWBwUQsxU7D-DG75tcQJn-Fj5EY99hsonbsBbvw9Fv23rHe2bDCcwwsDG5-Vr-XjlIH7I2IDEHw6rBpzdliZDm36_j9axpiJRAINWX3tmy8_2qK9PBiZZnUFawmp2HGZXMduFkkUxaVLV_k3NOyrYvINSpujW6ztuBUlWzwWz7rJMihW6-pAwS-YFkb65bsVAz3y_aFIkTMPqwRbuUnuWUxkLxKcTzvx78hxurMgtNbVR-RYtKTksZptadx1-gInqJY8EF1LgoatbOWGC4lDcXUXaEUQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/O_odkXuGSmUasLilDrxK8SN9WsDfSoTpv6T5HiyTY0ompsHIImOxlNT8ZGt0elp65bQWdePHsdDYn16Pj9OHoJvBOvXQU3XQxlG2v0ar-FmOu2kvmLgY5EcA6U8baNN2q-9NIDE_zhp3oQC5yQWyYEvaUD5md5h6xnR52iqyL2VtUrIQOLJR8UWhKuqLvzHphnVyx-wMbkgwbCSCQmhTVUmEnhQfmMn822PJcPc0sF7RFFRcXkpAG940R1JluCA8P-rWwPPL4U3ydErmgp8vkfBHLxwQ7aNcIEFThRViWvAlmBPhEFx2mg5S-IQu5TRsQit_hW7bv2iTmvgOO3EJdg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/KTEADEeBDHBB-dbcWCkLz1lIPvXIXHIvAwffB61_-juOJyh-r6lagdude4pk7ZB3zK2P4icrTp9morgTJOEThep4i0d_MXXD9CreH4VJqBC9MbxyfEpJqcSsMQo7Dgoo8ICji3USULRFVQCQ5lMLAKJ4TnX1ZOw0UJWos88eCFi-a4P_M6SCaIZw9VQ5BCCRHgaXkSwNO73wxJaY923lTLC9QA7VPEE8YqM4BjqKEo7ECdj8W2EoZerXE4lgjNthzlY5ghemyjLBvvuOaSrCPm87F2A1-ldoW_IT35_Ve_eGPHrbVJ1qo1F_zIQXWyQ6wK_3zMpGmJ9hSSgXMTrdCA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cTHLF7D3gA1v3zaQozMI1j5maHf0Db_RF6bK4T3OSNobcjXk0bGc_tP8KXSufMrR1lyUpzQ9QFi43HoFYCP8pPRqW5k3zZECknxlObS4xbit6y-hWfXngBMCGtzH5mjzlaujLBAUYyBejoRsXRoOqnHsWQ-8Ik1fFFUP8XtC8GBllpepwB5Gej_DctjEqL17L2RliX9FOAqWPnvgUx_tF50G4TP9LTozLf4jllTpT6Kv-U0M3kVja1xzYUQrSdwA95ObQjvIzrHtvghUspZG0pWExnD7l2Aw6qaGHVWoqXP_A555S0xn2K01d4ge7gLVzrtfNmQHxxZaHnQ0YxHJNg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/avrj6EJz0iRdaxJBBhQs9r2iwvsCTT91RCcKvnyq_h8Fo1BNlaVEfOQHq0c8vkQZuHBJ32xnp2GvM9NsW0bCwQ7FWcnfYISXUTfTISDwwVL43NX4Iyay4XKhQ6T4zcKG5qD4RweEfQLXwj5oUB-1jYpyTpqz00z1v3PCDMxjhvXD8nR4JsEQBL5DDWMyQ8mYJaxvklBEwXvr0w6dp6KqkZR07yIeEhQC0krSz4xW36m-8ZvXUjKju-Wm5zXLr0-sv45xZQtG6cagrTEx9WlENw86SdimnI1rZ5KZ_hHgElisLAS4yev_ijRJY0pP-vy2TkUz-y8glDi8RzOvpUJ--w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/r5HROOuL9SlRY3bg1Gxn3WBOwr3qznJD66HnAO7lpfyJb0u38IBOWgAI5RmQlUt-7cdK7_NwrKOx4KZAjSh9fi4eVDysVOqzzn7DBDSkhc6Uany1wgTONepSnkwq3yoKAGGStOV-wUnXYbbC2iB4eyKGgWZIhYlpmx_zgfMX4nNrcCpommbgj4BDLDEqtE_1MSMUbbrPzQPQZfrzIpJ8p-ajteTUqFPSKaexN59GIbEhlw81iTlXSKXihcTVpYf0AT2Q-o2-hFIzvWXDfxP0o6wUH7tK8AFmIo2AYKbWJOUe5lt8mgN3r9k5XaqKBdsH__2gF6GC8vJU-CjJ-2YRww.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QtH8Q4tYOEg23eeu9lzqygcCk9brdGjFx-3jlX0T2-pD2Coa_9p9kzPeDHDH6iNct-v8nisZ7KrT5OrQWsBO-xyhmjpi3dgtBJCxuUkpQwAm0y8ogA9UuZZaTKHeyBNiyhjUmwJBs6zeWOmTXovGmEhuVRjuDaImxgpmke45Izl0FT7aGNm5xQaUAmiByXFH3QoCe190IrsVbY0SgKX_5jyMhaTK5CGMbz_h_1kFQ5s2lgjdhQtOmdZPHnVcg6kRMgm5ZOxpvnv-SzkSPaNyQKYWi7F9d2e3VB7OimzVClvBytSufSJOnF8zW3PhPWMEIsIk9NbuQ4FBiTWaUh31Ig.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CoQR1iVXz26fEEoOKd3iMoW7rfOK7-NOlTMpxt5dV7NNw2WHP6w9eLZs9np-LIwsN4nsk4YL_F-PukmsrdY-xEXAF-N_Ke4vj8FodqNmPq4n43U74ZSPv8u4Hc0GfTbZ65-OXQYTvjhj8F55K-C9cxT5uY8ueQTelUceUyL-jpr4sgZwCyILRWr59AW5ZxCIyH40Gri9775mK7y9uskDIURvp8Xs1mXX0Xuq6w6Duh2kGtMpTGn_Kn-BiT-lUTGz-DBMJSqvz2YJz7BIACNiARUlQMfwovp0LLq8ar6xW5r672W3QO3FhF6zY248qOO2nKhJAYQIOTej75PM0YnjzQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/UWZuX0iaX1LHoG15QQm5ER14IEHyhP_peIuHIyySTE82GSG1nshiQP3CISLJyN0-fCxgBzXhcwwhg9b-67Mk34YVzB50XETdGOkw0M39zx5qKRac596xtzbO_TkKrA7b8XYMWsTWuMkt2daSNRSR9Rd0tLCemt-GmDldognVXCY9aY4lismRlFPXkqAVw9DCkUNdLtzxMvy9yzAZVDAZSanTIEM8x45u1sSDu9SiT7BzXDFuBOiLyRKNhCPiMRHRojRnFYnExLWOtiIxEjcfyNmIfgRH8W2zAeI9JXhm6YhLSB27c0-Ge_3cvuqYH-uTiio_Zx9wFpJXLetxWdfAGA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/INWcn537pJZ2jU1eL-gJ2eBlF8vqLwGY3ADqdE66SHiqhaJ-fF8fRQrdsWdm_4GL1yYuFtYZVB2GKzcEqWbPV8brGQqQUmMuQprHGdQblJliJwKXU5CxkEyxYg-1ED8U4YvA0BirQb72TPTqyaJA13FIpDAgp1XIz99ktQ-ywtz31Y9Wd4qfeTMU_ZV1S4D9x2QrMhU9psomZ8UfYHKZ6_O8CQql-zuMQkBqb3MFLgYG-Wsgq9AK5w0bPYH0oQqek_tZeM6xts7DeHuQwShpCg8IYoAmxzP81ywKL4dLE3Nr-Zo5wsVB55XY7WXlZE97fm-nxRbUc1PKbFrvgG0a7Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792210671228,
     "type": "airstrike",
     "location": "Taba",
@@ -199371,6 +199442,191 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | A liquefied natural gas (LNG) tanker came under gunfire approximately 140 nautical miles southeast of Al-Mukalla, off the Yemeni coast. The authority reported that a small boat carrying seven people approached the tanker and fired two shots. The vessel’s armed security team responded by firin...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792294427200,
+    "type": "missile",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | From the letter of Leader Abdul-Malik Badr al-Din al-Houthi to martyred leader Yahya al-Sinwar, one month before his martyrdom:“The Yemeni missile forces have made efforts to develop missiles in a way that meets the requirements of the battle. They continue to do so, and we are working to pro...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792294387493,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iranian filmmaker highlights Minab school massacre at Busan film festival📌 Tehran, IRNA – Iranian filmmaker Majid Majidi has drawn attention to the human cost of the US–Israeli war on Iran at the 31st Busan International Film Festival, citing the massacre of schoolchildren in Minab and damage to...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792294405950,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iran's Foreign Minister Araghchi arrived at Baghdad Airport on Saturday, where he was received by Iraq's Deputy Foreign Minister.He is to attend the 52nd Session of the Council of Foreign Ministers of the Organization of Islamic Cooperation (OIC).📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/RRw9ffyPy_FC45xc42V9OSx3PSqF9GNAQ-v_pZ2emhptOqj3xH9FHCe1q2Z5cgA4vesTQ8PLZsBhxat4WWC7SAKso4BMdTGw_heNOG15AoVv2hBU6RlHtYesxIqSYvNIlRVPoTZN6S6oCTeEOnzSDL66KjR9q0mq_qDYI1u31y6rQZ985gcSUQ9_q-PV2kUVxr0T8k2hwmkuP5hs0BNqJ22Zl9TWR8tHgm6P3M4hr1ek8DbzDQy20IoBHrE7FGOEjeQBCG_4kNAakIIXW9P_ae0SQvyhsvKDChRlG2i254Wg2Ctbf16wlpv4AiFB7t9E2WlZs59lmeaoS3x7IyhrfA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/89f8b4a01c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hm4pDpHAACnGDIC6CDxzazVtMhM8sdrEEbxtRAqs-m_CUCjfqNhLHLM33-NyWtl3Dm8E1mxPpy4Wm2edRuAsSJMsntQQgEnx2w4x6_ZDOaOJoCBKVsnguVblQJuVwjw1D15xaJvzQ0f3zicVh6b3uI1iAFsr1lvwyauL_gyi3QfxAeG9XapNdvGLYjFIifmLWRTMV2S5tJpHVUBy0nnbSxLmoaHZ3AF4TtZmxnZjUMnd_HkY7hu5Svpd21yLJT7iJiGdryOgtnjA0WcbEDhpCfJwOxDIkdC9pEnvjV3OLdHete_U_IXTUitSUTqtHy07WYADOZdCBjIfUo3-ZXJFug"
+      },
+      {
+        "url": "https://t.me/Irna_en/40892?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hm4pDpHAACnGDIC6CDxzazVtMhM8sdrEEbxtRAqs-m_CUCjfqNhLHLM33-NyWtl3Dm8E1mxPpy4Wm2edRuAsSJMsntQQgEnx2w4x6_ZDOaOJoCBKVsnguVblQJuVwjw1D15xaJvzQ0f3zicVh6b3uI1iAFsr1lvwyauL_gyi3QfxAeG9XapNdvGLYjFIifmLWRTMV2S5tJpHVUBy0nnbSxLmoaHZ3AF4TtZmxnZjUMnd_HkY7hu5Svpd21yLJT7iJiGdryOgtnjA0WcbEDhpCfJwOxDIkdC9pEnvjV3OLdHete_U_IXTUitSUTqtHy07WYADOZdCBjIfUo3-ZXJFug"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792294441438,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Upon his arrival at Baghdad International Airport, Iran's Foreign Minister Araghchi paid tribute to Lieutenant General Qasem Soleimani and Abu Mahdi al-Muhandis at the place of their martyrdom.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/dANXU0QLeO3bswOJbeeINEBxXEZN2VYcvriBrAFK6P7dajXvypHuxpz4idXxwGkdxOPA7vjdpji_fQfmrqqZjJ7m30YFaPeMIQDgitC0XxyF2kfodA4NyTRdK4dCNkh8_CAp0bnh1LOHYGibUaUCo72o2tH-LjdMTz-0k3bIsDK8Z3zSQdotxtOqf188L4fN_xExzg8szySBm8vUfspChWdO64Z_dmXHtgCDyOYgrp1wWTTfk0QExoiDbo9VQ9FH5A-jZ_7Lt60cdOHNTEN9S_o3ee3k1F_nd6vF5fudq8dsp3l6LSH3WWyp7CLrzDFu_7-TAOynq2gtwMZhCAQ47g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/uAo6-HP_mCgswd13sFYHbdY1vv_hSchBVxrtY92Yv5BUJYoQpouXRprKTHpIPsdthgRKYiVXcRVraYEBSci_V7MXiwH7dGJpnY-wuPyl3uhabkxbvlDPdJGd6Qt4_9J8qBNfihgBPNQ9v0Tn3wHRPcXz_QCWfgAwWaPLrAfXzUNhBx15aztyAhedCirw5ZfxnPK6MuWVT-pUvqU1AkgEQx-6xFmqL4-pmtGqKymMFZopJjuCHpO30CWK5k1hOSY0S0Sce8Px-t_NHrgm_lmo7In6SAwuf9fjuAQpVxA4JyUlUNubYqR2pCgwo2sEInq-Qmkb2-EoKYzPLG_18WbJ3w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/f46249b59f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ke6VXQRumW-TYN88yY22UI6FJ69p-Zv3r0xBni7omruC-9kC59S9sqy1RNHEt_bAg787tDhh-jWmfkdfHx2ACwVeN63C8xitG9I4aB_h8_7H2mlALOPfrlTx2rX-u7Q_rNPY0eGPXKjxYZN8y1wN2rPF-HXgkNx3YOqnnmPDNwvv_K58sHrwP7ZyMXWlXSp7WENXSG_SL5ZF8cZbY0jejVhQ5GBrmvKN6oBLV_rYM7eSLU6_ADlQjAstNmWPeQsTVZkQcINYC-BlAWXCJcOibWvCwrHPRukp29d61TtdXMYZZZJEvCsgq_1PAcsYCoDLp_x2prloR0XQcdT1-81rSg"
+      },
+      {
+        "url": "https://t.me/Irna_en/40897?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Ke6VXQRumW-TYN88yY22UI6FJ69p-Zv3r0xBni7omruC-9kC59S9sqy1RNHEt_bAg787tDhh-jWmfkdfHx2ACwVeN63C8xitG9I4aB_h8_7H2mlALOPfrlTx2rX-u7Q_rNPY0eGPXKjxYZN8y1wN2rPF-HXgkNx3YOqnnmPDNwvv_K58sHrwP7ZyMXWlXSp7WENXSG_SL5ZF8cZbY0jejVhQ5GBrmvKN6oBLV_rYM7eSLU6_ADlQjAstNmWPeQsTVZkQcINYC-BlAWXCJcOibWvCwrHPRukp29d61TtdXMYZZZJEvCsgq_1PAcsYCoDLp_x2prloR0XQcdT1-81rSg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792294396310,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Four Palestinians were martyred as Israeli aggression in Gaza continued, while more than 30 attacks targeted Palestinian olive farmers in the West Bank, leaving at least 19 injured and several arrested.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cFm5P5U-CiLm-xhKgxCfVP0L7ZVPRlTNyjAXi8Qo69ljs2tO3-Mbhv_OxVT8TJvtPOWixzLbVoc3QdwZVIFi2XBdYFQHOunJTVpx-JC16nSJXoEJrejhSuY3dcDaQZomGygoCegZNzdnvHD8S6d1crlPeKTVNf8ySP9C5ICSVlkNJZZ-AqYTiJ2Cc44G9GjSRviE3R3JIfg-wF_Ksa5uHyqgBt-48exb3MzYagMpY3CO0_cEKND6_Witei6xfC2R7fU4SXYNmxddh-Cx11upyjOcJk7hEz9BFIK25EJ1o2KILtUokn0UOLP9fKvq8uedHiZ9VN-ehvxqlrpg617UAg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792294440197,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-17",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran says all-front ceasefire essential to ending regional war📌 Tehran, IRNA — Iran’s Deputy Foreign Minister Saeed Khatibzadeh says ending the war on all fronts is a key condition for peace, stressing that continued fighting in any part of the region would mean the war persists across the regio...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792294410371,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "The IRGC Navy reported that an oil tanker carrying over two million barrels of crude oil, attempting to transit the Strait of Hormuz through an unlawful route, hit a naval mine and caught fire after an explosion.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e2f7ddbd3a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jW6pE31fP6P2l-zj9I20KM8TbZg9UTt2n-hs8du_XlAeYJ6tJEhmd3roO53tHjxpuLGK7cj5RknWibTe1pNr7cEarZqDPBi3qyPVGVWafWeYOV117AhrS_D4_KbYzolUGccG4u2Cq6hA1IuLL5uJx9w2cwQJBRAfRR5gHRC0TTmB7dfp2-noz_W7bEaUumD1-KkzuLHlTJp9yjTe1ncBYi7G_dUkDUTpqMSwi_zYVQUIrCad3G5RZiV1KrsG9l_quSe_8jkEkPyslHCgtBcCpqB-7LlS1WrVmN6eCzV4elZlMzN-0nNhH7cf9ZZ3NxJSrJuiW0UNAUgqDW6TtsDM_A"
+      },
+      {
+        "url": "https://t.me/Irna_en/40901",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jW6pE31fP6P2l-zj9I20KM8TbZg9UTt2n-hs8du_XlAeYJ6tJEhmd3roO53tHjxpuLGK7cj5RknWibTe1pNr7cEarZqDPBi3qyPVGVWafWeYOV117AhrS_D4_KbYzolUGccG4u2Cq6hA1IuLL5uJx9w2cwQJBRAfRR5gHRC0TTmB7dfp2-noz_W7bEaUumD1-KkzuLHlTJp9yjTe1ncBYi7G_dUkDUTpqMSwi_zYVQUIrCad3G5RZiV1KrsG9l_quSe_8jkEkPyslHCgtBcCpqB-7LlS1WrVmN6eCzV4elZlMzN-0nNhH7cf9ZZ3NxJSrJuiW0UNAUgqDW6TtsDM_A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792294411068,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-18",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (-ve): October 18, 2026🇾🇪 Yemen— Saudi airstrikes reportedly targeted the Matar Al-Qadim neighbourhood in western Taiz after AnsarAllah’s reported advance. Three additional Saudi airstrikes were reported in the Dhaneen area near the headquarters of the 35th Armored Brigade.— Saba...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792294466373,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (-ve): October 18, 2026 🇾🇪 Yemen — Saudi airstrikes reportedly targeted the Matar Al-Qadim neighbourhood in western Taiz after AnsarAllah’s reported advance. Three additional Saudi airstrikes were reported in the Dhaneen area near the headquarters…",
     "media": [],
     "verified": false
   },

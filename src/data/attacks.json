@@ -149913,6 +149913,209 @@
     ]
   },
   {
+    "id": 483338023,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Red Sea, Bab al-Mandab: From letter Leader AbdulMalik Badr alDin",
+    "location": "Aden, Red Sea, Bab al-Mandab, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | From the letter of Leader Abdul-Malik Badr al-Din al-Houthi to martyred leader Yahya al-Sinwar, one month before his martyrdom:“The Yemeni missile forces have made efforts to develop missiles in a way that meets the requirements of the battle. They continue to do so, and we are working to provide the necessary momentum for the requirements of the fifth phase, during which the enemy will be targeted deep inside the occupying and usurping entity, and enemy targets in occupied Jaffa and else",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483342054,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Tehran, Tel Aviv, Beirut: Iran says allfront ceasefire essential ending",
+    "location": "Tehran, Tel Aviv, Beirut, Strait of Hormuz, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran says all-front ceasefire essential to ending regional war📌 Tehran, IRNA — Iran’s Deputy Foreign Minister Saeed Khatibzadeh says ending the war on all fronts is a key condition for peace, stressing that continued fighting in any part of the region would mean the war persists across the region.In an interview with Lebanon’s Al Mayadeen television network on Friday, Khatibzadeh – who arrived in Beirut on Wednesday for talks with Lebanese officials – said Iran remained committed to ending t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483346086,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC Navy reported that tanker carrying",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The IRGC Navy reported that an oil tanker carrying over two million barrels of crude oil, attempting to transit the Strait of Hormuz through an unlawful route, hit a naval mine and caught fire after an explosion.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e2f7ddbd3a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jW6pE31fP6P2l-zj9I20KM8TbZg9UTt2n-hs8du_XlAeYJ6tJEhmd3roO53tHjxpuLGK7cj5RknWibTe1pNr7cEarZqDPBi3qyPVGVWafWeYOV117AhrS_D4_KbYzolUGccG4u2Cq6hA1IuLL5uJx9w2cwQJBRAfRR5gHRC0TTmB7dfp2-noz_W7bEaUumD1-KkzuLHlTJp9yjTe1ncBYi7G_dUkDUTpqMSwi_zYVQUIrCad3G5RZiV1KrsG9l_quSe_8jkEkPyslHCgtBcCpqB-7LlS1WrVmN6eCzV4elZlMzN-0nNhH7cf9ZZ3NxJSrJuiW0UNAUgqDW6TtsDM_A"
+      },
+      {
+        "url": "https://t.me/Irna_en/40901",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/jW6pE31fP6P2l-zj9I20KM8TbZg9UTt2n-hs8du_XlAeYJ6tJEhmd3roO53tHjxpuLGK7cj5RknWibTe1pNr7cEarZqDPBi3qyPVGVWafWeYOV117AhrS_D4_KbYzolUGccG4u2Cq6hA1IuLL5uJx9w2cwQJBRAfRR5gHRC0TTmB7dfp2-noz_W7bEaUumD1-KkzuLHlTJp9yjTe1ncBYi7G_dUkDUTpqMSwi_zYVQUIrCad3G5RZiV1KrsG9l_quSe_8jkEkPyslHCgtBcCpqB-7LlS1WrVmN6eCzV4elZlMzN-0nNhH7cf9ZZ3NxJSrJuiW0UNAUgqDW6TtsDM_A"
+      }
+    ]
+  },
+  {
+    "id": 483325936,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Riyadh, Yemen, Saudi Arabia: Hourly Updates October 2026 Yemen AnsarAllah",
+    "location": "Riyadh, Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 18, 2026🇾🇪 Yemen— AnsarAllah forces reportedly advanced into western Taiz city, capturing or entering the strategic areas of Mudarat and Murabah and approaching the Old Airport neighbourhood and Taiz University amid very heavy clashes. Further reports said AnsarAllah broke through PLC defences from the Hanjar Gate and advanced toward the Al-Matar Al-Qadim and Al-Jabali areas, with violent street fighting continuing. AnsarAllah was also reported to have captured",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483329964,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Baghdad, Erbil: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Tehran, Baghdad, Erbil, Sanaa, Damascus, Lebanon, Syria, Yemen, Oman, Iraq, Israel, Egypt, Cairo, Port Said",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (-ve): October 18, 2026🇾🇪 Yemen— Saudi airstrikes reportedly targeted the Matar Al-Qadim neighbourhood in western Taiz after AnsarAllah’s reported advance. Three additional Saudi airstrikes were reported in the Dhaneen area near the headquarters of the 35th Armored Brigade.— Saba agency reported that three civilians were martyred in a Saudi airstrike on the Al-Urdi area of Dhubab coastal district, southwest of Taiz.— Yemeni health authorities in Sanaa reportedly said seven ci",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483333993,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (-ve): October 18, 2026 🇾🇪 Yemen — Saudi airstrikes reportedly targeted the Matar Al-Qadim neighbourhood in western Taiz after AnsarAllah’s reported advance. Three additional Saudi airstrikes were reported in the Dhaneen area near the headquarters…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
