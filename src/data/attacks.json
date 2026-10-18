@@ -150148,6 +150148,134 @@
     "media": []
   },
   {
+    "id": 483354153,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Strait of Hormuz: companies that losing millions continuing operate",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "❓| Why are companies that are losing millions by continuing to operate through the Strait of Hormuz failing to understand that these losses could eventually hit their businesses far more severely? They must reduce their exposure, divest from excessive dependence on the chokepoint, and find alternative solutions.By continuing to operate through high-risk transit corridors like the Strait of Hormuz, companies absorbing millions in short-term operational losses are overlooking a far more severe lon",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483358188,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Isfahan: Unconfirmed initial reports explosion being heard",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Unconfirmed initial reports of an explosion being heard in Isfahan and Khomein. It may have been a controlled explosion involving unexploded mines.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483362224,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: naval forces Islamic Revolutionary Guard Corps",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The naval forces of the Islamic Revolutionary Guard Corps, via radio communication, are calling on ships intending to pass through the southern route of the Strait of Hormuz to immediately turn back or face being targeted. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483366261,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iranian parliament weighs defense minister nominees",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iranian parliament weighs defense minister nominee’s credentials📌 Tehran, IRNA – Iran’s parliament has started reviewing the qualifications and plans of Defense Minister-designate Mehrdad Akhlaghi Ketabchi during its public session.The session, chaired by Parliament Speaker Mohammad Bagher Ghalibaf and attended by most lawmakers via videoconference, opened on October 18, 2026.​Lawmakers are scheduled to examine Akhlaghi Ketabchi’s credentials for the post of minister of defense and armed for",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
