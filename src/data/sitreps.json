@@ -200042,6 +200042,26 @@
     "verified": false
   },
   {
+    "id": 1792352168560,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:Over the past 24 hours, Saudi warplanes carried out 110 airstrikes and missile attacks targeting civilian objects in the capital, Sana’a, and the governorates of Al Hudaydah, Taiz, Amran, Hajjah, Saada, Al Jawf, Al Dhale’e, and Marib. The attacks were carried out using F-1...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/iq68xJ64mePhFou3itHSsMzizclJCqBpywju_Wp_2Y2a9r-JeMHW9CG1DM__hQMLvSSbu2wKYzBrYqJ0Q2q_kaA8_Ms0l2aGNrzZL6GTC2Px93QmdYz0uGvVbLOMxwMGsRCTrNh_C9-i3OTKXyUAXMPz0Xn-8dyYZW0f-9qTkWDXqF1TN4tkCG1GEB73s3nBqoVNPfs6kyZiRJ6jogK8CXZwMHDPfc-Nh2bcKrSVbsakEEQCitSYNZ-k2C3Ov9nSQq97pjMD-cSkr4LKgikFCAZs1BGEXfEMkE2BCklcmShheK-FkPSYCJQnw1cfZTbJUYMHQzzAIFIH-0xKLFePdw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
