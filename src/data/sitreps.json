@@ -200077,6 +200077,27 @@
     "verified": false
   },
   {
+    "id": 1792366627035,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | The “Rujum” drone strikes Saudi enemy vehicles and reinforcements across various Yemeni fronts. 🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/63588",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iuGuoDNB9jhlVwi8VkjSaLBT_p25QPXSd26Sy4djFhiWSF4Fx-z1pIQDftMf53b4u3tT4x9DiYvIaFr1NebLpGajTDFVgtO0fn6XytAFKTTjXFHqmIKhp7KRTpY5AFVFimBHTmPnVMIp6sOuIRtzMSiAcS1FrTlr1tYWuTNePKVB3XDzkqm_NfIhPvKRH_Ud1RQ9G1rW05bPFa600DVIlfjALDjXcz4S90tADnDmIVeHUmhsLkntTM-pKeeeGvynPEzciSbjEB7hAWqqxRvmmb1e3b8fWZpl3i6OPdKYkz3er8juzpA0A-geBLiCtSbBh1wFtpFpzEfXxfa1tcsvsw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

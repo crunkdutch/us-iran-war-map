@@ -150241,7 +150241,18 @@
     "description": "🇮🇷 | The naval forces of the Islamic Revolutionary Guard Corps, via radio communication, are calling on ships intending to pass through the southern route of the Strait of Hormuz to immediately turn back or face being targeted. 🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/55096cc0fb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n-g4lsb_6YhCsGzVOsaFiVE2v4MTD9gbfV7s5d1amVsDuTFn566NsO9T1iJYEfNk8EHeTjxl4Z2iTy_EdLhZh-y49SUrwpD0yB-eA_UAhSR8Lhk7G8t8hSY17t53MvN6XTP5dwN-9EXr4HH-JbACP04u2KkcRHq_OrQyGyG--yGedH3v-WTX9on08qtm62o10Ys5cqXI_f3SlADOQFSWAVNfcnTx2AlycaOmIlIcNWfXYU3n6-LIH6mJWbvRG6n4u2-X6lW_6JzjKwHx8-UyDDkF_a5x3v4kMLPhfnH2VyGsckwLbkIRHh50TweScvJ3oIei25enrANnwfFPvnSyIA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63586",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/n-g4lsb_6YhCsGzVOsaFiVE2v4MTD9gbfV7s5d1amVsDuTFn566NsO9T1iJYEfNk8EHeTjxl4Z2iTy_EdLhZh-y49SUrwpD0yB-eA_UAhSR8Lhk7G8t8hSY17t53MvN6XTP5dwN-9EXr4HH-JbACP04u2KkcRHq_OrQyGyG--yGedH3v-WTX9on08qtm62o10Ys5cqXI_f3SlADOQFSWAVNfcnTx2AlycaOmIlIcNWfXYU3n6-LIH6mJWbvRG6n4u2-X6lW_6JzjKwHx8-UyDDkF_a5x3v4kMLPhfnH2VyGsckwLbkIRHh50TweScvJ3oIei25enrANnwfFPvnSyIA"
+      }
+    ]
   },
   {
     "id": 483366261,
@@ -150469,6 +150480,76 @@
       {
         "url": "https://cdn5.telesco.pe/file/iq68xJ64mePhFou3itHSsMzizclJCqBpywju_Wp_2Y2a9r-JeMHW9CG1DM__hQMLvSSbu2wKYzBrYqJ0Q2q_kaA8_Ms0l2aGNrzZL6GTC2Px93QmdYz0uGvVbLOMxwMGsRCTrNh_C9-i3OTKXyUAXMPz0Xn-8dyYZW0f-9qTkWDXqF1TN4tkCG1GEB73s3nBqoVNPfs6kyZiRJ6jogK8CXZwMHDPfc-Nh2bcKrSVbsakEEQCitSYNZ-k2C3Ov9nSQq97pjMD-cSkr4LKgikFCAZs1BGEXfEMkE2BCklcmShheK-FkPSYCJQnw1cfZTbJUYMHQzzAIFIH-0xKLFePdw.jpg",
         "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483394548,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Israel: Major General Abdollahi leaders United States",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Major General Abdollahi to the leaders of the United States and the Israeli regime: We are eagerly awaiting your foolish decisions.Chief of Staff of the Armed Forces and Commander of the Central Headquarters of Khatam al-Anbiya:“The slogans you are chanting, if you had been capable of acting on them, you would have done so by now. In each of the previous wars, you entered the war under the slogan of overthrowing the Islamic Republic and partitioning and destroying Iran. Yet today, you you",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483398593,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Rujum drone strikes Saudi enemy vehicles",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | The “Rujum” drone strikes Saudi enemy vehicles and reinforcements across various Yemeni fronts. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/63588",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iuGuoDNB9jhlVwi8VkjSaLBT_p25QPXSd26Sy4djFhiWSF4Fx-z1pIQDftMf53b4u3tT4x9DiYvIaFr1NebLpGajTDFVgtO0fn6XytAFKTTjXFHqmIKhp7KRTpY5AFVFimBHTmPnVMIp6sOuIRtzMSiAcS1FrTlr1tYWuTNePKVB3XDzkqm_NfIhPvKRH_Ud1RQ9G1rW05bPFa600DVIlfjALDjXcz4S90tADnDmIVeHUmhsLkntTM-pKeeeGvynPEzciSbjEB7hAWqqxRvmmb1e3b8fWZpl3i6OPdKYkz3er8juzpA0A-geBLiCtSbBh1wFtpFpzEfXxfa1tcsvsw"
       }
     ]
   },
