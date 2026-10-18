@@ -150404,6 +150404,38 @@
     "media": []
   },
   {
+    "id": 483386461,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Tel Aviv, Strait of Hormuz: miscalculated Irans resilience Basij chief says",
+    "location": "Tehran, Tel Aviv, Strait of Hormuz, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 US miscalculated Iran’s resilience in war, Basij chief says📌 Tehran, IRNA – Hossein Taeb, head of Iran’s Basij Organization, said the United States had accepted defeat in the military confrontation with Iran after miscalculating the country’s resilience and the ability of its armed forces to sustain the fight.Speaking at a meeting in Tehran on Sunday, Taeb said the United States and Israel had expected Iran to capitulate within days or weeks, but the Iranian nation and Armed Forces had stood",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
