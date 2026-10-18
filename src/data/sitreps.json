@@ -746,6 +746,21 @@
     "verified": false
   },
   {
+    "id": 1792323340564,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2023-10-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Gaza death toll tops 74,475 as seven Palestinians killed in 24 hours📌 Tehran, IRNA — Seven Palestinians have been killed and 25 others wounded in Israeli attacks on the Gaza Strip over the past 24 hours, bringing the overall death toll since October 2023 to 74,475.Gaza’s Health Ministry said on ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785001984994,
     "type": "drone",
     "location": "Syria",
@@ -199880,6 +199895,60 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Pezeshkian backs defense minister nominee, says expertise can boost Iran’s defense capabilities📌 Tehran, IRNA – President Masoud Pezeshkian has defended Mehrdad Akhlaghi Ketabchi, his nominee for defense minister, expressing hope that his appointment would further strengthen Iran’s defensive cap...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792323308847,
+    "type": "airstrike",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Leader of Iraq's National State Forces Alliance Ammar_Alhakeem has met with Iran's Foreign Minister Araghchi on the sidelines of the Organization of Islamic Cooperation (OIC) Foreign Ministers' meeting in Baghdad.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/WYtITc6YlR3QSUhcVJWU_PB5dOp8EySdFBlph3gzTsGGyJ3uFQfzd219CTiks5mRGrZdIfqXv0i9UlWBBIANT66OfoA0zsk7cfd021I_zftkpMLhQF1yhd3nJedPOHClvAXIDrUaUd7E8WezxDmgCIwdDRExnHBUPVidMyVDevhZBp_Au25WRm_7oWVBXhcXMqSBWfpooaTlW149gl-Fku_u9eVFz7BxlmPrPyc3QcBxXNzQ4BYaQZXkZPCtq60USm1Y56x3k53Mp8vQcvxDl0X-PdpPefmQ-gQ_rHUZzDykjmDJd9eoboDb_QnNDu5WBSVFs8D_EqSw5GOH0OXNSQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/K_g5oQvuo0zf4WK6yBia2ZyYK-8sAsCVeV49bUkPxjKPLmDj31q7YCAV11lrhvOCz29oRoMjojcknz519x42XihGEvI1OK96JAPJDuxil805pZIOM8_gOzhJHpAfwvRye4KQ14I8L_-4XsQ6sfsWMQHmDI1ZGX9pI1Avr3rmDE1V9X0ds6AEt3BsPu3X3Urcea0ZuIqpclcj0kaQ7loxUTzaGzz8FRJJvXPUk7dvQZeaznFvPi4gRRJKGpWHJi0Y0TGNqVBoIXvRttzebfM3235dPyUt8jhq6vxfcWTBZgZI_Vy3hUGWHganJOkxtVNCunGbwkmDQKajB3s_1K7jMA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/AqlaA7mYUBU8oYNhQ3HhbTC_7oMnG8tZ09hNObFjsWALfMBhkWW_aeJst342TtWIFOPidP-HCR--acKH6RTfLM7m0x7F0gXu1XPfsRrYaGmz7FLmK55KMvMdrSkRbBs23srEoX85mF4H9tDddGlTEeY-fp9mNnmQ3wPpOm41ka9lZSxTi6CSCfgylNf94BBHCKIfOlxT_G7c0-WHzlavRHCY1ny5lumVOu4fkuQ1oIlIBCn3IRxW2uda_CIhoe3PqZhaqJcOi_PicXM0UtpjbtANx4yymQ08pKKw_ofKBdZZjKsME1KMAF9RCFia9lYK9dhIh-dSC_XKOsVH7cvwyg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792323333836,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Two infants with an elevenfold difference in weight were delivered in Bandar Abbas, Iran, one a premature baby from Minab weighing just 500 grams, and the other weighing 5.7 kilograms at birth.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d9e05793a9.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/o0-lALXwbP-39giX_dHr-yAXXds2GJFinwu7Dzp6yv0pBMJMrvhaJLgcPHqv1LwneKmq5_eesJhH1Kej9aulEGEoH1tgDmh3ItYxcH7T9JMv3sxBJ70brp2q3Z_zUypn9pEdUYvVXCEEiNO2ZzucLCi4HG_YE973Ils2D9-L9fdCrMU1TT2vlLMgvJIORAbTKnMOfIerwk66LFmjAT8iVYHJxOipHnwWqkX_aaZ6QMHo5IYzJ7Jgm9pR-lNwb6C_zo-IIZRUMPllsiOTJCVRk8riUUA5RvuK5Q9aW-zaeQMoWMsyd9J4_fL77auOjHSRFtWoIJZ8BMBW796SzE8Utw"
+      },
+      {
+        "url": "https://t.me/Irna_en/40997",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/o0-lALXwbP-39giX_dHr-yAXXds2GJFinwu7Dzp6yv0pBMJMrvhaJLgcPHqv1LwneKmq5_eesJhH1Kej9aulEGEoH1tgDmh3ItYxcH7T9JMv3sxBJ70brp2q3Z_zUypn9pEdUYvVXCEEiNO2ZzucLCi4HG_YE973Ils2D9-L9fdCrMU1TT2vlLMgvJIORAbTKnMOfIerwk66LFmjAT8iVYHJxOipHnwWqkX_aaZ6QMHo5IYzJ7Jgm9pR-lNwb6C_zo-IIZRUMPllsiOTJCVRk8riUUA5RvuK5Q9aW-zaeQMoWMsyd9J4_fL77auOjHSRFtWoIJZ8BMBW796SzE8Utw"
+      }
+    ],
     "verified": false
   },
   {
