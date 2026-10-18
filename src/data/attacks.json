@@ -150276,6 +150276,38 @@
     "media": []
   },
   {
+    "id": 483370299,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran: Pezeshkian backs defense minister nominee says",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Pezeshkian backs defense minister nominee, says expertise can boost Iran’s defense capabilities📌 Tehran, IRNA – President Masoud Pezeshkian has defended Mehrdad Akhlaghi Ketabchi, his nominee for defense minister, expressing hope that his appointment would further strengthen Iran’s defensive capabilities.Addressing lawmakers on Sunday during a parliamentary confidence vote on the nominee, Pezeshkian said Ketabchi’s scientific qualifications, knowledge, and expertise in Iran’s defense structu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

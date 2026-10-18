@@ -198710,6 +198710,21 @@
     "verified": false
   },
   {
+    "id": 1792316119170,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-15",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: Today, the final meeting of the 37th \"Israeli\" government will once again be held in a secured complex rather than at the Prime Minister’s Office, three years into the war.The more interesting question is: Does this mean that the Prime Minister will now avoid public even...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210677495,
     "type": "airstrike",
     "location": "Taba",
@@ -199814,6 +199829,56 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "💬 Iranian parliament weighs defense minister nominee’s credentials📌 Tehran, IRNA – Iran’s parliament has started reviewing the qualifications and plans of Defense Minister-designate Mehrdad Akhlaghi Ketabchi during its public session.The session, chaired by Parliament Speaker Mohammad Bagher Ghali...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792316076589,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— In an interview with the Iranian Red Crescent Society, its head twice confirmed that during the 12-day war, Imam Ali Khamenei was staying at his residence. When President Masoud Pezeshkian was injured, he initially attempted to meet the Leader. However, rumours surrounding the Leader’s whereabouts...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/oPePW4Tov0J102TFUhpt-RKedDe7xICu-JPJXwJbCBM7cILA4gwrF8di9VInibx5XYoEn4n92Qo18goLG7sh7NNnqh11TJt0_lo92yR6Kkft_QDIZmSkugaWAER5M3uzAcYrljyk8j9Z6n7iFAaQzwbKNlQPEigY3c0ibWIGBl0W8N3kbdjxL7hS74vGmqJjnlJ5UwMY7k2ikQKVJKB-9ZPXllaJrrIdXEFI7GzO-Z-_-dS34Zlg62hT-f-DXUL_Cjgism7RasFuqQolLMGSgvHnhHLpkQqbFY5EGob1gdBMdku1YWtzL6oM9pQIlsaOJ4Xy-PX8as4p_JfPqtmj0g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792316106223,
+    "type": "airstrike",
+    "location": "Egypt",
+    "coordinates": [
+      26.8,
+      30.8
+    ],
+    "date": "2026-10-18",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇪🇬/🇸🇦 | An Egyptian military transport plane, model c-130H, landed at King Fahd Air Base in Taif.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792316094393,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Pezeshkian backs defense minister nominee, says expertise can boost Iran’s defense capabilities📌 Tehran, IRNA – President Masoud Pezeshkian has defended Mehrdad Akhlaghi Ketabchi, his nominee for defense minister, expressing hope that his appointment would further strengthen Iran’s defensive cap...",
     "media": [],
     "verified": false
   },
