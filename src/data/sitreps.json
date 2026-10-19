@@ -200113,6 +200113,100 @@
     "verified": false
   },
   {
+    "id": 1792381112671,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦| Another Saudi soldier killed by Yemeni forces' fire.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/q-o_Mhf1fi6jtGUvi198KnNWyLxoPBBAMuW_A9i6dlkUdFg0K1_IiKCoIB4C8q-hUq6vNsKZmZWnwyZUyHoHUnXRQJDXtVBoKCGi29TqueMYjRpVsaUTc2pa9xx3myd4TjxBM4k2u7d2fknPvdSGJ5rgw9TgyJlKPQnC4IhRc17gQUrHrpX7hRG7NzE0ho9hiXgxlRtR8zqLd0QpU9hdKpKeeoAUzSfDJDF8JzIonD8li88IED00L_d7hiLevGz5k5EmXAWNHDVWBJPN5uz5tb6XV1YuJppKO7edYfen_2L_aaePcixDpvAhKnFu36FF2DjkkNIlAsyp6AF0LInR_Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/m5JuYK2lWqC8QxxjgoD0WUQ8EyWGcdPzqKF1BMaER_MESJHw2vEbx7C-1LObeDwKVcLqXGIWtdFR5Odr5j38qpDXMReWASKNf-0mJklHis71O0U-BuLIFoaLQ4e5QNAH2Q_8J9UzxjnFmItU-SXfLIVLEXvz3VHnqyLJ1yLILeRCi8mYARxfDzUpOOjgwt7jHkS7lPU8IvhWCJp0E-VLRBkrc9n6Ob1NR2WL0Fni53eLotVZWD6pCrepn0KIs4UgeEi3Q3JYdwtm9KgfNN5MAbHQ32Ns3YzaiyGW_WIpQT_GNkXXycGEIJyt6a7iHXeqF-PMOp9oB-idQZxbXadytw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792381076251,
+    "type": "intercept",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | Map and locations of air defense platforms and radar sites in the Kingdom of Saudi Arabia.🎯@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/v5c8JFtq0ln0EJzlktD9dJipvhYFsoFsLpEFQcKV_l8V77UdMc6UngqNzuGk82zbwjdH7tudTUbYcbIVa83BhLK9rY3h162nOlIADeRiKqzndZkrwcSGsNm4a7ehNyw9ntgPCbY9ACwptn-Hz_wDRxjfhZHb65XJucOZC0Gy7RFzWJ75zxBprnUASbaHlITaMooeV4UeYuC_Povvsww0_VsjfUxNztHeMIqa7flOKcniXYWGvEpLTKdcWQmjMvAtFxrbaHulHwYGohbEIepWgyGigcfWQiF3JWraywIhh1Pc_H8Oaa2Hvg8NjY4PrtFoM0qB8umGdj6V4RRr-fClew.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792381029433,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 IRGC spokesperson: Future belongs to nation that turns enemy threats into street humor📌 Tehran, IRNA — Brigadier General Hossein Mohebbi, spokesperson for the Islamic Revolution Guards Corps (IRGC), has said that the future belongs to a nation that turns the enemy’s greatest threat into a subjec...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792381061544,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iranian Embassy charity bazaar in Berlin showcases Persian culture, art📌 London, IRNA — The Iranian Embassy in Berlin has hosted its second charity bazaar, drawing diplomats, media representatives, Iranian nationals, and enthusiasts of Iranian culture and art to an event showcasing the country’s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792381046726,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 President Pezeshkian inaugurates educational projects in Tehran Province📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/gcQwMAZptwZLWmo4NuWV-I89nR16-qzHLN0Mh_8lTZa5EWw6Z0YXwtZgpD-7S6Er6MrXwwEEjJ2KQoJYqOupvyqvobDLG14KPU3BrLzo0vI9uAy-NXqdaHJ0cphcMI0UoI5ULhJ6xPxm_rx1Yms_KoDqJ1vpkL64ip-oQVvsQd8PLugOhrUldFIGg5hcBfkweiWtgwupwTu7PAGl3Dsl6RIpOZnFehkFW6RfipnTXuSB9y9qZk_FFqclL_MZ4mQz6hWb9aemh7l3PxvwDU2RVLZTLDytaN1SHATbPhO-J6SMaloJPr2sr8ep8NAsDHw_pSdOgnXr_LFQOivY44xo1Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

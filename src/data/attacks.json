@@ -150145,7 +150145,16 @@
     "description": "🟡 Hourly Updates (-ve): October 18, 2026 🇾🇪 Yemen — Saudi airstrikes reportedly targeted the Matar Al-Qadim neighbourhood in western Taiz after AnsarAllah’s reported advance. Three additional Saudi airstrikes were reported in the Dhaneen area near the headquarters…",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/q-o_Mhf1fi6jtGUvi198KnNWyLxoPBBAMuW_A9i6dlkUdFg0K1_IiKCoIB4C8q-hUq6vNsKZmZWnwyZUyHoHUnXRQJDXtVBoKCGi29TqueMYjRpVsaUTc2pa9xx3myd4TjxBM4k2u7d2fknPvdSGJ5rgw9TgyJlKPQnC4IhRc17gQUrHrpX7hRG7NzE0ho9hiXgxlRtR8zqLd0QpU9hdKpKeeoAUzSfDJDF8JzIonD8li88IED00L_d7hiLevGz5k5EmXAWNHDVWBJPN5uz5tb6XV1YuJppKO7edYfen_2L_aaePcixDpvAhKnFu36FF2DjkkNIlAsyp6AF0LInR_Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/m5JuYK2lWqC8QxxjgoD0WUQ8EyWGcdPzqKF1BMaER_MESJHw2vEbx7C-1LObeDwKVcLqXGIWtdFR5Odr5j38qpDXMReWASKNf-0mJklHis71O0U-BuLIFoaLQ4e5QNAH2Q_8J9UzxjnFmItU-SXfLIVLEXvz3VHnqyLJ1yLILeRCi8mYARxfDzUpOOjgwt7jHkS7lPU8IvhWCJp0E-VLRBkrc9n6Ob1NR2WL0Fni53eLotVZWD6pCrepn0KIs4UgeEi3Q3JYdwtm9KgfNN5MAbHQ32Ns3YzaiyGW_WIpQT_GNkXXycGEIJyt6a7iHXeqF-PMOp9oB-idQZxbXadytw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 483354153,
@@ -150284,7 +150293,12 @@
     "description": "💬 Iranian parliament weighs defense minister nominee’s credentials📌 Tehran, IRNA – Iran’s parliament has started reviewing the qualifications and plans of Defense Minister-designate Mehrdad Akhlaghi Ketabchi during its public session.The session, chaired by Parliament Speaker Mohammad Bagher Ghalibaf and attended by most lawmakers via videoconference, opened on October 18, 2026.​Lawmakers are scheduled to examine Akhlaghi Ketabchi’s credentials for the post of minister of defense and armed for",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/gcQwMAZptwZLWmo4NuWV-I89nR16-qzHLN0Mh_8lTZa5EWw6Z0YXwtZgpD-7S6Er6MrXwwEEjJ2KQoJYqOupvyqvobDLG14KPU3BrLzo0vI9uAy-NXqdaHJ0cphcMI0UoI5ULhJ6xPxm_rx1Yms_KoDqJ1vpkL64ip-oQVvsQd8PLugOhrUldFIGg5hcBfkweiWtgwupwTu7PAGl3Dsl6RIpOZnFehkFW6RfipnTXuSB9y9qZk_FFqclL_MZ4mQz6hWb9aemh7l3PxvwDU2RVLZTLDytaN1SHATbPhO-J6SMaloJPr2sr8ep8NAsDHw_pSdOgnXr_LFQOivY44xo1Q.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 483370299,
@@ -150552,6 +150566,75 @@
         "thumbnail": "https://cdn4.telesco.pe/file/iuGuoDNB9jhlVwi8VkjSaLBT_p25QPXSd26Sy4djFhiWSF4Fx-z1pIQDftMf53b4u3tT4x9DiYvIaFr1NebLpGajTDFVgtO0fn6XytAFKTTjXFHqmIKhp7KRTpY5AFVFimBHTmPnVMIp6sOuIRtzMSiAcS1FrTlr1tYWuTNePKVB3XDzkqm_NfIhPvKRH_Ud1RQ9G1rW05bPFa600DVIlfjALDjXcz4S90tADnDmIVeHUmhsLkntTM-pKeeeGvynPEzciSbjEB7hAWqqxRvmmb1e3b8fWZpl3i6OPdKYkz3er8juzpA0A-geBLiCtSbBh1wFtpFpzEfXxfa1tcsvsw"
       }
     ]
+  },
+  {
+    "id": 483402639,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Saudi Arabia Interception — Saudi Arabia: locations defense platforms radar sites Kingdom",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | Map and locations of air defense platforms and radar sites in the Kingdom of Saudi Arabia.🎯@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/v5c8JFtq0ln0EJzlktD9dJipvhYFsoFsLpEFQcKV_l8V77UdMc6UngqNzuGk82zbwjdH7tudTUbYcbIVa83BhLK9rY3h162nOlIADeRiKqzndZkrwcSGsNm4a7ehNyw9ntgPCbY9ACwptn-Hz_wDRxjfhZHb65XJucOZC0Gy7RFzWJ75zxBprnUASbaHlITaMooeV4UeYuC_Povvsww0_VsjfUxNztHeMIqa7flOKcniXYWGvEpLTKdcWQmjMvAtFxrbaHulHwYGohbEIepWgyGigcfWQiF3JWraywIhh1Pc_H8Oaa2Hvg8NjY4PrtFoM0qB8umGdj6V4RRr-fClew.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483406686,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Baghdad, Yemen: Araghchi Iraqi hold talks sidelines summit",
+    "location": "Tehran, Baghdad, Yemen, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Araghchi, Iraqi PM hold talks on sidelines of OIC summit in Baghdad📌 Tehran, IRNA — Foreign Minister Abbas Araghchi and Iraqi Prime Minister Ali Falih al-Zaidi have met in Baghdad to discuss bilateral and the latest regional developments.Araghchi and al-Zaidi met on Saturday on the sidelines of the 52nd Session of the Council of Foreign Ministers of the Organization of Islamic Cooperation (OIC) in Baghdad and held talks on bilateral and regional developments.​The Iranian foreign minister str",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
