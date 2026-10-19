@@ -200567,6 +200567,97 @@
     "verified": false
   },
   {
+    "id": 1792424361768,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:Our armed forces targeted Saudi enemy forces gathered at Al-Alam Camp, which is operated by Saudi officers in the eastern areas.The attack resulted in dozens of deaths and injuries among the Saudi forces, including Saudi officers.We warn those being deceived against respon...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/pmvjnWZKx3l0fY0dLtSfZ9ZDbYxQdcxW5RV9kV8xTeZ17rDOTTi11fSalKgdLnbZiERHPDBo__VdXOwc0dUAin1qJvmbna2jTEvZyxHq7HduGoEeA4_xIsPQa6qCaP8H12kzl_ZM_lruzsMygv21CcEN-50fkbB0OziBZv2SI16EZ9Zm6OpM7PAEHsgzFkWESbHTRsXGiAv3jjX4Qm1AxiByrfEb59ig07GM3BOuSBmQIbzwKriB3jKU0NTkEwICPw8etaasjdLMgx2w9esRm-tCsHor28P7VGFqfqkyIBF475n5WGJlbL2KCvxttePaRXWdj7HWUAny28RcIn6w5g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792424395467,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 19, 2026🇱🇧 Lebanon• An Israeli quadcopter drone reportedly dropped a rocket on the roof of a building in the Al-Rajm neighbourhood of Meidfoun, southern Lebanon. The building had reportedly been targeted previously.🇵🇸 Palestine / Gaza• Two children were reportedl...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792424360192,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-19",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— If you have been following reports of Yemeni attacks on Saudi Arabia, including fires at oil facilities and damage to critical infrastructure, you must also consider the broader context. Since the outbreak of the war, Saudi Arabia has reportedly carried out more than 2,600 airstrikes across Yemen,...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792424422305,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Foreign Minister Araghchi meeting with his Russian counterpart Sergey Lavrov here in Tehran on Monday📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5e15fa3a70.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cZAkEyKhyA0x-VTlQi7EmQwMC-mFObc_Kj5e7PpdU__hpZcyzXocFEQZK6164JtzwxYiS2UkUPhMR0aYwlFQOC7G1oKitc5NGTAW9xoAm2Fmw_itAA1k3SKuYptn_l6vUd-otIiYJGwdZpdFghT5a_5SwlT1Mn5s_ZcF-M2gfh1MeFzIZM2JMgBOW_UokNVC_jwj5n9CGpR5ItiI67mr2hqain55QwFDcnYB_8c6oo0mVsHVWYzbU3UDTNSvcq9YHXiQVSRjZHuhGglPh2rSzGX7aguy06uSZi1qW9UQ8U9oyMxLgVkaXf4WEywMazZ8Jd_VTd5QOVgGBCNqKsV1gA"
+      },
+      {
+        "url": "https://t.me/Irna_en/41046",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cZAkEyKhyA0x-VTlQi7EmQwMC-mFObc_Kj5e7PpdU__hpZcyzXocFEQZK6164JtzwxYiS2UkUPhMR0aYwlFQOC7G1oKitc5NGTAW9xoAm2Fmw_itAA1k3SKuYptn_l6vUd-otIiYJGwdZpdFghT5a_5SwlT1Mn5s_ZcF-M2gfh1MeFzIZM2JMgBOW_UokNVC_jwj5n9CGpR5ItiI67mr2hqain55QwFDcnYB_8c6oo0mVsHVWYzbU3UDTNSvcq9YHXiQVSRjZHuhGglPh2rSzGX7aguy06uSZi1qW9UQ8U9oyMxLgVkaXf4WEywMazZ8Jd_VTd5QOVgGBCNqKsV1gA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792424347172,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran Army vows full defense of national security and territorial integrity📌 Tehran, IRNA – The deputy commander of the Iranian Army’s Ground Forces stressed that the force will powerfully protect the country’s independence, security, and territorial integrity.Attending a ceremony honoring the fa...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
