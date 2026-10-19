@@ -150930,6 +150930,38 @@
     "media": []
   },
   {
+    "id": 483447211,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-19",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iran arrests mercenaries involved insecurity property",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran arrests 39 mercenaries involved in insecurity, property destruction📌 Tehran, IRNA - The Ministry of Intelligence has announced that 39 key figures and individuals involved in creating insecurity and destroying public and private property in Qazvin Province have been identified and arrested.In a statement on Monday, the ministry said that in operations against mercenaries of the American-Zionist enemy aimed at disrupting public security and destroying public and private property, 39 indi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
