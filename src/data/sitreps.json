@@ -196849,6 +196849,21 @@
     "verified": false
   },
   {
+    "id": 1792373815637,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-12",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media “Israeli” enemy army radio: 12 hours of search operations in the Western Galilee: The “Israeli” army is continuing, as of this hour, to investigate the nature of an unidentified object detected by radar systems yesterday evening at around 20:00…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210611754,
     "type": "airstrike",
     "location": "Yemen",
