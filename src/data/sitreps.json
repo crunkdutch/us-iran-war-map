@@ -200703,6 +200703,26 @@
     "verified": false
   },
   {
+    "id": 1792438807536,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🏴| Abbas Islami, a missing martyr of the Strait of Hormuz.🏴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/lxx43eM5T8VPyxqHvHx3DxZkyw8x-2mM3k5I8WmqtgyP2KusT9Ve7jPe4iKGgYHwyCx8RKfNtMZOwt8h8gNzDVIH8Dal_iP0vVXUgh6DNYc7YYSEQsfOLXTFbh5uyt_TcCjzctpmilItH1gelEGPPdFL1YethxjI6yLuthIn4V3bTXArys_cP_AHXG56sYnW8TJZzlLRYb6a8_RPx17-p3ZgelfGjCMb50mMqxvWVRhOIz4FknBg_tXCuxvV06nVIG6NSKInGNqYFxl3Q3tCi5YEIVJH7s0Av-90cNQ4ptAy7fr_a-4jw2jfRSv5yS_8Og5Kw868EBX9aIGdvI2KmA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
