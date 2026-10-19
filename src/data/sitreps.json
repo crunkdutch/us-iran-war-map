@@ -200312,6 +200312,67 @@
     "verified": false
   },
   {
+    "id": 1792402748777,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | The Yemeni Armed Forces targeted a Saudi-backed mercenary base at Al-Alam Camp in Shabwa province, reportedly inflicting heavy casualties among Saudi officers and soldiers, while several mercenaries were also reportedly killed.🔻 @enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/5a27b3907b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/j2WERMLMXpj1BZEwS21_hK8oF1lXZfoPGfSONIVPHjwhPLbYaCi0Y6KXy7gnA-1vLw_EyEDDhKf0IBBB0qqMqEUWvP2DDO70g9GE7HVBWRwetj6yct3QR_pWgc-scf75eAYMiam8e-jvwHupiuCJ0dwSz_qCes-mk772B4HkEUFfmpCAmYGkMiuE2bpRn5UUh-Mfwvs9bqJmqnl2_-XBgC884pMF1wytqq1Me_PcH5y8AUTUNM-jaZxNLCeOlQlsyx9UlWGOYsgfJa46-6juB_223PFeIF43aAiRFIVn8Dy6vDOyVCYJJl9rxY3OaM-5_PVqg1k-27-8mJ8HC1oaeQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63602",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/j2WERMLMXpj1BZEwS21_hK8oF1lXZfoPGfSONIVPHjwhPLbYaCi0Y6KXy7gnA-1vLw_EyEDDhKf0IBBB0qqMqEUWvP2DDO70g9GE7HVBWRwetj6yct3QR_pWgc-scf75eAYMiam8e-jvwHupiuCJ0dwSz_qCes-mk772B4HkEUFfmpCAmYGkMiuE2bpRn5UUh-Mfwvs9bqJmqnl2_-XBgC884pMF1wytqq1Me_PcH5y8AUTUNM-jaZxNLCeOlQlsyx9UlWGOYsgfJa46-6juB_223PFeIF43aAiRFIVn8Dy6vDOyVCYJJl9rxY3OaM-5_PVqg1k-27-8mJ8HC1oaeQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792402704669,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "In a message, Ayatollah Seyyed Mojtaba Hosseini Khamenei, Leader of the Islamic Revolution, congratulated the management, coaches, and wrestlers of Iran's freestyle wrestling team, as well as the great Iranian nation on their victory at the World Championships in the US.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LIZN6OzCInaPvFvlNA-ahipSq5aTK2ole55BwnWLoGGHak1lpffkl69hYq6NF4LOETpBxKFOmXgOSqhnoEUakkQXNnzfT0GaKiYvpjRyp1NLzCNt4ntCHvA9Q7M7zMicj8py_Vpwi-vXKvgE2Q0tJSVchBjKbtfW6FsqfrnFzvB_P2m4igFP80l6vsA7FKT7Jw4mw9hMQzQQt9419ltz2tsU-lV43mNTJ04qTL0czVDgOVRpZt48PVBqoTC2nuz__UosSwoAKqqAx6hWafmnTSiFtjR0fsaYkL-E586adwQhpbnKeIye-ZnpmEDTUrp5P0SNmz_8h3wyum_qj_izwQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792402752330,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Chinese envoy: Beijing adopts consistent and stable policy toward Tehran📌 Tehran, IRNA — China’s ambassador to Tehran has stressed that Beijing’s policy toward Iran remains consistent and stable, reiterating China’s commitment to developing all-out ties.Addressing the international conference ti...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
