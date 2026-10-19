@@ -200658,6 +200658,51 @@
     "verified": false
   },
   {
+    "id": 1792431559115,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪🇮🇱| An Emirati private jet arriving from Abu Dhabi has landed in Tel Aviv exposing close coordination between the UAE and the IOF.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792431572181,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces:In the context of responding to the brutal Saudi aggression targeting our country and our people, which during the past 48 hours launched more than two hundred airstrikes and missiles targeting civilian objects in the capital Sana'a and the free provinces, leaving dozens o...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792431619252,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ President Pezeshkian meets Russian FM in Tehran📌 Tehran, IRNA –&nbsp;Russian Foreign Minister Sergey Lavrov met and held talks with President of the Islamic Republic of Iran Masoud Pezeshkian in Tehran on Monday evening.The President of the Islamic Republic of Iran held discussions this Monday e...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
