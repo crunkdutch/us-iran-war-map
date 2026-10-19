@@ -240,6 +240,38 @@
     "media": []
   },
   {
+    "id": 483410734,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Strait of Hormuz, Persian Gulf: IRGC Navy Violating tanker hits mine",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 IRGC Navy: Violating oil tanker hits mine in Strait of Hormuz📌 Tehran, IRNA – A tanker violating regulations in the Strait of Hormuz struck a naval mine south of the strategic waterway, triggering an explosion and fire in its engine room, the Islamic Revolution Guards Corps (IRGC) Navy says.In a statement issued early Monday, the IRGC Navy’s public relations office said the tanker was attempting to exit the strait after switching off all its positioning and navigation systems at its point of",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 3,
     "type": "naval",
     "status": "confirmed",
@@ -150632,6 +150664,139 @@
       "other": 0
     },
     "description": "🔻 Araghchi, Iraqi PM hold talks on sidelines of OIC summit in Baghdad📌 Tehran, IRNA — Foreign Minister Abbas Araghchi and Iraqi Prime Minister Ali Falih al-Zaidi have met in Baghdad to discuss bilateral and the latest regional developments.Araghchi and al-Zaidi met on Saturday on the sidelines of the 52nd Session of the Council of Foreign Ministers of the Organization of Islamic Cooperation (OIC) in Baghdad and held talks on bilateral and regional developments.​The Iranian foreign minister str",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483414783,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Enemy_MediaIsraeli mediaNetanyahu unveils security doctrine ...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media:Netanyahu unveils his new security doctrine: preemptive strikes instead of waiting for an attack.– Changing the security doctrine: Shifting from a policy of containment and defense to prevention and attack, following the October 7 attack and the “Renaissance War.”– Preemptive strikes: Preparing to launch surprise military attacks to thwart threats before they turn into an actual danger, rather than merely responding to them.– Preventing the nuclear threat: Making the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483418833,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Enemy_MediaIsrael Hayom Hebrew newspaper Lilach Shoval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: The problem is that there are figures within the political echelon who are perhaps trying to hint that “Israel” might launch a preemptive strike for political considerations, increasing fears of the same Iranian miscalculation. This is despite senior security officials affirming that there is no urgent need to attack Iran or take preemptive action specifically in the next few days leading up to the elections.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/oPePW4Tov0J102TFUhpt-RKedDe7xICu-JPJXwJbCBM7cILA4gwrF8di9VInibx5XYoEn4n92Qo18goLG7sh7NNnqh11TJt0_lo92yR6Kkft_QDIZmSkugaWAER5M3uzAcYrljyk8j9Z6n7iFAaQzwbKNlQPEigY3c0ibWIGBl0W8N3kbdjxL7hS74vGmqJjnlJ5UwMY7k2ikQKVJKB-9ZPXllaJrrIdXEFI7GzO-Z-_-dS34Zlg62hT-f-DXUL_Cjgism7RasFuqQolLMGSgvHnhHLpkQqbFY5EGob1gdBMdku1YWtzL6oM9pQIlsaOJ4Xy-PX8as4p_JfPqtmj0g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483422884,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Lebanon: Statement issued Head Loyalty Resistance Bloc",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by the Head of the Loyalty to the Resistance Bloc, MP Mohammad Raad:Repeated statements and posts are circulating in the media and on social media, issued by responsible entities and other unofficial sources that have fallen into the trap of endorsing and supporting direct negotiations with the Zionist enemy and submitting to its dictates and conditions, which strip Lebanon of its national sovereignty, legitimize its occupation of Lebanon, and turn the Lebanese authorities into ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483426936,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Strait of Hormuz, Bahrain, Iraq: Islamic_RepublicBrigadier General Mohammad Reza Naqdi Senior",
+    "location": "Strait of Hormuz, Bahrain, Iraq",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicBrigadier General Mohammad Reza Naqdi, Senior Adviser to the Commander of the Islamic Revolutionary Guard Corps:– The United States and the Zionist entity have failed to achieve their goals of overthrowing the Iranian regime and partitioning the country, despite 47 years of pressure and conspiracies.– Iran’s missile facilities were not damaged by the intense bombardment, and the country’s strategic stockpiles remained completely intact.– More than 240 enemy aircraft and aerial a",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

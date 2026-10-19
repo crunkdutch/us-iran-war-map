@@ -1309,6 +1309,21 @@
     "verified": false
   },
   {
+    "id": 1792395524371,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-02-28",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 IRGC Navy: Violating oil tanker hits mine in Strait of Hormuz📌 Tehran, IRNA – A tanker violating regulations in the Strait of Hormuz struck a naval mine south of the strategic waterway, triggering an explosion and fire in its engine room, the Islamic Revolution Guards Corps (IRGC) Navy says.In a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -200204,6 +200219,96 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1792395544073,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 ‘It’s too late Mr. President’: Araghchi mocks Macron for shifting blame on French unrest📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has harshly reacted to the recent remarks by French President Emmanuel Macron, pathetically blaming the US war on Iran for the out-of-control unrest in France....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792395514099,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaCorrespondent for the “Israeli” enemy army radio: We can only conclude that the security vision presented by Netanyahu is nothing more than an election promise, which, of course, will only be implemented if Netanyahu is elected prime minister.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792395475254,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: The problem is that there are figures within the political echelon who are perhaps trying to hint that “Israel” might launch a preemptive strike for political considerations, increasing fears of the same Iranian miscalculation. This is des...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792395480121,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: It is important to emphasize that the “Israeli” army command stresses that the Iranian threat has by no means ended, and that the Chief of Staff believes a return to fighting will be necessary at some point. However, when senior army offic...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792395456946,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYashar Party leader and former “Israeli” Chief of Staff Gadi Eisenkot:– Nine days before the elections, three years after the most serious failure and disaster in “Israel’s” history, and with all fronts ablaze, Netanyahu has decided to reveal to the public what he calls his “security doc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792395530504,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYesh Atid Party leader and “Israeli” opposition leader Yair Lapid:Even by Netanyahu’s current standards, marked by exhaustion and detachment from reality, this document appears superficial and bizarre, as though it were written using a free version of an AI chatbot. It is difficult to re...",
+    "media": [],
     "verified": false
   },
   {
