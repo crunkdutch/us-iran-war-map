@@ -187792,6 +187792,21 @@
     "verified": false
   },
   {
+    "id": 1792409937560,
+    "type": "missile",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-09-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Dawn of a new era in naval battle: What does the Iranian style bring?📌 For decades, the American aircraft carrier was the instrument through which Washington imposed its will upon nations. In the 2026 aggression against Iran, that instrument met its limit.Iranian anti-ship missiles struck the Am...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1790682256908,
     "type": "rocket",
     "location": "Lebanon",
@@ -200369,6 +200384,81 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Chinese envoy: Beijing adopts consistent and stable policy toward Tehran📌 Tehran, IRNA — China’s ambassador to Tehran has stressed that Beijing’s policy toward Iran remains consistent and stable, reiterating China’s commitment to developing all-out ties.Addressing the international conference ti...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792409921509,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media:With Allah’s help, the Saudi enemy’s forces gathered at Al-Alam Camp, east of Al-Jawf, were targeted, leaving dozens killed and wounded.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792409988031,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 19, 2026🇾🇪 Yemen• Yemeni forces reportedly launched missiles toward Saudi military sites amid mobilization of Saudi-backed militias.• Explosions were reported in Dammam, Saudi Arabia, amid reports of an AnsarAllah attack.• Reports said a Yemeni drone attack targete...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792409965955,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-19",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴| Hourly Updates (-ve): October 19, 2026🇾🇪 Yemen / Saada• Saudi warplanes reportedly carried out an airstrike on the Bani Dhahl area in the border district of Al-Dhaher.• A civilian was reportedly injured by Saudi artillery shelling targeting residential villages in the border district of Razih....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792409915959,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iranian nation demonstrated resolve and capacity to stand firm against enemies: Government spox📌 Tehran, IRNA – Government spokesperson, Fatemeh Mohajerani, pointing to Iran’s steadfastness against the enemies during the imposed wars, says the Sacred Defense is a stark reminder of the nation’s s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792409914533,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran warns of humanitarian consequences of sanctions📌 Tehran, IRNA — Iran’s High Council for Human Rights has condemned economic sanctions and restrictions that disrupt people’s access to medicines and medical treatment, calling on the international community to take immediate action to protect ...",
     "media": [],
     "verified": false
   },

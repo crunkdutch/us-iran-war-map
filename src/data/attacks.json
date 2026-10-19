@@ -137577,6 +137577,38 @@
     "media": []
   },
   {
+    "id": 483443154,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Taba: Dawn naval battle What does Iranian",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Dawn of a new era in naval battle: What does the Iranian style bring?📌 For decades, the American aircraft carrier was the instrument through which Washington imposed its will upon nations. In the 2026 aggression against Iran, that instrument met its limit.Iranian anti-ship missiles struck the American fleet and forced it into withdrawal — which is precisely what it had come to prevent.​As the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Khamenei, wrote on September 28, 2026, “I",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 481780304,
     "type": "naval",
     "status": "confirmed",
@@ -150797,6 +150829,102 @@
       "other": 0
     },
     "description": "#Islamic_RepublicBrigadier General Mohammad Reza Naqdi, Senior Adviser to the Commander of the Islamic Revolutionary Guard Corps:– The United States and the Zionist entity have failed to achieve their goals of overthrowing the Iranian regime and partitioning the country, despite 47 years of pressure and conspiracies.– Iran’s missile facilities were not damaged by the intense bombardment, and the country’s strategic stockpiles remained completely intact.– More than 240 enemy aircraft and aerial a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483430989,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-19",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Tehran, Jeddah, Strait of Hormuz: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Tehran, Jeddah, Strait of Hormuz, Yemen, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 19, 2026🇾🇪 Yemen• Yemeni forces reportedly launched missiles toward Saudi military sites amid mobilization of Saudi-backed militias.• Explosions were reported in Dammam, Saudi Arabia, amid reports of an AnsarAllah attack.• Reports said a Yemeni drone attack targeted Jeddah airport, with explosions reported in the city and air traffic temporarily halted at King Abdulaziz International Airport.• AnsarAllah reportedly made further advances in western Taizz, captur",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483435043,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-19",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Lebanon, Yemen, Israel: Hourly Updates October 2026 Yemen Saada",
+    "location": "Lebanon, Yemen, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴| Hourly Updates (-ve): October 19, 2026🇾🇪 Yemen / Saada• Saudi warplanes reportedly carried out an airstrike on the Bani Dhahl area in the border district of Al-Dhaher.• A civilian was reportedly injured by Saudi artillery shelling targeting residential villages in the border district of Razih.• Large official and popular crowds reportedly participated in the funeral ceremonies for the victims of the Saudi attack on the family of citizen Ali Al-Qahoum.• A large popular gathering was held in",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483439098,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-19",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran: Iran warns humanitarian consequences sanctions Tehran",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran warns of humanitarian consequences of sanctions📌 Tehran, IRNA — Iran’s High Council for Human Rights has condemned economic sanctions and restrictions that disrupt people’s access to medicines and medical treatment, calling on the international community to take immediate action to protect Iranian patients and vulnerable groups.Iran’s High Council for Human Rights on Monday condemned sanctions and economic restrictions against Iran, warning of their humanitarian consequences for patient",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
