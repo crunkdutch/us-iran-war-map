@@ -151242,6 +151242,38 @@
     ]
   },
   {
+    "id": 483508186,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-19",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni ballistic missile drone attacks have",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni ballistic missile and drone attacks have been ongoing for the past two hours and are still continuing.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483475638,
     "type": "drone",
     "status": "confirmed",

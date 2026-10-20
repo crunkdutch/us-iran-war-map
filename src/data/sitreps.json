@@ -200875,6 +200875,51 @@
     "verified": false
   },
   {
+    "id": 1792496599217,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-19",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 IRGC NAVYTwo offending oil tankers attempting to defy PGSA regulations, transiting an unsafe route through the Strait of Hormuz were set ablaze and stopped overnight. 🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792496627353,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni ballistic missile and drone attacks have been ongoing for the past two hours and are still continuing.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792496619995,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | AnsarAllah has launched a large-scale attack in Taiz, with additional footage showing clashes between Ansar Allah and PLC forces at Jabal Saber, the last mountainous area used by PLC forces to defend the city. Meanwhile, following Yemen’s warning about security risks in the Saudi capit...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792474951163,
     "type": "drone",
     "location": "Bandar Abbas",
@@ -201014,6 +201059,41 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 Attacks on Iran undermined international legal order: VP📌 Tehran, IRNA — Vice President Mohammad Reza Aref says that the 40-day military aggression against Iran was not merely an attack on the country, but a direct assault on the foundations of the international legal order and the principle of ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792496627725,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Field Marshal Syed Asim Munir Ahmed Shah, the Commander of the Pakistan Army, heading a delegation of Pakistani officials arrived in Tehran on Tuesday afternoon.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/owj2C17qP52qO8raMiWgyDXGO2KpDh0vE4wWKWCxMy5fjkNCaQ3RKFZrTswXTdXQAQX4t-5_oALZqfSYOyd-Pz-QlxwJS7xPW5QulYZb9wmS20pd5KnrbpSu8pAqSqgG8atDwii04h9FTZ-brZVI16FnY-3Gdd7rym-Cixpnej5JImW_q7i9cCT-0Ly6fYVt8fnUN8DgeiwH-6zAwX-4jWjZ30_6w206oIM4XwEeB6V1sKGedbNTRNkVr9AEEf60Of3H45yCxXCrX4NFDVWRJhzEGniwWOLTvx9LqmTFvDa0Og4dSo4N_O611iNQPajoSRA28i6Bj3AnFdKkSqkKBw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792496623201,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Pakistani Army Chief arrives in Tehran📌 Tehran, IRNA —&nbsp;Pakistani Army Chief Syed Asim Munir has arrived in Tehran for an official visit.Heading a high-ranking delegation, the Chief of Army Staff of Pakistan arrived in Tehran on Tuesday to meet and hold discussions with Iranian officials.​Bi...",
     "media": [],
     "verified": false
   },
