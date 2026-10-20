@@ -151688,6 +151688,70 @@
     ]
   },
   {
+    "id": 483532639,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: IRGCWe possess technologies that enable target",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGCWe possess technologies that enable us to target American bases outside the region.The vital internet cables in the Strait of Hormuz will not be safe if our infrastructure is targeted. The air defense system they claimed was ‘destroyed’ is still intercepting and shooting down one of the most expensive and important American reconnaissance and combat drones. If the enemy makes another mistake, Iran’s response this time will be faster, more precise, and more costly for them.🔻@enemywatc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483536718,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemen Highquality footage targeting officers soldiers",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen High-quality footage of targeting officers, soldiers, and vehicles of the Saudi enemy army on the border fronts of Jizan and Aseer using Rajoum drones – October 20, 2026.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

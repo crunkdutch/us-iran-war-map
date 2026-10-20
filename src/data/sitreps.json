@@ -201204,6 +201204,36 @@
     "verified": false
   },
   {
+    "id": 1792518281606,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇶🇦/ 🇮🇷 | Breaking — A Qatari delegation is now arriving in Tehran.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792518252108,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-20",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen High-quality footage of targeting officers, soldiers, and vehicles of the Saudi enemy army on the border fronts of Jizan and Aseer using Rajoum drones – October 20, 2026.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
