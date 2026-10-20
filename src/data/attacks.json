@@ -151306,6 +151306,70 @@
     "media": []
   },
   {
+    "id": 483491904,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Iran warns consequences Israeli unlawful threats",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran warns of consequences of US, Israeli ‘unlawful threats’📌 New York, IRNA – Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, has warned the UN secretary-general and the Security Council about US and Israeli threats of further aggression against Iran.In a letter to the UN Secretary-General and the Security Council on Monday, Gholamhossein&nbsp;Darzi called for urgent action against US and Israeli threats against Iran, warning of further violat",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483495973,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Minab, Israel: Trumps threat will break Iranian nations",
+    "location": "Minab, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Trump’s new threat will not break Iranian nation’s resolve: Ambassador📌 Moscow, IRNA – Iran’s ambassador to the Russian Federation, Kazem Jalali, referring to the US President Donald Trump’s threat of a renewed aggression against the Islamic Republic — specifically the potential use of the so-called “mother of all bombs” — says such threats will not break the resolve of the Iranian nation.Jalali made the remarks during a specialized event titled “Religion and Power in Iran,” held at the Inst",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
