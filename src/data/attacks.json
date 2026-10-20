@@ -151613,6 +151613,81 @@
     "media": []
   },
   {
+    "id": 483524484,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: Yemen attacking central part Riyadh with",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Yemen is attacking the central part of Riyadh with missiles and drones.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483528561,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Strait of Hormuz: Violating Tanker Catches Fire Southern Corridor",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Violating Tanker Catches Fire in the Southern Corridor of the Strait of Hormuz:The Public Relations Office of the Iranian Army’s Navy stated that monitoring teams tracking maritime activity in the eastern Strait of Hormuz identified a tanker that had caught fire while operating in a prohibited area.According to the statement, the tanker had ignored previous warnings, switched off its tracking systems, and attempted to transit through the prohibited area in the southern corridor of the Str",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fc5898d2fa.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/PeOR9R4tz4spMFDVORsb6IQbPRHl39W9mMF_niyB5CYbCkakLInhPxaK8IXiDfmuMVcDUyp-rCpIvtFBwE4QbfCsRyN8FRcNElaG1PW8KTR6Cvs0FNGTs9I62nRvcGpMkHrFm8IzEX0FCYm3jTyWK5H37HCwilSaXMslGD5whl9BqjxoevAhyCpD78VTJ0ypdQEXlePNzVYbWv1qejQQCkIR7RxB2kEy55vFNEJ04f5ICF-2wP9OopJN7Sllwm76JVmV3esYD0tgutNciHaS6REPjSr_T23L464y0f_96zKS_zCq2S-EKLsERH3IMAYNenmzUwJiodwOZXpfK0BOpw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63657",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/PeOR9R4tz4spMFDVORsb6IQbPRHl39W9mMF_niyB5CYbCkakLInhPxaK8IXiDfmuMVcDUyp-rCpIvtFBwE4QbfCsRyN8FRcNElaG1PW8KTR6Cvs0FNGTs9I62nRvcGpMkHrFm8IzEX0FCYm3jTyWK5H37HCwilSaXMslGD5whl9BqjxoevAhyCpD78VTJ0ypdQEXlePNzVYbWv1qejQQCkIR7RxB2kEy55vFNEJ04f5ICF-2wP9OopJN7Sllwm76JVmV3esYD0tgutNciHaS6REPjSr_T23L464y0f_96zKS_zCq2S-EKLsERH3IMAYNenmzUwJiodwOZXpfK0BOpw"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

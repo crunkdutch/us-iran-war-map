@@ -201159,6 +201159,51 @@
     "verified": false
   },
   {
+    "id": 1792510978793,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌ 🇸🇦 | Yemen is attacking the central part of Riyadh with missiles and drones.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792511049917,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾🇮🇱| The IOF is expanding its presence, fortifying its positions, and establishing permanent military bases, helipads, and communication towers deeper inside occupied Syrian territory.🏴‍☠️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792511029676,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iran VP wraps up Tajikistan visit, leaves for Tehran📌 Tehran, IRNA – Iran’s First Vice President Mohammad Reza Aref wrapped up his two-day visit to Tajikistan, where he attended the SCO prime ministers’ summit, and left Dushanbe for Tehran on Tuesday evening.During the visit, besides attending a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
