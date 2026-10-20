@@ -151821,6 +151821,38 @@
     "media": []
   },
   {
+    "id": 483548961,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Israel: Iranian general warns harsher retaliation resumes",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Top Iranian general warns of harsher retaliation if war resumes📌 Tehran, IRNA – Iran’s top military commander has warned that any renewed aggression against the country would be met with a more forceful response.Major General Ali Abdollahi, Chief of the General Staff of Iran’s armed forces and Commander of the Khatam al-Anbiya Central Headquarters, highlighted the expansion of the Army’s drone manufacturing capabilities during a Tuesday visit to military production facilities.​Abdollahi prai",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
