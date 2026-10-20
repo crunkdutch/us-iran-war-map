@@ -151752,6 +151752,75 @@
     "media": []
   },
   {
+    "id": 483540798,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed ForcesOver past hours Saudi",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces:Over the past 24 hours, Saudi warplanes carried out 93 airstrikes and missile attacks targeting civilian sites in the governorates of Al-Jawf, Taiz, Saada, Marib, Hajjah, Lahij, Amran, and Ibb.The attacks were conducted using F-15 and Typhoon aircraft that took off from enemy bases in Khamis Mushait, Taif, Al-Kharj, and Sharurah Airport, resulting in civilian deaths and injuries.This brings the total number of Saudi aggression airstrikes and missile attacks against our",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ci9V-reZd_my7Ypcvg4lbogYpZyuVMFZLHgO-bAUke_2FWUKJTaCZohbZsVFS7hHUjZXI1wgH0BKf7WLgTlIMV0c0PDwAiJqWpUBxdAFneb-REsVlAm6xOwG-9LlJQTI3YxIpzdmcazc0PmpssLHWT_ItNAaTUklAlX5J9WwNF40xUOJ4g7OdK9xewkkloZW2XZSAkdr6jB3JoiIs9VF8C2NVJSk9QEiUsoq7w5i4Zq8kOG0BQjL0xU93wjOUaZdx-sXwwp3cRoslFLY9xFLcuv3Mj2pevu2XHXEr2VyzUsLx0B_Zj8DUCi2Rj-ySYyyOMp2MeF7loAaDTtTnpwSyQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483544879,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Isfahan: Breaking explosion been reported Khomeini Shahr",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — An explosion has been reported in Khomeini Shahr, Isfahan Province. The cause remains unknown, and the possibility of a controlled explosion has not been ruled out.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
