@@ -200723,6 +200723,87 @@
     "verified": false
   },
   {
+    "id": 1792474895769,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-19",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:The 54th MQ-9 drone of the American terrorist army was intercepted and destroyed by fire from the advanced modern defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network, at dawn today in the skies of the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792474893150,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— The reality is the reality. When rioters inside Iran were burning down public property and targeting civilian assets, including ambulances, buses, schools, places of worship, and food markets, the very same regimes that supported them are now finding themselves caught in a similar fire. At the tim...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792474935439,
+    "type": "missile",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎞Dawn of a new era in naval battle: What does the Iranian style bring?▪️For decades, American aircraft carriers were the symbol of Washington's military power and the instrument for imposing its will upon nations. But in the 2026 aggression against the Islamic Republic of Iran, something else happe...",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/41063",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/emS7Fv3bVPsnpuCmymkTTiW5Audl7UK2DVXAlGdkcOrLN8EUy_inF137Ez2eKQdttX6W00stG5TxKZV2Y6pLJFSOdnA1iC7uVlHxHPFeg6uakUBSHT0rWVRK-sD_GJpx1QK4OBcYSZHgRzVgJWMIrW_4ewtjxweM7WxrjRXSjg-UOvs470iLhf7kcVpaFnirXp1wgGnc3U4YqCW-3IKrNQLpe40oSfO_EoY2DSTsWP60-w398K9DXZVQXKz_ZLYEeWG4xnCXqh3uWV9ZfwA4rdVkJez1PlxwDWb7tZzglIj5PYEq5NzvhfoY6tL9IST8xtl24_4c7sS87bwxDsGiEQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792474951163,
+    "type": "drone",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-20",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 20, 2026🇮🇷 Iran• Iranian security forces reportedly raided a suspected terrorist cell in Khash, Sistan and Baluchestan.• An Iranian ballistic missile launch was reportedly detected from Urmia as part of Islamic Revolutionary Guard Corps (IRGC) missile drills.• Clas...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792474954137,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-20",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Hourly Updates (-ve): October 20, 2026🇾🇪 Yemen• Saudi Arabia reportedly carried out an airstrike targeting a telecommunications network in the Bani Mu’in area of the Razih border district, west of Saada.• A civilian was reportedly killed and another injured by Saudi military fire in the Shada bo...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

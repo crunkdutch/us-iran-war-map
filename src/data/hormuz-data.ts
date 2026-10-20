@@ -47,7 +47,8 @@ const data: HormuzEntry[] = [
   { "date": "2026-07-23", "daily": 7, "label": "12 ships prevented", "note": "CENTCOM interdiction ops" },
   { "date": "2026-07-24", "daily": 6, "label": "LNG tanker disabled", "note": "US disables Iranian tanker in Sea of Oman" },
   { "date": "2026-09-06", "daily": 5, "label": "Single digits", "note": "🔔 | Updates | September 6, 2026🇮🇷 IranThe IRGC Ground Force announced that it eliminated two terrorists in Sistan and" },
-  { "date": "2026-10-17", "daily": 100, "label": "IMO data", "note": "International Maritime Organization" }
+  { "date": "2026-10-17", "daily": 100, "label": "IMO data", "note": "International Maritime Organization" },
+  { "date": "2026-10-20", "daily": 122, "label": "~122/day", "note": "🟡 Hourly Updates (+ve): October 20, 2026🇮🇷 Iran• Iranian security forces reportedly raided a suspected terrorist cell" }
 ]
 
 export default data

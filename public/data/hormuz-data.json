@@ -232,5 +232,11 @@
     "daily": 100,
     "label": "IMO data",
     "note": "International Maritime Organization"
+  },
+  {
+    "date": "2026-10-20",
+    "daily": 122,
+    "label": "~122/day",
+    "note": "🟡 Hourly Updates (+ve): October 20, 2026🇮🇷 Iran• Iranian security forces reportedly raided a suspected terrorist cell"
   }
 ]
