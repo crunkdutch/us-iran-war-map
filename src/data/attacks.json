@@ -151370,6 +151370,75 @@
     "media": []
   },
   {
+    "id": 483500043,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Minab, Israel: Access medicine food water must affected",
+    "location": "Tehran, Minab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Access to medicine, food, water must not be affected by political disputes: VP📌 Tehran, IRNA — Vice President Mohammad Reza Aref has called on the Shanghai Cooperation Organization (SCO) member states to ensure that access to medicine, water, food, and healthcare services is not affected by political disputes and economic measures.Addressing a meeting of SCO prime ministers in Tajikistan on Tuesday, Aref said humanitarian considerations must be strengthened in confronting economic warfare, a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483504114,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Israel: Attacks Iran undermined international legal order",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Attacks on Iran undermined international legal order: VP📌 Tehran, IRNA — Vice President Mohammad Reza Aref says that the 40-day military aggression against Iran was not merely an attack on the country, but a direct assault on the foundations of the international legal order and the principle of sovereign equality of states.Speaking at a meeting of the Shanghai Cooperation Organization (SCO) Council of Heads of Government in Dushanbe, Tajikistan, on Tuesday, Aref said the international system",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Yeq6J9Y53F_HQQURJmhebHDalUhQGZ6S6rmmkUyZoS4l5911hTvEc9VdXdGGnU9BXn69wXhbEyMKm-3Hrmw5fVJQy-wNq4Urq3ygbvz8Lg7IUPh0AB4SFWizSteeNFPGzGPDA-Y5whq7exsI2INLkhnAKXFPz0Mar6g3ZURD4DXauDrnTmipgr1KJQd0Vl-m7meT-hvUzAsjCMHLyb70bJF3Kl2EeeYe6JLMNuNiBcErB1GNm5Rp3VKsLEevRze8vbDsvcYnJTLVxcxV6oRZh5gXYWh-6f7j-orDu3Ugs1m5-lOKYwYL4zZgTfxFVByrUbnhMH2Ke9Ln8kjbu7FC_A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

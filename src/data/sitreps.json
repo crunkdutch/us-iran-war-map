@@ -200492,6 +200492,21 @@
     "verified": false
   },
   {
+    "id": 1792489398352,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 14 correspondent: The “Israeli” army is raising its alert level to the highest level amid fears of attempted Iranian attacks and ahead of the elections, while the ban on leaving “Israeli” army bases remains in place and forces are being reinforced starting next Thursday.#M...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792409988031,
     "type": "drone",
     "location": "Tehran",
@@ -200830,6 +200845,36 @@
     "verified": false
   },
   {
+    "id": 1792489416300,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-19",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Alert raised in Riyadh, Saudi Arabia.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792489323109,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Asim Munir has landed in Tehran. The arrival of this deeply unwelcome figure raises serious questions. Munir is an American stooge, not a mediator.He arrives just as the treacherous Foreign Ministry pushes its fraudulent negotiation agenda, an approach that has repeatedly failed and will fail agai...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792474951163,
     "type": "drone",
     "location": "Bandar Abbas",
@@ -200891,6 +200936,84 @@
     "source": "CENTCOM",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 Iran warns of consequences of US, Israeli ‘unlawful threats’📌 New York, IRNA – Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, has warned the UN secretary-general and the Security Council about US and Israeli threats of further aggression against I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792489368242,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Access to medicine, food, water must not be affected by political disputes: VP📌 Tehran, IRNA — Vice President Mohammad Reza Aref has called on the Shanghai Cooperation Organization (SCO) member states to ensure that access to medicine, water, food, and healthcare services is not affected by poli...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792489365133,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Artists gathered at the Dar al-Dhikr prayer hall in the holy shrine of Imam Reza (PBUH) in Mashhad on Tuesday morning and paid tribute to the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/h3cwV1esqP9vVEDYgBVY7TiIF7UNj3MmWAC-vwJhf4j3ozyCy0ApIqEapxfQc4DB7JAbqA1RblAuQFcsBV4HDKwuLD9cnNdPfi5UX_b3Z3rg1WPoH3_mAC3ce7kKbaiKXGJmopta0Tse0iZ93zyTYb5tZP58NNdDE4r2QepZ1ILfGwBlmgyxwCTa5mrbrbND82Pux4VkRVUrc26yYw9R3_ZA10f9a9ayKpENjQZ7eTUUJZqwMmmG8GzoveCsZqcQM3RCHn8jI0XY7ZAe8c5_IKDdh6BSWjHDlCteR8-H1zCnBDPNuAY0LFjwi7_-yBF2VDlubn9_qUZTIGxiadzVww.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CFwBvdmANua6loUbSQc73iIeJ5eQ7lqWc646ZI2GdWucAwO_Djk6FuqTUrD_P06JnB3e8dOEqBEieyb2ykrVZW7qjRE_kg08mgiSmKTQe03waio27LbpmwjKdpuMLWhaF6TRt2VvSX5sR8GaYZVsZhgCY8VGV-dYbKyTermli6dT3FadCOtw3b9pWo3MLR9uwk9ilzCEPwMZ78SWiD3oaaAwXr3jYEqA0vfEcU8RIxyGYortBeuVwDBnPWALH_XksobTvFrMsdQ4cJgsdEi1KguGL215iwqArkHnIcOUpeFC3EccJK5-EACbRPNSReT78EgTSnn93ZeLXmYkQ1tptQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/PEC-dNf6AZt5bQgVHVBSxOg5RhYE7_tToTvWmvMRkhCcxL5Ps4SGYcoYMw-uRPEyaDs6DglbstPg6s1sFPqh168Bmnwq9K4IR5MxHBSizpxpeG3Bz4yIsUXz82Q-3UFef4maKz7nJ3zV1VBDReFkqSS2iehHPYI5K8HOuQK0Hg8Fp7g3DnZ2hT7n4bl4VA5nkP6_1lSdj_G6-Vzn66HHS2_egPf-uUNi7YVY3hpg5OhATWwMtlctIhPhUhp2SzklSd-dkyv_eU5YMo19YqyrJtOWBRMF4La2YiWT2SRMczF2p9B4UjSMAHFUsRvLI-NHdzF7PNfG_cOGXkMuwoAtLQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tokJJmwSxlM31Uf5njqFCUHTI4GEGFLypsRdcREi7o-kPuxrIjb7GDsbbIL6Pdbzg4yzHG-C4WglpBDGhiXqwBX5CUwSq81c9ABE3yNPNPtyaYCASK9FFUZ3LrCi2SqcIR4yhAQrS9cRXHU64GS3hUh29KxmlBWlPkFaCFL1QhswcGUjg3FoeGP_-YlYYYUdhyXgKbz8374wxgqPzgkf4GrzR2rwYh-Cl3pALJoJQim2XCvQEepka54vILvroNxhTq-L31EJ9-t93IitxhpsHyDno9NQdujdF0M2WspRklwUGC6j0Buf4eX4I8Wx43tPUm3T0YG_WWMHFuSS6Uajdw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bNnip67Sixg483YGeYJdFcMOXs8u2_vc69fPKL1Ap1ZVxpa8Z9tsjsA9vO6PBK80lHrHgkKXPmI80scASOdRhjju87lUXdS6tokzSba-EOUFKHLeevoU24HfhtLeV9ROGcuMT87npBOcvf-tEHeVtBgcsEcZ-iEf4igGZp2YT9m7RHZDTMoFo-pf1yIKCt5cvIU052kFqmiBcGDclbL7JwVLjqTr5CCC1A3tl4z9gIQCr-qzGWryahAmlwYVBjc4sKiZhpHb3SH2pU_qOUqvJMgix-J-5KOjDovam4NkWyu6mATobG8M-ZfgZpQlm1W3PG-4pehXQ0Q15LCPzuNWHg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/rnz6ZJcxnSWnZPJbtLvknVNC758OfapjldabrzOF1nrl82oGqPGUaaTOofNHCZdcFyuUmN1PvDtItRF9kn9GG2nUnQAUsDRNeqTbk8ulSNR2jSnAWOyTBuXqQmvFGt6DsJNtzk4yCrGxyw71TofMClqEt_Jv0aMxFjjzV4eNKSyTb3D_DsZmk7_7OuelkYNKCLS43IER-qSqwcRxkEbQn8s37z6N9p4aZ7B32r1NKZ4kICyLYUcoiDRKpyPRqjhlvGO42RoG29rEt3oTq7OUdTFXfSvDu3qbsTs-gbnhW16WkOtc7cpfpITCDQA8zJP0ojHXGjYtHazJfpGkTloFHQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Wk1V6kFOFai3dlaylEd036afGSrik-XvFlgczw3903rEl9MrANkQyCORDgkYfMOyC6ph-ElL-eAaRhEDVEJLEPIeMPwqyvm72XAO3LzuTO2ZGaj0qzE4UvN4e0egSPaEUyzV1t5MppU0hJcWJTX-l7VaX6Qu6dzPoT8hYDd4f1rfdpV1jNz3hqGz7QcMZ--Iv-EJ3UCifPkv9SoNZCWTItYNnLzh4K5t7MzsT6uj7arc5I53HwWlGqfYDJLo79Ui7Eybnf65-KHSeny4Wemzncm3ZUsAMGLxrk6krebytjhdtpYZcWTgj9eSRt1Khr4QHJFJPVtBh4aNWKYW8Rqpsw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/E2xE9ixIi0QQvkuf46VBlDS4e-CVJR0NNqP9LgHCEj9jqnT1_9MZ5K9M5oqkTtOuU44eDRipPLuv2mJ6VAkLKkdorE3F_LlZsWMAPWWlrBDdEzBYTvP9d3En7RR-Be2hJQxFUArAlBgEKzNbLIRcN93dKXrRuwfZ8pMFvfI2ekYkhfD7gB8unhEUEhvuwu2_sYG_PBYvnxsQ3gLM3wTsiC05Ky01DvczJatPi0rPgu59nXtUaQ6X73ZdWLZoS9aHeaIOmwiIgZSArcS8wzrWS-tG4COrZQkA08W-tdFjLJK76qYHL79yoKZDw00CjBjli7DOY_55_BkTXoMxLQQ7bQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792489376625,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Attacks on Iran undermined international legal order: VP📌 Tehran, IRNA — Vice President Mohammad Reza Aref says that the 40-day military aggression against Iran was not merely an attack on the country, but a direct assault on the foundations of the international legal order and the principle of ...",
     "media": [],
     "verified": false
   },
