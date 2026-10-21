@@ -152146,6 +152146,75 @@
     "media": []
   },
   {
+    "id": 483589836,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen, Oman, Saudi Arabia: Hourly Updates October 2026 Iran Iranian",
+    "location": "Yemen, Oman, Saudi Arabia, Iraq",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 21, 2026🇮🇷 Iran• Iranian police reported that a suspected terrorist was killed during a confrontation involving two suspicious vehicles near the Sarhad petrol station in Khash, Sistan and Baluchestan Province. Two other suspects reportedly fled, prompting a search operation. Police said both vehicles were seized and a Kalashnikov rifle, four magazines, and 77 rounds of ammunition were recovered. #BorderThreats• A spokesperson for Iran’s Islamic Revolutionary Gu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483593929,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemen Footage targeting Saudi enemys forces",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen Footage of targeting the Saudi enemy’s forces gathered east of Ragwan in Marib Governorate, and the destruction and burning of several of their vehicles – October 21, 2026.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/vtdsnTkuDyHhccBxQ_O7hmw7fekAvGoFn2ZnDB5PlAW2amLBoIPueCFFTkdxGt3dTXOLLkEe_0nH8di6dHon-4plcSl0gSgTxxYSHCzOaiwgJokmONB3bMta9RHpMI_rVv-vB955Nr_vghw-v9ZGHb2-LJ_q-x96xQC4To6SJLsN9p3V5CCICliZwGeIvvMFPS7KF-3RIVV85PfjO9o-wZtiVFG3JMZArIpqRSf2oUYPU65Ur1gxJRXGokKEzgluNlzkd5umspnR-myc33UPKemUKkqLirvz0Bj5AWzmEzXvZT7DTzk_ZliWofiE0edyq-ohd3fQ4eRgXgMBkfIegw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

@@ -201456,6 +201456,36 @@
     "verified": false
   },
   {
+    "id": 1792590424580,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 21, 2026🇮🇷 Iran• Iranian police reported that a suspected terrorist was killed during a confrontation involving two suspicious vehicles near the Sarhad petrol station in Khash, Sistan and Baluchestan Province. Two other suspects reportedly fled, prompting a search ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792590443494,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-21",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Footage of targeting the Saudi enemy’s forces gathered east of Ragwan in Marib Governorate, and the destruction and burning of several of their vehicles – October 21, 2026.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
