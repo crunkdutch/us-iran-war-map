@@ -152258,6 +152258,70 @@
     ]
   },
   {
+    "id": 483602118,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Israel, Gaza Strip: Palestinian Resistance Committees commander killed Israeli",
+    "location": "Tehran, Israel, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis📌 Tehran, IRNA – Ramadan Mohammad Diab, a senior commander of the Palestinian Resistance Committees, has been killed in an Israeli attack on Khan Younis in the southern Gaza Strip, the group said.Diab, 63, also known as Abu Shahadeh and Abu Mohammad, was a member of the group’s central command, the Shahab news agency reported on Wednesday, citing a statement by the Palestinian Resistance Committees.​The group ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483606214,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Kerman, Ahvaz, Khuzestan: Iran Iraq increase tourist exchanges million",
+    "location": "Kerman, Ahvaz, Khuzestan, Kermanshah, Iraq",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran and Iraq aim to increase tourist exchanges to 10 million, minister says📌 Ahvaz, IRNA – Iran and Iraq have the potential to increase annual tourist exchanges to 10 million people, Tourism Minister Reza Salehi-Amiri said on Wednesday, stressing the need for new planning and stronger cross-border infrastructure to achieve the target.Speaking upon arrival in southwestern province of Khuzestan, Salehi Amiri identified Khuzestan as a key focus of efforts to expand tourism ties between the nei",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
