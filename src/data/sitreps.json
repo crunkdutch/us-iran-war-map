@@ -201355,6 +201355,62 @@
     "verified": false
   },
   {
+    "id": 1792575958917,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 ❌ 🇾🇪 | Two explosions were reportedly heard in the Yemeni capital, Sanaa. Three airstrikes were reportedly carried out on Al-Mudhaffar district in southeastern Taiz.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792576041233,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇳 ❓| A groundbreaking documentary with English subtitles exposes the alliance between Narendra Modi and his close associate Gautam Adani. Adani, a close ally of israel, has gained control over India’s natural and other resources, media, and even water through his symbiotic relationship with Modi....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792576005120,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "The Tehran Symphony Orchestra Took the Stage in Italian Style.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/912286f0bf.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bITuSZTmSCXMIuRD9iv9z75NrWVj2-wfIZMw7frMqMMnJM6VcwTfU_dTz_HE4KfE-pH0BfH4gYPacbVvpLb0Te2FtQeLs3yKrRAwHSVKW7BioW8_AvutbAYDFqNGhwvS-sNf0iYFcA8p51OhPhoc-lIX5pPzaVEBW7OE8ZC4-dN6_rZnxxnYa_8WPm5lXclku31-MkMQbjn5-IrIIwVdRsov43fClP2ppbjqwOZcN5cNlYS1qzIwSsx-qArA6i5f-bKUMC0kwO5cVCTymmJybyi56-Hv-4MiJDIGVIDruxa9f-fP7PVpehDwVEYOwBytqHv9gOena5eX3xfui5Ej7w"
+      },
+      {
+        "url": "https://t.me/Irna_en/41127",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bITuSZTmSCXMIuRD9iv9z75NrWVj2-wfIZMw7frMqMMnJM6VcwTfU_dTz_HE4KfE-pH0BfH4gYPacbVvpLb0Te2FtQeLs3yKrRAwHSVKW7BioW8_AvutbAYDFqNGhwvS-sNf0iYFcA8p51OhPhoc-lIX5pPzaVEBW7OE8ZC4-dN6_rZnxxnYa_8WPm5lXclku31-MkMQbjn5-IrIIwVdRsov43fClP2ppbjqwOZcN5cNlYS1qzIwSsx-qArA6i5f-bKUMC0kwO5cVCTymmJybyi56-Hv-4MiJDIGVIDruxa9f-fP7PVpehDwVEYOwBytqHv9gOena5eX3xfui5Ej7w"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792561547529,
     "type": "drone",
     "location": "Tehran",
