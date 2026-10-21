@@ -152215,6 +152215,49 @@
     ]
   },
   {
+    "id": 483598023,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: burning Imam Khameneis will raises serious",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The burning of Imam Ali Khamenei’s will raises serious questions&#33;&#33;In a shocking revelation, a member of the office of Leader Saleh Meerzai has reportedly stated that the will of the martyred Imam Ali Khamenei was burned in his house during the attack. \"Now, from 9:30 in the morning until the call to prayer at sunset, Imam Khamenei was not at home, and the children couldn't get close to his books and belongings there. It took 8 hours for us to be able to put out the fire there. The will",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/912286f0bf.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bITuSZTmSCXMIuRD9iv9z75NrWVj2-wfIZMw7frMqMMnJM6VcwTfU_dTz_HE4KfE-pH0BfH4gYPacbVvpLb0Te2FtQeLs3yKrRAwHSVKW7BioW8_AvutbAYDFqNGhwvS-sNf0iYFcA8p51OhPhoc-lIX5pPzaVEBW7OE8ZC4-dN6_rZnxxnYa_8WPm5lXclku31-MkMQbjn5-IrIIwVdRsov43fClP2ppbjqwOZcN5cNlYS1qzIwSsx-qArA6i5f-bKUMC0kwO5cVCTymmJybyi56-Hv-4MiJDIGVIDruxa9f-fP7PVpehDwVEYOwBytqHv9gOena5eX3xfui5Ej7w"
+      },
+      {
+        "url": "https://t.me/Irna_en/41127",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bITuSZTmSCXMIuRD9iv9z75NrWVj2-wfIZMw7frMqMMnJM6VcwTfU_dTz_HE4KfE-pH0BfH4gYPacbVvpLb0Te2FtQeLs3yKrRAwHSVKW7BioW8_AvutbAYDFqNGhwvS-sNf0iYFcA8p51OhPhoc-lIX5pPzaVEBW7OE8ZC4-dN6_rZnxxnYa_8WPm5lXclku31-MkMQbjn5-IrIIwVdRsov43fClP2ppbjqwOZcN5cNlYS1qzIwSsx-qArA6i5f-bKUMC0kwO5cVCTymmJybyi56-Hv-4MiJDIGVIDruxa9f-fP7PVpehDwVEYOwBytqHv9gOena5eX3xfui5Ej7w"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

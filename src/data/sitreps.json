@@ -200920,6 +200920,21 @@
     "verified": false
   },
   {
+    "id": 1792597647366,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-19",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaWalla Hebrew website: Hezbollah still retains diverse combat capabilities sufficient for several months of fighting, including missiles with various ranges and suicide gliders that pose a major challenge to the “Israeli” army. In addition, the organization possesses tactical and suicide ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792474951163,
     "type": "drone",
     "location": "Bandar Abbas",
@@ -201482,6 +201497,72 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Yemen Footage of targeting the Saudi enemy’s forces gathered east of Ragwan in Marib Governorate, and the destruction and burning of several of their vehicles – October 21, 2026.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792597671670,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌🇸🇦 - AnsarAllah publishes footage of the targeting of PLC and affiliate forces vehicles in the Ma'rib governate of central Yemen, capturing and destroying dozens.",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/63706",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Zq_lzo3fiKLxBXLAlhU_SYE1yY9D80xaGSDGeJZHKiXxz7Aj72P6bcXnKQCKldVEUiRdhYs7LI4g6_uriESGFHfN_lkMGTqeK5y5aj8_ujDcpVLIbhQaT7gZmSSIix0Se1s4fxLLfneC2WQWHhAnqynHjPGqLCuAZbYuZUh29IllNt--rXfdEBVkupA6DFI8cJO-n9BHSMrWqrzZZfMnwxWY_PeNKF9VMuVWMGNsyFdbeFYC60ELj43HrwnNuBGCoWhaYTI6ISEgCc20J5I5uaaDpY6J8eDmVs1SbxFESuXbvoSKEPxdVTUxAbeIXD3G_cGvGbFXbzmuvYCzO-awcA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792597707194,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— The burning of Imam Ali Khamenei’s will raises serious questions&#33;&#33;In a shocking revelation, a member of the office of Leader Saleh Meerzai has reportedly stated that the will of the martyred Imam Ali Khamenei was burned in his house during the attack. \"Now, from 9:30 in the morning until t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792597713031,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran says US cannot sow regional chaos and then play victim📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the United States cannot fuel regional instability and then demand that the international community condemn Iran, holding Washington and Israel responsible for the conseq...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792597668850,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Yemeni army targets Saudi military equipment at Al-Rayyan airport📌 Tehran, IRNA – The Yemeni armed forces announced on Wednesday, October 21, that it had targeted military equipment transferred by Saudi Arabia to Yemen’s Al-Rayyan Airport via military transport aircraft.According to Al-Mayadeen ...",
     "media": [],
     "verified": false
   },
