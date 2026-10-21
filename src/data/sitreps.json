@@ -201284,6 +201284,36 @@
     "verified": false
   },
   {
+    "id": 1792561547529,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Hourly Updates (-ve): October 21, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi artillery reportedly shelled several areas of Shada border district in Saada, northern Yemen.• Saudi aircraft reportedly carried out two airstrikes on Majz district in Saada.• Saudi aircraft reportedly carried out three air...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792561572998,
+    "type": "rocket",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-21",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Hourly Updates (-ve): October 21, 2026 🇸🇦🇾🇪 Saudi Arabia / Yemen • Saudi artillery reportedly shelled several areas of Shada border district in Saada, northern Yemen. • Saudi aircraft reportedly carried out two airstrikes on Majz district in Saada. •…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

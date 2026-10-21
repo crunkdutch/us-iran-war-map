@@ -151853,6 +151853,102 @@
     "media": []
   },
   {
+    "id": 483553044,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Syria, Yemen, Saudi Arabia: Hourly Updates October 2026 Yemen Initial",
+    "location": "Syria, Yemen, Saudi Arabia, Iraq, Israel, West Bank",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 21, 2026🇾🇪 Yemen• Initial reports claimed that AnsarAllah forces clashed with Saudi troops along the border and may have crossed into Jizan Province. The report remains unconfirmed.• Saudi-backed forces reportedly suffered casualties in Yemen, with a third Saudi airstrike in Ibb reportedly killing one person and injuring four others, including a mother and three children.🇮🇷 Iran• An Iranian MiG-29B fighter jet was reportedly observed conducting a patrol over ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483557128,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Lebanon, Syria: Hourly Updates October 2026 Saudi Arabia",
+    "location": "Tehran, Lebanon, Syria, Yemen, Qatar, Saudi Arabia, Iraq, Israel, Port Said, Qusayr",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Hourly Updates (-ve): October 21, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi artillery reportedly shelled several areas of Shada border district in Saada, northern Yemen.• Saudi aircraft reportedly carried out two airstrikes on Majz district in Saada.• Saudi aircraft reportedly carried out three airstrikes on Al-Nashma area in Al-Ma’afer district of Taiz, reportedly killing one person and injuring four others.• A Saudi airstrike in Ibb reportedly killed one person and injured four others, includ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483561213,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Ansar Allah Rocket Attack — Yemen, Saudi Arabia: Hourly Updates October 2026 Saudi Arabia",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Hourly Updates (-ve): October 21, 2026 🇸🇦🇾🇪 Saudi Arabia / Yemen • Saudi artillery reportedly shelled several areas of Shada border district in Saada, northern Yemen. • Saudi aircraft reportedly carried out two airstrikes on Majz district in Saada. •…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
