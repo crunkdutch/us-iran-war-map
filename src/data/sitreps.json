@@ -201411,6 +201411,21 @@
     "verified": false
   },
   {
+    "id": 1792583205687,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Clearly Ansarullah has learned its lesson having witnessed the disaster that Ghalibaf & Co made of Syria and Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792561547529,
     "type": "drone",
     "location": "Tehran",
