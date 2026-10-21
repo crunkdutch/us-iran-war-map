@@ -201582,6 +201582,51 @@
     "verified": false
   },
   {
+    "id": 1792612079654,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 21, 2026🇾🇪 Yemen• Yemeni missile strikes reportedly targeted a concentration of Saudi-aligned forces in Marib.• Reports indicated that Yemeni drones carried out strikes in the Hadhramaut desert.• Yemeni sources reported another attack by the Yemeni Armed Forces on ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792612142295,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Explosions near Iraqi territorial waters. 🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792612111756,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-21",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪🇾🇪❌🇸🇦 | A Yemeni attack targeted an Aramco oil facility in Saudi Arabia.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
