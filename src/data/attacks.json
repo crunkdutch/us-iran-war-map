@@ -151853,6 +151853,70 @@
     "media": []
   },
   {
+    "id": 483565299,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Multiple explosions reported Strait Hormuzenemywatch",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Multiple explosions reported in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483569386,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Erbil: Iran carried drone attack headquarters Kurdish",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran has carried out a drone attack on the headquarters of Kurdish opposition groups in Erbil.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483553044,
     "type": "drone",
     "status": "confirmed",

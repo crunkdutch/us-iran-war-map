@@ -201284,6 +201284,77 @@
     "verified": false
   },
   {
+    "id": 1792568817829,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Street mobilization has continued for 234 consecutive days, despite receiving little media coverage. Last night, on the 234th day, people took to the streets across all provinces, chanting, “At Your Service, O Imam Sayyid Mojtaba.”🏴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f614f9d40a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/a4vvDJAdTsV5_59gSBuJdHTmiBqr917ipSPk1Q-Axvze1qXEPRqh5oZmjEiYQoqUHC8FEc5N7BgnyrI_F877y-_ZXTy7tJouqHOhMoCVwC5k6kyeXIaIBHjEohM5DTEoraQ0MlhnkkeIwnh7He3YbccznxMKi4icvSyxHNd9HijWGoQIYtf_KUHYPjrDq_GR1lzk6vt5J_4kMsKoCO2x0C8LGzQxzwDS-t43sQx0_AHkxfEF4OVnuLFp-7TdJSOOawOOK1iYfSievqw335B9jW66LflsroFLn7_jNA5NzKXKqZr5QRuI66UpslViiYEBkwRnCRQE2e0tPTth4pmzdA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63685",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/a4vvDJAdTsV5_59gSBuJdHTmiBqr917ipSPk1Q-Axvze1qXEPRqh5oZmjEiYQoqUHC8FEc5N7BgnyrI_F877y-_ZXTy7tJouqHOhMoCVwC5k6kyeXIaIBHjEohM5DTEoraQ0MlhnkkeIwnh7He3YbccznxMKi4icvSyxHNd9HijWGoQIYtf_KUHYPjrDq_GR1lzk6vt5J_4kMsKoCO2x0C8LGzQxzwDS-t43sQx0_AHkxfEF4OVnuLFp-7TdJSOOawOOK1iYfSievqw335B9jW66LflsroFLn7_jNA5NzKXKqZr5QRuI66UpslViiYEBkwRnCRQE2e0tPTth4pmzdA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792568781010,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Multiple explosions reported in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792568823769,
+    "type": "drone",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran has carried out a drone attack on the headquarters of Kurdish opposition groups in Erbil.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792568771588,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Mexican artist honors Minab school victims with ‘Butterflies of Minab’📌 Tehran, IRNA – Mexican artist María Schietekat has honored the children killed in a US airstrike on Shajareh Tayyebeh Elementary School in Iran’s southern city of Minab by creating an artwork titled “Butterflies of Minab” an...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792561547529,
     "type": "drone",
     "location": "Tehran",
