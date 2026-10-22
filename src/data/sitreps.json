@@ -201753,6 +201753,27 @@
     "verified": false
   },
   {
+    "id": 1792662685042,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "From Gorla to Gaza, from Gaza to MinabDifferent places. Same tragedy. Same criminal. 🇺🇸🇮🇱📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/41157",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/PMJRfrjOA23uOTjhWFUs99ZBCn3BPrIzRFweKq49lSN-M5eTkHCpjdmLPrkDKYm445C9IwU5FanLN-kFzy4iKM3JcONOYdM0F6ez7SlyatD4cj9-cgiUHmQ6Zk8eMY7u-t3C2b_OGEclZKo0vsiI0dsF0jMsIAOZCSWOfmsnMin2O2FcsjC3goseEktVLAFQ3UvloWSRPIKmicnZjtbEKBzIDCB95ephfMGoKeoYBTT0cVIMO-xwPiblI7o1PhNxhzIpb_zTP5ryqYAXbbG3rHAQI5PGy5FBpjvsMBcyxtVFYlDlxzBVj05Ka7RaW2x93sEZZAeDEKLxIzQuxvariw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",
