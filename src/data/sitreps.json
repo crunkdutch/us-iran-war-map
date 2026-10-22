@@ -201774,6 +201774,62 @@
     "verified": false
   },
   {
+    "id": 1792669896647,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Iranian Parliament Member Amir Sabeti on the “Be Vaght-e Iran” Programme:Interviewer: If there had been no negotiations, would the Leader of the Revolution still have been martyred?Amir Sabeti: I’ll leave it at this: an audio recording made several months ago by one of the preachers was accurate a...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/eca12db1d8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TvhiyffA7xjGvC96zhheqd2wnElzjZ-reFZO2taFCtf0-0YA93LcQVPQRq6Tm5ZAKKITncjkqV0SbhmJ4qfOSe5eWOirAg7ovR9LOcSw3Agc-_aCaaAziH2jXY-DJFXJ9mTUpI-iT3DDxZHRrxzlPwLMymCiX5REK1uOID9PDeZ-yhZsMj77TP1wctpdsSJXUS3MQuxO-nTzMjRyiK3sPFIPjGSXiosysqaG3wApAEjN5EVQenGNgCd3Chhe-1Aqq3PP743lfRct0FgvMcpYgJlfS4Qu0W_DuO-BVZ0M8NdkX7aitGv25FXfLmrQEgF9ZohAyBOKfX49DoC5IYcucA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63737",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TvhiyffA7xjGvC96zhheqd2wnElzjZ-reFZO2taFCtf0-0YA93LcQVPQRq6Tm5ZAKKITncjkqV0SbhmJ4qfOSe5eWOirAg7ovR9LOcSw3Agc-_aCaaAziH2jXY-DJFXJ9mTUpI-iT3DDxZHRrxzlPwLMymCiX5REK1uOID9PDeZ-yhZsMj77TP1wctpdsSJXUS3MQuxO-nTzMjRyiK3sPFIPjGSXiosysqaG3wApAEjN5EVQenGNgCd3Chhe-1Aqq3PP743lfRct0FgvMcpYgJlfS4Qu0W_DuO-BVZ0M8NdkX7aitGv25FXfLmrQEgF9ZohAyBOKfX49DoC5IYcucA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792669867713,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-21",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📮 | Public flight-tracking data indicates that most U.S. and Israeli military refuelling aircraft have stopped broadcasting their positions by switching off their transponders. These aircraft, which were previously visible on tracking platforms, have now effectively disappeared from public view. Th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792669879317,
+    "type": "airstrike",
+    "location": "Kerman",
+    "coordinates": [
+      30.2832,
+      57.0835
+    ],
+    "date": "2026-10-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran MP warns enemies of more painful response to any new threat📌 Jiroft, IRNA – Chairman of Iranian Parliament’s National Security and Foreign Policy Commission, Ebrahim Azizi has warned that any new hostile action against the country would draw a more painful response.Any reckless, miscalculat...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",

@@ -152447,7 +152447,12 @@
     "description": "🇮🇷 | IRGC Navy:Heroic and risen nation of Islamic Iran;Kudos to you who, by standing courageously on the scene, are the source of strength for the fighters of Islam and have brought humiliation and despair to the enemies of dear Iran. With this immense national backing, the naval forces of the IRGC continue to manage and control the Strait of Hormuz.Following previous warnings to violating maritime companies that were deceived by the aggressor American military and traversed illegal routes, na",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/EeKl4HvTZIQJjSePvw-jPf6aPkZpfgmpTHm3w75vVGr1RZ3RJDjqUqX_6Kg5GocVG-0y8o9XaZMFzT8JWCksoKBFMXcwCjMD12uMc4_yTgzPy7TlMBq3bTBlHhGETe5egxaFeNyvGFjp-IMTV4Pr0DCJvQSd8Lejne0PxvZbUw6fp-9CGnOnXFDsHygElM-AHIQiUPulqIDE4henvMkMdfpEyhCKamB0EJ1uF1l9ZqTez-9bktAGZV6k8AfMIutJfEQ-SmmQn-x9uPKyYatB9y-dilGqq9jMNqFgjRYoSSOQv2rWSNSj1mvzF4NP-C3-171CxdHakac2ZlOAz0ofRg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 483634914,
@@ -152589,6 +152594,38 @@
       "other": 0
     },
     "description": "🌍 IRGC Navy says four oil-carrying ships hit in Persian Gulf📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has said four ships were hit and caught fire while transferring oil cargoes in the northern Persian Gulf, adding that three other vessels had suffered incidents after striking mines west of the Strait of Hormuz.The IRGC Navy said in a statement on Thursday morning that it had tracked the four vessels after they used unauthorized routes despite previous warnings to mariti",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483651336,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Public flighttracking data indicates that most",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📮 | Public flight-tracking data indicates that most U.S. and Israeli military refuelling aircraft have stopped broadcasting their positions by switching off their transponders. These aircraft, which were previously visible on tracking platforms, have now effectively disappeared from public view. This sudden change in transponder activity suggests heightened operational security, potentially in preparation for planned strikes against Iran.🔹@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
