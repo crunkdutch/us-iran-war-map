@@ -152386,6 +152386,102 @@
     "media": []
   },
   {
+    "id": 483626709,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Sirik: Iran heads toward dangerous phase Iran",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Iran heads toward a new and dangerous phase of war... Iran is heading toward a new and dangerous escalation in the ongoing war. Reports indicate that, in the past hours, Iranian missile-launch platforms and anti-ship missile systems in the Sirik's mountains…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483618508,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Aden, Yemen, Kuwait: Hourly Updates October 2026 Yemen Preliminary",
+    "location": "Aden, Yemen, Kuwait, Saudi Arabia",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 22, 2026🇾🇪 Yemen• Preliminary FIRMS data reportedly detected an anomalous concentration of heat at a power plant at Saudi Arabia’s Shaybah oil field, consistent with reports of an AnsarAllah strike. The finding has not, by itself, independently established the cause of the thermal activity.• Saudi authorities reported that air defence systems in the Eastern Province had engaged Yemeni drones during the early hours of Thursday.• The Yemeni Armed Forces reportedl",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483622608,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Tehran, Sirik, Fars: Hourly Updates October 2026 Saudi Arabia",
+    "location": "Tehran, Sirik, Fars, Baghdad, Strait of Hormuz, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 22, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Two Asian workers were reportedly killed at Saudi Arabia’s Shaybah oil field. Reports alleged that foreign workers had not been warned to leave oil facilities previously identified as potential targets.• Saudi aircraft reportedly carried out three airstrikes on the communications network in central Ba’dan District, Ibb Governorate, according to Saba News Agency.• Reports circulated alleging that Saudi Arabia was considering ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

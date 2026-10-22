@@ -201627,6 +201627,36 @@
     "verified": false
   },
   {
+    "id": 1792641020324,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Iran heads toward a new and dangerous phase of war...Iran is heading toward a new and dangerous escalation in the ongoing war. Reports indicate that, in the past hours, Iranian missile-launch platforms and anti-ship missile systems in the Sirik's mountains were targeted in successive American stri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792640961562,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-22",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 22, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Two Asian workers were reportedly killed at Saudi Arabia’s Shaybah oil field. Reports alleged that foreign workers had not been warned to leave oil facilities previously identified as potential targets.• Saudi aircraft reportedl...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
