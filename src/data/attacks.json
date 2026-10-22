@@ -152832,6 +152832,49 @@
     "media": []
   },
   {
+    "id": 483667774,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Tehran, Israel: Iranian officials have reportedly ordered military",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian officials have reportedly ordered the military to activate a fully decentralised “mosaic defence” doctrine amid growing concerns about a potential joint strike by America and israel.According to reports, local commanders have received detailed target lists identifying American economic and political interests in the region that could be targeted in the event of a war.The “mosaic defence” doctrine is intended to allow Iran to continue fighting even if its central leadership is elim",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/eca12db1d8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TvhiyffA7xjGvC96zhheqd2wnElzjZ-reFZO2taFCtf0-0YA93LcQVPQRq6Tm5ZAKKITncjkqV0SbhmJ4qfOSe5eWOirAg7ovR9LOcSw3Agc-_aCaaAziH2jXY-DJFXJ9mTUpI-iT3DDxZHRrxzlPwLMymCiX5REK1uOID9PDeZ-yhZsMj77TP1wctpdsSJXUS3MQuxO-nTzMjRyiK3sPFIPjGSXiosysqaG3wApAEjN5EVQenGNgCd3Chhe-1Aqq3PP743lfRct0FgvMcpYgJlfS4Qu0W_DuO-BVZ0M8NdkX7aitGv25FXfLmrQEgF9ZohAyBOKfX49DoC5IYcucA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63737",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TvhiyffA7xjGvC96zhheqd2wnElzjZ-reFZO2taFCtf0-0YA93LcQVPQRq6Tm5ZAKKITncjkqV0SbhmJ4qfOSe5eWOirAg7ovR9LOcSw3Agc-_aCaaAziH2jXY-DJFXJ9mTUpI-iT3DDxZHRrxzlPwLMymCiX5REK1uOID9PDeZ-yhZsMj77TP1wctpdsSJXUS3MQuxO-nTzMjRyiK3sPFIPjGSXiosysqaG3wApAEjN5EVQenGNgCd3Chhe-1Aqq3PP743lfRct0FgvMcpYgJlfS4Qu0W_DuO-BVZ0M8NdkX7aitGv25FXfLmrQEgF9ZohAyBOKfX49DoC5IYcucA"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

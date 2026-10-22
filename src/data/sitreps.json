@@ -201961,6 +201961,51 @@
     "verified": false
   },
   {
+    "id": 1792691498152,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 22, 2026🇾🇪 Yemen• Colonel Mahfouz Jaradi, who served with Saudi-backed PLC forces and was reportedly the deputy for operations of the 35th Brigade, was killed on the Al-Shaqab front in southern Yemen.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792691523456,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 22, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi Arabia’s Civil Aviation Authority said the Yemeni ballistic-missile strike on King Fahd International Airport in Dammam killed two people, revising the previously reported death toll of one.• Saudi fighter jets reportedly ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792691506116,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Science minister invites young women from Azerbaijan Republic to study at Iranian universities📌 Tehran, IRNA – The Minister of Science, Research and Technology invited young women from the Republic of Azerbaijan to study at universities in Iran.In a released video, Hossein Simaei said that as th...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
