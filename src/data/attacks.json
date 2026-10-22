@@ -152418,6 +152418,107 @@
     "media": []
   },
   {
+    "id": 483630811,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz, Persian Gulf: IRGC NavyHeroic risen nation Islamic IranKudos",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy:Heroic and risen nation of Islamic Iran;Kudos to you who, by standing courageously on the scene, are the source of strength for the fighters of Islam and have brought humiliation and despair to the enemies of dear Iran. With this immense national backing, the naval forces of the IRGC continue to manage and control the Strait of Hormuz.Following previous warnings to violating maritime companies that were deceived by the aggressor American military and traversed illegal routes, na",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483634914,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Taba: Those said that Imam been martyred",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Those who said that the Imam had been martyred were themselves unwilling to go to the shelter&#33;With just one word in the message of Imam Sayyid Mujtaba Khamenei, they were exposed:“You were martyred by a surprise attack&#33;”We, the grieving people, have the right to know, forever, why the officials failed to protect the Imam’s life against missiles that could be seen even with the naked eye.#ImamKhamenei ▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/vAWOL3St89cog0swE6uxil9iBbBq5XsBu9CTyV9ZWD0FnHV_bvoQnQ7dZdEtz1UsnkVMfXHDhh8Dymuhb1VsVT9n1ZiHAURclVtgopkrHk_Xs6OVcnkFucik-vEwCFpaCP6lxjW6yCUg97OR1tf49u7zHiQn2cvWAywC3ldFRqcFP3T_7KL22c_B_J1TEAeNQvBkeBcv6aNKmY1NyNQBh-TdumCTfDR8LVMGBN3Mtv8-kxsdPUkR_HxwICUkEsqvVu8CN1EFCEQuq01VaprGgwZM35ZNpyQHqBdOmr-07VpTfmtD-DzoVBFWOgXiPbV2GkTXDkbzvD5EbZMhYqdq8w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483639018,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Israel: Iran urges UNSC condemn maritime blockade",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran urges UNSC to condemn US maritime blockade, calls for its immediate removal📌 New York, IRNA – Iran has urged the UN Security Council to condemn as continued US aggression through a maritime blockade, demanding its immediate lifting and warning that the blockade, economic sanctions and threats against Iranian infrastructure violate the UN Charter and international law and pose serious humanitarian risks to civilians.Iran’s Ambassador and Chargé d’Affaires to the United Nations Gholamhoss",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483618508,
     "type": "drone",
     "status": "confirmed",

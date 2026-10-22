@@ -201642,6 +201642,91 @@
     "verified": false
   },
   {
+    "id": 1792648254201,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Navy:Heroic and risen nation of Islamic Iran;Kudos to you who, by standing courageously on the scene, are the source of strength for the fighters of Islam and have brought humiliation and despair to the enemies of dear Iran. With this immense national backing, the naval forces of the IRG...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792648239566,
+    "type": "missile",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Those who said that the Imam had been martyred were themselves unwilling to go to the shelter&#33;With just one word in the message of Imam Sayyid Mujtaba Khamenei, they were exposed:“You were martyred by a surprise attack&#33;”We, the grieving people, have the right to know, forever, why the offi...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/vAWOL3St89cog0swE6uxil9iBbBq5XsBu9CTyV9ZWD0FnHV_bvoQnQ7dZdEtz1UsnkVMfXHDhh8Dymuhb1VsVT9n1ZiHAURclVtgopkrHk_Xs6OVcnkFucik-vEwCFpaCP6lxjW6yCUg97OR1tf49u7zHiQn2cvWAywC3ldFRqcFP3T_7KL22c_B_J1TEAeNQvBkeBcv6aNKmY1NyNQBh-TdumCTfDR8LVMGBN3Mtv8-kxsdPUkR_HxwICUkEsqvVu8CN1EFCEQuq01VaprGgwZM35ZNpyQHqBdOmr-07VpTfmtD-DzoVBFWOgXiPbV2GkTXDkbzvD5EbZMhYqdq8w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792648160230,
+    "type": "airstrike",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— But has this been done, or not? Is there a precedent for such investigations in Iran?Yes. During the eight-year war with Iraq and even earlier, during battles against separatist groups, military inspections actively investigated operational failures and the circumstances surrounding the martyrdom ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DeI5XhL2jAt21UrFE-NXzZOMxhglyk7vYNQGrDwtUqHE9KvAvO5QOQt4-3GHfOe9o09ZkXatwU-oMVyLe_Ap5Zt-3muOL9nDd5PbUbfSRhgCftjab6gUNxETOaiccqVfSeZ0Mo-uucg2vaggEDgbYbvs7T99xKhW8V_nxRjD1x6SJepx-iXACAAxsBhjm_WewNytAbwlaZPVW2EiHfAdr19pYuYO01ixefJqYQA99u49CzMDtdrC93vSJUJoxmb-TGv_PlZn3P8hu1Sy0bezuQAq-Gm3YK0hMgSt8_0TUMnMn14dqxRHVtE5j9R8-8xoAV6QKBjZm2yqP5b319vlIg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792648166796,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Pakistan has closed its border with Iran, Iraq has closed another trade border, and Rubio has travelled to India. Now, Iran’s flag carrier, Iran Air, says that India and Singapore have refused to issue permits for its cargo flights intended to transport 60 to 70 tonnes of medicine to Iran. These m...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792648249203,
+    "type": "naval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran urges UNSC to condemn US maritime blockade, calls for its immediate removal📌 New York, IRNA – Iran has urged the UN Security Council to condemn as continued US aggression through a maritime blockade, demanding its immediate lifting and warning that the blockade, economic sanctions and threa...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",
