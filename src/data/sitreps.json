@@ -201727,6 +201727,32 @@
     "verified": false
   },
   {
+    "id": 1792655377797,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Satellite images of the oil tanker that was targeted in the Strait of Hormuz on Wednesday night.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/7c8ffe4279.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/IxSRPL8Lk4Mxwb0syMQoXWCkj_Th7_gc2DZ4Ipq6ODF6O0l3MUTUj44mDInF33KrDJWmGFPqnUaCBtMJ5hojBZ6PdceQMNdFcJAhWcwlMCXo3-SUg3ipjaqGDvWFxMYQCtoH153l6rxHeKjsNoCl3ceyVv_aXuKELHNfvC-M-odz5Lrv8aIubEYl8ZvGK24yHckk4n9J0hGY6byi_JPF87EAasHVj22Ij83inPzsp9K9BvOcVFnMCBJXUguh-swU529vYr6ivs37CfztUjrIVSfOt3ggSXfeCAhyuabapFtPRIPx1nyHFRFSfULZbw257atLC2AsVJqZWpiXmAnwCw"
+      },
+      {
+        "url": "https://t.me/Irna_en/41154",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/IxSRPL8Lk4Mxwb0syMQoXWCkj_Th7_gc2DZ4Ipq6ODF6O0l3MUTUj44mDInF33KrDJWmGFPqnUaCBtMJ5hojBZ6PdceQMNdFcJAhWcwlMCXo3-SUg3ipjaqGDvWFxMYQCtoH153l6rxHeKjsNoCl3ceyVv_aXuKELHNfvC-M-odz5Lrv8aIubEYl8ZvGK24yHckk4n9J0hGY6byi_JPF87EAasHVj22Ij83inPzsp9K9BvOcVFnMCBJXUguh-swU529vYr6ivs37CfztUjrIVSfOt3ggSXfeCAhyuabapFtPRIPx1nyHFRFSfULZbw257atLC2AsVJqZWpiXmAnwCw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",
