@@ -201830,6 +201830,36 @@
     "verified": false
   },
   {
+    "id": 1792677131886,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran not seeking war, but fully prepared to defend itself: envoy📌 London, IRNA – Iran’s ambassador to Norway stressed that Tehran is not seeking war, but is fully prepared to defend itself against any new military aggression, and that the initiators of war must pay the price.Alireza Jahangir mad...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792677049816,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Yemeni forces target Saudi defense ministry, oil and airport facilities📌 Tehran, IRNA – The spokesperson for the Yemeni Armed Forces said that over the past 48 hours, four major targets in Saudi Arabia including ministry of defense building in Riyadh, Aramco facility in Yanbu, and King Fahd and ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",
@@ -201841,6 +201871,92 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴 Hourly Updates (-ve): October 22, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Two Asian workers were reportedly killed at Saudi Arabia’s Shaybah oil field. Reports alleged that foreign workers had not been warned to leave oil facilities previously identified as potential targets.• Saudi aircraft reportedl...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792677122452,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪❌🇸🇦 — Columns of smoke rise over the Saudi capital, Riyadh, following a ballistic missile and drone attack by Ansar Allah.🔴 @Alsaa_plus_EN",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a4L2weblT_32PUwP__4yFleX7vMI3CkAhoHlaUjqnESehB1Rz2KELqlYcnn2fHkfOhGnJqaaHmxwmFwTBOqYD_sxsOXVLL7hZ2vCXaJ9UixMhFhGjrDS7vUbIxnA6ZMbAHnxxxtpY9vFoR1LyZjSfWjhWdXdN0mj-_aW3Ub6SY7YdgjDTAWfclrt7SeCNzkH6bO8n97n4Cs80H8MIjCaCt73nunUwQV5BkFk65frH_61NWX8Lraow3BCUxhC7891_HK3OogqQtEe5CZFiGY5UDbRSd7IVkChtnQEynRo4ZiQaI2NH-pxbxgucJ0Sbat5a0cE2ozlmFLuXxEg5-_vOQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vZShQe1OdUz6x3IHpgRDRgL0JYtvZvyZKPjWmOHVaeIu8mmf082dRtMm3Kg865YRFliBRg4WtzNgBb0gCMSBz5pcYSfxUKc-QdRASwOm6LFtk4cYjxhQGmgoXuS-ogoTH825l-DwbQqddU8mtAUNxn5R4IxRHrfI8lWCB9KZ_Yn4qkjHY0CZIQ93mVBJLlsa8VKT07mezgBzjCL6gfexw8HR_rr2jiNxdGnyDpbb4tAVnz7q_OjDMYvylF5-Y461cpVl1TgBpU5lsUMBRlwkakNlqNzyTumK4q-d6nfP2j4jr5edNl_cKqNFojDh5fLEJmTN7aAQ_QMZEo_GEQzg8g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/P1Rdm_miHwPTwjORSrd11xeR6-yOH1l1xqZMaX_7Yp_IPYbUJwJoMq--Bsd6xWlQ5yEc6IDXtwYMZudcUxwBG80An7Bepj4gPNU-Q-7CgWmmBCR_JljJjPHnpei_4X1JU47wErqjWqDmNhC8afocWUgok9e4BWr58Q7oI0eFE9KnOSt4yuz82wrG9WjJ9RxQlp5ipFX_nm8iQgSr5wbrbmNnw6aerOIpClHRgVSrOXf0t_6MGP_1Af1wpOqvDtXih27DXO8TFCDCANCVxa96Hyb3ohQiGmED2yniiBdzTlAjxp5MwbpcRyn9XgYSOn-OWpZT-D43hn3jw-kgqOvBcQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ZpJomkIOWCBu1tXYlBEddI49nKFUTDhrAPf6X-XXftGqMouBPZij3-xlNFDR8R8W9sppaR-gf8gNAlI2TOrDiuF061jIKJB4Bh3zqpFX69OXiHhAGJdDJxTH3OLiuuO5GZIHCdxUE9HDbJVtuHW8_Qpjh8Zj3fvlo1P_RcqzfjykqCi5yphppxV3a3PpZWcBMzKgnc9g9IqsUXPgwTH8QyuQmat52kpTg1JMVLkW_O002izIwvhc15MQsG4KEVwTbjgI6noqjACGdMtKU5f4MgvomaepSz1UxCUwlk0GlIgZJERnzB51drZ2Pn9DmiQToNcmzlSCIhOixAF0a7AywQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Ok39-frOupGO7lDrmasejkKR8SB4sUJ9o4tDnvUn3KGH8KovaHiQw6tJQjX_dZLxB3590mDYcFcf3KNsB6pV5KLSNTIv0DU0d4_PMqIazRJbrlSeYxoyXFsFyhRgQVL7qyHndfyssLB3JLnUh0DMw6ACsBZHKOY7NG7Ie6Lif26g5XAsrLTXcpzYEe4Kw1qk0KKYc67Ll5mnxlUuuP_JCY8aHxAXbT-Tr01y2JxYqcgCiKq5tPF2DFr4xlQwF32_8mnNlE7D9kKsYvLlMajRUO_LTQnQDlq1yORMYJcegPWaQy5ko5rBnKrHL00hQquQf2UBfvMzVNgaIjqkvXo4xA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/29def63255.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/frAeePw8qlPzpVU-n6HyXQoi7n-2nD_sE2QZy1i7VGs4pAar8fsZloqJJRh_HR0eyS7iiR4G09XkoTP23pZ78Xh1FmdEVwzfo6N_XaQjrCek2AhC9QDJmAj5X0hT_4htK0wcLMbxfY2ZTzIEwlVdklMPtQ6HvccxH8EJnciPliSpFRB5yutsGqx7knRGSUDAkBnIg0iVVwrWXdqcW55vNfF9P9iBEAxQVi1iJTUpKcfVo3k1VprYdkd-82pQZkn9D2bk2uHi9aWVDkpTTCgq3JKnoLAtO5LO4C9My6FLy3m7U-YGwKnsTqMfPofISdtvMZIb31b5ZAWTkufEL2CLnw"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/5ed597ef73.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/frAeePw8qlPzpVU-n6HyXQoi7n-2nD_sE2QZy1i7VGs4pAar8fsZloqJJRh_HR0eyS7iiR4G09XkoTP23pZ78Xh1FmdEVwzfo6N_XaQjrCek2AhC9QDJmAj5X0hT_4htK0wcLMbxfY2ZTzIEwlVdklMPtQ6HvccxH8EJnciPliSpFRB5yutsGqx7knRGSUDAkBnIg0iVVwrWXdqcW55vNfF9P9iBEAxQVi1iJTUpKcfVo3k1VprYdkd-82pQZkn9D2bk2uHi9aWVDkpTTCgq3JKnoLAtO5LO4C9My6FLy3m7U-YGwKnsTqMfPofISdtvMZIb31b5ZAWTkufEL2CLnw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63745?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/frAeePw8qlPzpVU-n6HyXQoi7n-2nD_sE2QZy1i7VGs4pAar8fsZloqJJRh_HR0eyS7iiR4G09XkoTP23pZ78Xh1FmdEVwzfo6N_XaQjrCek2AhC9QDJmAj5X0hT_4htK0wcLMbxfY2ZTzIEwlVdklMPtQ6HvccxH8EJnciPliSpFRB5yutsGqx7knRGSUDAkBnIg0iVVwrWXdqcW55vNfF9P9iBEAxQVi1iJTUpKcfVo3k1VprYdkd-82pQZkn9D2bk2uHi9aWVDkpTTCgq3JKnoLAtO5LO4C9My6FLy3m7U-YGwKnsTqMfPofISdtvMZIb31b5ZAWTkufEL2CLnw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63746?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/PQR_ZiZg48Q8VSiYGsAe-ro8G8xhyG4m4xYJc_ZuGmz2ZgOn8QSFdyK4l1otK2quSL3rAifeq33P6zCpjpOVAcVCdVQ-DC8VD0rO2jrp8LEMlt1GoV_aOU7vtk5YG9taIZRWmKZ5FTMGludtK-uveLN1AsCbp_2blZ1oWy7ghBrqT_OmubpVK1j8DO2ooFa3GyhGwnWM8E0KM6SqokVwusloc5CPwNmJGfWxLeBb5O-d5cp7GMRIi3Nztv7tZs-ltaIqQPREtu03tf23BgVBA7y-uPlRS0rF5csyDQvDw4WbCy8fNA7L7pF_glWP2qxPrxPdE3laFTggYf9yNLz5BQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792677125017,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The senior security official in Tehran said that Iran now considers itself to be at war with America and views the American economic and naval blockade, along with airspace restrictions, as a continuation of the military aggression that began on February 28. Accordingly, the official said, si...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792677097816,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement by the Yemeni Armed Forces on the Execution of Four Qualitative Military Operations Targeting the Ministry of Defense Building in the Saudi Enemy’s Capital, Riyadh, Aramco Company in Yanbu, and King Fahd and Abha International Airports – October 22, 2026Statement issued by the Yemeni Armed...",
     "media": [],
     "verified": false
   },
