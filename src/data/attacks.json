@@ -152950,6 +152950,70 @@
     "media": []
   },
   {
+    "id": 483680113,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Riyadh, Jeddah, Yemen: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Riyadh, Jeddah, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 23, 2026🇾🇪 Yemen• Yemeni forces reportedly captured Al-Shajouf and the Al-Masbal area and advanced toward Mishra’a in Jabal Saber during fighting south of Taiz. • Yemeni forces reportedly targeted a military gathering of Saudi-aligned forces in Tawer Al-Baha with four ballistic missiles.• Reports claimed that the Yemeni army had seized approximately 14,000 vehicles of various types from Saudi-backed forces in recent days.• Two barrages of Yemeni rockets were re",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483684228,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Sanaa, Hodeidah, Lebanon: Hourly Updates October 2026 Saudi Arabia",
+    "location": "Sanaa, Hodeidah, Lebanon, Syria, Jordan, Yemen, Saudi Arabia, Iraq, Israel, Gaza Strip",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 23, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi aircraft reportedly carried out two airstrikes on eastern Saada city.• Saudi aircraft reportedly targeted Bajil District in Hodeidah Governorate.• Yemen’s Sanaa-based Ministry of Health reported one person killed and four others injured, including children, in a preliminary toll after Saudi aircraft reportedly struck a house in Al-Za’aza’ District, Taiz.• A Yemeni human-rights centre reportedly said nine people were ki",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

@@ -202077,6 +202077,36 @@
     "verified": false
   },
   {
+    "id": 1792727596410,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-23",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 23, 2026🇾🇪 Yemen• Yemeni forces reportedly captured Al-Shajouf and the Al-Masbal area and advanced toward Mishra’a in Jabal Saber during fighting south of Taiz. • Yemeni forces reportedly targeted a military gathering of Saudi-aligned forces in Tawer Al-Baha with f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792727601941,
+    "type": "rocket",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-23",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 23, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi aircraft reportedly carried out two airstrikes on eastern Saada city.• Saudi aircraft reportedly targeted Bajil District in Hodeidah Governorate.• Yemen’s Sanaa-based Ministry of Health reported one person killed and four ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
