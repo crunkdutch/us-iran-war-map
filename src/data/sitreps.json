@@ -202260,6 +202260,21 @@
     "verified": false
   },
   {
+    "id": 1792770975729,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— If an ISIS terrorist attack occurs in Iraq following the church attack in Jordan, it could provide Washington with a pretext to re-enter Iraq under the banner of fighting ISIS.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792727596410,
     "type": "missile",
     "location": "Riyadh",
@@ -202286,6 +202301,21 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴 Hourly Updates (-ve): October 23, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi aircraft reportedly carried out two airstrikes on eastern Saada city.• Saudi aircraft reportedly targeted Bajil District in Hodeidah Governorate.• Yemen’s Sanaa-based Ministry of Health reported one person killed and four ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792770947385,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 23, 2026🇾🇪 Yemen• AnsarAllah reportedly captured Al-Shajouf and Al-Masbal villages in Hadnan District on the Jabal Saber front in Taiz. Reports also said they were attacking the Shaqab enclave from multiple directions, where hundreds of Islah-affiliated and other a...",
     "media": [],
     "verified": false
   },

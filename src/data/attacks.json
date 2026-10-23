@@ -153180,6 +153180,70 @@
     "media": []
   },
   {
+    "id": 483704818,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Tehran, Fars, Zanjan: Hourly Updates October 2026 Yemen AnsarAllah",
+    "location": "Tehran, Fars, Zanjan, Sanaa, Al Udeid Air Base, Strait of Hormuz, Red Sea, Yemen, Qatar, Oman, Saudi Arabia, Iraq, Egypt, Turkey",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 23, 2026🇾🇪 Yemen• AnsarAllah reportedly captured Al-Shajouf and Al-Masbal villages in Hadnan District on the Jabal Saber front in Taiz. Reports also said they were attacking the Shaqab enclave from multiple directions, where hundreds of Islah-affiliated and other armed fighters were allegedly trapped.• Saudi Arabia reportedly announced a Yemeni missile attack targeting Khamis Mushait.• Reports said two loud explosions were heard in Sanaa following what sources ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483708939,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Hourly Updates October 2026 Yemen AnsarAllah",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 23, 2026 🇾🇪 Yemen • AnsarAllah reportedly captured Al-Shajouf and Al-Masbal villages in Hadnan District on the Jabal Saber front in Taiz. Reports also said they were attacking the Shaqab enclave from multiple directions, where…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
