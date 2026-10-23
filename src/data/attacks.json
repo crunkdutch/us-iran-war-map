@@ -153036,6 +153036,86 @@
     "media": []
   },
   {
+    "id": 483696579,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Dubai: Neoliberalism dollarization worsens negative effects crippli...",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇺🇸 Neoliberalism, dollarization worsens negative effects of crippling US sanctions — Iranian analystIn a recent must-watch interview with Iranian analyst Ali Alizadeh, he hits the nail on the head of the internal aspect of the equation of Iran's economic woes. The main culprit is the US sanctions, but this is worsened by an internal class of westernized elites.Alizadeh notes the following:— Westernization started during the time of then-president Hashemi Rafsanjani, who made his governmen",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483700698,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: Recent footage documenting effects Yemeni strikes",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 ❌ 🇸🇦 | Recent footage documenting the effects of the Yemeni strikes and columns of smoke rising from oil facilities and sites in Saudi Arabia.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8666d9d3b3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TNxS8-dl__nHw0VogmFXe3junC103mMX6GxE4_L7_KqOtnNzwYEtoqtpYzu8H2JFdvSeTmj8FIYqzybD3igNIDreKgvekPYWwQH3heKKK0p436gmzHLw-ehh0_3mKJw2c_WMHGxRGgmItHji4py5qwt0OW98k8qf9uFiGWfXDrficfUgW1oqns3GzqX0Bon7ScFil43W4DKLjX2OL7WfAQzA5xlrbEBJZ7wKQGlgDdURXyUj1U4iAIG-_eh9gDpZm0xZx6Z7jE0N752cr1QymZ7pK1TOTicq-RKY2FTD_jvUZ1PXSHbsv3CReLVKOpsHmnhBXbKCgGIDa9Y0DomcBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63766?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TNxS8-dl__nHw0VogmFXe3junC103mMX6GxE4_L7_KqOtnNzwYEtoqtpYzu8H2JFdvSeTmj8FIYqzybD3igNIDreKgvekPYWwQH3heKKK0p436gmzHLw-ehh0_3mKJw2c_WMHGxRGgmItHji4py5qwt0OW98k8qf9uFiGWfXDrficfUgW1oqns3GzqX0Bon7ScFil43W4DKLjX2OL7WfAQzA5xlrbEBJZ7wKQGlgDdURXyUj1U4iAIG-_eh9gDpZm0xZx6Z7jE0N752cr1QymZ7pK1TOTicq-RKY2FTD_jvUZ1PXSHbsv3CReLVKOpsHmnhBXbKCgGIDa9Y0DomcBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63767?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/DV7paU-TYSNWWIPeTbVNNOs7IfbSZ5N20BbyG1r4LZ2eaoXu6XDCLJuiu2KPQZViNkbzQTtsggaQ26l0IY_dxkBV8ylJZacOL8f86qYIBQylV6mwDSBY1itTiN_Irv8WNZxZ22Pom9OgMiUNa9y_OT6VMnhdvzX6WDmI5Tlb0Y9rx7XrZ--Wwjx5sUJ_RnQt6Cpx5t-imSACPNM0l3L1IvDl0eRI5jfsLUrUH0ABILvPb70FyKGkURHw2ArsBg1kDrMnr5hXHSzo_2kuOm1iBG_ELY8df35JSXooF_PEh8pXIhAGKxtx6IRy5ycrP2SKQKVF_eff4QW2XSJtIiy3aQ"
+      }
+    ]
+  },
+  {
     "id": 483680113,
     "type": "missile",
     "status": "confirmed",
