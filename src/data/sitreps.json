@@ -201441,6 +201441,36 @@
     "verified": false
   },
   {
+    "id": 1792742068040,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper – Yoav Limor: Any \"Israeli\" government that is formed will address every threat, however small, before it turns into a strategic danger. This is the most important lesson from the Hamas attack, and one that will remain present for generations. We may disagre...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792742106117,
+    "type": "naval",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Compassionate, the Most MercifulIssued by the Resistance Committees in Palestine:The Resistance Committees in Palestine commend the heroic operation carried out by the heroes of our people in Hebron, and affirm that the continued crimes of the Zionis...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792561547529,
     "type": "drone",
     "location": "Tehran",
@@ -202073,6 +202103,21 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 🇾🇪 ❌ 🇸🇦 | Several strong explosions heard in Riyadh. Four explosions were reported so far.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792742073123,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran says term ‘Iran conflict’ obscures US, Israeli responsibility for war📌 Tehran, IRNA – Foreign Ministry spokesperson Esmail Baqaei has criticized the use of the term “Iran conflict” to describe the US-Israeli-imposed war against Iran, saying the wording obscured responsibility for initiating...",
     "media": [],
     "verified": false
   },
