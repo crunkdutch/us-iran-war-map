@@ -201471,6 +201471,47 @@
     "verified": false
   },
   {
+    "id": 1792749266836,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio:Details of the initial investigation into the operation at the Yehuda Junction in Hebron:– The two gunmen arrived at approximately 7:30 am at the Yehuda Junction, where a force from the “Ari” Battalion, affiliated with the Home Front Command, was conducting a r...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792749307163,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaFootage of the shooting operation that targeted an “Israeli” military position in the Hebron area this morning, resulting in five wounded among the “Israeli” enemy army, including two in critical condition.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9c50e7fed5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
+      },
+      {
+        "url": "https://t.me/mmirlb/41157",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792561547529,
     "type": "drone",
     "location": "Tehran",
