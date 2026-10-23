@@ -202036,6 +202036,47 @@
     "verified": false
   },
   {
+    "id": 1792720363949,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "—❗️🇾🇪/🇸🇦 NEW: Yemeni ballistic missile attack ongoing against Riyadh, Saudi Arabia@Middle_East_Spectator",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/68773d0aad.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gnk85tP-6csmvgfR90czm2G84b6RmS4JsYmM6EI4IpNuDnQVAct-y8Uzr8yUQAcXs26ni3MtdndwopM2iwkBOk5JgxzTd72a7WEjla6F3682Zk25IWKSgAWiebTuP_-HviDYglTM0jU6ZNU1hJtNu7pSQw2i52-LK-2MBcECIUb5RIWSS7yNe7xJObQkr98y7lirBI0NoR8IH_f6R_6f0Aluf52OR8kLJCoPUFa8sMCPiM6ggRz_rPzbWopDPi32vi6N0IiqrlZ2FQiuzYKxdcYXsvK4cergIBuHNRpgN_tB9ylUMIIgIClmMXJuYHMnBEJDQ2PL8cMeWplZlyYReg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63755",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gnk85tP-6csmvgfR90czm2G84b6RmS4JsYmM6EI4IpNuDnQVAct-y8Uzr8yUQAcXs26ni3MtdndwopM2iwkBOk5JgxzTd72a7WEjla6F3682Zk25IWKSgAWiebTuP_-HviDYglTM0jU6ZNU1hJtNu7pSQw2i52-LK-2MBcECIUb5RIWSS7yNe7xJObQkr98y7lirBI0NoR8IH_f6R_6f0Aluf52OR8kLJCoPUFa8sMCPiM6ggRz_rPzbWopDPi32vi6N0IiqrlZ2FQiuzYKxdcYXsvK4cergIBuHNRpgN_tB9ylUMIIgIClmMXJuYHMnBEJDQ2PL8cMeWplZlyYReg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792720438509,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 ❌ 🇸🇦 | Several strong explosions heard in Riyadh. Four explosions were reported so far.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

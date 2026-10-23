@@ -152875,6 +152875,81 @@
     ]
   },
   {
+    "id": 483671886,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Yemen, Saudi Arabia: Yemeni ballistic missile attack ongoing against",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—❗️🇾🇪/🇸🇦 NEW: Yemeni ballistic missile attack ongoing against Riyadh, Saudi Arabia@Middle_East_Spectator",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/68773d0aad.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gnk85tP-6csmvgfR90czm2G84b6RmS4JsYmM6EI4IpNuDnQVAct-y8Uzr8yUQAcXs26ni3MtdndwopM2iwkBOk5JgxzTd72a7WEjla6F3682Zk25IWKSgAWiebTuP_-HviDYglTM0jU6ZNU1hJtNu7pSQw2i52-LK-2MBcECIUb5RIWSS7yNe7xJObQkr98y7lirBI0NoR8IH_f6R_6f0Aluf52OR8kLJCoPUFa8sMCPiM6ggRz_rPzbWopDPi32vi6N0IiqrlZ2FQiuzYKxdcYXsvK4cergIBuHNRpgN_tB9ylUMIIgIClmMXJuYHMnBEJDQ2PL8cMeWplZlyYReg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63755",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gnk85tP-6csmvgfR90czm2G84b6RmS4JsYmM6EI4IpNuDnQVAct-y8Uzr8yUQAcXs26ni3MtdndwopM2iwkBOk5JgxzTd72a7WEjla6F3682Zk25IWKSgAWiebTuP_-HviDYglTM0jU6ZNU1hJtNu7pSQw2i52-LK-2MBcECIUb5RIWSS7yNe7xJObQkr98y7lirBI0NoR8IH_f6R_6f0Aluf52OR8kLJCoPUFa8sMCPiM6ggRz_rPzbWopDPi32vi6N0IiqrlZ2FQiuzYKxdcYXsvK4cergIBuHNRpgN_tB9ylUMIIgIClmMXJuYHMnBEJDQ2PL8cMeWplZlyYReg"
+      }
+    ]
+  },
+  {
+    "id": 483675999,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Riyadh: Several strong explosions heard Riyadh Four",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 ❌ 🇸🇦 | Several strong explosions heard in Riyadh. Four explosions were reported so far.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
