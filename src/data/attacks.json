@@ -153116,6 +153116,43 @@
     ]
   },
   {
+    "id": 483713061,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz, Oman: United Kingdom Maritime Trade Operations UKMTO",
+    "location": "Strait of Hormuz, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The United Kingdom Maritime Trade Operations (UKMTO) stated that it received a delayed report regarding an incident seven nautical miles northeast of Limah, Oman.An oil tanker reported being struck by an unidentified projectile while transiting outbound through the Strait of Hormuz. The vessel was able to continue its voyage to its next port of call.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/h3J8G3jfjIRq8FbahVD6Gij2hyYWmFlhjVEUY4-pIdl9zUyFVFXjBLOC0esQ_inWrL0SQOaj8MjiQVM6LYN3jfue67KH0fIcLABQ72cPNhePixfjmsz_LGxurTaVRn5CWzygyjNkFHL2639xfrc5cahyGMzIgOOcTFc5xaini2xY4Didx-Au6w7cASd5Xz1RBWWPsRBrpsHsZTYa48cFyiLl_w56I2HM8xphI3TERRM0T0MbekKZQsjRdw-m0qlx25jqjhHk2-xHAYOn46z14CS43Eqp5Kwq_0sMwpYQ6VAdeU9ZSZQEquTFXNky_7vjbLXRQuOSdVIkhvVXlsJz_w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 483680113,
     "type": "missile",
     "status": "confirmed",
