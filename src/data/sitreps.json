@@ -201931,6 +201931,21 @@
     "verified": false
   },
   {
+    "id": 1792756537052,
+    "type": "airstrike",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-10-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement issued by Hezbollah regarding the heroic operation in the city of Hebron:Hezbollah commends the heroic martyrdom operation carried out by the two heroic martyrs, Hammouda and Firas Al-Ja‘ba, in the city of Hebron at the Farsh Al-Hawa checkpoint, which resulted in a number of deaths and inj...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",
@@ -202159,6 +202174,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 Iran says term ‘Iran conflict’ obscures US, Israeli responsibility for war📌 Tehran, IRNA – Foreign Ministry spokesperson Esmail Baqaei has criticized the use of the term “Iran conflict” to describe the US-Israeli-imposed war against Iran, saying the wording obscured responsibility for initiating...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792756533851,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Saudi airstrikes target Yemen’s capital, Sanaa📌 Tehran, IRNA – Yemeni media reported on Friday, October 23, that explosions rocked the capital, Sanaa.Yemeni television also reported that the capital Sanaa had been targeted by Saudi airstrikes. No details regarding the airstrikes have been releas...",
     "media": [],
     "verified": false
   },
