@@ -199189,6 +199189,86 @@
     "verified": false
   },
   {
+    "id": 1792857558689,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-16",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | A ship was targeted near the Saudi Arabian coast.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792857576551,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "⚓️ | IRGC NAVY:The Strait of Hormuz is closed. The fate of ships that violate Iranian regulations in the Strait of Hormuz is to be burned in the fires of the American terrorist army's confidence.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792857570347,
+    "type": "rocket",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-16",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | The Saudi enemy is shelling communication towers in the Al-Armah area of Jabal Habashi district, west of Taiz. In recent days, Saudi Arabia has been attacking communication towers, civilian residential areas, and even its own mercenaries.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/JiszdhbKDl3ccSi8IY9byA0ncsZ3AvwfsM7TwmcZoipabA82Lnvn9iw7EXKI8KhZ_ASy6GKWCcg3cmXaxEDEoWJ5jNT-Vp1UNmsBS_wNlouwZdvuTLs2zulgBs2ioLDMRb0RkeVaya3C-4_Ts7Vns8USdwtDZppDtXXgLjjmKRsmWXn_oJuuPH6D_fn_YhXAcKHYEjHqoQ4D1EgE8xhfFvIIryaMHFni5KjhvfK-SLuvh8BNV9aoV63idXCNp9kM3osVDHeaB2FulZ1cgGhLW374CMorFcL7oBWz-PYBxXyFAyyeJrKyEeysaoV7fHlZuXHyB77OEAYA-dODeng9ow.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/b317d9d6ee.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/v4HLy8qPmpXw5ukYOZtdJNkigZZ-ahYsto9jK2wgUAInkFryt8Y23CiQ3-ZEbEUAJJe3hj7X0If96GkOEKj9_CkcYe-HAFFnSGEdCORmndUQf5ljY8TyvgAGqmjyuR6dLY_HmohpZ9aHIAXDWb8--nb_pCowrQIqhvGAQXpFQoOdLhnLSEi31HqTLZdEuGqvm6w-rNdNPSk5LXYwO1VcMXss5-Yk3Ouf8AmxgeBKWJMvBUUCGoYLR8nwXVb1QNjcYARtjcjhFA39cy60724T3tfO8Y6-GcaY1vMmLVh6xQHSkB-b3wlN43w0AcnwlCU8lDqwWDLF5gHlGzFpLfW_AQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63518?single",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/v4HLy8qPmpXw5ukYOZtdJNkigZZ-ahYsto9jK2wgUAInkFryt8Y23CiQ3-ZEbEUAJJe3hj7X0If96GkOEKj9_CkcYe-HAFFnSGEdCORmndUQf5ljY8TyvgAGqmjyuR6dLY_HmohpZ9aHIAXDWb8--nb_pCowrQIqhvGAQXpFQoOdLhnLSEi31HqTLZdEuGqvm6w-rNdNPSk5LXYwO1VcMXss5-Yk3Ouf8AmxgeBKWJMvBUUCGoYLR8nwXVb1QNjcYARtjcjhFA39cy60724T3tfO8Y6-GcaY1vMmLVh6xQHSkB-b3wlN43w0AcnwlCU8lDqwWDLF5gHlGzFpLfW_AQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792857574439,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-16",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Mohammad Mokhber, Adviser and Assistant to the Leader of the Revolution and the Islamic Republic:- The war against Yemen is nothing more than fighting among brothers and a waste of Saudi lives and wealth.- Weapons should be directed straight at the primary enemy of the Islamic world, the Isra...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Jl-9FExENKrDwwoGF3sJq9AWe8v4_BVNqQ5_c3EVc_mZNqYknpvIiYsm66mrgePilJMhN5dDN8t7gh3-oKr6dlzYDJuLJLfUW86ZgJvXYuEgzc-Wocx6k1hXCye2xGfwR5FyEIXrt2aSPdmF_L_U0BscPxBXnYXCtJ3hke4jgefmzCfte4cEn8FT0W5nyYwxbkH4JhIDDJQ4i25WDEnrgVBEsS23ozRhxavyA_EPxu6vZlsS9ubsQilf-8yVucQIQqWLjb_reNvMg9TuN45Yyv2HgbJIPaLkrSsaQmQPVkg3PM9Q2_1JnhaxiEoIHe_SSaEEs_1HvKTV9z7U80IBeQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792210617101,
     "type": "rocket",
     "location": "Sanaa",
@@ -202479,6 +202559,21 @@
     "verified": false
   },
   {
+    "id": 1792857628874,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Our Armed Forces, by the grace of Allah, carried out strikes targeting gatherings of forces belonging to the Saudi enemy at the so-called Al-Nasr Camp and at the naval military base in Aden. These forces are being assembled and equipped under the supervision of Saudi officers, led by Saudi Brigadier...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792727596410,
     "type": "missile",
     "location": "Riyadh",
@@ -202841,6 +202936,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1792857606259,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-24",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Repercussions of US-Israeli war extend beyond Iranian borders: IRGC spokesperson📌 Qazvin, IRNA – Spokesperson for the Islamic Revolution Guards Corps (IRGC) Brigadier General Hossein Mohebi, referring to the fallout of the US-Israeli war of aggression, says the confrontation could have repercuss...",
+    "media": [],
     "verified": false
   },
   {

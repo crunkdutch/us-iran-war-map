@@ -149649,6 +149649,53 @@
     "media": []
   },
   {
+    "id": 483783288,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Saudi Arabia Rocket Attack — Saudi Arabia: Saudi enemy shelling communication towers AlArmah",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | The Saudi enemy is shelling communication towers in the Al-Armah area of Jabal Habashi district, west of Taiz. In recent days, Saudi Arabia has been attacking communication towers, civilian residential areas, and even its own mercenaries.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/JiszdhbKDl3ccSi8IY9byA0ncsZ3AvwfsM7TwmcZoipabA82Lnvn9iw7EXKI8KhZ_ASy6GKWCcg3cmXaxEDEoWJ5jNT-Vp1UNmsBS_wNlouwZdvuTLs2zulgBs2ioLDMRb0RkeVaya3C-4_Ts7Vns8USdwtDZppDtXXgLjjmKRsmWXn_oJuuPH6D_fn_YhXAcKHYEjHqoQ4D1EgE8xhfFvIIryaMHFni5KjhvfK-SLuvh8BNV9aoV63idXCNp9kM3osVDHeaB2FulZ1cgGhLW374CMorFcL7oBWz-PYBxXyFAyyeJrKyEeysaoV7fHlZuXHyB77OEAYA-dODeng9ow.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/b317d9d6ee.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/v4HLy8qPmpXw5ukYOZtdJNkigZZ-ahYsto9jK2wgUAInkFryt8Y23CiQ3-ZEbEUAJJe3hj7X0If96GkOEKj9_CkcYe-HAFFnSGEdCORmndUQf5ljY8TyvgAGqmjyuR6dLY_HmohpZ9aHIAXDWb8--nb_pCowrQIqhvGAQXpFQoOdLhnLSEi31HqTLZdEuGqvm6w-rNdNPSk5LXYwO1VcMXss5-Yk3Ouf8AmxgeBKWJMvBUUCGoYLR8nwXVb1QNjcYARtjcjhFA39cy60724T3tfO8Y6-GcaY1vMmLVh6xQHSkB-b3wlN43w0AcnwlCU8lDqwWDLF5gHlGzFpLfW_AQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63518?single",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/v4HLy8qPmpXw5ukYOZtdJNkigZZ-ahYsto9jK2wgUAInkFryt8Y23CiQ3-ZEbEUAJJe3hj7X0If96GkOEKj9_CkcYe-HAFFnSGEdCORmndUQf5ljY8TyvgAGqmjyuR6dLY_HmohpZ9aHIAXDWb8--nb_pCowrQIqhvGAQXpFQoOdLhnLSEi31HqTLZdEuGqvm6w-rNdNPSk5LXYwO1VcMXss5-Yk3Ouf8AmxgeBKWJMvBUUCGoYLR8nwXVb1QNjcYARtjcjhFA39cy60724T3tfO8Y6-GcaY1vMmLVh6xQHSkB-b3wlN43w0AcnwlCU8lDqwWDLF5gHlGzFpLfW_AQ"
+      }
+    ]
+  },
+  {
     "id": 482838118,
     "type": "missile",
     "status": "confirmed",
@@ -153450,6 +153497,38 @@
     ]
   },
   {
+    "id": 483791569,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Aden, Yemen: Armed Forces grace Allah carried strikes",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Our Armed Forces, by the grace of Allah, carried out strikes targeting gatherings of forces belonging to the Saudi enemy at the so-called Al-Nasr Camp and at the naval military base in Aden. These forces are being assembled and equipped under the supervision of Saudi officers, led by Saudi Brigadier Staff Officer Badr Salah Al-Harbi, with the aim of attacking the Yemeni people and their Armed Forces.We reiterate our warning to those who have been deceived not to heed the Saudi enemy, which seeks",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483680113,
     "type": "missile",
     "status": "confirmed",
@@ -153678,6 +153757,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/mX_QNFjMQuJdPCzkNh0Ps23j_N8wDwkM10VAsltZNqsRsZKWULj0B56ZmIw7iNoMZiGKIwvD3CPEkNsP6psFgTxUphy310jngimC87iOgWjuEIfKsvDFrV8Fyn3chIWQ-Arf4-nScGnKUXedtFRiyZwloTttfEEpa88uVgf6pfXwHzf3xXHZOgSdHWaKlBmc70x0RDwFztvV91uhAubp4YS_hyGbp89UP1r86APXEWHU45hVuNsfNC7jTc3eIZ0maLo4hmdy58064lXte-nv8_-2n73fX2fFe_NGyfP75DKJzYPjfFYZHCRj8TBwJQH-yUmSbn8zcMtNX-ShdE4_Dw"
       }
     ]
+  },
+  {
+    "id": 483787428,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bandar Abbas, Strait of Hormuz: Iranian border guards have seized ships",
+    "location": "Bandar Abbas, Strait of Hormuz",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian border guards have seized two ships carrying smuggled fuel in the waters off Bandar Abbas, while reports have also emerged of an explosion targeting a supertanker in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 483721308,
