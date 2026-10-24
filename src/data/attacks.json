@@ -148159,6 +148159,166 @@
     "media": []
   },
   {
+    "id": 483762603,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Saudi Arabia: Enemy_MediaYedioth Ahronoth Hebrew newspaper effects economi...",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper: The effects of the economic damage inflicted on the country are already beginning to emerge. The aviation sector has been affected by Houthi attacks that led to the closure of King Khalid International Airport, a major gateway for visitors, investors, and businesspeople. The effects of other Houthi attacks on airports and other strategic centers in Saudi Arabia are also beginning to emerge.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483766738,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Lebanon, Israel: Enemy_MediaIsraeli enemy army radio Against backdrop",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: Against the backdrop of the “unidentified flying object” incident at the Lebanese border, at least three Hezbollah drones and intelligence-gathering devices have been launched toward the security zone in southern Lebanon over the past two weeks.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483770874,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Lebanon, Israel: Enemy_MediaIsraeli enemy army radio recent weeks",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: In recent weeks, and in at least five separate incidents, the Air Force has launched interceptor missiles at “suspicious targets” detected in southern Lebanon. As reported by our outlets this morning, three of these cases turned out to involve aerial objects launched by Hezbollah, one involved an object belonging to the “Israeli” army that was mistakenly identified as suspicious, and in one case it was impossible to determine the object’s identity with cer",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483775011,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaIsraeli enemy army radio three intelligencegather...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: Of the three intelligence-gathering devices launched by Hezbollah, interception attempts failed in two cases, while the Air Force successfully intercepted one. In all these incidents, the “Israeli” army announced that interceptor missiles had been launched at “suspicious targets,” as the interceptor missiles were clearly visible in the northern skies. However, in none of the cases did the “Israeli” army subsequently issue an update clarifying that the obje",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483779149,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-14",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaper Yossi Yehoshua",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Yossi Yehoshua: Even the mere assumption that a limited operation could be launched, its objectives achieved, and a rapid return to normality secured requires caution. “Israel” can decide how to begin the campaign, but it cannot unilaterally determine Iran’s response or when the fighting will end.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482853744,
     "type": "missile",
     "status": "confirmed",
@@ -150143,6 +150303,111 @@
       "other": 1
     },
     "description": "🇮🇷| UKMTO announces a tugboat traveling southbound northeast of Khor Fakkan, UAE was struck by 2 projectiles. Tugboat is continuing its route despite damage. 1 casualty was reported.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483746073,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Saudi Arabia: Sipchem Saudi International Petrochemical Company located",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 | Sipchem (Saudi International Petrochemical Company), located in Jubail Industrial City in eastern Saudi Arabia, has reportedly been struck by AnsarAllah ballistic missiles.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/nE59r_LC_6h4CpYkWN1GzTPUAd4EXtfm7cvoN5SioGSP7Q3CYPnNzAsJ9iNc7dxLSrsaG5GWSpVNk0mJr7iODkiXO00RlcjKlqQ_b5EFrJQAK0o59HILmQPJvOB961kt7EOKyOlpLbD7AaAfkOe0XUuqg6DWeOJEQBTUE4KcG2h3R00_opTHjga6nSsio8VsyWTo0lw2vVQPQx---3G9J7P9W-PCqGwW1Yx9HZcxcm310_IE5lWeDs_kxkkhvg3MuqS87jxqnHyzRFKn0yFqwZZ1j4Nv6IzaG5i_0OQjOnxDX17x0rqvy3tkiYA5v952jqOqjqj4qCNL3gY4JUqiOQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/AgQRXwafz0yYZ4kcCyETmRmBMpS_q14hv8lY_5ZOLZsEPwQe4p9O4Kll0FVS-hpKI1vSKhIKPhwuyzRUt02_urnI3F4FfKB0_BYQIHbSuRZZQCOHoZRnNwowGGY9-fgemLLfA-yK5KMEvFHY4FYO42YtyJHyaPiIjt-5K-sgJCxVIAs0T8FXoqPNfkzXBJgdQRzK4Spt6vnLJC2o4Bxbgdmiw9DfpLLSLXgMV0Eqn-J-o8kfqyU0oaM7deA4e7QwOpiIE5Sr9XFiw_aaZCpUcbOFa2WFfmdImJ99SwyAHnGQaqwWjK3W5uDsqSWDDi6XpDvmWpd6z48IM9kgKrHnIg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483750204,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Syria, Israel: Iran urges UNSC decisively compel Israel",
+    "location": "Lebanon, Syria, Israel, West Bank",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran urges UNSC to ‘act decisively’ to compel Israel to fulfill its int’l obligations📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, says Israel’s continued aggression and destabilizing activities across West Asia pose a grave threat to regional and international peace and security.The Iranian envoy made the remarks on Friday during the UN Security Council’s open debate on the situation in the Middle East. The debate began on",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483754336,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Persian Gulf, Israel, Turkey: Israeli aggression main cause energy crisis",
+    "location": "Persian Gulf, Israel, Turkey",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 US, Israeli aggression main cause of energy crisis: Iranian official📌 Moscow, IRNA – National Iranian Gas Company (NIGC) chief Saeid Tavakoli says that recent wars launched by the United States and the Israeli regime are contributing to the global energy crisis, calling for stronger regional cooperation to safeguard energy supplies.Speaking to reporters on the sidelines of the eighth Russian Energy Week International Forum in Moscow on Friday, Tavakoli said countries needed geopolitical secu",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
@@ -153546,6 +153811,38 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 483758469,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Iraq, Israel: Removing export barriers Iraq Pakistan Afghanistan",
+    "location": "Tehran, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Removing export barriers to Iraq, Pakistan, Afghanistan on agenda: Deputy FM📌 Tehran, IRNA – Iran is reviewing regulations governing exporters’ obligations to address disruptions in transportation and logistics, with proposals also under consideration to remove barriers to exports to neighboring Iraq, Pakistan, and Afghanistan, a senior Foreign Ministry official says.Hamid Ghanbari, deputy foreign minister for economic diplomacy, announced the measures following the 12th meeting of the Econo",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
