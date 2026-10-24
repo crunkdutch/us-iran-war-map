@@ -146531,6 +146531,38 @@
     ]
   },
   {
+    "id": 483741943,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Lebanon, Israel: Enemy_MediaIsraeli enemy army radioThe Israeli armys",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio:The “Israeli” army’s clarification regarding the incident involving the unidentified object that penetrated the airspace along the border with Lebanon last Saturday evening:Following an in-depth investigation conducted by the “Israeli” army into the incident, the emerging assessment is that the object was most likely something with the characteristics of a balloon or a device that flies using hot air.At this stage, its origin or purpose cannot be definitive",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483006936,
     "type": "airstrike",
     "status": "confirmed",
@@ -153340,6 +153372,49 @@
     ]
   },
   {
+    "id": 483729559,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Iraq: Islamic Revolutionary Guard Corps IRGC carried",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The Islamic Revolutionary Guard Corps (IRGC) carried out a pre-emptive strike against a key gathering centre of the PJAK terrrorist group in Iraq.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d651b8aa91.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mX_QNFjMQuJdPCzkNh0Ps23j_N8wDwkM10VAsltZNqsRsZKWULj0B56ZmIw7iNoMZiGKIwvD3CPEkNsP6psFgTxUphy310jngimC87iOgWjuEIfKsvDFrV8Fyn3chIWQ-Arf4-nScGnKUXedtFRiyZwloTttfEEpa88uVgf6pfXwHzf3xXHZOgSdHWaKlBmc70x0RDwFztvV91uhAubp4YS_hyGbp89UP1r86APXEWHU45hVuNsfNC7jTc3eIZ0maLo4hmdy58064lXte-nv8_-2n73fX2fFe_NGyfP75DKJzYPjfFYZHCRj8TBwJQH-yUmSbn8zcMtNX-ShdE4_Dw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63782",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mX_QNFjMQuJdPCzkNh0Ps23j_N8wDwkM10VAsltZNqsRsZKWULj0B56ZmIw7iNoMZiGKIwvD3CPEkNsP6psFgTxUphy310jngimC87iOgWjuEIfKsvDFrV8Fyn3chIWQ-Arf4-nScGnKUXedtFRiyZwloTttfEEpa88uVgf6pfXwHzf3xXHZOgSdHWaKlBmc70x0RDwFztvV91uhAubp4YS_hyGbp89UP1r86APXEWHU45hVuNsfNC7jTc3eIZ0maLo4hmdy58064lXte-nv8_-2n73fX2fFe_NGyfP75DKJzYPjfFYZHCRj8TBwJQH-yUmSbn8zcMtNX-ShdE4_Dw"
+      }
+    ]
+  },
+  {
     "id": 483721308,
     "type": "drone",
     "status": "confirmed",
@@ -153402,6 +153477,75 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 483733686,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: supertankers damaged after striking mines Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Two supertankers damaged after striking sea mines in Strait of Hormuz📌 Tehran, IRNA – Two supertankers carrying more than 4.5 million barrels of crude oil were disabled by sea mines after attempting to cross an unauthorized route south of the Strait of Hormuz, the Islamic Revolution Guards Corps (IRGC) has announced.In a statement issued late Friday, the IRGC said the two vessels struck naval mines earlier in the day, triggering explosions and intense fires in their engine rooms.​The damage ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483737814,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Syria, Israel: According Sijil Center 2850 violations Syrian",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "According to the Sijil Center, 2,850 violations of Syrian sovereignty have been recorded since the Jolani government took office, including Israeli airstrikes and ground incursions.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/scBJrOFU0h0V1dB7QyrRPUOeoHMjcp9X8mhR_JPkXqYgdGnGh8KLkm6LrRe48UtJS8UiTvolUWxxefvUH4f2BXWPxnJkoHtioBF9kX9tt6vNqvAdMHL0sfNvmCOrk84KWBR0u7Yw-JU182yANeCH89mL1dqqot-7EskI1ill-VRGDqbF-VmdFQLJDanpu4n94YS-x1aNFSfq59jvoRp60-0oc7AUeiLVVUCyvQ6AR0i4nkC-_HyBxQsaIo4Wyyo-K0pxlQBvNfKo-FvpNC2kjF7WklJ8rI2KgCVI8pvO1nJaV10kkNynnhXRQdmq3SnYSTjGgkkVNX0Jv0Pgng0q0Q.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,

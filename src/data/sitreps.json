@@ -196894,6 +196894,21 @@
     "verified": false
   },
   {
+    "id": 1792828671225,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-12",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen With the help of Allah, our Armed Forces successfully shot down a Saudi enemy Wing Loong II armed reconnaissance drone while it was carrying out hostile missions in the airspace over Saada Governorate. It was targeted with an appropriate weapon.http://t.me/army21ye",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210611754,
     "type": "airstrike",
     "location": "Yemen",
@@ -202519,6 +202534,21 @@
     "verified": false
   },
   {
+    "id": 1792828753111,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-10-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Islamic Revolutionary Guard Corps (IRGC) carried out a pre-emptive strike against a key gathering centre of the PJAK terrrorist group in Iraq.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792814268313,
     "type": "missile",
     "location": "Sanaa",
@@ -202531,6 +202561,56 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴 Hourly Updates (-ve): October 24, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi aircraft reportedly carried out four airstrikes on Harf Sufyan District in Amran Governorate, with reports describing two raids followed by another two.• Saudi aircraft reportedly carried out two airstrikes on Khayar isola...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792828673573,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Spiritual insights drawn from Leader’s lessons published📌 Tehran, IRNA – The Telegram channel of the Leader of the Islamic Revolution has published spiritual and ethical insights drawn from lessons by Ayatollah Seyyed Mojtaba Hosseini Khamenei, under the title “The Best Deed Performed on Behalf ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792828749098,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ President Pezeshkian visits Imam Reza shrine in Mashhad📌 Tehran, IRNA – Iranian President Masoud Pezeshkian visited the holy shrine of Imam Reza in Mashhad, Razavi Khorasan Province.Pezeshkian visited the shrine of the eighth Shia Imam, Ali ibn Musa al-Reza, during a brief trip to the northeaste...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792828729261,
+    "type": "airstrike",
+    "location": "Jordan",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "date": "2026-10-24",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "According to Al-Manar, Hajj Muhammad al-Khansa, the Hezbollah official responsible for Christian relations, said that Hezbollah vehemently condemns the terrorist attack on a church in Jordan's Karak governorate, which left several people dead and injured.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ACX9gH52_f0XwJp1hWeLKskAje6o5Qt-g9C7YoQJi_AlqpI-B8nOzRCsGsNocruEj-tVKd-YU5kNHxpLXYARbiq56JyUe29h-z1YyWS9jxqwOgor_ocqSBHf6BuGx8GCmH8IekOhcIKeEz7R-Ly-MNswmSJIDq-mHB-L2T5EGXAzIMI_r5xxmo1LMuNIP8Y8xO-9lik_0Lti5pZmKGIjZKkUL7gwO8uiPF2ht8CoGwxzVjURBm-m7WBPKpIW36wC3JWBYt-0HTq_40FB_jkwEBbZW84owcwuT_BWzox8mLmzI9tnLsMhobiD1q-ZnP0nhqM_cu-wSnylmbFT8Ca7Vg.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
