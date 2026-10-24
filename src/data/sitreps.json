@@ -202320,6 +202320,47 @@
     "verified": false
   },
   {
+    "id": 1792814260659,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Navy:Since the beginning of today, two violating supertankers that attempted to pass through an unauthorized southern route in the Strait of Hormuz struck naval mines, causing their engine rooms to be disabled and halted in place following explosions and intense fires.These tankers were ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b3528c22f7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/INLw4KqoS2tmDpkcwyeQrcsZxE-3K_kQfrVXpzCWglk0sNtpaUQEoxL57H9Iei9XuL6-VVDBezARiqS8_cZKMnLwaamYmBPtHpS5q4LfDkWf8cfVX3GwllsIMX9OD0dVL6PdNYhWWc0AfsnaqULvGI3deJQqswabZxRocxViDufeELecy7Kr46XY7n7peTp6JKriWtaAvM-XTwDF7Hlb7OaEUOfNlPabxXlKwJqUpJ-25w3g2Iw-j24PoEvyJ9MkBLz7r9eJNv0LzlZX3EqjulFQPSUSJTkWHrSN7YsXDuzpFQgZ3wKeZI-QNpJRIBlJt0nC8Lwtya9rXR64NDiM6g"
+      },
+      {
+        "url": "https://t.me/enemywatch/63777",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/INLw4KqoS2tmDpkcwyeQrcsZxE-3K_kQfrVXpzCWglk0sNtpaUQEoxL57H9Iei9XuL6-VVDBezARiqS8_cZKMnLwaamYmBPtHpS5q4LfDkWf8cfVX3GwllsIMX9OD0dVL6PdNYhWWc0AfsnaqULvGI3deJQqswabZxRocxViDufeELecy7Kr46XY7n7peTp6JKriWtaAvM-XTwDF7Hlb7OaEUOfNlPabxXlKwJqUpJ-25w3g2Iw-j24PoEvyJ9MkBLz7r9eJNv0LzlZX3EqjulFQPSUSJTkWHrSN7YsXDuzpFQgZ3wKeZI-QNpJRIBlJt0nC8Lwtya9rXR64NDiM6g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792814268313,
+    "type": "missile",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-24",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 24, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi aircraft reportedly carried out four airstrikes on Harf Sufyan District in Amran Governorate, with reports describing two raids followed by another two.• Saudi aircraft reportedly carried out two airstrikes on Khayar isola...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
