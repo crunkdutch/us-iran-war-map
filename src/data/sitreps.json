@@ -203872,6 +203872,62 @@
     "verified": false
   },
   {
+    "id": 1792958664119,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-25",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:In response to the brutal Saudi aggression targeting our country and our people, and in retaliation to the massacres committed yesterday in the capital, Sana'a, and the liberated provinces, which left dozens of martyrs and wounded, most of whom were women and children...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792958683733,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-10-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪/🏴| Unable to counter and contain AnsarAllah’s advances, Saudi Arabia has entered a phase of massacres resembling the tactics employed by the IOF. The massacre of civilians in Yemen continues, echoing the Minab crime, this time on Yemeni soil. A few notebooks and a schoolbag are all that remain...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/15eb5f8ac7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/kgsKzt4EoLLKS9lD49ZJEB-JFK9BbMo2qe4-V5fYs_kRPdJeDeNZn0vDNkMeujBe2EQC6VkRTG0dF3An1xjRI9YgXFD83vn9HNh9QUjJUzZlTHjuLKh8tKVzVxWuyv9nY23adEUUq1kXhS7JhaRkfGpJayxFbU_74bqJLROJe96XxnhgjEM8C5l5hFW7JG-x07aF6yvKLx_yKfy1YPzqksesy_F27AEBazvAJ_BrccqrH4lC4-kdPX_90XnhAn9JIhT01ARyBTbQzK6dSXP7RvCsp3iY1bKEZv_gpXjYh1KNJCj9OX80NOEKwO_e1Bn7X5P4_YIajoveudpRxf6Z_w"
+      },
+      {
+        "url": "https://t.me/enemywatch/63847",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/kgsKzt4EoLLKS9lD49ZJEB-JFK9BbMo2qe4-V5fYs_kRPdJeDeNZn0vDNkMeujBe2EQC6VkRTG0dF3An1xjRI9YgXFD83vn9HNh9QUjJUzZlTHjuLKh8tKVzVxWuyv9nY23adEUUq1kXhS7JhaRkfGpJayxFbU_74bqJLROJe96XxnhgjEM8C5l5hFW7JG-x07aF6yvKLx_yKfy1YPzqksesy_F27AEBazvAJ_BrccqrH4lC4-kdPX_90XnhAn9JIhT01ARyBTbQzK6dSXP7RvCsp3iY1bKEZv_gpXjYh1KNJCj9OX80NOEKwO_e1Bn7X5P4_YIajoveudpRxf6Z_w"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792958679233,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Yemen’s armed forces strike Saudi targets in retaliation for Sana'a massacres📌 Tehran, IRNA - Yemen’s armed forces said Sunday they carried out three military operations in retaliation for massacres committed by Saudi Arabia and its allied forces a day earlier in Sana'a and in provinces in the c...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
