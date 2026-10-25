@@ -202574,6 +202574,21 @@
     "verified": false
   },
   {
+    "id": 1792900930741,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran envoy to UN urges professional, impartial IAEA reporting📌 New York, IRNA – Iran’s Ambassador to the United Nations, Gholamhossein Darzi, has asserted that the International Atomic Energy Agency’s (IAEA) reporting must be professional, fact-based, and free from any political influence, notin...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792727596410,
     "type": "missile",
     "location": "Riyadh",
@@ -203077,6 +203092,27 @@
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says: “So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.” Allah Almighty is Truthful In the context of responding to t...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792900895045,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-24",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪/🏴| Four people, including two children, were martyred, while a woman and a man sustained injuries, with the man reported to be in critical condition, when Saudi enemy aircraft bombed the home of citizen Fouad al-Shaabi in the Asr area of Sana’a, the Yemeni capital.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/63810",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZC5wJyYNFNtXhD9GALSbpiqmbVFOr3hRKx0Gd-BFcYl9WHOl3kT4mEpb4Y9WNiPbJ3mh47GmRdVx_lQIKup5zBDbAVhU5_XqqJJTU2NfUbXuILYOCC3Sy3CKKRxftJEVoLm9Kb93mX6K99Aw7X29hw03BEHap4rAEqNzUgxrm-aJajCdQBnNksDLnZuFrC9ASDdVlJzFpvGKoGRoMZvbEpFW3HiNCptDNhVCBtUjud4KLg-eC3bcK9-_YZfQYsXCn-p-AdahiVrxNZn4XCqoKbtfN8x2pp0fgaveT7qqLorb1PZOuoYVTQRjqw6d4pOpkuhYrxCuZNXQi3gZGj58HQ"
+      }
+    ],
     "verified": false
   },
   {

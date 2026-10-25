@@ -153529,6 +153529,49 @@
     "media": []
   },
   {
+    "id": 483816436,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Iran envoy urges professional impartial IAEA",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran envoy to UN urges professional, impartial IAEA reporting📌 New York, IRNA – Iran’s Ambassador to the United Nations, Gholamhossein Darzi, has asserted that the International Atomic Energy Agency’s (IAEA) reporting must be professional, fact-based, and free from any political influence, noting that the agency’s credibility depends on its impartiality and adherence to technical and professional principles.Speaking at the 81st session of the UN General Assembly in New York on Friday, Darzi ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9c50e7fed5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
+      },
+      {
+        "url": "https://t.me/mmirlb/41157",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
+      }
+    ]
+  },
+  {
     "id": 483680113,
     "type": "missile",
     "status": "confirmed",
@@ -154096,6 +154139,70 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 483808143,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Baghdad, Erbil, Iraq: Hourly Updates October 2026 Iraq Revolutionary",
+    "location": "Baghdad, Erbil, Iraq, Israel",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Hourly Updates: October 25, 2026🇮🇶 Iraq- The Revolutionary Komala Party of Iranian Kurdistan said one of its headquarters in the Alana Valley in Erbil province was targeted at around 10:00 p.m. by a Shahed-type explosive drone. The attack caused no casualties and resulted only in material damage.- Iraqi officials suspect that israel carried out airstrikes targeting two warehouses containing Chinese-made air-defence systems recently transferred from Iran to Iran-backed armed groups. The st",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483812289,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Erbil, Iraq: Hourly Updates October 2026 Iraq Revolutionary",
+    "location": "Erbil, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Hourly Updates: October 25, 2026 🇮🇶 Iraq - The Revolutionary Komala Party of Iranian Kurdistan said one of its headquarters in the Alana Valley in Erbil province was targeted at around 10:00 p.m. by a Shahed-type explosive drone. The attack caused no…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
