@@ -199464,6 +199464,81 @@
     "verified": false
   },
   {
+    "id": 1792951452015,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-16",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: From “Israel’s” perspective, the threat is not measured solely by the number of missiles Hezbollah has remaining in its arsenal. Advanced explosive-laden drones, small units operating in the field, and decentralized combat formations may pose serious challenges to the “I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792951473877,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Yossi Yehoshua: Even the mere assumption that a limited operation could be launched, its objectives achieved, and a rapid return to normality secured requires caution. “Israel” can decide how to begin the campaign, but it cannot unilaterally determine ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792951456663,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-16",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome,” “David’s Sling,” and “Arrow 2” batteries, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792951406099,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-16",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Yedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792951469898,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: Today, the final meeting of the 37th \"Israeli\" government will once again be held in a secured complex rather than at the Prime Minister’s Office, three years into the war.The more interesting question is: Does this mean that the Prime Minister will now avoid public even...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210617101,
     "type": "rocket",
     "location": "Sanaa",
@@ -203078,6 +203153,26 @@
     "verified": false
   },
   {
+    "id": 1792951456970,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel\" Hayom Hebrew newspaper: The \"Israel\" Prison Service transferred eight Palestinian security prisoners to solitary confinement after they prepared an improvised cake to celebrate the end of National Security Minister Itamar Ben-Gvir’s term in office.The cake, made from food items ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Qy7CPEYwrkuY0C409htWWLc82NsmIe-u6sGnQZ5yVbgGMloH6Do4KRiDOvKgJdtktSmGxYmccuZdmLkX4-QAD5UeM5XdUVhcsnmhZtYzU1UdEGecvSopfxDhJnqSpC6mlLrghpl3QHHQEQsMoeZopWTDec9Uqp355y-18eiaizsAP7GVlgKYe0cmArDWScB8T2t49JsuqOHazE0Zgl1wqbb3pht_s3Z0vWbiY0__9aNan-v8dGCGb_vJf28qNIMjm1idVgfiCSNB5OgTGInzJ8JXQ8jOFvi-NqQoXIpruPE0cB1sB5fD_YwfcIWJ3FvLC_xOH3EYclRXaZ_-L_jxhg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792814268313,
     "type": "missile",
     "location": "Sanaa",
@@ -203758,6 +203853,21 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇸🇾 | A loud explosion was heard in most areas of Damascus and its surrounding countryside.▪️@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792951494388,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇶🇦 | A Qatari delegation has arrived in Tehran, Iran.🔹@enemywatch",
     "media": [],
     "verified": false
   },

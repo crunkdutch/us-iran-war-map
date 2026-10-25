@@ -149952,6 +149952,102 @@
     ]
   },
   {
+    "id": 483907923,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Unknown Interception — Israel: Enemy_MediaIsrael Hayom Hebrew newspaper Yoav Limor",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Yoav Limor: In an attempt to demonstrate the seriousness of the threat posed by loitering drones, the Shin Bet (General Security Service) conducted an exercise attended by the political and security leadership. A loitering drone was directed toward an extremely important target that had been considered protected. All relevant systems were activated to intercept it, but the drone successfully reached its destination.The message was fully understood, b",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483912093,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaper Yossi Yehoshua",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Yossi Yehoshua: Even the mere assumption that a limited operation could be launched, its objectives achieved, and a rapid return to normality secured requires caution. “Israel” can decide how to begin the campaign, but it cannot unilaterally determine Iran’s response or when the fighting will end.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483916264,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen, Saudi Arabia, Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaper BenYishai Israe...",
+    "location": "Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome,” “David’s Sling,” and “Arrow 2” batteries, to counter ballistic missiles, cruise missiles, and Houthi drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482838118,
     "type": "missile",
     "status": "confirmed",
@@ -154858,6 +154954,111 @@
         "url": "https://t.me/enemywatch/63832",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/fSx7G6khyv7JnJjMXznOexaGR8abXA45qVeKADdI9RQeECWZJrmtbETKVKfTTZ2uXihvpMO1mSJOjq_NpMQ20YRMWq3CiSMW8lhFzTjxvgcFhYz0hrMDMkFjbUeSnXeMu0zTsX-_8AZ0ccEu2ZkbXTOqipG_HkLgapB1Tn-OfawIPI50V8TjLCIgXpNpaeJeIKgrUiZpGBg7rpzd85DC0ctsiMBWfF0cZCG7h1Q4WNyU89E4l6pp4II0cg3c134STAgP0dA4t8T017r-XP8ePLS9OSIhU17EjULHhDLEWOqbkL9U_Ow8GoJzWt30x0lZUw0wQIwz6qXrCJvd5cL-Uw"
+      }
+    ]
+  },
+  {
+    "id": 483899586,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Fars: first time Iran issued direct retaliatory",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷/ 🇩🇪 | For the first time, Iran has issued a direct retaliatory threat warning to a European nation. According to Fars News Agency, Iran has warned Germany that all barracks and centers affiliated with Germany in the region will be considered legitimate defensive targets if Berlin openly engages in a military confrontation with Iran.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483903754,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Strait of Hormuz, Persian Gulf: Iran prepared scenario will succumb threats",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf, Oman, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran is prepared for any scenario, will not succumb to US threats: Baqaei📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has reiterated Iran’s resolve to defend itself against any aggression, saying that while the country keeps the door open to diplomacy, it is fully prepared to confront any scenario.In an interview with German broadcaster ARD on Sunday, Baqaei said Iran has learned that Washington and its leadership cannot be trusted, as their strategy “is not diplomacy, but a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LvyhZZQ83J6S0pg7mtTehrHxrrR8q9ueAtkMGTBf_hlaDT9MzK5ea2xK8KDa3A-OrtzCDL3p6ftqsfwyZvs_qNHjbGTqDVaZzGkR5diyi7Xk8uHDz66I097Rzkj1shVtcDs449fdIgx_RIT1zEkIXWp5tzCEGn7lm5OS05RM8FXnJpdHYP-XgTp6OiGImGaRFTccLrP_mj1dbeOReoPxcw6WrK1ZX11VUepEFfLR4tgGe8gd7tY7K_agBXHPnAsrdCJ3voxuCj7DgENB-KZNcngGfoSnHZ-5YlPD-N_ABrvSW0qmktswXTjYd2lF1FvZDWQb5B3eI7oS9WLILAfV1g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/FDdEC5RwVj-0a-QaGvxmnrpSGs7Iycm8hv_cFZEUe-J-MMif1iYe2OPPnh1yltrYrsmduxdhSO1V66RdtJuaT8_H9oN1v9vjsSd46wyJiDI-5Yu9NKZv1f51Q6z60o5tcFk9COqkXeH7Ub9worEhybqaDidOA3mXfOa7pR7Ad3zF-giPlGaikAbH0BtgVBgFSs6l_hx5jtD6nf7PrKIcHD8GMpogFc7c3THajwTo9_c5PpTXBaaJHwGcpGxhL9IyMz1PBOaFjSIlwK4xnZTig7QYKwrI9qzuprUEGd_OeZKWVD_U5rNrzx3xL2F0QQu3WhpwkqZ8cLX6gqxpxZY2JA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/t-YRZhAmnEGO2yxWIFMDk1jb06BCKG0v7NDjtek8upleAmApW4GVfb1db1LE_CpgkwJ94H5jtsqgY1BfxGjp-asAvfYVCq3EyrXbeoHYl9WXAXU_8h-naWJp9lz_iDyD5pFGTZN7tykqmPVWkmO1LAAeoqCxaOtyIKqZ9lB1PVDwuKiEQ9Ktin4HFB8HqebRMB7hxnwFa-uBMwVVpjDmAmZtvxEWUz1DQEZlnLmmoCBaE4XTbMhVV7oBg4hfXVtGIBmLVelQ40oTPtAMoXmPNN_AjPEQ0_FILoga5605LUgZd1B8Yrhjal6Sork-8d9aIfuf0oN2dZSbeDalgnDsgA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/nv4N8-lsNc_jPixS7f1hcuBrYC6XqdEg5pf6A357LSkTKgUGQadghsrHCeYkf4PV7Z3lP9ORdBj3A3Jy8PBVgOvDBLW2mKpwGL_cbi1XVQoCT35FMozAmosRyMZ9PJW1g-gUg8gG_qY8kuFuZsROiLP0O-zs07UDpDCi0cS2vBfojJ6kCzTjP5ihAjISVRQE_jFUKkH0GR74z9hG5_KG2VKLHCBtC0S4SPiSVkOFtK2y0OgIr8dC-8eKYdpUuUur-omuugJjnIg9mQxhytJrDqZcS_4qvQ7XJugClAEINJvYv4jvVXsBxsiLw2atOk_lLBQVqrbEuGYEy25jItYc2w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/pQvJcy9ArDPg02IeF8TLeEqex7Ov5Oxl5sOiUY_BQtsc30X3J5l8wJqmjSnwI2PsfSpWKDDM978n6bxurZaP5rS-SgAL8fjBIKAod7eBm-KykWYXwJeDEDlBlGD6Ou0Xg6LePu0pckY4hDg21rO5X5Nl0sRAAE44xH3MuFyQm8sG3LkVPkUHR9bgkz4GLtfZwUB3WtOp_-mBGlFLHaZyXjPrPDz3KYZBZvaIQKnFSXPDx67wqWvQ-y3yuHYMlTtk-4d5cidn4d27n9Rir7r026LjykDgse0Omobq8bQbuo_Vu7TyHsazMLa5cH_ZJEPwIilXUaQ1vGAFwQv6MVqt6g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cJcoLtf_T6DRlklrjnHuunHkjeURNnK25ZP2t-C-dJH3qz0DwIPLGQPhUSLD0mU6mTknISItkxe26Vz41xa7v0-XJ4ixmAP981xPHhHTICzG8jr4oumuTyHj4ODTFUV0sHuWzwQU8mjVdrqPYswpo_Vz7EzstOGyPXIO9xHEmZnaDFR4eBG2FVToKQImrF_f0WPyBfcWyInfDe2WaokPkdxmfKAD99XBY_Yn6iTV_xQDDne8tdOzMA7EWa8I2SQ6nu6W-kpbN1c5gUJ6KhEz8QcudBNWyXFKO_e-eEXPQoTiuxA23OoUigc-wDVnhMrZsj6D2J3bieSxPsSMLJXrAQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/eR1CGWfhgcVOsn7ZGwOVnQdQmSDVtP3mO8KUpaWBV7o93m5WpiYmWTgDYaDzsspLP7mb-3GE2ddk-xVd_WhdgJYuYRThvpFN8xi6H8IkAj_Hw7m5lSGFbC0Mnp_zbkkOwqldnUuzSBeEWzUNnDIT1EToBSkSO27-n4Vr2cjxAwEw20Cbsb5tmUbFyi0q9nzY6GSFZybfDy45Iv3gvdfxr_DzzXHHxrlrAhU5zVCpmjc0UGTJbGL98qnJL6YPyuPpmatHwtduOtiKneBvs9aPAT40ApZoH_h1tw-ShI2fC04-gilAetXTk2sELveGkRHe7_XwEoNdHcByVU0cbW_o8g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ILmooHnK-c5VFBzK7q1053ifAqhIgGPQR60iCuYK8BvbOc_D5xTkQyLTbi2tj7fqd3eP7ihL0tumURiIrjSzyt3tto-QNXmfjl2rsLBtOXREEZ0GiYAyzbVk7xeepuljz7-HdCCkU8vKAwECZ5R2JcXhDL5tCqxFRzOD36R8tHOuU5xSG-UZ_ng9J_atJz5lh_y2kQVcKrAx6V5HGf25r4s06kGE4by6-l0mKTd3VwmfG9fKEO4YiWkX8BVofbteSCo9i6YmGhkzhiNOn2Rm1rGqTbPi8LXTVSQgxP97I5hcSTddOVJ3yaxGCH3FPI9Xp2YHd551KScQ3SXs5yQTvQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/AbPlmwYDQaiHL3JigFpFcouL7inOVt92PS1jolTSVF16HSq5x_SYbrvumAUigTehNfz7JwHQVg6_fakoH8-JRWhDrdTYIjFoOUJDQeVle447504mVeAqM8LINb8NYVg5CPMYUWowM7t9yTc697x7ftvN6IP0_zchXPP9SFpqSGlmzedEj8r0cUICzE1YtNdcR5qliw-Wgq7FgPlp1C7EEu2kbl5-6InahM9x0dqZL6H7CfsyfqBOF97bws__QVQV6aImhWh0wAvW_Tb3noFGP2KOantCUJo-deYtlKkE0j_Wj90fn-qHLOdBmbzP4e1fUf4uaCzlK5Umo0gZti6ygQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/N9ExB1vurtB4zUTmC6_uOSDCyj5VnvzrX54rEQJikkfnWJVJoejNGRxJcdHaCwBztnt-SOUUBfwLtY07o6uTxeoU16VuwZo0lsNyPxAOJUHgJBLjYEtDXTjDnOpSitglNdyS6XZRU5Y7za3lCrX8mmpzyVUrAWA6pIWJ0Km5mE5CkJe1Inog8r1G1a9MWdpFIeYRnwvd6SAWUUAe8Lg9NkdsrfFMvRx0JRx0jYRJPT9NU6HFTlSqHqOdGRY30SCbOnvLJhXpebdcUJwVvye7eVlULNqbe3GIKpQTQy2ebX3Sm3hNv3v6dKxcWIOldG_d6_nJclfeaV5onnifu3F3fA.jpg",
+        "type": "photo"
       }
     ]
   },
