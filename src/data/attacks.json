@@ -154819,6 +154819,49 @@
     "media": []
   },
   {
+    "id": 483895419,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Saudi drone been shot down over",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | A Saudi drone has been shot down over Sana’a, the capital of Yemen.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/174f39944f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fSx7G6khyv7JnJjMXznOexaGR8abXA45qVeKADdI9RQeECWZJrmtbETKVKfTTZ2uXihvpMO1mSJOjq_NpMQ20YRMWq3CiSMW8lhFzTjxvgcFhYz0hrMDMkFjbUeSnXeMu0zTsX-_8AZ0ccEu2ZkbXTOqipG_HkLgapB1Tn-OfawIPI50V8TjLCIgXpNpaeJeIKgrUiZpGBg7rpzd85DC0ctsiMBWfF0cZCG7h1Q4WNyU89E4l6pp4II0cg3c134STAgP0dA4t8T017r-XP8ePLS9OSIhU17EjULHhDLEWOqbkL9U_Ow8GoJzWt30x0lZUw0wQIwz6qXrCJvd5cL-Uw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63832",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fSx7G6khyv7JnJjMXznOexaGR8abXA45qVeKADdI9RQeECWZJrmtbETKVKfTTZ2uXihvpMO1mSJOjq_NpMQ20YRMWq3CiSMW8lhFzTjxvgcFhYz0hrMDMkFjbUeSnXeMu0zTsX-_8AZ0ccEu2ZkbXTOqipG_HkLgapB1Tn-OfawIPI50V8TjLCIgXpNpaeJeIKgrUiZpGBg7rpzd85DC0ctsiMBWfF0cZCG7h1Q4WNyU89E4l6pp4II0cg3c134STAgP0dA4t8T017r-XP8ePLS9OSIhU17EjULHhDLEWOqbkL9U_Ow8GoJzWt30x0lZUw0wQIwz6qXrCJvd5cL-Uw"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

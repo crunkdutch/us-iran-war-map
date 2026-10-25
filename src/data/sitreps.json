@@ -203652,6 +203652,101 @@
     "verified": false
   },
   {
+    "id": 1792936968156,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | After a long gap and amid internal challenges, a public session of the Iranian Parliament has been opened under the leadership of Dr. Mohammad Bagher Ghalibaf, with a portrait of Imam Mujtaba Khamenei displayed in the background.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Jw6tVnwWOb9xcY9Tlbhw9cMrcCussvZ0khnTY7xJv2oqoKWTyNRihgvVg58OFuYUQywphRQpmY-AJISD1vApr2uoT5wUVUPpdkYXKrtPc6HvBb_WH28xSkPelVI0i-oGTzVQMXwUeo_9I6wY-e-YLcyp0dkeoX4RDyQ7fnEhHU8YNBct02_Umay-oeRDAZkSN7HHq7LWeQeI-Au7y5kpDuY_HBXOupMV6t0ppqoM1xS9ytApr_uRkYRQcRKYpoq3skg595ra1Y9w3tI4TS0JcdIf5ux9LJ8lrFdltewBWHq-rVfkUIfBBgvXTXa9dSvUBDLcENtlsBJyxf8Z4uj94g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/je6pVAPsqeuO8ZdOqsUebbGjZCrmMTF5T-l__TPpqIUJuxUBP2HtAmATOMMjgzbXGoOGYGBP4muO5uCe2LOMTwuqxiWGKyKSWIXkyQ2BKb1w8EDGkIvCiknkeDVfK8gfR4koP4gm42aC20Mu2E1ntZW-YIPsalbClbzGxPPH20JZ8Cor_iCbNYk4jJUGvHEprJcJyZP2jj_9p5IWK8UwR1b4kzNk5bu8KC6Q3PytpGhwIQ0BS-7m9Cy9oKG4cuI1ytvkYxrr7sXf-U6hjNVzHmf3p_AiHEml8hIY-ugnXrnV2R8NWIxSieBDcmxm4ZReJnS-UJdJiGCHxPHkvTSimw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792936986367,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— American and israeli fighter jets are regularly entering Syrian and Iraqi airspace near the Iranian border as part of psychological warfare and military drills. Neither the so-called Syrian regime, Iraqi officials, nor any religious authority has raised concerns over these developments.🔹@enemywat...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792936992917,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | A Saudi drone has been shot down over Sana’a, the capital of Yemen.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/174f39944f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fSx7G6khyv7JnJjMXznOexaGR8abXA45qVeKADdI9RQeECWZJrmtbETKVKfTTZ2uXihvpMO1mSJOjq_NpMQ20YRMWq3CiSMW8lhFzTjxvgcFhYz0hrMDMkFjbUeSnXeMu0zTsX-_8AZ0ccEu2ZkbXTOqipG_HkLgapB1Tn-OfawIPI50V8TjLCIgXpNpaeJeIKgrUiZpGBg7rpzd85DC0ctsiMBWfF0cZCG7h1Q4WNyU89E4l6pp4II0cg3c134STAgP0dA4t8T017r-XP8ePLS9OSIhU17EjULHhDLEWOqbkL9U_Ow8GoJzWt30x0lZUw0wQIwz6qXrCJvd5cL-Uw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63832",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fSx7G6khyv7JnJjMXznOexaGR8abXA45qVeKADdI9RQeECWZJrmtbETKVKfTTZ2uXihvpMO1mSJOjq_NpMQ20YRMWq3CiSMW8lhFzTjxvgcFhYz0hrMDMkFjbUeSnXeMu0zTsX-_8AZ0ccEu2ZkbXTOqipG_HkLgapB1Tn-OfawIPI50V8TjLCIgXpNpaeJeIKgrUiZpGBg7rpzd85DC0ctsiMBWfF0cZCG7h1Q4WNyU89E4l6pp4II0cg3c134STAgP0dA4t8T017r-XP8ePLS9OSIhU17EjULHhDLEWOqbkL9U_Ow8GoJzWt30x0lZUw0wQIwz6qXrCJvd5cL-Uw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792937024822,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Revolutionary Guard targeted a vessel violating regulations in the Persian Gulf.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792936988589,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-25",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iranian parliamentary delegation arrives in India to attend BRICS forum📌 New Delhi, IRNA – An Iranian parliamentary delegation has arrived in the Indian capital to participate in the 12th BRICS Parliamentary Forum, set to begin tomorrow.The Iranian delegation—comprising Ahmad Naderi, member of t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
