@@ -199010,6 +199010,96 @@
     "verified": false
   },
   {
+    "id": 1792922570427,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” enemy army radio: Against the backdrop of the “unidentified flying object” incident at the Lebanese border, at least three Hezbollah drones and intelligence-gathering devices have been launched toward the security zone in southern Lebanon over the past two weeks.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792922564497,
+    "type": "intercept",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” enemy army radio: In recent weeks, and in at least five separate incidents, the Air Force has launched interceptor missiles at “suspicious targets” detected in southern Lebanon. As reported by our outlets this morning, three of these cases turned out to involve aerial objects l...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792922599615,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: From “Israel’s” perspective, the threat is not measured solely by the number of missiles Hezbollah has remaining in its arsenal. Advanced explosive-laden drones, small units operating in the field, and decentralized combat formations may pose serious challenges to the “I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792922614509,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-15",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Yossi Yehoshua: Even the mere assumption that a limited operation could be launched, its objectives achieved, and a rapid return to normality secured requires caution. “Israel” can decide how to begin the campaign, but it cannot unilaterally determine ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792922558104,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-15",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome,” “David’s Sling,” and “Arrow 2” batteries, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792922584235,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-15",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Yedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210677495,
     "type": "airstrike",
     "location": "Taba",
@@ -202968,6 +203058,26 @@
     "verified": false
   },
   {
+    "id": 1792922565747,
+    "type": "intercept",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicThe Iranian army’s air defense shot down a US army “Lucas” drone in the skies over Bandar Abbas.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qwUpxRyU9M3s6Kmd-JJHRhZu6wXjXcEueaV6KFMi_qEXMBaVjxj-wHFJyPEplZtSPlNG_mvsiqbVViAMW49dY4xhspmxmZCm7UG72TznA69PMXzv-uQQw84nxMfWoUx-5_NZ-bv3uGYjrAfShGw5Ka39feaXS8RZ40-6dF98dCMCNhSR274RP-Lu9WvltfNpiYhvVrd7cHVWZgFpwpczUvOph_gN13hBFbdgfFWjnnVL044kUzvdX5ZzZ-5AEESuVeSEW0njyrs3rQ0WCkm4N7A1821VghaOn5IEly1hGlaRZVOyHQZiavGXqQV6QM62yDzyTc82Rzy0t7AHn_HlFA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792814268313,
     "type": "missile",
     "location": "Sanaa",
@@ -203310,6 +203420,82 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔔 | Whether this is a pretext for false-flag operations or not, reports from various sources indicate that Iran may be considering direct assassination strikes or plots to eliminate senior officials across the Persian Gulf states and abroad.These officials and figures are proven to have been involv...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792922615048,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iran opens documents center and museum honoring former diplomatThe opening ceremony of the Martyr Seyyed Kamal Kharrazi documents center and museum took place in Tehran on October 25, 2026, in the presence of Foreign Minister Abbas Araghchi and a number of officials.https://en.irna.ir/photo/86302538...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LvyhZZQ83J6S0pg7mtTehrHxrrR8q9ueAtkMGTBf_hlaDT9MzK5ea2xK8KDa3A-OrtzCDL3p6ftqsfwyZvs_qNHjbGTqDVaZzGkR5diyi7Xk8uHDz66I097Rzkj1shVtcDs449fdIgx_RIT1zEkIXWp5tzCEGn7lm5OS05RM8FXnJpdHYP-XgTp6OiGImGaRFTccLrP_mj1dbeOReoPxcw6WrK1ZX11VUepEFfLR4tgGe8gd7tY7K_agBXHPnAsrdCJ3voxuCj7DgENB-KZNcngGfoSnHZ-5YlPD-N_ABrvSW0qmktswXTjYd2lF1FvZDWQb5B3eI7oS9WLILAfV1g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/FDdEC5RwVj-0a-QaGvxmnrpSGs7Iycm8hv_cFZEUe-J-MMif1iYe2OPPnh1yltrYrsmduxdhSO1V66RdtJuaT8_H9oN1v9vjsSd46wyJiDI-5Yu9NKZv1f51Q6z60o5tcFk9COqkXeH7Ub9worEhybqaDidOA3mXfOa7pR7Ad3zF-giPlGaikAbH0BtgVBgFSs6l_hx5jtD6nf7PrKIcHD8GMpogFc7c3THajwTo9_c5PpTXBaaJHwGcpGxhL9IyMz1PBOaFjSIlwK4xnZTig7QYKwrI9qzuprUEGd_OeZKWVD_U5rNrzx3xL2F0QQu3WhpwkqZ8cLX6gqxpxZY2JA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/t-YRZhAmnEGO2yxWIFMDk1jb06BCKG0v7NDjtek8upleAmApW4GVfb1db1LE_CpgkwJ94H5jtsqgY1BfxGjp-asAvfYVCq3EyrXbeoHYl9WXAXU_8h-naWJp9lz_iDyD5pFGTZN7tykqmPVWkmO1LAAeoqCxaOtyIKqZ9lB1PVDwuKiEQ9Ktin4HFB8HqebRMB7hxnwFa-uBMwVVpjDmAmZtvxEWUz1DQEZlnLmmoCBaE4XTbMhVV7oBg4hfXVtGIBmLVelQ40oTPtAMoXmPNN_AjPEQ0_FILoga5605LUgZd1B8Yrhjal6Sork-8d9aIfuf0oN2dZSbeDalgnDsgA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/nv4N8-lsNc_jPixS7f1hcuBrYC6XqdEg5pf6A357LSkTKgUGQadghsrHCeYkf4PV7Z3lP9ORdBj3A3Jy8PBVgOvDBLW2mKpwGL_cbi1XVQoCT35FMozAmosRyMZ9PJW1g-gUg8gG_qY8kuFuZsROiLP0O-zs07UDpDCi0cS2vBfojJ6kCzTjP5ihAjISVRQE_jFUKkH0GR74z9hG5_KG2VKLHCBtC0S4SPiSVkOFtK2y0OgIr8dC-8eKYdpUuUur-omuugJjnIg9mQxhytJrDqZcS_4qvQ7XJugClAEINJvYv4jvVXsBxsiLw2atOk_lLBQVqrbEuGYEy25jItYc2w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/pQvJcy9ArDPg02IeF8TLeEqex7Ov5Oxl5sOiUY_BQtsc30X3J5l8wJqmjSnwI2PsfSpWKDDM978n6bxurZaP5rS-SgAL8fjBIKAod7eBm-KykWYXwJeDEDlBlGD6Ou0Xg6LePu0pckY4hDg21rO5X5Nl0sRAAE44xH3MuFyQm8sG3LkVPkUHR9bgkz4GLtfZwUB3WtOp_-mBGlFLHaZyXjPrPDz3KYZBZvaIQKnFSXPDx67wqWvQ-y3yuHYMlTtk-4d5cidn4d27n9Rir7r026LjykDgse0Omobq8bQbuo_Vu7TyHsazMLa5cH_ZJEPwIilXUaQ1vGAFwQv6MVqt6g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cJcoLtf_T6DRlklrjnHuunHkjeURNnK25ZP2t-C-dJH3qz0DwIPLGQPhUSLD0mU6mTknISItkxe26Vz41xa7v0-XJ4ixmAP981xPHhHTICzG8jr4oumuTyHj4ODTFUV0sHuWzwQU8mjVdrqPYswpo_Vz7EzstOGyPXIO9xHEmZnaDFR4eBG2FVToKQImrF_f0WPyBfcWyInfDe2WaokPkdxmfKAD99XBY_Yn6iTV_xQDDne8tdOzMA7EWa8I2SQ6nu6W-kpbN1c5gUJ6KhEz8QcudBNWyXFKO_e-eEXPQoTiuxA23OoUigc-wDVnhMrZsj6D2J3bieSxPsSMLJXrAQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/eR1CGWfhgcVOsn7ZGwOVnQdQmSDVtP3mO8KUpaWBV7o93m5WpiYmWTgDYaDzsspLP7mb-3GE2ddk-xVd_WhdgJYuYRThvpFN8xi6H8IkAj_Hw7m5lSGFbC0Mnp_zbkkOwqldnUuzSBeEWzUNnDIT1EToBSkSO27-n4Vr2cjxAwEw20Cbsb5tmUbFyi0q9nzY6GSFZybfDy45Iv3gvdfxr_DzzXHHxrlrAhU5zVCpmjc0UGTJbGL98qnJL6YPyuPpmatHwtduOtiKneBvs9aPAT40ApZoH_h1tw-ShI2fC04-gilAetXTk2sELveGkRHe7_XwEoNdHcByVU0cbW_o8g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ILmooHnK-c5VFBzK7q1053ifAqhIgGPQR60iCuYK8BvbOc_D5xTkQyLTbi2tj7fqd3eP7ihL0tumURiIrjSzyt3tto-QNXmfjl2rsLBtOXREEZ0GiYAyzbVk7xeepuljz7-HdCCkU8vKAwECZ5R2JcXhDL5tCqxFRzOD36R8tHOuU5xSG-UZ_ng9J_atJz5lh_y2kQVcKrAx6V5HGf25r4s06kGE4by6-l0mKTd3VwmfG9fKEO4YiWkX8BVofbteSCo9i6YmGhkzhiNOn2Rm1rGqTbPi8LXTVSQgxP97I5hcSTddOVJ3yaxGCH3FPI9Xp2YHd551KScQ3SXs5yQTvQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/AbPlmwYDQaiHL3JigFpFcouL7inOVt92PS1jolTSVF16HSq5x_SYbrvumAUigTehNfz7JwHQVg6_fakoH8-JRWhDrdTYIjFoOUJDQeVle447504mVeAqM8LINb8NYVg5CPMYUWowM7t9yTc697x7ftvN6IP0_zchXPP9SFpqSGlmzedEj8r0cUICzE1YtNdcR5qliw-Wgq7FgPlp1C7EEu2kbl5-6InahM9x0dqZL6H7CfsyfqBOF97bws__QVQV6aImhWh0wAvW_Tb3noFGP2KOantCUJo-deYtlKkE0j_Wj90fn-qHLOdBmbzP4e1fUf4uaCzlK5Umo0gZti6ygQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/N9ExB1vurtB4zUTmC6_uOSDCyj5VnvzrX54rEQJikkfnWJVJoejNGRxJcdHaCwBztnt-SOUUBfwLtY07o6uTxeoU16VuwZo0lsNyPxAOJUHgJBLjYEtDXTjDnOpSitglNdyS6XZRU5Y7za3lCrX8mmpzyVUrAWA6pIWJ0Km5mE5CkJe1Inog8r1G1a9MWdpFIeYRnwvd6SAWUUAe8Lg9NkdsrfFMvRx0JRx0jYRJPT9NU6HFTlSqHqOdGRY30SCbOnvLJhXpebdcUJwVvye7eVlULNqbe3GIKpQTQy2ebX3Sm3hNv3v6dKxcWIOldG_d6_nJclfeaV5onnifu3F3fA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792922589490,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Obama: Iran now has veto power over Strait of Hormuz📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IXL1_yp9V2lVsKsOkqMoIEzoOMaGjiGfEN4LNUZmwYE-US56aRsfEH9H89xFGgdNkX0ZwzivkAlnvI5l5uSPnGavEExsCvyEmflXgYOVvaY1PPMAYzzWndF4bHyZNXGs-Cw6Z95BszlUEm-b2JLwp-5zsVsZLnOyXB0e4VJEtryekZeYFOFKyM_ytl-Ia39Gdux5BYpG9p51x_w4MrT6c5BO8d-rhjcO_oLfozhyEHH-xGzxyBN_a28ya-y9B-ify1drun8ex7Y294Xyy7JHkDke_-prpuAKBPYu12vXa2OlTV3ZfPsYvnXhfwrtvaLGMTWk1KuSqcVQV5yD2XDNQQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

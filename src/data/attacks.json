@@ -272,6 +272,38 @@
     "media": []
   },
   {
+    "id": 483845493,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Bandar Abbas, Strait of Hormuz: Irans Army shoots down Lucas drone",
+    "location": "Tehran, Bandar Abbas, Strait of Hormuz, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran’s Army shoots down US Lucas drone over port city of Bandar Abbas📌 Tehran, IRNA – Iran’s Army air defense force has shot down a US Lucas drone over the southern port city of Bandar Abbas, according to the Army.The drone was struck and destroyed on Sunday by air defense systems operating under the country’s integrated air defense network, the Army said.​Earlier, the Army chief said that Iran has assessed its enemy’s capabilities and was prepared for asymmetric warfare and the equipment re",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 3,
     "type": "naval",
     "status": "confirmed",
@@ -18900,6 +18932,38 @@
       "other": 0
     },
     "description": "🇮🇷🇺🇸| During the last 2 hours:Air defense activity in:• Kuwait• UAEIn Iran:• Andimeshk• Dezful• East Azerbaijan provinceThough no explosion on the ground in Iran.@FotrosResistancee",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483849648,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-04-09",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Doha, Israel: Araghchi Regional security must ensured without",
+    "location": "Tehran, Doha, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Araghchi: Regional security must be ensured without foreign interference📌 Tehran, IRNA — Foreign Minister Abbas Araghchi says Iran seeks peaceful coexistence with its neighbors, stressing that peace and security in West Asia must be ensured by regional countries themselves, without foreign interference.Araghchi made the remarks on Sunday at a specialized gathering organized by the Iranian Foreign Ministry on the role of assassinated senior politician Kamal Kharrazi in building consensus on f",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
@@ -149176,6 +149240,166 @@
     "media": []
   },
   {
+    "id": 483853804,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Lebanon, Israel: Enemy_MediaIsraeli enemy army radio Against backdrop",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: Against the backdrop of the “unidentified flying object” incident at the Lebanese border, at least three Hezbollah drones and intelligence-gathering devices have been launched toward the security zone in southern Lebanon over the past two weeks.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483857961,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Lebanon, Israel: Enemy_MediaIsraeli enemy army radio recent weeks",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: In recent weeks, and in at least five separate incidents, the Air Force has launched interceptor missiles at “suspicious targets” detected in southern Lebanon. As reported by our outlets this morning, three of these cases turned out to involve aerial objects launched by Hezbollah, one involved an object belonging to the “Israeli” army that was mistakenly identified as suspicious, and in one case it was impossible to determine the object’s identity with cer",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483862119,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaIsraeli enemy army radio three intelligencegather...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” enemy army radio: Of the three intelligence-gathering devices launched by Hezbollah, interception attempts failed in two cases, while the Air Force successfully intercepted one. In all these incidents, the “Israeli” army announced that interceptor missiles had been launched at “suspicious targets,” as the interceptor missiles were clearly visible in the northern skies. However, in none of the cases did the “Israeli” army subsequently issue an update clarifying that the obje",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483866278,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaper Yossi Yehoshua",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Yossi Yehoshua: Even the mere assumption that a limited operation could be launched, its objectives achieved, and a rapid return to normality secured requires caution. “Israel” can decide how to begin the campaign, but it cannot unilaterally determine Iran’s response or when the fighting will end.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483870438,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-15",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen, Saudi Arabia, Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaper BenYishai Israe...",
+    "location": "Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome,” “David’s Sling,” and “Arrow 2” batteries, to counter ballistic missiles, cruise missiles, and Houthi drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482826409,
     "type": "naval",
     "status": "confirmed",
@@ -153928,6 +154152,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 483874599,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Unknown Interception — Bandar Abbas: Islamic_RepublicThe Iranian armys defense shot down",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicThe Iranian army’s air defense shot down a US army “Lucas” drone in the skies over Bandar Abbas.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qwUpxRyU9M3s6Kmd-JJHRhZu6wXjXcEueaV6KFMi_qEXMBaVjxj-wHFJyPEplZtSPlNG_mvsiqbVViAMW49dY4xhspmxmZCm7UG72TznA69PMXzv-uQQw84nxMfWoUx-5_NZ-bv3uGYjrAfShGw5Ka39feaXS8RZ40-6dF98dCMCNhSR274RP-Lu9WvltfNpiYhvVrd7cHVWZgFpwpczUvOph_gN13hBFbdgfFWjnnVL044kUzvdX5ZzZ-5AEESuVeSEW0njyrs3rQ0WCkm4N7A1821VghaOn5IEly1hGlaRZVOyHQZiavGXqQV6QM62yDzyTc82Rzy0t7AHn_HlFA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 483721308,
