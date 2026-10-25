@@ -146563,6 +146563,38 @@
     "media": []
   },
   {
+    "id": 483833034,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-12",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Lebanon: LebanonHead Hezbollahs Executive Council Sheikh Daamoush",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHead of Hezbollah’s Executive Council, Sheikh Ali Daamoush:– Those who bet on the blockade and promoted it believed that sanctions would prevent us from making efforts. They did not stop there; some institutions also worked to tighten the blockade to prevent aid from reaching those affected.– All these attempts collapsed before the will of our people, and it became clear that none of them could prevent us from fulfilling our responsibility to alleviate our people’s suffering.– Once again",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483006936,
     "type": "airstrike",
     "status": "confirmed",
@@ -154139,6 +154171,113 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 483820584,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Yemen: Yemeni ballistic missiles targeted Fifth Brigade",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 ❌ 🇸🇦 | Two Yemeni ballistic missiles targeted the Fifth Brigade camp in Lahij, on the outskirts of Aden. Reports also indicate that another missile attack targeted Aden a short time ago.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/vCTUvm-mpsnQlHilFaLNy9NsXqPuZAAU75zpsQL4byT2T18yCNY-HQZmn51fXLcDY8_SdRj9ZJzVw1C8CYnYcr7bN-hvJa9TckcwJ7NphX3decC98NWd-lUfgmZMpioyK921GKwXFiQESYKgnBnrM0CeqpOqXwYFDKBxV7biUO8FKbHMHd4Wps06_8Hg6KDH1RTnz8FWIQb87r0XC9Ea1k7jIXd7D6hkedNVnjHxmgFrms7ZeBejOQRy6IRD7BdG1khpxLwiyyKejX2qytavwxf2KjkazE_WbnZkS1MofLP8J2_usdcQLRXWk3HwoI8Nh3owW2fFtLmQHxfa8PsuFg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 483824733,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Sanaa, Aden, Riyadh: Yemeni Armed ForcesThe Yemeni Armed Forces",
+    "location": "Sanaa, Aden, Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed ForcesThe Yemeni Armed Forces said seven operations with ballistic missiles and drones targeted King Khalid International Airport in Riyadh, Aramco in Yanbu, the Rabigh oil refinery, crude oil pumping stations and the east-west crude pipeline, King Fahd International Airport in Dammam, Najran Airport and Khamis Mushait Airbase, and said the operations achieved their objectives. Saudi Arabia announced that Riyadh was exposed to a Yemeni drone attack. A field source reported Ar",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/63815",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FFJH4PdHJrkvVnDyzLKAwwvPsh6b8yfG-sdCXl9giBUKmCkoBNLqQ-bjtXGWUOJclaDVJVH7bumv27Cm56JOmy_Xacf89rjF2FTr-zD30r6pTl_DluAF-5ItfXBhwS01i6775qyp-vjuPvHBqpixdtzw4oXvMHWkmgcd3JyF0S_4YtF9nfjSSmqQfjRaXPRCEAvuoKW2IRnpQVlKMQN-7lJsUEcTBnawNV-GCWv3uiV98E5owyczNg1yKeUxFvFATpOgndhLS_u2kNaXyJuBQN__LsYAMCHBGAg27rumdhCOIxwPi-seLM1Fz8DNB0XekRx9MAQek30cYzM2N3CyKg"
+      }
+    ]
+  },
+  {
+    "id": 483828883,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Persian Gulf: Whether this pretext falseflag operations reports",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔔 | Whether this is a pretext for false-flag operations or not, reports from various sources indicate that Iran may be considering direct assassination strikes or plots to eliminate senior officials across the Persian Gulf states and abroad.These officials and figures are proven to have been involved in the aggression against Iran, resistance forces, and its senior leadership, including commanders and Imam Ali Khamenei. Such plots could represent an updated offensive strategy aimed at retaliati",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 483808143,
