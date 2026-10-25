@@ -15585,6 +15585,21 @@
     "verified": false
   },
   {
+    "id": 1792915369460,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-04-01",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Khatibzadeh: Israeli regime attacked Foreign Ministry Library📌 Tehran, IRNA — The Zionist regime’s attack on the Foreign Ministry Library, comparable to the Mongol invasions, halted activity at the century-old institution, says Saeed Khatibzadeh, Head of the Center for Political and Internationa...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1784999980128,
     "type": "drone",
     "location": "Camp Buehring",
@@ -200862,6 +200877,36 @@
     "source": "Telegram (mmirlb)",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Enemy_MediaHebrew Channel 14 correspondent: The “Israeli” army is raising its alert level to the highest level amid fears of attempted Iranian attacks and ahead of the elections, while the ban on leaving “Israeli” army bases remains in place and forces are being reinforced starting next Thursday.#M...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792915354495,
+    "type": "missile",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | From the letter of Leader Abdul-Malik Badr al-Din al-Houthi to martyred leader Yahya al-Sinwar, one month before his martyrdom:“The Yemeni missile forces have made efforts to develop missiles in a way that meets the requirements of the battle. They continue to do so, and we are working to pro...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792915319089,
+    "type": "naval",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-10-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷| UKMTO announces a tugboat traveling southbound northeast of Khor Fakkan, UAE was struck by 2 projectiles. Tugboat is continuing its route despite damage. 1 casualty was reported.🔻@enemywatch",
     "media": [],
     "verified": false
   },

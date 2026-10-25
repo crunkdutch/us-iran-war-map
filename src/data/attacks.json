@@ -151210,6 +151210,70 @@
     "media": []
   },
   {
+    "id": 483837186,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Red Sea, Bab al-Mandab: From letter Leader AbdulMalik Badr alDin",
+    "location": "Aden, Red Sea, Bab al-Mandab, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | From the letter of Leader Abdul-Malik Badr al-Din al-Houthi to martyred leader Yahya al-Sinwar, one month before his martyrdom:“The Yemeni missile forces have made efforts to develop missiles in a way that meets the requirements of the battle. They continue to do so, and we are working to provide the necessary momentum for the requirements of the fifth phase, during which the enemy will be targeted deep inside the occupying and usurping entity, and enemy targets in occupied Jaffa and else",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483841339,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-18",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — UAE: UKMTO announces tugboat traveling southbound northeast",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 1
+    },
+    "description": "🇮🇷| UKMTO announces a tugboat traveling southbound northeast of Khor Fakkan, UAE was struck by 2 projectiles. Tugboat is continuing its route despite damage. 1 casualty was reported.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483430989,
     "type": "drone",
     "status": "confirmed",
