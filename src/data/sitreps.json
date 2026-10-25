@@ -203747,6 +203747,21 @@
     "verified": false
   },
   {
+    "id": 1792944269341,
+    "type": "airstrike",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾 | A loud explosion was heard in most areas of Damascus and its surrounding countryside.▪️@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
