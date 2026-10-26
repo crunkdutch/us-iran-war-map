@@ -15,6 +15,21 @@
     "verified": false
   },
   {
+    "id": 1793030851173,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "1944-10-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Milan rally commemorates Iranian, Palestinian children killed in war📌 Tehran, IRNA – Artists and demonstrators in Milan, Italy, have commemorated children killed in Iranian southern city of Minab and Gaza during events marking the 82nd anniversary of the Gorla school massacre in World War Two.Th...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786649039946,
     "type": "missile",
     "location": "Tehran",
@@ -201655,6 +201670,121 @@
     "verified": false
   },
   {
+    "id": 1793030897940,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | The Yemeni Armed Forces targeted a Saudi-backed mercenary base at Al-Alam Camp in Shabwa province, reportedly inflicting heavy casualties among Saudi officers and soldiers, while several mercenaries were also reportedly killed.🔻 @enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/5a27b3907b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/j2WERMLMXpj1BZEwS21_hK8oF1lXZfoPGfSONIVPHjwhPLbYaCi0Y6KXy7gnA-1vLw_EyEDDhKf0IBBB0qqMqEUWvP2DDO70g9GE7HVBWRwetj6yct3QR_pWgc-scf75eAYMiam8e-jvwHupiuCJ0dwSz_qCes-mk772B4HkEUFfmpCAmYGkMiuE2bpRn5UUh-Mfwvs9bqJmqnl2_-XBgC884pMF1wytqq1Me_PcH5y8AUTUNM-jaZxNLCeOlQlsyx9UlWGOYsgfJa46-6juB_223PFeIF43aAiRFIVn8Dy6vDOyVCYJJl9rxY3OaM-5_PVqg1k-27-8mJ8HC1oaeQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63602",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/j2WERMLMXpj1BZEwS21_hK8oF1lXZfoPGfSONIVPHjwhPLbYaCi0Y6KXy7gnA-1vLw_EyEDDhKf0IBBB0qqMqEUWvP2DDO70g9GE7HVBWRwetj6yct3QR_pWgc-scf75eAYMiam8e-jvwHupiuCJ0dwSz_qCes-mk772B4HkEUFfmpCAmYGkMiuE2bpRn5UUh-Mfwvs9bqJmqnl2_-XBgC884pMF1wytqq1Me_PcH5y8AUTUNM-jaZxNLCeOlQlsyx9UlWGOYsgfJa46-6juB_223PFeIF43aAiRFIVn8Dy6vDOyVCYJJl9rxY3OaM-5_PVqg1k-27-8mJ8HC1oaeQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793030827392,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-19",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Netanyahu just published a Middle East Alliance map that was created five months ago. The map was created in May 2026 by Marc Saxer and Marcus Schneider for Germany's Friedrich-Ebert-Stiftung, a foundation working with Israeli lawmakers since 1978.Fascinating how they predicted so accurately - the M...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/KgfW-4xgP_474LaZZ467sab6AyG8e7TtnTaHT8ApGcgZCUZOmrvnCj7eClG8sZvR1B29BAJ0a-jGDLOgxiZfpJFQq88Na5y0HRlEgut9X-incFVZ1EnNXqGdKQzq1FMNHbY8EAl2J6CKPuTb_mJQj1QcIRwI8K-EH3Z1cMvhrL6wF5vClmUbGKMn1hoLaRcDFmLEVTJLo37HV7kD-mgalOwewTUW7wnbTzKhIbs_fNOPlATzMhOicKGYUueWpj129YcfDR-YPaQIknprxivkALQ47M_1DHAll_CPVbMMtUum6bTEDFUIovETwwM562Qvg183ZtOTl7AuQciy-noIbA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793030895878,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "\"It's very important to create a Sunni coalition that will be led by Turkey.\"The major conflict in the Middle East is the Sunni-Shia conflict. If we are able to create this coalition, we will be able to face Iran.\"Ami Ayalon, Former Director of Shin Bet, 2012Everyone in Syria knew this from 2012 onw...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/8ea12589dc.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/czg0lkMII-aojFtSv1yKLuo4xwad-kKcDABwD4ZtO2-n1QT8bESljwZwf1AZASdx6cr07zsjOugSqtilmzvXZmnq8opTX_kDWOTYfWq7OkmBkPuyMkn5Rj_Py5XfzmMq-_FvSwPa4xxtQvOEX0h2H6DOkmXK-P0ov4BNW1a4EZSGQ59T-eIK8jPD6V83FZa0aOqpf3A4qfKTQnW3tOyHcuxOfeO61oNX41k0VLgtc-15xo7pXb0JqeDkOqcQwXSQgXTLIrH2ojKJhl49Zn0Vc8_3i-DoasnzXcmjvsdWtpm2aZYOJ756m9qo6xA46b6Fk9s0BqxP_pr71L9OretLvg"
+      },
+      {
+        "url": "https://t.me/enemywatch/63606",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/czg0lkMII-aojFtSv1yKLuo4xwad-kKcDABwD4ZtO2-n1QT8bESljwZwf1AZASdx6cr07zsjOugSqtilmzvXZmnq8opTX_kDWOTYfWq7OkmBkPuyMkn5Rj_Py5XfzmMq-_FvSwPa4xxtQvOEX0h2H6DOkmXK-P0ov4BNW1a4EZSGQ59T-eIK8jPD6V83FZa0aOqpf3A4qfKTQnW3tOyHcuxOfeO61oNX41k0VLgtc-15xo7pXb0JqeDkOqcQwXSQgXTLIrH2ojKJhl49Zn0Vc8_3i-DoasnzXcmjvsdWtpm2aZYOJ756m9qo6xA46b6Fk9s0BqxP_pr71L9OretLvg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793030857816,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🇷🇺 | Meeting and talks between Sergey Lavrov and Seyyed Abbas Araghchi, the foreign ministers of the Russian Federation and the Islamic Republic of Iran, in Tehran.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/lfZ53EVEQVWWrFXO9cCzvFqMt5T9VkaOHmsv5RshMFRQ9WJkPFhc38j30pWj0SrT6GpLGPabzSQvyrhMXZHupzxNbvuAxKAIaONgQNkp0r9ge9DKBxqOgUOdbzeZdaeKevVRUwAAX0nLqM-slEyv_FUWfZ-vDJ_1BmPBrpq4QE8X4JyT0f9FYLqg46O4i3s_vqLsvaBk9i5evjV9c0l95q2pJv0TOv7-MqjBCNpgg06BdLdAs424e1eRMY3xxWTnyVCUshpY3pV_PiE4G9nsGCHPUj4_j8DCnhsgg2SCgBAreS-S15MZZzF-dNOe2XBqtRRK3hmlk0LwpmgG0i7THg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/YchnXye9DoK7SoeNv7DHxpm4-DSE6CXB_Sb-WL0oLTimS5S4-gWce9LfNzN2ZdAB0x8xJyrJPQq_0tvNDgnmyY-QxMTjhZcAmShhv3lm3uAR-KHCEv83FseCxgdfoUFjJIGmHuGVqWs3-0nZPQmtywC1LR3gQhd8p7lCV3eJLJgwy1Cnl-r3_7G6j-Wb7wXxbk43wHY2qrs_eYbWnwOpvKRMqrQohd_nJeWnGk79zmG7HFJ_DsGBj084aWLlHkiun89wQHfglZ3kT9EImSl_wcww1XnIn-GRL97rjYQdInHI2S1qMn2GF37KwvbBLbm155TMboYol2kOZaYv1CDghQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ZfiQpgH2csF8pOoVjdIMaMIBdQ33Sm9Hq6oJA29KYx6QQ1K9-Vcmipu9lnUdg-vY68kKeU4KB--4f_A2EsUnSlbtQf1SeMGIO2iPi4Tswi4eLdCwkCWVblPYyUfMX5uVZT0BOKjLHGqAcQdm5fq9ofrHrS8Q6eBweAORzYyJrli-ovoStMSL53WQ93j7psGq-psV-MSwFkXuSxDz6HdsU8wFtuUBDNnTKP8B95metzk9wrKlbMZJY-V5PVthLSp1vetLcJhZLZDXGpcdVvSJsctSSA5Ib7a5x6snFRB1F2KGy_ci5uTtrwoq7tQvDzWgJILh-57R0DE-Cp6sH_Ko8A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793030843838,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— 🇮🇷/🇷🇺 NEW: Russia’s Foreign Minister, Sergey Lavrov, has arrived in Tehran to meet with Iranian officials There are rumors (not news, simply rumors) that he is carrying a proposal to remove Iran’s 60% HEU from the country and send it to Russia. America…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792474951163,
     "type": "drone",
     "location": "Bandar Abbas",
@@ -204586,6 +204716,102 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 US military interventions, unilateral sanctions threaten global energy security: Iran📌 Moscow, IRNA – Acting Oil Minister Hamid Bovard says US military interventions, hostile actions in several nations, along with unilateral sanctions, have negatively impacted investment, security, and predictab...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793030912897,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "President Dr Pezeshkian has met officials from Turkey, Pakistan, and Saudi Arabia here in Tehran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/jSasBKcgeXNAdSS_TVh6bRYcXYKws4G7P205himh_d-aAWnNGIuB2TLO7GTVvp2zlvQVAJFaGnV8GFv6J1EAIDtWMl1AEO1rHywi3iOtqcPi574aHOB-a0Hq2O5xomk2FlZ2TN94XlrGwrzuUApmx10JO-I9-AGsynLVQfdCpqtYNTNkQmo8MVMGIpjIo3lgQVtcRHp03oUrMJuWKl-CcCJ-HtLT_0HLyhDpM7PxcDia-AX9FX_ZNxW3Jn-ooVTxcGfMKaCPGGFFlcTlaRs3LUtIQWe-ko7-amGnn4y1mJP2-s1-gFDuZvfCnp4CqdDMLrM8IC8e2N-vkbcvJz4qVQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/D-OixSU_xPAn758nKvGaO8n0WlKJKVRlb0jMWoCPQ_jYiBkhIn8I0J8XU15vcmP49qEjc8VmS04QajsVbk1BTPK_M_PCzqKSUg0rli-v5tW7wDOVfmdpjW3viVah_9lfReIyGTjh6Hg_uWt4InJdgfqwy0z0N34lGh-1faJ4Q-UrMv9vG5wjKK9mQj7fLP37dcbwB6v5e2gq2WljFF7FpdV_cukO7OcS6_zwFT6n-x1TBhyAx9y1gHaN1YBjPsk9emcKqE1-1Pk7FkLKqJRH3lUuuCO8XMsxzU4oue2peSRNvYOmn7FjjIDYm-3wYmcgYRdq_-1C5Y-yl3oPCoHN5A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/afQ64vyyBFN-IlTsW42YE_C9E2iaOwlBV-7-ZXDJaNk6rfwhKDBZ075iveDfkDKCrw5yifjow8FgUhUlt7BQmdMBZ0UvXKH8eHn07MOVTklD75p5K36o-SGoPLiwiRSbXrTBMKefy4OzOOir5tsTdfP3xyVQTI0NYATIudztptcRV3ZiWFSO-HsjwWarUnYsmnpyt_nMHpbX-PGjfNIbgBlVgXUVUu1-I21XVGqyMN6_ERbt9btB-p1NBTmU5me-ufY1gLqnbiTqCSpEgW5P_hI-5ks5oYlthLR9okdMbnRfQ9CjyHRjO5rFuDcaMmYZNN4ZPYhJmTPk2qbCD0UGzg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/gpvxcB3iK0bG6ZQ3X0ynBRyx-dcTkzPiH3S9KQ2HR5q6IVDEBj-pugyzLvtWy3H5yU2-9W3eXVjrzt1luRo0DbINXwmyVLAW3pMruaLtT4R7_K3rnNVsnysJcvl_hDyRobB4HIQgMBa7NVf6tUo2s2qACbo9nr7NhyQRmNzTSFCihFkVNyIW3OHhAtn66QOHsMMc-pY3N8s5b12sUe2km8vttLuyVSvKNG0iHA024mBbmsv1DGN8kXGMTLoZ9SH9gse59ZXpjK0EddkPU8OdGHQbnqYcU2u9gBytWWa9RIz51CVx9uWowtgLLfEfiSHoAESIBgeHU28tDYhUUMejDA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CNLF3sYo-zKqHB7ERqBUbWD4IyEqz8kxRVHwg57Az-_nJLYzGTk7kSKvJFnRXklvCGC3L_YDyvd9_qD7Al1t4EBM8-Z7eUeueCptgQRzPyXN7rwPQwrbrLEwoB6UcLnOM3SY0OPj3Igvs4oZufseRdpiToy7PpU73J2JdOa47MuzIxI7q-RbwDUlGrx9P_zYrDX5xRjdzuGYyHhr_VWLsBgQlMqAsYj5vvS5k39CLtuZeFvwwKHyXI6HUjevGvasVi9yVWsjlIPWheIkpbLhDavrNEJ9n7CEjqGGf718jfJqMkjYZw9xUlFT44IaZPRXyTC8XFew8PGKYUvIb79FSg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/EYIX_pQQElNtgGoQb4e-bBOulxq2RzwgBzlDidtfr6hjahdY_-r2aS3echv37RuNO9XimxHpCEcm0bMfTwu_6N2n0pHqK4NC315bXg5XWO_9LYqqgKaelQFOPkXkID98Jla2n9GnE7fx-QqKznud_xrkwo5wLst84DUPZMTN8Z6Lj5MKD0Oo0x46Ecwoi5XTdO0znCMYrz8wNw9RZPKhu3R9L6B0NUjy2omL96jwssRrOKtEOt7K6kmeh7Ao6oXAxPF-lOdO4rUYLEPPwbl9sVeLGWUPwKvyICGG_Rg_lMg2QOEtGQz4SmEIPNRhqWsmMRDm_Kbgp40jGFMlM1DiFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/mtYof8x59xV54x-2JNAiGTYF-cl6me4E36UPWFWGn3SKJDQWRLrHAV3c_EQw5rH9yYuaN6E6bz4GqDbQnQhxWSvRpL82t21vx43uuzcMfA3v_gTgXn5yVtl8ujfwiGC-A36HrO-O-bDsSGNXKQvCk81nvHXoXQc17ZtWmvQYPtmJfPw9NUuLBjx2CnZUd8eqMviMPXY_F0LfomforYgBcu9M_azH3WZo-ngDp84lJrZ-FML9yDqdDpjJxDq9GGV1O20w8u2Y3xZfoiVkbUEeKNYhT29oUY-HtQp9WP335oQOD9jPMmg2GkCmfx43KIR7f8S6tTZeSkNVWsgZNyrV9w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793030885513,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iranian wrestler Fardin Hedayati defeated his Hungarian opponent 8-0 in the 130 kg final of the World Greco-Roman Wrestling Championships and became champion.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/cd22cadaa6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uzYj_d177D8Da-_wPcH2HnhRrtAUTBnLE1K4cWwYCUrzzpBP4YHtHcXlOxMCUIZfqu0eVe3Xg_QRyicS10o_putTEtflMH4-HFqX60p464aumE7fgZBKyQo2shnajSjCUvu0jqSTqYiM0a840KQeoNnja-dR0vgOw2llWuwQGhM0EIjF_sLC8E3OJDCHCVbh1WWTiz1mM3AClS5Bh97bsdrHpdU1LMRy4pSG32KXtKTorZUbjxx9srVrXL7mxN-RVT-BvoWMQAvdPKzv8RTHfrDOkfWArdzdyLrPp7rvtwQuMQIRN2L9BdtVRrc6Z5MTH_c7KzMd7DrSoY6Dlfjr-A"
+      },
+      {
+        "url": "https://t.me/Irna_en/41351",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/uzYj_d177D8Da-_wPcH2HnhRrtAUTBnLE1K4cWwYCUrzzpBP4YHtHcXlOxMCUIZfqu0eVe3Xg_QRyicS10o_putTEtflMH4-HFqX60p464aumE7fgZBKyQo2shnajSjCUvu0jqSTqYiM0a840KQeoNnja-dR0vgOw2llWuwQGhM0EIjF_sLC8E3OJDCHCVbh1WWTiz1mM3AClS5Bh97bsdrHpdU1LMRy4pSG32KXtKTorZUbjxx9srVrXL7mxN-RVT-BvoWMQAvdPKzv8RTHfrDOkfWArdzdyLrPp7rvtwQuMQIRN2L9BdtVRrc6Z5MTH_c7KzMd7DrSoY6Dlfjr-A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793030901112,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "A joint meeting of Iran, Pakistan, Turkey, and Saudi Arabia in Tehran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4374c76716.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZjrP8Y5djUBtCfxCLqsZa2Km2O0dp0YqI0a9JPr4K0BB0t6VE-U8wOEj4zoW12LoldOinukcaLsWdzpYhhpg3HfIkc50mqALWuCPFXJnYSCSK4EUd8-qvwxdCvqzUQTfzQbYN_Fkj-qpwxJK9jjXMXroC20e8xAHbS_BCf5DpCluGHjb3yAnqfTn3A3HgK74NEpTSYEydVce1cU8BDaRorC7ThZgys5Aci1JYKu6uM_4OtFiUbjwj8GoJlD5lg9rVocjbGtd_gUVIVAh2t_sIy_A3IDWc-qplYe-z9ns7U7Q-hI5iBzu_WP-3jAE67AYJQmKDKBGM1x-PAqv-zMh6g"
+      },
+      {
+        "url": "https://t.me/Irna_en/41352",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ZjrP8Y5djUBtCfxCLqsZa2Km2O0dp0YqI0a9JPr4K0BB0t6VE-U8wOEj4zoW12LoldOinukcaLsWdzpYhhpg3HfIkc50mqALWuCPFXJnYSCSK4EUd8-qvwxdCvqzUQTfzQbYN_Fkj-qpwxJK9jjXMXroC20e8xAHbS_BCf5DpCluGHjb3yAnqfTn3A3HgK74NEpTSYEydVce1cU8BDaRorC7ThZgys5Aci1JYKu6uM_4OtFiUbjwj8GoJlD5lg9rVocjbGtd_gUVIVAh2t_sIy_A3IDWc-qplYe-z9ns7U7Q-hI5iBzu_WP-3jAE67AYJQmKDKBGM1x-PAqv-zMh6g"
+      }
+    ],
     "verified": false
   },
   {

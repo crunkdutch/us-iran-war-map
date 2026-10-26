@@ -152130,6 +152130,49 @@
     "media": []
   },
   {
+    "id": 483983136,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-19",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni Armed Forces targeted Saudibacked mercenary",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | The Yemeni Armed Forces targeted a Saudi-backed mercenary base at Al-Alam Camp in Shabwa province, reportedly inflicting heavy casualties among Saudi officers and soldiers, while several mercenaries were also reportedly killed.🔻 @enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/5a27b3907b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/j2WERMLMXpj1BZEwS21_hK8oF1lXZfoPGfSONIVPHjwhPLbYaCi0Y6KXy7gnA-1vLw_EyEDDhKf0IBBB0qqMqEUWvP2DDO70g9GE7HVBWRwetj6yct3QR_pWgc-scf75eAYMiam8e-jvwHupiuCJ0dwSz_qCes-mk772B4HkEUFfmpCAmYGkMiuE2bpRn5UUh-Mfwvs9bqJmqnl2_-XBgC884pMF1wytqq1Me_PcH5y8AUTUNM-jaZxNLCeOlQlsyx9UlWGOYsgfJa46-6juB_223PFeIF43aAiRFIVn8Dy6vDOyVCYJJl9rxY3OaM-5_PVqg1k-27-8mJ8HC1oaeQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63602",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/j2WERMLMXpj1BZEwS21_hK8oF1lXZfoPGfSONIVPHjwhPLbYaCi0Y6KXy7gnA-1vLw_EyEDDhKf0IBBB0qqMqEUWvP2DDO70g9GE7HVBWRwetj6yct3QR_pWgc-scf75eAYMiam8e-jvwHupiuCJ0dwSz_qCes-mk772B4HkEUFfmpCAmYGkMiuE2bpRn5UUh-Mfwvs9bqJmqnl2_-XBgC884pMF1wytqq1Me_PcH5y8AUTUNM-jaZxNLCeOlQlsyx9UlWGOYsgfJa46-6juB_223PFeIF43aAiRFIVn8Dy6vDOyVCYJJl9rxY3OaM-5_PVqg1k-27-8mJ8HC1oaeQ"
+      }
+    ]
+  },
+  {
     "id": 483475638,
     "type": "drone",
     "status": "confirmed",
