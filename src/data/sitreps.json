@@ -203274,6 +203274,21 @@
     "verified": false
   },
   {
+    "id": 1793009247421,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12:The timeline for the day after the elections: When will the “Israeli” government be formed?– October 27: Election day for the 26th Israeli Knesset. Polling stations at most locations close at 10:00 p.m.– November 4: The expected date for the official announcement of the...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792814268313,
     "type": "missile",
     "location": "Sanaa",
@@ -204202,6 +204217,21 @@
     "verified": false
   },
   {
+    "id": 1793009206419,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Targeting of a ship off the coast of Oman.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792980314769,
     "type": "intercept",
     "location": "Tehran",
@@ -204249,6 +204279,51 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1793009245822,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Hourly Updates (-ve): October 26, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi Arabia reportedly launched an attack on the Yemeni capital, Sanaa. • Saudi Arabia reportedly carried out three airstrikes around Saada city.• Seven Saudi airstrikes reportedly targeted the Al-Matun and Al-Matma districts of...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793009215404,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Minister emphasizes importance of National Day of Fight Against Global Arrogance📌 Tehran, IRNA – Minister of Education Alireza Kazemi says the ongoing circumstances in the face of the continued hostile enemy hostilities have increased the Iranian nation’s responsibilities during this year’s comm...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793009235110,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Judiciary chief: Martyred Leader’s courage, resolve evident in new Leader📌 Tehran, IRNA — Judiciary Chief Gholamhossein Mohseni Eje’i says the courage and firmness of the martyred Leader of the Islamic Revolution are fully evident in the current Leader, Ayatollah Sayyid Mojtaba Hosseini Khamenei...",
+    "media": [],
     "verified": false
   },
   {

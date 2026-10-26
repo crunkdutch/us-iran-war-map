@@ -155330,6 +155330,107 @@
     "media": []
   },
   {
+    "id": 483953848,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Tehran, Aden, Riyadh: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Tehran, Aden, Riyadh, Strait of Hormuz, Yemen, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 26, 2026🇾🇪 Yemen• The Yemeni Armed Forces reportedly carried out two ballistic-missile operations targeting Saudi-backed deployments and weapons depots in the Salah al-Din area of Aden and Al-Wahut in Lahj Governorate. According to Brigadier General Yahya Saree, the strikes caused dozens of casualties and destroyed or burned several military vehicles and weapons depots allegedly overseen by Saudi officer Bader Al-Harbi.• The Yemeni Armed Forces reportedly launc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483958029,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Tehran, Isfahan, Sanaa: Hourly Updates October 2026 Saudi Arabia",
+    "location": "Tehran, Isfahan, Sanaa, Yemen, Bahrain, Saudi Arabia, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Hourly Updates (-ve): October 26, 2026🇸🇦🇾🇪 Saudi Arabia / Yemen• Saudi Arabia reportedly launched an attack on the Yemeni capital, Sanaa. • Saudi Arabia reportedly carried out three airstrikes around Saada city.• Seven Saudi airstrikes reportedly targeted the Al-Matun and Al-Matma districts of Al-Jawf Governorate in northeastern Yemen.• Saudi forces reportedly carried out two airstrikes against a telecommunications network in Al-Sabrah District of Ibb Governorate.• Four civilians were repo",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483962211,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemens armed forces spokesman reported that",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Yemen's armed forces spokesman reported that a Saudi reconnaissance aircraft was shot down over the Taiz region.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/raI-tBSXYKwZkEP4uCDpD2l8jhZq-F-VoH2wft5_CZzi9lXwvsDd7VzVTzsy5HbR9eOf4fHOl1kmKhucEMH_BrtEv_fB2UFc--Tjr5MQq9yU1n8Kfq5GyeGixz4dm_HAZfWOCgOjyK2aROHbBbSq90AQNrVlfVGfFlXVvCDJo_qLGdmxw47tdjyJKH41EYCPZ4cA4drdm2DiMjUJixxwnXqgGQM-_MemtJR6Jonsp1U8PC5QdWo-8t5HCYjpoB5fbXwpmTPRmEe2BTNi2s7Q--Ixfv8oiRpoeb8zE5o2rrSQo-94xTkzzPhrt0xdHnwnHktW4JX6oyYWkWNnLU1k-Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
