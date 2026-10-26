@@ -21515,6 +21515,38 @@
     ]
   },
   {
+    "id": 483949668,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-05-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: proud piracy accuses Iran Baqaei Tehran",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 US proud of piracy it accuses Iran of: Baqaei📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has responded to US Secretary of State Marco Rubio’s accusation that Iran has attacked ships like the Pirates of the Caribbean, recalling US President Donald Trump’s own remarks comparing his country’s actions to piracy.In a post on his X account early on Monday, Baqaei referred to Rubio’s accusation against Iran, in which the US secretary of state said, “We haven’t seen anything like t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 112013,
     "type": "airstrike",
     "status": "confirmed",
@@ -153986,6 +154018,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
       }
     ]
+  },
+  {
+    "id": 483945489,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Iranian Revolutionary Guard Navy launches cruise",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian Revolutionary Guard Navy launches cruise missiles towards the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 483680113,

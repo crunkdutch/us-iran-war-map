@@ -201504,6 +201504,21 @@
     "verified": false
   },
   {
+    "id": 1792994739610,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Iranian delegations’ recent visits to Lebanon and Iraq have achieved various strategic benefits and developments regarding the issue of resistance forces, as well as bilateral cooperation. 🔹@enemywatch +",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792474951163,
     "type": "drone",
     "location": "Bandar Abbas",
@@ -202889,6 +202904,21 @@
     "verified": false
   },
   {
+    "id": 1792994790363,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Revolutionary Guard Navy launches cruise missiles towards the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792727596410,
     "type": "missile",
     "location": "Riyadh",
@@ -203949,6 +203979,82 @@
         "url": "https://t.me/enemywatch/63851",
         "type": "video",
         "thumbnail": "https://cdn5.telesco.pe/file/L7ooznSn54Abq68GXcwQdon8cMcpoa7zMWlQHTKEh9Nx03TXAbbOwMiqCMLdlzEjDVrirK7sH1h_6J4pzJaplmebO-PbKla9YvTESV7R9P-MBbFT9xp2Hj6O-0O5dUOGvgo_Wl3weZZmrpaODDtS6jjHQmV_oL4VxvtF35Tb9y97K0LvUcK9iYyqBtilOVpUHtzoS5cmRs_dyStM7yV_gfu4UUZIgUq85I6TbT9QPtoXcJ3fV_bsoOgueo4BgQJ0YSHuq9ACJEZL0VWie-He-yT-g7rOCcB6jkQuBHEqlA8O2ms9TgY_IgM3KRtnEhoz_UzRvKmn_abw9E8DJH3HZA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792994739110,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧/🏴| A Lebanese citizen was shocked to discover that his home in the Al-Hamra area near Nabatieh Al-Fawqa was being demolished. Citizen Abdullah Abbas published an emotional video documenting the moment he accessed his home’s surveillance camera and saw an Israeli bulldozer demolishing the prope...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f2be110c68.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Qo1cP2v1Q1uHR1HF2ZndpRYvQ73Z3ZPtJYo4nysWGPoY-vCQrBK06TYlEvc5DbH0zJPiwAKkHp_1mEAGE4uhbcEE7JvYtsbL61AqdyzrnXQ9kFFvtA3Skd-Nhc0X0bPzyllO6x1-nUFCmFmwLWoQ7MfvxMp6FDKK2e5fKkGE6v2sofWsY8yZXcWg5YM3GsGMj4TC8Ywcu717y6cYPlt73FeDBbYFtVoHibd19NKjuJ6EtPOTl8kcTZavpvHtPMGRZepM3pr_MSrWcnjXqyAVIn1bZ-ZVof93IlbPHd261mQRT5a7VPy7C2ppBEPBkIqAu9mbzJ5d8ezMINz6G-oPLw"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bdf1294a46.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Qo1cP2v1Q1uHR1HF2ZndpRYvQ73Z3ZPtJYo4nysWGPoY-vCQrBK06TYlEvc5DbH0zJPiwAKkHp_1mEAGE4uhbcEE7JvYtsbL61AqdyzrnXQ9kFFvtA3Skd-Nhc0X0bPzyllO6x1-nUFCmFmwLWoQ7MfvxMp6FDKK2e5fKkGE6v2sofWsY8yZXcWg5YM3GsGMj4TC8Ywcu717y6cYPlt73FeDBbYFtVoHibd19NKjuJ6EtPOTl8kcTZavpvHtPMGRZepM3pr_MSrWcnjXqyAVIn1bZ-ZVof93IlbPHd261mQRT5a7VPy7C2ppBEPBkIqAu9mbzJ5d8ezMINz6G-oPLw"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/0d4720df6a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Qo1cP2v1Q1uHR1HF2ZndpRYvQ73Z3ZPtJYo4nysWGPoY-vCQrBK06TYlEvc5DbH0zJPiwAKkHp_1mEAGE4uhbcEE7JvYtsbL61AqdyzrnXQ9kFFvtA3Skd-Nhc0X0bPzyllO6x1-nUFCmFmwLWoQ7MfvxMp6FDKK2e5fKkGE6v2sofWsY8yZXcWg5YM3GsGMj4TC8Ywcu717y6cYPlt73FeDBbYFtVoHibd19NKjuJ6EtPOTl8kcTZavpvHtPMGRZepM3pr_MSrWcnjXqyAVIn1bZ-ZVof93IlbPHd261mQRT5a7VPy7C2ppBEPBkIqAu9mbzJ5d8ezMINz6G-oPLw"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/457c9d09d7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Qo1cP2v1Q1uHR1HF2ZndpRYvQ73Z3ZPtJYo4nysWGPoY-vCQrBK06TYlEvc5DbH0zJPiwAKkHp_1mEAGE4uhbcEE7JvYtsbL61AqdyzrnXQ9kFFvtA3Skd-Nhc0X0bPzyllO6x1-nUFCmFmwLWoQ7MfvxMp6FDKK2e5fKkGE6v2sofWsY8yZXcWg5YM3GsGMj4TC8Ywcu717y6cYPlt73FeDBbYFtVoHibd19NKjuJ6EtPOTl8kcTZavpvHtPMGRZepM3pr_MSrWcnjXqyAVIn1bZ-ZVof93IlbPHd261mQRT5a7VPy7C2ppBEPBkIqAu9mbzJ5d8ezMINz6G-oPLw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63852?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Qo1cP2v1Q1uHR1HF2ZndpRYvQ73Z3ZPtJYo4nysWGPoY-vCQrBK06TYlEvc5DbH0zJPiwAKkHp_1mEAGE4uhbcEE7JvYtsbL61AqdyzrnXQ9kFFvtA3Skd-Nhc0X0bPzyllO6x1-nUFCmFmwLWoQ7MfvxMp6FDKK2e5fKkGE6v2sofWsY8yZXcWg5YM3GsGMj4TC8Ywcu717y6cYPlt73FeDBbYFtVoHibd19NKjuJ6EtPOTl8kcTZavpvHtPMGRZepM3pr_MSrWcnjXqyAVIn1bZ-ZVof93IlbPHd261mQRT5a7VPy7C2ppBEPBkIqAu9mbzJ5d8ezMINz6G-oPLw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63853?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Wv3igmf4WuS2T_FTJCHhMvh47d1_4TjXwQe6fkG9sFTQaAEgFjnST2cI_kKmLy6BXoZ96ecIs8ChlYBdKqZGf4fE89z_rOiCj4O4lMa9MRvIDUh96A9DiPBoXJJp168xaSBXWFNVVdknlZS8ecUfpg5iGAqMWyff0XqKzzEE2L2NCYTDInTDFJJk4hAEZGj4y3TP21N2yizfh415csHnMThuEknjhHKWBj00VOcDblCSGrT6c7_Q1ZGkoKRfrcPL11t4lCV6ZZfn_QdflbUsWevbnuKr7K5H2QzROq-e9QJTSK1mZOe4tZ9e1AEyOK7Uze1hPdRifJrHFAakUI7BJw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63854?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ifgVgVZVUwJf0XLCXlVxdQR3lq9Cemw_dLs2hmyMHM3oapyJ42di7wRui10tQs3C_-Q_pQytaDagMXp3rkAW6P07bQ_P6tFtHOXkwMAnbIh4-XDT2LqgNvE583QkABsMbzUYwHkipVF_VE9OKYCS0EpWXh73-e8JhcpsU8prddQ6hmq8nIpuk3QVgFvzypsGReheSOVe3sTY0w8GkPMfkeAm21nWuDgUcMXFXm35bzIq1HdTri07G_9M9bfePCXsPXVHadI2jAvh6ZMnwtiTIoq4aONBeUAnjofFtUaz8gYzY3v6jB1v-84QCVFtS9c6YW7c2mv1-CcEAm8mz2PoYQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63855?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ES4NaRJ8UvhzBWm0dXmISXMEl11tgTMDA9BV4aieYa7MAudo9mIV8Axshx-jpDMtS81xZ--0GYWJAY4hhnY0a3_uHpPO5sORMUt7W-_8ckRrFbqCURBXJMEH-nHBLwjrPq03BDX9lJ1pHXjthhXEdBC2qsK46HlafYdVeUx_Am_4pdpy_qOgju5E4qsVbgOS1b2WuYASKQOUMZFliRtMmMk1WYP4wjVZW8aevaBw4uOmzes1l_yVv-WLp09NXHP8Z-P_TijZkfJdrcE9ibpaZ7GpQJVaRt4tB71PhGozlzZq2jc5yNcLLkSHkUL-S8DyFbaxrm1m18xLZTsEiDrDRQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1792994758959,
+    "type": "airstrike",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 In photos: Nassaji Mazandaran face Fajr Sepasi Shiraz in Persian Gulf Pro League📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/marEHmULaI41apXln08lHNhMV5HONv6U3enRQ466wk8JRBEKNUCP6qLjJ_wlJ8Qhww2AdWBnjzoA2z53Y2QVTkZy64BMWErgw-PKfplhgbR710JmbJq-rTzvjzafty36D3xKoyd2b2hC8asp8bSDCX4ri_xwKteyHYYAorHAKdgt16V9CjixeSmlrQdKmaFif0Kee302wff49PuzLoHwktpwoLYNy6qKNiqlA3XaNNtha_fjRMzrUJI1bIuFDidjxa-lMCusx0u5M3ADMGaXvr2-v0vjw-47mpco1aIYne-XHkfpv7W-a7w15AKrACQgaZfDTRyEguH_OjMEor7_UA.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
