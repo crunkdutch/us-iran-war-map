@@ -155500,6 +155500,81 @@
     ]
   },
   {
+    "id": 483974763,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Sanaa, Yemen: Current Updates October 2026 Yemen Yemeni",
+    "location": "Tehran, Sanaa, Yemen, Qatar, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Current Updates (+ve): October 26, 2026🇾🇪 Yemen• A Yemeni military source warned investors in Saudi Aramco to monitor the company’s financial indicators and share price, claiming that repeated attacks attributed to the Yemeni Armed Forces had contributed to a loss of more than &#036;100 billion in market value. The claim was not independently confirmed.🇮🇷🇶🇦 Regional diplomacy• A delegation from the Mecca Alliance reportedly visited Tehran in support of a Qatar-led initiative to end the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9efb21e509.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hMvGD3gIk_802nXViPDNncK-M-N1zzbE45-3knilU1qMlkTre3woFw0ZwC4TIby8q2MkelTbsYs0mTTUwuIaaemr03HF2zJZD3UzKVgSpQPndgv3XH5oV9Q4dBJRUou7M2qoC9-tFO-M4J5KcjKh1UIi9Np_scbqkSrNgv4N8YtOELAZcQlLCkr6_k9tUKZTlragCK_PAfZEPFMsuOhNxOqMCFxhu8cgDyDtHQt-sn4zL0CRrRke2dkmy99dPxJD4Lrcq7_7iE8ee5VoSEx6T1c50SoKffeZk6259wfShY28uqrOqnirZEgzubJqg23laFAH-jSJ6o9lhmPVMcmmng"
+      },
+      {
+        "url": "https://t.me/enemywatch/63873",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/hMvGD3gIk_802nXViPDNncK-M-N1zzbE45-3knilU1qMlkTre3woFw0ZwC4TIby8q2MkelTbsYs0mTTUwuIaaemr03HF2zJZD3UzKVgSpQPndgv3XH5oV9Q4dBJRUou7M2qoC9-tFO-M4J5KcjKh1UIi9Np_scbqkSrNgv4N8YtOELAZcQlLCkr6_k9tUKZTlragCK_PAfZEPFMsuOhNxOqMCFxhu8cgDyDtHQt-sn4zL0CRrRke2dkmy99dPxJD4Lrcq7_7iE8ee5VoSEx6T1c50SoKffeZk6259wfShY28uqrOqnirZEgzubJqg23laFAH-jSJ6o9lhmPVMcmmng"
+      }
+    ]
+  },
+  {
+    "id": 483978949,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab, Persian Gulf: military interventions unilateral sanctions threaten global",
+    "location": "Minab, Persian Gulf",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 US military interventions, unilateral sanctions threaten global energy security: Iran📌 Moscow, IRNA – Acting Oil Minister Hamid Bovard says US military interventions, hostile actions in several nations, along with unilateral sanctions, have negatively impacted investment, security, and predictability of global energy markets.Addressing the 28th Ministerial Meeting of the Gas Exporting Countries Forum (GECF) in Moscow on Monday, Bovard underscored the need to exchange views on strategic devel",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
