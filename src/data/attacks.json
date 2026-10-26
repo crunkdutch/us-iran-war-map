@@ -155170,6 +155170,102 @@
     "media": []
   },
   {
+    "id": 483941311,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Reports circulating recent hours claiming that",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚠️ | Reports circulating in recent hours claiming that unidentified jets attacked Iranian launchers are incorrect. Most of the explosions heard during the recent hours were related to the launch of cruise missiles toward the Strait of Hormuz.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483932958,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Tehran, Khuzestan, Aden: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Tehran, Khuzestan, Aden, Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 26, 2026🇾🇪 Yemen• Yemeni Armed Forces reportedly claimed strikes on Saudi mobilizations south of Ma’rib, including the Faliha and Al-Radha fronts, with several vehicles reportedly destroyed.• Yemen’s security services reportedly seized a truck carrying weapons allegedly bound for Saudi-backed mobilizations in Taiz. The weapons were reportedly concealed beneath flour sacks, with food-relief shipments allegedly being used as cover. Security sources said the truck",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483937134,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Ahvaz, Khuzestan, Sanaa: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Ahvaz, Khuzestan, Sanaa, Aden, Riyadh, Jeddah, Strait of Hormuz, Lebanon, Syria, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 26, 2026🇾🇪 Yemen / Saudi Arabia• Saudi Arabia reportedly carried out two airstrikes against a telecommunications network in Al-Sabrah District, Ibb Governorate.• Four civilians were reportedly injured in Saudi airstrikes targeting the Akmat Hubaish area of Al-Misrakh District, south of Taiz. The casualty figure was reportedly provided by Yemen’s Health Ministry in Sanaa.• The Yemeni Armed Forces spokesperson reportedly said Saudi warplanes had conducted 56 airs",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

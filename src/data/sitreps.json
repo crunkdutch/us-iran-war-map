@@ -203928,6 +203928,36 @@
     "verified": false
   },
   {
+    "id": 1792980314769,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 26, 2026🇾🇪 Yemen• Yemeni Armed Forces reportedly claimed strikes on Saudi mobilizations south of Ma’rib, including the Faliha and Al-Radha fronts, with several vehicles reportedly destroyed.• Yemen’s security services reportedly seized a truck carrying weapons alle...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1792980327392,
+    "type": "drone",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-10-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 26, 2026🇾🇪 Yemen / Saudi Arabia• Saudi Arabia reportedly carried out two airstrikes against a telecommunications network in Al-Sabrah District, Ibb Governorate.• Four civilians were reportedly injured in Saudi airstrikes targeting the Akmat Hubaish area of Al-Misra...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
