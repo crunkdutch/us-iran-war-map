@@ -203928,6 +203928,32 @@
     "verified": false
   },
   {
+    "id": 1792987521791,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪/🇸🇦 | Yemen’s Al-Masirah channel aired exclusive footage showing a hidden Saudi underground military facility with interconnected tunnel sections at the Murrah military camp in the occupied Shabwah Governorate. The footage shows Saudi officers and soldiers celebrating “Saudi National Day” insi...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/3ee1b591a8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/L7ooznSn54Abq68GXcwQdon8cMcpoa7zMWlQHTKEh9Nx03TXAbbOwMiqCMLdlzEjDVrirK7sH1h_6J4pzJaplmebO-PbKla9YvTESV7R9P-MBbFT9xp2Hj6O-0O5dUOGvgo_Wl3weZZmrpaODDtS6jjHQmV_oL4VxvtF35Tb9y97K0LvUcK9iYyqBtilOVpUHtzoS5cmRs_dyStM7yV_gfu4UUZIgUq85I6TbT9QPtoXcJ3fV_bsoOgueo4BgQJ0YSHuq9ACJEZL0VWie-He-yT-g7rOCcB6jkQuBHEqlA8O2ms9TgY_IgM3KRtnEhoz_UzRvKmn_abw9E8DJH3HZA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63851",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/L7ooznSn54Abq68GXcwQdon8cMcpoa7zMWlQHTKEh9Nx03TXAbbOwMiqCMLdlzEjDVrirK7sH1h_6J4pzJaplmebO-PbKla9YvTESV7R9P-MBbFT9xp2Hj6O-0O5dUOGvgo_Wl3weZZmrpaODDtS6jjHQmV_oL4VxvtF35Tb9y97K0LvUcK9iYyqBtilOVpUHtzoS5cmRs_dyStM7yV_gfu4UUZIgUq85I6TbT9QPtoXcJ3fV_bsoOgueo4BgQJ0YSHuq9ACJEZL0VWie-He-yT-g7rOCcB6jkQuBHEqlA8O2ms9TgY_IgM3KRtnEhoz_UzRvKmn_abw9E8DJH3HZA"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792980314769,
     "type": "intercept",
     "location": "Tehran",
