@@ -155266,6 +155266,75 @@
     "media": []
   },
   {
+    "id": 483966394,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia: Saudi Arabia attacks water solar power",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 ❌ 🇾🇪 | Saudi Arabia attacks water and solar power facilities in Sana’a:Saudi Arabian warplanes targeted a solar power plant and a drinking water well in the Arhab district of Sana’a province, according to Al-Masirah. Meanwhile, an Al-Masirah correspondent in Al-Jawf province reported seven airstrikes on the Al-Muton and Al-Matmah districts.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483970578,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — UAE: Satellite imagery reveals expanding spill coast",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "❗️Satellite imagery reveals expanding oil spill off UAE coast following tanker attackAn oil spill off the United Arab Emirates’ coastline continues to expand rapidly, forcing local authorities to restrict public access across multiple northern beaches. High-resolution satellite imagery reveals the slick advancing toward the shores of the Emirate of Umm al-Quwain.While the UAE’s Ministry of Climate Change and Environment confirmed on Friday that containment teams are actively working to mitigate ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HQWdxNziv4rpCR8o0wiTsG-ySazrYiJeZo_e2LlvrMHxr75V1W38TMpCi-xbs15-Z6ScAB4ZAW6atBMbE6ldWGC09rTNUN8FZy_cXCnafizLFvaf2LwdFeUAgcw-cgLjvE3tbvVM4bt-4D72TUv2DFKIi8ncYHd1AeV35qwlXAYwtwAIYjyRXTOmJozO8GVrlYFgrCG2ZMF9W-QrX7TCzaJ1OgdmfjbOJfmvFvrT4uMXfaPLXhEOEI10KAOhfYm-ZrRV_XaGP6rSLeYvnP6o8tKTb_9RTCHxX7SEvQoBWDL8S00V9dIWtePNT_Qy-Xv0x5FuTc3JK1kXxLVrdOfJ-g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 483932958,
     "type": "intercept",
     "status": "confirmed",

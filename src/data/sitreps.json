@@ -198525,6 +198525,21 @@
     "verified": false
   },
   {
+    "id": 1793016439293,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-14",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: Today, the final meeting of the 37th \"Israeli\" government will once again be held in a secured complex rather than at the Prime Minister’s Office, three years into the war.The more interesting question is: Does this mean that the Prime Minister will now avoid public even...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210671228,
     "type": "airstrike",
     "location": "Taba",
@@ -201590,6 +201605,56 @@
     "verified": false
   },
   {
+    "id": 1793016475441,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 ‘It’s too late Mr. President’: Araghchi mocks Macron for shifting blame on French unrest📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has harshly reacted to the recent remarks by French President Emmanuel Macron, pathetically blaming the US war on Iran for the out-of-control unrest in France....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793016414761,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "In a message, Ayatollah Seyyed Mojtaba Hosseini Khamenei, Leader of the Islamic Revolution, congratulated the management, coaches, and wrestlers of Iran's freestyle wrestling team, as well as the great Iranian nation on their victory at the World Championships in the US.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LIZN6OzCInaPvFvlNA-ahipSq5aTK2ole55BwnWLoGGHak1lpffkl69hYq6NF4LOETpBxKFOmXgOSqhnoEUakkQXNnzfT0GaKiYvpjRyp1NLzCNt4ntCHvA9Q7M7zMicj8py_Vpwi-vXKvgE2Q0tJSVchBjKbtfW6FsqfrnFzvB_P2m4igFP80l6vsA7FKT7Jw4mw9hMQzQQt9419ltz2tsU-lV43mNTJ04qTL0czVDgOVRpZt48PVBqoTC2nuz__UosSwoAKqqAx6hWafmnTSiFtjR0fsaYkL-E586adwQhpbnKeIye-ZnpmEDTUrp5P0SNmz_8h3wyum_qj_izwQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793016389285,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Chinese envoy: Beijing adopts consistent and stable policy toward Tehran📌 Tehran, IRNA — China’s ambassador to Tehran has stressed that Beijing’s policy toward Iran remains consistent and stable, reiterating China’s commitment to developing all-out ties.Addressing the international conference ti...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792474951163,
     "type": "drone",
     "location": "Bandar Abbas",
@@ -204232,6 +204297,26 @@
     "verified": false
   },
   {
+    "id": 1793016476127,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-10-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "❗️Satellite imagery reveals expanding oil spill off UAE coast following tanker attackAn oil spill off the United Arab Emirates’ coastline continues to expand rapidly, forcing local authorities to restrict public access across multiple northern beaches. High-resolution satellite imagery reveals the s...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HQWdxNziv4rpCR8o0wiTsG-ySazrYiJeZo_e2LlvrMHxr75V1W38TMpCi-xbs15-Z6ScAB4ZAW6atBMbE6ldWGC09rTNUN8FZy_cXCnafizLFvaf2LwdFeUAgcw-cgLjvE3tbvVM4bt-4D72TUv2DFKIi8ncYHd1AeV35qwlXAYwtwAIYjyRXTOmJozO8GVrlYFgrCG2ZMF9W-QrX7TCzaJ1OgdmfjbOJfmvFvrT4uMXfaPLXhEOEI10KAOhfYm-ZrRV_XaGP6rSLeYvnP6o8tKTb_9RTCHxX7SEvQoBWDL8S00V9dIWtePNT_Qy-Xv0x5FuTc3JK1kXxLVrdOfJ-g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792980314769,
     "type": "intercept",
     "location": "Tehran",
@@ -204323,6 +204408,41 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🌍 Judiciary chief: Martyred Leader’s courage, resolve evident in new Leader📌 Tehran, IRNA — Judiciary Chief Gholamhossein Mohseni Eje’i says the courage and firmness of the martyred Leader of the Islamic Revolution are fully evident in the current Leader, Ayatollah Sayyid Mojtaba Hosseini Khamenei...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793016412419,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Yemen has inflicted &#036;2 trillion in damages on Saudi Arabia: Ex-US ambassador📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/CuUvAJ3-YVApgke2Ieh8DmpXh13jK4wlZMtjFJHZB6Et2ACVSp0V3IeUm_eta_TXi_BtHDoEShTUQZGf9rupkR_n2ZzxREr-L5g4Y2dmN2Rrs2SGeUQD6KGvznKizOSfEfP5FjieIKltDxdEC_8HoFUr4zL_LrkEkZJED2FKJVNHnNZZ6utez3TPpphAeNOv-rFvUa3vNcX_uM5qWHLLlwplYS3dO8McYzbn84dcLvzRBegrW4yrPDgpVAuxQZPRHrIccbh6rOw7IE91eEYkCKXHS-9dCn6cOWDEs_FbDMX8Jhnb1HQlPqMovTrRzM3MAWnx69K05TpXfbZ5b-1JOQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793016428955,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Passive defense of Iranians strengthens national resilience: FM Araghchi📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has highlighted the role of people-oriented passive defense in strengthening the Iranian nation's resilience and steadfastness during the two recent US-Israeli-imposed wars.In...",
     "media": [],
     "verified": false
   },
