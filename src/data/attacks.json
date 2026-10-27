@@ -155880,6 +155880,102 @@
     "media": []
   },
   {
+    "id": 484016668,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Baghdad, Riyadh, Yemen: Minutes Updates October 2026 Yemen Saudi",
+    "location": "Baghdad, Riyadh, Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 60 Minutes Updates (+ve): October 27, 2026🇾🇪 Yemen / Saudi Arabia• Yemeni ballistic missiles reportedly targeted the Saudi cities of Najran and Khamis Mushait.• A large-scale Yemeni attack reportedly caused explosions in Abha, Saudi Arabia.• Yemeni forces reportedly targeted Al-Hariq Governorate in Saudi Arabia with missiles.🇮🇷 Iran• Iranian security forces reportedly arrested six individuals in Bompor, Sistan and Baluchestan Province, allegedly linked to the Jaish al-Adl group. Authoriti",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484020864,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran: Washingtons security guarantees have proven ineffective",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Washington’s security guarantees have proven ineffective: Security chief📌 Tehran, IRNA – Secretary of the Supreme National Security Council Major General Mohsen Rezaei says Washington’s inability to provide security guarantees has become evident, stressing that security in West Asia must be homegrown.In a post on X on Tuesday, Rezaei said the United States has not brought security any country in the region and called for preventing any foreign intervention.​“Washington’s inability to provide",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484025061,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Iraq: Iraq opposes politicization pilgrimage affairs Ambassador",
+    "location": "Tehran, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iraq opposes politicization of pilgrimage affairs: Ambassador📌 Tehran, IRNA – Iraq’s ambassador to Iran has said that the Iraqi government insists that pilgrimage affairs between the two neighboring countries must not be politicized or face any interruption.Yasser Abdul-Zahra Al-Hajjaj made the remarks in a meeting with Seyed Abdolfattah Navvab, the Representative of the Supreme Leader in Hajj and Pilgrimage Affairs, where he stressed that Iraq is fully prepared to resolve the issues surroun",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

@@ -203930,6 +203930,21 @@
     "verified": false
   },
   {
+    "id": 1793103034709,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicHis Eminence Ayatollah Sayyed Mojtaba Khamenei (may his shadow endure) stresses the need to fulfill Iran’s conditions for ending the war during his meeting with Mohsen Rezaei.During his meeting with Major General Mohsen Rezaei, Secretary of Iran’s Supreme National Security Council, ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792922615048,
     "type": "airstrike",
     "location": "Tehran",
@@ -205236,6 +205251,36 @@
     "source": "IDF",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴 Hourly Updates (-ve): October 27, 2026🇾🇪 Yemen / Saudi Arabia• A Yemeni civilian was reportedly injured by Saudi fire in the border district of Shada.• Saudi aircraft reportedly carried out a series of airstrikes on Mocha port and several areas of Taiz Governorate.• Saudi warplanes reportedly l...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793103073626,
+    "type": "missile",
+    "location": "Baghdad",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "date": "2026-10-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 60 Minutes Updates (+ve): October 27, 2026🇾🇪 Yemen / Saudi Arabia• Yemeni ballistic missiles reportedly targeted the Saudi cities of Najran and Khamis Mushait.• A large-scale Yemeni attack reportedly caused explosions in Abha, Saudi Arabia.• Yemeni forces reportedly targeted Al-Hariq Governorat...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793103064535,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iraq opposes politicization of pilgrimage affairs: Ambassador📌 Tehran, IRNA – Iraq’s ambassador to Iran has said that the Iraqi government insists that pilgrimage affairs between the two neighboring countries must not be politicized or face any interruption.Yasser Abdul-Zahra Al-Hajjaj made the ...",
     "media": [],
     "verified": false
   },
