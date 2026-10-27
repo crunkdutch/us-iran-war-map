@@ -155816,6 +155816,70 @@
     "media": []
   },
   {
+    "id": 484008279,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Persian Gulf, Yemen, Saudi Arabia: Hourly Updates October 2026 Iran Pakistan",
+    "location": "Persian Gulf, Yemen, Saudi Arabia",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 27, 2026🇮🇷 Iran / Pakistan• Iran’s government spokesperson said the Iran-Pakistan border remains open and cross-border movement is continuing. The diplomatic apparatus is reportedly working toward achieving lasting peace and reopening all border crossings.🇮🇷 Iran / Türkiye• US-sanctioned Iranian airlines reportedly continue to operate flights to and from Türkiye.🇮🇷 Persian Gulf maritime affairs• The Persian Gulf Waterway Management Authority issued a warnin",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484012473,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Lebanon, Yemen, Saudi Arabia: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Lebanon, Yemen, Saudi Arabia, Israel, Egypt",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 27, 2026🇾🇪 Yemen / Saudi Arabia• A Yemeni civilian was reportedly injured by Saudi fire in the border district of Shada.• Saudi aircraft reportedly carried out a series of airstrikes on Mocha port and several areas of Taiz Governorate.• Saudi warplanes reportedly launched intensive airstrikes on Dhubab and Mocha districts in Taiz Governorate.• Saudi aircraft reportedly carried out several additional raids on Mocha and Dhubab.• Saudi forces continued their attac",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

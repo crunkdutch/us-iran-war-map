@@ -201785,6 +201785,26 @@
     "verified": false
   },
   {
+    "id": 1793095799275,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 In photos: Iran–Russia FMs meeting in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Yeq6J9Y53F_HQQURJmhebHDalUhQGZ6S6rmmkUyZoS4l5911hTvEc9VdXdGGnU9BXn69wXhbEyMKm-3Hrmw5fVJQy-wNq4Urq3ygbvz8Lg7IUPh0AB4SFWizSteeNFPGzGPDA-Y5whq7exsI2INLkhnAKXFPz0Mar6g3ZURD4DXauDrnTmipgr1KJQd0Vl-m7meT-hvUzAsjCMHLyb70bJF3Kl2EeeYe6JLMNuNiBcErB1GNm5Rp3VKsLEevRze8vbDsvcYnJTLVxcxV6oRZh5gXYWh-6f7j-orDu3Ugs1m5-lOKYwYL4zZgTfxFVByrUbnhMH2Ke9Ln8kjbu7FC_A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792474951163,
     "type": "drone",
     "location": "Bandar Abbas",
@@ -203865,6 +203885,51 @@
     "verified": false
   },
   {
+    "id": 1793095861788,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: For security reasons, the Shin Bet asked War Minister “Israel” Katz to vote in the moshav of Yinon rather than at his place of residence.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793095811902,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: As of 10:00 a.m., voter turnout in the Knesset elections reached 16.68%.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793095878041,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media “Israeli” media: As of 10:00 a.m., voter turnout in the Knesset elections reached 16.68%. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792922615048,
     "type": "airstrike",
     "location": "Tehran",
@@ -205156,6 +205221,21 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴 Hourly Updates (-ve): October 27, 2026🇯🇴 🇸🇾 Jordan / Occupied Syria• Syrian authorities said Jordanian airstrikes in southern Syria killed five civilians, including women and children, and wounded two others. Damascus said the strikes were carried out without prior coordination with the Syria...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793095857313,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-27",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 27, 2026🇾🇪 Yemen / Saudi Arabia• A Yemeni civilian was reportedly injured by Saudi fire in the border district of Shada.• Saudi aircraft reportedly carried out a series of airstrikes on Mocha port and several areas of Taiz Governorate.• Saudi warplanes reportedly l...",
     "media": [],
     "verified": false
   },
