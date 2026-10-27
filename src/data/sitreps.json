@@ -203484,6 +203484,21 @@
     "verified": false
   },
   {
+    "id": 1793081384017,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: The electoral process in “Israel” began a short while ago and will continue until 10:00 pm.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792814268313,
     "type": "missile",
     "location": "Sanaa",
@@ -204897,6 +204912,144 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇶/ 🇮🇷 | Ship on fire off the Iraqi Coast after being targeted.🔻@enemywatch",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793081444609,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Al-Julani and his gangs and supporters are preoccupied with pursuing officers and soldiers of the Syrian Arab Army who defended Syrian land, while turning a blind eye to Israel's violation of their land and honor.Following the grazing of cattle inside Syrian territory by Zionist shepherds, a new ope...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/097c8ef350.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LnKPzxsjMTK7VNmv4J0zQtVwikOKloTO-pyPAYcvpmJ7ZzrTGO9v1OtbFhNBOI52RCZ_JxsE-mdJLv0_mAZFxWMqEryGaTNM1v961hsa9JQCHcBUdMoqu9B9-maFNXJLjnDkLDea5JlLwbiN2Xb7Nz70AJ2qy08w0TTPN-I0dwMABI7AvoxoO1XCUdj--XkybmQUURvxSOZJQnQYebV2jBJnutbKV80CROxFn8HGaDTaVQeA6kROKEfM9aYU-nmvgM125t_uAYye5Ko82BnxS75ejNHJZnyB9ctFHgM4rn2cf4c2LNqOzBDMGpyD9SAAOgFMHPy2PJ-9B-9B9KWaBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63902",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LnKPzxsjMTK7VNmv4J0zQtVwikOKloTO-pyPAYcvpmJ7ZzrTGO9v1OtbFhNBOI52RCZ_JxsE-mdJLv0_mAZFxWMqEryGaTNM1v961hsa9JQCHcBUdMoqu9B9-maFNXJLjnDkLDea5JlLwbiN2Xb7Nz70AJ2qy08w0TTPN-I0dwMABI7AvoxoO1XCUdj--XkybmQUURvxSOZJQnQYebV2jBJnutbKV80CROxFn8HGaDTaVQeA6kROKEfM9aYU-nmvgM125t_uAYye5Ko82BnxS75ejNHJZnyB9ctFHgM4rn2cf4c2LNqOzBDMGpyD9SAAOgFMHPy2PJ-9B-9B9KWaBw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793081450344,
+    "type": "drone",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "From a friend in Syria: Also few hours before Daraa. Jordan had nothing to do with this one A massive explosion occurred west of Saraqib city in eastern Idlib countryside, within a warehouse belonging to the Ministry of Defense of the interim government.While some pages affiliated with the authority...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c9c4d11d33.mp4",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ceb0e235f2.mp4",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://t.me/enemywatch/63903?single",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://t.me/enemywatch/63904?single",
+        "type": "video",
+        "thumbnail": null
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793081417825,
+    "type": "airstrike",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 In photos: Quadrilateral meeting of Iran, Pakistan, Turkey, Saudi Arabia📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/sC6KWnLGSSw9LlkyIPmhE5Zrb_hqBBWDna_M9e3tG6PFAZEnilG5t7OyzW4qc7frTQkFLrJ9ZG5DJiuu485FlvsCvCBXPe9vRZu3vWxGHGpaiHIqik6gqqOeZkF3TMjeDsXKINdWjScPD2C1QJ4KAPJblgRrZlt3J9MWAOnDdFqjXfHyMhAmB-j8I_L6r7ovR0l2uVBRuFrh7vLTy5TLqntHSOpBT6NkMSKtmoVz0BWZdFVaxwqdpgPYoowd7LObCYtCP19jTErh0alnaWKRV-kiAjmubEe04EHCeGfOb5he07vmBhJTDo6Yn_jJTQMZqngbnftfjt1He0hJ-V76rA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793081400320,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Quadrilateral meeting of Iran, Pakistan, Turkey, Saudi ArabiaSenior officials from Iran, Pakistan, Turkey, and Saudi Arabia held a quadrilateral meeting in Tehran on Monday (October 26, 2026), with the talks focusing on regional security and stability. The meeting was attended by Mohsen Rezaei, Secr...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/FbOXvSgC8QNUWYU_nYsP82H1YmcjKG45K9DU6mCPbpx767j1Rt6rlETgSVPFF-i-ej297M4r7KJITKQePB7qxEYkMVYJHDotaszL3PR39mz2WffBT8eKW0JCe2O2loMZvzWFzCOo9IwE53s0cqyLgtx5XjK1KCRDY5ipXPokb2y3GP7EC05r_ezUtHlXGh6E4wXxb-H-S62E_N3PA9jaSDsA_eUoRknjjoe6RGY6oJUofHXm_yAJluGeLPW6o3ylkLH_9Q_ndtxaMdSKU8389I5UC45hIfwLUkLbhw1rpSvQxKVDmS2FtDlqdLNwlNmt6m-4HCI6dPyQ8DUZKo07wQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/GPRIuhX3y5qxjGmCNc2NWNaOOpEeISx06UP-V0FaRz5t_E89AdffFnqrga9RbYmEeEpUHnP3mtuNJgWGwIs4AVY-83J-FlcM2RZuS0qTrr_g5cTrmp32ouRywLNtKEPQPghEsq39Ytrg1L0m-SncNnfuAbLn4WQB0AR6CpR6Dvq_LgdMT-s1CIV7mfbVIHGbwFoVw0LmeDGR7D_3TuX5g9A0GRGDhCYsOc1vdjylQ2qinqTtg6AHoESoswtow32ribN_hzFwZaxQj0PxEDQ4NDPC394xfUk7bP-sMiXCd_sh-R9jp6DAv0spA8Iq5o1GQOvYcVl7XeZR9XI5iihVCw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/LzzM5rmF0yRe8UYVTUb-VlqbUQxy6Qc8TJUjHCWBWPBVxgp835hdLSzL90hPoET56oRNew1WaVXB2Hzl9nn6sHLS_3wuPw3FshFPMCsg309D5kjxSTnPrMzLnASXLSfWo1aRc0L7on6HPTUMCiGRvsTNjiTjL0L61wTh5u1PbgffxxsUUlvHk8WsxzD0WKTfwAjibaNNCC1iASxoz3UluHrIm1Nzv7NeQgWErkPev5tdZJNEzG4xRb104ZA6LraUy4B77BN69AGdowJlNfOhhUSSO5ObnW7VBLKYKWWLWi9kzWhnXnTsE1bN1oCBqw6MRPPuYqvtqXY0I-aYDrIGvw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/k1cgFdcQZq85ALiEcriNrCxc0pAa7JZTB5E8XLUATi6VotqBlup3aWJkAiMUCNMhN6WIiKa_Uynknlax6BvEO8nrYCBhYLxUFEtQpSXkzDOy62JE6eemCoUfMdGIGTnX2OtKvyb9lR9FCtVpoNGzFKFVKiJ-wcMMmMj5IlQwWgPf7ZNj-48s3-uiL5jQ3bHMvkc2R9QzeutbU0rK5dk8Q-kNgf8FnaphKEmhbFh330C287QO1LIlPQa3cGC-aPJ_0e-jCJ0VSvO951CSpE6Kf7KckY6EWCQE1fNQBvEHkgyvgyguBvGdTYYRxAWf_t5YNZfjPeKPk1VTKWy1Mcb_7g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/OqqpRlmVTx3QtynUeXGMuzzFvhsGjSa_ElCTecR50E8fePHSikVypduHM0aWs6rIzJ7aLSVSKYuAnWxQk7TUIGHyMoBXyvkrOC69NCJRbqoJmaWjXvSNv3RXRV_UXOgGG_0sc-YAveE7OthY2_4-__H_F6tpzUhr5VZ9lKUW5H0TIpNya8YFKtyp0q9BAwAgoWfKl8NJ3B0ijvSU0VGzuUzcqsC1OqwJ1MlL4pX8j3RQpy63-Hz9okKjyvJOmLminmgj1t5r74Hz2iWMmYqii1jssjfOeiCckgGuUgD9UBk4GB2EM3Kqfb2C29mOAXq9fmxLdtXpy__L4M72MyrUOA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/gRbySckJW7kWxcMz1Q0TaZCoxkQcGrVleyZuxgwj7FNysgXXE3jjmPjiR64z94VH4UWPQAksWevNMwQTvpb_69A9UyGNteH8raKQz_UZkJ46ick0fz-B0r6tkAg_0LsOBNkxcekMyP4SRsdr4XX058xSXxIF9oL8YeGZcDrUiFbC63h-vnnCEExbekiGucWFGfT8RT9r8079bKbavv4uQhMD0gqEHFT5mDklYcTKvgGD4KBT42cdgbnKd9geohpAETGmTvrZ1fxaNkYXyayol9P8cjjjHkeEM8pcOyo9nk9jfrglxFqE5l_3rN2U8F0QkaGpp6P_66iPooaCmxqyQw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/U658rxjrMOiqe6tSBsWFnIU72xE2nkX8GXnqgNUvteHfNJIjreiIS0F1CK-Gfn9B4l41xaEEJUrXzdUZuf_10jmjd2wIRgac1xPId0wdomvAy-A0OT_HCYxS_VcKgfHSIEM187bFY0OZp7ESalM8zLfI-TlH5MyMUMmKYVTCW8RASjrQsIpVbZ1g8Or1EmcNRBAPWZes8JL6yEkZ628_VERmMtiFQ3Mys37VSPIxKzWP2cWfZn9HD2s1JrmxifRpGK0wkBpPEOlEUhxhA4g40PtzKssnEsRMg4SAjISBiG3z5VmVnlpSDBFwuzJcqtFhswcdvYwOQEcIXWp6iOKOlw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/VGk7y6kG-hNJeUMZwjTMoBJFlhqZ6uFvohagh-o8t664_2xYdFL-O-LPe3flFujlMM5l7FV3QJVOabcuTexgp8x1ZRI0WPBugWpq1VxcHlkl7MQPAF8xjkQ86lFuuDg-tKIDlsoajF6E1N_JSARpDN7GA7EsqjSBrUvHbAFpKONOuzGpC5dRbGykUsx5RrE4Nlvgs4UYnVa3ul2dQs8YDd_UwPLFl93MTJSKTcMqiTbaldS1B2pUgBnCWG7TSYWV29VeuiaEUl1RfDdyrQXyYy9tSCqRhPitsPYbEsGRyH7EczKX8Ii7CU0psp0-VDd44A0I4OA5YvlhxpqScNYs3g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/nKM1UYKl4hvGSXsapyqjr9hF9wADP9vuZa-rVUGLNY6LjbzQFck8k41q7_YkHFuG5qCfDftIdE5tz62DMuOgPGCM0HmXKqIC39zSiRRkT8BTLj9jwuxdiPhcpIEBwUE-OUqjVxBZf34ikMnsm-jPKSzY0Z-AIXhf5_H1lpGB5wghHRPlDpq7zoSQHrwZskehMH5G0hHTOZBP8G17s1PNv_EyGjJZqkazpKcvAh4BGjpjvS9fwGQxwN8jHa4svrypgPljQRRW6cz-wB9A1C7gQskiAmEdJivtdP5ulh0bhRFiLlGZYAEER8BvyF4UoZlaTu5WZNLAosiFqSdrg0s64g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/lMUuD261E4HIEDJimhTYVgqvOi9Mpx3ClUNmG9XZotOXPJCvQQK6TaOUHsUXdVPRiyFoZt12xw5Q1eD_EL7Zh7gqM3WvGTcts2lcrXctNOD6v651H_8m031-WAgwU0NSKuUXa9kDm40-mrhPdlYzIw-K8wED1QWEQqZOXXVMtpGZQ2kzUjh25r59ha0SNNq2sUThgX3eJri79oQCSzJ2zJP3IBnEmYmAtzwfyGW-kSKwwA6cgK5KyZinFIT-Ndnn9FuaA24614Y993dm6E8qiIKgpp6R7R_x8ri2dCxDpAJXUDsxC8Xn0yqs7rm-xaN-Bi2_IkQD1pmlg1aCBx470A.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

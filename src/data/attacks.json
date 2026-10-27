@@ -155618,6 +155618,102 @@
     "media": []
   },
   {
+    "id": 483995703,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria, Israel: AlJulani gangs supporters preoccupied with pursuing",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Al-Julani and his gangs and supporters are preoccupied with pursuing officers and soldiers of the Syrian Arab Army who defended Syrian land, while turning a blind eye to Israel's violation of their land and honor.Following the grazing of cattle inside Syrian territory by Zionist shepherds, a new operation targets the lands of Hauran.A herd of wild boars was introduced north of the town of Al-Rafid, south of Quneitra Governorate.They were brought in at night from the occupied Golan Heights with t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/097c8ef350.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LnKPzxsjMTK7VNmv4J0zQtVwikOKloTO-pyPAYcvpmJ7ZzrTGO9v1OtbFhNBOI52RCZ_JxsE-mdJLv0_mAZFxWMqEryGaTNM1v961hsa9JQCHcBUdMoqu9B9-maFNXJLjnDkLDea5JlLwbiN2Xb7Nz70AJ2qy08w0TTPN-I0dwMABI7AvoxoO1XCUdj--XkybmQUURvxSOZJQnQYebV2jBJnutbKV80CROxFn8HGaDTaVQeA6kROKEfM9aYU-nmvgM125t_uAYye5Ko82BnxS75ejNHJZnyB9ctFHgM4rn2cf4c2LNqOzBDMGpyD9SAAOgFMHPy2PJ-9B-9B9KWaBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63902",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LnKPzxsjMTK7VNmv4J0zQtVwikOKloTO-pyPAYcvpmJ7ZzrTGO9v1OtbFhNBOI52RCZ_JxsE-mdJLv0_mAZFxWMqEryGaTNM1v961hsa9JQCHcBUdMoqu9B9-maFNXJLjnDkLDea5JlLwbiN2Xb7Nz70AJ2qy08w0TTPN-I0dwMABI7AvoxoO1XCUdj--XkybmQUURvxSOZJQnQYebV2jBJnutbKV80CROxFn8HGaDTaVQeA6kROKEfM9aYU-nmvgM125t_uAYye5Ko82BnxS75ejNHJZnyB9ctFHgM4rn2cf4c2LNqOzBDMGpyD9SAAOgFMHPy2PJ-9B-9B9KWaBw"
+      }
+    ]
+  },
+  {
+    "id": 483999894,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Syria, Jordan: From friend Syria Also hours before",
+    "location": "Syria, Jordan",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "From a friend in Syria: Also few hours before Daraa. Jordan had nothing to do with this one A massive explosion occurred west of Saraqib city in eastern Idlib countryside, within a warehouse belonging to the Ministry of Defense of the interim government.While some pages affiliated with the authority reported a gas station explosion, the missile fragments and ammunition were flying from the explosion site towards surrounding areas.The explosion also coincided with a drone in the sky over southeas",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c9c4d11d33.mp4",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ceb0e235f2.mp4",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://t.me/enemywatch/63903?single",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://t.me/enemywatch/63904?single",
+        "type": "video",
+        "thumbnail": null
+      }
+    ]
+  },
+  {
     "id": 483987324,
     "type": "drone",
     "status": "confirmed",
