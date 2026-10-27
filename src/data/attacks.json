@@ -155448,6 +155448,38 @@
     ]
   },
   {
+    "id": 484046061,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-25",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Yemen: Yemen Thanks Allah armed forces targeted",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen Thanks to Allah, our armed forces targeted the Ministry of Defense in the Saudi enemy’s capital, Riyadh, with a ballistic missile, scoring a direct hit, thanks to Allah.http://t.me/army21ye",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483932958,
     "type": "intercept",
     "status": "confirmed",
@@ -156003,6 +156035,107 @@
       "other": 0
     },
     "description": "⚡️ Iraq opposes politicization of pilgrimage affairs: Ambassador📌 Tehran, IRNA – Iraq’s ambassador to Iran has said that the Iraqi government insists that pilgrimage affairs between the two neighboring countries must not be politicized or face any interruption.Yasser Abdul-Zahra Al-Hajjaj made the remarks in a meeting with Seyed Abdolfattah Navvab, the Representative of the Supreme Leader in Hajj and Pilgrimage Affairs, where he stressed that Iraq is fully prepared to resolve the issues surroun",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484033458,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Yemen, Saudi Arabia: Yemeni missile attack targeted Saudi Arabian",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | A Yemeni missile attack targeted Saudi Arabian targets in Riyadh.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/TwQp2Hx2htjx7OkzXo90lqhmn2MRqfyyrit3E7iWC-JB7KeF0s2aQE4WMC4iBP3bIIYooMb2KiPrZ0HmPbxqu29yGQxwCktqiR2wOm7_csXbVAe-JUTKaYHCYX7NBFhU2l4qNYZ02j1S3Coau73aT2_Hn4Q2OK9lPyO-3Ttx3JcDPP3kQGdm8u3mO7zPQyBA9R4Gk9fj02EMgjprWIW-KTSGosvDLL7KxhODWRjDxG8dqdrRl32uUXW3l_sEFzIauNBV7s3zIZltQ8GwFoCPO8OA4b9wn_5S4DHiGoL9EvpLvMgZHorXQ6MyVGm8kndNs37oZ_i89kbw1bPmXpAAaw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 484037658,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Persian Gulf, Israel: Pezeshkian says military intervention Persian Gulf",
+    "location": "Persian Gulf, Israel",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Pezeshkian says US military intervention in Persian Gulf disrupts global energy markets📌 Moscow, IRNA – President Masoud Pezeshkian says that US military intervention in the Persian Gulf is disrupting global energy pricing, supply and transit, warning that its consequences extended far beyond regional countries and threatened international energy security and economic growth.Addressing the eighth summit of the Gas Exporting Countries Forum (GECF) in Moscow on Tuesday, Pezeshkian said the mee",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484041859,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Persian Gulf: Iran boost deterrence with domestic capabilities",
+    "location": "Tehran, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran to boost deterrence with domestic capabilities: Commander📌 Tehran, IRNA – The commander of Iran’s Khatam al-Anbiya Joint Air Defense Headquarters said the country’s air defense will continue to advance and strengthen its deterrence power, relying on domestic capabilities.Brigadier General Alireza Elhami made the remarks on Tuesday during a visit to the southeastern air defense region and air defense units on the three Persian Gulf islands.​He expressed gratitude to the air defense force",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
