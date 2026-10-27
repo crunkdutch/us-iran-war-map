@@ -152966,6 +152966,38 @@
     ]
   },
   {
+    "id": 484029259,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-20",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Yemen: AnsarAllah launched largescale attack Taiz with",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | AnsarAllah has launched a large-scale attack in Taiz, with additional footage showing clashes between Ansar Allah and PLC forces at Jabal Saber, the last mountainous area used by PLC forces to defend the city. Meanwhile, following Yemen’s warning about security risks in the Saudi capital, offices of major international companies in Riyadh’s Kingdom Centre Tower, the city’s third-tallest tower, were reportedly evacuated, with employees instructed to work remotely until further notic",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483553044,
     "type": "drone",
     "status": "confirmed",

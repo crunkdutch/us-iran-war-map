@@ -202403,6 +202403,111 @@
     "verified": false
   },
   {
+    "id": 1793110269241,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-20",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Alert raised in Riyadh, Saudi Arabia.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793110318353,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Asim Munir has landed in Tehran. The arrival of this deeply unwelcome figure raises serious questions. Munir is an American stooge, not a mediator.He arrives just as the treacherous Foreign Ministry pushes its fraudulent negotiation agenda, an approach that has repeatedly failed and will fail agai...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793110321933,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-20",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 IRGC NAVYTwo offending oil tankers attempting to defy PGSA regulations, transiting an unsafe route through the Strait of Hormuz were set ablaze and stopped overnight. 🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793110283683,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Iranian delegations’ recent visits to Lebanon and Iraq have achieved various strategic benefits and developments regarding the issue of resistance forces, as well as bilateral cooperation. 🔹@enemywatch +",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793110250936,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni ballistic missile and drone attacks have been ongoing for the past two hours and are still continuing.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793110264822,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-10-20",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | AnsarAllah has launched a large-scale attack in Taiz, with additional footage showing clashes between Ansar Allah and PLC forces at Jabal Saber, the last mountainous area used by PLC forces to defend the city. Meanwhile, following Yemen’s warning about security risks in the Saudi capit...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793110324594,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— The reality is the reality. When rioters inside Iran were burning down public property and targeting civilian assets, including ambulances, buses, schools, places of worship, and food markets, the very same regimes that supported them are now finding themselves caught in a similar fire. At the tim...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792561547529,
     "type": "drone",
     "location": "Tehran",
@@ -203945,6 +204050,21 @@
     "verified": false
   },
   {
+    "id": 1793110293858,
+    "type": "airstrike",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: Voter turnout is very high. However, this does not necessarily mean there will be a dramatic change in the final turnout rate. In 2022, turnout was high during the morning hours, but the final rate was low compared with other years.Therefore, this may be a coincidence or...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792922615048,
     "type": "airstrike",
     "location": "Tehran",
@@ -205281,6 +205401,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ Iraq opposes politicization of pilgrimage affairs: Ambassador📌 Tehran, IRNA – Iraq’s ambassador to Iran has said that the Iraqi government insists that pilgrimage affairs between the two neighboring countries must not be politicized or face any interruption.Yasser Abdul-Zahra Al-Hajjaj made the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793110306299,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-10-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Gas Exporting Countries Forum summit kicks off in Moscow📌 Moscow, IRNA – The 8th Summit of the Gas Exporting Countries Forum (GECF) opened on Tuesday, October 27, in Moscow, with Iranian President Masoud Pezeshkian in attendance.In addition to President Pezeshkian, the leaders of key members of ...",
     "media": [],
     "verified": false
   },
