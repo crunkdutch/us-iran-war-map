@@ -155618,6 +155618,70 @@
     "media": []
   },
   {
+    "id": 483987324,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Red Sea, Bab al-Mandab, Yemen: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Red Sea, Bab al-Mandab, Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 27, 2026🇾🇪 Yemen• Yemeni Armed Forces reportedly said their operations targeted the rear lines of Saudi-backed mobilizations, causing deaths and injuries. A Yemeni military source said the Saudi-backed forces had built fortifications without adequately accounting for Yemeni drones, which can reportedly carry up to 10 bombs.• Yemeni forces reportedly captured the Jabal Asna‘, Al-Mahjabah and Al-Hujayjah areas, around 16 kilometers from the Al-Azaf port, amid rap",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 483991513,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Shiraz, Dubai, Damascus: Hourly Updates October 2026 Jordan Occupied",
+    "location": "Shiraz, Dubai, Damascus, Amman, Red Sea, Lebanon, Syria, Jordan, Yemen, UAE, Saudi Arabia, Iraq, Israel, Port Said",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 10
+    },
+    "description": "🔴 Hourly Updates (-ve): October 27, 2026🇯🇴 🇸🇾 Jordan / Occupied Syria• Syrian authorities said Jordanian airstrikes in southern Syria killed five civilians, including women and children, and wounded two others. Damascus said the strikes were carried out without prior coordination with the Syrian government and announced an investigation while opening direct communication channels with Amman.• Daraa’s health authorities later reported that Jordanian airstrikes killed 10 people, including thr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

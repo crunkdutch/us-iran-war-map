@@ -204845,6 +204845,91 @@
     "verified": false
   },
   {
+    "id": 1793074172354,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷(🇸🇦🇵🇰🇹🇷)🇾🇪🇺🇸| Some interesting points by an Iranian analyst regarding the quadrilateral meeting today in Tehran.The points I found interesting:Iran agreed to the meeting initiative strictly as the “Tehran Meeting,” not under the Mecca Pact framework.Iran discussed ending the war and re...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/WNU807_PBZz_I4Dj8BqwNXbTl2E8EmSUnF3fEZG7muB2Snn4BQ_SyLJFo0fZoQpbTKIqULcf-r8TX0nxkDWiJP2MG62yJMqf26NgxPJ_W33p2tunfdDia-4qpEfsbxpFPh9vxPTmdD4jP5RTPV52iYw1cOzq8PzDZr8b8txQ0mDG_KAJu4-lC73gPIsfddsvHjcASdhLFnHaWkeznqkLB_LMW-LddchN6_RrKAgljhKID-ElcOIMOp_KmOU9TTXfhz3ZABGqrhQkBReO7uOJMf2Hb6-6n_iOl4S6ky2sblAj9_e2qUTiBmFX5msDgAIojwgqeyVsmLsJBeobUQlt2Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793074160666,
+    "type": "airstrike",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇰🇼| Kuwait regime issues death sentence against Ayatullah Sheikh Hussein Al-Maatouq (H):The Kuwait regime has issued a death sentence against Ayatullah Sheikh Hussein Al-Maatouq (H) on charges of allegedly collaborating with Iran. The sentencing of a prominent Ayatullah and religious authority on ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/i6jEzNCsZQNa_ao558OIhacbFMkkudTJxBVgzma1hqRQ6vVUnH8S4gT3keiB7p1FBR_j53IoK1jAab6OXa-j51jLVUQ3Zrje0SggjUj4Kdfi6k6oa2_hRj2sUtCF_41ojIQUKSnFgNN9a4rismDgEC5FJh1K9j9_k3HSNQenx3SetCm7tMc-SqcUkejPT5NbfTERfxr-Kr5UB4PXm4NcsapgDXMSIKMRRbVoS33gXxcbL7LUQbumToiP6uN-dlo-xhuFSVW1GCcHSUTphPZWMWm9K0vx13WKqh9wV2zueAAjSdCHmV8G30p-HhLHeYTkjcmfmlGbG95SaezU7Jm3aw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793074239678,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶/ 🇮🇷 | Ship on fire off the Iraqi Coast after being targeted.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793074179324,
+    "type": "drone",
+    "location": "Red Sea",
+    "coordinates": [
+      22,
+      38
+    ],
+    "date": "2026-10-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 27, 2026🇾🇪 Yemen• Yemeni Armed Forces reportedly said their operations targeted the rear lines of Saudi-backed mobilizations, causing deaths and injuries. A Yemeni military source said the Saudi-backed forces had built fortifications without adequately accounting f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793074206239,
+    "type": "drone",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "2026-10-27",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 27, 2026🇯🇴 🇸🇾 Jordan / Occupied Syria• Syrian authorities said Jordanian airstrikes in southern Syria killed five civilians, including women and children, and wounded two others. Damascus said the strikes were carried out without prior coordination with the Syria...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
