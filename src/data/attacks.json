@@ -156141,6 +156141,38 @@
     "media": []
   },
   {
+    "id": 484050264,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Iran UNSC Israel possesses nuclear weapons",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran to UNSC: Israel possesses nuclear weapons, yet you are concerned about absence of inspectors in Iran&#33;📌 New York, IRNA –&nbsp;Iran’s Ambassador and Chargé d’Affaires to the United Nations Gholamhossein Darzi has criticized the silence of the Western members of the UN Security Council regarding the crimes committed by the US and Israel against Iran, saying that the International Atomic Energy Agency is not a tool for extracting concessions or advancing geopolitical agendas while wonde",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
