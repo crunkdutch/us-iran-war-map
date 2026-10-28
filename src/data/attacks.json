@@ -156237,6 +156237,43 @@
     "media": []
   },
   {
+    "id": 484062879,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab: Envoy Sanctions constitute aggression under international",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Envoy: Sanctions constitute act of aggression under international law📌 New York, IRNA 2 Ambassador and Chargé d’Affaires of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has described sanctions as an example of economic terrorism, saying they constitute acts of aggression under international law.“Sanctions are examples of economic terrorism, while blockades enforced by armed force constitute acts of aggression under international law,” Darzi said, addressing the Un",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qNQqwD5p2lkDvCUbDf4Ox1PlmhacHRywH8APw3YQXe0pFt_kjs2thyoNHTd7YnTezXVdSUXmAiPgOiPrkbphTZJG9RpXBSK4F-0dL_ymSbSFprO0ilrJMIR24JzgZ1PPvXdqfSZH08IVSwLv6edXjqBjlrSY0TsEpZVo7f1rYry_saTTs9bL4YYcFX9lWC9sHfkoIiSD2PCZL7lakMx-reKkt-Lcx7az9vP3-RIOU1e39-A0iK-a9xRfkLlWN4xK-oRjtmIwzc3kypA_ArlWJWCusmNKPY3pSOxrk753kU_ziOCenlycIJyPl3lRHtK5Tw7mgEt7deHhRQu0v_s26Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
