@@ -153819,6 +153819,38 @@
     ]
   },
   {
+    "id": 484096563,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran: Iran vows stronger defense response threats",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran vows stronger defense in response to threats📌 Tehran, IRNA – Minister of Defense and Armed Forces Logistics, Mehrdad Akhlaghi, stresses that Iran’s response to repeated threats is focused on strengthening its preparedness and defensive capabilities rather than engaging in a war of words.In a social media post on Wednesday, Akhlaghi said that he has devoted the first hour of his working day to meeting the needs of the Islamic Revolution Guards Corps (IRGC) Aerospace Force and the Army’s ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483618508,
     "type": "drone",
     "status": "confirmed",
