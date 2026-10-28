@@ -156173,6 +156173,70 @@
     "media": []
   },
   {
+    "id": 484054468,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Tehran, Bushehr, Aden: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Tehran, Bushehr, Aden, Riyadh, Jeddah, Strait of Hormuz, Persian Gulf, Bab al-Mandab, Yemen, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 28, 2026🇾🇪 Yemen• Yemeni Armed Forces reportedly thwarted an advance by Saudi-backed forces moving from Aden toward Bab al-Mandab. Spokesperson Yahya Saree said the forces’ movements and concentrations were targeted with ballistic missiles and heavy weapons, causing substantial casualties and destroying several military vehicles. Ambulances were reportedly dispatched to the area.• AnsarAllah launched a broad offensive in Taiz Governorate and captured several po",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484058673,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Damascus, Gaza City, Al Dhafra Air Base: Hourly Updates October 2026 Palestine Four",
+    "location": "Damascus, Gaza City, Al Dhafra Air Base, Prince Sultan Air Base, Lebanon, Syria, Yemen, Qatar, Saudi Arabia, Iraq, Israel, Gaza Strip",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 28, 2026🇵🇸 Palestine• Four Palestinians were reportedly killed in separate Israeli drone strikes and shootings across the Gaza Strip, including six-year-old Tahani Mohammed Said Shalalfa, who died from wounds caused by Israeli gunfire in Mawasi Khan Younis.• Two people were reportedly killed in separate Israeli drone strikes in Mawasi Rafah. Another person died from wounds sustained in an earlier Israeli shelling near Palestine Stadium, west of Gaza City.• A Pa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
