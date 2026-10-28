@@ -152173,6 +152173,70 @@
     ]
   },
   {
+    "id": 484067086,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-19",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Enemy_MediaIsraeli mediaNetanyahu unveils security doctrine ...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media:Netanyahu unveils his new security doctrine: preemptive strikes instead of waiting for an attack.– Changing the security doctrine: Shifting from a policy of containment and defense to prevention and attack, following the October 7 attack and the “Renaissance War.”– Preemptive strikes: Preparing to launch surprise military attacks to thwart threats before they turn into an actual danger, rather than merely responding to them.– Preventing the nuclear threat: Making the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484071294,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-19",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Lebanon: Statement issued Head Loyalty Resistance Bloc",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by the Head of the Loyalty to the Resistance Bloc, MP Mohammad Raad:Repeated statements and posts are circulating in the media and on social media, issued by responsible entities and other unofficial sources that have fallen into the trap of endorsing and supporting direct negotiations with the Zionist enemy and submitting to its dictates and conditions, which strip Lebanon of its national sovereignty, legitimize its occupation of Lebanon, and turn the Lebanese authorities into ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483475638,
     "type": "drone",
     "status": "confirmed",
