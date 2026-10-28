@@ -203305,6 +203305,26 @@
     "verified": false
   },
   {
+    "id": 1793218539551,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:Over the past 24 hours, Saudi warplanes carried out 62 airstrikes targeting civilian sites in the capital, Sana’a, and the governorates of Marib, Saada, Lahij, and Taiz. The attacks were cond...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/SzYx6fHwXmx09PdnbdCU23jDbC4wiBMMKDm_Y_03my8mvSNgfao0sU4TLCz6w50EoEUqLOEG4XTzRmhNAa6Qo42RWxPLJd4OoumBOn5AbNUoK6nPRI6P1q7ZXdCXWpO9hewkzb15kLVcP_TME7E5PrugSvWf2O3xN09UianD2Pf8YzdcuRhb3538vxl1V-u8j86f_SzPnGB6jG1Zn446ti451kGWmabvnHe_pIHibsOoOdvsZz1gbguyM3sZOZn_Ccams81mKufz1kJNi8pVvz0kg3OudCgibI5N4coZ202UQTsaygOevdLl1l9JhErOqzLCSSIsE9TF9HbmwqXVew.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",
