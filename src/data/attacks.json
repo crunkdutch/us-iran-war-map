@@ -156338,6 +156338,38 @@
     ]
   },
   {
+    "id": 484075503,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iran calls expansion regional mining cooperation",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran calls for expansion of regional mining cooperation📌 Tehran, IRNA – The head of Iran Mining House has stressed the need to expand economic ties with regional countries, saying that boosting domestic mineral production and processing would help increase exports and strengthen Iran’s presence in regional markets.Mohammad-Reza Bahraman made the remarks at the opening of the 20th International Exhibition of Mine, Mineral Industries, Mining Machinery and Equipment, Road Construction and Relat",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
