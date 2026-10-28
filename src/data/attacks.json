@@ -150080,6 +150080,38 @@
     "media": []
   },
   {
+    "id": 484092349,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-16",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Enemy_MediaIsraeli mediaNetanyahu unveils security doctrine ...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media:Netanyahu unveils his new security doctrine: preemptive strikes instead of waiting for an attack.– Changing the security doctrine: Shifting from a policy of containment and defense to prevention and attack, following the October 7 attack and the “Renaissance War.”– Preemptive strikes: Preparing to launch surprise military attacks to thwart threats before they turn into an actual danger, rather than merely responding to them.– Preventing the nuclear threat: Making the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 482838118,
     "type": "missile",
     "status": "confirmed",
@@ -153684,6 +153716,107 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 484079713,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Erbil: Iran carried drone attack headquarters Kurdish",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran has carried out a drone attack on the headquarters of Kurdish opposition groups in Erbil.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484083924,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Yemen: explosions were reportedly heard Yemeni capital",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 ❌ 🇾🇪 | Two explosions were reportedly heard in the Yemeni capital, Sanaa. Three airstrikes were reportedly carried out on Al-Mudhaffar district in southeastern Taiz.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484088136,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Aden, Yemen: Yemeni Armed Forces Brigadier General Yahya",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:Our armed forces successfully targeted the operations room of the Saudi enemy at Badr Camp in Aden with a ballistic missile. The strike was precise and direct, by the grace of Almighty God.The Yemeni Armed Forces affirm that they did not carry out any military operations targeting the Saudi interior today. The Saudi enemy’s claims of intercepting drones in the skies over Medina are false ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/E6mDs7Vc7sL1rqfvGa9OFSpP5uiSV5WSe6uKQ0Bk0DOZB_strXTV6ouMTtPmwaoGj6en9qMBWXFStNVkDGc_skmBYtIc3COYQ7XuMFTTYr6A9lKyLn-00PKc-W2EdkTNdzu3C6590qb0KD_Py75EzFJfztQjG-oHF3RMpkPmQDfPgFVyg26TLj-l6CBTT6QOlzAZCOHacQXdlQlYvgsTO4ScDpqeWs0mvN6LFiDvwJsqNepAjhfsBen35M_qjBljFmDXEnakN6OLY7NmSxf0TlxoKHT1_IQVWbAdjA7WXhfIHDKPZMClPLs1DWusCtgXSGwCD5Cfqx_bxMQRDWLvFg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 483618508,

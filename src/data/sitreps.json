@@ -199681,6 +199681,21 @@
     "verified": false
   },
   {
+    "id": 1793196910052,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaCorrespondent for the “Israeli” enemy army radio: We can only conclude that the security vision presented by Netanyahu is nothing more than an election promise, which, of course, will only be implemented if Netanyahu is elected prime minister.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210617101,
     "type": "rocket",
     "location": "Sanaa",
@@ -203118,6 +203133,107 @@
     "verified": false
   },
   {
+    "id": 1793196962908,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Street mobilization has continued for 234 consecutive days, despite receiving little media coverage. Last night, on the 234th day, people took to the streets across all provinces, chanting, “At Your Service, O Imam Sayyid Mojtaba.”🏴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f614f9d40a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/a4vvDJAdTsV5_59gSBuJdHTmiBqr917ipSPk1Q-Axvze1qXEPRqh5oZmjEiYQoqUHC8FEc5N7BgnyrI_F877y-_ZXTy7tJouqHOhMoCVwC5k6kyeXIaIBHjEohM5DTEoraQ0MlhnkkeIwnh7He3YbccznxMKi4icvSyxHNd9HijWGoQIYtf_KUHYPjrDq_GR1lzk6vt5J_4kMsKoCO2x0C8LGzQxzwDS-t43sQx0_AHkxfEF4OVnuLFp-7TdJSOOawOOK1iYfSievqw335B9jW66LflsroFLn7_jNA5NzKXKqZr5QRuI66UpslViiYEBkwRnCRQE2e0tPTth4pmzdA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63685",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/a4vvDJAdTsV5_59gSBuJdHTmiBqr917ipSPk1Q-Axvze1qXEPRqh5oZmjEiYQoqUHC8FEc5N7BgnyrI_F877y-_ZXTy7tJouqHOhMoCVwC5k6kyeXIaIBHjEohM5DTEoraQ0MlhnkkeIwnh7He3YbccznxMKi4icvSyxHNd9HijWGoQIYtf_KUHYPjrDq_GR1lzk6vt5J_4kMsKoCO2x0C8LGzQxzwDS-t43sQx0_AHkxfEF4OVnuLFp-7TdJSOOawOOK1iYfSievqw335B9jW66LflsroFLn7_jNA5NzKXKqZr5QRuI66UpslViiYEBkwRnCRQE2e0tPTth4pmzdA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793196960907,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Multiple explosions reported in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793196918692,
+    "type": "drone",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran has carried out a drone attack on the headquarters of Kurdish opposition groups in Erbil.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793196936315,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 ❌ 🇾🇪 | Two explosions were reportedly heard in the Yemeni capital, Sanaa. Three airstrikes were reportedly carried out on Al-Mudhaffar district in southeastern Taiz.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793196905053,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇳 ❓| A groundbreaking documentary with English subtitles exposes the alliance between Narendra Modi and his close associate Gautam Adani. Adani, a close ally of israel, has gained control over India’s natural and other resources, media, and even water through his symbiotic relationship with Modi....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793196891784,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Clearly Ansarullah has learned its lesson having witnessed the disaster that Ghalibaf & Co made of Syria and Lebanon.",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",
@@ -205953,6 +206069,26 @@
     "verified": false
   },
   {
+    "id": 1793196908812,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-10-27",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇪🇬 | Hosni Mubarak Spoke of America’s Betrayal at the End of His Rule:Kazem Jalali, Iran’s ambassador to Russia, told Tasnim:In February 2011, a few days before the fall of Hosni Mubarak, I traveled to Qatar with the late martyr Larijani and met with the then Emir of Qatar, Sheikh Hamad. The meeti...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/DwNd2OFd2DxhcvvqWGLrHwowDl3o5X99ajkZFxp0PyzBypgM11Wh-BCkZ4ZjdmdAPTZXTE_7inTMVxPRwZe9k1S8cTBMCokxzGs7kJbZ9dD-hV0GW-aPb8sS6z5rIJ1iC3ESgjXupNaem4esvH7HYrKLIy5GgMMeYxZ7UxPTo__9yOGk2nQFtXelV9_4Q5_n0j3JV6yRJrq28th2VTyUgHfKmaSGbfD6dMDNR2G75jjr0jBg553EyfFmRWpi6cYdoH5xcp9V-RdiPOH5NBRFCoZlwkBtOiwZKaQ2FOWarErbkeX7QwRZkmiMZkfp-MI85tgtzk3orwCmzsK8A7oRVw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793160800951,
     "type": "drone",
     "location": "Damascus",
@@ -206019,6 +206155,21 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "💬 Iran embassy in Kuwait rejects allegation linking Iranian national to assassination plot📌 Tehran, IRNA — Iran’s embassy in Kuwait has firmly denied allegations that an Iranian national was involved in a plot to assassinate public figures or threaten Kuwait’s national security, saying the individ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793196880134,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Pezeshkian vows to implement Leader’s directive to end ‘neither war nor peace’ situation📌 Tehran, IRNA – President Masoud Pezeshkian has described the recent directive of the Leader of the Islamic Revolution to the Secretary of the Supreme National Security Council to end the current state of “n...",
     "media": [],
     "verified": false
   },
