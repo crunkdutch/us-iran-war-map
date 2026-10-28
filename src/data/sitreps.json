@@ -206241,6 +206241,36 @@
     "verified": false
   },
   {
+    "id": 1793211405354,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-27",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Statement by His Eminence, Shaykh Naim Qassim (H) Secretary-General of Hezbollah, on Hezbollah's position on the political developments in Lebanon and the region: (1/2)In the name of Allah, the Most Gracious, the Most Merciful.To our sacrificing and honorable people, the resistance movement i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793211416928,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-27",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement by Hujjat Al-Islam wal-Muslimin, the Secretary-General of Hezbollah, His Eminence Sheikh Naim Qassem, on Hezbollah’s position regarding political developments in Lebanon and the region:In the Name of Allah, the Most Gracious, the Most MercifulTo our sacrificing and honorable people and nat...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793160800951,
     "type": "drone",
     "location": "Damascus",
@@ -206338,6 +206368,56 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔻 Leader tells Iranian youth: We are bound by a covenant to steer Iran to ‘peaks of progress’📌 Tehran, IRNA –Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has described the determination, resolve, and sense of responsibility toward building a bright future as the conn...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793211324064,
+    "type": "airstrike",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-10-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 28, 2026🇾🇪 Yemen— Yemeni reports said Saudi airstrikes on a market in Al-Hazm district, Al-Jawf, killed 14 people and wounded 10 others, including women and children.— Saudi aircraft reportedly continued striking southwestern Yemen, with airstrikes targeting Mount ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793211321295,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Leader tells Iranian youth: We are bound by a covenant to steer Iran to ‘summits of progress’📌 Tehran, IRNA –Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has described the determination, resolve, and sense of responsibility toward building a bright future as the co...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793211389087,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-28",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Photos | Footage showing the expulsion of forces gathered by the Saudi enemy from the Al-Dhabab and Al-Jabal Al-Aswad fronts in Taiz Governorate and the securing of these areas – October 28, 2026.",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/EqVIOaaiQPSX08eJl8991ZrIxxtwdgTuoFEKWFPEi7uInwjDAZ-zfD14CfRY_SAlXcu4FiW1G02spqWfQgyLAqhOonLD8_48qybHD1eMdAwHaBTDUhRnk8xXZzKrU5S2mQByJQg5qDKbQE2k6EpcMS0N0u3igB0laBe7fOeFnLmcbWUUHKnnEYlLvRnDRRHlTTzZrnZT-4onqLbSTDjHM43m3CRTut_NStKfcurTU8BAd7t7bRPkfUdDPzzYdO0lYAI4YgGY2REUB566eSU3rEfiwgoVaw8fNRlnZRGl8123xrA915usSbp1q5VevUL-ycFu48Jn81t8zkuZloJRwg.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

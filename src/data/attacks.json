@@ -156402,6 +156402,38 @@
     "media": []
   },
   {
+    "id": 484100778,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel, West Bank: Statement Eminence Shaykh Naim Qassim SecretaryGeneral",
+    "location": "Lebanon, Israel, West Bank, Taba",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Statement by His Eminence, Shaykh Naim Qassim (H) Secretary-General of Hezbollah, on Hezbollah's position on the political developments in Lebanon and the region: (1/2)In the name of Allah, the Most Gracious, the Most Merciful.To our sacrificing and honorable people, the resistance movement in our region arose due to the Israeli occupation, supported by global tyrants, foremost among them the United States. Since its inception in 1982, Hezbollah in Lebanon has been part of this resistance",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484054468,
     "type": "intercept",
     "status": "confirmed",
@@ -156530,6 +156562,70 @@
       "other": 0
     },
     "description": "📄 Iran calls for expansion of regional mining cooperation📌 Tehran, IRNA – The head of Iran Mining House has stressed the need to expand economic ties with regional countries, saying that boosting domestic mineral production and processing would help increase exports and strengthen Iran’s presence in regional markets.Mohammad-Reza Bahraman made the remarks at the opening of the 20th International Exhibition of Mine, Mineral Industries, Mining Machinery and Equipment, Road Construction and Relat",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484104994,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Aden, Yemen: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 28, 2026🇾🇪 Yemen— Yemeni reports said Saudi aircraft carried out seven airstrikes on Harf Sufyan district in Amran and four strikes on a security administration building in Al-Mokha. Further Saudi raids were also reported across the coastal city of Mokha.— More than four missiles were reportedly launched toward Aden International Airport, with explosions reported at the airport. Yemeni Armed Forces said they targeted large quantities of weapons allegedly transp",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484109211,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Damascus, Syria, Yemen: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Damascus, Syria, Yemen, Iraq",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 14,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 28, 2026🇾🇪 Yemen— Yemeni reports said Saudi airstrikes on a market in Al-Hazm district, Al-Jawf, killed 14 people and wounded 10 others, including women and children.— Saudi aircraft reportedly continued striking southwestern Yemen, with airstrikes targeting Mount Dahih and Mount Warqa in Al-Masrakh district, south of Taiz.— Taiz was reportedly facing severe shortages of water and electricity amid ongoing fighting between AnsarAllah and PLC forces around Jabal ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
