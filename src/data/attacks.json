@@ -156838,6 +156838,49 @@
     "media": []
   },
   {
+    "id": 484147209,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: IRGC Naval Force Fighters from electronic",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚓️ | IRGC Naval Force: Fighters from the electronic warfare unit of the Islamic Revolutionary Guard Corps Naval Force, during an offensive operation, successfully intercepted an American MQM-170 reconnaissance drone in the western Strait of Hormuz.After detecting and identifying the drone and gaining control of its guidance and control systems, the unit successfully brought it down and landed it safely on the ground. According to the IRGC Naval Force, information retrieved from the drone by its ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bad3b843e6.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m7nTYKiAncXaFjyoeOyRN4EDtBSLzSRLRDVbuz1uaY8x-9nnh78R87cej3slmptRn2lQFlV3fo6WnW46QdBuLxna4m91ddcOlWRAdeSj32HosKSNpB7DZsZWZqj1OD87FWqIRCZhXt5lGSfIuj_VWqDAtuv1x5P6rqgGRoRdEtAyIOY-eXRkHD_qmIX7UQ1kP9aHrU2QmNHHuXF5YDMjYMHLJdiCFVhMw-GfFESHfxJ5JIH8C01j5zx7xhGRutv6WaEkmgtvBhxtFWnkIPHu_Y5Mjh6e6x4gBmov9hzrOL3yWtxgU9plqacD4vmAbPBi8YGXu-1GWi1funRGysfyQQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/63955",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m7nTYKiAncXaFjyoeOyRN4EDtBSLzSRLRDVbuz1uaY8x-9nnh78R87cej3slmptRn2lQFlV3fo6WnW46QdBuLxna4m91ddcOlWRAdeSj32HosKSNpB7DZsZWZqj1OD87FWqIRCZhXt5lGSfIuj_VWqDAtuv1x5P6rqgGRoRdEtAyIOY-eXRkHD_qmIX7UQ1kP9aHrU2QmNHHuXF5YDMjYMHLJdiCFVhMw-GfFESHfxJ5JIH8C01j5zx7xhGRutv6WaEkmgtvBhxtFWnkIPHu_Y5Mjh6e6x4gBmov9hzrOL3yWtxgU9plqacD4vmAbPBi8YGXu-1GWi1funRGysfyQQ"
+      }
+    ]
+  },
+  {
     "id": 484117648,
     "type": "airstrike",
     "status": "confirmed",

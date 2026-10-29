@@ -206576,6 +206576,41 @@
     "verified": false
   },
   {
+    "id": 1793269108841,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Three ships have been attacked in the Strait of Hormuz over the course of the past two hours.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793269176806,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷🇦🇫⚡در حالی که عراق به عنوان یک کشور شیعه مرزهایش را به روی ایران می‌بندد، افغانستان به عنوان یک کشور سنی تمام ظرفیت جاده‌هایش را در اختیار ایران گذاشته. 🇮🇷🇦🇫⚡While Iraq, as a Shia country, closes its borders to Iran, Afghanistan, as a Sunni country, has placed the entire capacity of its ro...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/rEQJrlwNiHXJTrjrK62AUgGkmOyShYI8MM3ak1-BXtJj1RU-ImrjjBvsmPn8m9VFhu14AaaWbLPy1sCiNmUFOIwhwvvC1yKRfB04LI8CuzLWilbthgLpiYwmmx47xoxjos5J8xkCbSEartt6Reh_81k9Vuq0rM-RlaiHzRTtjjkdso2HCk1PGepx3KY8TnroCdWiI3Jrmc7oPSpIrU6b29QxC7mmmtKHlFlFqgIDfeBG1KuCLbK0Gqx9CxBTjOFclL1yN2i0uj3ooM_12zoMmuABv-vlr43kyNrovJd3a5VwsyJFwAx1B4YUgBws_DlUXtMD5l66jTvDGOrA3_iUcA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793247478713,
     "type": "airstrike",
     "location": "Syria",
