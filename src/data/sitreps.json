@@ -200473,6 +200473,126 @@
     "verified": false
   },
   {
+    "id": 1793254646210,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-17",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome,” “David’s Sling,” and “Arrow 2” batteries, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254647564,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-17",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Yedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254684237,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: Today, the final meeting of the 37th \"Israeli\" government will once again be held in a secured complex rather than at the Prime Minister’s Office, three years into the war.The more interesting question is: Does this mean that the Prime Minister will now avoid public even...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254638111,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaCorrespondent for the “Israeli” enemy army radio: We can only conclude that the security vision presented by Netanyahu is nothing more than an election promise, which, of course, will only be implemented if Netanyahu is elected prime minister.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254666554,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: The problem is that there are figures within the political echelon who are perhaps trying to hint that “Israel” might launch a preemptive strike for political considerations, increasing fears of the same Iranian miscalculation. This is des...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254668926,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: It is important to emphasize that the “Israeli” army command stresses that the Iranian threat has by no means ended, and that the Chief of Staff believes a return to fighting will be necessary at some point. However, when senior army offic...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283548342,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYashar Party leader and former “Israeli” Chief of Staff Gadi Eisenkot:– Nine days before the elections, three years after the most serious failure and disaster in “Israel’s” history, and with all fronts ablaze, Netanyahu has decided to reveal to the public what he calls his “security doc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283554468,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYesh Atid Party leader and “Israeli” opposition leader Yair Lapid:Even by Netanyahu’s current standards, marked by exhaustion and detachment from reality, this document appears superficial and bizarre, as though it were written using a free version of an AI chatbot. It is difficult to re...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792294411068,
     "type": "drone",
     "location": "Tehran",
@@ -203699,6 +203819,132 @@
     "verified": false
   },
   {
+    "id": 1793283546475,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Iranian Parliament Member Amir Sabeti on the “Be Vaght-e Iran” Programme:Interviewer: If there had been no negotiations, would the Leader of the Revolution still have been martyred?Amir Sabeti: I’ll leave it at this: an audio recording made several months ago by one of the preachers was accurate a...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/eca12db1d8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TvhiyffA7xjGvC96zhheqd2wnElzjZ-reFZO2taFCtf0-0YA93LcQVPQRq6Tm5ZAKKITncjkqV0SbhmJ4qfOSe5eWOirAg7ovR9LOcSw3Agc-_aCaaAziH2jXY-DJFXJ9mTUpI-iT3DDxZHRrxzlPwLMymCiX5REK1uOID9PDeZ-yhZsMj77TP1wctpdsSJXUS3MQuxO-nTzMjRyiK3sPFIPjGSXiosysqaG3wApAEjN5EVQenGNgCd3Chhe-1Aqq3PP743lfRct0FgvMcpYgJlfS4Qu0W_DuO-BVZ0M8NdkX7aitGv25FXfLmrQEgF9ZohAyBOKfX49DoC5IYcucA"
+      },
+      {
+        "url": "https://t.me/enemywatch/63737",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TvhiyffA7xjGvC96zhheqd2wnElzjZ-reFZO2taFCtf0-0YA93LcQVPQRq6Tm5ZAKKITncjkqV0SbhmJ4qfOSe5eWOirAg7ovR9LOcSw3Agc-_aCaaAziH2jXY-DJFXJ9mTUpI-iT3DDxZHRrxzlPwLMymCiX5REK1uOID9PDeZ-yhZsMj77TP1wctpdsSJXUS3MQuxO-nTzMjRyiK3sPFIPjGSXiosysqaG3wApAEjN5EVQenGNgCd3Chhe-1Aqq3PP743lfRct0FgvMcpYgJlfS4Qu0W_DuO-BVZ0M8NdkX7aitGv25FXfLmrQEgF9ZohAyBOKfX49DoC5IYcucA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793283574988,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-22",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📮 | Public flight-tracking data indicates that most U.S. and Israeli military refuelling aircraft have stopped broadcasting their positions by switching off their transponders. These aircraft, which were previously visible on tracking platforms, have now effectively disappeared from public view. Th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283566820,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Iran heads toward a new and dangerous phase of war...Iran is heading toward a new and dangerous escalation in the ongoing war. Reports indicate that, in the past hours, Iranian missile-launch platforms and anti-ship missile systems in the Sirik's mountains were targeted in successive American stri...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283559084,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-22",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Navy:Heroic and risen nation of Islamic Iran;Kudos to you who, by standing courageously on the scene, are the source of strength for the fighters of Islam and have brought humiliation and despair to the enemies of dear Iran. With this immense national backing, the naval forces of the IRG...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283541721,
+    "type": "missile",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Those who said that the Imam had been martyred were themselves unwilling to go to the shelter&#33;With just one word in the message of Imam Sayyid Mujtaba Khamenei, they were exposed:“You were martyred by a surprise attack&#33;”We, the grieving people, have the right to know, forever, why the offi...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/vAWOL3St89cog0swE6uxil9iBbBq5XsBu9CTyV9ZWD0FnHV_bvoQnQ7dZdEtz1UsnkVMfXHDhh8Dymuhb1VsVT9n1ZiHAURclVtgopkrHk_Xs6OVcnkFucik-vEwCFpaCP6lxjW6yCUg97OR1tf49u7zHiQn2cvWAywC3ldFRqcFP3T_7KL22c_B_J1TEAeNQvBkeBcv6aNKmY1NyNQBh-TdumCTfDR8LVMGBN3Mtv8-kxsdPUkR_HxwICUkEsqvVu8CN1EFCEQuq01VaprGgwZM35ZNpyQHqBdOmr-07VpTfmtD-DzoVBFWOgXiPbV2GkTXDkbzvD5EbZMhYqdq8w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793283592187,
+    "type": "airstrike",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— But has this been done, or not? Is there a precedent for such investigations in Iran?Yes. During the eight-year war with Iraq and even earlier, during battles against separatist groups, military inspections actively investigated operational failures and the circumstances surrounding the martyrdom ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DeI5XhL2jAt21UrFE-NXzZOMxhglyk7vYNQGrDwtUqHE9KvAvO5QOQt4-3GHfOe9o09ZkXatwU-oMVyLe_Ap5Zt-3muOL9nDd5PbUbfSRhgCftjab6gUNxETOaiccqVfSeZ0Mo-uucg2vaggEDgbYbvs7T99xKhW8V_nxRjD1x6SJepx-iXACAAxsBhjm_WewNytAbwlaZPVW2EiHfAdr19pYuYO01ixefJqYQA99u49CzMDtdrC93vSJUJoxmb-TGv_PlZn3P8hu1Sy0bezuQAq-Gm3YK0hMgSt8_0TUMnMn14dqxRHVtE5j9R8-8xoAV6QKBjZm2yqP5b319vlIg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793283537374,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Pakistan has closed its border with Iran, Iraq has closed another trade border, and Rubio has travelled to India. Now, Iran’s flag carrier, Iran Air, says that India and Singapore have refused to issue permits for its cargo flights intended to transport 60 to 70 tonnes of medicine to Iran. These m...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792727596410,
     "type": "missile",
     "location": "Riyadh",
@@ -206291,6 +206537,36 @@
     "verified": false
   },
   {
+    "id": 1793261913149,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-27",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” enemy army radio correspondent:Election Committee Chairman Judge Solberg ordered Shin Bet chief David Zini to investigate suspicions of foreign funding and electoral bribery by foreign entities.The suspicion is that foreign entities acting against “Israeli” interests financed e...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793261881439,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-27",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media “Israeli” enemy army radio correspondent: Election Committee Chairman Judge Solberg ordered Shin Bet chief David Zini to investigate suspicions of foreign funding and electoral bribery by foreign entities. The suspicion is that foreign entities…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793160800951,
     "type": "drone",
     "location": "Damascus",
@@ -206438,6 +206714,232 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1793254668216,
+    "type": "intercept",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-10-28",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:An hour ago, the 14th advanced MQ-1 drone was intercepted and destroyed by a modern advanced defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network, in the skies east of the Strait of Hormuz (off Sirik, s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793269108841,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Three ships have been attacked in the Strait of Hormuz over the course of the past two hours.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793269176806,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷🇦🇫⚡در حالی که عراق به عنوان یک کشور شیعه مرزهایش را به روی ایران می‌بندد، افغانستان به عنوان یک کشور سنی تمام ظرفیت جاده‌هایش را در اختیار ایران گذاشته. 🇮🇷🇦🇫⚡While Iraq, as a Shia country, closes its borders to Iran, Afghanistan, as a Sunni country, has placed the entire capacity of its ro...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/rEQJrlwNiHXJTrjrK62AUgGkmOyShYI8MM3ak1-BXtJj1RU-ImrjjBvsmPn8m9VFhu14AaaWbLPy1sCiNmUFOIwhwvvC1yKRfB04LI8CuzLWilbthgLpiYwmmx47xoxjos5J8xkCbSEartt6Reh_81k9Vuq0rM-RlaiHzRTtjjkdso2HCk1PGepx3KY8TnroCdWiI3Jrmc7oPSpIrU6b29QxC7mmmtKHlFlFqgIDfeBG1KuCLbK0Gqx9CxBTjOFclL1yN2i0uj3ooM_12zoMmuABv-vlr43kyNrovJd3a5VwsyJFwAx1B4YUgBws_DlUXtMD5l66jTvDGOrA3_iUcA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793276355690,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Legal diplomacy must deliver tangible results in protecting national interests: Iran official📌 Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has called for a results-oriented approach to legal and multilateral diplomacy, stressing that inter...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793276317808,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Exclusive | Iranian Navy carried out more than 20 operations against US warships: Commander📌 Tehran, IRNA – Naval forces of the Iranian Army carried out more than 20 operations against US warships during the 40-day conflict that began on February 28, while approximately 300 additional operations...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793276343204,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 IRGC Navy captures US drone intact over Strait of Hormuz📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has captured a US reconnaissance and decoy drone intact west of the Strait of Hormuz after taking control of its guidance and control systems.The statement said the Navy’s ele...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793276392301,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 'Surrender' does not exist in Iranian nation’s lexicon: Commander📌 Tehran, IRNA — The enemies of the Islamic Republic failed to achieve their goals in their recent war of aggression, emphasizing that “surrender” has no place in the lexicon of the Iranian nation, says Deputy Chief of the Iranian ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283616179,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "group of Iraqi tribal chiefs paid their respects at the burial site of the martyred Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei in Mashhad, eastern Iran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0485da85c0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C_2RU6EoXCsMepeiEbsogYRad1XM8_JdAFQihhK5xnWKHtxupkMwLKgrPCs3aeiwTGGRhAwSe2lRDjpgMywXC5Q181pjA5l4gPUisGVopQKoJ-aE1dYmaiE7b0n5mQo5oA-MgA6KQcN9AFwGSbrq3esKGPK5viQKiTX0baI8prNcdSA_svy8-d4fJ94sumz65pQcp-Sy-CYHcIPfwkChoecSvzlHD6mhsRE46zl35e18gcyqgMlyypsWl3UrwfNN_wl7BwaFedrZmp4iD5e6hRPYBlfz67Z2uEBC1P-56ww7eMIPZV5AgCQ-Gkth6VTYgN7MNg2kSl6_mQ-MnrEF_g"
+      },
+      {
+        "url": "https://t.me/Irna_en/41505",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C_2RU6EoXCsMepeiEbsogYRad1XM8_JdAFQihhK5xnWKHtxupkMwLKgrPCs3aeiwTGGRhAwSe2lRDjpgMywXC5Q181pjA5l4gPUisGVopQKoJ-aE1dYmaiE7b0n5mQo5oA-MgA6KQcN9AFwGSbrq3esKGPK5viQKiTX0baI8prNcdSA_svy8-d4fJ94sumz65pQcp-Sy-CYHcIPfwkChoecSvzlHD6mhsRE46zl35e18gcyqgMlyypsWl3UrwfNN_wl7BwaFedrZmp4iD5e6hRPYBlfz67Z2uEBC1P-56ww7eMIPZV5AgCQ-Gkth6VTYgN7MNg2kSl6_mQ-MnrEF_g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793283601473,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Pezeshkian calls for regional cooperation, slams double standards on human rights📌 Tehran, IRNA – President Masoud Pezeshkian has reiterated his call for deeper cooperation among regional countries, especially neighbors, in order to assist each other and address common security challenges.Addres...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283526095,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: The ship, which departed from “Israel,” was attacked by three unmanned vehicles in the Black Sea and sank. It belonged to an “Israeli” company.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283591165,
+    "type": "airstrike",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-10-28",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Lebanon:Speech by the Head of Hezbollah’s Executive Council, Sheikh Ali Daamoush, at the opening ceremony of the “Ardi Market” at the Sayyed Al-Shuhadaa Complex in Beirut’s southern suburb.– The enemy thought that destroying the edifice of the Sayyed Al-Shuhadaa could extinguish a cause or erase a ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793283530777,
+    "type": "airstrike",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-10-28",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Lebanon Speech by the Head of Hezbollah’s Executive Council, Sheikh Ali Daamoush, at the opening ceremony of the “Ardi Market” at the Sayyed Al-Shuhadaa Complex in Beirut’s southern suburb.– Until the state recognizes the importance of this sector, people must take the initiative themselves. We too...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793247478713,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 29, 2026🇾🇪 Yemen— AnsarAllah forces reportedly captured Al-Maydan and advanced toward the small hamlets of Al-Hadir and Al-Hubayl. Fighting was reportedly continuing around Jabal Sabr, one of Yemen’s highest mountains.— An aircraft was reportedly shot down over Yem...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793247503969,
+    "type": "rocket",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-10-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 29, 2026🇾🇪 Yemen— One civilian was reportedly killed in a landmine explosion in the Al-Oushaqah area of Mawza district, west of Taiz. — Two people were reportedly injured by artillery shelling attributed to Saudi-affiliated forces in Sabr al-Mawadim, southeast of T...",
+    "media": [],
     "verified": false
   },
   {
