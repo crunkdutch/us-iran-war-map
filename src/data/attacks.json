@@ -154707,6 +154707,38 @@
     ]
   },
   {
+    "id": 484206478,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Drone Strike — Tehran, Strait of Hormuz, Persian Gulf: Iran Army chief says drone capabilities",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf, Oman, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran Army chief says drone capabilities strengthened, forces ready for asymmetric warfare📌 Tehran, IRNA – Iranian Army Chief Commander Major General Amir Hatami says the Army has strengthened its drone capabilities and is prepared for asymmetric warfare, citing lessons learned from the two wars imposed by the United States and Israel over the past year.Hatami made the remarks during a visit to an Army facility producing combat drones on Thursday, where he reviewed the force’s readiness and o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483680113,
     "type": "missile",
     "status": "confirmed",
@@ -157318,6 +157350,70 @@
       "other": 0
     },
     "description": "🔴 Hourly Updates (-ve): October 29, 2026🇾🇪 Yemen— One civilian was reportedly killed in a landmine explosion in the Al-Oushaqah area of Mawza district, west of Taiz. — Two people were reportedly injured by artillery shelling attributed to Saudi-affiliated forces in Sabr al-Mawadim, southeast of Taiz, and Al-Wazi’iyah, west of Taiz.— Saudi forces reportedly targeted the Al-Shaibani paint and chemicals factory in Al-Rubaie, west of Taiz, causing a fire. Two airstrikes also reportedly hit Al-Bir",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484197999,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Riyadh, Strait of Hormuz, Bab al-Mandab: Hourly Updates October 2026 Yemen Yemeni",
+    "location": "Riyadh, Strait of Hormuz, Bab al-Mandab, Yemen, Qatar, Oman, Israel",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 29, 2026🇾🇪 Yemen— The Yemeni Armed Forces reportedly targeted Saudi positions in Najran.— Breaking — Reports said several explosions were heard in Riyadh, Al-Kharj and Najran, while alerts were reportedly activated in Riyadh and the Eastern Province.🇶🇦🇮🇷 Qatar / Iran— QatarEnergy reportedly announced that it would refrain from transporting pipelines through the Strait of Hormuz, citing concerns that regional infrastructure could be targeted. CEO Saad Al-Kaa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484202238,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 29, 2026🇾🇪 Yemen— Saudi aircraft reportedly carried out four airstrikes on the Ma’am and Ashmaitin districts of Taiz Governorate.— A Saudi airstrike was reportedly carried out against Baqim district in Saada.▪️@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
