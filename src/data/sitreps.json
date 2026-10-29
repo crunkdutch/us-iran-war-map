@@ -200473,6 +200473,96 @@
     "verified": false
   },
   {
+    "id": 1793254646210,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-17",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome,” “David’s Sling,” and “Arrow 2” batteries, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254647564,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-17",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Yedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254684237,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: Today, the final meeting of the 37th \"Israeli\" government will once again be held in a secured complex rather than at the Prime Minister’s Office, three years into the war.The more interesting question is: Does this mean that the Prime Minister will now avoid public even...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254638111,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaCorrespondent for the “Israeli” enemy army radio: We can only conclude that the security vision presented by Netanyahu is nothing more than an election promise, which, of course, will only be implemented if Netanyahu is elected prime minister.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254666554,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: The problem is that there are figures within the political echelon who are perhaps trying to hint that “Israel” might launch a preemptive strike for political considerations, increasing fears of the same Iranian miscalculation. This is des...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793254668926,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: It is important to emphasize that the “Israeli” army command stresses that the Iranian threat has by no means ended, and that the Chief of Staff believes a return to fighting will be necessary at some point. However, when senior army offic...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792294411068,
     "type": "drone",
     "location": "Tehran",
@@ -206438,6 +206528,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1793254668216,
+    "type": "intercept",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-10-28",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:An hour ago, the 14th advanced MQ-1 drone was intercepted and destroyed by a modern advanced defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network, in the skies east of the Strait of Hormuz (off Sirik, s...",
+    "media": [],
     "verified": false
   },
   {

@@ -150876,6 +150876,102 @@
     "media": []
   },
   {
+    "id": 484134534,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen, Saudi Arabia, Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaper BenYishai Israe...",
+    "location": "Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper – Ron Ben-Yishai: “Israel” provides Saudi Arabia with intelligence on targets in Yemen through the US Central Command. However, Saudi Arabia needs air defense systems, including detection radars and “Iron Dome,” “David’s Sling,” and “Arrow 2” batteries, to counter ballistic missiles, cruise missiles, and Houthi drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484138758,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Enemy_MediaIsraeli mediaNetanyahu unveils security doctrine ...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media:Netanyahu unveils his new security doctrine: preemptive strikes instead of waiting for an attack.– Changing the security doctrine: Shifting from a policy of containment and defense to prevention and attack, following the October 7 attack and the “Renaissance War.”– Preemptive strikes: Preparing to launch surprise military attacks to thwart threats before they turn into an actual danger, rather than merely responding to them.– Preventing the nuclear threat: Making the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484142983,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: Enemy_MediaIsrael Hayom Hebrew newspaper Lilach Shoval",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Lilach Shoval: The problem is that there are figures within the political echelon who are perhaps trying to hint that “Israel” might launch a preemptive strike for political considerations, increasing fears of the same Iranian miscalculation. This is despite senior security officials affirming that there is no urgent need to attack Iran or take preemptive action specifically in the next few days leading up to the elections.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483325936,
     "type": "intercept",
     "status": "confirmed",
@@ -156708,6 +156804,38 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 484130311,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Sirik, Strait of Hormuz: Islamic Revolutionary Guard CorpsAn hour 14th",
+    "location": "Sirik, Strait of Hormuz",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:An hour ago, the 14th advanced MQ-1 drone was intercepted and destroyed by a modern advanced defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network, in the skies east of the Strait of Hormuz (off Sirik, southern Iran).🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 484117648,
