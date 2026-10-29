@@ -18,6 +18,7 @@
 const { execSync } = require('child_process')
 const fs = require('fs')
 const path = require('path')
+const { runDependencyAudit, sendDependencyAlert } = require('./src/data/dependency-audit')
 
 const PROJECT_DIR = __dirname
 const STATE_FILE = path.join(PROJECT_DIR, 'src/data/ingest-state.json')
@@ -46,85 +47,124 @@ function loadState() {
 }
 
 async function main() {
+  let auditReport = {
+    requiresAlert: true,
+    scanSuccessful: false,
+    findings: [],
+    remainingFindings: [],
+    fixAttempted: false,
+    fixSuccessful: null,
+    dependencyChanges: false,
+    errors: ['Dependency audit did not complete.'],
+  }
+  let dependencyPublished = false
   console.error('═══════════════════════════════════════')
   console.error('  WAR MAP DATA PIPELINE')
   console.error(`  ${new Date().toISOString()}`)
   console.error('═══════════════════════════════════════')
 
-  const state = loadState()
+  try {
+    console.error('\n▶ Auditing npm dependencies...')
+    auditReport = await runDependencyAudit()
+    if (auditReport.errors.length) {
+      for (const error of auditReport.errors) console.error(`  ✗ ${error}`)
+    }
+    if (!auditReport.ready) {
+      console.error('\n✗ Dependency rollback failed — aborting pipeline.')
+      process.exitCode = 1
+      return
+    }
 
-  // Backfill roughly once per 24h (based on last successful backfill,
-  // NOT totalFetches — a frozen counter previously forced backfill every run).
-  const lastBackfillMs = state.lastBackfill ? Date.parse(state.lastBackfill) : 0
-  const isBackfillCycle = !state.lastBackfill || (Date.now() - lastBackfillMs > 23 * 3600 * 1000)
+    const state = loadState()
 
-  // 1. Fetch from Telegram channels
-  const mode = isBackfillCycle ? '--backfill' : ''
-  const ingestOk = run(
-    `Ingesting Telegram data (${isBackfillCycle ? 'BACKFILL' : 'LIVE'})`,
-    `node src/data/telegram-ingest.js ${mode}`,
-    INGEST_TIMEOUT_MS
-  )
-  if (!ingestOk) {
-    console.error('\n✗ Ingest failed — aborting. No commit/push (state not saved, retry next cycle).')
-    process.exit(1)
+    // Backfill roughly once per 24h (based on last successful backfill,
+    // NOT totalFetches — a frozen counter previously forced backfill every run).
+    const lastBackfillMs = state.lastBackfill ? Date.parse(state.lastBackfill) : 0
+    const isBackfillCycle = !state.lastBackfill || (Date.now() - lastBackfillMs > 23 * 3600 * 1000)
+
+    // 1. Fetch from Telegram channels
+    const mode = isBackfillCycle ? '--backfill' : ''
+    const ingestOk = run(
+      `Ingesting Telegram data (${isBackfillCycle ? 'BACKFILL' : 'LIVE'})`,
+      `node src/data/telegram-ingest.js ${mode}`,
+      INGEST_TIMEOUT_MS
+    )
+    if (!ingestOk) {
+      console.error('\n✗ Ingest failed — aborting. No commit/push (state not saved, retry next cycle).')
+      process.exitCode = 1
+      return
+    }
+
+    // 2. Parse all raw HTML into structured data
+    const parseOk = run('Parsing attacks, sitreps, statements from sources',
+      'node src/data/parse-all.js', PARSE_TIMEOUT_MS)
+    if (!parseOk) {
+      console.error('\n✗ Parse failed — aborting. No commit/push (retry next cycle).')
+      process.exitCode = 1
+      return
+    }
+
+    // 2b. Prune raw HTML older than the retention window (scratch input only;
+    //     parsed results already live in the JSON stores). Best-effort — never
+    //     blocks a push if pruning fails.
+    run('Pruning old raw HTML sources', 'node src/data/prune-sources.js', 120000)
+
+    // 3. Check if there are changes
+    const status = execSync('git status --porcelain', { cwd: PROJECT_DIR }).toString().trim()
+
+    if (!status) {
+      console.error('\n✓ No new data — nothing to push.')
+      return
+    }
+
+    // 4. Copy dynamic data to public/ for client-side polling
+    console.error('\n▶ Copying runtime data to public/...')
+    fs.copyFileSync(path.join(PROJECT_DIR, 'src/data/irgc-losses.json'),
+      path.join(PROJECT_DIR, 'public/data/irgc-losses.json'))
+    fs.copyFileSync(path.join(PROJECT_DIR, 'src/data/hormuz-data.json'),
+      path.join(PROJECT_DIR, 'public/data/hormuz-data.json'))
+
+    // 5. Build the site (smoke test — the pushed source is what Vercel builds,
+    //    so a failed build here means a failed deploy; abort and retry next cycle).
+    const buildOk = run('Building site', 'npm run build', BUILD_TIMEOUT_MS)
+    if (!buildOk) {
+      console.error('\n✗ Build failed — NOT committing/pushing (Vercel would deploy a broken build). Retry next cycle.')
+      process.exitCode = 1
+      return
+    }
+
+    // 6. Commit and push
+    const dateStr = new Date().toISOString().slice(0, 19).replace('T', ' ')
+    const commitOk = run('Committing changes', `git add -A && git commit -m "auto: data pipeline update ${dateStr}"`)
+    if (!commitOk) {
+      console.error('\n✗ Commit failed — NOT pushing.')
+      process.exitCode = 1
+      return
+    }
+    const pushOk = run('Pushing to GitHub', 'git push')
+    if (!pushOk) {
+      console.error('\n✗ Push failed — data committed locally, will retry next cycle.')
+      process.exitCode = 1
+      return
+    }
+    dependencyPublished = auditReport.dependencyChanges
+
+    console.error('\n═══════════════════════════════════════')
+    console.error('  PIPELINE COMPLETE — Vercel deploying')
+    console.error('═══════════════════════════════════════')
+  } catch (e) {
+    console.error('Pipeline failed:', e.message)
+    process.exitCode = 1
+  } finally {
+    if (auditReport?.requiresAlert) {
+      try {
+        await sendDependencyAlert(auditReport, dependencyPublished)
+        console.error('\n✓ Dependency audit alert sent.')
+      } catch (error) {
+        console.error(`\n✗ Could not send dependency audit alert: ${error.message}`)
+      }
+    }
   }
-
-  // 2. Parse all raw HTML into structured data
-  const parseOk = run('Parsing attacks, sitreps, statements from sources',
-    'node src/data/parse-all.js', PARSE_TIMEOUT_MS)
-  if (!parseOk) {
-    console.error('\n✗ Parse failed — aborting. No commit/push (retry next cycle).')
-    process.exit(1)
-  }
-
-  // 2b. Prune raw HTML older than the retention window (scratch input only;
-  //     parsed results already live in the JSON stores). Best-effort — never
-  //     blocks a push if pruning fails.
-  run('Pruning old raw HTML sources', 'node src/data/prune-sources.js', 120000)
-
-  // 3. Check if there are changes
-  const status = execSync('git status --porcelain', { cwd: PROJECT_DIR }).toString().trim()
-
-  if (!status) {
-    console.error('\n✓ No new data — nothing to push.')
-    process.exit(0)
-  }
-
-  // 4. Copy dynamic data to public/ for client-side polling
-  console.error('\n▶ Copying runtime data to public/...')
-  fs.copyFileSync(path.join(PROJECT_DIR, 'src/data/irgc-losses.json'),
-    path.join(PROJECT_DIR, 'public/data/irgc-losses.json'))
-  fs.copyFileSync(path.join(PROJECT_DIR, 'src/data/hormuz-data.json'),
-    path.join(PROJECT_DIR, 'public/data/hormuz-data.json'))
-
-  // 5. Build the site (smoke test — the pushed source is what Vercel builds,
-  //    so a failed build here means a failed deploy; abort and retry next cycle).
-  const buildOk = run('Building site', 'npm run build', BUILD_TIMEOUT_MS)
-  if (!buildOk) {
-    console.error('\n✗ Build failed — NOT committing/pushing (Vercel would deploy a broken build). Retry next cycle.')
-    process.exit(1)
-  }
-
-  // 6. Commit and push
-  const dateStr = new Date().toISOString().slice(0, 19).replace('T', ' ')
-  const commitOk = run('Committing changes', `git add -A && git commit -m "auto: data pipeline update ${dateStr}"`)
-  if (!commitOk) {
-    console.error('\n✗ Commit failed — NOT pushing.')
-    process.exit(1)
-  }
-  const pushOk = run('Pushing to GitHub', 'git push')
-  if (!pushOk) {
-    console.error('\n✗ Push failed — data committed locally, will retry next cycle.')
-    process.exit(1)
-  }
-
-  console.error('\n═══════════════════════════════════════')
-  console.error('  PIPELINE COMPLETE — Vercel deploying')
-  console.error('═══════════════════════════════════════')
 }
 
-main().catch(e => {
-  console.error('Pipeline failed:', e.message)
-  process.exit(1)
-})
+main()

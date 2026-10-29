@@ -10,6 +10,9 @@ WorkingDirectory=/home/openclaw/.openclaw/workspace/us-iran-war-map
 # node/npm live in OpenClaw's toolchain, not /usr/bin; expose them so the
 # internal `npm run build` (execSync) resolves too.
 Environment=PATH=/home/openclaw/.openclaw/tools/node-v24.19.0/bin:/usr/local/bin:/usr/bin:/bin
+# Telegram bot settings are stored outside the repository. Missing
+# configuration is logged when an alert is required.
+EnvironmentFile=-/etc/warmap-pipeline.env
 ExecStart=/home/openclaw/.openclaw/tools/node-v24.19.0/bin/node /home/openclaw/.openclaw/workspace/us-iran-war-map/pipeline.js
 # Long per-step timeouts already handled inside pipeline.js; cap the whole run
-TimeoutStartSec=1800
+TimeoutStartSec=5400
