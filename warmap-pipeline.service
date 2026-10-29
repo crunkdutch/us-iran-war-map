@@ -12,7 +12,7 @@ WorkingDirectory=/home/openclaw/.openclaw/workspace/us-iran-war-map
 Environment=PATH=/home/openclaw/.openclaw/tools/node-v24.19.0/bin:/usr/local/bin:/usr/bin:/bin
 # Telegram bot settings are stored outside the repository. Missing
 # configuration is logged when an alert is required.
-EnvironmentFile=-/etc/warmap-pipeline.env
+EnvironmentFile=-%h/.config/warmap-pipeline.env
 ExecStart=/home/openclaw/.openclaw/tools/node-v24.19.0/bin/node /home/openclaw/.openclaw/workspace/us-iran-war-map/pipeline.js
 # Long per-step timeouts already handled inside pipeline.js; cap the whole run
 TimeoutStartSec=5400

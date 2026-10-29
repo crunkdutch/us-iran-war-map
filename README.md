@@ -33,14 +33,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The existing `warmap-pipeline.timer` runs the dependency audit every two hours. High/critical findings trigger a non-forced `npm audit fix`; dependency changes are retained for the pipeline commit only when the post-fix audit, lint, and build pass. Otherwise, dependency files are restored. A Telegram message is sent only for high/critical findings or audit/fix/validation failures.
 
-Configure the existing OpenClaw Telegram bot on the host in `/etc/warmap-pipeline.env` (keep this file outside Git and restrict it to the service administrator):
+The pipeline runs as a **user** systemd service (not system-level). Configure the OpenClaw Telegram bot in a user-writable env file at `~/.config/warmap-pipeline.env` (keep this file outside Git and set permissions `600`):
 
 ```ini
 TELEGRAM_BOT_TOKEN=replace-with-existing-openclaw-bot-token
 TELEGRAM_CHAT_ID=replace-with-alert-group-chat-id
 ```
 
-Run `sudo cp warmap-pipeline.service /etc/systemd/system/warmap-pipeline.service`, save the environment file with permissions `600`, then run `sudo systemctl daemon-reload`. Use `sudo systemctl start warmap-pipeline.service` to start the next pipeline cycle immediately. Alert delivery errors, including missing Telegram configuration, are logged to the systemd journal.
+Install the unit under `~/.config/systemd/user/`, then reload and (optionally) start the next cycle immediately:
+
+```bash
+cp warmap-pipeline.service ~/.config/systemd/user/warmap-pipeline.service
+systemctl --user daemon-reload
+systemctl --user start warmap-pipeline.service
+```
+
+Alert delivery errors, including missing Telegram configuration, are logged to the systemd journal (`journalctl --user -u warmap-pipeline.service`).
 
 ## Deploy on Vercel
 
