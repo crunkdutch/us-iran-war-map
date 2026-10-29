@@ -154564,6 +154564,149 @@
     "media": []
   },
   {
+    "id": 484164123,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Red Sea, Yemen: Yemeni Armed Forces Brigadier General Yahya",
+    "location": "Red Sea, Yemen",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:The Saudi enemy has targeted an Indian yacht near Zuqar Island, with 14 Indian nationals on board, according to preliminary reports.The Yemeni Armed Forces are carrying out a rescue operation and will provide further details later.This reckless Saudi attack threatens international navigation in the Red Sea. The international community must stop the Saudi enemy from engaging in such irresp",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/KPGGpeuhSwPCSDbLy07-EgpVrVxJN1ckEnRU1cMk7X0x12Nj_i7AZGKOsNFJ7NbjJ9hjlzMxhH3xS4rLf3_wb1ialRzLJS4WQB1Wl6IW-KetgSirgLRv3fDcsXMLmsYj1ciuWKsFGSmsisgWGMG_UBIKX5GsV-XBUNt2dJhP3usOaze1PSzEvLg9BPqgiVwM5PtK9BWj29tD1BrTbOXxlVGXVQYcfLq-4sz35X8yN7d5uU1f9pFKnBlk3OLD6U4Q1v1khMhkd2CX1fTG0F9Y3vZ--bZcC7rhnqifZHMkwCixhqsbo7PUO8ViVmpYD7eXpyr0km8wYTTk0YpBiHgh4g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 484168354,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "CENTCOM Naval Operation — Strait of Hormuz, Oman: Secretary Supreme National Security Council Major",
+    "location": "Strait of Hormuz, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Secretary of the Supreme National Security Council, Major General Mohsen Rezaei:We will not return to the previous form of diplomacy, but we will not abandon diplomacy either. Through intermediaries, we have presented seven new conditions. As long as these conditions are not implemented, Iran will not reopen the strait and will not return to negotiations.The difference this time is that we are incorporating the guarantee into the structure of the agreement itself. First, the commitments m",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/EeKl4HvTZIQJjSePvw-jPf6aPkZpfgmpTHm3w75vVGr1RZ3RJDjqUqX_6Kg5GocVG-0y8o9XaZMFzT8JWCksoKBFMXcwCjMD12uMc4_yTgzPy7TlMBq3bTBlHhGETe5egxaFeNyvGFjp-IMTV4Pr0DCJvQSd8Lejne0PxvZbUw6fp-9CGnOnXFDsHygElM-AHIQiUPulqIDE4henvMkMdfpEyhCKamB0EJ1uF1l9ZqTez-9bktAGZV6k8AfMIutJfEQ-SmmQn-x9uPKyYatB9y-dilGqq9jMNqFgjRYoSSOQv2rWSNSj1mvzF4NP-C3-171CxdHakac2ZlOAz0ofRg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 484172586,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Sirik: Iran heads toward dangerous phase Iran",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Iran heads toward a new and dangerous phase of war... Iran is heading toward a new and dangerous escalation in the ongoing war. Reports indicate that, in the past hours, Iranian missile-launch platforms and anti-ship missile systems in the Sirik's mountains…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484176819,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Taba: Those said that Imam been martyred",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Those who said that the Imam had been martyred were themselves unwilling to go to the shelter&#33;With just one word in the message of Imam Sayyid Mujtaba Khamenei, they were exposed:“You were martyred by a surprise attack&#33;”We, the grieving people, have the right to know, forever, why the officials failed to protect the Imam’s life against missiles that could be seen even with the naked eye.#ImamKhamenei ▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/vAWOL3St89cog0swE6uxil9iBbBq5XsBu9CTyV9ZWD0FnHV_bvoQnQ7dZdEtz1UsnkVMfXHDhh8Dymuhb1VsVT9n1ZiHAURclVtgopkrHk_Xs6OVcnkFucik-vEwCFpaCP6lxjW6yCUg97OR1tf49u7zHiQn2cvWAywC3ldFRqcFP3T_7KL22c_B_J1TEAeNQvBkeBcv6aNKmY1NyNQBh-TdumCTfDR8LVMGBN3Mtv8-kxsdPUkR_HxwICUkEsqvVu8CN1EFCEQuq01VaprGgwZM35ZNpyQHqBdOmr-07VpTfmtD-DzoVBFWOgXiPbV2GkTXDkbzvD5EbZMhYqdq8w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 483680113,
     "type": "missile",
     "status": "confirmed",
@@ -156977,6 +157120,134 @@
       "other": 0
     },
     "description": "🔊 Exclusive | Iranian Navy carried out more than 20 operations against US warships: Commander📌 Tehran, IRNA – Naval forces of the Iranian Army carried out more than 20 operations against US warships during the 40-day conflict that began on February 28, while approximately 300 additional operations targeted American interests in various locations, including through missile and drone strikes, the coordinating deputy of the Islamic Republic of Iran Army Navy has said.In an exclusive interview wit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484181053,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Lebanon: Hezbollah victory Brazilian President Lula Silva",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 / 🇧🇷 / 🇨🇺| Hezbollah on the victory of Brazilian President Lula da Silva in the presidential elections and on the international position on the US blockade of Cuba:Hezbollah extends its warmest congratulations to His Excellency Brazilian President Luiz Inacio Lula da Silva on the occasion of his victory in the presidential elections, and the Brazilian people’s renewed confidence in him, which reflects their democratic will and choices.While Hezbollah congratulates President Lula on this",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484185288,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Enemy_MediaIsraeli media Reports Israeli cargo ship",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media: Reports of an “Israeli” cargo ship being targeted by three drones in the Black Sea.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484189524,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaHebrew Channel ship which departed from",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 12: The ship, which departed from “Israel,” was attacked by three unmanned vehicles in the Black Sea and sank. It belonged to an “Israeli” company.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484193761,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Beirut, Lebanon: LebanonSpeech Head Hezbollahs Executive Council Sheikh",
+    "location": "Beirut, Lebanon",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Lebanon:Speech by the Head of Hezbollah’s Executive Council, Sheikh Ali Daamoush, at the opening ceremony of the “Ardi Market” at the Sayyed Al-Shuhadaa Complex in Beirut’s southern suburb.– The enemy thought that destroying the edifice of the Sayyed Al-Shuhadaa could extinguish a cause or erase a memory for us. However, the hand of truth, sacrifice, and courage that resisted it and continues to do so has, thanks to the people of goodwill, restored the complex to life, allowing it to pulse once",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
