@@ -112,9 +112,11 @@ async function fetchChannelHistory(key, info, state) {
       const postIds = extractPostIds(html, key)
 
       // Empty page (0 parsable posts — typically a rate-limit interstitial).
-      // Don't save junk, don't count it as content; break out after 3 in a row.
+      // Don't save junk, don't count it as content; skip this channel rather
+      // than failing the whole pipeline.
       if (postIds.length === 0) {
-        throw new Error('Telegram page contained no parsable posts')
+        console.error(`    → Empty page (0 posts — likely rate-limited). Skipping channel.`)
+        break
       }
       // Allow some overlap (up to 3 IDs may appear on consecutive pages)
       const newIds = postIds.filter(id => !seenPostIds.has(`${key}/${id}`))
@@ -174,8 +176,8 @@ async function fetchChannelHistory(key, info, state) {
       }
 
     } catch (e) {
-      console.error(`    ✗ Error: ${e.message}`)
-      throw e
+      console.error(`    ✗ Error: ${e.message} — skipping channel (transient).`)
+      break
     }
   }
 
