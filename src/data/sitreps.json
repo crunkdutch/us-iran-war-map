@@ -206441,6 +206441,36 @@
     "verified": false
   },
   {
+    "id": 1793247478713,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-10-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): October 29, 2026🇾🇪 Yemen— AnsarAllah forces reportedly captured Al-Maydan and advanced toward the small hamlets of Al-Hadir and Al-Hubayl. Fighting was reportedly continuing around Jabal Sabr, one of Yemen’s highest mountains.— An aircraft was reportedly shot down over Yem...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793247503969,
+    "type": "rocket",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-10-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 29, 2026🇾🇪 Yemen— One civilian was reportedly killed in a landmine explosion in the Al-Oushaqah area of Mawza district, west of Taiz. — Two people were reportedly injured by artillery shelling attributed to Saudi-affiliated forces in Sabr al-Mawadim, southeast of T...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
