@@ -87,6 +87,7 @@ async function fetchPage(url) {
     headers: { 'User-Agent': 'Mozilla/5.0 (compatible; WarMapBot/2.0)' },
     signal: AbortSignal.timeout(15000), // 15s — fast failure avoids clogging pipeline
   })
+  if (!resp.ok) throw new Error(`Telegram fetch failed: ${resp.status} ${resp.statusText}`)
   return await resp.text()
 }
 
@@ -97,6 +98,7 @@ async function fetchChannelHistory(key, info, state) {
   let pagesFetched = 0
   let before = null // null = latest page
   let consecutiveEmpty = 0
+  const seenPostIds = new Set(state.seenPostIds.filter(id => typeof id === 'string'))
 
   for (let i = 0; i < MAX_PAGES_PER_CHANNEL; i++) {
     // Build URL
@@ -112,19 +114,10 @@ async function fetchChannelHistory(key, info, state) {
       // Empty page (0 parsable posts — typically a rate-limit interstitial).
       // Don't save junk, don't count it as content; break out after 3 in a row.
       if (postIds.length === 0) {
-        consecutiveEmpty++
-        console.error(`    → Empty page (0 posts — rate-limited/blocked?) (${consecutiveEmpty}x)`)
-        if (consecutiveEmpty >= 3) {
-          console.error(`    → Breaking: 3 consecutive empty pages`)
-          break
-        }
-        const emptyNext = extractPrevBefore(html)
-        if (!emptyNext) break
-        before = emptyNext
-        continue
+        throw new Error('Telegram page contained no parsable posts')
       }
       // Allow some overlap (up to 3 IDs may appear on consecutive pages)
-      const newIds = postIds.filter(id => !state.seenPostIds.includes(id))
+      const newIds = postIds.filter(id => !seenPostIds.has(`${key}/${id}`))
       const isNew = newIds.length > postIds.length - 4 // at least ~80% new
 
       if (!isNew && before !== null) {
@@ -144,8 +137,10 @@ async function fetchChannelHistory(key, info, state) {
 
       // Track seen post IDs
       for (const id of postIds) {
-        if (!state.seenPostIds.includes(id)) {
-          state.seenPostIds.push(id)
+        const postKey = `${key}/${id}`
+        if (!seenPostIds.has(postKey)) {
+          seenPostIds.add(postKey)
+          state.seenPostIds.push(postKey)
         }
       }
       console.error(`    → ${newIds.length}/${postIds.length} new IDs (before=${before || 'latest'})`)
@@ -180,9 +175,7 @@ async function fetchChannelHistory(key, info, state) {
 
     } catch (e) {
       console.error(`    ✗ Error: ${e.message}`)
-      // Wait longer after an error
-      await sleep(5000)
-      continue
+      throw e
     }
   }
 
@@ -199,13 +192,10 @@ async function main() {
   console.error('═══════════════════════════════════════\n')
 
   const state = loadState()
-  if (!state.seenPostIds) state.seenPostIds = []
+  if (!Array.isArray(state.seenPostIds)) state.seenPostIds = []
+  state.seenPostIds = state.seenPostIds.filter(id => typeof id === 'string')
   if (!state.seenPostHashes) state.seenPostHashes = {}
   currentState = state
-  // Record when a backfill ran — pipeline.js uses this to schedule
-  // the next one (~once per 24h) instead of a fetch counter.
-  if (BACKFILL_MODE) state.lastBackfill = new Date().toISOString()
-
   let totalPages = 0
   let totalErrors = 0
 
@@ -227,6 +217,8 @@ async function main() {
     }
   }
 
+  if (BACKFILL_MODE && totalErrors === 0) state.lastBackfill = new Date().toISOString()
+
   // Save state
   saveState(state)
 
@@ -242,6 +234,7 @@ async function main() {
     seenPostIds: state.seenPostIds.length,
     sourceFiles: fs.existsSync(RAW_DIR) ? fs.readdirSync(RAW_DIR).length : 0,
   }))
+  if (totalErrors > 0) process.exitCode = 1
 }
 
 if (require.main === module) main().catch(e => {

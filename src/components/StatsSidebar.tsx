@@ -2,14 +2,47 @@
 
 import { useState, useMemo, useRef, useCallback, useEffect } from 'react'
 import type { AttackEvent, SitRep } from './WarMap'
-import statementsData from '@/data/statements.json'
 
 interface Statement {
-  [key: string]: any
-  id: number; source: string; title: string
+  id: number
+  source: string
+  title: string
+  date: string
+  sourceType?: string
+  sourceLabel?: string
+  quote?: string
+  description?: string
+  url?: string
+  sourceUrl?: string
+  confidence?: string
 }
 
-const allStatements = statementsData as Statement[]
+interface HormuzEntry {
+  date: string
+  daily: number
+  label: string
+  note: string
+}
+
+interface Stats {
+  byType: Record<string, number>
+  byStatus: Record<string, number>
+  iranMil: number
+  iranCiv: number
+  usMil: number
+  usCiv: number
+  kurdish: number
+  other: number
+  total: number
+  interceptorFailures: number
+  sitrepInterceptors: number
+  currentHormuz: number
+  peakHormuz: number
+  hormuzRecent: HormuzEntry[]
+  confirmedInterceptors: number
+  confirmedAttackInterceptors: number
+}
+
 const STATEMENT_SOURCE_COLORS: Record<string, string> = {
   CENTCOM: '#3498db', 'Khatam al Anbiya': '#2ecc71',
 }
@@ -26,12 +59,19 @@ interface Props {
   visible: boolean
   selectedSitrep: SitRep | null
   onToggle: () => void
-  dateRange?: number
+  cutoffDate: string | null
 }
 
-export default function StatsSidebar({ attacks, sitreps, visible, dateRange = Infinity }: Props) {
+export default function StatsSidebar({ attacks, sitreps, visible, cutoffDate }: Props) {
   const [tab, setTab] = useState<'stats' | 'stmts' | 'sitreps' | 'losses'>('stats')
-  const [stmtFilter, setStmtFilter] = useState<'all' | 'CENTCOM' | 'Khatam al Anbiya'>('all')
+  const [stmtFilter, setStmtFilter] = useState<'all' | 'CENTCOM' | 'Khatam al Anbiya' | 'Hezbollah'>('all')
+  const [statements, setStatements] = useState<Statement[]>([])
+  const [loadedStatementSource, setLoadedStatementSource] = useState<string | null>(null)
+  const [statementTotal, setStatementTotal] = useState(0)
+  const [statementOffset, setStatementOffset] = useState(0)
+  const [statementLoading, setStatementLoading] = useState(false)
+  const [statementError, setStatementError] = useState<string | null>(null)
+  const statementController = useRef<AbortController | null>(null)
   const [expandedId, setExpandedId] = useState<number | null>(null)
   const [expandedSitrep, setExpandedSitrep] = useState<number | null>(null)
   const [sitrepFilter, setSitrepFilter] = useState<string>('all')
@@ -40,7 +80,7 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
   const dragRef = useRef(false)
 
   // ── Hormuz data: runtime fetch from public/ (bypasses Vercel build cache) ──
-  const [hormuzData, setHormuzData] = useState<{date:string;daily:number;label:string;note:string}[]>([])
+  const [hormuzData, setHormuzData] = useState<HormuzEntry[]>([])
   useEffect(() => {
     fetch('/data/hormuz-data.json')
       .then(r => r.json())
@@ -49,7 +89,6 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
   }, [])
 
   const stats = useMemo(() => {
-    const cutoff = dateRange === Infinity ? null : Date.now() - dateRange * 86400000
     const byType: Record<string, number> = {}
     const byStatus: Record<string, number> = {}
     let iranMil = 0, iranCiv = 0, usMil = 0, usCiv = 0, kurdish = 0, other = 0
@@ -72,8 +111,8 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
       if (interceptorKeywords.test(s.description)) sitrepInterceptors++
     }
     // Filter hormuz data by selected date range (respects time period selector)
-    const filteredHormuz = cutoff
-      ? hormuzData.filter(d => new Date(d.date).getTime() >= cutoff)
+    const filteredHormuz = cutoffDate
+      ? hormuzData.filter(d => d.date >= cutoffDate)
       : hormuzData
     const currentHormuz = filteredHormuz.length > 0 ? filteredHormuz[filteredHormuz.length-1].daily : 0
     const peakHormuz = filteredHormuz.length > 0 ? Math.max(...filteredHormuz.map(d => d.daily)) : 0
@@ -88,12 +127,53 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
     const confirmedInterceptors = sitreps.filter(function(s) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(s.description); }).length
     const confirmedAttackInterceptors = attacks.filter(function(a) { return /interceptor|patriot.*fail|pac-3|missile.*confus|air defense.*fail|malfunction/i.test(a.description); }).length
     return { byType, byStatus, iranMil, iranCiv, usMil, usCiv, kurdish, other, total: attacks.length, interceptorFailures, sitrepInterceptors, currentHormuz, peakHormuz, hormuzRecent, confirmedInterceptors, confirmedAttackInterceptors }
-  }, [attacks, sitreps, hormuzData, dateRange])
+  }, [attacks, sitreps, hormuzData, cutoffDate])
 
-  const filteredStatements = useMemo(() => {
-    const list = stmtFilter === 'all' ? allStatements : allStatements.filter(s => s.sourceType === stmtFilter)
-    return [...list].sort((a, b) => (b.date || '').localeCompare(a.date || ''))
-  }, [stmtFilter])
+  const requestStatements = useCallback(async (source: string, offset: number, append: boolean, signal: AbortSignal) => {
+    const params = new URLSearchParams({
+      kind: 'statements',
+      source,
+      offset: String(offset),
+      limit: String(PAGE_SIZE),
+    })
+    const response = await fetch(`/api/data?${params}`, { signal })
+    if (!response.ok) throw new Error(`Statement request failed (${response.status})`)
+    const page = await response.json() as { items: Statement[]; total: number }
+    setStatements(current => append ? [...current, ...page.items] : page.items)
+    setLoadedStatementSource(source)
+    setStatementTotal(page.total)
+    setStatementOffset(offset + page.items.length)
+  }, [])
+
+  const loadInitialStatements = useCallback((source: string) => {
+    statementController.current?.abort()
+    const controller = new AbortController()
+    statementController.current = controller
+    setStatementLoading(true)
+    setStatementError(null)
+    requestStatements(source, 0, false, controller.signal)
+      .catch(error => {
+        if (error.name !== 'AbortError') setStatementError(error.message)
+      })
+      .finally(() => {
+        if (!controller.signal.aborted) setStatementLoading(false)
+      })
+  }, [requestStatements])
+
+  useEffect(() => () => statementController.current?.abort(), [])
+
+  const loadMoreStatements = useCallback(() => {
+    const controller = statementController.current
+    if (!controller || statementLoading || statementOffset >= statementTotal) return
+    setStatementLoading(true)
+    requestStatements(stmtFilter, statementOffset, true, controller.signal)
+      .catch(error => {
+        if (error.name !== 'AbortError') setStatementError(error.message)
+      })
+      .finally(() => {
+        if (!controller.signal.aborted) setStatementLoading(false)
+      })
+  }, [requestStatements, stmtFilter, statementLoading, statementOffset, statementTotal])
 
   const filteredSitreps = useMemo(() => {
     const list = sitrepFilter === 'all' ? sitreps : sitreps.filter(s => s.type === sitrepFilter)
@@ -149,7 +229,10 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
       {/* ── Tabs ── */}
       <div style={{ display: 'flex', borderBottom: '1px solid var(--border-color)' }}>
         {(['stats', 'stmts', 'sitreps', 'losses'] as const).map(t => (
-          <button key={t} onClick={() => setTab(t)} style={{
+          <button key={t} onClick={() => {
+            setTab(t)
+            if (t === 'stmts' && loadedStatementSource !== stmtFilter) loadInitialStatements(stmtFilter)
+          }} style={{
             flex: 1, padding: '7px 4px',
             background: tab === t ? 'rgba(255,255,255,0.05)' : 'transparent',
             border: 'none',
@@ -170,11 +253,18 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
       {/* ── STMTS ── */}
       {tab === 'stmts' && (
         <StmtsContent
-          filtered={filteredStatements}
+          statements={loadedStatementSource === stmtFilter ? statements : []}
+          total={loadedStatementSource === stmtFilter ? statementTotal : 0}
+          loading={statementLoading || (loadedStatementSource !== stmtFilter && !statementError)}
+          error={statementError}
           filter={stmtFilter}
-          setFilter={setStmtFilter}
+          setFilter={filter => {
+            setStmtFilter(filter)
+            loadInitialStatements(filter)
+          }}
           expandedId={expandedId}
           setExpandedId={setExpandedId}
+          onLoadMore={loadMoreStatements}
         />
       )}
 
@@ -212,7 +302,7 @@ export default function StatsSidebar({ attacks, sitreps, visible, dateRange = In
 }
 
 // ── Stats tab ──
-function StatsContent({ stats }: { stats: any }) {
+function StatsContent({ stats }: { stats: Stats }) {
   return (<>
     <div style={{ padding: '10px 12px', borderBottom: '1px solid var(--border-color)',
       fontSize: 10, color: 'var(--accent-green)', letterSpacing: 2,
@@ -307,8 +397,8 @@ function StatsContent({ stats }: { stats: any }) {
         </div>
         {stats.hormuzRecent && stats.hormuzRecent.length > 0 && (
           <div style={{ display: 'flex', gap: 2, alignItems: 'flex-end', height: 24, marginTop: 4, overflow: 'hidden' }}>
-            {stats.hormuzRecent.map((d: any, i: number) => {
-              const barPeak = Math.max(...stats.hormuzRecent.map((x: any) => x.daily), 1)
+            {stats.hormuzRecent.map((d, i) => {
+              const barPeak = Math.max(...stats.hormuzRecent.map(x => x.daily), 1)
               const barH = Math.min(22, Math.max(4, (d.daily / barPeak) * 22));
               return (
                 <div key={i} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
@@ -332,18 +422,18 @@ function StatsContent({ stats }: { stats: any }) {
 
 const PAGE_SIZE = 25
 
-function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }: {
-  filtered: Statement[]; filter: string; setFilter: (f: any) => void
+function StmtsContent({ statements, total, loading, error, filter, setFilter, expandedId, setExpandedId, onLoadMore }: {
+  statements: Statement[]; total: number; loading: boolean; error: string | null
+  filter: string; setFilter: (f: 'all' | 'CENTCOM' | 'Khatam al Anbiya' | 'Hezbollah') => void
   expandedId: number | null; setExpandedId: (n: number | null) => void
+  onLoadMore: () => void
 }) {
-  const [limit, setLimit] = useState(PAGE_SIZE)
-  const visible = filtered.slice(0, limit)
-  const hasMore = limit < filtered.length
+  const hasMore = statements.length < total
 
   return (<>
     <div style={{ padding: '6px 8px', borderBottom: '1px solid var(--border-color)', display: 'flex', gap: 4 }}>
       {(['all', 'CENTCOM', 'Khatam al Anbiya', 'Hezbollah'] as const).map(f => (
-        <button key={f} onClick={() => { setFilter(f); setLimit(PAGE_SIZE) }} style={{
+        <button key={f} onClick={() => setFilter(f)} style={{
           flex: 1, padding: '4px 4px',
           background: filter === f ? 'rgba(255,255,255,0.08)' : 'transparent',
           border: `1px solid ${filter === f ? (f === 'CENTCOM' ? '#3498db' : f === 'Khatam al Anbiya' ? '#2ecc71' : f === 'Hezbollah' ? '#e91e63' : 'var(--accent-cyan)') : 'transparent'}`,
@@ -353,7 +443,7 @@ function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }
       ))}
     </div>
     <div style={{ padding: 0 }}>
-      {visible.map(s => {
+      {statements.map(s => {
         const expanded = expandedId === s.id
         const color = STATEMENT_SOURCE_COLORS[s.source] || 'var(--text-dim)'
         return (<div key={s.id} style={{ padding: '8px 10px', borderBottom: '1px solid rgba(255,255,255,0.04)', cursor: 'pointer' }}
@@ -366,7 +456,7 @@ function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }
           <div style={{ fontSize: 11, color: 'var(--text-bright)', fontWeight: 500, lineHeight: 1.3 }}>{s.title}</div>
           {expanded && (<div>
             <p style={{ fontSize: 10, color: 'var(--text-primary)', lineHeight: 1.5, margin: '4px 0' }}>{s.quote || s.description || ''}</p>
-            <div style={{ fontSize: 9, color: 'var(--text-dim)', marginBottom: 2 }}>{s.sourceLabel || (s as any).sourceType || ''}</div>
+            <div style={{ fontSize: 9, color: 'var(--text-dim)', marginBottom: 2 }}>{s.sourceLabel || s.sourceType || ''}</div>
             <div style={{ display: 'flex', gap: 6 }}>
               {(() => {
                 const stmtUrl = s.url && s.url !== '#' ? s.url : s.sourceUrl || null
@@ -379,22 +469,24 @@ function StmtsContent({ filtered, filter, setFilter, expandedId, setExpandedId }
           </div>)}
         </div>)
       })}
+      {error && <div role="alert" style={{ padding: 8, color: 'var(--accent-red)' }}>{error}</div>}
       {hasMore && (
         <div style={{ padding: '8px 10px', textAlign: 'center' }}>
-          <button onClick={() => setLimit(l => l + PAGE_SIZE)} style={{
+          <button onClick={onLoadMore} disabled={loading} style={{
             background: 'transparent', border: '1px solid var(--border-color)',
             color: 'var(--accent-green)', fontFamily: 'var(--font-mono)',
             fontSize: 9, padding: '4px 16px', cursor: 'pointer', letterSpacing: 1,
-          }}>LOAD +{Math.min(PAGE_SIZE, filtered.length - limit)}</button>
+          }}>{loading ? 'LOADING...' : `LOAD +${Math.min(PAGE_SIZE, total - statements.length)}`}</button>
         </div>
       )}
+      {!statements.length && loading && <div style={{ padding: 8 }}>LOADING...</div>}
     </div>
   </>)
 }
 
 // ── SitReps tab ──
 function SitrepsContent({ filtered, filter, setFilter, expandedId, setExpandedId, typeCounts }: {
-  filtered: SitRep[]; filter: string; setFilter: (f: any) => void
+  filtered: SitRep[]; filter: string; setFilter: (f: string) => void
   expandedId: number | null; setExpandedId: (n: number | null) => void
   typeCounts: Record<string, number>
 }) {
@@ -568,7 +660,7 @@ function LossesContent() {
     <div style={{ padding: '8px 10px', borderTop: '1px solid var(--border-color)',
       fontSize: 8, color: 'var(--text-dim)', letterSpacing: 1, lineHeight: 1.3 }}>
       Source: {data.source} — damages inflicted on US Army in the region over 15 days (Jul 8–22).
-      "Patriot systems weakened — Iranian missiles/drones hit targets without interception."
+      &quot;Patriot systems weakened — Iranian missiles/drones hit targets without interception.&quot;
     </div>
   </>)
 }

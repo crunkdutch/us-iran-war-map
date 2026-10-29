@@ -4,13 +4,11 @@ import { useState, useCallback, useMemo, useEffect, useRef } from 'react'
 import { MapContainer, TileLayer, ZoomControl, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet.markercluster'
-import attackData from '@/data/attacks.json'
-import sitrepData from '@/data/sitreps.json'
 import IncidentPanel from './IncidentPanel'
 import StatsSidebar from './StatsSidebar'
 
 // Fix Leaflet default icon paths
-delete (L.Icon.Default.prototype as any)._getIconUrl
+Reflect.deleteProperty(L.Icon.Default.prototype, '_getIconUrl')
 L.Icon.Default.mergeOptions({
   iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
   iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
@@ -36,9 +34,6 @@ export interface SitRep {
   description: string; media: { url: string; type: string; thumbnail?: string | null }[]; verified: boolean
 }
 
-const allAttacks = attackData as AttackEvent[]
-const allSitreps = sitrepData as SitRep[]
-
 // CARTO basemaps require an API key (free tier: 5M tile reqs/month).
 // Set NEXT_PUBLIC_CARTO_API_KEY in .env.local (or Vercel env vars).
 const CARTO_API_KEY = process.env.NEXT_PUBLIC_CARTO_API_KEY
@@ -59,17 +54,14 @@ const DATE_PRESETS = [
   { label: 'ALL', days: Infinity },
 ] as const
 
-function filterByDate<T extends { date: string }>(items: T[], days: number): T[] {
-  if (days === Infinity) return items
-  // Calculate cutoff as ISO date string (local timezone date)
-  const now = new Date()
-  const cutoffDate = new Date(now)
-  cutoffDate.setDate(cutoffDate.getDate() - days)
-  const cutoffStr = cutoffDate.toISOString().slice(0, 10) // YYYY-MM-DD
-  return items.filter(item => {
-    // Compare date strings directly — avoids UTC/local midnight mismatch
-    return item.date >= cutoffStr
-  })
+function escapeHtml(value: string): string {
+  return value.replace(/[&<>"']/g, char => ({
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    '"': '&quot;',
+    "'": '&#39;',
+  })[char]!)
 }
 
 // ── Component that adds markers to cluster groups ──
@@ -105,7 +97,7 @@ function MarkerLayers({
         <div style="position:relative;display:flex;align-items:center;justify-content:center">
           ${selected ? `<div style="position:absolute;width:40px;height:40px;transform:translate(-50%,-50%);border:2px solid ${c};border-radius:50%;animation:hudPulse 1.5s ease-in-out infinite;pointer-events:none"></div>` : ''}
           <div style="width:14px;height:14px;background:${c};border:2px solid ${selected ? '#fff' : '#0a0a0a'};border-radius:50%;box-shadow:0 0 ${selected ? 12 : 4}px ${c}40;cursor:pointer;transition:all 0.2s"></div>
-          <div style="position:absolute;top:-22px;font-size:11px;color:${c};text-shadow:0 0 6px ${c}60;white-space:nowrap;font-family:'JetBrains Mono',monospace;${selected ? '' : 'display:none'}">${a.title.slice(0, 24)}${a.title.length > 24 ? '..' : ''}</div>
+          <div style="position:absolute;top:-22px;font-size:11px;color:${c};text-shadow:0 0 6px ${c}60;white-space:nowrap;font-family:'JetBrains Mono',monospace;${selected ? '' : 'display:none'}">${escapeHtml(a.title.slice(0, 24))}${a.title.length > 24 ? '..' : ''}</div>
         </div>
       `,
       iconSize: [14, 14],
@@ -211,7 +203,7 @@ function MarkerLayers({
         const m = L.marker(a.coordinates as [number, number], {
           icon: attackIcon(a, selectedId === a.id),
         })
-        m.bindPopup(`<div style="font-family:'JetBrains Mono',monospace;background:#0a0a0a;color:#c0c0c0;font-size:11px;max-width:280px"><div style="color:${a.type === 'airstrike' ? '#e74c3c' : a.type === 'missile' ? '#f39c12' : '#2ecc71'};font-weight:600;letter-spacing:1px;margin-bottom:4px">${a.date}  •  ${a.type.toUpperCase()}</div><div style="color:#fff;font-weight:500;margin-bottom:4px">${a.title}</div><div style="margin-bottom:4px;line-height:1.5">${a.description.slice(0, 200)}${a.description.length > 200 ? '...' : ''}</div></div>`)
+        m.bindPopup(`<div style="font-family:'JetBrains Mono',monospace;background:#0a0a0a;color:#c0c0c0;font-size:11px;max-width:280px"><div style="color:${a.type === 'airstrike' ? '#e74c3c' : a.type === 'missile' ? '#f39c12' : '#2ecc71'};font-weight:600;letter-spacing:1px;margin-bottom:4px">${escapeHtml(a.date)}  •  ${escapeHtml(a.type.toUpperCase())}</div><div style="color:#fff;font-weight:500;margin-bottom:4px">${escapeHtml(a.title)}</div><div style="margin-bottom:4px;line-height:1.5">${escapeHtml(a.description.slice(0, 200))}${a.description.length > 200 ? '...' : ''}</div></div>`)
         m.on('click', () => onSelect(a))
         cluster.addLayer(m)
         prevMap.set(a.id, m)
@@ -247,7 +239,7 @@ function MarkerLayers({
           intercept: '#3498db', casualty: '#e74c3c', naval: '#3498db',
           statement: '#9b59b6', report: '#666',
         }
-        m.bindPopup(`<div style="font-family:'JetBrains Mono',monospace;background:#0a0a0a;color:#c0c0c0;font-size:11px;max-width:260px"><div style="color:${color[s.type] || '#666'};font-weight:600;letter-spacing:1px;margin-bottom:4px">${s.type.toUpperCase()}  —  ${s.date}</div><div style="color:#fff;font-weight:500;margin-bottom:4px">${s.location}</div><div style="margin-bottom:4px;line-height:1.5">${s.description.slice(0, 200)}${s.description.length > 200 ? '...' : ''}</div><div style="color:#666;font-size:10px">${s.source}</div></div>`)
+        m.bindPopup(`<div style="font-family:'JetBrains Mono',monospace;background:#0a0a0a;color:#c0c0c0;font-size:11px;max-width:260px"><div style="color:${color[s.type] || '#666'};font-weight:600;letter-spacing:1px;margin-bottom:4px">${escapeHtml(s.type.toUpperCase())}  —  ${escapeHtml(s.date)}</div><div style="color:#fff;font-weight:500;margin-bottom:4px">${escapeHtml(s.location)}</div><div style="margin-bottom:4px;line-height:1.5">${escapeHtml(s.description.slice(0, 200))}${s.description.length > 200 ? '...' : ''}</div><div style="color:#666;font-size:10px">${escapeHtml(s.source)}</div></div>`)
         m.on('click', () => onSitrepClick(s))
         cluster.addLayer(m)
         prevMap.set(s.id, m)
@@ -259,11 +251,23 @@ function MarkerLayers({
 }
 
 export default function WarMap() {
+  const [loadedData, setLoadedData] = useState<{
+    range: string
+    attacks?: AttackEvent[]
+    sitreps?: SitRep[]
+    cutoffDate?: string | null
+    error?: string
+  } | null>(null)
   const [selectedAttack, setSelectedAttack] = useState<AttackEvent | null>(null)
   const [showPanel, setShowPanel] = useState(false)
   const [showStats, setShowStats] = useState(true)
   const [selectedSitrep, setSelectedSitrep] = useState<SitRep | null>(null)
   const [dateRange, setDateRange] = useState<number>(7) // Default: 7 days
+  const range = Number.isFinite(dateRange) ? String(dateRange) : 'all'
+  const currentData = loadedData?.range === range ? loadedData : null
+  const attacks = currentData?.attacks || []
+  const sitreps = currentData?.sitreps || []
+  const dataError = currentData?.error || null
 
   const handleSelect = useCallback((attack: AttackEvent) => {
     setSelectedAttack(attack)
@@ -279,15 +283,21 @@ export default function WarMap() {
     setSelectedSitrep(s)
   }, [])
 
-  // Filter data by date
-  const filteredAttacks = useMemo(
-    () => filterByDate(allAttacks, dateRange),
-    [dateRange]
-  )
-  const filteredSitreps = useMemo(
-    () => filterByDate(allSitreps, dateRange),
-    [dateRange]
-  )
+  useEffect(() => {
+    const controller = new AbortController()
+    fetch(`/api/data?days=${range}`, { signal: controller.signal })
+      .then(async response => {
+        if (!response.ok) throw new Error(`Data request failed (${response.status})`)
+        return response.json() as Promise<{ attacks: AttackEvent[]; sitreps: SitRep[]; cutoffDate: string | null }>
+      })
+      .then(data => {
+        setLoadedData({ range, ...data })
+      })
+      .catch(error => {
+        if (error.name !== 'AbortError') setLoadedData({ range, error: error.message })
+      })
+    return () => controller.abort()
+  }, [range])
 
   // Show date range from the earliest filtered attack
   const dateLabel = useMemo(() => {
@@ -306,8 +316,8 @@ export default function WarMap() {
         <TileLayer url={TILE_URL} attribution={TILE_ATTR} />
 
         <MarkerLayers
-          attacks={filteredAttacks}
-          sitreps={filteredSitreps}
+          attacks={attacks}
+          sitreps={sitreps}
           onSelect={handleSelect}
           selectedId={selectedAttack?.id ?? null}
           onSitrepClick={handleSitrepClick}
@@ -315,15 +325,24 @@ export default function WarMap() {
       </MapContainer>
 
       <StatsSidebar
-        attacks={filteredAttacks}
-        sitreps={filteredSitreps}
+        attacks={attacks}
+        sitreps={sitreps}
         visible={showStats}
         selectedSitrep={selectedSitrep}
         onToggle={() => setShowStats(s => !s)}
-        dateRange={dateRange}
+        cutoffDate={currentData?.cutoffDate ?? null}
       />
 
       <IncidentPanel attack={selectedAttack} visible={showPanel} onClose={handleClose} />
+      {dataError && (
+        <div role="alert" style={{
+          position: 'fixed', bottom: 40, left: '50%', transform: 'translateX(-50%)',
+          zIndex: 1002, padding: '8px 12px', color: 'var(--accent-red)',
+          background: 'var(--bg-secondary)', fontFamily: 'var(--font-mono)', fontSize: 10,
+        }}>
+          DATA LOAD FAILED: {dataError}
+        </div>
+      )}
 
       {/* ── Date range selector ── */}
       <div style={{
@@ -348,11 +367,11 @@ export default function WarMap() {
 
       {/* ── Marker count badge + performance warning ── */}
       {(() => {
-        const capped = filteredAttacks.length > MAX_ATTACK_MARKERS
-        const sitrepCapped = filteredSitreps.length > MAX_SITREP_MARKERS
+        const capped = attacks.length > MAX_ATTACK_MARKERS
+        const sitrepCapped = sitreps.length > MAX_SITREP_MARKERS
         const showWarning = capped || sitrepCapped
-        const shownAttacks = capped ? filteredAttacks.slice(-MAX_ATTACK_MARKERS) : filteredAttacks
-        const shownSitreps = sitrepCapped ? filteredSitreps.slice(-MAX_SITREP_MARKERS) : filteredSitreps
+        const shownAttacks = capped ? attacks.slice(-MAX_ATTACK_MARKERS) : attacks
+        const shownSitreps = sitrepCapped ? sitreps.slice(-MAX_SITREP_MARKERS) : sitreps
         return (
           <div style={{
             position: 'fixed', top: 92, left: '50%', transform: 'translateX(-50%)',
@@ -369,7 +388,7 @@ export default function WarMap() {
             </span>
             {showWarning && (
               <span style={{ color: '#e74c3c', fontSize: 8 }}>
-                ⚠ {filteredAttacks.length.toLocaleString()} total — map shows newest {MAX_ATTACK_MARKERS.toLocaleString()}
+                ⚠ {attacks.length.toLocaleString()} total — map shows newest {MAX_ATTACK_MARKERS.toLocaleString()}
               </span>
             )}
           </div>

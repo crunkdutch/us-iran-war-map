@@ -6,7 +6,7 @@ declare module 'leaflet' {
     chunkInterval?: number
     chunkDelay?: number
     maxClusterRadius?: number | ((zoom: number) => number)
-    iconCreateFunction?: (cluster: any) => L.DivIcon
+    iconCreateFunction?: (cluster: L.MarkerCluster) => L.DivIcon
     spiderfyOnMaxZoom?: boolean
     showCoverageOnHover?: boolean
     zoomToBoundsOnClick?: boolean
@@ -29,7 +29,7 @@ declare module 'leaflet' {
     removeLayer(layer: L.Layer): this
     clearLayers(): this
     getLayers(): L.Layer[]
-    isSpiderfied(): any
+    isSpiderfied(): boolean
     zoomToBounds(options?: { padding?: [number, number] }): void
   }
 

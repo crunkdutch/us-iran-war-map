@@ -92,8 +92,11 @@ async function main() {
   }
 
   // 4. Copy dynamic data to public/ for client-side polling
-  run('Copying irgc-losses to public/', 'cp src/data/irgc-losses.json public/data/irgc-losses.json')
-  run('Copying hormuz-data to public/', 'cp src/data/hormuz-data.json public/data/hormuz-data.json')
+  console.error('\n▶ Copying runtime data to public/...')
+  fs.copyFileSync(path.join(PROJECT_DIR, 'src/data/irgc-losses.json'),
+    path.join(PROJECT_DIR, 'public/data/irgc-losses.json'))
+  fs.copyFileSync(path.join(PROJECT_DIR, 'src/data/hormuz-data.json'),
+    path.join(PROJECT_DIR, 'public/data/hormuz-data.json'))
 
   // 5. Build the site (smoke test — the pushed source is what Vercel builds,
   //    so a failed build here means a failed deploy; abort and retry next cycle).
@@ -105,7 +108,11 @@ async function main() {
 
   // 6. Commit and push
   const dateStr = new Date().toISOString().slice(0, 19).replace('T', ' ')
-  run('Committing changes', `git add -A && git commit -m "auto: data pipeline update ${dateStr}" || true`)
+  const commitOk = run('Committing changes', `git add -A && git commit -m "auto: data pipeline update ${dateStr}"`)
+  if (!commitOk) {
+    console.error('\n✗ Commit failed — NOT pushing.')
+    process.exit(1)
+  }
   const pushOk = run('Pushing to GitHub', 'git push')
   if (!pushOk) {
     console.error('\n✗ Push failed — data committed locally, will retry next cycle.')

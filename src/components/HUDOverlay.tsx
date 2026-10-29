@@ -24,7 +24,7 @@ export default function HUDOverlay() {
             ■ TACTICAL TRACKER
           </span>
           <span className="hud-subtitle" style={{ color: 'var(--text-dim)', fontSize: 11, letterSpacing: 2 }}>
-            // US-IRAN CONFLICT
+            {'// US-IRAN CONFLICT'}
           </span>
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
