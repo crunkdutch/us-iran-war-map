@@ -153984,6 +153984,43 @@
     ]
   },
   {
+    "id": 484151436,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Red Sea, Yemen: Yemeni Armed Forces Brigadier General Yahya",
+    "location": "Red Sea, Yemen",
+    "coordinates": [
+      22,
+      38
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:The Saudi enemy has targeted an Indian yacht near Zuqar Island, with 14 Indian nationals on board, according to preliminary reports.The Yemeni Armed Forces are carrying out a rescue operation and will provide further details later.This reckless Saudi attack threatens international navigation in the Red Sea. The international community must stop the Saudi enemy from engaging in such irresp",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/KPGGpeuhSwPCSDbLy07-EgpVrVxJN1ckEnRU1cMk7X0x12Nj_i7AZGKOsNFJ7NbjJ9hjlzMxhH3xS4rLf3_wb1ialRzLJS4WQB1Wl6IW-KetgSirgLRv3fDcsXMLmsYj1ciuWKsFGSmsisgWGMG_UBIKX5GsV-XBUNt2dJhP3usOaze1PSzEvLg9BPqgiVwM5PtK9BWj29tD1BrTbOXxlVGXVQYcfLq-4sz35X8yN7d5uU1f9pFKnBlk3OLD6U4Q1v1khMhkd2CX1fTG0F9Y3vZ--bZcC7rhnqifZHMkwCixhqsbo7PUO8ViVmpYD7eXpyr0km8wYTTk0YpBiHgh4g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 483618508,
     "type": "drone",
     "status": "confirmed",
@@ -156879,6 +156916,70 @@
         "thumbnail": "https://cdn4.telesco.pe/file/m7nTYKiAncXaFjyoeOyRN4EDtBSLzSRLRDVbuz1uaY8x-9nnh78R87cej3slmptRn2lQFlV3fo6WnW46QdBuLxna4m91ddcOlWRAdeSj32HosKSNpB7DZsZWZqj1OD87FWqIRCZhXt5lGSfIuj_VWqDAtuv1x5P6rqgGRoRdEtAyIOY-eXRkHD_qmIX7UQ1kP9aHrU2QmNHHuXF5YDMjYMHLJdiCFVhMw-GfFESHfxJ5JIH8C01j5zx7xhGRutv6WaEkmgtvBhxtFWnkIPHu_Y5Mjh6e6x4gBmov9hzrOL3yWtxgU9plqacD4vmAbPBi8YGXu-1GWi1funRGysfyQQ"
       }
     ]
+  },
+  {
+    "id": 484155664,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: Three tankers explode while taking unauthorized",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Three oil tankers explode while taking unauthorized route through Strait of Hormuz: IRGC Navy📌 Tehran, IRNA – Three oil tankers exploded and caught fire after striking sea mines while attempting to navigate an unauthorized route south of the Strait of Hormuz, the Islamic Revolution Guards Corps (IRGC) Navy has announced.According to a statement published on the IRGC’s website on Thursday, the incidents occurred over the past 24 hours, leaving the tankers stranded along the southern coast of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 484159893,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-28",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Strait of Hormuz, Israel: Exclusive Iranian Navy carried more than",
+    "location": "Tehran, Strait of Hormuz, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Exclusive | Iranian Navy carried out more than 20 operations against US warships: Commander📌 Tehran, IRNA – Naval forces of the Iranian Army carried out more than 20 operations against US warships during the 40-day conflict that began on February 28, while approximately 300 additional operations targeted American interests in various locations, including through missile and drone strikes, the coordinating deputy of the Islamic Republic of Iran Army Navy has said.In an exclusive interview wit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 484117648,

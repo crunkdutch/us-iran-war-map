@@ -206611,6 +206611,66 @@
     "verified": false
   },
   {
+    "id": 1793276355690,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Legal diplomacy must deliver tangible results in protecting national interests: Iran official📌 Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has called for a results-oriented approach to legal and multilateral diplomacy, stressing that inter...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793276317808,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Exclusive | Iranian Navy carried out more than 20 operations against US warships: Commander📌 Tehran, IRNA – Naval forces of the Iranian Army carried out more than 20 operations against US warships during the 40-day conflict that began on February 28, while approximately 300 additional operations...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793276343204,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 IRGC Navy captures US drone intact over Strait of Hormuz📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has captured a US reconnaissance and decoy drone intact west of the Strait of Hormuz after taking control of its guidance and control systems.The statement said the Navy’s ele...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793276392301,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 'Surrender' does not exist in Iranian nation’s lexicon: Commander📌 Tehran, IRNA — The enemies of the Islamic Republic failed to achieve their goals in their recent war of aggression, emphasizing that “surrender” has no place in the lexicon of the Iranian nation, says Deputy Chief of the Iranian ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793247478713,
     "type": "airstrike",
     "location": "Syria",
