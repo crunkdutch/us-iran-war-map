@@ -164556,6 +164556,102 @@
     ]
   },
   {
+    "id": 486011761,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemeni Armed Forces affirm that they",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Yemeni Armed Forces affirm that they have not carried out any military operations targeting deep inside Saudi territory today, and that the Saudi enemy’s claim of intercepting drones in the skies over Medina is a false claim and a grave and blatant slander against our people and their honorable, fighting armed forces. These claims have been exposed as lies and no longer deceive anyone among the people of our Arab and Islamic nation.http://t.me/army21ye",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 486016341,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Strait of Hormuz, Persian Gulf, Lebanon: Islamic_RepublicBrigadier General Yadollah Javani Assistant ...",
+    "location": "Strait of Hormuz, Persian Gulf, Lebanon, Yemen, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicBrigadier General Yadollah Javani, Assistant for Political Affairs at the Islamic Revolutionary Guard Corps:– If our infrastructure is targeted, internet cables in the Strait of Hormuz will be targeted.– Iran performed well and successfully during the phase of steadfast defense, inflicting a defeat on the American-Zionist enemy that it had never imagined.– The Americans must leave the region. They no longer have a place here and will never be able to restore the situation to wha",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 486020922,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-21",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — West Bank: Occupied_PalestineIn Name Allah Most Compassionate Most",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Compassionate, the Most MercifulIssued by the Resistance Committees in Palestine:The Resistance Committees in Palestine commend the heroic operation carried out by the heroes of our people in Hebron, and affirm that the continued crimes of the Zionist occupation against our Palestinian people, the attacks on our holy sites, and the abuse of our brave captives will not grant this entity the security it deludes itself into believing it can impose b",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483618508,
     "type": "drone",
     "status": "confirmed",
@@ -168119,6 +168215,38 @@
     "media": []
   },
   {
+    "id": 486007182,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Tehran, Strait of Hormuz: Army Navy destroys enemy droneboat tankers",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Army Navy destroys enemy droneboat; two tankers ablaze in eastern Hormuz📌 Tehran, IRNA – The Navy of the Islamic Republic of Iran has announced that an enemy Unmanned Surface Vehicle (USV) was destroyed and that two oil tankers struck mines in the eastern Strait of Hormuz.An enemy USV moving in the eastern parts of the Strait of Hormuz was targeted and destroyed by Army Navy forces early on Friday, the Army Navy said.​Meanwhile, two enemy oil tankers that, disregarding warnings and regulatio",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484210719,
     "type": "missile",
     "status": "confirmed",
@@ -168322,6 +168450,75 @@
       "other": 0
     },
     "description": "— In light of the statements and indications made by MP Mr. Sabeti, concerns have emerged that the enemy may seek to orchestrate a new wave of urban unrest and instability inside Iran ahead of a possible bombing campaign, potentially exploiting economic grievances, hijab-related issues, or even sectarian divisions.We urge everyone to exercise caution and refrain from spreading misinformation, inflammatory rhetoric, or premature conclusions about the situation. The Leader has emphasised the impor",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 485998027,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Four members Yemeni forces martyred airstrikes",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/🏴| Four members of the Yemeni forces martyred in airstrikes on Sana’a police stations and the Taiz front:• Abdullah Al-Hakam• Adel Al-Safyani• Ibrahim Al-Nonu• Oqba Al-Shami🏴@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/kQOTafWcGxrLgd93HXELaSA-wJGoHwA3Qjlv35S1VUCfkKUO1HfL0g4MJ49Z1XRUInRt8qwi-zkHRvqNI4P6U-1OLrhePIJ8-cbhE9rsbQfCx0nkr0CMX9qGjNGVbimdUy_V2TLS4Z1se7vVPeY_01ovxkz_jPYXnC_0xmLyhpu8MDG4rZhBy0cNYkIXH5sbhvV8Hj-crHXvsnT1jUl4zXtZP2igb0mBso6m9o__MbPwnzSNaaQepm9ig6eGJH0ergmwmwkvU9b9apLfd5Anc8WLAsPxflEOaDxkmNer_B3_X_0UJUz6QnSZ-qh_YlAjtrRrr_7RC8iRQfVXMiFc-g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 486002604,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: With targets emerging from Iranian side",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— With new targets emerging from the Iranian side, alongside publicly available data and discussions among insiders, concerns are growing over the possibility of a similar pattern of aggression being orchestrated against Iran. Such a scenario could place major economic, technological, and strategic infrastructure at risk, including facilities around the Strait of Hormuz, international internet cables, AI data centres, telecommunications networks, energy infrastructure, oil and gas facilities, po",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

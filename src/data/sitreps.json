@@ -221269,6 +221269,92 @@
     "verified": false
   },
   {
+    "id": 1793367817115,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaWalla Hebrew website: Hezbollah still retains diverse combat capabilities sufficient for several months of fighting, including missiles with various ranges and suicide gliders that pose a major challenge to the “Israeli” army. In addition, the organization possesses tactical and suicide ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793367838967,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper – Yoav Limor: Any \"Israeli\" government that is formed will address every threat, however small, before it turns into a strategic danger. This is the most important lesson from the Hamas attack, and one that will remain present for generations. We may disagre...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793367860594,
+    "type": "naval",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Compassionate, the Most MercifulIssued by the Resistance Committees in Palestine:The Resistance Committees in Palestine commend the heroic operation carried out by the heroes of our people in Hebron, and affirm that the continued crimes of the Zionis...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793367833514,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio:Details of the initial investigation into the operation at the Yehuda Junction in Hebron:– The two gunmen arrived at approximately 7:30 am at the Yehuda Junction, where a force from the “Ari” Battalion, affiliated with the Home Front Command, was conducting a r...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793367845233,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaFootage of the shooting operation that targeted an “Israeli” military position in the Hebron area this morning, resulting in five wounded among the “Israeli” enemy army, including two in critical condition.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9c50e7fed5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
+      },
+      {
+        "url": "https://t.me/mmirlb/41157",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792640961562,
     "type": "missile",
     "location": "Tehran",
@@ -225182,6 +225268,80 @@
         "thumbnail": "https://cdn5.telesco.pe/file/LCB6AeC3AKBnMsvNDLiuNaY15Rzwthwrc-ONrlYJBkV5l5aijrKg6TxTAAKmByW_tmIVWoxHXsZYOTK-Z9xOBjso13EL1WgD2tGwiMJ05C0QjMqyEkqOIR_FKkbOQ0eLTTNh_NNUCjhNtppBJW9X0Xrlu-45ZBBK5jCVD8fJVFkKQtctI3U8IIN1AkSR57QcGL8FRguUl_hzIijB2tw49osOozSZp1O8eQ5Ohe_2WXVfuMJA2O4j38sq84KJYUH81l_9-7RctqSe_eb2glFx0QfBeJu4U3ErMWrw3ZZpOa3x8cRKmxTzid-5fNObbEgVbg2hO-fIIYLXfKhcz_ZjRA"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1793367826203,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 | Saudi families have announced the deaths of two Saudi soldiers in Yemeni fire.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/m7wiou9FwDB8FGsQzokcndwZHV96g1cit8diXEskH3OCPyT8ZohA9DGhWKdgogBDJXx1zWAF_Lacu7cBbJ9XbQL_vqbHux9mAtWPvUnfLgyMPJK86zlZUTiaS0vvXqkm5PAnFZQJhgxa3Yj73D7ecEXls9cgFhe2fhB75Prd0nXDRVdYc9l7vZaP4ZCoVOFGEv55Szvnlgv2co012NgxBzJtBhkEDg3k6F58XJ51VxKlydysueCF02Jj8jXp1CaGT3fn1-uNgmfjC5jEg5skSt-gu4Gv0x7IlnKjRPZ6U1yfcbDTqscBWJ8n0b82FROVNb4wSgBm2aUOJw8cT5mmIg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/uShcqua3rIRxyeBLyNGrQqbUndScNrwQ_FjbWKgOSsO4KbSGFRxWVR7mciU5UjPak2dj2VFTKvCBs09N9h3iL6TxCnQ4yNT-KXKuaGl_AZk01YJQdSPGwD1Xjvag0QIvVEWLdg4A12cchDPJ3AaxebQq1xU4o_1pGzYXTPciRViLdHEdXvRM4g2WYP55DwrFEVkT8t_mTK_N3ktz3CfKXAomZLtVuNFGfJe3VoWot3Zbb3O72qcPCi8xvKOlU2NZrDFzaUX-7TeHAalmX2rK6OdfQPwlMGpkzwGTM1iSrA6ZJXbD7sEH4z_VqoYZ1RYjGhg2HRClmbkLhUbBVwBtIw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793367818129,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪/🏴| Four members of the Yemeni forces martyred in airstrikes on Sana’a police stations and the Taiz front:• Abdullah Al-Hakam• Adel Al-Safyani• Ibrahim Al-Nonu• Oqba Al-Shami🏴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/kQOTafWcGxrLgd93HXELaSA-wJGoHwA3Qjlv35S1VUCfkKUO1HfL0g4MJ49Z1XRUInRt8qwi-zkHRvqNI4P6U-1OLrhePIJ8-cbhE9rsbQfCx0nkr0CMX9qGjNGVbimdUy_V2TLS4Z1se7vVPeY_01ovxkz_jPYXnC_0xmLyhpu8MDG4rZhBy0cNYkIXH5sbhvV8Hj-crHXvsnT1jUl4zXtZP2igb0mBso6m9o__MbPwnzSNaaQepm9ig6eGJH0ergmwmwkvU9b9apLfd5Anc8WLAsPxflEOaDxkmNer_B3_X_0UJUz6QnSZ-qh_YlAjtrRrr_7RC8iRQfVXMiFc-g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793367856018,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-30",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Army's Navy:This morning, a remotely operated boat belonging to the enemy was targeted and destroyed by the Iranian Army's Navy. The boat was operating within the operational area east of the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793367807387,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— With new targets emerging from the Iranian side, alongside publicly available data and discussions among insiders, concerns are growing over the possibility of a similar pattern of aggression being orchestrated against Iran. Such a scenario could place major economic, technological, and strategic ...",
+    "media": [],
     "verified": false
   },
   {
