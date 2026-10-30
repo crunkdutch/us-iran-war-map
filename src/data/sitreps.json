@@ -553,6 +553,21 @@
     "verified": false
   },
   {
+    "id": 1793338918014,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2015-03-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Key points from the speech by AnsarAllah leader Sayyid Abdul-Malik al-Houthi on the annual Martyrs’ Day anniversary:• The aggression against Yemen, which began on March 26, 2015, was launched under American supervision, in partnership with Britain and with Israeli backing. The Saudi regime is...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1788425132901,
     "type": "airstrike",
     "location": "Israel",
@@ -224916,6 +224931,36 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪/🏴| Saudi-Pakistani joint strikes target civilians in Yemen:Saudi-Pakistani airstrikes have targeted civilians in Yemen, resulting in a deadly massacre against the Al-Qoz family in the Al-Habibah area of Al-Barh, in Taiz’s Maqbanah district.The airstrikes destroyed three homes while their resid...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793338972750,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-29",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Aggressors bear responsibility for disruption in Persian Gulf, Strait of Hormuz: Iran envoy📌 New York, IRNA – Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York Gholamhossein Darzi has said aggressors bear direct responsibility for any disruption, obstruction or interferen...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793338906548,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🇴🇲 | A vessel is on fire approximately 25 nautical miles northeast of Khasab, Oman.🔻@enemywatch",
     "media": [],
     "verified": false
   },
