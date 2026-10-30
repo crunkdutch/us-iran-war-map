@@ -165509,6 +165509,43 @@
     ]
   },
   {
+    "id": 485701245,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Yemen: Yemeni Armed Forces Brigadier General Yahya",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:Over the past 24 hours, Saudi warplanes carried out 124 airstrikes and missile attacks targeting civilian sites in the capital Sana’a and the governorates of Taiz, Lahj, Saada, Hajjah, Hodeidah, Amran, and Al-Jawf.The attacks were carried out by F-15 aircraft that took off from Khamis Mushait Air Base, along with missile attacks launched from Najran, resulting in deaths and injuries, incl",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/F4gR4ZUs_w0GsKwtMUpTKlNjRDxEy6dLwOM5sLmaLodEf-CLz2pzR3v02uWeeInjq6rr7E1kdoNlNMpjTvliv4Qgsgmcjx21Ahoov4nAC_mLLQ9aP0M2oIQpSLaMNpIogipJ61Rl-M2z4iyr5t9wMK5zqRDACY40tMGkoyzJIzb1FWq4SN_yHkCRKoOdyQC0Zs7OfBAk-pQzErD7lGu7_t-AzhWzo_JF4-dEznaHN_7q3a4FUnyqy15Wi9ZR8JvnLsWB9byHmLT_5gJ6BxPzsv_B6R9JxJjEBiS0hX_2NTTjucFL6ROeZ3w7SfzC7zY9mui4tYS_Vfwxi29cVp1vJw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 483721308,
     "type": "drone",
     "status": "confirmed",
@@ -167922,6 +167959,70 @@
     "media": []
   },
   {
+    "id": 485778782,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel: Human rights rapporteurship whitewashing Israeli crimes",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Human rights rapporteurship whitewashing US, Israeli crimes: Iran Foreign Ministry spox.📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has criticized the UN special rapporteur’s latest report on human rights in Iran, saying it whitewashes crimes committed by the United States and the Israeli regime.In a post on X on Friday, Baqaei wrote: “Regardless of the politically motivated nature of the mandate imposed on the Human Rights Council by the UK، exploiting the so-calle",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 485787923,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemeni Armed Forces affirm that they",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Yemeni Armed Forces affirm that they did not carry out any operation today toward the depth of Saudi territory, and that the Saudi enemy’s claim of intercepting a drone in the skies over Mecca is a grave and blatant fabrication. Our operations target its oil facilities and military bases. No one in the world believes these fabrications and lies promoted by the criminal Al Saud regime anymore.http://t.me/army21ye",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484210719,
     "type": "missile",
     "status": "confirmed",
@@ -167949,6 +168050,107 @@
       "other": 0
     },
     "description": "🟡 Hourly Updates: October 30, 2026🇮🇷 Iran / Strait of Hormuz— The IRGC reportedly said it forced a hostile fighter jet away from the area of Qeshm Island.— A missile was reportedly launched from Qeshm Island toward the Strait of Hormuz shortly after the launch platform was targeted by a US airstrike.— More missiles were reportedly launched from Tula in central Qeshm Island toward the south. Reports differed over their type, with some sources identifying them as surface-to-air missiles and oth",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 485765078,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Yemeni Armed Forces affirm that they did not carry out any operation targeting the Saudi interior today. The Saudi enemy’s claim that it intercepted a drone in the skies over Mecca is a grave and blatant fabrication. Our operations target its oil facilities and military bases. No one in the world believes these fabrications and lies being propagated by the criminal Al Saud r",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/pMGC67ZRf6n9LltJiezMUV5gBKHDZ51aqV3JtmNy9ITU_sPNLP7_gHLHFBVsDTkgtQEX_PdKN32wr9IJbl2sTMecUyseUHtLHe6dg3s94DoTFeSwdJtNxosBx_qWjnw8hCHaq_P5t3QsdWyjt3_fIwKWlfI712DNbBuAhvJuBDZ5GBfrMG53qH03PEAzE2S7x3uHl5AdNSfajHSSu_sZBqfLdBahkXDjVW90LmTWawSoW5Ndq3X3kCZCEFbUlqK6ebXtnKkBlq2ebLsoY7sSZTyQaEpIhlpz7fG1ZI6WL4qLoaYB8Yfc1B0WDWlkPxEOjE048HGu_SuNJfCzNnyw6Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 485769645,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Tehran, Isfahan, Qeshm Island: There American aggression against Iran last",
+    "location": "Tehran, Isfahan, Qeshm Island, Qeshm",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷| There was no American aggression against Iran last night. The sounds reported from the region were a combination of anti-ship cruise missile launches and surface-to-air missile launches, which were misinterpreted by some local residents and OSINT channels as the sounds of aircraft or an American attack on Qeshm Island.The IRGC Ground Forces launched surface-to-air missiles from Tula, in central Qeshm Island, toward a hostile aircraft to drive it out of Iranian airspace. The missiles travel",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 485774213,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Beirut, Lebanon: like explain something very important everyone",
+    "location": "Beirut, Lebanon",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡🇮🇱 I'd like to explain something very important, to everyone not educated about this man right here, Eisenkot, As I'm sure most of yall aren't. Former IDF Chief of Staff Eisenkot has been wildly known to be pro \"finishing the job at whatever cost\" in his reign of terror as the chief of the IDF in both Lebanon and Palestine.In multiple comments he made, he said that \"the best action to take is to completely level cities in order to achieve military objectives.\" The mastermind behind \"The Dahiy",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
