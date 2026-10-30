@@ -168247,6 +168247,38 @@
     "media": []
   },
   {
+    "id": 486084979,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: Mine blast sets super tanker ablaze",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Mine blast sets super tanker ablaze in Hormuz📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has announced the explosion of a super tanker after it struck a sea mine on an unauthorized route in the Strait of Hormuz.This is the third tanker that has suffered an explosion and fire on Friday due to passing through an unauthorized route, the IRGC Navy said in its statement.​This super tanker, carrying more than two million barrels of oil, has been abandoned at the mouth of the S",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484210719,
     "type": "missile",
     "status": "confirmed",
