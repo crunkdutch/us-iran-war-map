@@ -225139,6 +225139,52 @@
     "verified": false
   },
   {
+    "id": 1793360540000,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Tehran Friday Prayer Leader: Experts should submit proposals for reviewing Iran’s nuclear doctrine, as the demand for a review stems from the Iranian people’s rights.Ayatollah Haj Ali Akbari:• The Supreme Leader’s recent message emphasising responsible expertise and five scientific orientatio...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ai9Oj4sR1OcChB-ImO8By0R-igCu0_2u5rh6JOJTVYrOFHo0GY8ssgnQeZAkOKkg0FPxJPwDrJc1s2ALgOP5hCcYylL1S0ueX_jRgWL6OT7OJfA-mzsKTeseCRl3Xc1oYRujDC5X5_bNl93IHknETXeKLLOs3UTjJstK8UHi2Vj2BPvR9ec4PdxAZLZZvrc9-d-X68wrrr7ETkZmJ096-s3MM3gqgXYwj_VbxwteRUrBpV0YKd8ckZc1DRFiAjHFWBLFEHyvthbRljSTS7UL8mpjdkQkWBk5QtDpWo7-ksQP8q5vs6BbCn9aF-Oe7Dxtwww_eMq90SzL45qJfFbgvQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793360551393,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "⚓️ | IRGC NAVY:Two oil tankers, one in the eastern and the other in the western sector of the Strait of Hormuz, were attempting to pass through an unauthorised route when they experienced incidents and were stopped in the southern waters of the Strait.Both tankers had switched off their navigation a...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/481dde0a92.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/LCB6AeC3AKBnMsvNDLiuNaY15Rzwthwrc-ONrlYJBkV5l5aijrKg6TxTAAKmByW_tmIVWoxHXsZYOTK-Z9xOBjso13EL1WgD2tGwiMJ05C0QjMqyEkqOIR_FKkbOQ0eLTTNh_NNUCjhNtppBJW9X0Xrlu-45ZBBK5jCVD8fJVFkKQtctI3U8IIN1AkSR57QcGL8FRguUl_hzIijB2tw49osOozSZp1O8eQ5Ohe_2WXVfuMJA2O4j38sq84KJYUH81l_9-7RctqSe_eb2glFx0QfBeJu4U3ErMWrw3ZZpOa3x8cRKmxTzid-5fNObbEgVbg2hO-fIIYLXfKhcz_ZjRA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64004",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/LCB6AeC3AKBnMsvNDLiuNaY15Rzwthwrc-ONrlYJBkV5l5aijrKg6TxTAAKmByW_tmIVWoxHXsZYOTK-Z9xOBjso13EL1WgD2tGwiMJ05C0QjMqyEkqOIR_FKkbOQ0eLTTNh_NNUCjhNtppBJW9X0Xrlu-45ZBBK5jCVD8fJVFkKQtctI3U8IIN1AkSR57QcGL8FRguUl_hzIijB2tw49osOozSZp1O8eQ5Ohe_2WXVfuMJA2O4j38sq84KJYUH81l_9-7RctqSe_eb2glFx0QfBeJu4U3ErMWrw3ZZpOa3x8cRKmxTzid-5fNObbEgVbg2hO-fIIYLXfKhcz_ZjRA"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -168087,6 +168087,38 @@
     "media": []
   },
   {
+    "id": 485934054,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Name Allah Most Gracious Most MercifulPress",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulPress StatementForced displacement and the demolition of homes in Hebron constitute a systematic aggression targeting the Palestinian presence and demand urgent international action.We in the Islamic Resistance Movement (Hamas) affirm that the ongoing Zionist aggression against the city of Hebron and the cities and towns of the occupied West Bank, accompanied by widespread incursions, the forced displacement of residents, and the demoliti",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484210719,
     "type": "missile",
     "status": "confirmed",
@@ -168215,6 +168247,81 @@
       "other": 0
     },
     "description": "⚡🇮🇱 I'd like to explain something very important, to everyone not educated about this man right here, Eisenkot, As I'm sure most of yall aren't. Former IDF Chief of Staff Eisenkot has been wildly known to be pro \"finishing the job at whatever cost\" in his reign of terror as the chief of the IDF in both Lebanon and Palestine.In multiple comments he made, he said that \"the best action to take is to completely level cities in order to achieve military objectives.\" The mastermind behind \"The Dahiy",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 485920329,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC NAVYTwo tankers eastern other western",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚓️ | IRGC NAVY:Two oil tankers, one in the eastern and the other in the western sector of the Strait of Hormuz, were attempting to pass through an unauthorised route when they experienced incidents and were stopped in the southern waters of the Strait.Both tankers had switched off their navigation and positioning systems and, with the support of the American terrorist army, were attempting to exit the Strait of Hormuz through an unauthorised route.Despite receiving several radio warnings, the tw",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/481dde0a92.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/LCB6AeC3AKBnMsvNDLiuNaY15Rzwthwrc-ONrlYJBkV5l5aijrKg6TxTAAKmByW_tmIVWoxHXsZYOTK-Z9xOBjso13EL1WgD2tGwiMJ05C0QjMqyEkqOIR_FKkbOQ0eLTTNh_NNUCjhNtppBJW9X0Xrlu-45ZBBK5jCVD8fJVFkKQtctI3U8IIN1AkSR57QcGL8FRguUl_hzIijB2tw49osOozSZp1O8eQ5Ohe_2WXVfuMJA2O4j38sq84KJYUH81l_9-7RctqSe_eb2glFx0QfBeJu4U3ErMWrw3ZZpOa3x8cRKmxTzid-5fNObbEgVbg2hO-fIIYLXfKhcz_ZjRA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64004",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/LCB6AeC3AKBnMsvNDLiuNaY15Rzwthwrc-ONrlYJBkV5l5aijrKg6TxTAAKmByW_tmIVWoxHXsZYOTK-Z9xOBjso13EL1WgD2tGwiMJ05C0QjMqyEkqOIR_FKkbOQ0eLTTNh_NNUCjhNtppBJW9X0Xrlu-45ZBBK5jCVD8fJVFkKQtctI3U8IIN1AkSR57QcGL8FRguUl_hzIijB2tw49osOozSZp1O8eQ5Ohe_2WXVfuMJA2O4j38sq84KJYUH81l_9-7RctqSe_eb2glFx0QfBeJu4U3ErMWrw3ZZpOa3x8cRKmxTzid-5fNObbEgVbg2hO-fIIYLXfKhcz_ZjRA"
+      }
+    ]
+  },
+  {
+    "id": 485924903,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gilan: light statements indications made Sabeti concerns",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— In light of the statements and indications made by MP Mr. Sabeti, concerns have emerged that the enemy may seek to orchestrate a new wave of urban unrest and instability inside Iran ahead of a possible bombing campaign, potentially exploiting economic grievances, hijab-related issues, or even sectarian divisions.We urge everyone to exercise caution and refrain from spreading misinformation, inflammatory rhetoric, or premature conclusions about the situation. The Leader has emphasised the impor",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
