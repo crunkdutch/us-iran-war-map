@@ -168556,6 +168556,38 @@
     "media": []
   },
   {
+    "id": 486149050,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Sanaa, Syria, Yemen: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Sanaa, Syria, Yemen, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 30, 2026🇾🇪 Yemen— Saudi aircraft reportedly carried out two airstrikes on the Huwshan area in Al-Jawf.— Saudi aircraft reportedly conducted two airstrikes on Hayfan district in Taiz.— A Saudi airstrike reportedly targeted livestock belonging to civilians in Mahliyah district, Marib.— Saudi aircraft reportedly carried out an airstrike on Yarim district in Ibb province.— One civilian was reportedly killed and six others injured in Saudi artillery shelling of Hayf",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
