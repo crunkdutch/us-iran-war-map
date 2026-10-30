@@ -168279,6 +168279,38 @@
     "media": []
   },
   {
+    "id": 486281833,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Qeshm Island, Qeshm: IRGC Navy captures second drone intact",
+    "location": "Tehran, Qeshm Island, Qeshm, Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 IRGC Navy captures second US drone intact over Qeshm island📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has captured the second US reconnaissance and decoy drone intact west of the Strait of Hormuz after taking control of its guidance and control systems.The statement said the Navy’s electronic warfare unit detected and identified the MQM-170 drone during an offensive operation before bringing it down safely and without physically destroying it on Friday.​According to the",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484210719,
     "type": "missile",
     "status": "confirmed",
