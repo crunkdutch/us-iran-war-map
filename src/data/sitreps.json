@@ -220639,6 +220639,21 @@
     "verified": false
   },
   {
+    "id": 1793353325572,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-20",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaWalla Hebrew website: Hezbollah still retains diverse combat capabilities sufficient for several months of fighting, including missiles with various ranges and suicide gliders that pose a major challenge to the “Israeli” army. In addition, the organization possesses tactical and suicide ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792561547529,
     "type": "drone",
     "location": "Tehran",
@@ -225004,6 +225019,51 @@
     "verified": false
   },
   {
+    "id": 1793353419974,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran foreign minister offers condolences to Spain over deadly train crash📌 Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi has conveyed condolences to Spain over a train crash that left dozens of people dead.In a message sent on Friday to his Spanish counterpart Jose Manuel Albares, the I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793353323090,
+    "type": "missile",
+    "location": "Golestan",
+    "coordinates": [
+      36.8,
+      54.4
+    ],
+    "date": "2026-10-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Pressure failed to break Iran’s resolve: IRGC deputy commander📌 Gorgan, IRNA – The Islamic Revolution Guards Corps (IRGC) deputy commander-in-chief has said hostile efforts to weaken Iran through war, sanctions and unrest have failed to undermine the Iranian people’s resolve.Brigadier General Mo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793353368708,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Exclusive | Qatari delegation arrives in Tehran for talks📌 Tehran, IRNA – A Qatari delegation arrived in Tehran on Friday morning for talks with senior Iranian officials on issues of mutual interest.The delegation is headed by a senior adviser to Qatar’s prime minister and foreign minister.​The ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793338906548,
     "type": "airstrike",
     "location": "Oman",
@@ -225045,6 +225105,36 @@
     "source": "IDF",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "⚡🇮🇱 I'd like to explain something very important, to everyone not educated about this man right here, Eisenkot, As I'm sure most of yall aren't. Former IDF Chief of Staff Eisenkot has been wildly known to be pro \"finishing the job at whatever cost\" in his reign of terror as the chief of the IDF in...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793353382546,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🏴| IRIB chief recounts the events surrounding the announcement of Imam Ali Khamenei’s martyrdom.The head of the Islamic Republic of Iran Broadcasting (IRIB) organisation recounted the events surrounding the announcement of Imam Ali Khamenei’s martyrdom.”It was before the Maghrib call to prayer...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793353341694,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇶🇦/ 🇮🇷 | A Qatari delegation arrives Tehran. 🔹@enemywatch",
     "media": [],
     "verified": false
   },
