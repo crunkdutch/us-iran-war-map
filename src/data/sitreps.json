@@ -225390,6 +225390,36 @@
     "verified": false
   },
   {
+    "id": 1793389451501,
+    "type": "missile",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Three AnsarAllah missiles reportedly targeted the presidential palace in the city of Aden moments ago.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793389447793,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian air defences have shot down a hostile drone over the Strait of Hormuz moments ago.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
