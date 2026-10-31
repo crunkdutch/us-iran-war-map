@@ -168956,6 +168956,70 @@
     ]
   },
   {
+    "id": 486579960,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Bandar Abbas, Qeshm Island, Qeshm: targets fishing boats Qeshm crew members",
+    "location": "Bandar Abbas, Qeshm Island, Qeshm, Hormozgan",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 US targets two fishing boats off Qeshm; two crew members missing📌 Bandar Abbas, IRNA – An attack by the US military on two fishing boats in waters off Qeshm Island, southern Iran, has left two crew members missing, Hormozgan Province Deputy Governor Ahmad Nafisi says.The incident occurred at about 11:30 a.m. local time on Saturday, 18 nautical miles from Messen village in Qeshm County. Each boat had two people on board, Nafisi said, according to the provincial governor’s public relations off",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 486584559,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Qeshm Island, Qeshm, Hormozgan: Missing crew members found after attack",
+    "location": "Qeshm Island, Qeshm, Hormozgan",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Missing crew members found after attack on fishing boats near Iran’s Qeshm Island📌 Qeshm, IRNA — The two fishermen reported missing after a US attack on two fishing boats off Qeshm Island have been found, the head of Qeshm’s fishing community says.Ali Eslami Ramchahi told reporters on Saturday that the two men had been found and were returning to Qeshm.​He added that Mahmoud Panjeh and his son, who lost contact with shore after the attack, had been found safe and were returning. He said that",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 486345960,
     "type": "drone",
     "status": "confirmed",
@@ -168985,7 +169049,18 @@
     "description": "🟡 Hourly Updates (+ve): October 31, 2026🇮🇷 Iran— The IRGC reportedly brought down and seized an American MQM-170 drone over Qeshm Island using advanced electronic warfare systems. — Iran’s Parliament is reportedly discussing at least 10 proposals concerning the country’s withdrawal from the Nuclear Non-Proliferation Treaty (NPT), according to the spokesperson for the Parliamentary National Security Commission.🇶🇦🇮🇷 Qatar / Iran— Qatari negotiators reportedly departed for Doha following a f",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/3011aca651.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iCVWd9292eVZV1RriEWsZ1PcITwiiuqawQQdDQFyTEqv6BSPcyeAOQaFyPtKJZUakCZD_HKqSnX52KoXcwH5dN0VGs2Gg-MOj4TKnbvaLFF6ec_hDLNtahXC0HsFkOTchV3JDjT6OS0eZwlP8bIcZ-Nt-rt12I6eETRIMuNVEiiVmXKW1igI3BBt5B_KapJ3jGjsPr5jtr0PrP3kA_apGpXZmI2RcYJ66mx5VFTt1RLJbDS8NsBb3TyPXFEAN4xoqnxNvXIFC6q9jZqodY2JNnjeqPkL70OjDgzCgeXnR2wx3gEy4P65v6Qx8InJoiInC14S09FWye7pkl7Kyyv8vQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64041",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iCVWd9292eVZV1RriEWsZ1PcITwiiuqawQQdDQFyTEqv6BSPcyeAOQaFyPtKJZUakCZD_HKqSnX52KoXcwH5dN0VGs2Gg-MOj4TKnbvaLFF6ec_hDLNtahXC0HsFkOTchV3JDjT6OS0eZwlP8bIcZ-Nt-rt12I6eETRIMuNVEiiVmXKW1igI3BBt5B_KapJ3jGjsPr5jtr0PrP3kA_apGpXZmI2RcYJ66mx5VFTt1RLJbDS8NsBb3TyPXFEAN4xoqnxNvXIFC6q9jZqodY2JNnjeqPkL70OjDgzCgeXnR2wx3gEy4P65v6Qx8InJoiInC14S09FWye7pkl7Kyyv8vQ"
+      }
+    ]
   },
   {
     "id": 486350548,
@@ -169018,6 +169093,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 486575362,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz, Persian Gulf, Oman: Important strategic directives issued CommanderinChief Imam",
+    "location": "Strait of Hormuz, Persian Gulf, Oman, Taba",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇮🇷 | Important and strategic directives issued by the Commander-in-Chief Imam Mujtaba Husayni Khamenei during his meeting with senior commanders of the Armed Forces::“If the enemies once again launch military or terrorist attacks, the Armed Forces of the Islamic Republic and the Iranian people will be the ones to determine the time and circumstances under which these attacks will come to an end.”The Commander-in-Chief Imam Mujtaba Khamenei also emphasised strengthening military intelligen",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/VyDBUoRbqGk6LTkhaLQkTxBL3EzJddFA6A26i8JCI4OgM_ET-Pa6dPa4gI_lQ5QzSBuQbng_cm4iAA1p83TpE249w0rNGMmWLZr_621Yh44Zw_VAiPrzcFNKsbC1FT6mF0PmqG_-1n3eSGn2qG9mTBq8KULlGJHoCdgonZB_yQW-oCwNeVu7OlIHACuNUKe0WfXYLBRt4iGpkRAVGQD35LKAFfSiFM9noACSTrUgO-iQrw7a6YxChz_duCIsFOk9gsAyX0y31QAeAGmxfKh2g3pseiKgYdun62bfXWSMCLtmMI0MzNkmp0d_BFelwm9fmIjRekKTk0GfrfNQeQttjg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,

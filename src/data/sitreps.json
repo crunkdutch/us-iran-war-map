@@ -225814,6 +225814,51 @@
     "verified": false
   },
   {
+    "id": 1793447254612,
+    "type": "naval",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 US targets two fishing boats off Qeshm; two crew members missing📌 Bandar Abbas, IRNA – An attack by the US military on two fishing boats in waters off Qeshm Island, southern Iran, has left two crew members missing, Hormozgan Province Deputy Governor Ahmad Nafisi says.The incident occurred at abo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793447252417,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Shortly, key strategic orders from the Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei are expected to be released following his meeting with top commanders of the Armed Forces.📲 @Irna_en",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793447205434,
+    "type": "naval",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Missing crew members found after attack on fishing boats near Iran’s Qeshm Island📌 Qeshm, IRNA — The two fishermen reported missing after a US attack on two fishing boats off Qeshm Island have been found, the head of Qeshm’s fishing community says.Ali Eslami Ramchahi told reporters on Saturday t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793418405584,
     "type": "rocket",
     "location": "Sanaa",
