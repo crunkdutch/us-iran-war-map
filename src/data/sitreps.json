@@ -225959,6 +225959,26 @@
     "verified": false
   },
   {
+    "id": 1793483351913,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-31",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Iranian Army Navy: An oil tanker that had ignored warnings and entered a restricted, unsafe area east of the Strait of Hormuz struck naval mines and burst into flames on Saturday afternoon.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DGdtRk4PuUAKzMmKLMFJTtrealv7uLE62yTH2Dm5j5vfiaUM2GsUPNdrhw6UHiq691KX6vwsrt8qS6ECcwRlyzanVdmqnx_p0sEiuBm_zEHX-c_rfRDpeK7b0nrmK0UcGoPjNuKglpEhJTQ98lXdU_hinAYnG0vNgI_SpEK8exMPDumx-jgADmIioh5MnNtarKN371O8XePFFrzchjXXR4KZrErnrue2oyJTnWuPFmArCA2kKpCIMDcPhmhdo6aE9cin6XdO41Z7uiFBjIeHv90A-gnjC20YpEvjr6sf5br0zwLCwuaHSp54MAIuXyv2DS1LlHnZOUid7Py2sWjr0Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
