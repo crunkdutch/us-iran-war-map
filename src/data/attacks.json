@@ -165706,6 +165706,102 @@
     ]
   },
   {
+    "id": 486359714,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Yemen: Yemeni Armed Forces currently carrying attacks",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 ❌ 🇸🇦 | Yemeni Armed Forces are currently carrying out attacks targeting Riyadh, with sirens sounding and emergency warnings reportedly declared across the city. The retaliatory strikes are reportedly being carried out in response to Saudi attacks on Saada and Sana’a. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 486364292,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Dubai: Neoliberalism dollarization worsens negative effects crippli...",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇺🇸 Neoliberalism, dollarization worsens negative effects of crippling US sanctions — Iranian analystIn a recent must-watch interview with Iranian analyst Ali Alizadeh, he hits the nail on the head of the internal aspect of the equation of Iran's economic woes. The main culprit is the US sanctions, but this is worsened by an internal class of westernized elites.Alizadeh notes the following:— Westernization started during the time of then-president Hashemi Rafsanjani, who made his governmen",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 486368871,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz, Oman: United Kingdom Maritime Trade Operations UKMTO",
+    "location": "Strait of Hormuz, Oman",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The United Kingdom Maritime Trade Operations (UKMTO) stated that it received a delayed report regarding an incident seven nautical miles northeast of Limah, Oman.An oil tanker reported being struck by an unidentified projectile while transiting outbound through the Strait of Hormuz. The vessel was able to continue its voyage to its next port of call.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483721308,
     "type": "drone",
     "status": "confirmed",
