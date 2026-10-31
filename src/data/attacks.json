@@ -168471,6 +168471,38 @@
     "media": []
   },
   {
+    "id": 486662674,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Islamic_RepublicHis Eminence Ayatollah Sayyed Mojtaba Khamen...",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicHis Eminence Ayatollah Sayyed Mojtaba Khamenei (may his shadow endure):If the enemies resume their military or terrorist attacks, the Armed Forces of the Islamic Republic and the Iranian people will determine when those attacks end.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484210719,
     "type": "missile",
     "status": "confirmed",
@@ -169130,6 +169162,75 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 486648868,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Persian Gulf, Israel: weeks posted that Iran seriously warned",
+    "location": "Persian Gulf, Israel",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷🇺🇸| 2 weeks ago I posted that Iran seriously warned a group of countries in case of renewed aggression on Iran.Today’s statement of Iran’s leader giving the green light to respond to any threat without any geographical limits, means acts of sabotage, assassination or even assistance to the US during their aggression on Iran will no longer be met with similar responses. Instead, they will trigger a wider response, beyond the Persian Gulf and the West-Asian region. Some time ago, Iran’s mili",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/mKaH4D6QBAZ1fnkKdyRXLomvueZjthjcDSWgRT4D6Lf6RR4H4dz5dUM-qgafl_VHR1d7s0cUZB0DUm-jXFE71MT-VbhwJo8NDuHqRFuHsFIwDk3BxUxoZRcCMFIJDNphsARgPr5x5qyIOgPPx-PsugyoPH1gbT8cku1pZpb81wB0VFXvVcw9Wg_SWPHDeaGSqdFXXqvvs1H945PhdVWrA8KCuqypE2d8c-YQaaUFjmh7wp_iNS88NgJv8vu49OHpT7HL3rilcjCfnqUL3mEV0eanqLBweOi5Wo33gVniHxsBpqbUcAlfHNo_J93RZvgjhXYv2S5_DpEIfHVMWYEfjg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 486653469,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Damascus, Syria, Israel: Syrias parasitic regime whatever chooses call",
+    "location": "Damascus, Syria, Israel",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The Syria's parasitic HTS regime , or whatever one chooses to call the authorities currently governing Damascus, often speaks and behaves as though it were a democratically chosen government with a clear public mandate. One would have to be remarkably detached from reality to accept such confidence without questioning the basis of its legitimacy, particularly when figures associated with the HTS leadership now occupy the presidential palace in Damascus.The HTS-led authorities constitute a high",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
