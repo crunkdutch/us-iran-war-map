@@ -169233,6 +169233,49 @@
     "media": []
   },
   {
+    "id": 486727025,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel, Taba: Irans response enemy will without geographical",
+    "location": "Tehran, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iran’s response to enemy will be without geographical limits: Top commander📌 Tehran, IRNA – Chief of Staff of the Armed Forces Major General Ali Abdollahi has reiterated his pledge of a firm and decisive response to US or Israeli aggression, saying Iran is fully prepared to strike enemy targets promptly, powerfully, intensely and without geographical limitations.In a message addressed to the nation on Saturday, Major General Abdollahi noted that the Iranian Armed Forces have placed a new ban",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6e7599efe3.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gU-dqR8sT6u0Qe_LMnNOr_52GsUZtDS862Q0reSFrcM0nv74JKxT45tYfxSnYZsQm0HTDuvPQWlaTrnnVY7UyxIrDLU9pVxxK3v6CSLOUgLgODHpRWQmncDqeTwPrm1I2TH6J3R2mJkgcXq9wqDRWVNj4CjzSFsA_MnYTPWrNJJbofGiE18wq8KW0AMQxF84UdGnVwcMVxJl4VvjR6YP3-i6PF2ECl-iY7gm110PepJowRPrMq4zKc5hXNkMFKb1mvZNikM2BiIgWnrUsDULmRCeLMwDjteZxcX2vezVWj_9gAUoz_g1S6vSiHtc52HDokAnnGRAWykmoUm0bSI6PQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64040",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gU-dqR8sT6u0Qe_LMnNOr_52GsUZtDS862Q0reSFrcM0nv74JKxT45tYfxSnYZsQm0HTDuvPQWlaTrnnVY7UyxIrDLU9pVxxK3v6CSLOUgLgODHpRWQmncDqeTwPrm1I2TH6J3R2mJkgcXq9wqDRWVNj4CjzSFsA_MnYTPWrNJJbofGiE18wq8KW0AMQxF84UdGnVwcMVxJl4VvjR6YP3-i6PF2ECl-iY7gm110PepJowRPrMq4zKc5hXNkMFKb1mvZNikM2BiIgWnrUsDULmRCeLMwDjteZxcX2vezVWj_9gAUoz_g1S6vSiHtc52HDokAnnGRAWykmoUm0bSI6PQ"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
