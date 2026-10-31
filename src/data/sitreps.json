@@ -225450,6 +225450,77 @@
     "verified": false
   },
   {
+    "id": 1793418399175,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Navy:This afternoon, a fourth supertanker exploded violently and is currently burning after striking a mine, having disregarded IRGC Navy warnings against transiting through the unauthorized southern route of the Strait of Hormuz in Iran.This violating tanker, carrying over two million b...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/0b1acc930a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/WSUig7LbWf9s_2r5ySj5FLD7MLbu0CT635V3mTMVJUmlUXhnej0rpy90U29ec3gYlvIrpjCmW0tC5-N9pJTqGeSv1mUuOR1QczajWAR4cgfCpi7YbRLu5-_RKMjPw7itp_nJyjPiZWWOOLEVojsBVWMgFspp-XWxxwWpKi-4Iogxx9AfRSaQhJOJKgKmRqgosX81GkrjAYO4tbHKKqFCTgzRV07qOk-2R_K5WJdA1cHeWpa5_63TZHvaNzKnH7Qg9ZQpkYIZU34RaIN-oD1SQsZlBe02YIft0taynZRWFX_ZvmmnfVQKlTnpI9JkQeV9Jc-uQQNLY10M4rfL4f8TLw"
+      },
+      {
+        "url": "https://t.me/enemywatch/64025",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/WSUig7LbWf9s_2r5ySj5FLD7MLbu0CT635V3mTMVJUmlUXhnej0rpy90U29ec3gYlvIrpjCmW0tC5-N9pJTqGeSv1mUuOR1QczajWAR4cgfCpi7YbRLu5-_RKMjPw7itp_nJyjPiZWWOOLEVojsBVWMgFspp-XWxxwWpKi-4Iogxx9AfRSaQhJOJKgKmRqgosX81GkrjAYO4tbHKKqFCTgzRV07qOk-2R_K5WJdA1cHeWpa5_63TZHvaNzKnH7Qg9ZQpkYIZU34RaIN-oD1SQsZlBe02YIft0taynZRWFX_ZvmmnfVQKlTnpI9JkQeV9Jc-uQQNLY10M4rfL4f8TLw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793418362160,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Poland is rapidly emerging as the first critical stress point in a systemic political crisis gathering force across Europe. Years of overlapping shocks, including the lingering fallout of the Russia-Ukraine war, structural energy insecurity, mounting economic strain following the joint American-is...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793418376240,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Qatar came, Qatar left. Some meetings last ten hours, while others reportedly last twelve. Meanwhile, military cargo aircraft have reportedly been landing at Mehrabad Airport with their transponders switched off. Yet no major details are emerging publicly. Whatever the actual purpose of these deve...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793418405584,
+    "type": "rocket",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-10-31",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): October 31, 2026🇾🇪 Yemen— Saudi aircraft reportedly targeted a house in Al-Masahine area of Al-Shamaytin district, south of Taiz, causing deaths and injuries. Saba News Agency in Sanaa reported that a subsequent strike targeted the same area, allegedly preventing rescue te...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

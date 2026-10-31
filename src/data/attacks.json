@@ -168684,6 +168684,107 @@
     "media": []
   },
   {
+    "id": 486355137,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Qatar: Qatar came Qatar left Some meetings",
+    "location": "Tehran, Qatar",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Qatar came, Qatar left. Some meetings last ten hours, while others reportedly last twelve. Meanwhile, military cargo aircraft have reportedly been landing at Mehrabad Airport with their transponders switched off. Yet no major details are emerging publicly. Whatever the actual purpose of these developments, it is clear that significant activity is taking place behind the scenes.The government of President Masoud Pezeshkian began in the aftermath of President Ebrahim Raisi’s martyrdom. Its tenur",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ai9Oj4sR1OcChB-ImO8By0R-igCu0_2u5rh6JOJTVYrOFHo0GY8ssgnQeZAkOKkg0FPxJPwDrJc1s2ALgOP5hCcYylL1S0ueX_jRgWL6OT7OJfA-mzsKTeseCRl3Xc1oYRujDC5X5_bNl93IHknETXeKLLOs3UTjJstK8UHi2Vj2BPvR9ec4PdxAZLZZvrc9-d-X68wrrr7ETkZmJ096-s3MM3gqgXYwj_VbxwteRUrBpV0YKd8ckZc1DRFiAjHFWBLFEHyvthbRljSTS7UL8mpjdkQkWBk5QtDpWo7-ksQP8q5vs6BbCn9aF-Oe7Dxtwww_eMq90SzL45qJfFbgvQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 486345960,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Qeshm Island, Qeshm, Doha: Hourly Updates October 2026 Iran IRGC",
+    "location": "Qeshm Island, Qeshm, Doha, Aden, Gulf of Oman, Yemen, Qatar, Oman, Israel",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): October 31, 2026🇮🇷 Iran— The IRGC reportedly brought down and seized an American MQM-170 drone over Qeshm Island using advanced electronic warfare systems. — Iran’s Parliament is reportedly discussing at least 10 proposals concerning the country’s withdrawal from the Nuclear Non-Proliferation Treaty (NPT), according to the spokesperson for the Parliamentary National Security Commission.🇶🇦🇮🇷 Qatar / Iran— Qatari negotiators reportedly departed for Doha following a f",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 486350548,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Sanaa, Lebanon, Yemen: Hourly Updates October 2026 Yemen Saudi",
+    "location": "Sanaa, Lebanon, Yemen, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): October 31, 2026🇾🇪 Yemen— Saudi aircraft reportedly targeted a house in Al-Masahine area of Al-Shamaytin district, south of Taiz, causing deaths and injuries. Saba News Agency in Sanaa reported that a subsequent strike targeted the same area, allegedly preventing rescue teams from recovering the dead and wounded.— Saudi artillery shelling was reportedly directed at Qataber border district.— Saudi warplanes targeted the \"Ash-Shamaytin\" district in the Taiz province.🇱🇧",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
