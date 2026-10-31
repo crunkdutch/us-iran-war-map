@@ -168817,6 +168817,38 @@
     ]
   },
   {
+    "id": 486433082,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Saudi Arabia: Explosions reported Jizan southern Saudi Arabia",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Explosions reported in Jizan, southern Saudi Arabia, following an AnsarAllah missile attack on an Aramco facility.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 486345960,
     "type": "drone",
     "status": "confirmed",

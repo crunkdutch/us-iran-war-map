@@ -217499,6 +217499,36 @@
     "verified": false
   },
   {
+    "id": 1793432774185,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYashar Party leader and former “Israeli” Chief of Staff Gadi Eisenkot:– Nine days before the elections, three years after the most serious failure and disaster in “Israel’s” history, and with all fronts ablaze, Netanyahu has decided to reveal to the public what he calls his “security doc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793432833233,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-16",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYesh Atid Party leader and “Israeli” opposition leader Yair Lapid:Even by Netanyahu’s current standards, marked by exhaustion and detachment from reality, this document appears superficial and bizarre, as though it were written using a free version of an AI chatbot. It is difficult to re...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792210617101,
     "type": "rocket",
     "location": "Sanaa",
@@ -220923,6 +220953,10 @@
       },
       {
         "url": "https://cdn4.telesco.pe/file/LELbrSOlZ6FsNo49fbAN4_SOBJhXPcTK-fwSJUyaLppU_ZN4zURG8shYmfRiHHget1h6FWh5fdy5HHFmRQkPhZKsCitobxVD-j7n4vMjxpCSnS6iHp3CMNNSYcOZOil2i7XV5l5BDxmkJw8QaVWno5-Pdh5k18PCqaKyKHwGBdEqC21RntqQMWT2N2epmspRxsYh7Ddo45uBqdvHXeeDp6DPi9dnUf0yJJMAqgx_qpQczQBKdbEyr7Pk5NO7IA1AV8P6Jrg2tKy7CIzrjOg8nw9-zs5W4UpL1HF-qQyvua2OYZk7dycLo8-kxHG6hEFzMJgHvB8bGXIvPTvzp5DmRQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/s0xYc-QsYGlIeF6I1PMoLqzhlK-JZGTtYCSlW9S6pGTKhkOiIrq9xqKMJj8KtCoyFW46FtzTbLNo4LYzeUPxgbAm0DfmWu6klYxQee-sDjUkur9Y-QqMF2_h5_BiVqQXzLas-tlVyI339q_yASmO4UBQaSvCAlDcktrJjFqFG_Pu3gGe0nMekxhpf70NSdIAox76FVhD7KcdGbdrdgmTnn05EHQbw20ca5dg_k5eJ0rMc3mGYD66nPXn6pDbXGsaI62t8fKQZsPrhAIlSyPnEjw6gBLOcOH8srucyFTMJ1C0_1MCcCdG2ROs-HWdsEuBnfHEjwBCDFfFfKuWdhUzeQ.jpg",
         "type": "photo"
       }
     ],
@@ -225578,6 +225612,21 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Lebanon’s death toll from Israeli acts of aggression climbs to 8,956📌 Tehran, IRNA – Lebanon’s Health Ministry says 8,956 people have been killed and 30,664 wounded since October 2023, amid continued Israeli military aggression.The ministry reported that 4,389 people were killed and 12,428 injur...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793432764451,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-30",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Explosions reported in Jizan, southern Saudi Arabia, following an AnsarAllah missile attack on an Aramco facility.🔻@enemywatch",
     "media": [],
     "verified": false
   },
