@@ -166248,6 +166248,107 @@
     "media": []
   },
   {
+    "id": 486731616,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Iraq: Islamic Revolutionary Guard Corps IRGC carried",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The Islamic Revolutionary Guard Corps (IRGC) carried out a pre-emptive strike against a key gathering centre of the PJAK terrrorist group in Iraq.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 486736208,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bandar Abbas, Strait of Hormuz: Iranian border guards have seized ships",
+    "location": "Bandar Abbas, Strait of Hormuz",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian border guards have seized two ships carrying smuggled fuel in the waters off Bandar Abbas, while reports have also emerged of an explosion targeting a supertanker in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 486740801,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Aden, Yemen: Yemeni Armed Forces Brigadier General Yahya",
+    "location": "Hodeidah, Aden, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:The Saudi warplanes carried out 124 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the capital Sana’a and the governorates of Taiz, Lahj, Saada, Hajjah, Hodeidah, Amran, and Al-Jawf. The attacks were carried out by F-15 aircraft that took off from Khamis Mushait Air Base, along with missile attacks launched from Najran, resulting in deaths and injuries,",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/nyg8-RwsQ84MHIUtG7jXNsR1zKqgG3JV7emq88SJM4bqLTzIYk2caVp2FC66EGbxiAu6jHsKqRE7v69gH8tRElwXIadbA0jAG8kXJ9jFOAujuMIPGCFoISW8TwwjDD7Fwi-Di4hAJNSvwxEsQOqYvm8pgTc0_OV6_GDcBE3OuPM5qkUCj7FCAJEbQHwxkhMRJqvJoFQsWGbY-7DSgFMQXVqY3p_nA8TgczLp-8PYtV_f_z_r2QgCVAjU_XBinEZafBBzUwiBrMM6qBHgf0EUPqFOSw4wr0gzzK8u7MjG0DIro9Gc3t5c-CUhqnsiG-ve8Ki8gz_lSDcud3AULOi7NA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 483808143,
     "type": "drone",
     "status": "confirmed",
@@ -169274,6 +169375,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/gU-dqR8sT6u0Qe_LMnNOr_52GsUZtDS862Q0reSFrcM0nv74JKxT45tYfxSnYZsQm0HTDuvPQWlaTrnnVY7UyxIrDLU9pVxxK3v6CSLOUgLgODHpRWQmncDqeTwPrm1I2TH6J3R2mJkgcXq9wqDRWVNj4CjzSFsA_MnYTPWrNJJbofGiE18wq8KW0AMQxF84UdGnVwcMVxJl4VvjR6YP3-i6PF2ECl-iY7gm110PepJowRPrMq4zKc5hXNkMFKb1mvZNikM2BiIgWnrUsDULmRCeLMwDjteZxcX2vezVWj_9gAUoz_g1S6vSiHtc52HDokAnnGRAWykmoUm0bSI6PQ"
       }
     ]
+  },
+  {
+    "id": 486805208,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Tehran, Strait of Hormuz: Iranian Army Offending tanker catches fire",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iranian Army: Offending tanker catches fire after striking mines east of Hormuz📌 Tehran, IRNA — Iran’s Army Navy says another oil tanker caught fire after striking naval mines while sailing through an unauthorized and unsafe area east of the Strait of Hormuz.In a statement on Saturday, the Army Navy’s public relations office said the violating tanker had been operating in the restricted area in disregard of warnings when it struck naval mines and caught fire.​“Despite the US president’s fals",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
