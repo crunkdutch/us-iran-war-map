@@ -165370,6 +165370,38 @@
     "media": []
   },
   {
+    "id": 486501902,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-22",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — West Bank: Occupied_PalestineIn Name Allah Most Compassionate Most",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Compassionate, the Most MercifulIssued by the Resistance Committees in Palestine:The Resistance Committees in Palestine commend the heroic operation carried out by the heroes of our people in Hebron, and affirm that the continued crimes of the Zionist occupation against our Palestinian people, the attacks on our holy sites, and the abuse of our brave captives will not grant this entity the security it deludes itself into believing it can impose b",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483680113,
     "type": "missile",
     "status": "confirmed",
@@ -168407,6 +168439,38 @@
     "media": []
   },
   {
+    "id": 486511095,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Israel: Enemy_MediaFormer Israeli intelligence official Avner Vilian",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaFormer “Israeli” intelligence official Avner Vilian: I remind everyone that, based on how things currently appear, we will enter another round of war with Iran at some point within the next two weeks. This will not happen until it actually happens, but everyone is now extremely tense.We will strike bridges and power plants. Even if we assume that we will once again succeed in eliminating their leadership, missiles will fly here again, chaos will erupt once more, and we will find ours",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484210719,
     "type": "missile",
     "status": "confirmed",
@@ -168847,6 +168911,49 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 486497307,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Qeshm Island, Qeshm: Breaking American drone attacked Iranian fishing",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ | Breaking — An American drone attacked two Iranian fishing boats off Qeshm Island, injuring two people and leaving two others missing. There are growing concerns that the missing individuals may have been martyred. 🔴@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/3011aca651.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iCVWd9292eVZV1RriEWsZ1PcITwiiuqawQQdDQFyTEqv6BSPcyeAOQaFyPtKJZUakCZD_HKqSnX52KoXcwH5dN0VGs2Gg-MOj4TKnbvaLFF6ec_hDLNtahXC0HsFkOTchV3JDjT6OS0eZwlP8bIcZ-Nt-rt12I6eETRIMuNVEiiVmXKW1igI3BBt5B_KapJ3jGjsPr5jtr0PrP3kA_apGpXZmI2RcYJ66mx5VFTt1RLJbDS8NsBb3TyPXFEAN4xoqnxNvXIFC6q9jZqodY2JNnjeqPkL70OjDgzCgeXnR2wx3gEy4P65v6Qx8InJoiInC14S09FWye7pkl7Kyyv8vQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64041",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iCVWd9292eVZV1RriEWsZ1PcITwiiuqawQQdDQFyTEqv6BSPcyeAOQaFyPtKJZUakCZD_HKqSnX52KoXcwH5dN0VGs2Gg-MOj4TKnbvaLFF6ec_hDLNtahXC0HsFkOTchV3JDjT6OS0eZwlP8bIcZ-Nt-rt12I6eETRIMuNVEiiVmXKW1igI3BBt5B_KapJ3jGjsPr5jtr0PrP3kA_apGpXZmI2RcYJ66mx5VFTt1RLJbDS8NsBb3TyPXFEAN4xoqnxNvXIFC6q9jZqodY2JNnjeqPkL70OjDgzCgeXnR2wx3gEy4P65v6Qx8InJoiInC14S09FWye7pkl7Kyyv8vQ"
+      }
+    ]
   },
   {
     "id": 486345960,

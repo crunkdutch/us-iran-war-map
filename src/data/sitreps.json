@@ -222016,6 +222016,107 @@
     "verified": false
   },
   {
+    "id": 1793440026983,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper – Yoav Limor: Any \"Israeli\" government that is formed will address every threat, however small, before it turns into a strategic danger. This is the most important lesson from the Hamas attack, and one that will remain present for generations. We may disagre...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793440032385,
+    "type": "naval",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Compassionate, the Most MercifulIssued by the Resistance Committees in Palestine:The Resistance Committees in Palestine commend the heroic operation carried out by the heroes of our people in Hebron, and affirm that the continued crimes of the Zionis...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793440043928,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio:Details of the initial investigation into the operation at the Yehuda Junction in Hebron:– The two gunmen arrived at approximately 7:30 am at the Yehuda Junction, where a force from the “Ari” Battalion, affiliated with the Home Front Command, was conducting a r...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793439974108,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaFootage of the shooting operation that targeted an “Israeli” military position in the Hebron area this morning, resulting in five wounded among the “Israeli” enemy army, including two in critical condition.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9c50e7fed5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
+      },
+      {
+        "url": "https://t.me/mmirlb/41157",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rbES96PCqDEpXz0fQ1J3CBRXLu5Wy4Cq22zAME6uVNys2UhLGbxPuYlTNk5spiylMb97bfdsr49NW5iAiUT6rXEr2ZbGUg3mrfFr9vF4widjPOzC8TwyfVQ1wSi1oSBbRmdAGJAaps72YBW4IeLfx1e1oOa9Yl4068YYjYkU9g1VOrq-6be0UICVKtOG1v8hEuut0TzEdLi7-H5TptPKZvGh1y37xpbCUU3CPwrb5rt2r8SiHjnIVofc02JBO6V8G9MBhyNdaeYCg3occfT5R-TCPWVjpmE8cTAZEb3x6PnFc1p5V3j0DNbzfdqPZAFowyXVP5Wvn-iBTsGXYDIcnQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793440055867,
+    "type": "airstrike",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-10-22",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement issued by Hezbollah regarding the heroic operation in the city of Hebron:Hezbollah commends the heroic martyrdom operation carried out by the two heroic martyrs, Hammouda and Firas Al-Ja‘ba, in the city of Hebron at the Farsh Al-Hawa checkpoint, which resulted in a number of deaths and inj...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793439995638,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-22",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicChief of the General Staff of the Armed Forces and Commander of the Khatam al-Anbiya (PBUH) Headquarters, Major General Abdollahi:– With reliance on Almighty Allah, the longstanding Islamic Iranian Armed Forces have succeeded in rendering the US Navy, which Trump and senior official...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792727596410,
     "type": "missile",
     "location": "Riyadh",
@@ -225305,6 +225406,21 @@
     "verified": false
   },
   {
+    "id": 1793439986946,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-29",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaFormer “Israeli” intelligence official Avner Vilian: I remind everyone that, based on how things currently appear, we will enter another round of war with Iran at some point within the next two weeks. This will not happen until it actually happens, but everyone is now extremely tense.We ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793338906548,
     "type": "airstrike",
     "location": "Oman",
@@ -225628,6 +225744,73 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 ❌ 🇸🇦 | Explosions reported in Jizan, southern Saudi Arabia, following an AnsarAllah missile attack on an Aramco facility.🔻@enemywatch",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793440058560,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪/ 🇮🇷 | An Emirates airplane landed in Tehran.❓@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793440044424,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "—A staunch defense of Trump by a prominent reformist, Kourosh Ahmadi: “We should have strengthened Trump’s position so that he could remain in the agreement. We should not have been so nitpicky over the issue of Lebanon. Logically, this is precisely what diplomacy means.”This is how the reformists t...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6d85a74381.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qOG7ihcdCpMoejW6eZyHJ7vzIdlHkmj4_FWelQzD6Xr3geHFJqkBu6Q-W2TFmi5li5Vz03LvyptlmhWsBxKOZhq4Fzn12DaCdKDtFQyOwKdzG-6IIaAdIx16tA826UpEt3S0gcXL0AYQs4a3Nxp7t4B5snOhbg26rfnjpKVR8Pff-rXpW85FJWmIT1ZXUw-u04k_ehRr9GVHy3BckSyYA8EGaJtDxaUkqZNvgeTm17RA2dTPWgCMyVCymOJKYaaCEfTkFHNvLRTbCEmBIDxhIwzZTiXmrIeduSvq177lnusWzlGMr8VAsWGUNHDDBpyR75kYQXZY0ZM9wIZ74GE7oQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64039",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qOG7ihcdCpMoejW6eZyHJ7vzIdlHkmj4_FWelQzD6Xr3geHFJqkBu6Q-W2TFmi5li5Vz03LvyptlmhWsBxKOZhq4Fzn12DaCdKDtFQyOwKdzG-6IIaAdIx16tA826UpEt3S0gcXL0AYQs4a3Nxp7t4B5snOhbg26rfnjpKVR8Pff-rXpW85FJWmIT1ZXUw-u04k_ehRr9GVHy3BckSyYA8EGaJtDxaUkqZNvgeTm17RA2dTPWgCMyVCymOJKYaaCEfTkFHNvLRTbCEmBIDxhIwzZTiXmrIeduSvq177lnusWzlGMr8VAsWGUNHDDBpyR75kYQXZY0ZM9wIZ74GE7oQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793439984543,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ | Breaking — An American drone attacked two Iranian fishing boats off Qeshm Island, injuring two people and leaving two others missing. There are growing concerns that the missing individuals may have been martyred. 🔴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/3011aca651.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iCVWd9292eVZV1RriEWsZ1PcITwiiuqawQQdDQFyTEqv6BSPcyeAOQaFyPtKJZUakCZD_HKqSnX52KoXcwH5dN0VGs2Gg-MOj4TKnbvaLFF6ec_hDLNtahXC0HsFkOTchV3JDjT6OS0eZwlP8bIcZ-Nt-rt12I6eETRIMuNVEiiVmXKW1igI3BBt5B_KapJ3jGjsPr5jtr0PrP3kA_apGpXZmI2RcYJ66mx5VFTt1RLJbDS8NsBb3TyPXFEAN4xoqnxNvXIFC6q9jZqodY2JNnjeqPkL70OjDgzCgeXnR2wx3gEy4P65v6Qx8InJoiInC14S09FWye7pkl7Kyyv8vQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64041",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iCVWd9292eVZV1RriEWsZ1PcITwiiuqawQQdDQFyTEqv6BSPcyeAOQaFyPtKJZUakCZD_HKqSnX52KoXcwH5dN0VGs2Gg-MOj4TKnbvaLFF6ec_hDLNtahXC0HsFkOTchV3JDjT6OS0eZwlP8bIcZ-Nt-rt12I6eETRIMuNVEiiVmXKW1igI3BBt5B_KapJ3jGjsPr5jtr0PrP3kA_apGpXZmI2RcYJ66mx5VFTt1RLJbDS8NsBb3TyPXFEAN4xoqnxNvXIFC6q9jZqodY2JNnjeqPkL70OjDgzCgeXnR2wx3gEy4P65v6Qx8InJoiInC14S09FWye7pkl7Kyyv8vQ"
+      }
+    ],
     "verified": false
   },
   {
