@@ -1687,6 +1687,21 @@
     "verified": false
   },
   {
+    "id": 1793533836783,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-02-28",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Exclusive | Iran submits evidence of US-Israeli attacks on ports, maritime infrastructure to IMO📌 London, IRNA — Iran has submitted documents and photographic evidence of US and Israeli attacks on the country’s ports, civilian vessels, and maritime infrastructure to the International Maritime Or...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -222531,6 +222546,122 @@
     "verified": false
   },
   {
+    "id": 1793533868672,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper – Yoav Limor: Any \"Israeli\" government that is formed will address every threat, however small, before it turns into a strategic danger. This is the most important lesson from the Hamas attack, and one that will remain present for generations. We may disagre...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793533860941,
+    "type": "naval",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "date": "2026-10-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Compassionate, the Most MercifulIssued by the Resistance Committees in Palestine:The Resistance Committees in Palestine commend the heroic operation carried out by the heroes of our people in Hebron, and affirm that the continued crimes of the Zionis...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793533918405,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio:Details of the initial investigation into the operation at the Yehuda Junction in Hebron:– The two gunmen arrived at approximately 7:30 am at the Yehuda Junction, where a force from the “Ari” Battalion, affiliated with the Home Front Command, was conducting a r...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793533905707,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-23",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaFootage of the shooting operation that targeted an “Israeli” military position in the Hebron area this morning, resulting in five wounded among the “Israeli” enemy army, including two in critical condition.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9c50e7fed5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dTwtxcx-sfbTD07Ec8uEBJyEWG1nnU4gGRCpeDFtyPJdPWJP9lXh-nkBf0memIyV_sE52NhGJVIh9xBrqZagfrZde37X_OCGlyiIFtpqSNfjOSOjUCE7gJo3DYimbYoOj6C_ABNFX7k6_4o4mWoiCFHczObuhq8HGlYVYmJ0espsdiNro-LZSzx3SFs_--6LLVgkZdYCwMHKphXAPjsTrg67A39GMiPn14u10yeMwyDy5bf0UTQbJM2DikwjqpNzonLjMEHplITQOt4F_Cko73e4_eMUWO95zWMbOwse6joLVEipTo0djNE35ombX3P4MmrGVDWWbA15qXhOpQOsLw"
+      },
+      {
+        "url": "https://t.me/mmirlb/41157",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dTwtxcx-sfbTD07Ec8uEBJyEWG1nnU4gGRCpeDFtyPJdPWJP9lXh-nkBf0memIyV_sE52NhGJVIh9xBrqZagfrZde37X_OCGlyiIFtpqSNfjOSOjUCE7gJo3DYimbYoOj6C_ABNFX7k6_4o4mWoiCFHczObuhq8HGlYVYmJ0espsdiNro-LZSzx3SFs_--6LLVgkZdYCwMHKphXAPjsTrg67A39GMiPn14u10yeMwyDy5bf0UTQbJM2DikwjqpNzonLjMEHplITQOt4F_Cko73e4_eMUWO95zWMbOwse6joLVEipTo0djNE35ombX3P4MmrGVDWWbA15qXhOpQOsLw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793533894835,
+    "type": "airstrike",
+    "location": "Fars",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "date": "2026-10-23",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement issued by Hezbollah regarding the heroic operation in the city of Hebron:Hezbollah commends the heroic martyrdom operation carried out by the two heroic martyrs, Hammouda and Firas Al-Ja‘ba, in the city of Hebron at the Farsh Al-Hawa checkpoint, which resulted in a number of deaths and inj...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793533888415,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicChief of the General Staff of the Armed Forces and Commander of the Khatam al-Anbiya (PBUH) Headquarters, Major General Abdollahi:– With reliance on Almighty Allah, the longstanding Islamic Iranian Armed Forces have succeeded in rendering the US Navy, which Trump and senior official...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793533917547,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-23",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Our Armed Forces, by the grace of Allah, carried out strikes targeting gatherings of forces belonging to the Saudi enemy at the so-called Al-Nasr Camp and at the naval military base in Aden. These forces are being assembled and equipped under the supervision of Saudi officers, led by Saudi Brigadier...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792814268313,
     "type": "missile",
     "location": "Sanaa",
@@ -225514,6 +225645,21 @@
     "verified": false
   },
   {
+    "id": 1793533829878,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-29",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Major General Yitzhak Brik:– In news studios, they are preoccupied with counting parliamentary seats and discussing coalitions, while the nation is heading toward the abyss. The military establishment, the economy, and society are all crumbling, yet the public g...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793338906548,
     "type": "airstrike",
     "location": "Oman",
@@ -226032,6 +226178,46 @@
     "verified": false
   },
   {
+    "id": 1793533878035,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "“In Search of Iran” ExhibitionThe “In Search of Iran” exhibition, featuring works from the Tehran Museum of Contemporary Art’s collection, opened at the museum on October 31, 2026, in the presence of Abbas Salehi, Minister of Culture and Islamic Guidance.https://en.irna.ir/photo/86308973/📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/tpntpbqwFVxQ-vciwFbFkJWcF7Ag2uAGi2ldgkiPWLtp7A_4t97AJC1eK4UPV9aFXJ5TWhK847xjCJZw7Pfm7JGLqT2h4dGmlrYpfUgcVAlh3GBk-VXRvd77hHrDEP9F0L0B0XCCn4LFD8gw3aaYY1Vt_4VYpi0imNj6X3svqUAyttCcXyfBcJmW3JTaTTdH_5JHfxbB_tcqNGxI4ZpeNY7kCWavkPaRAvOtQOFe8M4LYqb-av3mewfR4q5J2-xfVtMnfgE0Ex7Qu0yZjvxBlzvyBXpg2-cxr3lvY34qvCfI_mzcRC8Ew0kCbnqaEbSfGUgPel566YXXwZQNcr_epQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/T9AyiivAB3AqrMQcNXzX11_3yYQym7G-4zTINJ-vt5S_cyZ20xEnywxudssbwMHuNnZmqWa4Ftq-CwfV5JoQukYs42hirTkROdC52WzyWSZU_WrIqmU9R4Ed8-ztFdjDeTLwl14bBW3AP11mSuTi6fYGI_83TG7LAopmFblp9EmOQWcioIWjOolMqYyIK3GDvxoDf8OgVc3Iir5cBLzSBkDNe6YUxn6O6hPAHnnum9Scfq41U5JBMyItf_bKWLsy8gwEGtK076_z-YqzKugCtRCTyNSjHyaSj0A1HIgV8_RZP_flthWSaHTqBcbfnkjEQms2vrXXCUCqmMPw43NSIQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QmRNGWcBcXuzCEgy1Efm9Th-QBePinOl-8yxYd6EPWU205b1QA7-Ejel9VU-rQHGIhtPaRbnK2E_VPlmssSe2aX_SIPaH0FDLmypkJSNLn3noBgix74HK-F47S04E2jbumtukCU3lDdb0H3XArQZBnIn3AkuQbS1oOCaHOBom33SzhwtqvgT06_-8N_KuXEuXSPq6KYwrD8MP366lqCYWNt-6faYbidNMghDKtGPU20WiwJ6W5afd8wpcMcFCCFLRIqUu2jc0RrP1Zku6kud9_b50EeuaVAa-hcsFBg7QSxE-QF6NV2FWNvfnB5YZNZxFw_XyzIZ3aF-0tcTaCtUvA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/kISvhGdQRIbfPtRLDAZbU8XsttWFQXYvdXYaIyEx5FIwUkl1hcKes5SCm4uyLJGo771KG8StZO6VO3gdQdPmzRTjMynFcoj8QXv7Kpq9rZK7k8sJSx6uVbaBhrbVHvNdn2U2vIVK5BiDL37uytCsAfwLMM2QwV2pQzLUiAzLSUrgTX7-zi96ueKnpd65-xsdl36knjnVn1LuXrVlQJwVHrh5_dx63WkzrC-ke6TufKWDCQy2_XNK009S5dL4XDjycTj8ytzyrK6YkTfUNmLQ7Y1kZUi83XkaCwU53GGoNVg4dTJR8W1L6h74Bi3LxESQISAIb1hqXmZPF__ZHIGkJQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CrB_og9wYSEe_j9Ur0g6vaRvtq7U3B4CPqUT5AcIhaIoabBOBeHWzXZuPiBGvBXm1kGoPvIV8afOeU-QZxDXHipowJVeysBAKfxHgUsozqLVeBMWzb7GSSMVQS_7UZH3SilpUQJ8DzknVfaYx5Lg4j7ZcMDsgII07LW7AWe5Ks2bvqH7UfZXIsWhK4BsUR_d9Aje1iGWv0RFws5iMH8d9RVBr-dlbf5zLbYf2QYxuG1NWRt3XclHehNaKn_OxZ-gWybG1GUF5wYz5ioOOqH4M6q0GZ0Rb4WlWzG6iOD3BYDDvZBVfqFVIcxnKE0XhJZBS_hdYFsfP41Qx6mHflF-7w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/om_c_Un6ywRaLZGn1VurX2rCCnCMNn6gTZBMImEUONuaiVN07unw-NlOU9xkhDEkYT-z62F4Pe1aNRcxZ1P0tPdYiLepKB8pKn5-MwOqgLpQlEiOfNHR8166L_wnWJ3Nje0jF86lyqp8h-2jOxTJm-DlG_A-JBhuH3eqjJ5hW04npoEjbePBptLKl1dXjhJkM7vuCE7SVtQcyWPgNqIZ1GHK1oSqyPoFVC85qyfXUyIP2Esl4T8d8IPdqc_jnz7LdR7EgeHdqDTjjIjsCSPmfQWyOur43U7rWPrWGeY91vTW4sEuZyZb9XeiQykt_mxhSyfNFTctzuptseUhQ1FL0g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793512219515,
     "type": "drone",
     "location": "Tehran",
@@ -226043,6 +226229,21 @@
     "source": "CENTCOM",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Hourly Updates (+ve): November 1, 2026🇮🇷 Iran— Iranian attacks reportedly damaged 274 American military facilities across seven countries, causing estimated losses of approximately &#036;15 billion. The reported damage has raised Pentagon concerns over Iran’s missile capabilities and the possib...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793533890202,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-01",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran Embassy in Mexico honors 168 Minab children massacred in US-Israeli aggression📌 Tehran, IRNA — Mexico has paid tribute to 168 Iranian children massacred in US-Israeli aggression in Minab, holding a memorial ceremony alongside its traditional Day of the Dead celebrations to ensure their memo...",
     "media": [],
     "verified": false
   },

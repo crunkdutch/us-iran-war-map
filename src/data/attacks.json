@@ -336,6 +336,38 @@
     "media": []
   },
   {
+    "id": 487012375,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Strait of Hormuz, Persian Gulf, Oman: Exclusive Iran submits evidence USIsraeli attacks",
+    "location": "Strait of Hormuz, Persian Gulf, Oman, Israel",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Exclusive | Iran submits evidence of US-Israeli attacks on ports, maritime infrastructure to IMO📌 London, IRNA — Iran has submitted documents and photographic evidence of US and Israeli attacks on the country’s ports, civilian vessels, and maritime infrastructure to the International Maritime Organization (IMO), warning that the damage poses serious risks to maritime safety across the Persian Gulf, the Strait of Hormuz, and the Sea of Oman.The documents have been formally circulated among IM",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 3,
     "type": "naval",
     "status": "confirmed",
@@ -165866,6 +165898,113 @@
     "media": []
   },
   {
+    "id": 487016989,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaIsraeli media Initial reports shooting attack",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media: Initial reports of a shooting attack in the Hebron area.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/9c50e7fed5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dTwtxcx-sfbTD07Ec8uEBJyEWG1nnU4gGRCpeDFtyPJdPWJP9lXh-nkBf0memIyV_sE52NhGJVIh9xBrqZagfrZde37X_OCGlyiIFtpqSNfjOSOjUCE7gJo3DYimbYoOj6C_ABNFX7k6_4o4mWoiCFHczObuhq8HGlYVYmJ0espsdiNro-LZSzx3SFs_--6LLVgkZdYCwMHKphXAPjsTrg67A39GMiPn14u10yeMwyDy5bf0UTQbJM2DikwjqpNzonLjMEHplITQOt4F_Cko73e4_eMUWO95zWMbOwse6joLVEipTo0djNE35ombX3P4MmrGVDWWbA15qXhOpQOsLw"
+      },
+      {
+        "url": "https://t.me/mmirlb/41157",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/dTwtxcx-sfbTD07Ec8uEBJyEWG1nnU4gGRCpeDFtyPJdPWJP9lXh-nkBf0memIyV_sE52NhGJVIh9xBrqZagfrZde37X_OCGlyiIFtpqSNfjOSOjUCE7gJo3DYimbYoOj6C_ABNFX7k6_4o4mWoiCFHczObuhq8HGlYVYmJ0espsdiNro-LZSzx3SFs_--6LLVgkZdYCwMHKphXAPjsTrg67A39GMiPn14u10yeMwyDy5bf0UTQbJM2DikwjqpNzonLjMEHplITQOt4F_Cko73e4_eMUWO95zWMbOwse6joLVEipTo0djNE35ombX3P4MmrGVDWWbA15qXhOpQOsLw"
+      }
+    ]
+  },
+  {
+    "id": 487021604,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — West Bank: Occupied_PalestineIn Name Allah Most Compassionate Most",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Compassionate, the Most MercifulIssued by the Resistance Committees in Palestine:The Resistance Committees in Palestine commend the heroic operation carried out by the heroes of our people in Hebron, and affirm that the continued crimes of the Zionist occupation against our Palestinian people, the attacks on our holy sites, and the abuse of our brave captives will not grant this entity the security it deludes itself into believing it can impose b",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 487026220,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-23",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Aden, Yemen: Armed Forces grace Allah carried strikes",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Our Armed Forces, by the grace of Allah, carried out strikes targeting gatherings of forces belonging to the Saudi enemy at the so-called Al-Nasr Camp and at the naval military base in Aden. These forces are being assembled and equipped under the supervision of Saudi officers, led by Saudi Brigadier Staff Officer Badr Salah Al-Harbi, with the aim of attacking the Yemeni people and their Armed Forces.We reiterate our warning to those who have been deceived not to heed the Saudi enemy, which seeks",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483721308,
     "type": "drone",
     "status": "confirmed",
@@ -169540,6 +169679,49 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 487007762,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Minab, Israel: Iran Embassy Mexico honors Minab children",
+    "location": "Tehran, Minab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 168
+    },
+    "description": "📄 Iran Embassy in Mexico honors 168 Minab children massacred in US-Israeli aggression📌 Tehran, IRNA — Mexico has paid tribute to 168 Iranian children massacred in US-Israeli aggression in Minab, holding a memorial ceremony alongside its traditional Day of the Dead celebrations to ensure their memory is not forgotten.Hosted by Iran’s Embassy in Mexico, the ceremony brought together around 200 political, academic, cultural, and media figures, highlighting shared Iranian and Mexican traditions of",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2e5fa2dcfd.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nCOnp6PRFfjxoN0vGTO3vYRWYYM2r7Q6JjjJF2K-39TvKZ2Dph4naXT9GyOP0ClyVieWLUfGNkHD-7gwSNq3xo_4NgviskSGu33kADRMs04iZpc3c6ir0YnfQ5a6j03P20f2MtAt_-MOvdBMYlV70PI1fWpYF7dMs6Rqt_IdPKkpfAGqJlsi9cGA1htjXSgZU6AVenrTYh5e751yccH_IEU7IUM9lpPV_3yEqhxXzBLp30jIPr1sDIeCykEspmeAT6pt9lMwVw8nfJi89qAUAzL3lBEdcRocnKo0bttOp5aVFdxnl3q6DcenqelahZbApkk1x08LCmsBW4Ri8kSg6Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/64063",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/nCOnp6PRFfjxoN0vGTO3vYRWYYM2r7Q6JjjJF2K-39TvKZ2Dph4naXT9GyOP0ClyVieWLUfGNkHD-7gwSNq3xo_4NgviskSGu33kADRMs04iZpc3c6ir0YnfQ5a6j03P20f2MtAt_-MOvdBMYlV70PI1fWpYF7dMs6Rqt_IdPKkpfAGqJlsi9cGA1htjXSgZU6AVenrTYh5e751yccH_IEU7IUM9lpPV_3yEqhxXzBLp30jIPr1sDIeCykEspmeAT6pt9lMwVw8nfJi89qAUAzL3lBEdcRocnKo0bttOp5aVFdxnl3q6DcenqelahZbApkk1x08LCmsBW4Ri8kSg6Q"
+      }
+    ]
   },
   {
     "id": 480276116,
