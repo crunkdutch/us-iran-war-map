@@ -169971,6 +169971,75 @@
     ]
   },
   {
+    "id": 487243143,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Abadan, Persian Gulf: Captain from Abadan martyred attack vessel",
+    "location": "Abadan, Persian Gulf",
+    "coordinates": [
+      30.3392,
+      48.3043
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷/🏴| Captain from Abadan martyred in a US attack on a vessel in the Persian Gulf:Captain Nasser Ebrahiminejadan, a native of Abadan, was martyred on Friday after the US government attacked a vessel in the international waters of the Persian Gulf and shrapnel struck him. A farewell ceremony for the martyr’s body will be held tonight at 20:30 at the nightly gathering site in Shahid Montazeri Park, Abadan.🏴@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/O7sMAlRjiYbbetH3ZwlLDy4Z8rNmmRNLQzOxOL1V5E0rS8eba2GDZNJUSXlsmxXTW7UK7BtQrNkSxYGtQRJ-n9EJW34nklU5eTE374f6IqvaqnsuKDVBd7AM47RrFtYNk-jH-6XOvab-z9gf35pL1ZYJbWpelicw2ra-DztVH6vsYEiEsdtTMyYSFiBnqwwwSQgQ1Qgzqe1huppvq6QDCH8IcwSqkmIG0r3gT1pHEFcS9Iu1OfsvX5NgnCyLvY3pbF2i2nU1i34hCNJJF49RdosTlQXoRcgMaWDHwbHCcTnTpsMjgretg-MQHboG7vhUxrrE4CMYoGnuEj3sM7TWow.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 487247768,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Hormozgan, Hodeidah, Aden: Hourly Updates November 2026 Yemen Yemeni",
+    "location": "Hormozgan, Hodeidah, Aden, Gaza City, Lebanon, Syria, Yemen, Qatar, Saudi Arabia, Israel, Gaza Strip, Qusayr",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 35
+    },
+    "description": "🟡 Hourly Updates (+ve): November 1, 2026🇾🇪 Yemen— The Yemeni Armed Forces reportedly launched missiles toward Khamis Mushait and Abha in Saudi Arabia. Explosions were heard and sirens sounded in both locations.— A Yemeni missile attack destroyed an ammunition depot belonging to Saudi-backed forces at Al-Jalaa military base in the Salah al-Din area of Al-Buraiqah district, Aden. 🇮🇷 Iran— Iranian Army spokesperson Mohammad Akraminia said Iran had purchased Russian Sukhoi-35 fighter jets befor",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
