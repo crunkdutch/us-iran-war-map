@@ -170040,6 +170040,43 @@
     "media": []
   },
   {
+    "id": 487312441,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Shahroud, Taba: Member Irans Assembly Experts Mohammad Mahdi",
+    "location": "Shahroud, Taba",
+    "coordinates": [
+      36.4181,
+      54.977
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷Member of Iran's Assembly of Experts, Mohammad Mahdi Mirbaqiri Shahroudi on the latest directive by the Leader of the Revolution Imam Mojtaba Khamenei:A revolution has taken place in Iran over the past few days; the coup plotters have been dealt a blow, the full extent of which will soon come to light.From now on, orders to the military will be issued directly by the Leader of the community (Imam of the Society); all intermediaries and advisors have been removed.The Supreme National Security",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Z7IM-Mnk0ukwqi7_W6N9rpeueI482BUix7wxMGhS7hGSc3BKtTfnKhNDwv7o42Rk4iHZCR8sv2I201X7ehbTHAAWhiny_O9DH76tvVD6oiwCduKhuJdEe-6-V8LFDumBgYlwZ3kMG_SVH9zAap5xydDilMVwdM-8izQkFmrEgeeFeG_WpI2nPS19YgIkzJr0HppBN2mAGVr568hVzek8Nr4cy862_pJ-hjNYN-bplT-KKlGont206Ex334tjAz0niuh0DKd2xkoeG7gyePUGGdng-WhLFowdl_ecAto6lIgi-mbTT1sY6fvsAZ8ey2ZiLZjMGNhTU5QcX3MkbDRukw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
