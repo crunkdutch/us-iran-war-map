@@ -169933,6 +169933,44 @@
     "media": []
   },
   {
+    "id": 487178498,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Strait of Hormuz, Israel: Iranian envoy derides European concerns over",
+    "location": "Strait of Hormuz, Israel",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iranian envoy derides European concerns over economic fallout of US-Israeli aggression📌 London – Iran’s ambassador to Germany has criticized Western governments for remaining silent over the US-Israeli military aggression against Iran, saying they are now expressing concern about the economic consequences of the same aggression for their own countries.Majid Nili made the remarks in a message published on Sunday, in which he took aim at countries that failed to condemn the military attack on ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64065",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/VNtYMAJBTTDkMRmmlIwtDm7fpINjPyHW6VRN8NqZw625Zx8l7eX91D8LlleXcOI7XRRah1sRrJZGvT32kLFM8qmWmJqrzdYo7lY4q33_l54dAZXAh2agXHHU3A6m3-7u63eBcm7HYl5x3JIoJ8LBgrqqnl7Yem49zv__bodrcaI9uZidl78T00TaEn2sSZ6uVustI5rnGKeuRNzvxa3AKivpJzdL3CLUOBNSRtT_6qMg5Yz0hTR8eLtRccBr44dFlgHPIrPtuFtO4Soj3hhIXoN7IHScdSB7CJEx0YZyLXMiB8wMNOXmxvKDr70PLoJmWmiO-wLjiwzkJhxcQKTHOQ"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
