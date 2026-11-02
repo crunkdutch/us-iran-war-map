@@ -226485,6 +226485,83 @@
     "verified": false
   },
   {
+    "id": 1793584420922,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "⚓️ | IRGC Navy:Explosion of two violating oil tankers in the unauthorized route of the Strait of Hormuz in Iran.Two violating oil tankers exploded after striking naval mines in the unauthorized route of the Strait of Hormuz in Iran.One of these tankers was a supertanker, and due to transiting throug...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/5e314b9eb9.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/t_3POxy0vZtiNDDxTA-CZsMeQzW95ZrhKL8E2I1Jaq1KjIGrH94vnMxg-2tu5_eahK_EAPTCTVAU8pELCoYgH2_AkOQZJT9opRmKkOWfhSX68eiLfmgMREaghdzo9PPUJB-41GLatpN01ePaTJgjMEOYjnM2com0QiR1aB8asrupsFxjfAvrhGpBC64BfuNsUfVHuUQH-Mxq8VmNuJ56WL7paOizphkluqqpK8a3r9LX1AdyZ5a5_RoI32d9JX6vps-dgzY97QyO-DUf_sSPaamWjoc6CRwGyvcm2Jy4xSGImRrCbTpo6ulXLp3YS6nerUDsi07XVFyF8aM-nq_SIA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64100",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/t_3POxy0vZtiNDDxTA-CZsMeQzW95ZrhKL8E2I1Jaq1KjIGrH94vnMxg-2tu5_eahK_EAPTCTVAU8pELCoYgH2_AkOQZJT9opRmKkOWfhSX68eiLfmgMREaghdzo9PPUJB-41GLatpN01ePaTJgjMEOYjnM2com0QiR1aB8asrupsFxjfAvrhGpBC64BfuNsUfVHuUQH-Mxq8VmNuJ56WL7paOizphkluqqpK8a3r9LX1AdyZ5a5_RoI32d9JX6vps-dgzY97QyO-DUf_sSPaamWjoc6CRwGyvcm2Jy4xSGImRrCbTpo6ulXLp3YS6nerUDsi07XVFyF8aM-nq_SIA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793584371246,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC targets a vessel violating regulations in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793584428131,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-11-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 | Subtitled translation of the documentary on martyr Mohammed Deif, published by Qatar sponsored Al-Jazeera days ago. (Subtitled by RNN)🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64104",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/lIQuJecAUCt1qmVOvBhNslLWXrOfdTSoxBRowib6BCJm-6Z5F2D5wdMRiddmfTzMrFCEMG8NfeoRf_LuMqJZ-RTHJ5nSmgwrtCO3OYmpXxwr6gB0L8AmNzwHT2RrEscKEWpf_pFSqdB7D9JDhmmD3_zrxM37MlPUn7iG4M2krVFEHevZdxC-j7fguv8UfCqcxpIT_X8DUl1lsfSiOP5ngUYT8xL52pEiveetPWxW-WJ0hnRBrahNGd1R2jePbOyP31hIAicksVF75VghEMQHDt-ZG_GJljfKIcWs6IjkP1VKbJ5tO2ABsaaQIKYvlihfJPGOZ21bljDKBJZrzxgC2w"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793584430213,
+    "type": "rocket",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-11-02",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): November 2, 2026🇾🇪 Yemen• Saudi warplanes reportedly carried out five airstrikes around the Bab Al-Mandab area.• Saudi airstrikes reportedly targeted civilian trucks at the commercial port of Ras Isa in Hodeidah Governorate.• Saudi airstrikes reportedly targeted Ras Isa Po...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
