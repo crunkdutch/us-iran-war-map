@@ -223958,6 +223958,26 @@
     "verified": false
   },
   {
+    "id": 1793620513033,
+    "type": "missile",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-25",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:With the help of Allah Almighty, the Yemeni Armed Forces carried out two qualitative military operations targeting concentrations of the Saudi enemy and its weapons depots in the Salah Al-Din...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Ke-yVhD0OZYpxU4T-g9_VK3Qk7QVqfecX6r_Md81GlXSUWZnXL-Gyrkn3pyTjd-Ghic08xKREsihl99TDwzBGL8-qtbA5FUgeXbZd1s4sHIYOTBltKKiA3RgpuNy21dyAYFh1KrdUy8XYcP-ImTQEy_rkJwMFonzULnkYm1CFxZRkQ0j54PhevNNz-U20ECT_nAhuwbB4mnNQYpJvSYhUN3r7_lb-12EcF5exVkgzgIe7k8mIX6YkrxgjHJqeCTAqECLTxFZDdzfkujBXtpFHUw_7d4xbSIhlq2PbnbG9ezyE3FQW4XZM6B1ldw-Imz6EUKUgMcnYB4plk0G6IBUfA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1792980314769,
     "type": "intercept",
     "location": "Tehran",
@@ -226252,6 +226272,21 @@
     "verified": false
   },
   {
+    "id": 1793620523203,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-30",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Navy Command:From October 25 (the date of the showy visit by Brad Cooper, Commander of the US Central Command (CENTCOM), to the Strait of Hormuz) until today (just nine days), 11 non-compliant oil tankers have caught fire in the Strait of Hormuz, so...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793418405584,
     "type": "rocket",
     "location": "Sanaa",
@@ -226722,6 +226757,51 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1793620515484,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-02",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Commander of the Iranian Revolutionary Guard's Naval Forces:In just 9 days, from October 25th (the date of the U.S. Central Command's \"CENTCOM\" commander, Brad Cooper's, visit to the Strait of Hormuz) until today, 11 oil tankers violating regulations have caught fire in the Strait of Hormuz, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793620541825,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran seeks regional partnerships to bolster food security: Deputy foreign minister📌 Tehran, IRNA — Iran is ready to expand scientific, trade, and investment cooperation in agriculture with countries in the region and beyond, Deputy Foreign Minister for Legal and International Affairs Kazem Ghari...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793620496299,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-02",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Ex-FM Kharrazi remembered for promoting knowledge-based foreign policy📌 Tehran, IRNA – Iran’s foreign policy should be grounded in scientific knowledge and long-term strategic thinking, says Secretary of the Strategic Council on Foreign Relations Jalal Dehghani Firouzabadi, paying tribute to for...",
+    "media": [],
     "verified": false
   },
   {

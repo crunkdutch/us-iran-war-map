@@ -170312,6 +170312,49 @@
     "media": []
   },
   {
+    "id": 487654679,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "CENTCOM Naval Operation — Strait of Hormuz: Commander Iranian Revolutionary Guards Naval ForcesIn",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Commander of the Iranian Revolutionary Guard's Naval Forces:In just 9 days, from October 25th (the date of the U.S. Central Command's \"CENTCOM\" commander, Brad Cooper's, visit to the Strait of Hormuz) until today, 11 oil tankers violating regulations have caught fire in the Strait of Hormuz, and some of them have sunk to the depths of the sea.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/5e314b9eb9.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/t_3POxy0vZtiNDDxTA-CZsMeQzW95ZrhKL8E2I1Jaq1KjIGrH94vnMxg-2tu5_eahK_EAPTCTVAU8pELCoYgH2_AkOQZJT9opRmKkOWfhSX68eiLfmgMREaghdzo9PPUJB-41GLatpN01ePaTJgjMEOYjnM2com0QiR1aB8asrupsFxjfAvrhGpBC64BfuNsUfVHuUQH-Mxq8VmNuJ56WL7paOizphkluqqpK8a3r9LX1AdyZ5a5_RoI32d9JX6vps-dgzY97QyO-DUf_sSPaamWjoc6CRwGyvcm2Jy4xSGImRrCbTpo6ulXLp3YS6nerUDsi07XVFyF8aM-nq_SIA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64100",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/t_3POxy0vZtiNDDxTA-CZsMeQzW95ZrhKL8E2I1Jaq1KjIGrH94vnMxg-2tu5_eahK_EAPTCTVAU8pELCoYgH2_AkOQZJT9opRmKkOWfhSX68eiLfmgMREaghdzo9PPUJB-41GLatpN01ePaTJgjMEOYjnM2com0QiR1aB8asrupsFxjfAvrhGpBC64BfuNsUfVHuUQH-Mxq8VmNuJ56WL7paOizphkluqqpK8a3r9LX1AdyZ5a5_RoI32d9JX6vps-dgzY97QyO-DUf_sSPaamWjoc6CRwGyvcm2Jy4xSGImRrCbTpo6ulXLp3YS6nerUDsi07XVFyF8aM-nq_SIA"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
