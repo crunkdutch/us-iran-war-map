@@ -170120,6 +170120,38 @@
     ]
   },
   {
+    "id": 487451114,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Syria, Iraq, Israel: Najaf school failed establish even single",
+    "location": "Syria, Iraq, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The Najaf school has failed to establish even a single meaningful deterrent against the idea of Iraq once again slipping under American influence. Iraq appears to have succumbed to American pressure and, in many respects, has become a silent spectator to the process.The system is witnessing this almost helplessly, with no clear or decisive stance on the increasingly visible reality that America is influencing what Iraq does, how it conducts its affairs, which borders and routes Iraqis are perm",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 487381756,
     "type": "drone",
     "status": "confirmed",
