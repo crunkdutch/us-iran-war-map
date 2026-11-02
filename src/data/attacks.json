@@ -167603,6 +167603,123 @@
     ]
   },
   {
+    "id": 487733376,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Brigadier General Yahya",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:The Saudi warplanes carried out 119 airstrikes and missile attacks over the past 24 hours, targeting civilian infrastructure in the capital Sana’a and the governorates of al-Jawf, Taiz, Saada, Amran, Ibb, and Lahij.The attacks were carried out by F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif airbases, along with missile attacks launched from Jizan, resulting in ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rbY9O50svjYKZgsFYTVjMS3zxJr0vJMxSk4eA2R__0NY7BBKPakHqLDheZ-ARazQ9XvtOo9J0VIK9gVzJJ_Y2MkPMbmR39t2Dj4oZV4byB-aBS4dw38Gz6qYFTf7psZfcF6J2mb8upKzkobH0BWkEYijWgqS_I3LNNdo_r_R4tzCJlkR9GzMeRid5zZAbJhHTkaXxMTaHT-2bXodrrkYo3ZbZi8NNnsn1bL-YXUKjvAGVkxDRw6WTOxdk4sTi1xWiLUIK3gta9kwqv87wNs9kNXya7H9ubKw1GlFOxygmA9cnXUqx18671aA6oebTFP90-wEMeGkYqC4Y7cV-zc6Eg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 487738002,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Saudi Arabia: Saudi Arabia attacks water solar power",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 ❌ 🇾🇪 | Saudi Arabia attacks water and solar power facilities in Sana’a:Saudi Arabian warplanes targeted a solar power plant and a drinking water well in the Arhab district of Sana’a province, according to Al-Masirah. Meanwhile, an Al-Masirah correspondent in Al-Jawf province reported seven airstrikes on the Al-Muton and Al-Matmah districts.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c22cb966ea.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m90ZijjS_bDubRnTpNay2u1sO9CIh41oBfyq6_VozUfdMaskzjzBvCQdz2q9oTGXSb1ToaiBG0kmCrz4kZWGGnrmYtDMRqHCl9ZXHgHqbUl0S38SgXbYm5fEwUrlQY-fwKQMhtiwjtssNwD5TmzsZaqcK_L98c89g8FeeNfl3TKeU1dGPrijg3CgYr3BF44REXXPcprlJoUAxFaOa-QTty-SGqgLdSVxa-SEI4wUrlCkq1Coat5HUW4SCEU3tM07ZX2QKiG7lLVrwcaisjV9EzGUauKcwlromQhKEBvCwD-RR3Dm-FICRw68-Umfv4JrywUcvijnpyOztWW-6OaMng"
+      },
+      {
+        "url": "https://t.me/Irna_en/41343",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/m90ZijjS_bDubRnTpNay2u1sO9CIh41oBfyq6_VozUfdMaskzjzBvCQdz2q9oTGXSb1ToaiBG0kmCrz4kZWGGnrmYtDMRqHCl9ZXHgHqbUl0S38SgXbYm5fEwUrlQY-fwKQMhtiwjtssNwD5TmzsZaqcK_L98c89g8FeeNfl3TKeU1dGPrijg3CgYr3BF44REXXPcprlJoUAxFaOa-QTty-SGqgLdSVxa-SEI4wUrlCkq1Coat5HUW4SCEU3tM07ZX2QKiG7lLVrwcaisjV9EzGUauKcwlromQhKEBvCwD-RR3Dm-FICRw68-Umfv4JrywUcvijnpyOztWW-6OaMng"
+      }
+    ]
+  },
+  {
+    "id": 487742629,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Unknown Airstrike — UAE: Satellite imagery reveals expanding spill coast",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "❗️Satellite imagery reveals expanding oil spill off UAE coast following tanker attackAn oil spill off the United Arab Emirates’ coastline continues to expand rapidly, forcing local authorities to restrict public access across multiple northern beaches. High-resolution satellite imagery reveals the slick advancing toward the shores of the Emirate of Umm al-Quwain.While the UAE’s Ministry of Climate Change and Environment confirmed on Friday that containment teams are actively working to mitigate ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HQWdxNziv4rpCR8o0wiTsG-ySazrYiJeZo_e2LlvrMHxr75V1W38TMpCi-xbs15-Z6ScAB4ZAW6atBMbE6ldWGC09rTNUN8FZy_cXCnafizLFvaf2LwdFeUAgcw-cgLjvE3tbvVM4bt-4D72TUv2DFKIi8ncYHd1AeV35qwlXAYwtwAIYjyRXTOmJozO8GVrlYFgrCG2ZMF9W-QrX7TCzaJ1OgdmfjbOJfmvFvrT4uMXfaPLXhEOEI10KAOhfYm-ZrRV_XaGP6rSLeYvnP6o8tKTb_9RTCHxX7SEvQoBWDL8S00V9dIWtePNT_Qy-Xv0x5FuTc3JK1kXxLVrdOfJ-g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 483987324,
     "type": "drone",
     "status": "confirmed",
@@ -170476,6 +170593,111 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 487807512,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Breaking IRGC targeted violating tanker Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — The IRGC has targeted two violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 487812154,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Doha, Strait of Hormuz: Exclusive Araghchi says Iran more prepared",
+    "location": "Tehran, Doha, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Exclusive | Araghchi says Iran ‘more prepared’ for diplomacy and war; warns US to choose ‘wise path’📌 Ashgabat, IRNA - Foreign Minister Abbas Araghchi says Iran is prepared for both diplomatic and military scenarios “more than ever before,” stating that the ball is now in Washington’s court to choose between a “wise path” of negotiation or repeating the “mistake of military aggression.”Speaking to IRNA upon concluding a trip to Turkmenistan on Monday, Araghchi said Iran has presented a clear",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/l6LVuzyZUdJwl6i0x9pOeIZaNOjXbD1iGqZ3-pDPFnhHzvDgDv3X_ZzZzqZsU975JP9O2y5hsR7qJtjXpieiJoqfiS2SPqUa8Pjhm5OKxqhsTsrhE7yuG9eyLFkU39zk3kVNOshGV504w3kkPEKimrY4jwUq-5Sc1RPJJWWq-LM6AsdGn-gWKiquq-xv9s-9u8i1mHAoY4RGf3OjdlqNfEB_Dk4FLrXGF0J92FDllS9Sequ9sdXog8mi5RzXKoGdd_HciggSCWBuZjE_ympcW_oNzEgvzg-hfjP22xNnOFSFcLwboZqabBRhZ1NqZtEqgEvBs0MSGa94q-65cELERA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/luRUB_Prsd9diIIEAY-zKyQe31niqaS_dYg4s2AbX44BuYRIG0QUW-4C37ypifDlAo4_qDj1w-fr388nOqEalznj_s2SBO9dzA5CMCbVaW3EsWRDiyEbmpibltQkvSzVYMVrag4HtU8S7n9tBjQNjbbgwdxd0_rUfIy6J0iiK-0h3ABBvA-okw65uKEdohG8xsxQof8gLBsuJKhiASxowt-Q19_aY6nBIiu6u4DdBDvwF8_RCB-8vLtt3yuDqRC3vtme_RmWVFyiSoejGUuwkOCvUOCO8ol-2LIhFEludwYhNUk7_pw1wzsHiKyLtn216OkJwx6nw9JgVwy-ENu7Nw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/je8bmTW6EY8uN2JHHQ9yg8PTXibe4qgTcKRQ8FTRUOXmtiK7Ko7-uGNxZdfsCx7aeBxtAXG82DZyi0uYNJWsHopBCHZ7wnQzu-k4zHocYABYbJTb91-SKfUokDjQtFNedVryyTpzwhRArs467hkZGRfMd_Xd_66YTlPq6pxsWU4YDJrKvvNGcpkg9ty20hQqTSMxTQoHnSAzTolQnPoSN_cE4cViSJTEIlMrGp9k5qm4SrCitKB887ZSDiLy5QeCCXG3G2OMAHoOkZWXs-apmrauue9B0rxYwWNt3O069QzFa0mgRCgO0--wmmf7vrFFN6EjA2tB1pNbh9f-oNlp0A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/p6OaBsGV16tud7d2DY59Kk7wkPywsUdZkiNNP0YRemfngSdRtLNDKEFRVTwImUVu_9WVMjmQ7cuhkdJL4M111k-hUeew4jR0ZMtJdSApaebibP0xGxtis8pPZWoKxOjfu7Bnvb4P21Yl-hgXL1QXmFOoIsqz0By9QxZKuxB5gRUXdOdpYaYRaGw2kSyzX_Rq2BnbnIV1LiNPP6HWnylVt_pVOZzivzbT7eKvoRtCJSOtE53G8ufDfbWT6Zlh5-mHfipYYjeHih351MY1Fmjmw2PdIwpizQvIxT9l-QhclStM7Tt_7SKnxOaJpm2RmP_MSA9R-a3Nscni4jkXBKCAgA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vnr25SDAjE2qjIdngJqiutD9iDdo6_Jn7BSF3AwgeezsEspwYJBjVf7-4CmQJMaNlGwAbEdcS9tl4kxKR2jpQDE66n43GSP4aoGqGjJnxcZvZlyx8ipnaAL1TWyEY-qh3lDTpVK8LmTy1iLpB04SzI8zxTE_4efC0y-Zkk993o8CSLmgQ8rRWlrZmY48weOqldQmtlBJJNLJG7L5v0fmRAu-O44aHQopEhNiBC5e49sl4E_bVJaaUmzf3mEbAGqwL-YRqJwV-0PhIMTqfJs24P97Yadl_cfITy8KfhUfHRYXFkvgEDkcbJ5-UaKuCHr0ex33ETQ6xsEdrISnwPCoLg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/svNipOmQ1cxJvbZ8XQdCJXN72e5wX7CSpXx-7rSZqx3jo-rTy34XaklsIF62HKgoG_x3Ys548ZKr8YjPU_fKp3ko5sGbKsbhK1bjxkzaC3Q2JbQDSn-PtoDCckmDyIiaPM_kO4CbVOQAfXq864UpEdtsMoQeGKPVeL1KuIF0hFWEPJj17resyWB4VGfbGyh39pIZPGWZv93pR_ljKz4UY7ZDMLFFaUxLJPLNvdPihiv4G7ATOBBbchXS73REM_FvCzWMj_xrbwUjCT5iwjMmA8CmVdGNUk01FjdyI_OJ7oIFXlB4bFmIEpGiqyATA_WDJDi-LriZxNuVoZKJ0b7Bxw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bRbCAero-TfxVU31Njd2kwC0l8YgS4D_el0UDMraep1b3SWnzOizJfnngdIjjt_aCz6dmpRdqUmGMaBexiKpsv1GEd9fmzg1_xeinVp8hMuS386Er1HXhNeETthDUK37VC9mR7DMiIQ-efRTWvVWVUj3YoAvdClVosqHKF6vpE-D7eHC_-WvvLnDa8zwn3U1TcO9vCO8YCfAYdIOIv6XQ9fpHuSmbzR0KOW1fFap3_PeFPHPIsAQ_3jzht9ng7r15PWGf9ZMytiac9bIU_9l2baF5h1fwbXqi9TAfHS_-rs9DdMBWbCcpTVE-s1tYSK6dLjGHtFSqT-yBcnQD1CLYA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/amSdSqGuG8Etk2U7UegjyxFWrEvch-GuoaADlCuCJsHtZAB3gUXYOu5taasBFnLE9aiNpf_W6qt2Ma40eG4IIF-LZ_n8wrO-nbSoHUzNwqsRnxR-u-Y6rRKn4P2Bxglnm-mkmel1qgCUHDPIHVdqeuNVWeuCM4ldA34z2XWRzXPrTXXrq3uiJDQ3z3BOpLXoxt4f5QVcn29KjIJbbIfgOoZ8q99TKTch7kfF3r1b2kmUptMHvj22Ysa5fi3YZWp_lMtguOwb1D-ePuq-CrBeQHXKT4cHU3kaagmHd4pVLlazq9zY8Nj3k-U4PlK2k6iCrBVIlaSwwrAWLeRLoQosOg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JsrGT8jG8RridsBJ3A1MUZSRXzERgtgVmNez6Cl2rD7Gf_YzadJJCAX46c4XzMaJwUKD8iVXNXXKrvS5SpUeHNqtEYnJ8tLwNV-POzz0AooUuPfSqaxOHu3pOevv77Dkm5FFjPRGxQJBk5A84j1uEwajbWXbCOuH6BVjsPN-3xP-VqyCI63fU2Uz8zy16yzBrdcj4zYwhX4W9vqpXcZX6zw6YAbwX0bMdlKNXjGoMzKRIKss2sMcXWbkdSz9VyrSczYF6EQVxbFnNdiJyF5lRoMhHd9dMISsHnEfNay5lRhsPkoljpvt0LfEcpOSCTsIzx4OGf1u_r_DzdGnCYJCVw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/naT9Yi4GWK8HKnkWs9TbHwhV7yC2E8S18RFDmqioQHJGniGy9aP2mQmdyQGel9DRjlIxony-JQqCDm2vzitjqRdH-fLrA6LFV51xZX1lcvL0YkxMxeorHh_ic2NM_PGx-ncZG2ALQaqODXBlzVUADepfjyJnpN3X_CaPvIjRaJZ8gbPuJYbZQ84RdCmJUn3RU9fn3wWsRUvfrmKR8mDDve0NlpRqkKu0m3PQpza5h3FDo6rjqtSVIWWFLR24o4BaV5-eXdSTNjxL75rqmz8ic5P3nbplmgZoVHGYMksKCZmkLtHeYAaoFVFRh47E6E_UW1N2GUqYpHSlE3tlZE3mDA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,

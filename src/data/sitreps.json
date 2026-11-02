@@ -224625,6 +224625,61 @@
     "verified": false
   },
   {
+    "id": 1793634912673,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-26",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:The Saudi warplanes carried out 119 airstrikes and missile attacks over the past 24 hours, targeting civilian infrastructure in the capital Sana’a and the governorates of al-Jawf, Taiz, Saada...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rbY9O50svjYKZgsFYTVjMS3zxJr0vJMxSk4eA2R__0NY7BBKPakHqLDheZ-ARazQ9XvtOo9J0VIK9gVzJJ_Y2MkPMbmR39t2Dj4oZV4byB-aBS4dw38Gz6qYFTf7psZfcF6J2mb8upKzkobH0BWkEYijWgqS_I3LNNdo_r_R4tzCJlkR9GzMeRid5zZAbJhHTkaXxMTaHT-2bXodrrkYo3ZbZi8NNnsn1bL-YXUKjvAGVkxDRw6WTOxdk4sTi1xWiLUIK3gta9kwqv87wNs9kNXya7H9ubKw1GlFOxygmA9cnXUqx18671aA6oebTFP90-wEMeGkYqC4Y7cV-zc6Eg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793634957222,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Senior officials from Saudi Arabia, Pakistan, and Turkey to visit Tehran: Fars Agency publishes a picture of a Saudi C-130 Hercules military transport aircraft at Mehrabad Airport in the Iranian capital, Tehran. This is the aircraft that carried Saudi…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793634936375,
+    "type": "airstrike",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "date": "2026-10-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "❗️Satellite imagery reveals expanding oil spill off UAE coast following tanker attackAn oil spill off the United Arab Emirates’ coastline continues to expand rapidly, forcing local authorities to restrict public access across multiple northern beaches. High-resolution satellite imagery reveals the s...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HQWdxNziv4rpCR8o0wiTsG-ySazrYiJeZo_e2LlvrMHxr75V1W38TMpCi-xbs15-Z6ScAB4ZAW6atBMbE6ldWGC09rTNUN8FZy_cXCnafizLFvaf2LwdFeUAgcw-cgLjvE3tbvVM4bt-4D72TUv2DFKIi8ncYHd1AeV35qwlXAYwtwAIYjyRXTOmJozO8GVrlYFgrCG2ZMF9W-QrX7TCzaJ1OgdmfjbOJfmvFvrT4uMXfaPLXhEOEI10KAOhfYm-ZrRV_XaGP6rSLeYvnP6o8tKTb_9RTCHxX7SEvQoBWDL8S00V9dIWtePNT_Qy-Xv0x5FuTc3JK1kXxLVrdOfJ-g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793074179324,
     "type": "drone",
     "location": "Red Sea",
@@ -226873,6 +226928,51 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📄 US aggression puts livelihoods of Iranian fishermen in danger: Official📌 Tehran, IRNA – The CEO of the Qeshm Fishermen’s Cooperative says US military aggression against Iran has threatened fishermen’s livelihoods, destroyed fishing boats and vessels, and killed several fishermen.Speaking at the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793634972983,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-02",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِO Allah, have mercy upon all the martyrs, heal the wounded, comfort the grieving, and protect every innocent soul suffering from war, massacres, and destruction.O Allah, remember the people of South Lebanon, particularly Aitaroun, Bint Jbeil, Meiss el-Jabal, Tayb...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793634979384,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted two violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793634981302,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-02",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen’s AnsarAllah has launched multiple operations against targets in Saudi Arabia.🔻@enemywatch",
     "media": [],
     "verified": false
   },
