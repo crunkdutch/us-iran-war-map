@@ -170355,6 +170355,129 @@
     ]
   },
   {
+    "id": 487719478,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tel Aviv: Ramon Airport occupied territories reportedly packed",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️| Ramon Airport in the occupied territories is reportedly packed with fighter jets and tanker aircraft preparing to attack Iran.Satellite imagery from Sentinel-2 dated October 31 reportedly shows at least 25 US Air Force tanker aircraft at Ramon Airport. At the airbases around Tel Aviv or at Uvda/Ovda, only a small number, fewer than 10 aircraft, are reportedly present.P.S.: The ideal target for this base would be a tactical nuclear bomb, so that the entire airport could be obliterated.🔹@e",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ey2Q5sJcf8E3FCGPQ7nAIhxeapRsm_EW--WSDeOTiNEeG2jpGEtGidbOAevXMeSXJlRGSYxoCoCpQxKpp1uv5z2JmKKQZbBlclPM2q5uMktPvVZrUVZPghvQ4MH3hFg_DRDdcKg43q2Rv56ohUmuO0ZNDZS_wz_a-5_T335lv6JxxaONXHJtvhyjwfFE6lWDN0nf7cqyZAmH5Uv98O_EwVudp6m-7j-gpc6uL8PkxzCeSmTc-78IOGk8wLsMlpT8Msxi2iM-ZYU2XMbjXPRBXXbxgY-p9n3xmUM0VuIXltcMjMM9CZ26i3paCvda0XfOn2Pxpu1U26MKTFjC5fmEgA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cel3VpNmJuSkPptPEAC43b7M_OAZ49Bc2j9CQn6rXLh8ZGdEW-iOizLdl-W2dIDuSz8Mc9HWsz_XIJaCW2npMmMNjcc9G1CEX4j8thQvVvIjxFUC-4Snm_ndUMDKm96Od4IIw2GWuQVK1US8_wNmJ4xtKZzDqA6K4KQ-K3IE5h-xV_aJq0NDGxQoBOY4pKoFTfwZ4eIAQtYXPzf0KKNFzphqO0gDluC-gxSbUl3kVvlyVjv7PTjIuT1POyjC_Podz0xUAsBLFH4YdO-UaK14ub56X66co84wih5I1uDTmzZh96beFbYrYXiSC7piwO5FkQ1Du-2TUcBQY_z83Bd7OA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/sbg_HymKmc4IMQ4uCMMtZGB11MhWRojrLksZfixoqiIcNqtQU48WHL5ziQiTP6w_QofPOrjOTCCWsmsGQvLPAOFt9WHGur5gCSdWIAyFjlzJ2ES2k-ZlAk_iLm5r6f-QqeKqLd8M-82d-Mzk7Hr1pC4WGQ-0q0ZmKdq7-UGbr9LQf2wgzT5IpWsElRAkPmnNuh8GI_eIRM79J3KgiYAEPjf7eJZ6pYjsXPGfZv1UI9xveUaZVu3fMrYsQjHhQRx2glggt4YQPtuE9Tpyfh9ULh4Qf-b9_WRnKdgxtIfXwS6eD6L7ZPUVO2kygAcBX_O4sTz9A-xBQMrqdnWSI3TYGg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Qa9_OCBBjas3FSvwEssymlOvVrbd7c423bG9piO-6_yaJEHqYc2_wtSGt2P8EVWy0BtZvHa-CG9sc0qKsz8b8G-U4XYNtPnBdR_OKwpW3OzUTevCvA1fkMxYe7GBfujeEb2-CLHDrCWdReGNT_9Yldv4krU5AMZ5wr6sA9bZrhWTvPWFiN9ULzZVNiCMpb_6hki41Xish3SUFja79kXlPZaSYoDXOElBhU8AGfvogZDn6Xi8IKQSAKYYWktwvudzCM_8eEPu5X8dfEsylBt6Tutb5z3UDKulInBRX0DWWK9MEeGiDLgohySdY0akDORX7Ih_bWoCQn22Kc7EEEQtuw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/010c3af997.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gCFXjNlA1_oDjAOGw2cVYa8Z5mR0tA3laRu80yEhEGCrMvUhzfePXYGlz7-wmX_c0VxaoAJC_i4lEIcCywRPKYGeFCOpi2giYdVpkSh9Rbl0THDE9A3lFyjpR62xzH68ks2mVWsLCc1Gn0DYSsfNHwS9jrsCeEGHKh8uWbb71ZJ-saeRGQzcLnSpMVhRNmVhzFIpXFsfi-4F5qKKTQSFT8yO0LAo4MZGGNqyyWKcF3bTixk-hNzD8_6dNR4k1NdNDEaSBHRUIzmf4Kzf7-Ixppsu4CzdlUTn7bYX-MM-iVkbIoOkO3-ALIsomdmM0ubAFMQU2R7S00BMyf2rxc6j3g"
+      },
+      {
+        "url": "https://t.me/enemywatch/64121?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gCFXjNlA1_oDjAOGw2cVYa8Z5mR0tA3laRu80yEhEGCrMvUhzfePXYGlz7-wmX_c0VxaoAJC_i4lEIcCywRPKYGeFCOpi2giYdVpkSh9Rbl0THDE9A3lFyjpR62xzH68ks2mVWsLCc1Gn0DYSsfNHwS9jrsCeEGHKh8uWbb71ZJ-saeRGQzcLnSpMVhRNmVhzFIpXFsfi-4F5qKKTQSFT8yO0LAo4MZGGNqyyWKcF3bTixk-hNzD8_6dNR4k1NdNDEaSBHRUIzmf4Kzf7-Ixppsu4CzdlUTn7bYX-MM-iVkbIoOkO3-ALIsomdmM0ubAFMQU2R7S00BMyf2rxc6j3g"
+      }
+    ]
+  },
+  {
+    "id": 487724114,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Bushehr, Gaza City, Yemen: Hourly Updates November 2026 Yemen Yemeni",
+    "location": "Bushehr, Gaza City, Yemen, Saudi Arabia, Israel",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 2, 2026🇾🇪 Yemen• The Yemeni Armed Forces reportedly launched attacks toward Abha and Khamis Mushait in Saudi Arabia.• Yemeni missile salvos were reportedly fired toward Jizan, with explosions reported in Jizan and Najran and air raid sirens sounding in Najran.• A Yemeni attack was reportedly launched toward Taif, Saudi Arabia.• The Yemeni Armed Forces reportedly liberated a village and the mountain ranges of Araf and Al-Athour in Lahij Governorate, securing th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 487728751,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Qeshm, Hormozgan: aggression puts livelihoods Iranian fishermen danger",
+    "location": "Tehran, Qeshm, Hormozgan, Persian Gulf, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 US aggression puts livelihoods of Iranian fishermen in danger: Official📌 Tehran, IRNA – The CEO of the Qeshm Fishermen’s Cooperative says US military aggression against Iran has threatened fishermen’s livelihoods, destroyed fishing boats and vessels, and killed several fishermen.Speaking at the World Food Day conference on Monday, Mousa Ghavidel said Hormozgan’s fishing community plays a vital role in the country’s food security, with the Persian Gulf providing a significant share of its sea",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
