@@ -226547,6 +226547,21 @@
     "verified": false
   },
   {
+    "id": 1793598927515,
+    "type": "airstrike",
+    "location": "Behbahan",
+    "coordinates": [
+      30.6,
+      50.25
+    ],
+    "date": "2026-11-01",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "What would Iran government's response be if Mount Behbahan were hit by a US nuclear bomb? Other than sending the foreign minister and technical teams to Qatar to negotiate something out of nothing, what concrete response does Iran have in mind?",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793584430213,
     "type": "rocket",
     "location": "Hodeidah",
