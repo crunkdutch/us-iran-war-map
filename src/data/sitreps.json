@@ -227057,6 +227057,36 @@
     "verified": false
   },
   {
+    "id": 1793656592405,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 IRGC foils terrorist plot against security forces in Sistan and Baluchestan📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has thwarted a terrorist plot against security forces in the country’s southeastern province of Sistan and BaluchestanIn a statement released on Monday, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793656659609,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC Navy captures third and fourth US drones intact over Qeshm island📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has captured the fourth US reconnaissance and decoy drone intact west of the Strait of Hormuz after taking control of its guidance and control systems.The statem...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

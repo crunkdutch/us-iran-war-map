@@ -170700,6 +170700,38 @@
     ]
   },
   {
+    "id": 487877065,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran: IRGC foils terrorist plot against security",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 IRGC foils terrorist plot against security forces in Sistan and Baluchestan📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has thwarted a terrorist plot against security forces in the country’s southeastern province of Sistan and BaluchestanIn a statement released on Monday, the Public Relations Office of the IRGC Ground Force’s Quds Headquarters announced that a terrorist cell that had been previously identified and placed under intelligence surveillance was intercepted ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
