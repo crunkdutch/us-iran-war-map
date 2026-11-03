@@ -171511,6 +171511,102 @@
     "media": []
   },
   {
+    "id": 488406988,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bandar Abbas: Breaking Reports explosions heard Bandar Abbasenemywatch",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🚨 | Breaking — Reports of explosions heard in Bandar Abbas.@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488411654,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Breaking Missiles being launched toward violating",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Missiles are now being launched toward violating ships in the Strait of Hormuz.🔻@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488416321,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Ahvaz, Iraq: Reports concerning drone activity Iraqi side",
+    "location": "Ahvaz, Iraq",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Reports concerning drone activity on the Iraqi side of the Iran border, cyberattacks, major GPS disruptions, and anti-gun activity in Ahvaz remain unverified.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

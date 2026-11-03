@@ -228066,6 +228066,51 @@
     "verified": false
   },
   {
+    "id": 1793736018874,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Missiles are now being launched toward violating ships in the Strait of Hormuz.🔻@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793735998642,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran, Nigeria have ample potential to expand bilateral ties: President Pezeshkian📌 Tehran, IRNA — Iranian President Masoud Pezeshkian has called for stronger economic, political and cultural cooperation between Tehran and Abuja, saying the two countries have considerable untapped potential to de...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793736039364,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran’s people seek peace but will not bow to coercion: President Pezeshkian📌 Tehran, IRNA — Iranian President Masoud Pezeshkian has reaffirmed Tehran’s commitment to peaceful engagement with the international community, stressing that the country will defend its rights and interests under intern...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
