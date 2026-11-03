@@ -1757,6 +1757,21 @@
     "verified": false
   },
   {
+    "id": 1793707130114,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-02-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Official terms US military attacks on Iran as most serious HR issue of 2026📌 Tehran, IRNA — Khosrow Hakimi, the Iranian Deputy Secretary of the High Council for Human Rights has described US military attacks against Iran as the most serious human rights issue of 2026,Safeguarding human rights wi...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -223224,6 +223239,106 @@
     "verified": false
   },
   {
+    "id": 1793707200634,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-24",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicChief of the General Staff of the Armed Forces and Commander of the Khatam al-Anbiya (PBUH) Headquarters, Major General Abdollahi:– With reliance on Almighty Allah, the longstanding Islamic Iranian Armed Forces have succeeded in rendering the US Navy, which Trump and senior official...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793707142035,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-24",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Our Armed Forces, by the grace of Allah, carried out strikes targeting gatherings of forces belonging to the Saudi enemy at the so-called Al-Nasr Camp and at the naval military base in Aden. These forces are being assembled and equipped under the supervision of Saudi officers, led by Saudi Brigadier...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793707197873,
+    "type": "intercept",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicThe Iranian army’s air defense shot down a US army “Lucas” drone in the skies over Bandar Abbas.#Military_Media",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/twzs3LuMQf3dcIlpPxE3MiRm7IWrRfYHMNFZzP99LzdPfrZn0tr40Wc-oqoff-KZacb34QTyjrCPll36f04mib_sueD1wsx-iqVbzXjtF9TNux1XafOtffUo0hVHzwbngU0OVMBIwbIn1fPQKJkWtwEWN2-QcwZbUDPgyrM0dLECKx7VVXzsew59rOaiWxXG1rsjyP0bTywQxdEk_dfyq4GGOw8fvzziiUesPNZME1nQvcbe4rNejEb2xwQxO8Gf0d7SIwYPjO2qU5RcH6igEgxf_TLi9bAnKau7HrQAXZzpWm2ELo5pNam7wy7oA6MqylgzIOrYIZV8U1RqEi_MdQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793707142752,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel\" Hayom Hebrew newspaper: The \"Israel\" Prison Service transferred eight Palestinian security prisoners to solitary confinement after they prepared an improvised cake to celebrate the end of National Security Minister Itamar Ben-Gvir’s term in office.The cake, made from food items ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/A8UOGhXhS6tP7wIvK12c5t7SAtKj8rMQIjXC-rMI9hYjrKY-s5GgMDJ4trG_P12pqaHEkgekU4Qdn8rYZUJ6FI4pXYdgbpyFNq33-gmz1jrDm4BhDvxVAF1cvh-iqss2zhAMFvGEtwYIvL92BoDtZs_hpZB9O8-WZR3jLaE5i4MbRX82VDWqB4077j9PVWZtuXtpfMNNUznROYICIaTxNkA6PI4lrSHZD3dLBk8UP3f0MWGggOqQ3uAz9OLhCbeh_Ym-R1kAy5F2Cjh1lFT_ABVLRjRUvkvbpztL428kSsSuMJZJX4ouwg8d20RGDhq4bspwdbZuMBu8tl_avmGebQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793707144402,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12:The timeline for the day after the elections: When will the “Israeli” government be formed?– October 27: Election day for the 26th Israeli Knesset. Polling stations at most locations close at 10:00 p.m.– November 4: The expected date for the official announcement of the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793707139143,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-24",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” media: The electoral process in “Israel” began a short while ago and will continue until 10:00 pm.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1792922615048,
     "type": "airstrike",
     "location": "Tehran",
@@ -227498,6 +227613,165 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | Police helicopters are patrolling areas around Isfahan as part of drills and security operations.🔹@enemywatch",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793707101708,
+    "type": "intercept",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-11-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Public Relations of the Iranian Revolutionary Guard Corps:Two American Lucas drones were destroyed by the IRGC’s Imam Sajjad forces in Hormozgan Province after entering the airspace over Bandar Khamir. The interception was carried out as part of an integrated air defence network.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793707136830,
+    "type": "missile",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The representative of the Leader of the Islamic Revolution Imam Mujtaba Khamenei to the IRGC visits missile tunnels in the south of the Islamic Republic of Iran.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/da89e376a1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/njr-ENSk4KB-7TQ3GMfh-R1q8O81Xt7JjqkJmFnpfB1Cj1zmEmzeXrlZ7lKc-nHS8_rMePhSZRyODwoUWyrKUq7CGwX93F1KHNtM-562EDa22g6Xoaosssb9-lc9nHSU9DFe4D1GgNlmQ5PkmGLcOBM0D_n2ON6YC6i81502Qt5gQhq_iiqaUd60Rm998Hoa5av7J2hf5M6WhvnrFQAfyyUDttGNiGLLq9sM8_QSvLA9CjMSaqXaw40bAXzuGBIJaLvknwDeQQ3sSCeT__lL2Hq0tG95AKLvhMnbvXIstHjQrvActztiaE7fQPo1C99551boqjLwqmbzab9wOOschg"
+      },
+      {
+        "url": "https://t.me/enemywatch/64175",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/njr-ENSk4KB-7TQ3GMfh-R1q8O81Xt7JjqkJmFnpfB1Cj1zmEmzeXrlZ7lKc-nHS8_rMePhSZRyODwoUWyrKUq7CGwX93F1KHNtM-562EDa22g6Xoaosssb9-lc9nHSU9DFe4D1GgNlmQ5PkmGLcOBM0D_n2ON6YC6i81502Qt5gQhq_iiqaUd60Rm998Hoa5av7J2hf5M6WhvnrFQAfyyUDttGNiGLLq9sM8_QSvLA9CjMSaqXaw40bAXzuGBIJaLvknwDeQQ3sSCeT__lL2Hq0tG95AKLvhMnbvXIstHjQrvActztiaE7fQPo1C99551boqjLwqmbzab9wOOschg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793707130738,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔻 | Hormuz Fishing Ground: Footage captures the destruction of the 55th advanced American MQ-9 drone over the Strait of Hormuz:The footage shows an air-defence missile directly striking an advanced American MQ-9 Reaper drone over the eastern part of the Strait of Hormuz.According to reports last ni...",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64177",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fzxANF2c9HMhs87kpbt1gnuOfKYknO3c5sgxlMq4YbFIIo0qgPkT_gIGDuGiw9VUQicshLHk2Ubhlv5TMlGH3AT6S2ECcYB6qoKWyKKEwVsNTkdbpxwLLEZVb3Ndvu1EUjZe42oJU8bGLvzzoJyE5d-NL_ROh-CnWJ6t1EeKgsqLi5glMLYcVN-KtpnOro0nvJ1jb6UDL0ybKiu8nBvxaLLI_eIipk-uG16QlHvTaXu7YUsrtznqvqSoZ6KAt2m-33oGqE1pmKBbaBEm3WKyvABhAACnS8aj9gi3L8KdarVO5UAuRnb39kBJELOkjtpyvH_bUkIbcsMV8LJGFQfPqA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793707164274,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 US has failed to achieve any of its goals against Iran: First VP📌 Tehran, IRNA –the United States has failed to achieve any of its goals, even through a direct military attack on the country, says Iran’s First Vice President Mohammad-Reza Aref.Speaking during a visit to the National Cartographic...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793707114180,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran Cmdr. Abdollahi sets out five principles for lasting security in West Asia📌 Tehran, IRNA — Iran’s Armed Forces Chief of Staff Major General Ali Abdollahi has outlined five principles for peace and security in West Asia, including an end to conflicts, sanctions relief, and new regional secur...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793707145730,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "IRGC: Three oil tankers that were violating regulations and traveling on an unauthorized route through the Strait of Hormuz have experienced explosions and intense fires since the early hours of Tuesday morning.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/53c3c33bfb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WCOXBsDf67eUVyl0KOKaPdLqEbFxZU1ym3Kl5Qv5bz36JlmpoxMQiI6rzqVRySxTF-yUJo2UsP63Nc3naS9Yvbzu62OufKT6U59dmnZwM5m43jyjRkpHlvvWJHNm9Sx4yVj1gwF-fHE4atRU1UU70G2tLWPvgcczpMmEOHnmCElM6Yj_Zl6WIcod0KWNnX9KXMPj7D3twRGZ2MQHSSVqV0LcSpApaE_ZDEpZG3qf3Aeb31JNjtgmrtlYJ27_9LFctxQY08M-ji5-mIh6Rpwok-Tz7_16bYCZLT2HFryCqMIrY5rLYkt_B8duJKWdlIFGDtMOU7acJC59l5GH5PYE4Q"
+      },
+      {
+        "url": "https://t.me/Irna_en/41735",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WCOXBsDf67eUVyl0KOKaPdLqEbFxZU1ym3Kl5Qv5bz36JlmpoxMQiI6rzqVRySxTF-yUJo2UsP63Nc3naS9Yvbzu62OufKT6U59dmnZwM5m43jyjRkpHlvvWJHNm9Sx4yVj1gwF-fHE4atRU1UU70G2tLWPvgcczpMmEOHnmCElM6Yj_Zl6WIcod0KWNnX9KXMPj7D3twRGZ2MQHSSVqV0LcSpApaE_ZDEpZG3qf3Aeb31JNjtgmrtlYJ27_9LFctxQY08M-ji5-mIh6Rpwok-Tz7_16bYCZLT2HFryCqMIrY5rLYkt_B8duJKWdlIFGDtMOU7acJC59l5GH5PYE4Q"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793707166429,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Footage has been released showing the downing of the 55th advanced US MQ-9 drone over the Strait of Hormuz. It captures the precise moment an Iranian air defense missile scored a direct hit on the US MQ-9 Reaper in the airspace east of the Strait of Hormuz.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/41736",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/rTPtjMtquvIq6n6llo9Oa25EaGvKMNTll5lHcGKsyl-T75bjgdPf3B3Qb0N1UxFSATxqvNOk1UljDLkQh-2mWbSik-eX4l79EjDLGwakXoVB83eVRyK-YvliKxYXfZObCZk0PRjRwbWRaxUjr15_b4Tr9cGL2lpw0ZQ3WDerF3ax5Yzd57VfUdHniUNThOtKCLYz0O2Ep_E9CwP1VbV1VtzfKT740_Ky5veiIfCVrGOqqMcLy5cYKJVOdJOQcphga08yGXmvcOXFl_Unx9QfPDkFDw3JJe52kngw2OziJCMQpC_9DKRGegTrysMECKL_51DvLiTGbkTlghsZ-3wuPA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793707112273,
+    "type": "intercept",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "date": "2026-11-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "IRGC: Two American LUCAS-type kamikaze drones were tracked and shot down over Bandar Khamir, Hormozgan Province. The IRGC air defense forces carried out the interception under the guidance and control of Iran's unified air defense network.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Q0h5XHvj92TIMDtLdO7kNqo8pamHFHw7uUjCBy78bfzz8Yli2nYLB9dYbUDtB4uSpLvEH0fETGHM50qkbPaggIeCKZJ82h0WgXBCwBaKn_hA8o1lXqpbX_5mCcNg2xEc6PKsC-xulCr3HLiyHdUMXQjk6w55lrGwUSc5kUpXPgw8jyYXxFvgyEQNIaRPbO1wPHkK8tMp9td8mjwLniFVSp0SgW7OYXGsY_Yyo0YhknfVhUpNFV_VCK-OZiuG1GmiWUdNaEdID4_jD6K0ou_Xlkrpl3QaVPaR9Z__rEhSzbdGEKIbKO4qrOELbqTrn0cqjwJ8Qaoz--wUIQD6lLCJnQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

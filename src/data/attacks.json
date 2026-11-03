@@ -166520,6 +166520,107 @@
     ]
   },
   {
+    "id": 488178860,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz, Persian Gulf: Islamic_RepublicChief General Staff Armed Forces Commander",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicChief of the General Staff of the Armed Forces and Commander of the Khatam al-Anbiya (PBUH) Headquarters, Major General Abdollahi:– With reliance on Almighty Allah, the longstanding Islamic Iranian Armed Forces have succeeded in rendering the US Navy, which Trump and senior officials in his country regard as the pinnacle of American power and use to threaten the region and the world, incapable of carrying out its missions, to the point that it can no longer approach the seas sur",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488183517,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Aden, Yemen: Armed Forces grace Allah carried strikes",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Our Armed Forces, by the grace of Allah, carried out strikes targeting gatherings of forces belonging to the Saudi enemy at the so-called Al-Nasr Camp and at the naval military base in Aden. These forces are being assembled and equipped under the supervision of Saudi officers, led by Saudi Brigadier Staff Officer Badr Salah Al-Harbi, with the aim of attacking the Yemeni people and their Armed Forces.We reiterate our warning to those who have been deceived not to heed the Saudi enemy, which seeks",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488188175,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-24",
+    "time": "TBD",
+    "title": "Unknown Interception — Bandar Abbas: Islamic_RepublicThe Iranian armys defense shot down",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicThe Iranian army’s air defense shot down a US army “Lucas” drone in the skies over Bandar Abbas.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/twzs3LuMQf3dcIlpPxE3MiRm7IWrRfYHMNFZzP99LzdPfrZn0tr40Wc-oqoff-KZacb34QTyjrCPll36f04mib_sueD1wsx-iqVbzXjtF9TNux1XafOtffUo0hVHzwbngU0OVMBIwbIn1fPQKJkWtwEWN2-QcwZbUDPgyrM0dLECKx7VVXzsew59rOaiWxXG1rsjyP0bTywQxdEk_dfyq4GGOw8fvzziiUesPNZME1nQvcbe4rNejEb2xwQxO8Gf0d7SIwYPjO2qU5RcH6igEgxf_TLi9bAnKau7HrQAXZzpWm2ELo5pNam7wy7oA6MqylgzIOrYIZV8U1RqEi_MdQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 483808143,
     "type": "drone",
     "status": "confirmed",
@@ -170965,6 +171066,204 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 488155590,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: Irans Islamic Revolutionary Guard Corps IRGC",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy announced that three oil tankers deviated from authorised routes in the Strait of Hormuz since dawn today before being hit by explosions and engulfed in intense fires. According to the statement, the flames illuminated the eastern part of the strait so brightly that it appeared as though it were daytime.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/3e0064a3e1.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/tbvtdoPezk2CrwRResygucufuYIPIoxX5XhVbNatosBoiiRJATK32t5iPPJ0AsNcJ_vCWZP-r9sbL5F1IyINKc7GjELeJVxkTJEQUbqnG90Ffnz1-cJkTUOLPeeAwmq1UPNwPTPc2iALlVb-IeyQYkF-BniP-58IIOp1r-SqvyHP5EhBNHdAMVGXydbkSvbXOamAHBzTodwB9A3UsAe8wpEYeouoAduoJ6oQHbpVqjmemOO24tIUk0beXhgqJG0L5uikVDRPM_gA5fCB8VzB7Qkie7otAf1d2-tFRqBRCGomO59RxK8dIzMw4f9Ry2OSa6JBRKVyD6Sa0pG4kPrF8Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/64171",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/tbvtdoPezk2CrwRResygucufuYIPIoxX5XhVbNatosBoiiRJATK32t5iPPJ0AsNcJ_vCWZP-r9sbL5F1IyINKc7GjELeJVxkTJEQUbqnG90Ffnz1-cJkTUOLPeeAwmq1UPNwPTPc2iALlVb-IeyQYkF-BniP-58IIOp1r-SqvyHP5EhBNHdAMVGXydbkSvbXOamAHBzTodwB9A3UsAe8wpEYeouoAduoJ6oQHbpVqjmemOO24tIUk0beXhgqJG0L5uikVDRPM_gA5fCB8VzB7Qkie7otAf1d2-tFRqBRCGomO59RxK8dIzMw4f9Ry2OSa6JBRKVyD6Sa0pG4kPrF8Q"
+      }
+    ]
+  },
+  {
+    "id": 488160242,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Hormozgan: Public Relations Iranian Revolutionary Guard CorpsTwo",
+    "location": "Hormozgan",
+    "coordinates": [
+      27.2,
+      56.3
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Public Relations of the Iranian Revolutionary Guard Corps:Two American Lucas drones were destroyed by the IRGC’s Imam Sajjad forces in Hormozgan Province after entering the airspace over Bandar Khamir. The interception was carried out as part of an integrated air defence network.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LsDI6q0fC81YtXjsTX5q_QCc9SNeAeLbZ7q7e8PjfGG6D4qxEPVJQiSciE56ht3Mh7mg5EzJorst5LFkekBruKoNxA9xEV9v-4mD-jn8IYU--P6BdI2F_4yls1N8OF6yODsmyTBZCduYeVVXEiKQ9xgaOmwqpto3C_A9HJlBVCQramS1_A7V5CHxCa8V_kU5v5C8-JTEqDMWJFfPhsNfVR7k8Ja_b85kmZ5RRpetDzGeYpAv5rcPEvvU-rZkOr3AG1P_azUsFcHzvBz9skM2syumCvDwi8kK0KgpI92WI7uQSkyBl9bwS-eeaN8suIYBWfOOJbFyPb2IZMQuQh9wkw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 488164895,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: Hormuz Fishing Ground Footage captures destruction",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 | Hormuz Fishing Ground: Footage captures the destruction of the 55th advanced American MQ-9 drone over the Strait of Hormuz:The footage shows an air-defence missile directly striking an advanced American MQ-9 Reaper drone over the eastern part of the Strait of Hormuz.According to reports last night, the drone, one of the most valuable reconnaissance and combat platforms operated by the American military, was intercepted and destroyed by the IRGC Aerospace Force’s new air-defence system, oper",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64177",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fzxANF2c9HMhs87kpbt1gnuOfKYknO3c5sgxlMq4YbFIIo0qgPkT_gIGDuGiw9VUQicshLHk2Ubhlv5TMlGH3AT6S2ECcYB6qoKWyKKEwVsNTkdbpxwLLEZVb3Ndvu1EUjZe42oJU8bGLvzzoJyE5d-NL_ROh-CnWJ6t1EeKgsqLi5glMLYcVN-KtpnOro0nvJ1jb6UDL0ybKiu8nBvxaLLI_eIipk-uG16QlHvTaXu7YUsrtznqvqSoZ6KAt2m-33oGqE1pmKBbaBEm3WKyvABhAACnS8aj9gi3L8KdarVO5UAuRnb39kBJELOkjtpyvH_bUkIbcsMV8LJGFQfPqA"
+      }
+    ]
+  },
+  {
+    "id": 488169549,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: failed achieve goals against Iran First",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 US has failed to achieve any of its goals against Iran: First VP📌 Tehran, IRNA –the United States has failed to achieve any of its goals, even through a direct military attack on the country, says Iran’s First Vice President Mohammad-Reza Aref.Speaking during a visit to the National Cartographic Center on Tuesday, Aref said the US had failed to achieve its goals against Iran since the victory of the Islamic Revolution in 1979, most recently through military aggression against the country.​He",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HFliM2jNaOHCQ16AG_0fegpLlHPH7wLniyYQG6ypVEu44m5-vpzKUyFCB_Zen8YKxuwW5wjSoadXNeDUfxprn7hmh6CDC4_uChqAwGnPMqTqgyR3Ap0fmor0jnxpeS_S9yqGBdQFhZnMWo24dCT6JLouydxKw6YUYzWsAJieDP2stYaS3y8LjqajxYT5qlXQRDWUZxdgeFtFaEs_9J1o21447PTMnfBR0K__BKpaNBAanOBVH1YhneWTaeVtR2n52YNjiaCE0D5LKmHhu4RgPU1QKMOUL9Fz4CBQVOmiv7kg82J9H9wq55N9EN7HRmLMqBY62Zo3ahMKnT4teFKxrQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 488174204,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: IRGC Three tankers that were violating",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC: Three oil tankers that were violating regulations and traveling on an unauthorized route through the Strait of Hormuz have experienced explosions and intense fires since the early hours of Tuesday morning.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/53c3c33bfb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WCOXBsDf67eUVyl0KOKaPdLqEbFxZU1ym3Kl5Qv5bz36JlmpoxMQiI6rzqVRySxTF-yUJo2UsP63Nc3naS9Yvbzu62OufKT6U59dmnZwM5m43jyjRkpHlvvWJHNm9Sx4yVj1gwF-fHE4atRU1UU70G2tLWPvgcczpMmEOHnmCElM6Yj_Zl6WIcod0KWNnX9KXMPj7D3twRGZ2MQHSSVqV0LcSpApaE_ZDEpZG3qf3Aeb31JNjtgmrtlYJ27_9LFctxQY08M-ji5-mIh6Rpwok-Tz7_16bYCZLT2HFryCqMIrY5rLYkt_B8duJKWdlIFGDtMOU7acJC59l5GH5PYE4Q"
+      },
+      {
+        "url": "https://t.me/Irna_en/41735",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WCOXBsDf67eUVyl0KOKaPdLqEbFxZU1ym3Kl5Qv5bz36JlmpoxMQiI6rzqVRySxTF-yUJo2UsP63Nc3naS9Yvbzu62OufKT6U59dmnZwM5m43jyjRkpHlvvWJHNm9Sx4yVj1gwF-fHE4atRU1UU70G2tLWPvgcczpMmEOHnmCElM6Yj_Zl6WIcod0KWNnX9KXMPj7D3twRGZ2MQHSSVqV0LcSpApaE_ZDEpZG3qf3Aeb31JNjtgmrtlYJ27_9LFctxQY08M-ji5-mIh6Rpwok-Tz7_16bYCZLT2HFryCqMIrY5rLYkt_B8duJKWdlIFGDtMOU7acJC59l5GH5PYE4Q"
+      }
+    ]
   },
   {
     "id": 480276116,
