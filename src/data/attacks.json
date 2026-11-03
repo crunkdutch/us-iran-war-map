@@ -168210,6 +168210,139 @@
     "media": []
   },
   {
+    "id": 488262617,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria, Israel: AlJulani gangs supporters preoccupied with pursuing",
+    "location": "Syria, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Al-Julani and his gangs and supporters are preoccupied with pursuing officers and soldiers of the Syrian Arab Army who defended Syrian land, while turning a blind eye to Israel's violation of their land and honor.Following the grazing of cattle inside Syrian territory by Zionist shepherds, a new operation targets the lands of Hauran.A herd of wild boars was introduced north of the town of Al-Rafid, south of Quneitra Governorate.They were brought in at night from the occupied Golan Heights with t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/097c8ef350.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LnKPzxsjMTK7VNmv4J0zQtVwikOKloTO-pyPAYcvpmJ7ZzrTGO9v1OtbFhNBOI52RCZ_JxsE-mdJLv0_mAZFxWMqEryGaTNM1v961hsa9JQCHcBUdMoqu9B9-maFNXJLjnDkLDea5JlLwbiN2Xb7Nz70AJ2qy08w0TTPN-I0dwMABI7AvoxoO1XCUdj--XkybmQUURvxSOZJQnQYebV2jBJnutbKV80CROxFn8HGaDTaVQeA6kROKEfM9aYU-nmvgM125t_uAYye5Ko82BnxS75ejNHJZnyB9ctFHgM4rn2cf4c2LNqOzBDMGpyD9SAAOgFMHPy2PJ-9B-9B9KWaBw"
+      },
+      {
+        "url": "https://t.me/enemywatch/63902",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/LnKPzxsjMTK7VNmv4J0zQtVwikOKloTO-pyPAYcvpmJ7ZzrTGO9v1OtbFhNBOI52RCZ_JxsE-mdJLv0_mAZFxWMqEryGaTNM1v961hsa9JQCHcBUdMoqu9B9-maFNXJLjnDkLDea5JlLwbiN2Xb7Nz70AJ2qy08w0TTPN-I0dwMABI7AvoxoO1XCUdj--XkybmQUURvxSOZJQnQYebV2jBJnutbKV80CROxFn8HGaDTaVQeA6kROKEfM9aYU-nmvgM125t_uAYye5Ko82BnxS75ejNHJZnyB9ctFHgM4rn2cf4c2LNqOzBDMGpyD9SAAOgFMHPy2PJ-9B-9B9KWaBw"
+      }
+    ]
+  },
+  {
+    "id": 488267265,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Syria, Jordan: From friend Syria Also hours before",
+    "location": "Syria, Jordan",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "From a friend in Syria: Also few hours before Daraa. Jordan had nothing to do with this one A massive explosion occurred west of Saraqib city in eastern Idlib countryside, within a warehouse belonging to the Ministry of Defense of the interim government.While some pages affiliated with the authority reported a gas station explosion, the missile fragments and ammunition were flying from the explosion site towards surrounding areas.The explosion also coincided with a drone in the sky over southeas",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c9c4d11d33.mp4",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ceb0e235f2.mp4",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://t.me/enemywatch/63903?single",
+        "type": "video",
+        "thumbnail": null
+      },
+      {
+        "url": "https://t.me/enemywatch/63904?single",
+        "type": "video",
+        "thumbnail": null
+      }
+    ]
+  },
+  {
+    "id": 488271914,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen, Saudi Arabia: Yemeni Armed Forces Brigadier General Yahya",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:A ballistic missile strike targeting the Ras Tanura refinery in Saudi Arabia’s Eastern Province.▪️@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/UixlnCSPClSb75i2cpwB4TxFtgYa8BWRGoT8yTHoEl1tDGMksNNvZmQIM6ha8YzoS9d06pJdm8hL0Ha_S28iBWkilWfQBuAcHLS6m8SoJaa2g6u9Y2kle6zQjE1AZCVNzDcwg2qO5hsmWdkrbbQzh9CBk6fNTwzaGWGhROYld8H7CDVQj7ZbXOSDEfISJ0qSe408odi5moUgd4LUq9U2fqSmxKxWZt6QkGugf9bmKwo93nWkbT9gmcMjHO6lw4eYUb5e2ctrKk_vScQrCTbjg61MXOWsGuXqypMCaNpEnC59AeT3SjcQMmV7uKfNOlrOsuXi4iLm75nw16BdKcMnWA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 484054468,
     "type": "intercept",
     "status": "confirmed",
@@ -171307,6 +171440,75 @@
         "thumbnail": "https://cdn4.telesco.pe/file/WCOXBsDf67eUVyl0KOKaPdLqEbFxZU1ym3Kl5Qv5bz36JlmpoxMQiI6rzqVRySxTF-yUJo2UsP63Nc3naS9Yvbzu62OufKT6U59dmnZwM5m43jyjRkpHlvvWJHNm9Sx4yVj1gwF-fHE4atRU1UU70G2tLWPvgcczpMmEOHnmCElM6Yj_Zl6WIcod0KWNnX9KXMPj7D3twRGZ2MQHSSVqV0LcSpApaE_ZDEpZG3qf3Aeb31JNjtgmrtlYJ27_9LFctxQY08M-ji5-mIh6Rpwok-Tz7_16bYCZLT2HFryCqMIrY5rLYkt_B8duJKWdlIFGDtMOU7acJC59l5GH5PYE4Q"
       }
     ]
+  },
+  {
+    "id": 488337105,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Taba: office Imam Mujtaba Khamenei released poster",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The office of Imam Mujtaba Khamenei has released a poster depicting the Imam’s directive that Iran’s response will have no geographical limitations. The poster points to the potential use of high-grade ballistic missiles against targets across the wider region, extending beyond West Asia to include military bases in Southern Europe that serve as platforms for launching aircraft against Iran.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/IxWIYiooFQThj80v4I-g858aODKP-qfmzI_VTpF3VVl6s0oxyh8QiHNucufGD8PsU-kZGEusQ8A4rk_sN2XOKoZAiaAgFaJKDU6u5IyNxV8Q-0BfXRoXlAlHbnIRFmOwA0PtZ3MmWCbhF3uUTSdwmV8SaIcp_j_yKLYmLoBvl5GrFtSIzHvnvaDDirrdV7jzyUxNLP9BZaGrK8gLDIryL6NCnSp_l37gqNXzlfp94NdkXjLK5J5LCGQK1lgjO1uQEeG-8xJifJE8NvRc3G-xLXE6VHdcYMTj4iFBmiGOt6v3o7ggrvvznfxbUU5eURraLBOFgs6vFfp93zERdculYw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 488341769,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Tehran: Qaim Mohammad Popular Reserve Brigade established",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | New Qaim Aal Mohammad Popular Reserve Brigade established in southeast Tehran Province:The Qaim Aal Mohammad (PBUH) Popular Reserve Brigade has been established in southeast Tehran Province. It comprises dedicated personnel, popular volunteers, Basij members, and veterans of the armed forces and executive agencies.Separately, the Martyr Soleimani and Martyr Salami units have also been established. Retired IRGC and NAJA veterans have reportedly received formal invitations to cooperate with",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
