@@ -224289,6 +224289,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/mtYof8x59xV54x-2JNAiGTYF-cl6me4E36UPWFWGn3SKJDQWRLrHAV3c_EQw5rH9yYuaN6E6bz4GqDbQnQhxWSvRpL82t21vx43uuzcMfA3v_gTgXn5yVtl8ujfwiGC-A36HrO-O-bDsSGNXKQvCk81nvHXoXQc17ZtWmvQYPtmJfPw9NUuLBjx2CnZUd8eqMviMPXY_F0LfomforYgBcu9M_azH3WZo-ngDp84lJrZ-FML9yDqdDpjJxDq9GGV1O20w8u2Y3xZfoiVkbUEeKNYhT29oUY-HtQp9WP335oQOD9jPMmg2GkCmfx43KIR7f8S6tTZeSkNVWsgZNyrV9w.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/AyLbmnyO_qvZSkr_lV9HaTdCmPB_YtUnH9uK7-kcdgwNknPNLkXYjNcs3ZAZqUXgTNXOTmhF3aLt-0YRjfgYV5xjpjRDUB397L31_vtH3nrHx7MeSguqxW7jhqmf8NpuK25CCRz75PdIPejz0lirll5qpKnlywc-5bH9ZO_co516bWC2GY6_0Xk5RxA9IkibBmhDcpCUyrMs9iCDS9O7egdE4riTpf1SArwpg_vLPn6DWJTQtqWsNcEd_1xx4WI_NwCCnBjNkWUaNiTbkD1jsZm6gnRfkfv10RCDWI0dxA7EITrPOF5cIGyYFMaDKQT9AqmHwgU5JvKVRgaue8Ueow.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -227098,6 +227102,62 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Students renew their pledge to Leader near martyred Leader’s martyrdom site📌 Tehran, IRNA – On the anniversary of their meeting with the martyred leader of the Islamic Revolution, a group of students gathered near the site of his martyrdom.During this ceremony, a group of male and female student...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793678311656,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-02",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:The 55th advanced MQ-9 drone was intercepted and destroyed by the modern advanced air defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network, in the skies east of the Strait of Hormuz, Iran.We disabled tw...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/394f44d5c2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/FVvlhS9hYM79JIwCh-gai1drmThGZ84s8Zh6OroWy6S7_Fnloc1mS0vO5FdhBPijwKOIphXgjuiPXBSlF1IYkM6J-4yH2dv6gGhE_rpMSwaXFLD8K00jT8XtK80Yy62u7RT77R8Ws-Ayhjs5OU1KJzY9_UYKA0Rwt-XDb0rJBiFPuk-l-2wz2k3mVJFAUWbD4EOXDmrPXMIg-Ii22NRs0rtOKmtd1zkQ8HTEm7GFK8j7cG4f2Gyub2beZj64E5HUAt7cCizcHcuklultRZHXu6e5cd96-dOO-OsONdVtcXaUJMkuYxei6rGVntBzJ-5a3l09M2l8Dc82Y5WzXYS2nQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64149",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/FVvlhS9hYM79JIwCh-gai1drmThGZ84s8Zh6OroWy6S7_Fnloc1mS0vO5FdhBPijwKOIphXgjuiPXBSlF1IYkM6J-4yH2dv6gGhE_rpMSwaXFLD8K00jT8XtK80Yy62u7RT77R8Ws-Ayhjs5OU1KJzY9_UYKA0Rwt-XDb0rJBiFPuk-l-2wz2k3mVJFAUWbD4EOXDmrPXMIg-Ii22NRs0rtOKmtd1zkQ8HTEm7GFK8j7cG4f2Gyub2beZj64E5HUAt7cCizcHcuklultRZHXu6e5cd96-dOO-OsONdVtcXaUJMkuYxei6rGVntBzJ-5a3l09M2l8Dc82Y5WzXYS2nQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793678260863,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 3, 2026🇮🇷 Iran• The Iranian Army announced that it will conduct a missile launch exercise in eastern Iran in the coming hours.• The IRGC Aerospace Force reportedly intercepted two American MQM-170 reconnaissance drones south of Qeshm Island using electronic warfar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793678306289,
+    "type": "drone",
+    "location": "Tel Aviv",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "date": "2026-11-03",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): November 3, 2026🇾🇪 Yemen• Saudi fighter jets reportedly struck a factory in Al-Taiziyah district of Taiz Governorate, killing at least three people and injuring eight others, according to Al-Masirah. The reported casualty figures were preliminary.🇱🇧 Lebanon• Israeli airs...",
     "media": [],
     "verified": false
   },
