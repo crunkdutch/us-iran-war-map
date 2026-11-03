@@ -170076,6 +170076,49 @@
     "media": []
   },
   {
+    "id": 488257970,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Syria, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Lebanon, Syria, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Syrian Internal Security Forces:Hezbollah’s Media Relations Office categorically and in detail denies the accusations contained in the statement issued by the Syrian Internal Security Forces concerning the alleged connection of a purported cell to the party. It reiterates that Hezbollah has no presence or affiliations whatsoever on Syrian territory and has no connection to any activity that undermines Syria’s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6d85a74381.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qOG7ihcdCpMoejW6eZyHJ7vzIdlHkmj4_FWelQzD6Xr3geHFJqkBu6Q-W2TFmi5li5Vz03LvyptlmhWsBxKOZhq4Fzn12DaCdKDtFQyOwKdzG-6IIaAdIx16tA826UpEt3S0gcXL0AYQs4a3Nxp7t4B5snOhbg26rfnjpKVR8Pff-rXpW85FJWmIT1ZXUw-u04k_ehRr9GVHy3BckSyYA8EGaJtDxaUkqZNvgeTm17RA2dTPWgCMyVCymOJKYaaCEfTkFHNvLRTbCEmBIDxhIwzZTiXmrIeduSvq177lnusWzlGMr8VAsWGUNHDDBpyR75kYQXZY0ZM9wIZ74GE7oQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64039",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qOG7ihcdCpMoejW6eZyHJ7vzIdlHkmj4_FWelQzD6Xr3geHFJqkBu6Q-W2TFmi5li5Vz03LvyptlmhWsBxKOZhq4Fzn12DaCdKDtFQyOwKdzG-6IIaAdIx16tA826UpEt3S0gcXL0AYQs4a3Nxp7t4B5snOhbg26rfnjpKVR8Pff-rXpW85FJWmIT1ZXUw-u04k_ehRr9GVHy3BckSyYA8EGaJtDxaUkqZNvgeTm17RA2dTPWgCMyVCymOJKYaaCEfTkFHNvLRTbCEmBIDxhIwzZTiXmrIeduSvq177lnusWzlGMr8VAsWGUNHDDBpyR75kYQXZY0ZM9wIZ74GE7oQ"
+      }
+    ]
+  },
+  {
     "id": 486943285,
     "type": "drone",
     "status": "confirmed",
