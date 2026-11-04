@@ -228261,6 +228261,26 @@
     "verified": false
   },
   {
+    "id": 1793764889850,
+    "type": "airstrike",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 In photos: Iran’s Isfahan hosts religious performance📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GtpS0Q_1BAZw6rexQbW8-6H2r-_DjBOkYoksXRHhk1kX0xDZY0p2yxjulcmIxW0C2qg4JmIfvFKcD44vL6_V4J3MpuYeTrXgzDb7Pnl8Y1qgaggR5vrLDnWdhbnmhh7rze7c5E5xyX8qdw8JskDAfM46SEtfbHIkU80t0sSBxrqemhKVUsDI2hLxkHM4eBK5_dBLl0NvAx37cnX6pLgO7gviTfhN5FaPxB9pYNjVOHqnxj3VHsxzbKQJ4sOBcJyLjCSk4vwukTlvaRKdmglZ7XkN4kQeGee8VnyWTuYXKXgLuQVi2QLu5db_4HYlGI_wHdeEAeMBM05TUlhFa57Vbw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793757660214,
     "type": "drone",
     "location": "Lebanon",
