@@ -228261,6 +228261,36 @@
     "verified": false
   },
   {
+    "id": 1793757660214,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Hourly Updates (-ve): November 4, 2026🇾🇪 Yemen• Saudi fighter jets reportedly targeted a technical and vocational training center in Al-Ma’afer district, Taiz Governorate.• Saudi aircraft reportedly struck a mosque in the Jaashaa area of Hayfan district, Taiz Governorate.🇱🇧 Lebanon• An israeli...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793757645596,
+    "type": "missile",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 4, 2026🇮🇷 Iran• Iranian police reported that an armed individual was killed and two others arrested following an armed confrontation with security forces in Iran Shahr, Sistan and Baluchestan Province. Police said they also seized a handgun, ammunition and two all...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
