@@ -171703,6 +171703,80 @@
     "media": []
   },
   {
+    "id": 488556224,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel, Taba: Iran will give smart response attack",
+    "location": "Tehran, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 MP: Iran will give smart response to any US attack📌 Tehran, IRNA – The head of the Iranian Parliament’s National Security and Foreign Policy Commission has warned that any new US attack on Iran would trigger a smart and decisive response.Ebrahim Azizi made the remarks during an open session of Parliament on Wednesday, warning Washington against any miscalculation.​“Any reckless action will be met with a smart, decisive and regret-inducing response from the Iranian people and Armed Forces,” h",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/efQKx2PnPMblCCgiX4JyEtbF1DtUbSow1yYpeDoiKxAvwJbqSngyfJEulwQ4AwBUjfcvTkJgL3uJTecGcf1fw2YdEWPSl5hxUzEzCnMAaBFo2wEXvDLTFlY5Rk9lqZ0gUpttfVz_NomxmDYXgWA2sgWJeZIbgkwQs5KmwnBvJXk7tx4jSgRL6j0lM6YdLbESCbuFcFtxjs9o-nWlIi3PqAk-A4WkxQZSxvPgH-cx3IiwtINuv3KlGT4YO2IZbust9kTdG9v2oyJDTgTQYXsXoPBQRaQpO_JuQXMzdhIsajAvH6nEgZfEjbG7_8FzzVeyloDtSuxAHNz1MxsIhBwm_w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 488560896,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: IRGC Four violating tankers attempting cross",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "IRGC: Four violating oil tankers attempting to cross the prohibited corridor south of the Strait of Hormuz were destroyed after striking naval mines and continue to burn, while two other violating ships or vessels have been stopped.In an innovative operation, air defense forces of the IRGC Aerospace Force engaged and brought down the 56th MQ9 unmanned aircraft at 4:30 AM on Wednesday over the Strait of Hormuz using an advanced defense system.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/phP1n4S5cKBhJPWC8OkD0J9duWT1pzcbq-nEYBzrabTt1b3dZGmoyJxbg9DG2ka7CcXdK8suVyUCmLXiUfpCtWC4EsYXQ0lYw8Qztn5bPltIPY1lS6sucSXI_ch2EHqziN6vOW7K2LIAPmMFwl5vB9TSuU43tL5JZzgLv9fG9wKkHw7O0nFopTVnsBVj74S1ZOLJZG3lJWuz9aMV-M0O3_tvYXI82HeSdbtbO0Tldpj1mpm5jAfINIozxcRGJaM2gVdZ00wKfE64FVwYA30vvj8EIquxEO_7eY85KLMc3y73wX0tdreYAIXnXJGNia-6FXdPjZIhI9m-X_oWpmkWfA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

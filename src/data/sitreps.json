@@ -228521,6 +228521,52 @@
     "verified": false
   },
   {
+    "id": 1793786596430,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-04",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "IRGC: Four violating oil tankers attempting to cross the prohibited corridor south of the Strait of Hormuz were destroyed after striking naval mines and continue to burn, while two other violating ships or vessels have been stopped.In an innovative operation, air defense forces of the IRGC Aerospace...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/phP1n4S5cKBhJPWC8OkD0J9duWT1pzcbq-nEYBzrabTt1b3dZGmoyJxbg9DG2ka7CcXdK8suVyUCmLXiUfpCtWC4EsYXQ0lYw8Qztn5bPltIPY1lS6sucSXI_ch2EHqziN6vOW7K2LIAPmMFwl5vB9TSuU43tL5JZzgLv9fG9wKkHw7O0nFopTVnsBVj74S1ZOLJZG3lJWuz9aMV-M0O3_tvYXI82HeSdbtbO0Tldpj1mpm5jAfINIozxcRGJaM2gVdZ00wKfE64FVwYA30vvj8EIquxEO_7eY85KLMc3y73wX0tdreYAIXnXJGNia-6FXdPjZIhI9m-X_oWpmkWfA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793786548335,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "On 13 Aban (November 4), a day that recalls the bitter memory of the 1978 massacre of Iranian students by the US-backed Pahlavi regime, students in Minab gathered beside their fellow classmates who were martyred in America's crime at the Minab school.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/74ae9b0b5b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bOxkManWRUTZwhUp0n2uyqv2uUJWJskzEKx-UbZuDlGPH1JJWcjolnymMFTaYQwf7XEjByC-ITXZ46vXamnlNg6oWsfMJTlfUy77YbPEaWF1roC_RINSppsSLBO1sRgERnKF5VXjYC3MeD5ZtbWXD9SqLPxnFsDqBoRsKCt_HZ_4hDMbpjc_NgKQ6_7CAQiUmnbQpagPFwVBBzF_Q3FHsEpcCM0zhFIGCu6t0FV8k1-g_ne4-raK4NEQQIE6j0lI3Kx7LJ2vXkD8ctaWzki5NBdG85xlgDcQnmZq7-Bm1vJARAWlelRwn494Rp_Qcg-D4JM51Fnc8dnYeyY5bNkJQw"
+      },
+      {
+        "url": "https://t.me/Irna_en/41792",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/bOxkManWRUTZwhUp0n2uyqv2uUJWJskzEKx-UbZuDlGPH1JJWcjolnymMFTaYQwf7XEjByC-ITXZ46vXamnlNg6oWsfMJTlfUy77YbPEaWF1roC_RINSppsSLBO1sRgERnKF5VXjYC3MeD5ZtbWXD9SqLPxnFsDqBoRsKCt_HZ_4hDMbpjc_NgKQ6_7CAQiUmnbQpagPFwVBBzF_Q3FHsEpcCM0zhFIGCu6t0FV8k1-g_ne4-raK4NEQQIE6j0lI3Kx7LJ2vXkD8ctaWzki5NBdG85xlgDcQnmZq7-Bm1vJARAWlelRwn494Rp_Qcg-D4JM51Fnc8dnYeyY5bNkJQw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
