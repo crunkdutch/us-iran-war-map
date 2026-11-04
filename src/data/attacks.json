@@ -172330,6 +172330,70 @@
     "media": []
   },
   {
+    "id": 489009761,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen, Saudi Arabia, Egypt: Hourly Updates November 2026 Yemen AnsarAllah",
+    "location": "Yemen, Saudi Arabia, Egypt",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 5, 2026🇾🇪 Yemen• AnsarAllah and Saudi-backed forces reportedly continued fighting along the Al-Jawf front, particularly around Jabal Duhaydah. AnsarAllah forces reportedly used FPV drones against opposing positions southwest and northeast of the mountain.• AnsarAllah reportedly continued attacks on Saudi-backed positions in Hajjah Governorate and targeted positions near Al-Khawbah and military pickup trucks in Saudi Arabia’s Jizan Province.• Yemeni media repor",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489014451,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Gaza City, Yemen: Hourly Updates November 2026 Gaza israeli",
+    "location": "Sanaa, Gaza City, Yemen, Iraq, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): November 5, 2026🇵🇸 Gaza• The israeli army claimed it killed several members of Hamas, Islamic Jihad and the Army of Islam in raids in Gaza. Those named by the Israeli military included Mahmoud Quffa, Ali Asaad Suleiman Qishta, Muhammad Zakaria Al-Jamal, Muhammad Amin Al-Nims, Shaher Muhammad Zouroub and Muhammad Ali Abu Sha’ar. The claims and identities were attributed to the Israeli terror army.• The israeli terror army and Shin Bet claimed that Hamas military intelli",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
