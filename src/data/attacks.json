@@ -171801,7 +171801,12 @@
     "description": "🟡 Hourly Updates (+ve): November 4, 2026🇮🇷 Iran• Iranian police reported that an armed individual was killed and two others arrested following an armed confrontation with security forces in Iran Shahr, Sistan and Baluchestan Province. Police said they also seized a handgun, ammunition and two allegedly stolen Peugeot vehicles. #BorderThreats🇾🇪 Yemen / Saudi Arabia• Yemeni forces reportedly launched an attack toward Riyadh, the Saudi capital. Saudi authorities said missile attack warning sir",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/VdP1ol2s2I-_WcaU15AUDeAKRxqScpqZIDOuoQ37Yk7HyJlvwEebBHaKjXqmn_2ZSnyDAaDwWnhirRTapy2nt5rycedMXMaRBPRaBeopBaAyPPARmlyqXdlCYrxZRFZo8X5KJNDO58JGTlVJRMHE5HQy4aqLeE541k_BIMq3E8jQEwMZC1Rqta9u9vdpqC2rviZokyNsKhSk67XIKe2NFfCXzL9FpkR1RZJYS5As0V2CUKChyM_OguwDddjaf5xz2s0ohbzKqxe5e0x28zauOlFiCI2p4UQv8oSexz64sDK_c-qdSYlBjxKi593keiawkJm3nHN0BiyHz1ADumfcSQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 488556224,
@@ -172006,6 +172011,118 @@
       "other": 0
     },
     "description": "💬 Hezbollah denies allegations it is operating in Yemen📌 Tehran, IRNA - Hezbollah has strongly denied allegations by the interior minister of the so-called Yemeni Transitional Council that the movement has experts in Yemen involved in managing military operations and developing military capabilities of the Yemeni forces.In a statement issued by its Media Relations Office on November 4, the Hezbollah resistance movement strongly rejected claims that its personnel were helping Ansarullah develop",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488785102,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Qeshm Island, Qeshm, Gilan: Destruction American drone over Qeshm Island",
+    "location": "Qeshm Island, Qeshm, Gilan, Strait of Hormuz",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Destruction of an American MQ-1 drone over Qeshm Island and failure of enemy operations in the Strait of Hormuz:An MQ-1 reconnaissance and combat drone belonging to the aggressive American military was intercepted and destroyed over Qeshm Island by the IRGC Aerospace Force’s new and advanced air-defence system.Over the past several nights, the enemy has intensified its reconnaissance and intelligence activities, making extensive efforts to identify Iran’s air-defence systems. Simultaneous",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/480a632157.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/selOWuu7OQxhHbtR4G8AAGYH-spedVjXLBpk1zTeblSy8ygYWnOZvsn2LsD5V3J4HU5l4WbnIhGE7SRevKUYg_uc6FaMFtDueuMZLibe5uUOUGjueWzxoGUBZ0V2IrcmMZu1Q9HDGiQOvW9PIIVlvZqMvLOhTAGA0d6zbHilJrZeoT3Oc2bSFvCdA-HVuGnHhane4OJUaEJSNx0DB8bgFTYQGobINQ4clxzmakGZCKF1UtuNBIeK1UBXAXWmoQdqS7c_-KdhL8tYMJXjKL-oHRKorWimndvNhOeDsUCmtuWLQAB73-cHFPPm3jvp_FQXA8tf4LYvmHj_OJz8gNEJgA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64227",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/selOWuu7OQxhHbtR4G8AAGYH-spedVjXLBpk1zTeblSy8ygYWnOZvsn2LsD5V3J4HU5l4WbnIhGE7SRevKUYg_uc6FaMFtDueuMZLibe5uUOUGjueWzxoGUBZ0V2IrcmMZu1Q9HDGiQOvW9PIIVlvZqMvLOhTAGA0d6zbHilJrZeoT3Oc2bSFvCdA-HVuGnHhane4OJUaEJSNx0DB8bgFTYQGobINQ4clxzmakGZCKF1UtuNBIeK1UBXAXWmoQdqS7c_-KdhL8tYMJXjKL-oHRKorWimndvNhOeDsUCmtuWLQAB73-cHFPPm3jvp_FQXA8tf4LYvmHj_OJz8gNEJgA"
+      }
+    ]
+  },
+  {
+    "id": 488789783,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Beirut, Lebanon, Israel: Following full reconnaissance flights over Beirut",
+    "location": "Beirut, Lebanon, Israel",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧/🏴| Following a full day of reconnaissance flights over Beirut and its suburbs, the IOF has once again launched assasination attacks on Lebanon, continuing its campaign of aggression.Al-Risala Scouts paramedic Nasr Muhammad Younes was martyred in an Israeli drone strike targeting a motorcycle in Qabrikha, southern Lebanon.🏴@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ZaAWxXCd2gciMkzgvs_ZC8egFosYZ5v1VByyvp6KlTarql8RPlczIfaPApRpjyumkx1L4CxIaMbOervvICXejjPkYAvee9fIcl-CaPGMu0dmyBBsdLDdUZiMGSzVMzQLdwTtQOl9zmxQMoTDEPfJl6Hx-A1gsgElU_j8fTiGfNWJQi0C5c4SULyRm7GRZ8yPpqVN40r4ZZxtmjjzXX1Qy_pTqLB8GK5oHgTX1LT5inozqLA1k8DnCtwfqvzZ64sVcfIwPzTeedEIO1kPG0w_iXLSnwD_Tnl--3uz5HIokVBevI0yWNPVmPhPVahaXpyQiwZTW50yu19whEgRpsunMw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 488794465,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Israel: Iran protests IMOs biased reports shipping",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran protests IMO’s biased reports on shipping security📌 London, IRNA – The Islamic Republic of Iran has criticized the International Maritime Organization (IMO) biased reports on the shipping crisis, stressing that seafarer protection should not be selective and that the difficult conditions facing Iranian seafarers must also be addressed.The Iranian delegation at the 138th session of the IMO Council in London criticized the organization’s incomplete and unbalanced reports on maritime secur",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
