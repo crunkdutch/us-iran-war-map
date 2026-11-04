@@ -225938,6 +225938,26 @@
     "verified": false
   },
   {
+    "id": 1793815490650,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-27",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:During the past 24 hours, Saudi warplanes launched 81 airstrikes and missiles targeting civilian objects in the capital, Sana'a, and the provinces of Taiz, Lahij, Sa'ada, Hajjah, and Ibb usin...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/R_nxZpXvKTKBOi9u4AlzBE8HtDyVvCAOgRxZJVG9nit0xjK_dXVz6RMAP_1AVzd25J_BLwBkaem2q5BFsE9NlpF-2DzFcnbJGfg0c9kyyUxGFEbwYGU2UN04Mxd3rXe40KdiEsNpqwY3IGulB06goQ3XHuwdiBM2BWVhp9eboE7t93rWGNf-M87dhDlaSugn7XrQ6AvMD0DMyI1aDcwv5ujQuLR-HXAOkH9T_678snWMnDPCAeL4jqmk9kEk4HgB1cztRTJ7dyBF3mSfEKlavNUSZZ4_BBZ9AZ-4OyLSGZxwle41xEht9Y1D8tMrvsp5MXwbQB1AnS8i1yywmXI4VA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793160800951,
     "type": "drone",
     "location": "Damascus",
@@ -228911,6 +228931,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 Iran won’t allow enemy miscalculations to undermine its security, dignity: First VP📌 Tehran, IRNA – Iran’s first Vice President Mohammad Reza Aref has reiterated that Iran will never allow the enemy’s miscalculations to undermine the country’s security and dignity.In a post on his X account on W...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793815462707,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance Movement – Kata’ib al-Nujaba :In the name of Allah, the Most Gracious, the Most Merciful Among the believers are men who have fulfilled what they promised Allah. Some of them have met their end, while others are still waiting.They have made no change.At a...",
     "media": [],
     "verified": false
   },

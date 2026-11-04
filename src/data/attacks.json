@@ -172128,6 +172128,144 @@
     "media": []
   },
   {
+    "id": 488859936,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Strait of Hormuz, Taba: most striking passages todays statement Imam",
+    "location": "Strait of Hormuz, Taba",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | One of the most striking passages in today’s statement by Imam Mujtaba Khamenei is:“…At the regional level, this [Hormuz issue] can also be described as an initial jihad against imperialism, one that could expand into a much broader movement if oppression is repeated.”While the enemy camp is increasingly frustrated by the war, has suffered significant setbacks in its own elections, and is now hearing newly elected representatives call for an end to this war, Imam Mujtaba Khamenei has fram",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/LdYkds9aQdtIpWnlmClKKOOlx6URYnSCl3ps3Ld3aoXrmk4wHy0aT5WaNlut_DSTbC02uGffBwMdi7Y5MYaHA-JQKA9B-G-k8yLc_zHAKpnwU7LXI84oCruHp86b4QyqfchH0KSl6MpMvUTQohfV9Cl1wjY_9h9rJtG8J8zlmeUtMlip1kcpEfP21qZcjVG-t2ErVInyJbk3ABL0ClaJG7V-rRwt9pYHA_K4IDWuUc185LgDdC_g0Gwj09VlBtxkQbYGTo3WhxGazqq1zF4vOkcwXSVb55rVCLNlgaU3nFUnSBHv0-c2dxKxiaPz58kGoPYitrQdvACr0zaajOzH_A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 488864620,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Commander IRGC Quds Force Brigadier General",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💇 🇮🇷 | Commander of the IRGC Quds Force, Brigadier General Esmail Qaani:To the short-sighted leaders of America, it is essential to understand that the resistance constitutes a single front.They must recognise that the entire resistance movement today forms a united front, so that they do not make a grave miscalculation.Do not measure the depth of this front by the extent of its weaponry, but by the depth of its resistance. Otherwise, you will face a war involving weapons in the Strait of Hor",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/WwIZLXnKvSRFmLWKm6az6slF6-5wxLoavGLJvJ3gV9OBZ89QJvk6YKPu-Dhg6J2S7xtPxeiGO_7AD4BXR-hC3uBLY9xqSmXu-CC8aoPehSw-trAS65vLqHgYjcjLf9MP69ZKI5x_ucI3sykJxhg_b7kOffeGl4XuQw0Hpth0bNQh-A_-FTrhfufjigFobiUU8oFrKbRkMosrptkdJ6_2ELRUJ7dY4Gu5JZ-XXIMx9wHrdf_ug7mgzCY8n-KPTBFO6XZfYXsiu4zo9iOw6cFT8qF4EqybG_nfiARXcIXVlFB2wUqhsj6bLMztEcp621beCs2VCYWb0AIjWy8Q_Jrq-g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 488869305,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Iraq: IraqiResistance Islamic Resistance Movement Kataib alNujaba",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance Movement – Kata’ib al-Nujaba :In the name of Allah, the Most Gracious, the Most Merciful Among the believers are men who have fulfilled what they promised Allah. Some of them have met their end, while others are still waiting.They have made no change.At a time when we have been waiting for ages for the enactment of the Popular Mobilization Forces law which has remained pending just to appease the criminal, child-killer, and foolish Trump, we are now c",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488873991,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: March Folly Irans Embassy London takes",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 ‘March of Folly’: Iran’s Embassy in London takes swipe at Trump after midterm rout📌 London, IRNA – The Embassy of the Islamic Republic of Iran in the UK takes a jab at US President Donald Trump as his Republican Party loses control of Congress in Tuesday's midterm elections.“Now is a good time for Trump and his team to read Barbara Tuchman’s The March of Folly,” the Iranian Embassy wrote on its official X account on Wednesday, adding that “perhaps this has given them the hint.”​The message i",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
