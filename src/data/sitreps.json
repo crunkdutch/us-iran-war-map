@@ -228950,6 +228950,26 @@
     "verified": false
   },
   {
+    "id": 1793822711386,
+    "type": "airstrike",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "The Shirazis’ ChatGPT-generated tribute to El-Sayed, as though he were about to deliver divine justice to Michigan.😂",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/pBTmuqckOJZXAGes4hbX3iOz1ClX_qdZz24h5GuEUWjWSCIJvQht6oBG-FQ1xg0MFDVlZfIUXg-PkroaJuHhNVsdByM7g7sAOycBxe1fBCnEPFWE25hjRLuqRdh-RMzUicplRo3StvFfI7lLDXih2XFQRLzlBjHChzC7L8BI7-saHDUv9xvgBEAehfJOu182QqOpxYmmyQ_oV_nvtrU2OV75I5nZRqMZ9LCcBugjAc-ra5muoMnQeKVVYWuvbEW80vT5Q807jDjVwyzXKwya8l1MyIGICYpnejQOBBoiFO-t7J21UyYsQaZ1XROo4u9XxbWcqhIm7efixDq4nBZi7Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

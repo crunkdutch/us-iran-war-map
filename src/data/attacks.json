@@ -172266,6 +172266,70 @@
     "media": []
   },
   {
+    "id": 488939518,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Qeshm Island, Qeshm: IRGC announced another downing drone over",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The IRGC announced yet another downing of a US MQ-1 drone over Qeshm Island, Iran. This marks the third US drone that the IRGC have announced to have shot down today.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488944206,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Qeshm Island, Qeshm: IRGC downs 15th advanced drone over",
+    "location": "Tehran, Qeshm Island, Qeshm, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 IRGC downs 15th advanced US MQ-1 drone over Qeshm Island📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) said it has intercepted and destroyed a US MQ-1 drone over Qeshm Island in the Strait of Hormuz, marking the 15th aircraft of its kind brought down by Iranian air defenses.In a statement on Wednesday, the IRGC public relations office said the drone was detected, tracked, and destroyed by the IRGC’s advanced air defense system, operating under the country's integrated air defens",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
