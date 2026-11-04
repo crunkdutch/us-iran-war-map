@@ -171910,6 +171910,107 @@
     "media": []
   },
   {
+    "id": 488710316,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Tehran, Shiraz, Erbil: Hourly Updates November 2026 Iran Test",
+    "location": "Tehran, Shiraz, Erbil, Persian Gulf, Lebanon, Yemen, Oman, Iraq, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 4, 2026🇮🇷 Iran• Test rocket launches were reportedly documented in Soltaniabad, Shiraz.🇱🇧 Lebanon• Hezbollah denied claims that its experts are present in Yemen or involved in managing military operations, developing weapons capabilities or training AnsarAllah forces.🇾🇪 Yemen• Saudi airstrikes reportedly targeted a house in Al-Athawer area of Hayfan district, Taiz Governorate, killing and injuring civilians.• A man and a woman were reportedly injured in a ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488714994,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Houthis Ansarallah claimed have shot down",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪❌🇸🇦 – The Houthis (Ansarallah) claimed to have shot down another Saudi 'Wing Loong' drone, the tenth since the conflict in Yemen restarted. They also claimed a succesful strike against Saudi troop concentrations in the al-Jawf governorate with six ballistic…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/a6ljP-NPwHcwDEIYsgFI9QH9tVatIUsl7oez87kPrwRgZ0afmsaMIXLKIbJoTy_fJqUw1xTpU8vrLlhrVXkDetTTBS4Navhywh0H6951htbq12cUhJfzNMJTK-P1T6CMnctDg-tZL46B8HMaPQOOVE7fQBOos9FEFtWxF4N12-IrfEFeAFgdL29Rq0R5hHKFiMzlcyxldjpUG53PaAH8_yrwzyuBy1GfPyBRjKoJyUlgRgfo6C20jbGpJcS_U14zct77LJNv8SYZ-CQej2Em1Ca4CD1IFhWVI4yHoGmBtUVT2ORo4hDhv85gTCbfo--mCynLPanvb9MhQbSVcolMag.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 488719673,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Tehran, Yemen, Israel: Hezbollah denies allegations operating Yemen Tehran",
+    "location": "Tehran, Yemen, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Hezbollah denies allegations it is operating in Yemen📌 Tehran, IRNA - Hezbollah has strongly denied allegations by the interior minister of the so-called Yemeni Transitional Council that the movement has experts in Yemen involved in managing military operations and developing military capabilities of the Yemeni forces.In a statement issued by its Media Relations Office on November 4, the Hezbollah resistance movement strongly rejected claims that its personnel were helping Ansarullah develop",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
