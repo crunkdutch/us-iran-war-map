@@ -225898,6 +225898,46 @@
     "verified": false
   },
   {
+    "id": 1793793750026,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-10-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ In photos: From Behbahan to Minab, Iran remembers martyred students📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qNQqwD5p2lkDvCUbDf4Ox1PlmhacHRywH8APw3YQXe0pFt_kjs2thyoNHTd7YnTezXVdSUXmAiPgOiPrkbphTZJG9RpXBSK4F-0dL_ymSbSFprO0ilrJMIR24JzgZ1PPvXdqfSZH08IVSwLv6edXjqBjlrSY0TsEpZVo7f1rYry_saTTs9bL4YYcFX9lWC9sHfkoIiSD2PCZL7lakMx-reKkt-Lcx7az9vP3-RIOU1e39-A0iK-a9xRfkLlWN4xK-oRjtmIwzc3kypA_ArlWJWCusmNKPY3pSOxrk753kU_ziOCenlycIJyPl3lRHtK5Tw7mgEt7deHhRQu0v_s26Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793793779014,
+    "type": "airstrike",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-10-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 In photos: Steel Symposium 1405 opens in Isfahan📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/RmcdsIc82QDa6E8xOJgDSj_Q2enhgVq0GQOvo6-fB7crCf3NEV_aBoaPgN_6t9XYehieQXRojbBF1QCHYgMTxXBNSxogfZkM9EyTybao96BpMnowXSIxl0ixW1jSETTuhchYGe2bDFIPMiio4hqlbyO7H_tIC69WYeEJzSV18NiZQ9GwfLp0j_bfAExVoHe-Oq899mddknvWDoEozJodM0VKsqltW3Qul-jeEu2pSstDh75hdtzadAlH4ZX3Cady3z3_IUw_RSC-CaqEImgrViA1Pc4y2Y5IWRwEL1abN_RcYshksBhK3M-01jb-vhxFEi2AE95eMEl-byI9p-m3ag.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793160800951,
     "type": "drone",
     "location": "Damascus",
@@ -227470,6 +227510,66 @@
     "verified": false
   },
   {
+    "id": 1793793752553,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: The “Israeli” Elections Committee approved the election results and ruled out any irregularities.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793793786236,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicHis Eminence Ayatollah Supreme Leader Sayyed Mojtaba Khamenei (may his shadow endure):– The only way to achieve absolute deterrence is to continue the strategy of strengthening Iran along the path of comprehensive progress.– The situation in the Gulf, particularly in the Strait of H...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793793837879,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "This footage documents the moment an advanced MQ-9 drone was intercepted and shot down in the skies over the Strait of Hormuz early this morning.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793793809897,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_Republic His Eminence Ayatollah Supreme Leader Sayyed Mojtaba Khamenei (may his shadow endure): – The situation in the Strait of Hormuz has exposed the treachery and inability of the great powers to defend their client regimes. – Iran’s control…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793584430213,
     "type": "rocket",
     "location": "Hodeidah",
@@ -228564,6 +228664,137 @@
         "thumbnail": "https://cdn4.telesco.pe/file/bOxkManWRUTZwhUp0n2uyqv2uUJWJskzEKx-UbZuDlGPH1JJWcjolnymMFTaYQwf7XEjByC-ITXZ46vXamnlNg6oWsfMJTlfUy77YbPEaWF1roC_RINSppsSLBO1sRgERnKF5VXjYC3MeD5ZtbWXD9SqLPxnFsDqBoRsKCt_HZ_4hDMbpjc_NgKQ6_7CAQiUmnbQpagPFwVBBzF_Q3FHsEpcCM0zhFIGCu6t0FV8k1-g_ne4-raK4NEQQIE6j0lI3Kx7LJ2vXkD8ctaWzki5NBdG85xlgDcQnmZq7-Bm1vJARAWlelRwn494Rp_Qcg-D4JM51Fnc8dnYeyY5bNkJQw"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1793793787665,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The important message from the Leader of the Islamic Revolution, Imam Mujtaba Khamenei, on the occasion of the National Day of Confronting Global Arrogance, will be released within the hour.🔹@enemywatch+",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/CjRcy7SKJx4IHSkweu7T_kDXb3QNjMretFbzBThgztljvaiMe0kKBpj0W3CAeiMvPLotShdEJVWXvO8cnB-8UUjwmsET5cc9nb9R0AqNUKQPrqzLGNLqJUK6KSZit-_D6oLePiaYB4IQK4saFTU6j2w5hxlpbj08hwl22AC40vjA9pq-NwDntw_WLKqSJ3D7gTc89-jR1-QGAchhFctGc4fyrzOhBjiL1dBpPHbJi2nJOumryeSi7y7WDU3wPdR3WqOYQa0STHguOduH4qg0vDffgb8wmH35AvVAMg-l_gc6y_LWTb6rb75WDNV5QtDQrRIHtHaOIOzzwD0ZEtHXxQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793793796523,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Message of Imam Sayyid Mujtaba Husayni Khamenei, on the occasion of the National Day of Combating Global Arrogance: (1/2)In the Name of Allah, the Most Compassionate, the Most MercifulThe massacres committed against civilians aboard a civilian aircraft; the extensive, long-term and severe eco...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793793799963,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Leader of the Islamic Revolution Imam Mujtaba Khamenei:“If there are still those who place even the slightest hope in a change in the behaviour of the hegemonic system or in party and factional shifts within it, or imagine that by making concessions to America they can dissuade it from it...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/nz0Gmkv9QZRrxWnWxl0O8mw45jcZPMCrOvL1Tyhy5QuqZxaEPGFF9Maudg2UIJzhK7MzLM3dZqAfuG15QFCufrHD_Y5UNoA5xJ9DUosYyT0RxRY_y4xsqljtDFN1Dnv1Evx8VyKvhDwSNUBFeUC4WlFeTxOiBd5CcUn1aYdnsodjltArDUzU04hRGtJpuWctMroqokQ7keKO7bYB1OVAjQzR847DNqTMvTmo7aDD9TyxnM80urksovUUBvWv1VEDv0pvtRIcUeSCxkZ3d38a8TeFmpYTRR021ysSUWhvgwPpkbUH3z-PwxopHaWB2jeiMWNb1ZHP0bqoMjQZ1qmbLg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793793830665,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Imam Sayyid Mujtaba Khamenei:(The remarks were delivered in an exceptionally high-pitched tone, with a degree of frankness, intensity and clarity rarely seen before.)- The situation in the Strait of Hormuz has exposed the unreliability of the great powers and their inability to defend their c...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/WwIZLXnKvSRFmLWKm6az6slF6-5wxLoavGLJvJ3gV9OBZ89QJvk6YKPu-Dhg6J2S7xtPxeiGO_7AD4BXR-hC3uBLY9xqSmXu-CC8aoPehSw-trAS65vLqHgYjcjLf9MP69ZKI5x_ucI3sykJxhg_b7kOffeGl4XuQw0Hpth0bNQh-A_-FTrhfufjigFobiUU8oFrKbRkMosrptkdJ6_2ELRUJ7dY4Gu5JZ-XXIMx9wHrdf_ug7mgzCY8n-KPTBFO6XZfYXsiu4zo9iOw6cFT8qF4EqybG_nfiARXcIXVlFB2wUqhsj6bLMztEcp621beCs2VCYWb0AIjWy8Q_Jrq-g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793793832973,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Aban 13 commemoration ceremony in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/YCkgKbuvWLs4td3JJXhkDcBXaLLAQU0cbNNX5fgKPmUpBYrYeICOtau6v8rD56_LsdHKWiUAVgwTGTVF6g0Vo4_gaMXYpp9iHpZ653hmvBIt8TCnkymCkw5aVTg2IfjGdYjQNNZiPcTIp1zlmGOUoZPICZmbdxSO1_3M8f2DL0sJBA4ln0RUZ5QZDQP20GGVsCtA8k8dFDy7sOl8AFQlabOYnnB1LCiNEhdzxECc2zh2MGmaEPSG34N9yZDuu4qT-ixu0ZjUeHrRam4g_Wdq5J10RqhqOYgs9QradHFM4BQRNAGXp9eV6_ArJklaQA6f_RAuM3ffCXeb8Uzp9aAyoA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793793820534,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "A video showing the people of Tehran taking part in a march marking the anti-arrogance day.The martyrdom of Tehrani students by Pahlavi regime and the seizure of the US Embassy in Tehran, known as the “Den of Espionage,” are among the historic events commemorated on this day.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/41799",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/IYsZslVvvSk0Y4vphdj9SW8RpHJVu8qzO9qpl778L0grZ2VFAbc6jYfFyx2Nu0OLBvtrIl1JqMdzExDsoMT644J2uNd5LkficmumWm_6DlXVRSOdYTfQ9vWP6UJjpoBEB1cPj65eEpm6Vg8Kp6QSiMNhFdrMiiChHqdLtq2o4rpmogWnNsKkiCAnO2ZdSEX0ak_EzDW62e4Zag4wT9zNIZs3Dl9qfhJgaEHBgueY2rm1cyL-okWt2vBYZG6RsK8JK2j1Jk_2DWIvs_v_awk-dwpHMGTctS4WH8Jen1n25r1yCxHL_1zRvzZXEm-_CH2pfbIVMvkw-PxQ-cXovcky4A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793793829660,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Stronger, progressive Iran is only way to achieve absolute deterrence: Leader📌 Tehran, IRNA – Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Hosseini Khamenei, says the only path to achieving an absolute deterrence is the continued pursuit of an ever-stronger Iran strategy, aimed at ...",
+    "media": [],
     "verified": false
   },
   {

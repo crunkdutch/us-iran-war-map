@@ -168343,6 +168343,43 @@
     ]
   },
   {
+    "id": 488626227,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-27",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab: Envoy Sanctions constitute aggression under international",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Envoy: Sanctions constitute act of aggression under international law📌 New York, IRNA 2 Ambassador and Chargé d’Affaires of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi, has described sanctions as an example of economic terrorism, saying they constitute acts of aggression under international law.“Sanctions are examples of economic terrorism, while blockades enforced by armed force constitute acts of aggression under international law,” Darzi said, addressing the Un",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/qNQqwD5p2lkDvCUbDf4Ox1PlmhacHRywH8APw3YQXe0pFt_kjs2thyoNHTd7YnTezXVdSUXmAiPgOiPrkbphTZJG9RpXBSK4F-0dL_ymSbSFprO0ilrJMIR24JzgZ1PPvXdqfSZH08IVSwLv6edXjqBjlrSY0TsEpZVo7f1rYry_saTTs9bL4YYcFX9lWC9sHfkoIiSD2PCZL7lakMx-reKkt-Lcx7az9vP3-RIOU1e39-A0iK-a9xRfkLlWN4xK-oRjtmIwzc3kypA_ArlWJWCusmNKPY3pSOxrk753kU_ziOCenlycIJyPl3lRHtK5Tw7mgEt7deHhRQu0v_s26Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 484054468,
     "type": "intercept",
     "status": "confirmed",
@@ -170674,6 +170711,70 @@
     "media": []
   },
   {
+    "id": 488640252,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Yemen, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Yemen, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Interior Minister of the So-Called Yemeni Transitional Council: Hezbollah’s Media Relations Office categorically denies the claims made by the Interior Minister of the so-called Yemeni Transitional Council concerning the presence of Hezbollah experts in Yemen and their participation in managing military operations and developing the armament and training capabilities of the brothers in Ansar Allah. It affirms",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 488644929,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Unknown Interception — Strait of Hormuz: This footage documents moment advanced drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "This footage documents the moment an advanced MQ-9 drone was intercepted and shot down in the skies over the Strait of Hormuz early this morning.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 487381756,
     "type": "drone",
     "status": "confirmed",
@@ -171775,6 +171876,38 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 488630901,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tabriz, Minab: seeks deny Iranian people dignified future",
+    "location": "Tabriz, Minab",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 US seeks to deny Iranian people a dignified future: Official📌 Tabriz, IRNA – Parliament Deputy Speaker Hamidreza Haji Babaei says Iran’s differences with the United States stem from the Iranian people’s determination to preserve their dignity and secure a respected position in the world.Speaking at a ceremony marking Student Day and the National Day of the Fight against Global Arrogance in Tabriz, northwestern Iran, on Wednesday, Haji Babaei said Iran seeks a prosperous future for its people",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
