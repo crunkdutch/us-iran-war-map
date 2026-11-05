@@ -172820,6 +172820,38 @@
     "media": []
   },
   {
+    "id": 489460136,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Tehran, Qeshm Island, Qeshm: Iran downs fifth sixth MQM170 drones",
+    "location": "Tehran, Qeshm Island, Qeshm",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran downs fifth and sixth MQM-170 US drones over Qeshm Island📌 Tehran, IRNA – The Public Relations office of the Islamic Revolution Guards Corps (IRGC) in a statement announced the downing of fifth and sixth American reconnaissance drones—MQM-170—over the island of Qeshm.A statement from the Public Relations office of the Islamic Revolution Guards Corps (IRGC) reads: Moments ago, the fifth and sixth American reconnaissance drones—MQM-170 model—were brought down over Qesm Island through the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
