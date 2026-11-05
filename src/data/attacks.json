@@ -171873,6 +171873,38 @@
     "media": []
   },
   {
+    "id": 489309852,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemeni Armed Forces affirm that Saudi",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Yemeni Armed Forces affirm that the Saudi enemy’s claim of intercepting a missile in the skies over Madinah is yet another continuation of its great and grave fabrications against our dear Muslim people and their armed forces.Our operations target only its oil facilities and military bases.Yemen, the land of wisdom and faith, is among the peoples most devoted to the sanctity of holy sites. Those who pose a threat to the holy sites are the ones who bring events of debauchery and immorality to",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 488481582,
     "type": "drone",
     "status": "confirmed",
