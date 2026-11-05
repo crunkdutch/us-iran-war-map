@@ -226908,6 +226908,122 @@
     "verified": false
   },
   {
+    "id": 1793909303322,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Legal diplomacy must deliver tangible results in protecting national interests: Iran official📌 Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has called for a results-oriented approach to legal and multilateral diplomacy, stressing that inter...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793909326957,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-29",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Exclusive | Iranian Navy carried out more than 20 operations against US warships: Commander📌 Tehran, IRNA – Naval forces of the Iranian Army carried out more than 20 operations against US warships during the 40-day conflict that began on February 28, while approximately 300 additional operations...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793909280095,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-29",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 IRGC Navy captures US drone intact over Strait of Hormuz📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has captured a US reconnaissance and decoy drone intact west of the Strait of Hormuz after taking control of its guidance and control systems.The statement said the Navy’s ele...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793909309677,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-29",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 'Surrender' does not exist in Iranian nation’s lexicon: Commander📌 Tehran, IRNA — The enemies of the Islamic Republic failed to achieve their goals in their recent war of aggression, emphasizing that “surrender” has no place in the lexicon of the Iranian nation, says Deputy Chief of the Iranian ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793909282464,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-10-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "group of Iraqi tribal chiefs paid their respects at the burial site of the martyred Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei in Mashhad, eastern Iran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/0485da85c0.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C_2RU6EoXCsMepeiEbsogYRad1XM8_JdAFQihhK5xnWKHtxupkMwLKgrPCs3aeiwTGGRhAwSe2lRDjpgMywXC5Q181pjA5l4gPUisGVopQKoJ-aE1dYmaiE7b0n5mQo5oA-MgA6KQcN9AFwGSbrq3esKGPK5viQKiTX0baI8prNcdSA_svy8-d4fJ94sumz65pQcp-Sy-CYHcIPfwkChoecSvzlHD6mhsRE46zl35e18gcyqgMlyypsWl3UrwfNN_wl7BwaFedrZmp4iD5e6hRPYBlfz67Z2uEBC1P-56ww7eMIPZV5AgCQ-Gkth6VTYgN7MNg2kSl6_mQ-MnrEF_g"
+      },
+      {
+        "url": "https://t.me/Irna_en/41505",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/C_2RU6EoXCsMepeiEbsogYRad1XM8_JdAFQihhK5xnWKHtxupkMwLKgrPCs3aeiwTGGRhAwSe2lRDjpgMywXC5Q181pjA5l4gPUisGVopQKoJ-aE1dYmaiE7b0n5mQo5oA-MgA6KQcN9AFwGSbrq3esKGPK5viQKiTX0baI8prNcdSA_svy8-d4fJ94sumz65pQcp-Sy-CYHcIPfwkChoecSvzlHD6mhsRE46zl35e18gcyqgMlyypsWl3UrwfNN_wl7BwaFedrZmp4iD5e6hRPYBlfz67Z2uEBC1P-56ww7eMIPZV5AgCQ-Gkth6VTYgN7MNg2kSl6_mQ-MnrEF_g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1793909332206,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-29",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Pezeshkian calls for regional cooperation, slams double standards on human rights📌 Tehran, IRNA – President Masoud Pezeshkian has reiterated his call for deeper cooperation among regional countries, especially neighbors, in order to assist each other and address common security challenges.Addres...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793909332832,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-29",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 US must demonstrate its adherence to commitments: Iranian MP📌 Tehran, IRNA — The Islamic Republic will no longer accept an agreement bearing the signature of an American president unless and until the United States demonstrates its adherence to the commitments reached, says Ebrahim Azizi, a lawm...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793338906548,
     "type": "airstrike",
     "location": "Oman",
@@ -228824,6 +228940,21 @@
     "verified": false
   },
   {
+    "id": 1793909353464,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps: Moments ago, the sixth American MQM-170 reconnaissance drone was shot down over Qeshm Island as a result of the advanced electronic warfare systems operated by the Aerospace Force of the Islamic Revolutionary Guard Corps.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793757660214,
     "type": "drone",
     "location": "Lebanon",
@@ -229489,6 +229620,51 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "+ ✅ | Reformist government: another danger and shame for Iran: It was initially thought prudent to avoid comment because many issues had not yet been exposed. The Cairo deal, it seems, was concluded in a very tricky and hidden manner, similar to how the…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793909335582,
+    "type": "missile",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-05",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly updates (+ve)🇮🇷 Iran - 🇷🇺 Russia• Secretary of the Supreme National Security Council Major General Mohsen Rezaei said he delivered a message from Imam Mujtaba Khamenei to Russian President Vladimir Putin. Putin conveyed his warm greetings to Imam Khamenei. • Rezaei said the two sides d...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793909354679,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Public Relations of the Iranian Revolutionary Guard Corps:Moments ago, a fifth American MQM-170 reconnaissance drone was shot down in the airspace over Qeshm Island by advanced electronic warfare systems belonging to the Iranian Revolutionary Guard Corps' aerospace force.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793909281220,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-05",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iranian and Emirati FMs discuss bilateral ties, regional developments over phone📌 Tehran, IRNA –&nbsp;Abbas Araghchi and Sheikh Abdullah bin Zayed Al Nahyan, the Foreign Ministers of the Islamic Republic of Iran and the United Arab Emirates, have held a telephone conversation.During the telephon...",
     "media": [],
     "verified": false
   },

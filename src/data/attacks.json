@@ -171905,6 +171905,38 @@
     "media": []
   },
   {
+    "id": 489394371,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Qeshm Island, Qeshm: Islamic_RepublicIslamic Revolutionary Guard Corps Moments si...",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps: Moments ago, the sixth American MQM-170 reconnaissance drone was shot down over Qeshm Island as a result of the advanced electronic warfare systems operated by the Aerospace Force of the Islamic Revolutionary Guard Corps.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 488481582,
     "type": "drone",
     "status": "confirmed",
@@ -172687,6 +172719,102 @@
       "other": 0
     },
     "description": "How many more suspicious incidents will Europe tolerate before asking who benefits from turning its security environment into a theatre of fear?From bomb threats disrupting aviation to attacks targeting supermarket refrigerators, a disturbing pattern of incidents is emerging. And Israel's role in exploiting European security fears, manufacturing political narratives and pushing the continent towards confrontation with Iran deserves serious scrutiny.What comes next? Railway sabotage? Manufactured",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489375561,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Hodeidah, Lebanon: Hourly updates Iran Russia Secretary Supreme",
+    "location": "Sanaa, Hodeidah, Lebanon, Yemen, Qatar, Saudi Arabia, Iraq, Taba",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly updates (+ve)🇮🇷 Iran - 🇷🇺 Russia• Secretary of the Supreme National Security Council Major General Mohsen Rezaei said he delivered a message from Imam Mujtaba Khamenei to Russian President Vladimir Putin. Putin conveyed his warm greetings to Imam Khamenei. • Rezaei said the two sides discussed major regional developments, the post-war period and future regional security arrangements.• Rezaei said Putin condemned the attacks on Iran’s nuclear facilities, described the war against Ir",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489380262,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Qatar, Israel: Yemeni official confirmed that Israel involved",
+    "location": "Yemen, Qatar, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Yemeni official: If it is confirmed that Israel was involved in the attack against the Yemeni people and that the operation was launched from military bases in Qatar, our armed forces will target both Qatar and Israel.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489384964,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Qeshm Island, Qeshm: Public Relations Iranian Revolutionary Guard CorpsMoments",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Public Relations of the Iranian Revolutionary Guard Corps:Moments ago, a fifth American MQM-170 reconnaissance drone was shot down in the airspace over Qeshm Island by advanced electronic warfare systems belonging to the Iranian Revolutionary Guard Corps' aerospace force.🔹@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
