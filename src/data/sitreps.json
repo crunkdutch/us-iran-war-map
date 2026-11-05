@@ -229229,6 +229229,21 @@
     "verified": false
   },
   {
+    "id": 1793880460902,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-04",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Ghalibaf fires back at Vance: Take your anti-war message to Trump📌 Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has responded to US Vice President JD Vance criticizing US war policy, questioning why he does not direct his remarks at US President Donald Trump.In a post on his X acco...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793829861140,
     "type": "drone",
     "location": "Sanaa",
@@ -229240,6 +229255,66 @@
     "source": "IDF",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴 Hourly Updates (-ve): November 5, 2026🇵🇸 Gaza• The israeli army claimed it killed several members of Hamas, Islamic Jihad and the Army of Islam in raids in Gaza. Those named by the Israeli military included Mahmoud Quffa, Ali Asaad Suleiman Qishta, Muhammad Zakaria Al-Jamal, Muhammad Amin Al-Ni...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793880437419,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly updates: November 5, 2026🇱🇧 Lebanon• Israeli air raids struck Tolouseh, Kfar Tibnit, the area between Hadatha and Aayta al-Jabal, and Al-Qantara on November 4. An Israeli drone strike also targeted Qabrikha. Artillery shelling hit Wadi al-Hajir, Wadi al-Saluqi, Wadi Zibqin, Al-Mansouri, ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793880388026,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-05",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Public Relations Department of the Iranian Army's Navy:A tanker that was illegally sailing in an unsafe area east of the Strait of Hormuz caught fire this morning after colliding with a naval mine, causing it to stop. Like other tankers that have collided with naval mines in recent days and c...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793880465506,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "How many more suspicious incidents will Europe tolerate before asking who benefits from turning its security environment into a theatre of fear?From bomb threats disrupting aviation to attacks targeting supermarket refrigerators, a disturbing pattern of incidents is emerging. And Israel's role in ex...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793880402221,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 | Reports of four Palestinians killed today, dozens arrested during raids across the occupied West Bank, and further attacks on Palestinian communities have once again become part of the daily routine. Footage showing the assault of abducted Palestinians from Gaza inside detention facilities wa...",
     "media": [],
     "verified": false
   },

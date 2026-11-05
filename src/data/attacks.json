@@ -172559,6 +172559,102 @@
     "media": []
   },
   {
+    "id": 489230062,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Lebanon, Yemen, Israel: Hourly updates November 2026 Lebanon Israeli",
+    "location": "Lebanon, Yemen, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly updates: November 5, 2026🇱🇧 Lebanon• Israeli air raids struck Tolouseh, Kfar Tibnit, the area between Hadatha and Aayta al-Jabal, and Al-Qantara on November 4. An Israeli drone strike also targeted Qabrikha. Artillery shelling hit Wadi al-Hajir, Wadi al-Saluqi, Wadi Zibqin, Al-Mansouri, the outskirts of Mifdoun and Haris, Bayt Yahoun, Hadatha, Zawtar al-Sharqiya and the outskirts of Baraashit. Sonic bombs were reported over Helta and the outskirts of Kfar Shuba.• Further Israeli arti",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489234759,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Strait of Hormuz: Public Relations Department Iranian Armys NavyA",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Public Relations Department of the Iranian Army's Navy:A tanker that was illegally sailing in an unsafe area east of the Strait of Hormuz caught fire this morning after colliding with a naval mine, causing it to stop. Like other tankers that have collided with naval mines in recent days and caught fire, this tanker had its identification and navigation systems disabled.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489239457,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Israel: many more suspicious incidents will Europe",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "How many more suspicious incidents will Europe tolerate before asking who benefits from turning its security environment into a theatre of fear?From bomb threats disrupting aviation to attacks targeting supermarket refrigerators, a disturbing pattern of incidents is emerging. And Israel's role in exploiting European security fears, manufacturing political narratives and pushing the continent towards confrontation with Iran deserves serious scrutiny.What comes next? Railway sabotage? Manufactured",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
