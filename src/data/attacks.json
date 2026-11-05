@@ -171318,6 +171318,38 @@
     "media": []
   },
   {
+    "id": 489164409,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaperHezbollah taking...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:Hezbollah is taking advantage of this period to rebuild its capabilities, enhance the efficiency of its operatives, and gather intelligence on the “Israeli” army. It is worth noting that the “Israeli” army does not disclose information about the drones it intercepts along the northern border, but at least some of them are Hezbollah reconnaissance and surveillance drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 487946635,
     "type": "intercept",
     "status": "confirmed",
@@ -172426,6 +172458,38 @@
       "other": 0
     },
     "description": "💬 IRGC downs 15th advanced US MQ-1 drone over Qeshm Island📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) said it has intercepted and destroyed a US MQ-1 drone over Qeshm Island in the Strait of Hormuz, marking the 15th aircraft of its kind brought down by Iranian air defenses.In a statement on Wednesday, the IRGC public relations office said the drone was detected, tracked, and destroyed by the IRGC’s advanced air defense system, operating under the country's integrated air defens",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489155018,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Saudiled coalition continues campaign airstrikes against",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/🏴| 🇾🇪 Saudi-led coalition continues its campaign of airstrikes against civilians in Yemen, including attacks on mosques, religious schools, and residential areas. In a particularly heinous attack in Taiz Governorate, coalition airstrikes targeted the home of Sheikh Mansour Sinan in the Barah area of Maqbana district, killing and injuring civilians. According to reports, the martyrdom toll from Saudi-led coalition airstrikes on residential homes over the past 12 hours has reached 12 marty",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
