@@ -173177,6 +173177,70 @@
     "media": []
   },
   {
+    "id": 489511803,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Persian Gulf, Red Sea, Lebanon: Advisor Imam Mujtaba Khamenei Akbar Velayati1",
+    "location": "Persian Gulf, Red Sea, Lebanon, Oman, Iraq, Israel, Taba",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Advisor to Imam Mujtaba Khamenei; Ali Akbar Velayati:1. Amid widespread discussions about the emerging new order in West Asia, it is important to recognise that Iran serves as a strategic bridge connecting the Persian Gulf with Central Asia, the Caucasus, and the Sea of Oman. Any energy or transit corridor seeking to bypass Iran will inevitably incur higher costs or face reduced stability.2. The succession of crises, from Gaza to the Red Sea and from Lebanon to Iraq, has demonstrated that",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489516506,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: other violating tankers catch fire Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Two other violating oil tankers catch fire in Strait of Hormuz📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that two oil tankers violating maritime regulations, one east of the Strait of Hormuz and the other within the strait, were stopped after striking a mine while attempting to navigate an unauthorized route.In a statement on Friday, the Public Relations office of the IRGC said that the two tankers had switched off all their navigation and identification s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
