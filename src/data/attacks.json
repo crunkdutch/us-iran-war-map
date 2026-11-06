@@ -173241,6 +173241,43 @@
     "media": []
   },
   {
+    "id": 489521210,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Persian Gulf, Red Sea: Iran architect regional order Leaders adviser",
+    "location": "Tehran, Persian Gulf, Red Sea, Lebanon, Oman, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iran now key architect of regional order: Leader’s adviser📌 Tehran, IRNA – Ali-Akbar Velayati, a senior adviser to the Leader of the Islamic Revolution, says the geopolitical Tsunami sweeping West Asia has engulfed the Israeli and US elections, stressing that Iran has now emerged as one of the main architects of the regional order.In a post on his X account on Friday, Velayati said that as discussions about a new West Asian order intensify, Iran must be recognized as a bridge connecting the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/YEDl6vr2m7T1pfWqJgeihDNYOLh_mBWUW7Iez0kKaa96yBJ5EOzm6jx9T69DDyCP5YkbZu6hooOtywcggICfx5VWQ7fYT8V5I5a4SMSmhh6JMvW0_c5S5Mc6FOdDsypx2vXxL0rgHHoanT-i0tiDTJkXyAdfi8pxm0v8gNCrHu1fUQ-bxsg4sRI-SEcQNizGkMOBkYKFxs12gxLUZU3VZyLNZnaGh40isaJLBwiiwkUDZ8Vo1obnO1dIaLGScWN5HCB8J7_4ogoDGaUCVH5MBJVcKOMaDnOTZtqcV3jzGZ0tXUW1OMblW_luAusTehvpWbIs2kOfhGQPU6ktrT-fuQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
