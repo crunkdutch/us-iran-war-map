@@ -170251,6 +170251,43 @@
     "media": []
   },
   {
+    "id": 489525915,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Aden, Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Aden, Yemen",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:In this briefing, the Yemeni Armed Forces reveal the operational command structure and field military leadership exercised by several Saudi enemy officers in Yemen. These officers are responsible for directing military operations and overseeing all military mobilisations and operational centres inside the country. The structure is as follows:1. Joint Forces CommandThe Joint Forc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/LSKmfqTK0H8NzUdFvDOf16THzND0Kex8neBoLOksCdFy4qmQEayXATBnVqyTRx8W5Swp8LVFnUeSZYg4boIttB5vdIDkZwe6XOA5_vCuWyw5VJZIQJHflB5V0qvVeoHawO6QeIbJ4qTsXllAPCeCamnBhsHtGZzdpY4BtZYLmqjgku8jQT4U9tgoPH4OulxRYoDRHZ-HqgDnHoBG75L4taABTQEwyNwoKO3-oQzlNukcTtdXdJ5wedfuL8TwIqjq7mclm_99UXboKdpuguKCkeeGVhSKSISx0xvq8nlm5gNWxTv7zkIEIpuNNnpE1zuqVy_ptOKA83ITmVS84YdIEQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 486345960,
     "type": "drone",
     "status": "confirmed",
@@ -173078,7 +173115,12 @@
     "description": "🇾🇪 | Yemeni official: If it is confirmed that Israel was involved in the attack against the Yemeni people and that the operation was launched from military bases in Qatar, our armed forces will target both Qatar and Israel.🔹@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/UXiIn7xCLiAOYESTACzpTXftcBuhr20xGLtsKoZbx7jA6lBoDMcdiff5BBn6qxFVqvo9jx0FgDZjt4-qc9JA6mIJFAXom_7hs16iVeZjue_vYV_h84Dh-W_intUM2fkUAX4aBTaD6XR-JdPGYA8eEXVJI3gEoBOx2ozqfegh-lF-CAdrfIb5VIcji6d8dOsF9wOti4UHzFfyiL8KVWvVCPpVbazPh8U-vNjo7VwGW5phNQd2KOvM8qNxMyoAhhagiQzrPXBA_ecEvQZGF0MUmvYwypMnv153K4sjU9jbi1IfeaRL4WGpBkqx-sTVdcEJneW24IOsr6vx-oghdbDbAg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 489384964,
@@ -173276,6 +173318,70 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 489530621,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Oman: Unconfirmed reports that aircraft have been",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Unconfirmed reports that a U.S. aircraft may have been targeted off the coast of Oman. A US Navy CMV-22B Osprey aircraft transmitted an emergency squawk code 7700 while flying along Oman's southern coast, signalling a general in-flight emergency requiring immediate attention. The CMV-22B belongs to the Osprey family of aircraft, which is used by the US Navy to transport personnel, cargo and essential equipment between coastal bases and aircraft carrier.@enemywatch+Wait...",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489535328,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Qeshm Island, Qeshm: IRGC Drone Intercepted Destroyed over Qeshm",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC: MQ-1 Drone Intercepted and Destroyed over Qeshm Island:The 16th American MQ-1 drone was intercepted and destroyed moments ago over Qeshm Island by the IRGC’s newly developed advanced air defence system, operating under the command of Iran’s integrated air defence network.The repeated failures of enemy reconnaissance missions have further tarnished the record of Commander Brad Cooper. Through intelligence superiority and continuous monitoring of hostile aerial movements, IRGC forces ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,

@@ -227827,6 +227827,26 @@
     "verified": false
   },
   {
+    "id": 1793974306838,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-10-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:In this briefing, the Yemeni Armed Forces reveal the operational command structure and field military leadership exercised by several Saudi enemy officers in Yemen. These officers a...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/LSKmfqTK0H8NzUdFvDOf16THzND0Kex8neBoLOksCdFy4qmQEayXATBnVqyTRx8W5Swp8LVFnUeSZYg4boIttB5vdIDkZwe6XOA5_vCuWyw5VJZIQJHflB5V0qvVeoHawO6QeIbJ4qTsXllAPCeCamnBhsHtGZzdpY4BtZYLmqjgku8jQT4U9tgoPH4OulxRYoDRHZ-HqgDnHoBG75L4taABTQEwyNwoKO3-oQzlNukcTtdXdJ5wedfuL8TwIqjq7mclm_99UXboKdpuguKCkeeGVhSKSISx0xvq8nlm5gNWxTv7zkIEIpuNNnpE1zuqVy_ptOKA83ITmVS84YdIEQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793418405584,
     "type": "rocket",
     "location": "Sanaa",
@@ -230090,6 +230110,36 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | Advisor to Imam Mujtaba Khamenei; Ali Akbar Velayati:1. Amid widespread discussions about the emerging new order in West Asia, it is important to recognise that Iran serves as a strategic bridge connecting the Persian Gulf with Central Asia, the Caucasus, and the Sea of Oman. Any energy or tr...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793974270136,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-05",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Audio message by Hojjatoleslam Hamid Rasaei, Deputy Chairman of the Central Council of the Sharyan Front and Member of Parliament, addressing the Iranian people from Evin Prison:• I miss being among the people who have been gathering in the square for 250 consecutive nights, demanding justice...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1793974279228,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-05",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC: MQ-1 Drone Intercepted and Destroyed over Qeshm Island:The 16th American MQ-1 drone was intercepted and destroyed moments ago over Qeshm Island by the IRGC’s newly developed advanced air defence system, operating under the command of Iran’s integrated air defence network.The repeated fa...",
     "media": [],
     "verified": false
   },
