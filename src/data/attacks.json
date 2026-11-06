@@ -167821,6 +167821,38 @@
     ]
   },
   {
+    "id": 489474215,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-26",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Yemen: Yemen Thanks Allah armed forces targeted",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen Thanks to Allah, our armed forces targeted the Ministry of Defense in the Saudi enemy’s capital, Riyadh, with a ballistic missile, scoring a direct hit, thanks to Allah.http://t.me/army21ye",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 483987324,
     "type": "drone",
     "status": "confirmed",
@@ -170027,6 +170059,70 @@
     "media": []
   },
   {
+    "id": 489469521,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: Yemeni Armed ForcesIn response brutal Saudi",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:In response to the brutal Saudi aggression targeting our country and our people, and in retaliation for the recent massacres that claimed the lives of dozens of martyrs and wounded, most of whom were women and children,The Yemeni Armed Forces, with Allah Almighty's help, carried out six qualitative military operations.The first operation targeted the Ras Tanura refinery with a ballistic missile, and the strike was precise, thanks be to Allah.The second operation t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489478910,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Occupied_PalestineIn Name Allah Most Gracious Most",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Gracious, the Most MercifulStatement Issued by the Islamic Jihad Movement on the 109th Anniversary of the Ill-Fated Balfour DeclarationOn this day, 109 years ago, our Palestinian people recall a crime committed by the British occupation against our people, whose consequences have extended across generations and inflicted a wound that continues to bleed in the body of our nation and its history. The ill-fated “Balfour Declaration” represents one o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 486345960,
     "type": "drone",
     "status": "confirmed",
@@ -170393,6 +170489,38 @@
         "thumbnail": "https://cdn4.telesco.pe/file/qOG7ihcdCpMoejW6eZyHJ7vzIdlHkmj4_FWelQzD6Xr3geHFJqkBu6Q-W2TFmi5li5Vz03LvyptlmhWsBxKOZhq4Fzn12DaCdKDtFQyOwKdzG-6IIaAdIx16tA826UpEt3S0gcXL0AYQs4a3Nxp7t4B5snOhbg26rfnjpKVR8Pff-rXpW85FJWmIT1ZXUw-u04k_ehRr9GVHy3BckSyYA8EGaJtDxaUkqZNvgeTm17RA2dTPWgCMyVCymOJKYaaCEfTkFHNvLRTbCEmBIDxhIwzZTiXmrIeduSvq177lnusWzlGMr8VAsWGUNHDDBpyR75kYQXZY0ZM9wIZ74GE7oQ"
       }
     ]
+  },
+  {
+    "id": 489483606,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: Islamic_RepublicIssued Public Relations Department Islamic R...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIssued by the Public Relations Department of the Islamic Revolutionary Guard Corps:O heroic and uprising Iranian people, the world is witnessing the greatness of your epic feats. Dear and conscious people, you have remained faithful to your covenant with God, and God has fulfilled His promise to grant you victory, bestowing upon us successive victories.Coinciding with the 248th night of your historic uprising, your fighters and sons in the Naval Force and the Aerospace Force of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 486943285,
