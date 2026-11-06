@@ -173448,6 +173448,49 @@
     "media": []
   },
   {
+    "id": 489549455,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bahrain: Bahraini regime forces attacking peaceful Shia",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇧🇭 | Bahraini regime forces are attacking peaceful Shia protesters who have taken to the streets to denounce and protest the unlawful detention of dozens of highly respected religious scholars, who have been falsely accused of espionage and supporting Iran. This is a grave and urgent situation that demands international attention. We urge people across the world to raise their voices in solidarity and organise peaceful protests against these violations.#BahrainShia▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/491309ab60.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RvVNdKw82DKldEp0w57f1rX4tn2TJn11o1nCDbJjDZlxL5T8plYikM68dMJtXKZt-Cw_3ogVoRv9eYs7c5hv3flSmTJ6-_tTeVcoxNuzfeotSf63ICZ-KuF-SXz1Ja897YVwtD7rZ_dPc6kHecolfy33rj6awcyzwMWk1j_U9vQ46Mp5VP63fKUx6Vp6GJgMORcko1L3go_ReV-y93wmMrqRagW9SyMQWOMd54dj77RzvOTIaNhteqKzSjaWTwAUToXHxJZJFF4F-Bsp3V-J2oWqfXyGVK31Wg2DE11gSy_7pnGP4llxGo0vbsdeu_SV32JSsEqTBo8E_bwiMi6nGA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64316",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/RvVNdKw82DKldEp0w57f1rX4tn2TJn11o1nCDbJjDZlxL5T8plYikM68dMJtXKZt-Cw_3ogVoRv9eYs7c5hv3flSmTJ6-_tTeVcoxNuzfeotSf63ICZ-KuF-SXz1Ja897YVwtD7rZ_dPc6kHecolfy33rj6awcyzwMWk1j_U9vQ46Mp5VP63fKUx6Vp6GJgMORcko1L3go_ReV-y93wmMrqRagW9SyMQWOMd54dj77RzvOTIaNhteqKzSjaWTwAUToXHxJZJFF4F-Bsp3V-J2oWqfXyGVK31Wg2DE11gSy_7pnGP4llxGo0vbsdeu_SV32JSsEqTBo8E_bwiMi6nGA"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
