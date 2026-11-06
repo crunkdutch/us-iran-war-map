@@ -173491,6 +173491,38 @@
     ]
   },
   {
+    "id": 489554166,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Qeshm Island, Qeshm, Strait of Hormuz: Breaking Reports explosions have emerged from",
+    "location": "Qeshm Island, Qeshm, Strait of Hormuz",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Reports of explosions have emerged from Qeshm Island, Iran, amid ongoing missile launches towards the Strait of Hormuz. At approximately 12:20 AM, four explosions were heard near Qeshm Island, followed by further reported explosions in the area. These blasts are reportedly linked to Iranian missile launches rather than enemy attacks. Surface-to-air missile launches from Qeshm are said to be continuing, while air defence systems are currently active over the island.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
