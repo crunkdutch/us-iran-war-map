@@ -172889,6 +172889,38 @@
     "media": []
   },
   {
+    "id": 489544745,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Statement Member Foreign Affairs Committee Lebanese",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement by Member of the Foreign Affairs Committee of the Lebanese Parliament, MP Ali Ammar, Regarding the Statement Issued by the Five Embassies:The statement issued by the embassies of the United States, Britain, Australia, Canada, and Japan represents the height of vulgarity and insolence, as it entails a blatant act of interference in the most sensitive details of Lebanon’s internal affairs, showing no regard whatsoever for Lebanon’s sovereignty, the independence of its judiciary, diplomat",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489009761,
     "type": "drone",
     "status": "confirmed",
@@ -173379,6 +173411,38 @@
       "other": 0
     },
     "description": "🇮🇷 | IRGC: MQ-1 Drone Intercepted and Destroyed over Qeshm Island:The 16th American MQ-1 drone was intercepted and destroyed moments ago over Qeshm Island by the IRGC’s newly developed advanced air defence system, operating under the command of Iran’s integrated air defence network.The repeated failures of enemy reconnaissance missions have further tarnished the record of Commander Brad Cooper. Through intelligence superiority and continuous monitoring of hostile aerial movements, IRGC forces ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489540036,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Qeshm Island, Qeshm: IRGC intercepts drone over southern Iran",
+    "location": "Tehran, Qeshm Island, Qeshm",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 IRGC intercepts US MQ-1 drone over southern Iran📌 Tehran, IRNA — The Islamic Revolution Guard Corps (IRGC) has announced that another US MQ-1 reconnaissance-combat drone was intercepted and destroyed by a new advanced air defense system in the southern skies over Qeshm Island.In a statement on Friday, the IRGC Public Relations Office said that this is the 16th MQ-1 drone to be shot down by Iran.​The IRGC forces, utilizing intelligence dominance and continuous monitoring of enemy aerial movem",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
