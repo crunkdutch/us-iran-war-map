@@ -227024,6 +227024,26 @@
     "verified": false
   },
   {
+    "id": 1793938222810,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-29",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Yemeni Armed Forces | Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, stated:Saudi warplanes carried out 116 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the provinces of Saada, Hajjah, Al-Bayda, Al-Jawf, Taiz, and Lahij.The attac...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/DYykkVKUD39QloiiKBD4YaWjEVG6a_qeAiLhzYXM6zZQTqSzcPYlvNgv1l7hGte-GbNiJZA3eWerlH_Bj5TaXh_xAH4kMh3LxfbOHvxecavPvvIC1GBnFNxyCO4nBbuwCixorqE8p6IRaz_Qg5AiTyAqBS5BTq0vyZgzzKKtrmvkDiQa4LwofOSr_XhnnPhqQAjrZIEBkuN2rrYO-ZyuZJ518rzBhyYm_mypqOOuen07i-idvp2XIWCxxWho0xfVkL_YR_1RLfYsH4oRT2LNXEw8c5ipnuCS_FBo_iPaHZMxamJT0bDadGwGGVgCAdLIumsHRmfQLT4o9Sya3aMCVw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793338906548,
     "type": "airstrike",
     "location": "Oman",
