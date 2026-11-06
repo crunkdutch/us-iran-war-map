@@ -169478,6 +169478,134 @@
     ]
   },
   {
+    "id": 489493001,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Enemy_MediaIsraeli media Reports Israeli cargo ship",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media“Israeli” media: Reports of an “Israeli” cargo ship being targeted by three drones in the Black Sea.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489497700,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Enemy_MediaHebrew Channel ship which departed from",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew Channel 12: The ship, which departed from “Israel,” was attacked by three unmanned vehicles in the Black Sea and sank. It belonged to an “Israeli” company.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489502400,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Lebanon: Statement issued Hezbollah regarding Brazilian President",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by Hezbollah regarding Brazilian President Luiz Inácio Lula da Silva’s victory in the presidential elections and the UN’s position on the American blockade of Cuba: Hezbollah extends its warmest congratulations to His Excellency Brazilian President Luiz Inácio Lula da Silva on his victory in the presidential elections and the renewal of the Brazilian people’s confidence in him, reflecting their democratic will and choices.While congratulating President Lula on this victory, Hezb",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489507101,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-29",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Beirut, Lebanon: LebanonSpeech Head Hezbollahs Executive Council Sheikh",
+    "location": "Beirut, Lebanon",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Lebanon:Speech by the Head of Hezbollah’s Executive Council, Sheikh Ali Daamoush, at the opening ceremony of the “Ardi Market” at the Sayyed Al-Shuhadaa Complex in Beirut’s southern suburb.– The enemy thought that destroying the edifice of the Sayyed Al-Shuhadaa could extinguish a cause or erase a memory for us. However, the hand of truth, sacrifice, and courage that resisted it and continues to do so has, thanks to the people of goodwill, restored the complex to life, allowing it to pulse once",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 484210719,
     "type": "missile",
     "status": "confirmed",
@@ -173012,6 +173140,38 @@
       "other": 0
     },
     "description": "📄 Iran downs fifth and sixth MQM-170 US drones over Qeshm Island📌 Tehran, IRNA – The Public Relations office of the Islamic Revolution Guards Corps (IRGC) in a statement announced the downing of fifth and sixth American reconnaissance drones—MQM-170—over the island of Qeshm.A statement from the Public Relations office of the Islamic Revolution Guards Corps (IRGC) reads: Moments ago, the fifth and sixth American reconnaissance drones—MQM-170 model—were brought down over Qesm Island through the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489488303,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Baghdad, Erbil, Sanaa: Hourly updates Lebanon Israeli airstrikes struck",
+    "location": "Baghdad, Erbil, Sanaa, Gaza City, Lebanon, Yemen, Iraq, Israel",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly updates (-ve)🇱🇧 Lebanon• Israeli airstrikes struck Birchesit, Kfar Tibnit and Wadi al-Saluqi on November 5. Artillery shelling targeted Birchesit, Wadi al-Saluqi, Wadi Zibqin, Wadi Nahla, Beit Yahoun, the outskirts of Nabatiyeh al-Fouqa, Al-Khiam, Zawtar al-Sharqiya, Kfar Tibnit, Hadatha and Al-Mansouri. Explosions were also reported in Al-Qantara and Al-Khiam.• Since midnight, Israeli artillery shelling has been reported in Al-Qantara, Wadi al-Saluqi, the outskirts of Mifdoun and Ba",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
