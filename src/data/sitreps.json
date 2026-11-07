@@ -156,6 +156,21 @@
     "verified": false
   },
   {
+    "id": 1794039287087,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "1963-06-05",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Strait of Hormuz will stay closed until US accepts its terms: Iran📌 Tehran, IRNA – Iran’s Armed Forces have control over the Strait of Hormuz, which will remain closed until the United States accepts Tehran’s conditions, Army spokesperson Brigadier General Mohammad Akraminia has said.Speaking Fr...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785002022135,
     "type": "airstrike",
     "location": "Lebanon",
@@ -227934,6 +227949,26 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📄 IRGC Navy captures second US drone intact over Qeshm island📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has captured the second US reconnaissance and decoy drone intact west of the Strait of Hormuz after taking control of its guidance and control systems.The statement said th...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794039259769,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Saudi warplanes carried out 93 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the capital, Sana’a, and the governorates of Al-Jawf, Taiz, Saa...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/S5wVjysUXpITCVqkYeTxZ2rnSEos4kSZQ4Z2zz3pDjGJKyq41ktPne4D3w6DeYpUQDnkjY7JkYdliqMfaaGFp2pqSP95SSqXMBC-DBKNv3vNsFDv4HmFCLUDGBvp8GAGeCzmzuomyY-jFgjE6SqBedPVaFOpS1RAtRVX5waaijhs4j7Q7w6JVANQjExju5izUpm1LfuGVUNEfJNUa3MGaZJJCXTDRM-3g1Jd71J0yB2yzZUVMBgd3GqHYZnwIAn1kSzW6UvzIVTf9iRktGQl7M-n9Aj1OQgu6Jc32ga40YhbuwzQlhZ8xMru9JB_X80FFxc6oOIHFK1QHlw5McS3kA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
