@@ -228092,6 +228092,118 @@
     "verified": false
   },
   {
+    "id": 1794053737894,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Poland is rapidly emerging as the first critical stress point in a systemic political crisis gathering force across Europe. Years of overlapping shocks, including the lingering fallout of the Russia-Ukraine war, structural energy insecurity, mounting economic strain following the joint American-is...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794053751524,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Qatar came, Qatar left. Some meetings last ten hours, while others reportedly last twelve. Meanwhile, military cargo aircraft have reportedly been landing at Mehrabad Airport with their transponders switched off. Yet no major details are emerging publicly. Whatever the actual purpose of these deve...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794053758879,
+    "type": "missile",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "date": "2026-10-31",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Explosions reported in Jizan, southern Saudi Arabia, following an AnsarAllah missile attack on an Aramco facility.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794053732486,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪/ 🇮🇷 | An Emirates airplane landed in Tehran.❓@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794053683362,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "—A staunch defense of Trump by a prominent reformist, Kourosh Ahmadi: “We should have strengthened Trump’s position so that he could remain in the agreement. We should not have been so nitpicky over the issue of Lebanon. Logically, this is precisely what diplomacy means.”This is how the reformists t...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6d85a74381.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qOG7ihcdCpMoejW6eZyHJ7vzIdlHkmj4_FWelQzD6Xr3geHFJqkBu6Q-W2TFmi5li5Vz03LvyptlmhWsBxKOZhq4Fzn12DaCdKDtFQyOwKdzG-6IIaAdIx16tA826UpEt3S0gcXL0AYQs4a3Nxp7t4B5snOhbg26rfnjpKVR8Pff-rXpW85FJWmIT1ZXUw-u04k_ehRr9GVHy3BckSyYA8EGaJtDxaUkqZNvgeTm17RA2dTPWgCMyVCymOJKYaaCEfTkFHNvLRTbCEmBIDxhIwzZTiXmrIeduSvq177lnusWzlGMr8VAsWGUNHDDBpyR75kYQXZY0ZM9wIZ74GE7oQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64039",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qOG7ihcdCpMoejW6eZyHJ7vzIdlHkmj4_FWelQzD6Xr3geHFJqkBu6Q-W2TFmi5li5Vz03LvyptlmhWsBxKOZhq4Fzn12DaCdKDtFQyOwKdzG-6IIaAdIx16tA826UpEt3S0gcXL0AYQs4a3Nxp7t4B5snOhbg26rfnjpKVR8Pff-rXpW85FJWmIT1ZXUw-u04k_ehRr9GVHy3BckSyYA8EGaJtDxaUkqZNvgeTm17RA2dTPWgCMyVCymOJKYaaCEfTkFHNvLRTbCEmBIDxhIwzZTiXmrIeduSvq177lnusWzlGMr8VAsWGUNHDDBpyR75kYQXZY0ZM9wIZ74GE7oQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794053703407,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ | Breaking — An American drone attacked two Iranian fishing boats off Qeshm Island, injuring two people and leaving two others missing. There are growing concerns that the missing individuals may have been martyred. 🔴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/3011aca651.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iCVWd9292eVZV1RriEWsZ1PcITwiiuqawQQdDQFyTEqv6BSPcyeAOQaFyPtKJZUakCZD_HKqSnX52KoXcwH5dN0VGs2Gg-MOj4TKnbvaLFF6ec_hDLNtahXC0HsFkOTchV3JDjT6OS0eZwlP8bIcZ-Nt-rt12I6eETRIMuNVEiiVmXKW1igI3BBt5B_KapJ3jGjsPr5jtr0PrP3kA_apGpXZmI2RcYJ66mx5VFTt1RLJbDS8NsBb3TyPXFEAN4xoqnxNvXIFC6q9jZqodY2JNnjeqPkL70OjDgzCgeXnR2wx3gEy4P65v6Qx8InJoiInC14S09FWye7pkl7Kyyv8vQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64041",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/iCVWd9292eVZV1RriEWsZ1PcITwiiuqawQQdDQFyTEqv6BSPcyeAOQaFyPtKJZUakCZD_HKqSnX52KoXcwH5dN0VGs2Gg-MOj4TKnbvaLFF6ec_hDLNtahXC0HsFkOTchV3JDjT6OS0eZwlP8bIcZ-Nt-rt12I6eETRIMuNVEiiVmXKW1igI3BBt5B_KapJ3jGjsPr5jtr0PrP3kA_apGpXZmI2RcYJ66mx5VFTt1RLJbDS8NsBb3TyPXFEAN4xoqnxNvXIFC6q9jZqodY2JNnjeqPkL70OjDgzCgeXnR2wx3gEy4P65v6Qx8InJoiInC14S09FWye7pkl7Kyyv8vQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793512219515,
     "type": "drone",
     "location": "Tehran",
@@ -230465,6 +230577,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🎙 Spokesperson urges international bodies to pursue Iran’s rights over wartime aggression📌 Tehran, IRNA – Iranian government spokesperson, Fatemeh Mohajerani, has called on international organizations to take an active role in securing the rights of Iranians, saying attacks on the country during t...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794053687713,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran, Iraq discuss avenues to enhance scientific ties📌 Tehran, IRNA - Iran’s scientific advisor in West Asia meets with the President of the Northern Technical University of Iraq to explore ways to expand academic cooperation between Iran and Iraq.Mohammad Javad Najafi and Jassim Fathi Ali Al-Ma...",
     "media": [],
     "verified": false
   },

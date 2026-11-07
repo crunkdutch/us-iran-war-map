@@ -170821,6 +170821,75 @@
     "media": []
   },
   {
+    "id": 489620225,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Yemeni Armed Forces affirm that they have not carried out any operation targeting the Saudi interior. They state that the criminal Saudi enemy’s claim of having shot down a drone in the skies over Medina is yet another blatant and grave fabrication against Yemen, the land of faith and wisdom.The Armed Forces add that no one in the world believes these fabrications directed a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/qwR-37ocA8FuTj0wMnAeWW3O8G-UOZRwQTAncR5qyUN97pFogfqvNrg_QyHB9qxQj5K4BPuNjdCzYZNvalWpwck_11hjU3Ey8Opae0yZOa80McNcGyX_XDMgxVBCQf-Z1cD4Ozn31kX3DYLbPkBBCxJXjCOK-6RAVh2P0rCsizXGs9SsoZQ1tKWMfudj7-DMvK0RC4dNa_YwGs1tN65B8cPGjysXOvhQ3S58o5jlwCfgLcnkCAvF-2OE1ti8FjkS40UKlcSfSjwrCxxJ7R9aCx0NSh52ycVfosti_2ep7hlixlwzSDBg4fn7YsX5suoLkHTwqFDiCjLsaSfpAnDTAg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 489624951,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Saudi Arabia: Explosions reported Jizan southern Saudi Arabia",
+    "location": "Saudi Arabia",
+    "coordinates": [
+      24,
+      45
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Explosions reported in Jizan, southern Saudi Arabia, following an AnsarAllah missile attack on an Aramco facility.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 486943285,
     "type": "drone",
     "status": "confirmed",
@@ -173816,6 +173885,38 @@
     "media": []
   },
   {
+    "id": 489629678,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Strait of Hormuz: Iran tanker catches fire east Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran: Oil tanker catches fire east of the Strait of Hormuz after striking a naval mine, army saysThe Iranian Army stated that an oil tanker caught fire after striking a naval mine east of the Strait of Hormuz. According to the Army, the vessel had entered a prohibited maritime zone despite repeated warnings and had switched off its navigation systems. The tanker came to a halt after the fire broke out. The Army warned that any vessels disregarding such warnings would face the same fate.🔻",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489563591,
     "type": "drone",
     "status": "confirmed",
@@ -173939,6 +174040,38 @@
       "other": 0
     },
     "description": "📄 New surprises to be unveiled on battlefield if attacks on Iran resume: IRGC📌 Tehran, IRNA – Spokesperson for the Islamic Revolution Guards Corps (IRGC) Brigadier General Hossein Mohebbi says Iran will unveil new weapons that will astonish the world if a new round of military confrontation erupts with the United States and Israel.“There are surprises that will be unveiled and deployed on the battlefield if a third wave of confrontation with the enemy erupts. These surprises will astonish the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489634406,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: Irans Navy Tanker catches fire after",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran’s Navy: Tanker catches fire after hitting sea mine east of Strait of Hormuz📌 Tehran, IRNA – A tanker has caught fire after hitting a sea mine, east of the Strait of Hormuz while sailing through a prohibited and unsafe zone, the Iranian Army's Navy says.In a statement on Saturday, the Navy announced the vessel had entered the restricted area despite repeated warnings and had switched off its navigation systems when the incident occured.​The tanker struck the mine early in the morning, ca",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
