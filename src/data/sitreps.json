@@ -230521,6 +230521,21 @@
     "verified": false
   },
   {
+    "id": 1794068159304,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-05",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says: “So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.” Allah Almighty is Truthful In response to the brutal Saudi a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793995899951,
     "type": "airstrike",
     "location": "Bahrain",
@@ -230734,6 +230749,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794068103742,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Dear Resistance channels, it is important to remain mindful of the responsibility that comes with sharing information, particularly during such sensitive circumstances. Enemy-linked OSINT networks closely monitor public posts and may use seemingly ordinary reports, images, videos, and eyewitness a...",
+    "media": [],
     "verified": false
   },
   {

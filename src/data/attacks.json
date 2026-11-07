@@ -173751,6 +173751,38 @@
     "media": []
   },
   {
+    "id": 489667530,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: Statement Issued Yemeni Armed ForcesIn Name",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says: “So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.” Allah Almighty is Truthful In response to the brutal Saudi aggression against our country and in retaliation for its heinous crimes, the latest of which was its horrific crime against vendors and shoppers at Al-Hadarah Market in Al-Wazi'iyah District, Taiz Gov",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489549455,
     "type": "airstrike",
     "status": "confirmed",
