@@ -173784,6 +173784,38 @@
     "media": []
   },
   {
+    "id": 489606053,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Persian Gulf: Reaper drones hunted down over Persian",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Reaper drones hunted down over the Persian Gulf: From MQ-9 to MQ-Gone• Iran’s air defence systems have shot down so many advanced American MQ-9 Reaper drones that the IRGC spokesperson has sarcastically dubbed them “MQ-Gone.”• These drones have been among the US military’s principal tools for reconnaissance, surveillance and conducting operations in various regions.• According to published reports, Iranian armed forces’ air defence units have so far intercepted and destroyed approximately",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489563591,
     "type": "drone",
     "status": "confirmed",
@@ -173843,6 +173875,70 @@
       "other": 0
     },
     "description": "🟡 Hourly Updates: November 7, 2026🇾🇪 Yemen• Yemeni missile launches: Reports indicated that Yemeni ballistic missiles were being launched towards their targets. No further details were provided.🇮🇶 Iraq• Erbil: A car bomb exploded in the Joman district, in the far east of Erbil province.🇾🇪 Yemen• Clashes in Taiz: Saudi-backed Yemeni government forces announced that they had recaptured several areas in Taiz province following clashes with AnsarAllah fighters. They announced to have regained",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489610776,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Minab: Iran rebuilds 1288 schools damaged recent",
+    "location": "Tehran, Minab",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Iran rebuilds 1,288 schools damaged in recent aggression: Education minister📌 Tehran, IRNA – Iran has rebuilt 1,288 schools damaged in recent attacks and returned them to service with the help of charitable donors, Education Minister Alireza Kazemi says, warning that the educational losses caused by school closures cannot be measured or compensated.Speaking at a ceremony titled Solidarity of Families and Schools in Protecting the Right to Education During the Ramadan War, Kazemi described ed",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489615500,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Israel: surprises unveiled battlefield attacks Iran resume",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 New surprises to be unveiled on battlefield if attacks on Iran resume: IRGC📌 Tehran, IRNA – Spokesperson for the Islamic Revolution Guards Corps (IRGC) Brigadier General Hossein Mohebbi says Iran will unveil new weapons that will astonish the world if a new round of military confrontation erupts with the United States and Israel.“There are surprises that will be unveiled and deployed on the battlefield if a third wave of confrontation with the enemy erupts. These surprises will astonish the ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

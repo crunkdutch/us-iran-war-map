@@ -230404,6 +230404,71 @@
     "verified": false
   },
   {
+    "id": 1794046478181,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran rebuilds 1,288 schools damaged in recent aggression: Education minister📌 Tehran, IRNA – Iran has rebuilt 1,288 schools damaged in recent attacks and returned them to service with the help of charitable donors, Education Minister Alireza Kazemi says, warning that the educational losses cause...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794046459416,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "In a special operation in the village of \"Al-Sharj,\" located on the outskirts of Tur al-Baha in Lahj Province, Yemen's Ansarullah forces apprehended \"Ali Nasser al-Awdhali,\" known as \"Abu Aisha,\" who served as the second-in-command of the Saudi-backed \"Dira' al-Watan.\"📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/raY5k9dDnsYbXmnttPjlNV20ijCl5N7b7CcDgHhgQJ0P2xu6GVku50GUdRLhK33S9l8dICfIfekPPyO4SzC2P7rW4SnxmzgcPup1Ffc1lRedxAjEQSGLB5DKsInI74UAcSHghKNJgLiRZG3PypCGe9BhzLRrcwgUnP-4Gonyb6QJ9VCoFOmnhup6Y8CJA-8MiZ0g4NjE8Tah-9Yfjr57ALE7RmSKdUxf9mNTVSNZA12UXO81vyMOXTgIrEaJc7ur_0Rr0se_EKjCIEdn4kDJbXDPQUNfy_R61OU51pMthRGzgjbmFH_e1cCfIqZ2Gpx8mIunh12KR--0_i40rtEKDA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794046522969,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Vice president calls for documenting impact of US-Israeli attacks on Iranian children📌 Tehran, IRNA — The vice president for women and family affairs has called for documenting the human and educational consequences of US-Israeli attacks on Iranian children, stressing the need to pursue justice ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794046479500,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Spokesperson urges international bodies to pursue Iran’s rights over wartime aggression📌 Tehran, IRNA – Iranian government spokesperson, Fatemeh Mohajerani, has called on international organizations to take an active role in securing the rights of Iranians, saying attacks on the country during t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",
