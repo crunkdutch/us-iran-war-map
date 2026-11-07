@@ -170288,6 +170288,102 @@
     ]
   },
   {
+    "id": 489573020,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Tehran, Strait of Hormuz: Army Navy destroys enemy droneboat tankers",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Army Navy destroys enemy droneboat; two tankers ablaze in eastern Hormuz📌 Tehran, IRNA – The Navy of the Islamic Republic of Iran has announced that an enemy Unmanned Surface Vehicle (USV) was destroyed and that two oil tankers struck mines in the eastern Strait of Hormuz.An enemy USV moving in the eastern parts of the Strait of Hormuz was targeted and destroyed by Army Navy forces early on Friday, the Army Navy said.​Meanwhile, two enemy oil tankers that, disregarding warnings and regulatio",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489577736,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: Mine blast sets super tanker ablaze",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Mine blast sets super tanker ablaze in Hormuz📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has announced the explosion of a super tanker after it struck a sea mine on an unauthorized route in the Strait of Hormuz.This is the third tanker that has suffered an explosion and fire on Friday due to passing through an unauthorized route, the IRGC Navy said in its statement.​This super tanker, carrying more than two million barrels of oil, has been abandoned at the mouth of the S",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489582453,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Qeshm Island, Qeshm: IRGC Navy captures second drone intact",
+    "location": "Tehran, Qeshm Island, Qeshm, Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 IRGC Navy captures second US drone intact over Qeshm island📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has captured the second US reconnaissance and decoy drone intact west of the Strait of Hormuz after taking control of its guidance and control systems.The statement said the Navy’s electronic warfare unit detected and identified the MQM-170 drone during an offensive operation before bringing it down safely and without physically destroying it on Friday.​According to the",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 486345960,
     "type": "drone",
     "status": "confirmed",
@@ -173550,6 +173646,70 @@
       "other": 0
     },
     "description": "🇮🇷 | Iranian Army Public Relations:The Iranian Army announced that its modern air defense systems were able, minutes ago, to detect, target, and shoot down an American MQ-9 drone in the airspace of Qeshm Island, as part of the country's unified air defense network.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489563591,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Khorramabad, Erbil, Sanaa: Hourly Updates November 2026 Yemen Saudi",
+    "location": "Khorramabad, Erbil, Sanaa, Syria, Jordan, Yemen, Oman, Saudi Arabia, Iraq, Israel, Port Said, Turkey",
+    "coordinates": [
+      33.4878,
+      48.3558
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴Hourly Updates (-ve): November 7, 2026🇾🇪 Yemen• Saudi airstrikes: Saudi warplanes carried out 10 airstrikes targeting the Al-Fasm area, Jabal Al-Anab mountain, and the outskirts of Al-Jareeb in Al-Mudharabah district, northern Lahij province.• Taiz water facility targeted: Saudi fighter jets struck a water supply project in the Al-Sanaa area of Al-Shamayteen district, Taiz province.• Market massacre in Taiz: Saudi airstrikes targeted Al-Hadara public market in Al-Wazi’iyah district on Friday",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489568305,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Erbil, Riyadh, Yemen: Hourly Updates November 2026 Yemen Yemeni",
+    "location": "Erbil, Riyadh, Yemen, Oman, Saudi Arabia, Iraq",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates: November 7, 2026🇾🇪 Yemen• Yemeni missile launches: Reports indicated that Yemeni ballistic missiles were being launched towards their targets. No further details were provided.🇮🇶 Iraq• Erbil: A car bomb exploded in the Joman district, in the far east of Erbil province.🇾🇪 Yemen• Clashes in Taiz: Saudi-backed Yemeni government forces announced that they had recaptured several areas in Taiz province following clashes with AnsarAllah fighters. They announced to have regained",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
