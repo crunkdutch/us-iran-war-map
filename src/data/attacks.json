@@ -170890,6 +170890,107 @@
     "media": []
   },
   {
+    "id": 489639135,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Saudi warplanes carried out 66 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the capital, Sana’a, and the governorates of Al Jawf, Taiz, Saada, Hajjah, and Lahij. The attacks were conducted using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif airbases, alongside missile strikes launched from Najran. The attacks r",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/W0AdgJ0w2h4nk188edmr5-ct-NMLE4o9d8dGIOf9PIaPGbwK-tvAldkq1oKj0gjofMMNtzai18C4cSMaP95QcI2P4lXSxDA6_a6MRencKHGtN_werYHZR6CCLum6ZJzzomByQQDmuYzzhTTUgz0nm8RN2JkGUHb_xnSjM5dQWvyq35jlzi7Mie-3ewBuBVZhcpND-sa42stcfjxGbzxeehwFuvDRmpoxte9SIlrZIx0H0POTNMrDbMzJGa0yx-JrOR7fPKpw_1K_q-eNRmDlj-peYrnDUaeawGoQ8NcRRKUqyn0yx8UnwAJbwdd73BO-uJjYM2voNlEWzLKpKAHXbQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 489658061,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Bandar Abbas, Qeshm Island, Qeshm: targets fishing boats Qeshm crew members",
+    "location": "Bandar Abbas, Qeshm Island, Qeshm, Hormozgan",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 US targets two fishing boats off Qeshm; two crew members missing📌 Bandar Abbas, IRNA – An attack by the US military on two fishing boats in waters off Qeshm Island, southern Iran, has left two crew members missing, Hormozgan Province Deputy Governor Ahmad Nafisi says.The incident occurred at about 11:30 a.m. local time on Saturday, 18 nautical miles from Messen village in Qeshm County. Each boat had two people on board, Nafisi said, according to the provincial governor’s public relations off",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489662795,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Qeshm Island, Qeshm, Hormozgan: Missing crew members found after attack",
+    "location": "Qeshm Island, Qeshm, Hormozgan",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Missing crew members found after attack on fishing boats near Iran’s Qeshm Island📌 Qeshm, IRNA — The two fishermen reported missing after a US attack on two fishing boats off Qeshm Island have been found, the head of Qeshm’s fishing community says.Ali Eslami Ramchahi told reporters on Saturday that the two men had been found and were returning to Qeshm.​He added that Mahmoud Panjeh and his son, who lost contact with shore after the attack, had been found safe and were returning. He said that",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 486943285,
     "type": "drone",
     "status": "confirmed",
@@ -174072,6 +174173,119 @@
       "other": 0
     },
     "description": "💬 Iran’s Navy: Tanker catches fire after hitting sea mine east of Strait of Hormuz📌 Tehran, IRNA – A tanker has caught fire after hitting a sea mine, east of the Strait of Hormuz while sailing through a prohibited and unsafe zone, the Iranian Army's Navy says.In a statement on Saturday, the Navy announced the vessel had entered the restricted area despite repeated warnings and had switched off its navigation systems when the incident occured.​The tanker struck the mine early in the morning, ca",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489643865,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Sanaa: Footage shows dozens martyrs wounded victims",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪/🏴| Footage shows dozens of martyrs and wounded victims following what is described as a Saudi enemy airstrike targeting several residential homes in Bani Hushaysh District, east of the capital, Sanaa.🏴@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64336",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/B8PpkSfd0aB--PqxprPOp3QtjBBOYjQ_6XJEUK2jMVFpttvjnwO9RkIcW0WJsRhGpJqV9EHX3Psvlsu_JmJAMfw6U4SKxWgT69KYskJykIPgmUOfO9kdjexBy0gVD3QrgSy-Y2LcSWOFFNU_xvVclK6yndLJ9HNBz6FUvIlC75zGT9qpAE-CewStQKOVJAtaD7IPGXmzqXq3eW0FPtEEm9-5dj1LWGbumOyun0BakFjRCPk3Nuah8bL9tTq-FbZ5kJrPL9h8IR1KeFK-NZ9HZJm1uRe1DPyyTzwzBDXaZ6cEl82Co3j3Li0YJYAK9G2Ac_dIwv9aKe6P0ZnVnuAmGA"
+      }
+    ]
+  },
+  {
+    "id": 489648596,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Saudi Arabia Drone Strike — Iraq: Protesters Maysan Province demanding immediate reopening",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | Protesters in Maysan Province are demanding the immediate reopening of the Chazabeh border crossing with Iran. Hundreds of businesses and tens of thousands of residents living along the route depend on the crossing for their livelihoods. The provincial governor was recently dismissed by Iraqi Prime Minister Mohammed Shia al-Sudani’s successor, Zaidi, reportedly over allegations that he had allowed missile and drone strikes by the Iraqi Resistance against Saudi oil infrastructure. These al",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ae029dd5e5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/HSBzu5xAv6j-G5hM0eYrXwQpl1V5ju2YAcvyFwvMy_OzQL8S8Gm7Jqv94Oqr6NbsESKThTIk0_BzFNEfV2lTkkyCjxJk2CB4cHJiG13HNAYFPhtAqWqgmfPZ2u9-a-n_eiqPW5S_MV-9ASzTDIT3Dt7wCvPtc_DVyVpA0FBmi6de1SfvE2ykBzryO31eptDOkomDhCzXlyCbuix9FzNiNv-UG_RKjkn9fRQAy1X8yK8mqYe2dros2GFLZprS3EuBxX8iJlEGZALp9mL32dzCVZHxJ8CDObyjyu61nYl6S0rCakhoXSNSOSgKC14JEWsbRPI2Y3R2o185XDBUe7SI9w"
+      },
+      {
+        "url": "https://t.me/enemywatch/64338",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/HSBzu5xAv6j-G5hM0eYrXwQpl1V5ju2YAcvyFwvMy_OzQL8S8Gm7Jqv94Oqr6NbsESKThTIk0_BzFNEfV2lTkkyCjxJk2CB4cHJiG13HNAYFPhtAqWqgmfPZ2u9-a-n_eiqPW5S_MV-9ASzTDIT3Dt7wCvPtc_DVyVpA0FBmi6de1SfvE2ykBzryO31eptDOkomDhCzXlyCbuix9FzNiNv-UG_RKjkn9fRQAy1X8yK8mqYe2dros2GFLZprS3EuBxX8iJlEGZALp9mL32dzCVZHxJ8CDObyjyu61nYl6S0rCakhoXSNSOSgKC14JEWsbRPI2Y3R2o185XDBUe7SI9w"
+      }
+    ]
+  },
+  {
+    "id": 489653328,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Isfahan, Riyadh, Syria: Hourly Updates November 2026 Iran Weapons",
+    "location": "Isfahan, Riyadh, Syria, Yemen, Qatar, Saudi Arabia, Israel",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates: November 7, 2026🇮🇷 Iran• Weapons smuggling operation foiled: The FARAJA Border Guard Commander announced that border guards had seized 71 pistols, 144 pistol magazines, and 343 rounds of ammunition during an operation against smugglers along Iran’s southeastern borders.• Ballistic missile test: A ballistic missile was launched from Najafabad, Isfahan province, as part of tests reportedly conducted by the Islamic Revolutionary Guard Corps.🇾🇪 Yemen• Saudi airstrikes in Bani ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

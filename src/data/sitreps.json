@@ -228204,6 +228204,71 @@
     "verified": false
   },
   {
+    "id": 1794060895664,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-31",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Saudi warplanes carried out 66 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the capital, Sana’a, and the governorates of Al Jawf, Taiz, Saa...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/W0AdgJ0w2h4nk188edmr5-ct-NMLE4o9d8dGIOf9PIaPGbwK-tvAldkq1oKj0gjofMMNtzai18C4cSMaP95QcI2P4lXSxDA6_a6MRencKHGtN_werYHZR6CCLum6ZJzzomByQQDmuYzzhTTUgz0nm8RN2JkGUHb_xnSjM5dQWvyq35jlzi7Mie-3ewBuBVZhcpND-sa42stcfjxGbzxeehwFuvDRmpoxte9SIlrZIx0H0POTNMrDbMzJGa0yx-JrOR7fPKpw_1K_q-eNRmDlj-peYrnDUaeawGoQ8NcRRKUqyn0yx8UnwAJbwdd73BO-uJjYM2voNlEWzLKpKAHXbQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794060929329,
+    "type": "naval",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 US targets two fishing boats off Qeshm; two crew members missing📌 Bandar Abbas, IRNA – An attack by the US military on two fishing boats in waters off Qeshm Island, southern Iran, has left two crew members missing, Hormozgan Province Deputy Governor Ahmad Nafisi says.The incident occurred at abo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794060902125,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Shortly, key strategic orders from the Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei are expected to be released following his meeting with top commanders of the Armed Forces.📲 @Irna_en",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794060939065,
+    "type": "naval",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Missing crew members found after attack on fishing boats near Iran’s Qeshm Island📌 Qeshm, IRNA — The two fishermen reported missing after a US attack on two fishing boats off Qeshm Island have been found, the head of Qeshm’s fishing community says.Ali Eslami Ramchahi told reporters on Saturday t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793512219515,
     "type": "drone",
     "location": "Tehran",
@@ -230593,6 +230658,82 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 Iran, Iraq discuss avenues to enhance scientific ties📌 Tehran, IRNA - Iran’s scientific advisor in West Asia meets with the President of the Northern Technical University of Iraq to explore ways to expand academic cooperation between Iran and Iraq.Mohammad Javad Najafi and Jassim Fathi Ali Al-Ma...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794060977291,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪/🏴| Footage shows dozens of martyrs and wounded victims following what is described as a Saudi enemy airstrike targeting several residential homes in Bani Hushaysh District, east of the capital, Sanaa.🏴@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64336",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/B8PpkSfd0aB--PqxprPOp3QtjBBOYjQ_6XJEUK2jMVFpttvjnwO9RkIcW0WJsRhGpJqV9EHX3Psvlsu_JmJAMfw6U4SKxWgT69KYskJykIPgmUOfO9kdjexBy0gVD3QrgSy-Y2LcSWOFFNU_xvVclK6yndLJ9HNBz6FUvIlC75zGT9qpAE-CewStQKOVJAtaD7IPGXmzqXq3eW0FPtEEm9-5dj1LWGbumOyun0BakFjRCPk3Nuah8bL9tTq-FbZ5kJrPL9h8IR1KeFK-NZ9HZJm1uRe1DPyyTzwzBDXaZ6cEl82Co3j3Li0YJYAK9G2Ac_dIwv9aKe6P0ZnVnuAmGA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794060911100,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶The Iraqi Foreign Minister: Washington has officially requested the closure of all our border crossings with Iran, with the exception of two.We have informed Iran that we reject its interference in our affairs.**But carrying out Washington's orders like good little pets of Zionism, isn't the US ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/KciYrGJhockzKinCbC_xRLEZRuTUCVAvYxlrEnS51HJkFcbN8kEIggz9tieg6ZgVVK8JRYE7J5dQssmI16hY79NO-5MHb8tUEgi1xPQHmB5QUNEuwJUApNtEP8oMzlfggEWjZl4vy-oGALTqy3cAVd-EVjt-edE0ZBu_apgGXzQl7rEqipYp2sBprHEQHAZKWoyZwMSmL-z2NaVAp482K-VzTOu6jnQfDsmhVAkW0J-Qx06sanwndbZB4j8dLOLYMcnIM4yKONmTtqn1RJTediqMDoaQJdvRYFFpTH3vCE-vOTH9oS7YfBrKIzZnqkpfDg47BZpSKRX1CrhMAQ3IbA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794060957145,
+    "type": "missile",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-11-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates: November 7, 2026🇮🇷 Iran• Weapons smuggling operation foiled: The FARAJA Border Guard Commander announced that border guards had seized 71 pistols, 144 pistol magazines, and 343 rounds of ammunition during an operation against smugglers along Iran’s southeastern borders.• Ballist...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794060967288,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Ma'ariv correspondent Ben Caspit disclosed that a wealthy businessman offered Israeli Prime Minister Benjamin Netanyahu &#036;125 million in exchange for permanently leaving politics.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GdqZyHxKl3scdMHFA8V-1jsWpYZFlo-oSKfpXbt4y_6zfkGU_LR4B-5WZ_54rX2gL5Tt2EnfVtVTn_3sD5PH8UPaj0J25LIUUAjqsl3dqltIvlRdkkXicnza88MYMsHq6Z86udQ4vHf9RfaZLPeByD2oyL47sVFC3CcG1dbtWcB_l4cmVnll5yB9TIkx7V6yBhQ3FjEXi-Bs8Kjs6RNn8pIHIEaFu8knYH4NdxqH5ttkrBy7a6_u4RgSal85ZRTI1tIcrlmGm8dXC_UWQl8BsTI6GGu4bCwOfUUK8BR78uoFBD2dmjhrc_5JAORkDfnj3ooTTfxdxGmAL8JQxj_CMQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
