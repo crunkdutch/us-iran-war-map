@@ -174323,6 +174323,70 @@
     "media": []
   },
   {
+    "id": 489672266,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Tehran, Persian Gulf, Iraq: Sardar Bilali Irans missile capabilities have",
+    "location": "Tehran, Persian Gulf, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Sardar Bilali: Iran’s missile capabilities have advanced from a range of 300 kilometres to precision strikes at a range of 2,000 kilometres:The senior adviser to the Commander of the IRGC Aerospace Force, Sardar Bilali, outlined the development of the Islamic Republic of Iran’s missile capabilities, stating that the range of the country’s missiles, which stood at approximately 300 kilometres during the Iran-Iraq War, has now reached around 2,000 kilometres, with precision-strike capabilit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489677003,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Qeshm Island, Qeshm, Israel: chants fill streets outside Embassy London",
+    "location": "Qeshm Island, Qeshm, Israel",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 'No to War' chants fill streets outside US Embassy in London📌 London, IRNA – Anti-war activists, civil society campaigners and dozens of Iranians living in Britain gathered outside the US Embassy in London on Saturday to protest against Washington’s military threats and hostile policies towards Iran.Demonstrators carrying Iranian flags condemned threats against the country and called for an immediate halt to military adventurism by the United States and Israel in the region.​Holding placards",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

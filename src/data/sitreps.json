@@ -228269,6 +228269,21 @@
     "verified": false
   },
   {
+    "id": 1794075410712,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Qatar came, Qatar left. Some meetings last ten hours, while others reportedly last twelve. Meanwhile, military cargo aircraft have reportedly been landing at Mehrabad Airport with their transponders switched off. Yet no major details are emerging publicly.…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793512219515,
     "type": "drone",
     "location": "Tehran",
@@ -230763,6 +230778,21 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "— Dear Resistance channels, it is important to remain mindful of the responsibility that comes with sharing information, particularly during such sensitive circumstances. Enemy-linked OSINT networks closely monitor public posts and may use seemingly ordinary reports, images, videos, and eyewitness a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794075418512,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Sardar Bilali: Iran’s missile capabilities have advanced from a range of 300 kilometres to precision strikes at a range of 2,000 kilometres:The senior adviser to the Commander of the IRGC Aerospace Force, Sardar Bilali, outlined the development of the Islamic Republic of Iran’s missile capabi...",
     "media": [],
     "verified": false
   },
