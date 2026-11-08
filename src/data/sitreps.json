@@ -228626,6 +228626,26 @@
     "verified": false
   },
   {
+    "id": 1794125938945,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-01",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Saudi warplanes carried out 66 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the capital, Sana’a, and the governorates of Al Jawf, Taiz, Saa...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/W0AdgJ0w2h4nk188edmr5-ct-NMLE4o9d8dGIOf9PIaPGbwK-tvAldkq1oKj0gjofMMNtzai18C4cSMaP95QcI2P4lXSxDA6_a6MRencKHGtN_werYHZR6CCLum6ZJzzomByQQDmuYzzhTTUgz0nm8RN2JkGUHb_xnSjM5dQWvyq35jlzi7Mie-3ewBuBVZhcpND-sa42stcfjxGbzxeehwFuvDRmpoxte9SIlrZIx0H0POTNMrDbMzJGa0yx-JrOR7fPKpw_1K_q-eNRmDlj-peYrnDUaeawGoQ8NcRRKUqyn0yx8UnwAJbwdd73BO-uJjYM2voNlEWzLKpKAHXbQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793584430213,
     "type": "rocket",
     "location": "Hodeidah",
@@ -230838,6 +230858,21 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴 Hourly Updates (-ve): November 7–8, 2026🇾🇪 Yemen• Saudi aircraft reportedly carried out two airstrikes on a water-project storage tank in the Kataf and Al-Boqa districts of Saada.• A girl was reportedly injured by mortar-shell fragments fired by Saudi-backed forces in the Hazran area of Al-Taiz...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794125910547,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭| 60 Shia clerics to face trial in Bahrain: Bahrain’s High Criminal Court is scheduled to put more than 60 Shia clerics on trial tomorrow, 8 November. Arab sources describe this as one of the largest cases brought against Shia Muslims in the Arab world…",
     "media": [],
     "verified": false
   },

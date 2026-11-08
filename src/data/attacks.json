@@ -171514,6 +171514,75 @@
     "media": []
   },
   {
+    "id": 489691220,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Saudi warplanes carried out 66 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the capital, Sana’a, and the governorates of Al Jawf, Taiz, Saada, Hajjah, and Lahij. The attacks were conducted using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif airbases, alongside missile strikes launched from Najran. The attacks r",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/W0AdgJ0w2h4nk188edmr5-ct-NMLE4o9d8dGIOf9PIaPGbwK-tvAldkq1oKj0gjofMMNtzai18C4cSMaP95QcI2P4lXSxDA6_a6MRencKHGtN_werYHZR6CCLum6ZJzzomByQQDmuYzzhTTUgz0nm8RN2JkGUHb_xnSjM5dQWvyq35jlzi7Mie-3ewBuBVZhcpND-sa42stcfjxGbzxeehwFuvDRmpoxte9SIlrZIx0H0POTNMrDbMzJGa0yx-JrOR7fPKpw_1K_q-eNRmDlj-peYrnDUaeawGoQ8NcRRKUqyn0yx8UnwAJbwdd73BO-uJjYM2voNlEWzLKpKAHXbQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 489695961,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — UAE: armed movement Yahya Trumps assets those",
+    "location": "UAE",
+    "coordinates": [
+      23.8,
+      54.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🚩/ 🇦🇪 🌟 | The armed movement “Yahya”: Trump’s assets and those of his associates in the UAE are our primary targets.• In a statement, the armed movement “Yahya” identified the economic network of Trump and his associates in the UAE as one of its primary targets.• The movement declared that it would target individuals and companies linked to this network wherever they may be.• The statement called Trump of pushing the region towards tension and crisis in order to secure his personal interests",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 487381756,
     "type": "drone",
     "status": "confirmed",
@@ -174451,6 +174520,38 @@
       "other": 0
     },
     "description": "🔴 Hourly Updates (-ve): November 7–8, 2026🇾🇪 Yemen• Saudi aircraft reportedly carried out two airstrikes on a water-project storage tank in the Kataf and Al-Boqa districts of Saada.• A girl was reportedly injured by mortar-shell fragments fired by Saudi-backed forces in the Hazran area of Al-Taiziyah district, Taiz.• Yemeni Armed Forces spokesperson Yahya Saree said Saudi forces carried out 105 attacks against residential areas across Yemen during the preceding 24 hours, resulting in dozens o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489700703,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Lebanon: Trump Netanyahu have launched their regimes",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Trump and Netanyahu have launched their regime's greatest-ever campaign, mobilising enormous political, military, occupational, genocidal and diplomatic resources to achieve their objectives. Yet their strategies were fundamentally flawed from the outset, and their ambitions were bound to encounter serious obstacles. This is the reality they must confront: if their campaigns were truly as successful as they claimed, and if their leadership had genuinely secured the level of public support and ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
