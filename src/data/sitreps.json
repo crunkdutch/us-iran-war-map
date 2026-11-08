@@ -230812,6 +230812,36 @@
     "verified": false
   },
   {
+    "id": 1794118648418,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 7–8, 2026🇾🇪 Yemen• Yemeni Armed Forces announced missile and drone attacks against several Saudi targets inside Saudi territory.• A missile strike on a Saudi military camp in Jizan three days earlier killed seven Saudi soldiers.• AnsarAllah forces launched ballist...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794118720075,
+    "type": "missile",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-11-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): November 7–8, 2026🇾🇪 Yemen• Saudi aircraft reportedly carried out two airstrikes on a water-project storage tank in the Kataf and Al-Boqa districts of Saada.• A girl was reportedly injured by mortar-shell fragments fired by Saudi-backed forces in the Hazran area of Al-Taiz...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",

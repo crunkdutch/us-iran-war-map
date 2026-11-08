@@ -174424,6 +174424,38 @@
     "media": []
   },
   {
+    "id": 489686480,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Bandar Abbas, Jask, Qeshm: Hourly Updates November 2026 Yemen Saudi",
+    "location": "Bandar Abbas, Jask, Qeshm, Bushehr, Sirik, Sanaa, Strait of Hormuz, Lebanon, Syria, Yemen, Iraq, Israel",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): November 7–8, 2026🇾🇪 Yemen• Saudi aircraft reportedly carried out two airstrikes on a water-project storage tank in the Kataf and Al-Boqa districts of Saada.• A girl was reportedly injured by mortar-shell fragments fired by Saudi-backed forces in the Hazran area of Al-Taiziyah district, Taiz.• Yemeni Armed Forces spokesperson Yahya Saree said Saudi forces carried out 105 attacks against residential areas across Yemen during the preceding 24 hours, resulting in dozens o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
