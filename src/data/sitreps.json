@@ -230877,6 +230877,112 @@
     "verified": false
   },
   {
+    "id": 1794133147599,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | A Sentinel-2 satellite image captured between November 2 and 7 shows Pumping Station No. 2 of the East-West oil pipeline near Riyadh, Saudi Arabia. The imagery appears to indicate damage to an oil reservoir following recent attacks attributed to YAF.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/e27fa91e63.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/K6EVn0doKkYFcnAslpxHneXKnPEF8z0xfe4wdUVOmADTIfw6mYukQfhMYw7_I3cJQZQGWIIXtfFnypjH7Ag3UPpAI59OtSbxsEkO1J0Fx7WFImA-pqUXxsSnk_5XYXEbh3HjUU6b62BY_Xw32nHIeGkWonCUX3y8xG4soUmbmYR-Krmxe-lGLb27Dfss2bVyI0gssFF9gxr-Xz73VXidAvmBlpYJO55Ay5uCAEsiW43x4XLGUwYDx038z2Y41_DkaKLrTStA-4X4jm3zfn75Vw9bE3V0NN24jx-ZuwLrgRpp0bX10OeROv4bxpU4ar7Lrg0echwSlJotlMYsWWfvtA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64363",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/K6EVn0doKkYFcnAslpxHneXKnPEF8z0xfe4wdUVOmADTIfw6mYukQfhMYw7_I3cJQZQGWIIXtfFnypjH7Ag3UPpAI59OtSbxsEkO1J0Fx7WFImA-pqUXxsSnk_5XYXEbh3HjUU6b62BY_Xw32nHIeGkWonCUX3y8xG4soUmbmYR-Krmxe-lGLb27Dfss2bVyI0gssFF9gxr-Xz73VXidAvmBlpYJO55Ay5uCAEsiW43x4XLGUwYDx038z2Y41_DkaKLrTStA-4X4jm3zfn75Vw9bE3V0NN24jx-ZuwLrgRpp0bX10OeROv4bxpU4ar7Lrg0echwSlJotlMYsWWfvtA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794133121371,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-07",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | A Yemeni hit \"King Abdullah\" financial center tower in Riyadh.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794133157561,
+    "type": "intercept",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌🇸🇦 | ARAMCO tower in Riyadh suffered damage after falling debris from after AnsarAllah ballistic missiles were intercepted over the Saudi capital.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LSkxE7vQEBbnEXlHc9fFqsVDA_JEOSS8hZKuxSZ4R9_nAG3VtYbBtAGS6EJQVjjh7hEDg3jQdld-2kKRsL2Qha0P3SR-8mPvu3CFXfhO_S2bN_vVuEqrsYNQ_TgReitT31tLHtQ9nBWTE2GwysLudTw0QeakIldVpInnjDyOWnRX623To-GMeG8Jk_cd9sxvaSFq0sD4GSoHm5BBw8lHxbi9XBFU52CJo3ktO6Kt4n4o16dkG4i_iQaLflwB9q6um9MKlPtsul-jogkeNI8S1sVTGVX_15pO-xmMR8lUYlqmEmXuX36Rhp1cmfnyw6jTPAj26q9ZWhoR0JaR_gB0DA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794133172450,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Strait of Hormuz gives Iran strategic leverage in global affairs: Official📌 Tehran, IRNA — The Strait of Hormuz has become an important instrument of influence for Iran, with developments there directly linked to the country’s financial security, the secretary of the Expediency Council’s secreta...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794133105080,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran’s Yousofi breaks world record, wins clean and jerk gold at World Championships📌 Tehran, IRNA – Iranian weightlifter Alireza Yousefi won the clean and jerk gold medal with a world-record lift and secured silver overall in the super-heavyweight category at the 2026 World Weightlifting Champio...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794133112616,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-08",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Any power standing against Iran is doomed to failure: Armed Forces’ spokesperson📌 Tehran, IRNA — Iranian Armed Forces spokesperson Brigadier General Abolfazl Shekarchi says any power that stands against Iran’s strong resolve is doomed to fail and lose credibility in the eyes of world public opin...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",

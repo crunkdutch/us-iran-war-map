@@ -174557,6 +174557,86 @@
     "media": []
   },
   {
+    "id": 489705446,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Riyadh, Saudi Arabia: Sentinel2 satellite image captured between November",
+    "location": "Riyadh, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | A Sentinel-2 satellite image captured between November 2 and 7 shows Pumping Station No. 2 of the East-West oil pipeline near Riyadh, Saudi Arabia. The imagery appears to indicate damage to an oil reservoir following recent attacks attributed to YAF.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/e27fa91e63.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/K6EVn0doKkYFcnAslpxHneXKnPEF8z0xfe4wdUVOmADTIfw6mYukQfhMYw7_I3cJQZQGWIIXtfFnypjH7Ag3UPpAI59OtSbxsEkO1J0Fx7WFImA-pqUXxsSnk_5XYXEbh3HjUU6b62BY_Xw32nHIeGkWonCUX3y8xG4soUmbmYR-Krmxe-lGLb27Dfss2bVyI0gssFF9gxr-Xz73VXidAvmBlpYJO55Ay5uCAEsiW43x4XLGUwYDx038z2Y41_DkaKLrTStA-4X4jm3zfn75Vw9bE3V0NN24jx-ZuwLrgRpp0bX10OeROv4bxpU4ar7Lrg0echwSlJotlMYsWWfvtA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64363",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/K6EVn0doKkYFcnAslpxHneXKnPEF8z0xfe4wdUVOmADTIfw6mYukQfhMYw7_I3cJQZQGWIIXtfFnypjH7Ag3UPpAI59OtSbxsEkO1J0Fx7WFImA-pqUXxsSnk_5XYXEbh3HjUU6b62BY_Xw32nHIeGkWonCUX3y8xG4soUmbmYR-Krmxe-lGLb27Dfss2bVyI0gssFF9gxr-Xz73VXidAvmBlpYJO55Ay5uCAEsiW43x4XLGUwYDx038z2Y41_DkaKLrTStA-4X4jm3zfn75Vw9bE3V0NN24jx-ZuwLrgRpp0bX10OeROv4bxpU4ar7Lrg0echwSlJotlMYsWWfvtA"
+      }
+    ]
+  },
+  {
+    "id": 489710190,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Riyadh: ARAMCO tower Riyadh suffered damage after",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌🇸🇦 | ARAMCO tower in Riyadh suffered damage after falling debris from after AnsarAllah ballistic missiles were intercepted over the Saudi capital.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LSkxE7vQEBbnEXlHc9fFqsVDA_JEOSS8hZKuxSZ4R9_nAG3VtYbBtAGS6EJQVjjh7hEDg3jQdld-2kKRsL2Qha0P3SR-8mPvu3CFXfhO_S2bN_vVuEqrsYNQ_TgReitT31tLHtQ9nBWTE2GwysLudTw0QeakIldVpInnjDyOWnRX623To-GMeG8Jk_cd9sxvaSFq0sD4GSoHm5BBw8lHxbi9XBFU52CJo3ktO6Kt4n4o16dkG4i_iQaLflwB9q6um9MKlPtsul-jogkeNI8S1sVTGVX_15pO-xmMR8lUYlqmEmXuX36Rhp1cmfnyw6jTPAj26q9ZWhoR0JaR_gB0DA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
