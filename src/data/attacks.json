@@ -174799,7 +174799,18 @@
     "description": "📡 Atletico Madrid vs Barcelona: Flick faces five absences in crucial La Liga clash📌 Atletico Madrid host Barcelona in a crucial La Liga clash. Explore predicted lineups, injury updates, kick-off time, and key statistics ahead of the match.Atletico Madrid host Barcelona at the Riyadh Air Metropolitano on Sunday, 8 November, in a crucial La Liga encounter with first place at stake. Diego Simeone's side enter the contest on a seven-match winning streak, while Hansi Flick's Barcelona are looking t",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/e27fa91e63.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/K6EVn0doKkYFcnAslpxHneXKnPEF8z0xfe4wdUVOmADTIfw6mYukQfhMYw7_I3cJQZQGWIIXtfFnypjH7Ag3UPpAI59OtSbxsEkO1J0Fx7WFImA-pqUXxsSnk_5XYXEbh3HjUU6b62BY_Xw32nHIeGkWonCUX3y8xG4soUmbmYR-Krmxe-lGLb27Dfss2bVyI0gssFF9gxr-Xz73VXidAvmBlpYJO55Ay5uCAEsiW43x4XLGUwYDx038z2Y41_DkaKLrTStA-4X4jm3zfn75Vw9bE3V0NN24jx-ZuwLrgRpp0bX10OeROv4bxpU4ar7Lrg0echwSlJotlMYsWWfvtA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64363",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/K6EVn0doKkYFcnAslpxHneXKnPEF8z0xfe4wdUVOmADTIfw6mYukQfhMYw7_I3cJQZQGWIIXtfFnypjH7Ag3UPpAI59OtSbxsEkO1J0Fx7WFImA-pqUXxsSnk_5XYXEbh3HjUU6b62BY_Xw32nHIeGkWonCUX3y8xG4soUmbmYR-Krmxe-lGLb27Dfss2bVyI0gssFF9gxr-Xz73VXidAvmBlpYJO55Ay5uCAEsiW43x4XLGUwYDx038z2Y41_DkaKLrTStA-4X4jm3zfn75Vw9bE3V0NN24jx-ZuwLrgRpp0bX10OeROv4bxpU4ar7Lrg0echwSlJotlMYsWWfvtA"
+      }
+    ]
   },
   {
     "id": 489738675,
@@ -174872,6 +174883,38 @@
       "other": 0
     },
     "description": "⚡️ IRGC Aerospace Force plays key role in strengthening Iran’s defense capabilities: Judicial official📌 Tehran, IRNA – A senior Iranian judicial official has emphasized the strategic position of the Islamic Revolution Guards Corps (IRGC) Aerospace Force in developing advanced defense technologies and turning indigenous capabilities into a foundation for national deterrence and security.In a Sunday message to the Commander of the IRGC Aerospace Force, Brigadier General Majid Mousavi, Hojjatolesl",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489748178,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Syria, Iraq: Armed forces stand ready defend Iran",
+    "location": "Tehran, Syria, Iraq, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Armed forces stand ready to defend Iran with new, advanced weaponry: Deputy speaker📌 Tehran, IRNA – Deputy Parliament Speaker Ali Nikzad, referring to the country's proactive deterrence, says the Iranian Armed Forces are fully prepared to confront any enemy threats or hostile acts, with new and more advanced weapons.In an interview with IRNA on Sunday, Nikzad, emphasizing the combat readiness of the armed forces, said they are ready to defend the nation and maintain a powerful presence in th",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

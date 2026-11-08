@@ -231124,6 +231124,51 @@
     "verified": false
   },
   {
+    "id": 1794161988967,
+    "type": "airstrike",
+    "location": "Doha",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "date": "2026-11-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🇶🇦 | An Iranian government plane lands in Doha.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794162044834,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-08",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran condemns airstrikes on Yemen, calls for end to attacks and blockade📌 Tehran, IRNA – The Iranian Foreign Ministry has strongly condemned airstrikes targeting civilian infrastructure and residential areas in Yemen, calling for an immediate halt to military attacks and the lifting of the block...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794162019721,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-08",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Armed forces stand ready to defend Iran with new, advanced weaponry: Deputy speaker📌 Tehran, IRNA – Deputy Parliament Speaker Ali Nikzad, referring to the country's proactive deterrence, says the Iranian Armed Forces are fully prepared to confront any enemy threats or hostile acts, with new and ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",
