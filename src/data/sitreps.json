@@ -231048,6 +231048,67 @@
     "verified": false
   },
   {
+    "id": 1794147602394,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Atletico Madrid vs Barcelona: Flick faces five absences in crucial La Liga clash📌 Atletico Madrid host Barcelona in a crucial La Liga clash. Explore predicted lineups, injury updates, kick-off time, and key statistics ahead of the match.Atletico Madrid host Barcelona at the Riyadh Air Metropolit...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794147606082,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-11-08",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Ahmed bin Hamad Al-Khalili, the Grand Mufti of Oman, expressed solidarity with Palestinians in the Gaza Strip following widespread flooding that inundated tents sheltering displaced people. He urged Muslims worldwide to step up relief efforts to assist those affected.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Gxwq-YiDjQSYFV7d7OtUvaY5bP37KTvAgWNFRkjY8OtwUo5V1ofzi0T0jp-yEKi6FfwTUggND0f1R9JfI1kpTnqL8KB8NQYCHSju2ygzaGM-kpbg_P66HnqN_MUn22Q6b216t05vjNphEGkQ6gQYwAF45z3RzVZtpGS8nmq4aW1Kzy95Jms-CSWBiUche81s5bVtkVh_SYs1VCc3OaYPXshhnEadwPSFkl5DyFJcSxOo6RkWLhMtBsPgjrtus4iN3uABz_pagfwSAAcEc3bf90qeOGTrFIMO3xrkUP2HkFHQpOdxbkwx_VrL5vCjFkvKXy7VK1gPJyKZDN2mIqYQow.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794147532920,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "IRGC Navy: Since the early hours of Sunday morning, three oil tankers that were traveling through unauthorized routes in the Strait of Hormuz have been hit by explosions and large fires, with smoke from the blazes blanketing the skies over the Strait.The tankers caught fire after disabling their nav...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/bac71b1f6c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gPLN0HzCKlNZA2DAe_P5rcjWveSFVWorrp7tKU78964jqjyR7z5UXpIhGJO9MPrlF6fB7l0bO-eNtSmbgridjRAgExxK00gB-7r5ARarNjitPf9jNLyCsahaOJQgZZG4XIsnbyO4Ou8z1Y5kRL_o4Uf3LK4bZJ03-m2NO8TZtxEfs9aQ1Ft39UqQwbpFyslh4OZ0QikEtU7o_g8cI_p9PARu6pp5yRHglR4qaMVAVQ5aMYUsL7zsIVULsLF2pKP0DXTL7DNLzYf76sUptZIUIzJwC_MGfBKLFaKUcp-lngADzI28HxDULaefQEpzjMAN2tADGZ8I79X2imeM-SKaGQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/41928",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gPLN0HzCKlNZA2DAe_P5rcjWveSFVWorrp7tKU78964jqjyR7z5UXpIhGJO9MPrlF6fB7l0bO-eNtSmbgridjRAgExxK00gB-7r5ARarNjitPf9jNLyCsahaOJQgZZG4XIsnbyO4Ou8z1Y5kRL_o4Uf3LK4bZJ03-m2NO8TZtxEfs9aQ1Ft39UqQwbpFyslh4OZ0QikEtU7o_g8cI_p9PARu6pp5yRHglR4qaMVAVQ5aMYUsL7zsIVULsLF2pKP0DXTL7DNLzYf76sUptZIUIzJwC_MGfBKLFaKUcp-lngADzI28HxDULaefQEpzjMAN2tADGZ8I79X2imeM-SKaGQ"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",
