@@ -174952,6 +174952,70 @@
     "media": []
   },
   {
+    "id": 489757685,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Tehran, Isfahan, Bandar Abbas: Explosions reported across Qeshm Island Bandar",
+    "location": "Tehran, Isfahan, Bandar Abbas, Qeshm Island, Qeshm, Sirik, Khuzestan, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Explosions reported across Qeshm Island, Bandar Abbas, Sirik and Mahshahr amid reports of fighter jet activity:Multiple explosions and sounds of fighter jets have been reported across several locations in Iran. On Qeshm Island, four consecutive explosions and rising smoke were reported, while initial reports suggested that American strikes may have targeted several locations, including an air defence system in the eastern part of the island. IRNA’s correspondent on Qeshm also reported tha",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489762440,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Unknown Interception — Erbil: Kurdistan Region Nearly 2800 electricity lost",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | Kurdistan Region: Nearly 2,800 MW of electricity lost following drone attack on Kor Mor gas field:The Kurdistan Regional Government’s Ministry of Electricity has confirmed that nearly 2,800 megawatts (MW) of electricity generation capacity have been lost following an attack on the Kor Mor gas field.Widespread power outages have affected Erbil, Kirkuk, Duhok and Sulaymaniyah after the gas field was taken offline following the reported drone attack.Media outlets affiliated with the Kurdista",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
