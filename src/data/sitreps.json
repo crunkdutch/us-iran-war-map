@@ -231169,6 +231169,36 @@
     "verified": false
   },
   {
+    "id": 1794169223007,
+    "type": "airstrike",
+    "location": "Doha",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "date": "2026-11-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🇶🇦 | An Iranian government plane lands in Doha. 🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794169251199,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-08",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Three missiles were launched at violating ships in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",
