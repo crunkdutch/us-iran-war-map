@@ -174637,6 +174637,139 @@
     ]
   },
   {
+    "id": 489714935,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Taba: rarely brought public attention that Imam",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇮🇷 | It is rarely brought to public attention that Imam Ali Khamenei had instructed Iran’s aerospace officials to maintain a cap of 2,000 kilometres on the country’s ballistic missile range, and that this restriction was imposed for a specific reason. Imam Mujtaba Khamenei has now lifted this restriction. However, missile production continues, and missiles currently undergoing manufacturing could potentially incorporate longer-range capabilities, extending beyond the previous 2,000-kilome",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/PrYf_81V0WS_LgXs5RM92Eukz-Odz8OiUcD7TyWCOezBNPfpphdwZa6oRW8ZgQkZZaY-XTjlcF2VwAfYAgPfpU37fXQkRUH0uBIMIoVgYLmRTecQrjM_lsPsjh83ESqj4yAgqtxCb83tD77p1s2SDGteQMpqd85Atr686xjB_dLS_Kd1cLpd2FkCSzYoSDsrFBjA5pkjWi9D9HEu0elORH3P3jtNzLYf97j3FPs3UXpGnLHU-JdUqzcSbvaKeuQ5PSrCn0mYIMC8QBc1ItmOnGDE3d5uOy_NAtPS4E7N1mVuiuhAy591tPruxXo0PxjCHk3hGq9Z72TFnFjBCGtJnA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 489719681,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Breaking IRGC targeted tanker accused violating",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a tanker accused of violating restrictions in the Strait of Hormuz. This marks the third reported explosion involving an oil tanker in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489724428,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Aden, Israel: Israeli regime deepening Gaza crisis Hamas",
+    "location": "Tehran, Aden, Israel, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Israeli regime deepening Gaza crisis: Hamas📌 Tehran, IRNA – The Palestinian Islamic Resistance Movement (Hamas) says that the Israeli regime is deliberately worsening the humanitarian catastrophe in the Gaza Strip and that the Board of Peace is responsible for the continued violations.Hamas said in a statement on Sunday that the Israeli regime is deliberately deepening the humanitarian crisis in Gaza by preventing the entry of relief supplies as the cold season approaches.​It noted that the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489729176,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz, Persian Gulf: Three offending tankers catch fire after",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Three offending oil tankers catch fire after hitting naval mines in Strait of Hormuz: IRGC📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy says one more tanker caught fire after an explosion, bringing to three such incidents on vessels attempting to pass through unauthorized routes in the Strait of Hormuz, since early hours of Sunday.In a statement on its official information portal, the IRGC announced that the three rough vessels struck naval mines and engulfed in flames, wi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
