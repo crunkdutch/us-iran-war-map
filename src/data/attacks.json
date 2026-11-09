@@ -175016,6 +175016,38 @@
     "media": []
   },
   {
+    "id": 489767196,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm: Four explosions were heard Qeshm just",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Four explosions were heard in Qeshm just minutes ago.According to an IRNA reporter in Qeshm, it seems that certain locations on the island were hit.So far, neither local nor provincial authorities have offered any comment on the incident.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
