@@ -230843,6 +230843,21 @@
     "verified": false
   },
   {
+    "id": 1794234235925,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-06",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12 military correspondent:The gap between what the “Israeli” army presents to the public and the broader reality in southern Lebanon calls for a reassessment of the significance of “Israeli” achievements and raises the question of whether the threat is actually moving fart...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794032031781,
     "type": "drone",
     "location": "Khorramabad",
@@ -231620,6 +231635,71 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794234179195,
+    "type": "missile",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-09",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 9, 2026🇮🇷 Iran• Three missiles were reportedly launched at vessels violating restrictions in the Strait of Hormuz.• Iranian television reported that 11 illegal oil tankers had been targeted over the past ten days, while four tankers were stopped in the Strait of H...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794234230473,
+    "type": "rocket",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-11-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): November 9, 2026🇱🇧 Lebanon• Israeli airstrikes and artillery shelling targeted multiple localities across southern Lebanon. Airstrikes reportedly hit the outskirts of Al-Mansouri, Tlousa, Kafartabnit, Baraashit, and the Ayta al-Jabal-Hadatha area.• Artillery shelling targe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794234190280,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Large oil spills are observed extending along the Omani Southern Lane and reaching ashore, adding to the massive smoke plume observed emanating from one of the two disabled vessels in the western Strait of Hormuz. More zoomed-in details to come.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rcNbAMxLh1KS8BT9QQooD6CO2H7jnGfoLSEP3PkXe67b2iEClgYM1_q7NwhEUOT_rXEyc5lW_rxeN6IjJjrA37UEfoT4A0JTD0DRep1FxmCy1VGRM84fKauhx_icqeUU87SkZCn4BCyZVI4tyD3XNGs-mKUfe8qZ8nInHkuylQS8PjIABALpZhZcxBY2WrMLqDpdM80NJGvAaRcBh-l7GtxhkTrOaU5mOYZwVylQJ_Zd-wbEI7LEQUsQPixnKu1iIl9j_BwTZSO4_AIQ4BW6Mawg_CGHQqeXLOfQrUBmMv0Q6Gqv5AGFZ1ggueqph0kd9NCdbY6SPC1t3m0vJ-BGiQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794234207723,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Hormozgan exports &#036;222 million in seafood despite US-Israeli attacks📌 Bandar Abbas, IRNA – The director-general of fisheries in Iran’s southern Hormozgan province said that, despite the critical conditions caused by the recent war, the province ranked first in the country in seafood exports...",
+    "media": [],
     "verified": false
   },
   {

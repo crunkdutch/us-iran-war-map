@@ -174321,6 +174321,38 @@
     "media": []
   },
   {
+    "id": 489843428,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "IDF/Israel Cyber Attack — Tel Aviv, Israel: Enemy_MediaIsraeli media Israeli police General Security",
+    "location": "Tel Aviv, Israel",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: The “Israeli” police and the General Security Service (Shin Bet) are investigating leaflets discovered today in the city of Tel Aviv, which are suspected of being linked to an Iran-affiliated cyber hacking group.According to the police, the leaflets, which contain a QR code, were found inside mailboxes at several addresses in northern Tel Aviv.The police explained that the QR code leads to a website containing “threatening content”.A screenshot released by the police",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489563591,
     "type": "drone",
     "status": "confirmed",
@@ -175503,6 +175535,102 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 489829115,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Qeshm Island, Qeshm, Hodeidah: Hourly Updates November 2026 Iran Three",
+    "location": "Qeshm Island, Qeshm, Hodeidah, Riyadh, Strait of Hormuz, Yemen, Qatar, Saudi Arabia",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 9, 2026🇮🇷 Iran• Three missiles were reportedly launched at vessels violating restrictions in the Strait of Hormuz.• Iranian television reported that 11 illegal oil tankers had been targeted over the past ten days, while four tankers were stopped in the Strait of Hormuz during the preceding 24 hours.• Iranian authorities said the previous night’s US strikes on Qeshm Island targeted areas outside residential, commercial and service infrastructure zones. No damag",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489833885,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Hodeidah, Lebanon, Yemen: Hourly Updates November 2026 Lebanon Israeli",
+    "location": "Hodeidah, Lebanon, Yemen, Bahrain, Israel, Port Said",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): November 9, 2026🇱🇧 Lebanon• Israeli airstrikes and artillery shelling targeted multiple localities across southern Lebanon. Airstrikes reportedly hit the outskirts of Al-Mansouri, Tlousa, Kafartabnit, Baraashit, and the Ayta al-Jabal-Hadatha area.• Artillery shelling targeted the outskirts of Mayfadoun, Zawtar al-Sharqiyah, Harsh, Ayta al-Jabal, Al-Mansouri, Nabatieh al-Fawqa, Kafartabnit, Wadi Zibqin, Wadi al-Hujeir, Baraashit, Wadi al-Salouqi, and Marj al-Khiam.• Exp",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489838656,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Bandar Abbas, Hormozgan, Israel: Hormozgan exports 036222 million seafood despite",
+    "location": "Bandar Abbas, Hormozgan, Israel",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Hormozgan exports &#036;222 million in seafood despite US-Israeli attacks📌 Bandar Abbas, IRNA – The director-general of fisheries in Iran’s southern Hormozgan province said that, despite the critical conditions caused by the recent war, the province ranked first in the country in seafood exports, generating &#036;222 million.Masoud Barani said on Monday that Hormozgan province, with the production of over 400,000 tons of fisheries products, holds the top position in the country’s fisheries s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
