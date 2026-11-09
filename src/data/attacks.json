@@ -175048,6 +175048,38 @@
     "media": []
   },
   {
+    "id": 489771953,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm Island, Qeshm, Hormozgan: strike Qeshm causes damage civilian areas",
+    "location": "Qeshm Island, Qeshm, Hormozgan",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ US strike on Qeshm causes no damage to civilian areas or infrastructure📌 Qeshm, IRNA – A US military strike on locations on Qeshm Island has caused no damage to residential or commercial areas or essential infrastructure, says Hormozgan Province’s deputy governor for political, security and social affairs.Ahmad Nafisi said on Monday that the targeted sites were outside residential, commercial and public service areas, adding that conditions on the island remained under control.​According to ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
