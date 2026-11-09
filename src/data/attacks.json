@@ -172190,6 +172190,70 @@
     ]
   },
   {
+    "id": 489814811,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Syria, Iraq, Israel: Najaf school failed establish even single",
+    "location": "Syria, Iraq, Israel",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The Najaf school has failed to establish even a single meaningful deterrent against the idea of Iraq once again slipping under American influence. Iraq appears to have succumbed to American pressure and, in many respects, has become a silent spectator to the process.The system is witnessing this almost helplessly, with no clear or decisive stance on the increasingly visible reality that America is influencing what Iraq does, how it conducts its affairs, which borders and routes Iraqis are perm",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489819578,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Behbahan, Qatar: What would Iran governments response Mount",
+    "location": "Behbahan, Qatar",
+    "coordinates": [
+      30.6,
+      50.25
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "What would Iran government's response be if Mount Behbahan were hit by a US nuclear bomb? Other than sending the foreign minister and technical teams to Qatar to negotiate something out of nothing, what concrete response does Iran have in mind?",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 487946635,
     "type": "intercept",
     "status": "confirmed",
@@ -175380,7 +175444,65 @@
     "description": "💬 Diplomacy of civilizations: Why does the world need responsible power?📌 Tehran, IRNA — Iran’s former foreign minister Mohammad Javad Zarif, who also heads the Paiab (Possibilities Architects: Inspiring Ascending Beyond) think tank, has co-authored an article on the concept of “diplomacy of civilizations,” explaining why it is needed in today’s world.The article, co-authored with Paiab Deputy Ali Nasri, was published on the think tank’s website on Sunday and reads as follows:​In 539 BC, Cyrus",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/tZJ913pxiPF2NnErS67OV43HRg7b2mt4lRcepI4HMapRQMVQUu8xXUHQQ5tfNTOTZ4D0eyESw1PbC9-a_XJ2c27ltfCIduQUKElWn8i-ULzsS-7HSRwcgww0uFqG6F73jRLMSm5uJ-WGSXmQEhhrv3bG8Bb2tOh_xS96TuSrMLgtXA4iWO9E7uIWIx7h6-jswCcdHUwKqtIHKzX2w0HEqesFJ3VhjQdHMGJJ6-rA1jyGK33zKr6tV5v8bLlaLpedcJs9TeqWwiRnUjgwdybsDcV0wvx7PEitGTh2dbZmQKX4HDEq0b4CEwPqVRj-gGpYwLToKrHowxh8uxGN1e9ZKw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Tqp0_YQeTtD1l9c1WuQUmWiCqZtcj5ZS7JSmWQSDd_0dJeBiHdzF2JESuCNKCY7P7J7noR8Pk1FnxD10QFNQ5Ctt7s5HrHtZeuJsLcuakpMB7AW8m1iQVcNd8_OXJahuuDaDPcJFwB30EuOulIk0rNGnYSOPKIM7Imv3h55C27SpQNeYvKI9Z_uTzK14ORxPQItiRcZionzG8GC4265XEQeE4_RCsD34940kZV4VHWa7HI-KISIlatdnOK1wI8Zfhb4JcfT5BfPqpWk_h2pzbT6eRkHlF8vvFJLUP7NIKyTYjbfBOWyaA7T_GdLguNe63JVIp5LxOkRnEytpOPHEfg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 489824346,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tel Aviv, Israel: Handala Hack Team stated that placed",
+    "location": "Tel Aviv, Israel",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Handala Hack Team stated that it has placed hundreds of thousands of warning notices outside the residences of Tel Aviv inhabitants, vowing to strike Israel's critical installations should the resistance's energy infrastructure come under attack again.In a message directed at residents, it said: \"You heard our voice from the heart of Tel Aviv last night.\"📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/EWTbZQXA6uODvDo1ICKwQQ1XeRa9rCqtN8fcsoIKEQ_OzrgeQWgVfGP5t6uZ9mJ-rmLYogI-qsQtGTd-Z8wWdJoXE6hMchuaFmfV8R481BFlXe23-7cw96etbQT1FnLOhAKJFFJ8Ql59dBl9toQjxvihxzVq1X7ZzpxEqVkneKo3ARSlNqLNOd6g5xl7J3QcVB2fvdd0cjDmYohkHJ75ydER9cb_FGpQmwzFlpT4oKeDIl3caSpjy_DO0kuc8BUgQjNU6atQk1coDtQ5nv0bP-FSjvcPK5l5eRHGZHRTok3jGiN5ZrRpubTCz2pNTbldQ2iQx453M6IWCGhhvEDmCQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ULIwAMpuxx_dZNGePIUTN4c7cmJKcfBQ9g8p14OJ0kqEZuwn8KgYMbNdGATUkNvGgBi8hKJJ-I_kRVLA4JV5D09_y9GlN4kQ-8cki1b3tzPwmXUw99VA_pczcFQ72BD9TYxNcWc2juAtAnPN2QOGcsu8MCgl5w6ioQaSqacKLc173NNOOvejQzTQLtBbatxIgEzeXodu5G41OOVv6Q7k2Of5-F5WtKuQQI-j6colA1b6TnBSLAWVtkn8rBRXAZpVBZn9_UTtJTw8Oa8pPRJ0mdZQVcN-64JpscZEEb-5xurO3c-IzaBYWT0PwhY8rgKT8qbqjvzldw3ztELAe9iD2w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/DgUrEVunKS_YXczH_WRO19ucTzk0xQSpuQlNeWtPqConwf3FZmJeCIj_CgTbuhyTK6NPUe1Im03gpDOrGfdR8A87PA9kI2Cpeq5LxLPpptDs66FeHgKBCHnn3SJcgKbUZR4xcw9P0V6RXi4B9_q7-IC9TTUnohzbO7qO6Ukz6pti-8iejpk3AEb8ez80jbet0ukikvIPLPe6bmBw8dMgZuJqB4GV9KAkVrQ3nXk60xiFyFXlU98PwAHq-K-WFYXp3kWtoNmkcb9mHP1qIyOBdnVkg4xy-IRPDHYZGbrXDe6yZ0isCbmAyHG3yglZPSJYQL7fAZKOHSxcd_W1EjdUkA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TMTpeGtBKQSojGPwjlmx5EUHLH23jPi78cXTTItVWzuvcJCKGKlX2QXq1T6P6pZPVFLNTquaAZI6hRUF45O3ROp-intGzFWXG4sHrvRYfiTFfMYP7LRPQba9EaUFsmJOHUuZYvwqSiVhwSCNnusVWrK4mbkCVae3zlp1vs-6P4jc8ke43v7ba1AD_jnzmaTyEK_53Z_6NFu2YRCy0WW3_kERrZ0I1fQ8qqf3c4OVsZeq9kr2zRR8mOCedR0S2NiNVfrUXMg4IOcMbF_lB0YrfddlBW9qwBZOOdozqRV8PKXk4Pk1wu7XXm3gQXwLop77g9aOo9qDekZet7pvIKiC8A.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,
