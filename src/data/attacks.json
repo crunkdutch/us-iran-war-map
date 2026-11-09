@@ -175444,7 +175444,22 @@
     "description": "📡 Iran’s 2-day Hormuz reopening proposal remains most rational option: Baqaei📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Iran’s proposal to reopen the Strait of Hormuz within two days remains the most logical plan for restoring security to the strategic waterway and the Persian Gulf region.“Iran’s proposal remains the most rational option on the table. By ‘most rational,’ we mean a proposal that can pave the way for restoring security in the Strait of Hormuz and the Pers",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/PqEW1wKk3QQnAhWzqpSjtCdnudIn_Wn8Thf4TLyAKpQtPrspU7vGNC9HZ-SXvy1zs20SWNakpkVzr1OFhJpJsnN3NA6UjNZ4rTHkiG481Z6-hMTQZw46NNu8x3mCRg35iKUj1V7B6t8sPfwN7zRmbFQUnkv8JOXG9qB0XJixB1xD0J2Mzu1YXXcy8ZOzMH4wOqLLlJhmDWidhjKBuqxkoe3QNrCT3YyG-CsskV4nde2o18H_wTB1uU_SO66xMIU-GhzjpOdKa_J1Kq_S76BsPlcKbNU1djK3m9ySaX7AFEdYhrW4s9A4jNz87Doau5ANE2aFCCNNU9xNH3D_ewHFHw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/307abb1746.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cE_NmoqIXhUz_OWysGJukHEQ0q9m4DZHnKmtWgBJQFkdcLTtuF1zno9B8RZbaDazjexbWoCdh8d1eNXM7A_peF40vqBMELPbenK1iDC_e32BTth44YeVQT8ouJNzBNifTiVUNqQlzR2aKe-w8XQsku1yfbONXsup4Mns-NB5DgKMv_KU9m0yX9Fk3A7bZtqSkgVE_FCWIVt6yeZCuNchLz-lDQM9kVGk_3U7dbk2FqgR0EBbti87flT6lzELFK16g90PHYqS4pG39k92B8nBRgJKP3Y5TpltY1K-4oGb3PCK3NStHt5fTRPuEzNE2ZtMNJoOeLPZXkX09oSfHfnsDQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64413?single",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cE_NmoqIXhUz_OWysGJukHEQ0q9m4DZHnKmtWgBJQFkdcLTtuF1zno9B8RZbaDazjexbWoCdh8d1eNXM7A_peF40vqBMELPbenK1iDC_e32BTth44YeVQT8ouJNzBNifTiVUNqQlzR2aKe-w8XQsku1yfbONXsup4Mns-NB5DgKMv_KU9m0yX9Fk3A7bZtqSkgVE_FCWIVt6yeZCuNchLz-lDQM9kVGk_3U7dbk2FqgR0EBbti87flT6lzELFK16g90PHYqS4pG39k92B8nBRgJKP3Y5TpltY1K-4oGb3PCK3NStHt5fTRPuEzNE2ZtMNJoOeLPZXkX09oSfHfnsDQ"
+      }
+    ]
   },
   {
     "id": 489800516,
@@ -175695,6 +175710,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 489857750,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Breaking IRGC targeted another violating tanker",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — The IRGC has targeted another violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rcNbAMxLh1KS8BT9QQooD6CO2H7jnGfoLSEP3PkXe67b2iEClgYM1_q7NwhEUOT_rXEyc5lW_rxeN6IjJjrA37UEfoT4A0JTD0DRep1FxmCy1VGRM84fKauhx_icqeUU87SkZCn4BCyZVI4tyD3XNGs-mKUfe8qZ8nInHkuylQS8PjIABALpZhZcxBY2WrMLqDpdM80NJGvAaRcBh-l7GtxhkTrOaU5mOYZwVylQJ_Zd-wbEI7LEQUsQPixnKu1iIl9j_BwTZSO4_AIQ4BW6Mawg_CGHQqeXLOfQrUBmMv0Q6Gqv5AGFZ1ggueqph0kd9NCdbY6SPC1t3m0vJ-BGiQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,
