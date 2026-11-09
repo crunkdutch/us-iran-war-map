@@ -227972,6 +227972,81 @@
     "verified": false
   },
   {
+    "id": 1794219733924,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-10-30",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "The Yemeni Armed Forces affirm that they did not carry out any operation today toward the depth of Saudi territory, and that the Saudi enemy’s claim of intercepting a drone in the skies over Mecca is a grave and blatant fabrication. Our operations target its oil facilities and military bases. No one...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794219749078,
+    "type": "airstrike",
+    "location": "Qatar",
+    "coordinates": [
+      25.3,
+      51.2
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Yoav Limor: No one can claim victory in the elections. Of course, there were tactical victories: Likud achieved more than opinion poll experts had expected, Arab influence increased significantly, and opponents of the government secured a popular majorit...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794219736562,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaFormer “Israeli” intelligence official Avner Vilian: I remind everyone that, based on how things currently appear, we will enter another round of war with Iran at some point within the next two weeks. This will not happen until it actually happens, but everyone is now extremely tense.We ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794219758406,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicHis Eminence Ayatollah Sayyed Mojtaba Khamenei (may his shadow endure):Every level of threat, regardless of its nature, must be met with an immediate and effective response, without any geographical restrictions.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794219805050,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-30",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Major General Yitzhak Brik:– In news studios, they are preoccupied with counting parliamentary seats and discussing coalitions, while the nation is heading toward the abyss. The military establishment, the economy, and society are all crumbling, yet the public g...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793418405584,
     "type": "rocket",
     "location": "Sanaa",
@@ -231323,6 +231398,67 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794219771718,
+    "type": "airstrike",
+    "location": "Doha",
+    "coordinates": [
+      25.2854,
+      51.531
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Sattar Hashemi, Minister of Communications and Information Technology, who traveled to Qatar to participate in the Plenipotentiary Summit of the International Telecommunication Union (ITU), arrived in Doha on Sunday evening and was welcomed by Iran's envoy Ali Salehabadi.This trip is aimed at streng...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/DEgER2jwCDzFYYFRqO6tEwzqkS1m5nraOR5EVhUJGsNVyHYd05lz4TfbreAeJU5s_meIZ6AQk3Q_2Vju2MwSP5QCtln7CboKTw5VN9fJQwcq4OCmz8hthpHgjSUN8TsDsdDk_5FodibEyCRiSM0PU33c28I9CLVx57_uFIKML60hCy-Nw5XlmYsCrhBi7gL7C7VgKpzglf25AG6lrCNjIwWLR5P93aoV9-QLMIWdAnr2x6sRE1i1m7LyvmPdnWWnWuPyuXLXQczd7yZT6hhPFY6oUPKbLpag47NXkWnRlgXXltyzteu1v0-rdw7eCBJ-UZsCHBR7AG176lYsH6TZDA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794219802306,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "A remarkable snapshot capturing the life of Caspian red deer in the Hyrcanian forests of Gilan, northern Iran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2ffa0358f7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UYD7Wwk7S54Boo4coImbhFigLZoEbhhwxDPCj71jVsmkeyasXe1USfUpSuIMfEc_rykbkdumzhSA1r7-x-QSbjHNvZ3i9AfEnpp3psXm31a6xTpkhK8yUuJ3ulHpFZlumUChzhTli6kp6ND7mviGOntfxbJiphfYDwNW6QdGBb4Migi0bcoA_W6eSfTD5nXBR1_h6gTG0z0g4u4ErLZdBSi6e9DigGDKgzzv-HQbfdu4douCk6_EGanqRsVkwaWpinUpPQHG7s0SRrJdlmx6PZGYJ6GxeXvsnq40neUhmNmiVi1tmmI7XTv7xwhGUiPwgB_kDtQ8lKgrqlX7ZUeAfg"
+      },
+      {
+        "url": "https://t.me/Irna_en/41966",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/UYD7Wwk7S54Boo4coImbhFigLZoEbhhwxDPCj71jVsmkeyasXe1USfUpSuIMfEc_rykbkdumzhSA1r7-x-QSbjHNvZ3i9AfEnpp3psXm31a6xTpkhK8yUuJ3ulHpFZlumUChzhTli6kp6ND7mviGOntfxbJiphfYDwNW6QdGBb4Migi0bcoA_W6eSfTD5nXBR1_h6gTG0z0g4u4ErLZdBSi6e9DigGDKgzzv-HQbfdu4douCk6_EGanqRsVkwaWpinUpPQHG7s0SRrJdlmx6PZGYJ6GxeXvsnq40neUhmNmiVi1tmmI7XTv7xwhGUiPwgB_kDtQ8lKgrqlX7ZUeAfg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794219791409,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Judiciary chief hails IRGC Aerospace Force as pillar of Iran’s deterrence power📌 Tehran, IRNA — Judiciary Chief Gholamhossein Mohseni Eje’i has described the Aerospace Force unit of the Islamic Revolution Guards Corps (IRGC) as one of the pillars of Iran’s deterrence power.In a message on Monday...",
+    "media": [],
     "verified": false
   },
   {

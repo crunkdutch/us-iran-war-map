@@ -170421,6 +170421,70 @@
     ]
   },
   {
+    "id": 489805280,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Israel: Enemy_MediaFormer Israeli intelligence official Avner Vilian",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaFormer “Israeli” intelligence official Avner Vilian: I remind everyone that, based on how things currently appear, we will enter another round of war with Iran at some point within the next two weeks. This will not happen until it actually happens, but everyone is now extremely tense.We will strike bridges and power plants. Even if we assume that we will once again succeed in eliminating their leadership, missiles will fly here again, chaos will erupt once more, and we will find ours",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489810045,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-10-30",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Islamic_RepublicHis Eminence Ayatollah Sayyed Mojtaba Khamen...",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicHis Eminence Ayatollah Sayyed Mojtaba Khamenei (may his shadow endure):If the enemies resume their military or terrorist attacks, the Armed Forces of the Islamic Republic and the Iranian people will determine when those attacks end.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 486345960,
     "type": "drone",
     "status": "confirmed",
@@ -175250,6 +175314,70 @@
       "other": 0
     },
     "description": "🎙 Official: Iran’s exports to Qatar remain steady and direct📌 Bushehr, IRNA — The head of the Iran-Qatar joint chamber stated that despite regional developments and current trade restrictions, commercial exchanges between Iran and Qatar have persisted in recent months, with goods exported to this market directly and without interruption.Speaking to IRNA on Monday, Khorshid Gazderazi said Iran’s exports to Qatar include foodstuffs, fruits, and vegetables, construction materials and goods, and m",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489795753,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran, Strait of Hormuz, Persian Gulf: Irans 2day Hormuz reopening proposal remains",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran’s 2-day Hormuz reopening proposal remains most rational option: Baqaei📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Iran’s proposal to reopen the Strait of Hormuz within two days remains the most logical plan for restoring security to the strategic waterway and the Persian Gulf region.“Iran’s proposal remains the most rational option on the table. By ‘most rational,’ we mean a proposal that can pave the way for restoring security in the Strait of Hormuz and the Pers",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489800516,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Diplomacy civilizations does world need responsible",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Diplomacy of civilizations: Why does the world need responsible power?📌 Tehran, IRNA — Iran’s former foreign minister Mohammad Javad Zarif, who also heads the Paiab (Possibilities Architects: Inspiring Ascending Beyond) think tank, has co-authored an article on the concept of “diplomacy of civilizations,” explaining why it is needed in today’s world.The article, co-authored with Paiab Deputy Ali Nasri, was published on the think tank’s website on Sunday and reads as follows:​In 539 BC, Cyrus",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
