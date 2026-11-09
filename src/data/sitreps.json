@@ -231703,6 +231703,36 @@
     "verified": false
   },
   {
+    "id": 1794241470870,
+    "type": "missile",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Two explosions followed by the launch of a missile from Sirik.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794241418595,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Drones were launched towards Strait of Hormuz from Southern coast.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",
