@@ -231814,6 +231814,47 @@
     "verified": false
   },
   {
+    "id": 1794255867821,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "First autumn snowfall blankets Gilan, northern Iran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/1b91b2564c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iOrfMs-S9jD5D_9IXLBw7TyretmQ2rCsbPyQn0UjUc_VTEzZGazzokAqIFcGa29uJuUMMykQAQiaWQ-7dVAk-vjXXeimQ6ClXv1v32JO0smM2OdVqtySKz15f272E9xlAcuqocPZroQs0E-oK0G2RyexFds9g_XBVgS4e5bTAtkFaufxHQeS0_CONTXnIibOm3KsySHQdbAAY4qm3YkivGxN79JnWyqjuPRUPbkWr-wzkzl-KVxvfmyM5FBjDuibmIjgdcHEWTW-SCi-Xv12OczGrrKdxOmojSz0QBvNnexUTK_WhF_DGAbJGuHATsrenjEXVkfBX5VFxguI5OZVVQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/41986",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/iOrfMs-S9jD5D_9IXLBw7TyretmQ2rCsbPyQn0UjUc_VTEzZGazzokAqIFcGa29uJuUMMykQAQiaWQ-7dVAk-vjXXeimQ6ClXv1v32JO0smM2OdVqtySKz15f272E9xlAcuqocPZroQs0E-oK0G2RyexFds9g_XBVgS4e5bTAtkFaufxHQeS0_CONTXnIibOm3KsySHQdbAAY4qm3YkivGxN79JnWyqjuPRUPbkWr-wzkzl-KVxvfmyM5FBjDuibmIjgdcHEWTW-SCi-Xv12OczGrrKdxOmojSz0QBvNnexUTK_WhF_DGAbJGuHATsrenjEXVkfBX5VFxguI5OZVVQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794255902330,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 IRGC commander: Pride-inspiring operations of Iranian Armed Forces disrupted the calculations of enemy📌 Tehran, IRNA – Tehran, IRNA – The commander of the Islamic Revolution Guard Corps (IRGC) Ground Force said that the pride-inspiring operations of the Armed Forces of the Islamic Republic of Ir...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",
