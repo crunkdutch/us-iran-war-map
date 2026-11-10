@@ -175954,7 +175954,174 @@
     "description": "🇮🇷 | Breaking — Iranian Revolutionary Guards:Two oil tankers that were deviating from their authorized route in the Strait of Hormuz came to a halt after massive explosions left them ablaze.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/594418a857.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/MNSj3XRGrOa4vNIgFA6e3QLAZ8L5-Ut4hzCVJ9tyYhYGMigb28BQ0lYMps9b1JmWcEja1AgX7Y9yA6Duq_rAAKfoBsrNoOgUHm9KpyeKF2Rlm44DOKj3mEkJBbWutCZYN4qcJctXy3YvQfgLL8craHWhoiztFx7sQcfmUkTZfB-7ZnHwS6lWQcSSK9Kkt9aulKCeuGdow6bj2oUHWQzFvIKpJEtOwzS7kX3YnLN1QcG7svNAMkI-y2rUeVk3KkI6PcbNPd7qKhE8N2ContzC7ps5ZwW1LQSnuHwYn0Pl4u32F3QjM5RDnVf93Hd-loKOExQAdKXVHG6odw5RLl6o1Q"
+      },
+      {
+        "url": "https://t.me/enemywatch/64445",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/MNSj3XRGrOa4vNIgFA6e3QLAZ8L5-Ut4hzCVJ9tyYhYGMigb28BQ0lYMps9b1JmWcEja1AgX7Y9yA6Duq_rAAKfoBsrNoOgUHm9KpyeKF2Rlm44DOKj3mEkJBbWutCZYN4qcJctXy3YvQfgLL8craHWhoiztFx7sQcfmUkTZfB-7ZnHwS6lWQcSSK9Kkt9aulKCeuGdow6bj2oUHWQzFvIKpJEtOwzS7kX3YnLN1QcG7svNAMkI-y2rUeVk3KkI6PcbNPd7qKhE8N2ContzC7ps5ZwW1LQSnuHwYn0Pl4u32F3QjM5RDnVf93Hd-loKOExQAdKXVHG6odw5RLl6o1Q"
+      }
+    ]
+  },
+  {
+    "id": 489891203,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni Armed Forces release highquality footage",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 22
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni Armed Forces release high-quality footage showing the targeting of more than 20 enemy Saudi-backed armoured vehicles and military equipment east of Al-Jawf Governorate using Su-22 fighter-bombers, reportedly killing and wounding dozens of personnel. November 10, 2026.🔹@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64446",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/SFXmZVnjKTCevPopyVksAEdK6E8_R-gd7_eq4kBAhhEemGAjlO2hrncqeO8HR2USrtd0El7qIzcDZ2vuqGkQiPCfCuQptQnFrNMoCDHy1955RxUWIt0sCSONG0EQK6Lz3IfwSadjKK7C_m_0A33MkQdQBCPZJ3FUDiglTm2OhTRZrqwn0RMmjqSKGmFWgIcIFXjJhZHFoAE24PL9ynJ_hz-4KfckU_j7tjHjGaITw24-TJ6boceWFb9Fhe2R1TOyNnUKjD1T6XR-lTRo3PqkM_aoFBDXrcxbwfR-g1ugOmmKZGSj16MoCElixG5nsSqVwbTp0t8GNRyQBA_etQg9xg"
+      }
+    ]
+  },
+  {
+    "id": 489895986,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen, Saudi Arabia: Yemeni Armed ForcesIn name Allah Most",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:In the name of Allah, the Most Compassionate, the Most Merciful.Allah, the Almighty, says:“Whoever transgresses against you, then transgress against them in the same manner as they have transgressed against you.” Allah the Almighty has spoken the truth.In response to the brutal Saudi aggression against our country and its continued crimes against our beloved people, the latest of which was its horrific crime against vendors and shoppers at the Al-Hadharah Market i",
+    "satelliteImage": null,
+    "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 489900770,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Taba: Foad Izadi international affairs expert Allameh",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Dr. Foad Izadi, an international affairs expert at Allameh Tabataba'i University:• When the Chinese and Americans negotiated and reached an agreement in the early 1970s, China already possessed nuclear weapons.• An attack on Iran is gradually being normalised, just as attacks on Gaza have been normalised, because, for now, we do not have absolute or non-absolute deterrence.• America did not have, and still does not have, a military option against China, Russia, India, North Korea, Pakista",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/7e984a96d2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qAQiphQ2gy5xew39XfsiPs5sBEvs17k9XX9grzK2n9rEtvnqsdQmz8aSys9dqEYyCso3iwYugKmKkYQH9NefPHc3eA03eK6VXLzzlzvMnsRdUMh6Dd15IYhLXLRKIawJGUU4axPIcQjRUC67H9s57-n58iNTe6OaBjjPr_gknBV6eQabR5VQot8hoJmQh9AXwGuuqzRlfyURZLjXRlF2bJU2NzssbD7LnAg8Ynx2fkpVygCO-dndEWHf3V5_pINAcGkEagKcswc51GLWMzHMGlY8VK23e0aiZ-FoOPKQlHmsO5aUO5p1yD-8jalTYaEv7ssx_PHm5TT9JDOLhBf3og"
+      },
+      {
+        "url": "https://t.me/enemywatch/64453",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qAQiphQ2gy5xew39XfsiPs5sBEvs17k9XX9grzK2n9rEtvnqsdQmz8aSys9dqEYyCso3iwYugKmKkYQH9NefPHc3eA03eK6VXLzzlzvMnsRdUMh6Dd15IYhLXLRKIawJGUU4axPIcQjRUC67H9s57-n58iNTe6OaBjjPr_gknBV6eQabR5VQot8hoJmQh9AXwGuuqzRlfyURZLjXRlF2bJU2NzssbD7LnAg8Ynx2fkpVygCO-dndEWHf3V5_pINAcGkEagKcswc51GLWMzHMGlY8VK23e0aiZ-FoOPKQlHmsO5aUO5p1yD-8jalTYaEv7ssx_PHm5TT9JDOLhBf3og"
+      }
+    ]
+  },
+  {
+    "id": 489905555,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Tehran, Strait of Hormuz: more offending tankers explode Strait Hormuz",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Two more offending tankers explode in Strait of Hormuz📌 Tehran, IRNA – The Islamic Revolutionary Guard Corps (IRGC) Navy announced on Tuesday that two more offending oil tankers have exploded in an unauthorized route south of the Strait of Hormuz and have been left burning.In a statement, the IRGC said: A supertanker struck a naval mine and exploded. The second tanker, supported by the aggressor US military's fighter jets and attempting a covert transit through the illegal route, was involve",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ead725d2c2.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WKxe4GecKaWjclQhxp1LLvb3lP_c4rjIS-v677graNv_qYQuPsFSUgXnexJQllxYEodWI8zom1eG6Kd4tufNu-RpW1W6iOYv617tEdHcetjCIaw2AE8rdNYnWbWeonomXzk3sEKx6qmLuEChEOhHiwjxQ8iCQJBzZF5juQjCCI7ylQQ9zjyZ3u5rJFkg_QwfMdS3wOgmk6HYi3w5zXEbp2oMru5tZcmBtevtVbUn4-k-didbNUVrw3Ve7xwedX-G_vG0MCYa0L9TC0deiNdYg5pGujwqnEqRsUMdHwcCqo-ARehar_5NVlVkHXMswnpVtpL6GFu9PgRkKfQFGuvpYg"
+      },
+      {
+        "url": "https://t.me/enemywatch/64427",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/WKxe4GecKaWjclQhxp1LLvb3lP_c4rjIS-v677graNv_qYQuPsFSUgXnexJQllxYEodWI8zom1eG6Kd4tufNu-RpW1W6iOYv617tEdHcetjCIaw2AE8rdNYnWbWeonomXzk3sEKx6qmLuEChEOhHiwjxQ8iCQJBzZF5juQjCCI7ylQQ9zjyZ3u5rJFkg_QwfMdS3wOgmk6HYi3w5zXEbp2oMru5tZcmBtevtVbUn4-k-didbNUVrw3Ve7xwedX-G_vG0MCYa0L9TC0deiNdYg5pGujwqnEqRsUMdHwcCqo-ARehar_5NVlVkHXMswnpVtpL6GFu9PgRkKfQFGuvpYg"
+      }
+    ]
   },
   {
     "id": 480276116,
