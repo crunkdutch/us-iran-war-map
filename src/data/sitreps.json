@@ -1827,6 +1827,21 @@
     "verified": false
   },
   {
+    "id": 1794291980264,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-02-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 US must submit to Iran’s seven conditions: Security chief📌 Tehran, IRNA — Secretary of the Supreme National Security Council Major General Mohsen Rezaee says the time has come for the United States to submit to Iran’s seven conditions.In a post on X early Tuesday, Rezaee said the US government w...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -229874,6 +229889,21 @@
     "verified": false
   },
   {
+    "id": 1794291940841,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-03",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793757660214,
     "type": "drone",
     "location": "Lebanon",
@@ -230459,6 +230489,21 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#YemenA military source told Yemeni media:– The Armed Forces carried out an offensive operation along two axes in the Kahboub Mountain Range.– Our forces took the enemy by surprise inside its fortified positions and engaged it at point-blank range.– Our forces stormed the enemy’s fortified positions...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794292017062,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-04",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen’s AnsarAllah has launched multiple operations against targets in Saudi Arabia.🔻@enemywatch",
     "media": [],
     "verified": false
   },
@@ -231851,6 +231896,51 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🌍 IRGC commander: Pride-inspiring operations of Iranian Armed Forces disrupted the calculations of enemy📌 Tehran, IRNA – Tehran, IRNA – The commander of the Islamic Revolution Guard Corps (IRGC) Ground Force said that the pride-inspiring operations of the Armed Forces of the Islamic Republic of Ir...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794291983671,
+    "type": "drone",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-09",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): November 9-10, 2026🇾🇪 Yemen• According to Al-Masirah, two Saudi airstrikes on the Al-Harba area of Sahar district, Saada, completely destroyed a mosque and damaged a school and a drinking-water project.• Saudi forces reportedly launched missile attacks on villages in the b...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794291999810,
+    "type": "missile",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-11-09",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 9-10, 2026🇮🇷 Iran• Iran’s Army Air Force said three Iranian pilots were being held captive in Qatar. Colonel Davoudi, the Air Force’s public relations director, said the military had received no further information about their situation.• Iran reportedly launched ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794291932072,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-09",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Impeachment resolution against US war secretary submitted to Congress📌 New York, IRNA — Republican Representative Thomas Massie has introduced an eight-count impeachment resolution against US Secretary of War Pete Hegseth, pointing to his role in the war against Iran and US operations in Yemen a...",
     "media": [],
     "verified": false
   },
