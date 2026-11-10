@@ -172841,6 +172841,43 @@
     "media": []
   },
   {
+    "id": 489876860,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Yemen, Israel: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Yemeni Armed Forces affirm that they did not carry out any operation today targeting Saudi territory.The defeats inflicted on the Saudi enemy by our armed forces have left it confused and disoriented, prompting it to fabricate events and manufacture incidents, falsely claiming that our armed forces targeted Mecca. This is an old, recycled slander and lie that it resorts to w",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HYJ9w1OlID-prUK5A_IMRh8ODAP7QwzIxQCNXjuhf_7Cpf3J_LT-F-M99S9QyVQWUKVhd4OWo_ONgYIEr8iT2Q1Vb__YH6yI9Dl2IJ5aUhEdW2csEr5Yym5Aah3oznL2KuBdq60FrH2GEDBBJ2vzojshFQk7jVtUkr5OUCnZJjB4Y11gRpio63Wgitj3AowGWFW3kuFcb7MNO5uLJ7WXGR2elq2CNI5oIgIv4SgyQ8IFIt35-BtW35SBIfwwzTUjghVfmxy-Fez7GS7XSiZ_M8RK0RlpYMmWj9YehRtUzu9uFMkxFSvKS0ogWPAKLKVxKtELh2kVqKsu45ARXvlsJg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 488481582,
     "type": "drone",
     "status": "confirmed",
