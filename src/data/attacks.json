@@ -176390,6 +176390,70 @@
     "media": []
   },
   {
+    "id": 489948665,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Persian Gulf, Iraq, Israel: coming hours days will witness just",
+    "location": "Persian Gulf, Iraq, Israel",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🚨 | In the coming hours and days, you will witness not just a few, but hundreds of fake news headlines, misleading publications, selective leaks, contradictory reports, and sudden denials concerning Iran-America negotiations, the evolving situation along Iran’s border regions, Iraqi politics, intense diplomatic and security meetings, and unusual aircraft movements and landings across the Persian Gulf states. Do not be surprised if reports emerge and disappear within hours, if supposedly informe",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489953460,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: IRGC Navy reports blast third tanker",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 IRGC Navy reports blast in third tanker in Hormuz Strait📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that a third oil tanker attempting to cross an unauthorized route through the Strait of Hormuz detonated after hitting a naval mine on Tuesday afternoon.In a statement, the Public Relations Office of the IRGC Navy said the tanker was burning in the eastern part of the Strait, with smoke from the explosion and ensuing fire spreading across the area.​The statem",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
