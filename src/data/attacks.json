@@ -176454,6 +176454,38 @@
     "media": []
   },
   {
+    "id": 489958256,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bushehr: Fire South Pars Phase platform contained",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Fire on South Pars Phase 14 gas platform contained📌 Bushehr, IRNA – A fire on one of the gas platforms in Phase 14 of the South Pars Field was contained thanks to the timely intervention of operational and safety personnel, and all staff on the platform were evacuated safely.Following a fire on one of the gas platforms in Phase 14 of the South Pars Field, operational and safety personnel took timely action to successfully control and contain the blaze.​Concurrent with the firefighting effort",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
