@@ -228374,6 +228374,81 @@
     "verified": false
   },
   {
+    "id": 1794328079129,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaFormer “Israeli” intelligence official Avner Vilian: I remind everyone that, based on how things currently appear, we will enter another round of war with Iran at some point within the next two weeks. This will not happen until it actually happens, but everyone is now extremely tense.We ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794328078031,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicHis Eminence Ayatollah Sayyed Mojtaba Khamenei (may his shadow endure):Every level of threat, regardless of its nature, must be met with an immediate and effective response, without any geographical restrictions.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794328106136,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Major General Yitzhak Brik:– In news studios, they are preoccupied with counting parliamentary seats and discussing coalitions, while the nation is heading toward the abyss. The military establishment, the economy, and society are all crumbling, yet the public g...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794328060635,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper: The “Israeli” army expects a 30% to 40% reduction in reserve service days by 2027. Since the outbreak of the war, the army has repeatedly pledged to reduce the number of service days; however, the rounds of fighting in Iran, Gaza, and Lebanon have actua...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794328103350,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-31",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Navy Command:From October 25 (the date of the showy visit by Brad Cooper, Commander of the US Central Command (CENTCOM), to the Strait of Hormuz) until today (just nine days), 11 non-compliant oil tankers have caught fire in the Strait of Hormuz, so...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793512219515,
     "type": "drone",
     "location": "Tehran",
@@ -231295,6 +231370,21 @@
     "verified": false
   },
   {
+    "id": 1794328072452,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement by the Yemeni Armed Forces on the implementation of four military operations targeting Khalid Airport, a number of pumping stations and the Financial Center in Riyadh, Aramco in Abqaiq, and military build-ups belonging to Saudi officer Badr Al-Harbi in Al-Mudharabah and Ras Al-Ara District...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794133172450,
     "type": "airstrike",
     "location": "Tehran",
@@ -232156,6 +232246,21 @@
         "thumbnail": "https://cdn4.telesco.pe/file/tJpHmuj6hx3QxH992IPSVu0vQA8TPr6EzVf0GTPZrj3nHC8RCrLvNsXuJJVzJD5ux4Ui8tpnHnV2jLLzxHJ8P5IvK0q3u-sySVKK4QlYNly4kSze2H0BbkIxwC_4Z4kbZoQ7nuDQOavJ1Ez-lSFSoPyFvBzS30Fqv_bIgABA1Dtaq7qLASrpPgJWq--7tb4wIJB8etJ_7Phqq_cPTf-g2dqRYrEF_UB-JboK0E3Avh_5RZE9eF1zL6QUsxd-vXLI-mcHnIURFJvQ3VjhTVi6Wl31MhlJkg3FPTG4kCGSxSUE35IperGUY7XTktfRhQ6vVg0yJwGI6VlZwc5ZGQRQRA"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794328088406,
+    "type": "missile",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-10",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 10, 2026🇮🇷 Iran• The Islamic Revolutionary Guard Corps unveiled a new long-range cruise missile reportedly featuring stealth capabilities. Analysis of its external design suggests it was developed from the Paveh missile platform, with modifications intended to red...",
+    "media": [],
     "verified": false
   },
   {
