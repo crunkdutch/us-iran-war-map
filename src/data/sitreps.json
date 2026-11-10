@@ -231980,6 +231980,51 @@
     "verified": false
   },
   {
+    "id": 1794313641698,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-10",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Iranian Revolutionary Guards:Two oil tankers that were deviating from their authorized route in the Strait of Hormuz came to a halt after massive explosions left them ablaze.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794313708399,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran does not seek war, but fully capable of defending itself: VP Aref📌 Tehran, IRNA – First Vice President Mohammad Reza Aref, referring to the two recent wars imposed upon the country by the United States and the Israeli regime, says Iran does not seek war, but will keep defending its sovereig...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794313676368,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Hossein Forouzan appointed as Iranian president adviser on free zones📌 Tehran, IRNA – Iranian President Masoud Pezeshkian has appointed Hossein Forouzan as his adviser on free trade-industrial and special economic zones.President Pezeshkian has tasked his new adviser with utilizing available res...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",
