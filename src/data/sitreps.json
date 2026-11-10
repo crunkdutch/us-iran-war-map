@@ -229499,7 +229499,12 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷/ 🇮🇹 ❓| A special flight from Italy landed at Tehran’s Mehrabad Airport early this morning. No information has been released about its cargo or the identity of any passengers on board.🔹@enemywatch",
-    "media": [],
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/HFliM2jNaOHCQ16AG_0fegpLlHPH7wLniyYQG6ypVEu44m5-vpzKUyFCB_Zen8YKxuwW5wjSoadXNeDUfxprn7hmh6CDC4_uChqAwGnPMqTqgyR3Ap0fmor0jnxpeS_S9yqGBdQFhZnMWo24dCT6JLouydxKw6YUYzWsAJieDP2stYaS3y8LjqajxYT5qlXQRDWUZxdgeFtFaEs_9J1o21447PTMnfBR0K__BKpaNBAanOBVH1YhneWTaeVtR2n52YNjiaCE0D5LKmHhu4RgPU1QKMOUL9Fz4CBQVOmiv7kg82J9H9wq55N9EN7HRmLMqBY62Zo3ahMKnT4teFKxrQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
@@ -229993,6 +229998,26 @@
     "media": [
       {
         "url": "https://cdn5.telesco.pe/file/hm5Z30PGsoMZaJDX-6-h2xMhDhcBLLmxb6G-2pHdG-u2-1H4cjlks43wuEkHIDj8x93dcye4DeWF-N3HXDXh_thvxTJcWmdEwy8tQcFEDMNTtdprDOZnWc207jkF5A-3RyzcY6V2pBThcVCdMABScoC7O-CWKItSGAUGICI_a6e5P0zN7WzG8x4aFamEV8KqkpVxGf8p8AjvL5Ht1Ay3oVRz6fl2KOulKqxJ2dG-IjJB8TRpXaiL1sY9mvm3eH0-evQZdxtBc3AIysYgaZuCjt-C_U4lb52xIGQLhcpRcWEB0kvQYUSd-he2e-_h9fHuMMB8HOEIc18MAllAoETXWw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794335362992,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-03",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Yemeni Armed Forces carried out two military operations. The first targeted Abha International Airport with a drone, scoring a precise hit that disrupted air traffic at the airp...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/IMynjADDfeWJL8O19cPjWUcnUInvreRuBmyIAWxbbpdBOCqCheucCyazkLrA9SeKQxddUcZ3RTHxhj0w74yZA4KrNywAMPgeDygf5b2wsUeN1ovLLeKdTSSqcEAHSy4ZFZ9e7x56mUJtmIKMpT8X7LbMq4L-I3-wkbqeSndYpu12FZ6fiIzH5VQUQ2bPWDA8fwTSY1Y6CdXhjheo_rDZbaX3tKXobExOApdnCiUEqNvmZbYKxUdn_EN_TDmRFCbBJNMoayBRKoe04SANoOr1srw30KEU1l8gp_ICPdBtA_c74Td7Cb_nzvyQoV5Ha9iVxcbfbZE-XLPlnV4hL3XNxg.jpg",
         "type": "photo"
       }
     ],
@@ -232260,6 +232285,21 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Hourly Updates (+ve): November 10, 2026🇮🇷 Iran• The Islamic Revolutionary Guard Corps unveiled a new long-range cruise missile reportedly featuring stealth capabilities. Analysis of its external design suggests it was developed from the Paveh missile platform, with modifications intended to red...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794335297401,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-10",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Public Relations Department of the Islamic Revolutionary Guards Corps NavyThe third oil tanker that violated the unauthorized route through the Strait of Hormuz exploded this afternoon after hitting a naval mine.The oil tanker was ablaze in the eastern part of the Strait of Hormuz,...",
     "media": [],
     "verified": false
   },
