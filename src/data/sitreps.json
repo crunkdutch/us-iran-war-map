@@ -229904,6 +229904,26 @@
     "verified": false
   },
   {
+    "id": 1794306401983,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🤔| We raise the alarm and urge the relevant authorities in the armed forces, police, and security services to focus primarily on the security of Leader Imam Mujtaba Khamenei and the protection of his location. There should be no lapses, loopholes, or weaknesses in such arrangements. The security fo...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/hm5Z30PGsoMZaJDX-6-h2xMhDhcBLLmxb6G-2pHdG-u2-1H4cjlks43wuEkHIDj8x93dcye4DeWF-N3HXDXh_thvxTJcWmdEwy8tQcFEDMNTtdprDOZnWc207jkF5A-3RyzcY6V2pBThcVCdMABScoC7O-CWKItSGAUGICI_a6e5P0zN7WzG8x4aFamEV8KqkpVxGf8p8AjvL5Ht1Ay3oVRz6fl2KOulKqxJ2dG-IjJB8TRpXaiL1sY9mvm3eH0-evQZdxtBc3AIysYgaZuCjt-C_U4lb52xIGQLhcpRcWEB0kvQYUSd-he2e-_h9fHuMMB8HOEIc18MAllAoETXWw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793757660214,
     "type": "drone",
     "location": "Lebanon",
@@ -231941,6 +231961,21 @@
     "source": "CENTCOM",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📄 Impeachment resolution against US war secretary submitted to Congress📌 New York, IRNA — Republican Representative Thomas Massie has introduced an eight-count impeachment resolution against US Secretary of War Pete Hegseth, pointing to his role in the war against Iran and US operations in Yemen a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794306373778,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/ 🇮🇶 | Iranian source: Today, at precisely 12 p.m., the Iranian national football team was scheduled to depart from Mehrabad Airport aboard a private plane, heading to Basra in Iraq for two friendly matches. However, just one hour before the scheduled departure, the Iraqi side refused to issue...",
     "media": [],
     "verified": false
   },
