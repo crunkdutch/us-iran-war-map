@@ -176486,6 +176486,38 @@
     "media": []
   },
   {
+    "id": 489963053,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Sanaa, Lebanon, Yemen: Hourly Updates November 2026 Yemen Yemeni",
+    "location": "Sanaa, Lebanon, Yemen, Oman, Israel, Turkey",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 11, 2026🇾🇪 Yemen• Yemeni forces reportedly made battlefield advances toward Kharz Mountain and closer to Khor Amira. The reported movements could put Saudi-backed forces in the Bab el-Mandeb and Dhubab areas, as well as those remaining in Al-Midariba, at risk of encirclement.🇮🇷 Iran• Iranian President Masoud Pezeshkian is scheduled to visit Turkey on November 12 to attend an Environment Summit, at the invitation of his Turkish counterpart. The Iranian Presid",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
