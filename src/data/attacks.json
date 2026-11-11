@@ -176518,6 +176518,220 @@
     "media": []
   },
   {
+    "id": 489967851,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Breaking Iranian military reports that ship",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — The Iranian military reports that a ship caught fire in the Strait of Hormuz after attempting to pass through illegally.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e0de056c9b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NxtU3_Dm_zy_ndsNEBO3WbteVjUhXsgEspfut_44HINSY2wQRjrQjZIz03BL-kCW2VeXcw2aM_nt_UhdqpF5kTeiKMc-p3nAgMC7y1o05Lww704kYCpN3Jmgojn34FebzCJWICOHp6uBpK3by3jxiXLSkjWZaRJqiGVn42GpQRQxe7goM0x3pspzZHil25erR78QyhIAemglFloA5CMJ9j_HLrGRRm1Ry4LasrKrj0r7lTUp0404c6c9pnQ0QwWrNVxCGUvOrRbvbfsHtUI0l9ZYDhHhnGqfBWRKgBktZ1izvLCIMKosTG7Q5Ccpmu6xT_U92HqJc8RlF9C64w-FbQ"
+      },
+      {
+        "url": "https://t.me/Irna_en/42090",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/NxtU3_Dm_zy_ndsNEBO3WbteVjUhXsgEspfut_44HINSY2wQRjrQjZIz03BL-kCW2VeXcw2aM_nt_UhdqpF5kTeiKMc-p3nAgMC7y1o05Lww704kYCpN3Jmgojn34FebzCJWICOHp6uBpK3by3jxiXLSkjWZaRJqiGVn42GpQRQxe7goM0x3pspzZHil25erR78QyhIAemglFloA5CMJ9j_HLrGRRm1Ry4LasrKrj0r7lTUp0404c6c9pnQ0QwWrNVxCGUvOrRbvbfsHtUI0l9ZYDhHhnGqfBWRKgBktZ1izvLCIMKosTG7Q5Ccpmu6xT_U92HqJc8RlF9C64w-FbQ"
+      }
+    ]
+  },
+  {
+    "id": 489972650,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Breaking Three ballistic missiles reportedly struck",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Three ballistic missiles reportedly struck a tanker in the Strait of Hormuz, with explosions heard along the coastal areas.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489977450,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Jordan, Saudi Arabia, Iraq: Breaking Secretary Supreme National Security Council",
+    "location": "Jordan, Saudi Arabia, Iraq, Israel, Turkey",
+    "coordinates": [
+      31.2,
+      36.6
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Secretary of the Supreme National Security Council, Major General Mohsen Rezaei:• Trump's and Netanyahu's political capacity to continue the war has been exhausted. Neither internationally nor on the domestic political front do they have the necessary support to sustain a large-scale war.• During this war, AWACS aircraft and F-35, F-15, F-16 and F-18 fighter jets were targeted, while nearly 200 advanced drones were shot down. Iran has also developed electronic warfare capabilit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/M1cTr69bKxC-MZV6O_TOkp-UPXUFBMyBZ50Afv6VoJJrBu7iYfcpTcVDWhJ9Kl6503VnPdvCDlnCFqMMeEsrW4uOcOBh9SmQaEiGhXo-tjtwMHdB8Ej5ywUOqCekG73oZ3oYzo2xt261nQefgfbmU_NszG28Xo7uFgFHma3Ni67JiMQiZYfHoBxMEGsImMNptHTX9H0d2SSyYgPZzxlXyMEOOnASAscu3seLil-sUR05WsRLUe3r8moIFL8y2QP8skI_xDmVbeKuGIBA4ocuswKLZd5EuMXAqmPahN_03OMhm2EEIi5g9im2sn4jWtcalrgA4MJy40L9hf1lmToGXw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 489982251,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni Armed Forces Scenes attacks enemy",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni Armed Forces: Scenes of attacks on enemy Saudi-affiliated vehicles and troop concentrations in several fronts using Rajum drones - November 11, 2026.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64489",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/vcn838ep3PrAL1fGXQ_LoPSwn7jD2MjNWOZ7HlW9sysB-e5JGxCwvPrrgPVsTgaLuJhXu1j2etg7PmptaDMKLe_s12LQj7xtr6u7RkZpXp64vdjmSdYKDJrURQpJL7ByEWEBcLoYT9U0bYliw2DAp2WeB8Yd7nlnSO3LwZpuWfgbuy1fffzCC7ZkNtaRzWR1kiSr_bzW5OMn2AopEeczMAYuHpdVWzY9ym9xlPapEJ0RWO63yLG_WgBXnPqO7wKZTGuhHx3bVRksYZ258XB8o2lUHnPhi8gqBk6CLHZ3XMfpdtTAPFLB7QKlrJpl4QGa9qK_Ynv0vD-yiAQmVuMp8g"
+      }
+    ]
+  },
+  {
+    "id": 489987053,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Kerman, Kermanshah: Iran dismantles terrorist cell arrests arms",
+    "location": "Tehran, Kerman, Kermanshah, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran dismantles terrorist cell, arrests arms smugglers📌 Tehran, IRNA – The Ministry of Intelligence has announced that five separatist terrorists and three arms smugglers have been identified and arrested in operations in Kermanshah, Alborz, and Tehran provinces.In a statement on Wednesday, the ministry said the arrests followed reports from the public and intelligence surveillance operations.​It added that the five-member separatist terrorist team had been preparing to carry out terrorist a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489991856,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: more violating tankers naval mines Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Two more violating oil tankers hit naval mines in Strait of Hormuz: IRGC📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that two more violating oil tankers have caught fire in the Strait of Hormuz after hitting naval mines.In a statement issued on Wednesday, the IRGC Navy said two violating oil tankers had switched off their navigation and identification systems and attempted to leave the Strait of Hormuz through an unauthorized route under the cover of US terr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
