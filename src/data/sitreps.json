@@ -228826,6 +228826,36 @@
     "verified": false
   },
   {
+    "id": 1794428129523,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-01",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper: The “Israeli” army expects a 30% to 40% reduction in reserve service days by 2027. Since the outbreak of the war, the army has repeatedly pledged to reduce the number of service days; however, the rounds of fighting in Iran, Gaza, and Lebanon have actua...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794428198677,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-01",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps Navy Command:From October 25 (the date of the showy visit by Brad Cooper, Commander of the US Central Command (CENTCOM), to the Strait of Hormuz) until today (just nine days), 11 non-compliant oil tankers have caught fire in the Strait of Hormuz, so...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793584430213,
     "type": "rocket",
     "location": "Hodeidah",
@@ -230021,6 +230051,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794428145477,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-03",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Aban 13 rallies kick off in Tehran📌 Tehran, IRNA — Massive rallies are underway across the country on Wednesday to mark the anti-arrogance Day, protesting the hostility of the United States against Iran, corroborated by the 1979 takeover of the US Embassy in Tehran.Aban 13, falling on November 4...",
+    "media": [],
     "verified": false
   },
   {
@@ -232577,6 +232622,51 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#LebanonHighlights of the speech delivered by Hezbollah Secretary-General His Eminence Sheikh Naim Qassem (may God protect him) on the occasion of Hezbollah Martyr's Day:– Almighty Allah speaks of the martyrs as being alive.– Imam Hussein said: “I see death as nothing but happiness, and life with th...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794428170175,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-11",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Key points from the address delivered by Hezbollah Secretary-General His Eminence Sheikh Naim Qassim (may Allah preserve him) on Martyr’s Day: (1/5)• I welcome all of you at the various gathering locations marking Martyr’s Day.• Peace be upon you all, with your different ranks, roles and pres...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794428135363,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-11",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ (3/5) • I call on the Lebanese authorities to stop talking about a state monopoly on weapons under the conditions of ongoing aggression. This is disarmament, the very disarmament that “israel” seeks to impose through its aggression. • The entire world…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794428128453,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-11",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Baqaei condoles with families of those who lost their lives in the factory explosion in Türkiye📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei, in a message while referring to an explosion at an iron and steel manufacturing plant in the province of Izmir, western Turkiye, extended ...",
     "media": [],
     "verified": false
   },

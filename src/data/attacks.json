@@ -171743,6 +171743,102 @@
     "media": []
   },
   {
+    "id": 490001465,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Israel, West Bank: Enemy_MediaFormer Chief Staff Israeli enemy army",
+    "location": "Israel, West Bank",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaFormer Chief of Staff of the “Israeli” enemy army, “Herzi Halevi”“We should have waged a war in Gaza, but our priorities were arranged as follows: Iran first, then Hezbollah, then Hamas, because we did not know that Hamas intended to carry out such an operation (the October 7 attack). The prevailing assessment within the “Israeli” army, the General Security Service (Shin Bet), and at the political level was that Hamas did not want war because it wanted to demonstrate its ability to g",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490006271,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Occupied_PalestineIn Name Allah Most Gracious Most",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Gracious, the Most MercifulStatement Issued by the Islamic Jihad Movement on the 109th Anniversary of the Ill-Fated Balfour DeclarationOn this day, 109 years ago, our Palestinian people recall a crime committed by the British occupation against our people, whose consequences have extended across generations and inflicted a wound that continues to bleed in the body of our nation and its history. The ill-fated “Balfour Declaration” represents one o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490011078,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-01",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Syria, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Lebanon, Syria, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Syrian Internal Security Forces:Hezbollah’s Media Relations Office categorically and in detail denies the accusations contained in the statement issued by the Syrian Internal Security Forces concerning the alleged connection of a purported cell to the party. It reiterates that Hezbollah has no presence or affiliations whatsoever on Syrian territory and has no connection to any activity that undermines Syria’s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 487381756,
     "type": "drone",
     "status": "confirmed",
@@ -176727,6 +176823,38 @@
       "other": 0
     },
     "description": "📄 Two more violating oil tankers hit naval mines in Strait of Hormuz: IRGC📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that two more violating oil tankers have caught fire in the Strait of Hormuz after hitting naval mines.In a statement issued on Wednesday, the IRGC Navy said two violating oil tankers had switched off their navigation and identification systems and attempted to leave the Strait of Hormuz through an unauthorized route under the cover of US terr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 489996660,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: points from address delivered Hezbollah SecretaryGeneral",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Key points from the address delivered by Hezbollah Secretary-General His Eminence Sheikh Naim Qassim (may Allah preserve him) on Martyr’s Day: (1/5)• I welcome all of you at the various gathering locations marking Martyr’s Day.• Peace be upon you all, with your different ranks, roles and presence.• Today, in the first part of my address, I will speak about martyrdom and the martyr. In the second part, I will discuss the political situation in Lebanon and the region.• Almighty Allah speaks",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
