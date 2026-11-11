@@ -173793,6 +173793,43 @@
     "media": []
   },
   {
+    "id": 490015886,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:By the grace of Allah, our armed forces carried out an operation targeting Saudi enemy troop concentrations affiliated with Saudi officer Fares Al-Shammari, east of Al-Jawf Governorate, using six ballistic missiles.The strikes scored direct hits, resulting in dozens of casualties, both killed and wounded, and the destruction of several military vehicles.⁠▪️@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/OpuRSOQlYqFnfnhDfr_KSCda2xSmr2De1FzqFeHMBwfUuqC6QSP1p3FyBERTvxlTox9WJtGzd7W7L_VilPSRteGmRJbSdf2h2MR_nrDhdEQxNZpW8_u9dUcdlL473HVFYF3hAV4ge3e5U4UAEV9MqLuR11Cgg5mD_0hKNmba1ZEgDAMxpH6YB-ss27rVWSRLLipz33zSD-tNhJcFuMWrkizwzWBu6H5EGsR_h8-qtE55NLpWYrgFyEOVqYTAP2onDW2Al7jdjmRxC4vuxrCELPqoz47h7I19k9XpJ7Gj-_8uX5FUxy-YwVQkOgkkNKuLylO5fPNoOUhGGgEQyz9YLQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489009761,
     "type": "drone",
     "status": "confirmed",
@@ -176855,6 +176892,38 @@
       "other": 0
     },
     "description": "🇱🇧 | Key points from the address delivered by Hezbollah Secretary-General His Eminence Sheikh Naim Qassim (may Allah preserve him) on Martyr’s Day: (1/5)• I welcome all of you at the various gathering locations marking Martyr’s Day.• Peace be upon you all, with your different ranks, roles and presence.• Today, in the first part of my address, I will speak about martyrdom and the martyr. In the second part, I will discuss the political situation in Lebanon and the region.• Almighty Allah speaks",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490020695,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Kerman, Kermanshah: Hourly Updates November 1112 2026 Iran",
+    "location": "Tehran, Kerman, Kermanshah, Bab al-Mandab, Syria, Yemen, Saudi Arabia, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 11–12, 2026🇮🇷 Iran• Iran’s Intelligence Ministry announced the dismantling of a separatist cell and the arrest of five suspects in coordinated operations across Tehran, Alborz and Kermanshah provinces. According to the ministry, the group was preparing attacks under the direction of elements linked to Israeli and American intelligence services and had participated in property destruction during what the authorities described as the December 2025 coup. Three ad",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

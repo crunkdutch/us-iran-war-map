@@ -230688,6 +230688,26 @@
     "verified": false
   },
   {
+    "id": 1794435435375,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-04",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:By the grace of Allah, our armed forces carried out an operation targeting Saudi enemy troop concentrations affiliated with Saudi officer Fares Al-Shammari, east of Al-Jawf Governor...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/OpuRSOQlYqFnfnhDfr_KSCda2xSmr2De1FzqFeHMBwfUuqC6QSP1p3FyBERTvxlTox9WJtGzd7W7L_VilPSRteGmRJbSdf2h2MR_nrDhdEQxNZpW8_u9dUcdlL473HVFYF3hAV4ge3e5U4UAEV9MqLuR11Cgg5mD_0hKNmba1ZEgDAMxpH6YB-ss27rVWSRLLipz33zSD-tNhJcFuMWrkizwzWBu6H5EGsR_h8-qtE55NLpWYrgFyEOVqYTAP2onDW2Al7jdjmRxC4vuxrCELPqoz47h7I19k9XpJ7Gj-_8uX5FUxy-YwVQkOgkkNKuLylO5fPNoOUhGGgEQyz9YLQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793829861140,
     "type": "drone",
     "location": "Sanaa",
@@ -232668,6 +232688,77 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📄 Baqaei condoles with families of those who lost their lives in the factory explosion in Türkiye📌 Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei, in a message while referring to an explosion at an iron and steel manufacturing plant in the province of Izmir, western Turkiye, extended ...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794435348857,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-11",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 11–12, 2026🇮🇷 Iran• Iran’s Intelligence Ministry announced the dismantling of a separatist cell and the arrest of five suspects in coordinated operations across Tehran, Alborz and Kermanshah provinces. According to the ministry, the group was preparing attacks und...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794435374461,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-11",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "❤️ | The second night of mourning ceremonies marking the martyrdom anniversary of Sayyidah Fatima Zahra (S), held at the Zainabiyah at the direction of the Leader of the Islamic Revolution Imam Mujtaba Khamenei, with the participation of people from all walks of life:The ceremony was held at the Zai...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/uC0Q82Azn4LlPNbQXQvIDywcIRz9_rMy2t1b8PGWrgfBokxEYI4RmrpXIIciLVi7T2Ai6AtbgnFSzQF_nXHvG8q6_w_BCf1mtBOI_UXB8MmEJpfuQ1GcU91vF65_W-B-z5iWwyCKsQtlODjCK5FbaBR8_fGg_B-rY4wPA9_XlAyAQ1un4d5Vqa5-KGOWteZSny0CLebNQk5bfm2dLBBKPKjcZ6FIf3b0Iqc0_6kAbZiGRSVmsOpMT5hirvkWLLkOcRjcMFQNsJyL3ZY20RO_zaYtbXpgLMkLw4TYV5xWbLc1JYwV11ByZmtU8_yKKUKBmCqU7iynAUeDOmVI_oO73g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/tHdDflieuwnT5ULroBveNmmA2MaQM34Xni8ORwzrLupK5zSmbAmFxWZ1Nwg9Leli-8Tg8vti5AMPMzF9QKnuMkE9gAMBvMurOSFvX00CQtYoQfxLmHSrQtscCZv1BX0qof2XUvDuYL5DeHq86NwYxgV_lR9otnN8XUcvNhm5sovGPeGLumyuKix7xdZUWh1UxadyJpXUApNqg_qlOxs9PblmfVChoObvkgPRwIXmfy7djBtDnSmz8TanrBsAuvcLE3YhE1gw45IpAgFi5MYMtxWhjeb57iDxmCpIXSymb9rr6Fd_qzaTzTiMJIoZEgfRD-tNtgYBjwiV0kjcvA5p4w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/csSiJxdqIDSN0dGY5wFmQu0HA3Igf4FYXOtfVkgAiA9BtOm8t1y8FrIoQmlnMI7YKk0qciLzMxyRDtcyM3lsFanHZPQjXG67SYZgnyn8yTu3dbgswaljVFE3RuO9GkYnU-ajOpummAmH2dVyI10X0oFreu0NoAzfDm8z0prSv1Qr-Oo1l05aABK5baps8l8dMLh9gVdfXV9VSoCJUgaWpXAaDhsWIIdpxbzCAGSvUZ4ZryqULIILKVMzjZ6XYgu31fFdbYWLZJoNI8L6zkiH_3y47EZ2wvYVuKXwn7Z3R_MQlLv7aGlKkm1toi-yM-fIsnCfqYLK3ujyo6qOCUKI3g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/n_8TTPnar1-6PYHufihlM9cdPRsCo_hGvR4w1K7DbY5dA0IyaS_E4eC7dlYw08ywNbXUfgeXiIr2Ii6DdAm4V1ulKns2Ph7VrgQTSuu12nYCUKs1d2VXPbsydTh3faX3QucIK3dni1cMvHGAMwrxk3WJZppM6Z0NcOLdp71GDN0wZ8_G9mmuL0PDnEUVJAAEgDCt7sTqqYOxFBfcp2PwBd_g81C8XV975R0zKTTF7gwagVA0We1uZckrEOT5Hp-GpAzdetudFCajN9iZ7umEXs0kWRofsUOv7h9z5QFGc_R5cnZ_mNObpO6Yd4dzTYW9tNwvGFEoh4jtRn4GoWkO_w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QpuUAkctMH8jgw_SrKKkaNC7pm5JLWm4L4vI1v6-mVtN4Qsno3QwXRNVJCqXcPZ1R4CWltD7rrDZGRa9DE3NN9Czsrhs4MJ-s08-0jsKTSeC6BsZMM814QGhIao3MOnN8rthFnkKEd2qnbv_QHJM5IMFGFjXHz4-gpF4HZ7SHTCFxGRbVmleqvrh1oiQkmfRYJ5gv1yOl-__sbFMKh7aYBeJYnNuBMRcpCWfg0CaQxFRUOvYdvW9Xv6hXEGt-t4zWgYnPBrQNqNpu2Bdh2gm1TcLb0-Thd7t0EfAwADJzQJvHaNESUV-tk9YLvUYkDejvOsk1m7H4O3Q8PFZydpu5Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/lBb4Z_kweS1_mFoSMl3cvnDSxoySbMnzcIDDBqBOG2RjfVYc9VNG0SlGgENDt3ifs6KRFwp02cBs03fa4w6VJ6kcjlp_X1iC2l1fSHVZ2MJMvqFq0apQflYe8pFYZKYZLG9Oaz5GpH6UUiO3B_AIThfsYgCE_JMHMzKH8EfzjSOwO1S0hmuQQKm8DkJXscFwsby5fEiTmZB_7fuaz_unkdt__UoqYBGAtcE6z9ZrsjzaLYqFho6-W0AQESbNl7Z7d4dvdiatnds-pGCzwCmaMlJedIK_iTTLRmjKBIDPY8YW47ARRgRfvi5-VDLw492gCdjxxwpZLxtGXUjzmX2onQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/CScWIgDhvdVSMxII2QQznUvXaHs2OJQEpmGEIY9UL17byg7BibUx0S6hLjP3KRNgyF8SPBp6Nd62yE1UDGpAfmpeeWxJPE5eeMgzPLzk6Buptxy5GWDuajgsEh5wnCxpedkmXTv6dcqxz49vq-uxQALTb0yONVf1t3-WbTcUrV9_nBW6FDb12fy7G8v9LRfP_qSpy1xa9QvLpag3seOiPKlnkM4b-vV1ELDRcpvZm8tFXqNV7DZFHlMXQsNqERlLL6E5o3H9E90L-MXStMBeAJcP_rLeDtbGvqgfXsW3IoCuBxOh6dwK3vBce7rSYGU3xqt1XnjqAJkFrxFztrEOVg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/fdtwXlUfBIZW4SUbiv---5hsnzTmCXDUUgoQBxljUtpA5svfFYcNoksPP-zK9jUQipI4zahvw-SOGPvYl_Fdrl8INL3AxyUYmYL_sdcf3XjfX1XIUJUy1CuUthbKUw5hn8JEGXQqkXohyYMv_19IqvHEB7tKcIC1P1_sBSj2E3Tgiznuz7wyV5gcQOQH9rCWfZjUDP2lg59ipnpJfryC-0BfxmHutNS5OzMEsS-ESHS1W5vFgzj1Xl2O0oJhbdm3xlZDmcoe_f4bR4uZuYAaGzhE0oEbI0unk1V1F8M6LgBG2Itkw51nPdB46UQZWl-JRRGEi7UFjx-y2H_FlNcrKA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/re1jtNhYWqdheYeCABBttdXIp1nU0D_iqRZGYTH7iWX4qZeG9RdW5twZ5lzQaBvTVrFQ7jNK0nuGC1mCY67bKRTfddwlVPKdFwdUSDUCsjsh9MpnlvXIpwvdP0uoZWQOMG2C4EkJG6UfEoyIaOrCakgeSNZQxM0t_m7J9ZSFKMs82i_eBVsddyA0l82b2e80_JnbThGpR4e9A-bsqVrBiVNeQkGhywLAjCX5WKpB_c6u94Q2cT3NFeTennBJIGabnOa2ozsbAT0_HseXw6snpUyGVc6VwoU1pa0PZf0gTP59sOamKxULp0LT_c7QFw48p5que-XOJsROKLUCgttkbQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WtzZzGbQQ-lv0ALwNN5bMPq0jZhwEtrZCz12ze98AAEwm0SIyM8ILvxPriX_0wfKSnXef0IjB-uOAbc3Zmgo6JagOQFDoUsc6ptSzT-ROUQl6cLa2J7L8Dkd_wmarld50bwdIHNbj8ss5MfjvQaBzIp2gqKITBYRvO3d2Dr_eV2sHjCeZq0dV6aRFqylDCMWCZjoQbZp6b8fLfvYSjw1qNLNJZ7MJdNvEiFpUBHjvhTNRr0ggzpfRwr0JOEa1zoiLJnsAkSuZJmMuu_-XEQRijbFj0EnWZTbKEUgNtKdD4lNUddVkrL79TIT_hz2wMBiQ01AR6fNaFYGU2V3Xb3uCA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
