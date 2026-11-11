@@ -230628,6 +230628,21 @@
     "verified": false
   },
   {
+    "id": 1794378562667,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-04",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793829861140,
     "type": "drone",
     "location": "Sanaa",
@@ -232360,6 +232375,36 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇶 | #IraqiResistance | Al-Nujaba Movement:In the Name of Allah, the Most Compassionate, the Most Merciful“Indeed, Allah has already given you victory in many battles, and on the Day of Hunayn, when your great numbers pleased you, but they availed you nothing, and the earth, vast as it is, became ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794378565614,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-11-10",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾💵🇸🇦 The Syrian regime is trying to ‘sell’ foreign ‘revolutionaries’ to the Saudis for new investments in Syria. 🇾🇪🇾🇪⚡️🇸🇦🇹🇷 Turkey is also pushing for this, looking to show its contribution to the Mecca Agreement. ❗️ But the Saudis are no fools—they demand proper military contingents f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794378567973,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-10",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Pezeshkian departs for Turkiye📌 Tehran, IRNA – President Masoud Pezeshkian has left Iran for Turkiye to attend and address the UN Climate Change Conference.Pezeshkian departed for Turkiye on Wednesday to attend and deliver a speech at the 31st UN Climate Change Conference (COP31).​During his two...",
     "media": [],
     "verified": false
   },
