@@ -173830,6 +173830,43 @@
     ]
   },
   {
+    "id": 490039941,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Yemeni Armed Forces spokesperson said the raids hit Sanaa and the provinces of Al-Jawf, Al-Bayda, Saada, Amran, Marib, Taiz and Lahj, using F-15 and Typhoon aircraft from the Khamis Mushait and Taif bases and missiles launched from Najran and Jizan. Reports put the dead and wounded at dozens, most of them women and children. The total number of air raids and missile strikes ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/dHwuQUHKwU9KJTeKhj1nvv8M_At118Wus7FO-nn6ztn--TtX0_gTg-sUgT9QwLW4ofsmsFbiAG14dvFYwDMltQml3QhfZ7kashwSaecAGYkXzwutMOIJjuzB1VxyMeOyXuQnc1_tZLXU0O_QPtSpqIepP4TXyPaE2i6wyIxl1u0kDerQyLcFQQ_MTPIqTcaXwUbS18_cfAlURLhuz0U6KT9or7tA-gFyfdDdb_rAjsIO-m2bu5ztrkNyAkLoAcOCvM05JMoqhvzURsnj5DfE52_HdiaO6IFBGYXFQlOi6gUfWF0pMr-doNoNLsn24oZJK9Kx35bddJfKPO3CCMbvog.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489009761,
     "type": "drone",
     "status": "confirmed",
@@ -174384,6 +174421,38 @@
       "other": 0
     },
     "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says: “So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.” Allah Almighty is Truthful In response to the brutal Saudi aggression against our country and in retaliation for its heinous crimes, the latest of which was its horrific crime against vendors and shoppers at Al-Hadarah Market in Al-Wazi'iyah District, Taiz Gov",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490044755,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Breaking IRGC targeted violating tanker Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
