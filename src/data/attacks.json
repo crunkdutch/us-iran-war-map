@@ -173267,6 +173267,134 @@
     ]
   },
   {
+    "id": 490092950,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, West Bank: Enemy_MediaFormer officer Israeli enemy armys Spokespersons",
+    "location": "Israel, West Bank",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaFormer officer in the “Israeli” enemy army’s Spokesperson’s Unit, Ayelet Kreuzer, posted:I am proud to announce that I have taken on the role of the new spokesperson for the “Breaking the Silence” organization&#33;Three years ago, I canceled my special exemption and enlisted in the “Israeli” army during the war. I grew up in the Haredi community and enlisted to take part in what I believed at the time was the defense of the state. I never imagined that, upon completing my military se",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490097775,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Syria, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Lebanon, Syria, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Syrian Internal Security Forces:Hezbollah’s Media Relations Office categorically and in detail denies the accusations contained in the statement issued by the Syrian Internal Security Forces concerning the alleged connection of a purported cell to the party. It reiterates that Hezbollah has no presence or affiliations whatsoever on Syrian territory and has no connection to any activity that undermines Syria’s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490102601,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Yemen, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Yemen, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Interior Minister of the So-Called Yemeni Transitional Council: Hezbollah’s Media Relations Office categorically denies the claims made by the Interior Minister of the so-called Yemeni Transitional Council concerning the presence of Hezbollah experts in Yemen and their participation in managing military operations and developing the armament and training capabilities of the brothers in Ansar Allah. It affirms",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490107428,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-03",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaperHezbollah taking...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:Hezbollah is taking advantage of this period to rebuild its capabilities, enhance the efficiency of its operatives, and gather intelligence on the “Israeli” army. It is worth noting that the “Israeli” army does not disclose information about the drones it intercepts along the northern border, but at least some of them are Hezbollah reconnaissance and surveillance drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 488481582,
     "type": "drone",
     "status": "confirmed",
@@ -177338,6 +177466,102 @@
       "other": 0
     },
     "description": "🖥 Hamas terms Nasser Medical Complex bombardment as full-fledged war crime📌 Tehran, IRNA – The Islamic Resistance Movement of Palestine (Hamas), condemning the bombing of the “Nasser Medical Complex” in Khan Younis, southern Gaza Strip, which resulted in the martyrdom of six Palestinian citizens and the injury of 20 others, held the Zionist regime and the Board of Peace responsible for this crime.According to the Palestinian “Shehab News Agency”, the spokesman for the Hamas movement,&nbsp; Haz",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490088126,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Israel: Irans Army chief warns more severe",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran’s Army chief warns of more severe, decisive response to enemy’s act of aggression📌 Tehran, IRNA — Chief Commander of the Islamic Republic of Iran Army Major General Amir Hatami has emphasized the prominent role played by the air defense personnel in the recent US-Israeli-imposed wars, saying that any aggressor daring to violate the country’s sovereignty again will face even more severe consequences.Visiting an exhibition showcasing the remains of enemy drones and missiles downed by the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490112256,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Aden, Gaza Strip: Hamas Bombing Nasser Hospital Crime That",
+    "location": "Aden, Gaza Strip",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hamas: The Bombing of Nasser Hospital Is a War Crime That Exposes the Occupation’s Impunity and Places the International Community Before Its ResponsibilitiesHazem Qassem, spokesperson for the Islamic Resistance Movement (Hamas), affirmed that the Zionist occupation’s bombing of Nasser Hospital in Khan Younis, southern Gaza Strip, and its perpetration of a massacre against patients and medical staff constitute a fully-fledged war crime and an unprecedented act of terrorism.Qassem stressed tha",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490083303,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Riyadh, Strait of Hormuz, Yemen: Hourly Updates November 2026 Yemen Yemeni",
+    "location": "Riyadh, Strait of Hormuz, Yemen, UAE, Oman, Saudi Arabia, Israel",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 12, 2026🇾🇪 Yemen• Yemeni Armed Forces announced a ballistic missile strike on a Saudi command centre in Al-Buraiqah, which supervises Saudi forces operating in Lahij, Al-Dhale, Taiz and other provinces. The Armed Forces confirmed a direct hit.• Yemeni forces launched drone attacks against Saudi Arabia’s Eastern Province and Riyadh. Saudi authorities announced a drone attack on Riyadh, while Coalition spokesperson Turki Al-Maliki also announced a Yemeni drone a",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
