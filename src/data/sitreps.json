@@ -233294,6 +233294,36 @@
     "verified": false
   },
   {
+    "id": 1794507570382,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-12",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Secretary of the Supreme National Security Council Major General Mohsen Rezaei expresses appreciation for the IRGC Aerospace Force and honours the memory of Martyr Tehrani Moghaddam and the martyrs of Iran’s missile programme on Aerospace Week:In the Name of Allah, the Most Compassionate, the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794507571253,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 President Pezeshkian arrives in Tehran after attending UN Climate Change Summit in Turkiye📌 Tehran, IRNA — President Masoud Pezeshkian arrived in Tehran after participating in and delivering a speech at the UN Climate Change Conference in Türkiye.During the visit, in addition to addressing the U...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

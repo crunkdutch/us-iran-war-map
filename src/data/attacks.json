@@ -177596,6 +177596,75 @@
     "description": "🟡 Hourly Updates (+ve): November 12, 2026🇾🇪 Yemen• Yemeni Armed Forces announced a ballistic missile strike on a Saudi command centre in Al-Buraiqah, which supervises Saudi forces operating in Lahij, Al-Dhale, Taiz and other provinces. The Armed Forces confirmed a direct hit.• Yemeni forces launched drone attacks against Saudi Arabia’s Eastern Province and Riyadh. Saudi authorities announced a drone attack on Riyadh, while Coalition spokesperson Turki Al-Maliki also announced a Yemeni drone a",
     "satelliteImage": null,
     "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/BuGS-_3nwGQfRg4ZcELX_v6aThn0CCfc-00HbWA-wujSPhHRDH7rFsIrz2LePCZ4zamIrJj-76-ZdOboYnYXpSPrIyTOJGBALRthvsUsdoHolz0x-6sb0PrPZ_TAiZVNw3FW_x_uxZuXw1AQDvowJXyehUF2TtFeilf92yYgxFruoMwjo7WRW-si46wawd0VxkrtUMkV9ju25CLkgxcGP1coCzZXr6r312pKpGM5QIFu0sipYVhGF7nyBhET6vY6zN7z5iKvZ3R4wXD5aUlkz4kySo0S5cZ66yy-zBNuKM5hwcrxzmgc_l67XIzE-BoLgYNMC1-4Lv0257oJiytfPw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490121915,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Missile Strike — Tehran, Taba: Secretary Supreme National Security Council Major",
+    "location": "Tehran, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Secretary of the Supreme National Security Council Major General Mohsen Rezaei expresses appreciation for the IRGC Aerospace Force and honours the memory of Martyr Tehrani Moghaddam and the martyrs of Iran’s missile programme on Aerospace Week:In the Name of Allah, the Most Compassionate, the Most Merciful21 Aban marks the Day of the IRGC Aerospace Force and the missile industry, as well as the anniversary of the martyrdom of the illustrious commander of the Army of Islam, Martyr Hassan T",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490126746,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Tehran, Strait of Hormuz: more offending tankers catch fire east",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Two more offending oil tankers catch fire east of Strait of Hormuz: Iran Army📌 Tehran, IRNA — The Iranian Army Navy has announced that two more oil tankers caught fire after hitting naval mines as they were entering a prohibited zone, east of the Strait of Hormuz.In a statement on Thursday afternoon, the Navy said the two offending vessels had disregarded the repeated warnings and deactivated their radar systems as they tried to pass through unsafe zones east of the strait, where they struck",
+    "satelliteImage": null,
+    "videoUrl": null,
     "media": []
   },
   {
