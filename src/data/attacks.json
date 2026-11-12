@@ -177535,6 +177535,38 @@
     "media": []
   },
   {
+    "id": 490117085,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Persian Gulf: Breaking Iranian Army Public Relations DepartmentEarlier",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Iranian Army Public Relations Department:Earlier today, two oil tankers that recklessly entered the restricted and unsafe area in the eastern Persian Gulf, ignoring warnings and deactivating their radar systems, caught fire. This occurred after they collided with naval vessels.Primary responsibility for the fires aboard the oil tankers in this unsafe and restricted area lies with the lying President of the United States, as well as the ship owners who place their trust in his f",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490083303,
     "type": "drone",
     "status": "confirmed",
