@@ -175723,6 +175723,70 @@
     ]
   },
   {
+    "id": 490030316,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Lebanon: Islamic_RepublicSecretary Irans Supreme National Security Co...",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council, General Mohsen Rezaei:– Any new American attack will be met with strikes targeting distant American military bases as well.– Ending the war on all fronts in West Asia, particularly in Lebanon, is one of our fundamental conditions.– We will not remove a single atom of enriched nuclear material from Iran.– We have informed our Russian friends that the enriched material will remain in Iran and that we will use it ourselves.– We",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490035128,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Islamic_RepublicSecretary Irans Supreme National Security Co...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council, General Mohsen Rezaei:– Trump and Netanyahu have exhausted their political capacity to continue the war. They no longer have the necessary political cover to continue the war militarily, whether at the international and legal levels or within the United States and the Zionist entity.– Accordingly, if they want to launch a new attack on Iran, the war, according to their calculations, will not last more than 3 to 5 days.– They",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489786230,
     "type": "missile",
     "status": "confirmed",
@@ -176935,6 +176999,38 @@
       "other": 0
     },
     "description": "🟡 Hourly Updates (+ve): November 11–12, 2026🇮🇷 Iran• Iran’s Intelligence Ministry announced the dismantling of a separatist cell and the arrest of five suspects in coordinated operations across Tehran, Alborz and Kermanshah provinces. According to the ministry, the group was preparing attacks under the direction of elements linked to Israeli and American intelligence services and had participated in property destruction during what the authorities described as the December 2025 coup. Three ad",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490025505,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Tehran, Strait of Hormuz, Lebanon: SNSC rules transfer enriched nuclear material",
+    "location": "Tehran, Strait of Hormuz, Lebanon, Qatar",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 SNSC rules out transfer of enriched nuclear material abroad📌 Tehran, IRNA — The secretary of the Supreme National Security Council, Mohsen Rezaei, says Tehran will not allow any of its enriched nuclear material to be taken out of the country, warning that any new US attack would be met with strikes on American military bases far from Iran.Speaking to Lebanon’s Al Mayadeen TV network, Rezaei said Iran had informed its Russian partners that all enriched material would remain inside the country",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
