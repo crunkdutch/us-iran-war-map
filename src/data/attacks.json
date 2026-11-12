@@ -174751,6 +174751,43 @@
     ]
   },
   {
+    "id": 490131578,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:Over the past 24 hours, the Saudi warplanes carried out 61 airstrikes targeting civilian areas in the capital Sana’a and the governorates of Al-Jawf, Taiz, Saada, Marib, Lahij, Dhale, Ibb, Hodeida, and Hajjah. Using F-15 and Typhoon fighter jets, they committed numerous crimes, resulting in dozens of dead and wounded civilians, most of whom were women and children. To date, the ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/eQ2WGJxYMhfEpnWtxgeSD_47VXjoKg9fXWpWDfsC9QKG3eaKH3EfyQ_B3Vm9k3DKEtHg9mwHGrA63sj5Er-e6uu1UQxYKOOxAaueREfMpuYGJl5A_cV3clf_sbpKUtCcsGSN2fuMxmGifHlxUM5xc4Hpe8SSQEK_k6aTWo3NUV5FDntzqQnECvCFdqJKNs9Eko3oSZpmIwO1RQvpNMfuwtbDwtiQnQDQC_hoKyaEPU_iOh4lGCLv4FbK_cthxT_ASDhp5nh15UgKDRGDmw9NuN2jwpvns921dE4r2o9z3W285cVTJFdfJ58G-p3tZIfx4e1jGPiai6SKs_cWktFO8g.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489549455,
     "type": "airstrike",
     "status": "confirmed",
@@ -177663,6 +177700,38 @@
       "other": 0
     },
     "description": "🖥 Two more offending oil tankers catch fire east of Strait of Hormuz: Iran Army📌 Tehran, IRNA — The Iranian Army Navy has announced that two more oil tankers caught fire after hitting naval mines as they were entering a prohibited zone, east of the Strait of Hormuz.In a statement on Thursday afternoon, the Navy said the two offending vessels had disregarded the repeated warnings and deactivated their radar systems as they tried to pass through unsafe zones east of the strait, where they struck",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490136411,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Sirik: Breaking occupation forces carried strike against",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Breaking — US occupation forces carried out a strike against a military-related facility in Sirik, in southern Iran.▪️@enemywatch+",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
