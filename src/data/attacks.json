@@ -172446,6 +172446,134 @@
     "media": []
   },
   {
+    "id": 490064021,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "Unknown Airstrike — West Bank: Occupied_PalestineIn Name Allah Most Gracious Most",
+    "location": "West Bank",
+    "coordinates": [
+      31.8,
+      35.3
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Occupied_PalestineIn the Name of Allah, the Most Gracious, the Most MercifulStatement Issued by the Islamic Jihad Movement on the 109th Anniversary of the Ill-Fated Balfour DeclarationOn this day, 109 years ago, our Palestinian people recall a crime committed by the British occupation against our people, whose consequences have extended across generations and inflicted a wound that continues to bleed in the body of our nation and its history. The ill-fated “Balfour Declaration” represents one o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490068840,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, West Bank: Enemy_MediaFormer officer Israeli enemy armys Spokespersons",
+    "location": "Israel, West Bank",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaFormer officer in the “Israeli” enemy army’s Spokesperson’s Unit, Ayelet Kreuzer, posted:I am proud to announce that I have taken on the role of the new spokesperson for the “Breaking the Silence” organization&#33;Three years ago, I canceled my special exemption and enlisted in the “Israeli” army during the war. I grew up in the Haredi community and enlisted to take part in what I believed at the time was the defense of the state. I never imagined that, upon completing my military se",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490073660,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Syria, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Lebanon, Syria, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Syrian Internal Security Forces:Hezbollah’s Media Relations Office categorically and in detail denies the accusations contained in the statement issued by the Syrian Internal Security Forces concerning the alleged connection of a purported cell to the party. It reiterates that Hezbollah has no presence or affiliations whatsoever on Syrian territory and has no connection to any activity that undermines Syria’s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490078481,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-02",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Yemen, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Yemen, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Interior Minister of the So-Called Yemeni Transitional Council: Hezbollah’s Media Relations Office categorically denies the claims made by the Interior Minister of the so-called Yemeni Transitional Council concerning the presence of Hezbollah experts in Yemen and their participation in managing military operations and developing the armament and training capabilities of the brothers in Ansar Allah. It affirms",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 487946635,
     "type": "intercept",
     "status": "confirmed",
@@ -174456,6 +174584,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 490049570,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Yemeni Armed Forces affirm that the Saudi enemy’s claim of intercepting a missile in the skies over Madinah is yet another instance of its grave and outrageous slander against our dear Muslim people and their armed forces.Our operations target only its oil facilities and military bases. Yemen, the land of wisdom and faith, is among the peoples most devoted to the sanctity of",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/XXqRgQ__Jypizc4M-RpiUwjzCuGUj1kEW41dQ5ZeQjy3pGH5WD_bYRu8iQeQv60kXSvTt4nkIkF-ss-SZcT-oF2B_Kh8-AdQzJKO8c7Z1w7UlYFWlrxNTSLAoH9wBzwJ5Wdk7jTEnjurJyUfUTY_39olEPjKqXBE4Ok17hF7sYiaUw7zURDIni42xoC4a9Fw-pf-La0a4MPekDJs-tzhDLD2bXFimhrF2M7eZrUbAH0qY751Jn7Ih7S6ShEZE0RuPzQFjdPE0v8VqZh33RpKLvknl0_lXaOq3aY6Ud8GtsggLVSap9vv1tMtLzYZIiAI6EtEQSHhRd7DMTw-Unw2gA.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 489549455,
@@ -177100,6 +177265,70 @@
       "other": 0
     },
     "description": "🔊 SNSC rules out transfer of enriched nuclear material abroad📌 Tehran, IRNA — The secretary of the Supreme National Security Council, Mohsen Rezaei, says Tehran will not allow any of its enriched nuclear material to be taken out of the country, warning that any new US attack would be met with strikes on American military bases far from Iran.Speaking to Lebanon’s Al Mayadeen TV network, Rezaei said Iran had informed its Russian partners that all enriched material would remain inside the country",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490054386,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz, Persian Gulf: IRGC Navy Tankers Explode After Entering",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy: Two Oil Tankers Explode After Entering Unauthorized Route in the Strait of Hormuz:Public Relations Office of the Islamic Revolutionary Guard Corps Navy:Last night, two offending oil tankers experienced powerful explosions while transiting the unauthorized southern route through the Strait of Hormuz, despite repeated warnings from the IRGC Navy’s Strait of Hormuz Traffic Control Centre regarding the route’s unauthorized and unsafe status.Both vessels were supertankers carrying a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490059203,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Tehran, Aden, Gaza Strip: Hamas terms Nasser Medical Complex bombardment",
+    "location": "Tehran, Aden, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Hamas terms Nasser Medical Complex bombardment as full-fledged war crime📌 Tehran, IRNA – The Islamic Resistance Movement of Palestine (Hamas), condemning the bombing of the “Nasser Medical Complex” in Khan Younis, southern Gaza Strip, which resulted in the martyrdom of six Palestinian citizens and the injury of 20 others, held the Zionist regime and the Board of Peace responsible for this crime.According to the Palestinian “Shehab News Agency”, the spokesman for the Hamas movement,&nbsp; Haz",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
