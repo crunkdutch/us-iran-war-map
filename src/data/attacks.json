@@ -177737,6 +177737,38 @@
     "media": []
   },
   {
+    "id": 490141245,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel, Turkey: President Pezeshkian Iran responsible regional situation",
+    "location": "Tehran, Israel, Turkey",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ President Pezeshkian: Iran not responsible for regional situation; Israel pushed Trump into war📌 Tehran, IRNA — Iranian President Masoud Pezeshkian says the Israeli regime deceived US President Donald Trump and pushed him toward war, stressing that the Islamic Republic is not responsible for the current situation in the region.“The Israeli regime has played the role of a fire-starter in this crisis and, by deceiving Trump, has pushed him toward war,” Pezeshkian told Brazilian President Luiz ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

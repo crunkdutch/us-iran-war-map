@@ -233449,6 +233449,36 @@
     "verified": false
   },
   {
+    "id": 1794522049754,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ President Pezeshkian: Iran not responsible for regional situation; Israel pushed Trump into war📌 Tehran, IRNA — Iranian President Masoud Pezeshkian says the Israeli regime deceived US President Donald Trump and pushed him toward war, stressing that the Islamic Republic is not responsible for the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794522006704,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-12",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 IRGC Ground Force dismantles armed cell of PJAK separatist terrorist group in northwestern Iran📌 Tehran, IRNA —&nbsp;The Islamic Revolution Guards Corps (IRGC) Ground Force has dismantled a team of the PJAK separatist terrorist group that was attempting to infiltrate northwestern Iran with the a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
