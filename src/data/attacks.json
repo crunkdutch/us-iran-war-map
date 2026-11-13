@@ -177769,6 +177769,38 @@
     "media": []
   },
   {
+    "id": 490146080,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Iraq: IraqiResistance AlNujaba Movement rejects targeting Hussein",
+    "location": "Yemen, Iraq",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Al-Nujaba Movement rejects targeting of Abu Hussein Al-Hamidawi, calls for unity among resistance:The movement's Political Council called the targeting of Al-Hamidawi, whom it described as a mujahid who made great sacrifices to protect holy sites and the homeland, unacceptable and unjustified. It accused those stirring up sedition among brothers of serving the \"American-Zionist enemy\" and said the Islamic Resistance in Iraq remains united in rejecting injustice and will",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
