@@ -171252,6 +171252,38 @@
     "media": []
   },
   {
+    "id": 490213875,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-10-31",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Yemen, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Yemen, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Interior Minister of the So-Called Yemeni Transitional Council: Hezbollah’s Media Relations Office categorically denies the claims made by the Interior Minister of the so-called Yemeni Transitional Council concerning the presence of Hezbollah experts in Yemen and their participation in managing military operations and developing the armament and training capabilities of the brothers in Ansar Allah. It affirms",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 486943285,
     "type": "drone",
     "status": "confirmed",
@@ -177791,6 +177823,38 @@
       "other": 0
     },
     "description": "#Islamic_RepublicIssued by the Army Public Relations Department:A few hours ago, one enemy American aggressor MQ-1 drone was hit and destroyed after the successful detection and engagement by the modern air defense system of the Naval Force of the Army of the Islamic Republic of Iran, operating within the unified network of the country's Joint Air Defense Headquarters, in the Kuhestak area (Sirik coast).We will not hesitate for a moment to protect and defend the territorial integrity of the Isla",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490218725,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Israel, West Bank, Gaza Strip: Statement issued Hezbollah regarding Israeli enemys",
+    "location": "Israel, West Bank, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by Hezbollah regarding the “Israeli” enemy’s targeting of Nasser Hospital in the Gaza Strip:Hezbollah strongly condemns the terrorist and barbaric aggression carried out by the Zionist enemy through targeting the surgical building at the Nasser Medical Complex in the city of Khan Younis in the Gaza Strip. The attack resulted in the martyrdom of a number of civilians, injuries to numerous doctors, patients, and hospital staff, and the building being put out of service. This const",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

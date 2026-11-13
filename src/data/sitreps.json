@@ -228494,6 +228494,36 @@
     "verified": false
   },
   {
+    "id": 1794587042682,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 15: The “Israeli” Elections Committee approved the election results and ruled out any irregularities.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794586983434,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-10-31",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicHis Eminence Ayatollah Supreme Leader Sayyed Mojtaba Khamenei (may his shadow endure):– The only way to achieve absolute deterrence is to continue the strategy of strengthening Iran along the path of comprehensive progress.– The situation in the Gulf, particularly in the Strait of H...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793512219515,
     "type": "drone",
     "location": "Tehran",
@@ -233540,6 +233570,21 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "Statement issued by Hezbollah regarding the repression of the Bahraini people:At a time when tyrannical America and criminal “Israel” are waging aggression against Palestine, Iran, Lebanon, and the countries of the region, depriving them of security and stability and seeking to redraw the region’s m...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794587040178,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-11",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement issued by Hezbollah regarding the “Israeli” enemy’s targeting of Nasser Hospital in the Gaza Strip:Hezbollah strongly condemns the terrorist and barbaric aggression carried out by the Zionist enemy through targeting the surgical building at the Nasser Medical Complex in the city of Khan Yo...",
     "media": [],
     "verified": false
   },
