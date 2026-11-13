@@ -233479,6 +233479,92 @@
     "verified": false
   },
   {
+    "id": 1794550930919,
+    "type": "airstrike",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-11-12",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Claims Destruction of US Early-Warning Radar on Bahrain:Public Relations Office of the Islamic Revolutionary Guard Corps:In the name of Allah, the Subduer of Tyrants.“And whoever commits aggression against you, retaliate against them in the same manner as they have attacked you.”The hero...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794550882293,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-12",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | AnsarAllah’s pincer manoeuvre to secure the Bab al-Mandab front is reportedly nearing completion. Saudi-backed forces have withdrawn en masse from the coastal pocket, with many reportedly captured during the operation.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/9d041bca36.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/aBZxpmtJfrNk-zKyZQTPeWHQvnkW8S3sGR4byd2qA53VWZInyiI9tTOQKXum85zTQTQL6YiuF6_z3Zyw6V_OYeG3S6jw_LQ-RrxH3jxFqbPKP2T-sMy8EzQpLpOTnvnE3NKqXJYnACj9RWVWW1uKX5jM7Thw1gTsdyYS5DqPp6szZFZIC2C0VFDna8h1utAuxiNCAgZHzFCfMGQiP3UKtVybjigdB2DWELbPsSys7rOQmFyhVCjoeCZ9c1e0uMIvwUOzGWcw9YV4GW6FI26xHgAs7ra42goHjhd4nRgKpSoAS4-SngNxZe0cb9GaEiSRHe5PFiuoHEMjZVsX_no16g"
+      },
+      {
+        "url": "https://t.me/enemywatch/64560",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/aBZxpmtJfrNk-zKyZQTPeWHQvnkW8S3sGR4byd2qA53VWZInyiI9tTOQKXum85zTQTQL6YiuF6_z3Zyw6V_OYeG3S6jw_LQ-RrxH3jxFqbPKP2T-sMy8EzQpLpOTnvnE3NKqXJYnACj9RWVWW1uKX5jM7Thw1gTsdyYS5DqPp6szZFZIC2C0VFDna8h1utAuxiNCAgZHzFCfMGQiP3UKtVybjigdB2DWELbPsSys7rOQmFyhVCjoeCZ9c1e0uMIvwUOzGWcw9YV4GW6FI26xHgAs7ra42goHjhd4nRgKpSoAS4-SngNxZe0cb9GaEiSRHe5PFiuoHEMjZVsX_no16g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794550955291,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔥🔥🔥 | Iran's Assembly of Experts: Offering concessions to America will not diminish its hostility towards the Iranian people:▪️ In accordance with the valuable words of the beloved Leader of the Revolution, who stated: “Those who imagine that by offering concessions to America, they can dissuade ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794550901969,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶/ 🇮🇷 | Closure of the Mandali border crossing between Iraq and Iran.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794550928944,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-11-13",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 13, 2026🇾🇪 Yemen• AnsarAllah issued a statement expressing solidarity with Kataib Hezbollah and the Iraqi people, recalling their role in supporting Gaza and Palestine and confronting ISIS and extremist groups. The movement condemned American and Saudi campaigns a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

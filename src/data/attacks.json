@@ -177812,6 +177812,70 @@
     "media": []
   },
   {
+    "id": 490150916,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Aden, Riyadh, Yemen: Hourly Updates November 2026 Yemen AnsarAllah",
+    "location": "Aden, Riyadh, Yemen, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 13, 2026🇾🇪 Yemen• AnsarAllah issued a statement expressing solidarity with Kataib Hezbollah and the Iraqi people, recalling their role in supporting Gaza and Palestine and confronting ISIS and extremist groups. The movement condemned American and Saudi campaigns against Kataib Hezbollah over its support for Palestine and Yemen, calling on Iraqi resistance factions to unite against threats and conspiracies targeting Iraq and the wider Arab and Islamic nations.•",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490155753,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Tehran, Bandar Abbas, Strait of Hormuz: Hourly Updates November 2026 Iran Four",
+    "location": "Tehran, Bandar Abbas, Strait of Hormuz, Lebanon, Iraq, Israel, West Bank, Turkey",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 13, 2026🇮🇷 Iran• Four oil tankers exploded in the Strait of Hormuz after ignoring warnings and entering restricted areas, according to the Iranian Army.• Explosions were heard in Bandar Abbas amid reports of approximately 11 to 12 anti-ship cruise missile launches.• President Masoud Pezeshkian returned to Tehran after attending and addressing the UN Climate Change Summit in Turkey. During his visit, he held bilateral meetings with the presidents of Turkey, Ira",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
