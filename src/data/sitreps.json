@@ -233655,6 +233655,26 @@
     "verified": false
   },
   {
+    "id": 1794565332955,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 In photos: Funeral procession for 110 unknown martyrs in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/SJc8JVIQL86MlkuckLVNA37c7xu82kEn7P6e3H7c_Vej6aGST75cB5SFmjLnSUh0i-rB6DEpmnqLGTXnFgFJW5xDhrSp9vFi_P3-RIlEg_j5xgyXdyE9gbByLaDdi9qWKzWXppIQxQQMUl6LtImcian-wvxssBy3pvdfNZxxY9q5mO-KXnV5wAmKXrMOD9axDe7zZSdofkIVFhIb4Z0dWTGtle2lFF0D8eA01Nc4SEjsEObW3UHjLQheMkIvfR4ewsFlQqSHM0RPaj4i4d6xlFxD2OhB_iTjFoShlROu6wmfZ4wTiiwWxFAjVjt5kveUWgO1ZbhfiqQWHBR9IB-4Kw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794550928944,
     "type": "drone",
     "location": "Aden",
