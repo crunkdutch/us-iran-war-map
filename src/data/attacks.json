@@ -175279,6 +175279,171 @@
     "media": []
   },
   {
+    "id": 490223576,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Baghdad, Erbil, Sanaa: Hourly updates Lebanon Israeli airstrikes struck",
+    "location": "Baghdad, Erbil, Sanaa, Gaza City, Lebanon, Yemen, Iraq, Israel",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly updates (-ve)🇱🇧 Lebanon• Israeli airstrikes struck Birchesit, Kfar Tibnit and Wadi al-Saluqi on November 5. Artillery shelling targeted Birchesit, Wadi al-Saluqi, Wadi Zibqin, Wadi Nahla, Beit Yahoun, the outskirts of Nabatiyeh al-Fouqa, Al-Khiam, Zawtar al-Sharqiya, Kfar Tibnit, Hadatha and Al-Mansouri. Explosions were also reported in Al-Qantara and Al-Khiam.• Since midnight, Israeli artillery shelling has been reported in Al-Qantara, Wadi al-Saluqi, the outskirts of Mifdoun and Ba",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490228428,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Persian Gulf, Red Sea, Lebanon: Advisor Imam Mujtaba Khamenei Akbar Velayati1",
+    "location": "Persian Gulf, Red Sea, Lebanon, Oman, Iraq, Israel, Taba",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Advisor to Imam Mujtaba Khamenei; Ali Akbar Velayati:1. Amid widespread discussions about the emerging new order in West Asia, it is important to recognise that Iran serves as a strategic bridge connecting the Persian Gulf with Central Asia, the Caucasus, and the Sea of Oman. Any energy or transit corridor seeking to bypass Iran will inevitably incur higher costs or face reduced stability.2. The succession of crises, from Gaza to the Red Sea and from Lebanon to Iraq, has demonstrated that",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490233281,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Breaking IRGC targeted violating tanker Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490238135,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Oman: Unconfirmed reports that aircraft have been",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Unconfirmed reports that a U.S. aircraft may have been targeted off the coast of Oman. A US Navy CMV-22B Osprey aircraft transmitted an emergency squawk code 7700 while flying along Oman's southern coast, signalling a general in-flight emergency requiring immediate attention. The CMV-22B belongs to the Osprey family of aircraft, which is used by the US Navy to transport personnel, cargo and essential equipment between coastal bases and aircraft carrier.@enemywatch+Wait...",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490242990,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 15
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:At 7:10 a.m. this Friday, a Saudi enemy F-15 fighter jet took off from Khamis Mushait Air Base and carried out three airstrikes on Al-Hadhara Market in Al-Wazi'iyah District, Taiz Governorate, resulting in dozens of civilian casualties, including people killed and injured.The aircraft left Taiz Governorate at 8:00 a.m. and returned to the same air base.These brutal crimes will n",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/UXiIn7xCLiAOYESTACzpTXftcBuhr20xGLtsKoZbx7jA6lBoDMcdiff5BBn6qxFVqvo9jx0FgDZjt4-qc9JA6mIJFAXom_7hs16iVeZjue_vYV_h84Dh-W_intUM2fkUAX4aBTaD6XR-JdPGYA8eEXVJI3gEoBOx2ozqfegh-lF-CAdrfIb5VIcji6d8dOsF9wOti4UHzFfyiL8KVWvVCPpVbazPh8U-vNjo7VwGW5phNQd2KOvM8qNxMyoAhhagiQzrPXBA_ecEvQZGF0MUmvYwypMnv153K4sjU9jbi1IfeaRL4WGpBkqx-sTVdcEJneW24IOsr6vx-oghdbDbAg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489563591,
     "type": "drone",
     "status": "confirmed",

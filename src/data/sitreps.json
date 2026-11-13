@@ -231643,6 +231643,101 @@
     "verified": false
   },
   {
+    "id": 1794594203508,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-11-06",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Advisor to Imam Mujtaba Khamenei; Ali Akbar Velayati:1. Amid widespread discussions about the emerging new order in West Asia, it is important to recognise that Iran serves as a strategic bridge connecting the Persian Gulf with Central Asia, the Caucasus, and the Sea of Oman. Any energy or tr...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794594206514,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-06",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794594274537,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-06",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Audio message by Hojjatoleslam Hamid Rasaei, Deputy Chairman of the Central Council of the Sharyan Front and Member of Parliament, addressing the Iranian people from Evin Prison:• I miss being among the people who have been gathering in the square for 250 consecutive nights, demanding justice...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794594221105,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:At 7:10 a.m. this Friday, a Saudi enemy F-15 fighter jet took off from Khamis Mushait Air Base and carried out three airstrikes on Al-Hadhara Market in Al-Wazi'iyah District, Taiz G...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/UXiIn7xCLiAOYESTACzpTXftcBuhr20xGLtsKoZbx7jA6lBoDMcdiff5BBn6qxFVqvo9jx0FgDZjt4-qc9JA6mIJFAXom_7hs16iVeZjue_vYV_h84Dh-W_intUM2fkUAX4aBTaD6XR-JdPGYA8eEXVJI3gEoBOx2ozqfegh-lF-CAdrfIb5VIcji6d8dOsF9wOti4UHzFfyiL8KVWvVCPpVbazPh8U-vNjo7VwGW5phNQd2KOvM8qNxMyoAhhagiQzrPXBA_ecEvQZGF0MUmvYwypMnv153K4sjU9jbi1IfeaRL4WGpBkqx-sTVdcEJneW24IOsr6vx-oghdbDbAg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794594208778,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-06",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC: MQ-1 Drone Intercepted and Destroyed over Qeshm Island:The 16th American MQ-1 drone was intercepted and destroyed moments ago over Qeshm Island by the IRGC’s newly developed advanced air defence system, operating under the command of Iran’s integrated air defence network.The repeated fa...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794594198097,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | AnsarAllah: The Saudi regime should brace for a painful response from Yemen:• The Political Bureau of Yemen’s AnsarAllah movement condemned the Saudi Arabian attack on the Al-Wazi’iyah area in Taiz Governorate and the massacre of civilians, stating that more than 30 people were martyred ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794032031781,
     "type": "drone",
     "location": "Khorramabad",
