@@ -174123,6 +174123,102 @@
     ]
   },
   {
+    "id": 490170270,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Hezbollah Naval Operation — Yemen, Israel: Statement Issued Hezbollahs Media Relations Office",
+    "location": "Yemen, Israel",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah’s Media Relations Office Regarding the Claims Made by the Interior Minister of the So-Called Yemeni Transitional Council: Hezbollah’s Media Relations Office categorically denies the claims made by the Interior Minister of the so-called Yemeni Transitional Council concerning the presence of Hezbollah experts in Yemen and their participation in managing military operations and developing the armament and training capabilities of the brothers in Ansar Allah. It affirms",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490175111,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaperHezbollah taking...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:Hezbollah is taking advantage of this period to rebuild its capabilities, enhance the efficiency of its operatives, and gather intelligence on the “Israeli” army. It is worth noting that the “Israeli” army does not disclose information about the drones it intercepts along the northern border, but at least some of them are Hezbollah reconnaissance and surveillance drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490179953,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-04",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemeni Armed Forces affirm that Saudi",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Yemeni Armed Forces affirm that the Saudi enemy’s claim of intercepting a missile in the skies over Madinah is yet another continuation of its great and grave fabrications against our dear Muslim people and their armed forces.Our operations target only its oil facilities and military bases.Yemen, the land of wisdom and faith, is among the peoples most devoted to the sanctity of holy sites. Those who pose a threat to the holy sites are the ones who bring events of debauchery and immorality to",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489009761,
     "type": "drone",
     "status": "confirmed",
@@ -177812,6 +177908,38 @@
     "media": []
   },
   {
+    "id": 490165430,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Iraq: IRGC deputy commander warns decisive response",
+    "location": "Tehran, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 IRGC deputy commander warns of decisive response to any aggression against Iran📌 Tehran, IRNA – The Deputy Commander of the Islamic Revolution Guards Corps (IRGC) has warned that Iran’s Armed Forces will deliver an immediate, effective, and decisive response to any aggression, stressing that they face no geographical limits in confronting aggressors.Speaking at a ceremony on Friday, Major General Mostafa Izadi said that Iran had stood firm against a united Eastern and Western front during th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490150916,
     "type": "drone",
     "status": "confirmed",
@@ -177871,6 +177999,38 @@
       "other": 0
     },
     "description": "🟡 Hourly Updates (+ve): November 13, 2026🇮🇷 Iran• Four oil tankers exploded in the Strait of Hormuz after ignoring warnings and entering restricted areas, according to the Iranian Army.• Explosions were heard in Bandar Abbas amid reports of approximately 11 to 12 anti-ship cruise missile launches.• President Masoud Pezeshkian returned to Tehran after attending and addressing the UN Climate Change Summit in Turkey. During his visit, he held bilateral meetings with the presidents of Turkey, Ira",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490160591,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: IRGC Navy tanker mine explosion Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚓️ | IRGC Navy: LPG tanker hit by sea mine explosion in Strait of Hormuz after ignoring IRGC warnings.A liquefied petroleum gas (LPG) carrier caught fire and suffered a massive explosion after striking a naval mine while navigating an unauthorized southern route east of the Strait of Hormuz, according to the Islamic Revolutionary Guard Corps (IRGC) Navy. In an official statement, the IRGC Navy's public relations office reported that the vessel ignored repeated warnings from Iran's maritime traff",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
