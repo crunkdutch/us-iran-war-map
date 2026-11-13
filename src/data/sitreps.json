@@ -7814,6 +7814,21 @@
     "verified": false
   },
   {
+    "id": 1794579785562,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-03-11",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ How did the UNSCR 2817 reverse the roles of aggressor and victim?📌 Tehran IRNA — Mohammad Javad Zarif, former foreign minister of the Islamic Republic of Iran, has criticized the UN Security Council’s one-sided approach to the war against Iran in an article examining Resolution 2817.Zarif argues...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1784999946239,
     "type": "airstrike",
     "location": "Saudi Arabia",
@@ -231533,6 +231548,26 @@
     "verified": false
   },
   {
+    "id": 1794579843066,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-05",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:At 7:10 a.m. this Friday, a Saudi enemy F-15 fighter jet took off from Khamis Mushait Air Base and carried out three airstrikes on Al-Hadhara Market in Al-Wazi'iyah District, Taiz G...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/UXiIn7xCLiAOYESTACzpTXftcBuhr20xGLtsKoZbx7jA6lBoDMcdiff5BBn6qxFVqvo9jx0FgDZjt4-qc9JA6mIJFAXom_7hs16iVeZjue_vYV_h84Dh-W_intUM2fkUAX4aBTaD6XR-JdPGYA8eEXVJI3gEoBOx2ozqfegh-lF-CAdrfIb5VIcji6d8dOsF9wOti4UHzFfyiL8KVWvVCPpVbazPh8U-vNjo7VwGW5phNQd2KOvM8qNxMyoAhhagiQzrPXBA_ecEvQZGF0MUmvYwypMnv153K4sjU9jbi1IfeaRL4WGpBkqx-sTVdcEJneW24IOsr6vx-oghdbDbAg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1793995899951,
     "type": "airstrike",
     "location": "Bahrain",
@@ -233809,6 +233844,51 @@
         "thumbnail": "https://cdn4.telesco.pe/file/kfK4MmZkSc_MpeAE2Nz4CcvklrGWo-TrdyGesZWdLcvb9_cTRzS5I2dn1JzFyC6lmUSKnuFmXGZE0srgtRSwwPLxP9QYogp-GybQXTjpabheuCU0jWeAxHnu0mi5h-SxJAcgRvklZzLjZH4YMCJGDLBFNEu5-iFNUQFwr2hCM33j9JORbTf6htWcKCAt_sJaTr1Jnp0l7Fv6_bmLi0dV0NbtAj9Aa5ukM5b1EZY1i1qGbfMTuTUH5QKC1ayFtqI4u7TJSl9q0AaTor-lQqQRrOAD-Cxk1LKdGSdhTM173Zun5cmp87rmD471DWdynrsasxuNhnK9mZx9Ys-Bu4UfjA"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794579826458,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-13",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 / 🇧🇭 | Statement issued by Hezbollah regarding the oppression faced by the Bahraini people:At a time when the tyrannical United States and criminal Israel are attacking Palestine, Iran, Lebanon, and other regional countries, robbing them of security and stability, and attempting to draw up an...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794579755315,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-13",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇵🇸 | Al-Quds Brigade's fighters clash with collaborating militia east of Tuffah and Shuja'iyya:The Brigades said their fighters engaged the advancing Israeli force at point-blank range at dawn on Friday after detecting its movement. They reported inflicting casualties, including deaths and injurie...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794579786567,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-13",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Satellite imagery reportedly shows the American early-warning radar installation in Bahrain following the IRGC's announced strike and destruction. 🔻@enemywatch",
+    "media": [],
     "verified": false
   },
   {
