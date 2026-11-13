@@ -178475,6 +178475,49 @@
     ]
   },
   {
+    "id": 490247846,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC Navy Public Relations statementHours tankers",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚓️ | IRGC Navy Public Relations statement:Hours ago, two oil tankers attempting to pass secretly through an unauthorised route in the Strait of Hormuz, with their radar and GPS systems switched off, struck naval mines, exploded and caught fire.The flames from one of the vessels, a supertanker, illuminated the southern coast of the Strait of Hormuz during the night.The IRGC Navy warned shipowners and shipping companies that vessels attempting to transit the Strait of Hormuz without coordination w",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/621035995a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D5eB2yuTU8t30K1ALQs2vno1sNXiB2Alr_4FD0qBcyMgwF8BEB4_3vPZWOkscV0ZBJNIg99BV5KR4qTvA5FfganeZ-fjgS6aCeyvBcY7JvfPIZwYywa3Zc8qKvFiDQDCsS_gnnSz7w-5POld9kF93WteDIhZb06Ur6P3a_aCKa8xxWAPLOJK7MA-qQ9XaJxYESVDrRE0A5RhpNXH1B12oj4Tws9fTzsRwCnK_5mwhHe2TwRWxXkhTRTMt0PrZTDNX47OOUngRMKya1l8w2K5VK3QUk8U8UWnM9Zx-WGDQiKUPb29cegpo-taC5ap95JimhY2nZR595-l5dTo3GT8vA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64602",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/D5eB2yuTU8t30K1ALQs2vno1sNXiB2Alr_4FD0qBcyMgwF8BEB4_3vPZWOkscV0ZBJNIg99BV5KR4qTvA5FfganeZ-fjgS6aCeyvBcY7JvfPIZwYywa3Zc8qKvFiDQDCsS_gnnSz7w-5POld9kF93WteDIhZb06Ur6P3a_aCKa8xxWAPLOJK7MA-qQ9XaJxYESVDrRE0A5RhpNXH1B12oj4Tws9fTzsRwCnK_5mwhHe2TwRWxXkhTRTMt0PrZTDNX47OOUngRMKya1l8w2K5VK3QUk8U8UWnM9Zx-WGDQiKUPb29cegpo-taC5ap95JimhY2nZR595-l5dTo3GT8vA"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
