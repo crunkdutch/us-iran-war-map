@@ -2488,6 +2488,38 @@
     ]
   },
   {
+    "id": 490189640,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-06",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran: Charter under fire attacks Iran violate",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 UN Charter under fire: Why US attacks on Iran violate int'l law📌 Tehran, IRNA – If states were free to attack one another based on their own assessments of possible future threats, what would be left of the international legal order? This question goes well beyond the political dispute between Iran and the United States.It concerns one of the fundamental principles on which the international order established after the Second World War rests: the use of force is governed by law, and no state",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 188672,
     "type": "rocket",
     "status": "confirmed",

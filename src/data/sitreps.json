@@ -3640,6 +3640,21 @@
     "verified": false
   },
   {
+    "id": 1794572533385,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-03-06",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 UN Charter under fire: Why US attacks on Iran violate int'l law📌 Tehran, IRNA – If states were free to attack one another based on their own assessments of possible future threats, what would be left of the international legal order? This question goes well beyond the political dispute between I...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785000019557,
     "type": "missile",
     "location": "Tel Aviv",
@@ -233479,6 +233494,21 @@
     "verified": false
   },
   {
+    "id": 1794572584966,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-11",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement issued by Hezbollah regarding the repression of the Bahraini people:At a time when tyrannical America and criminal “Israel” are waging aggression against Palestine, Iran, Lebanon, and the countries of the region, depriving them of security and stability and seeking to redraw the region’s m...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794493156151,
     "type": "drone",
     "location": "Riyadh",
@@ -233672,6 +233702,36 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794572527742,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iran calls on ITU to impartially assess damage to its communications infrastructure📌 Tehran, IRNA – Iran’s Minister of Information and Communications Technology (ICT), Sattar Hashemi, has called for an impartial and comprehensive assessment of damage to the country’s communications and broadcast...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794572540883,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Committee formed to mark martyrdom anniversary of Iran’s martyred Leader📌 Tehran, IRNA — Following a directive from Seyed Mohsen Khamenei, head of the Office for the Preservation and Publication of the Works of the Grand Ayatollah Sayyid Ali Khamenei, a committee was formed to commemorate the ma...",
+    "media": [],
     "verified": false
   },
   {
