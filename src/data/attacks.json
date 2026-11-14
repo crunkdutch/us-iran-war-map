@@ -178595,6 +178595,38 @@
     "media": []
   },
   {
+    "id": 490350053,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Israel: Enemy_MediaIsrael Hayom Hebrew newspaper Israel transferred",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper: “Israel” has transferred intelligence to the United States – Iran is planning to launch a drone attack targeting senior White House officials.Against the backdrop of these threats, senior US officials have been moved to secure facilities, the President’s public appearances have been reduced, and special security measures have been implemented.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490150916,
     "type": "drone",
     "status": "confirmed",
