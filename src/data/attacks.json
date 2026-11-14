@@ -175444,6 +175444,43 @@
     ]
   },
   {
+    "id": 490252703,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-06",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:Over the past 24 hours, Saudi warplanes have carried out 67 air raids and missile strikes targeting civilian areas across the governorates of Taiz, Lahij, Saada, Al-Jawf, and Marib.The attacks were conducted using F-15 and Typhoon fighter jets operating from the military bases of Khamis Mushait and Taif, while the missile strikes originated from Najran. These attacks have result",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/bDYX2Ad_gcChbM6KyyRJ1wWjj6RJiApz6sIj5g9IfJ8AgpP8YTB9eBE8a0_BsS3Yi9Jr5cfFgIqVXgoQk35u1b5VEiaSIDJwYoQ-jnqGPlR4K6UYgsosYiSb2P9jXuwG8eZZLZcoIVM2Bdxa6Ii9swzK7WZHoBqqlAo8P_vzdKcnOSqWWq-zWm043xcZ9JffmK7DgUQiIz-3JlDuWk_CbGVN8fMWQo7ylz5vp37jHlTMNLxeSaGwxyPmUuEh_3JqXPJmGTYncikpN_6TUqmuye2XTjp22KAEKxEv94Jr3TY7Lg4w850SK9y89V9ylVraZucoo0HXoX2Td_S_fmHkPw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489563591,
     "type": "drone",
     "status": "confirmed",
@@ -178265,6 +178302,70 @@
     "media": []
   },
   {
+    "id": 490272141,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Minab, Strait of Hormuz, Persian Gulf: expected aggression blockade committed diplomacy Iran",
+    "location": "Minab, Strait of Hormuz, Persian Gulf, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 US expected to end aggression, blockade if committed to diplomacy: Iran📌 New York, IRNA — Iran’s ambassador and chargé d’affaires to the United Nations says that if Washington is genuinely committed to a diplomatic solution, it must immediately and unconditionally end its aggression against Iran, lift the maritime blockade and other unlawful unilateral measures, and provide credible guarantees against renewed attacks.Gholamhossein Darzi also said insecurity surrounding the Strait of Hormuz i",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490277003,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Strait of Hormuz, Israel, Taba: Senior Irans steadfastness leaves strategic dead",
+    "location": "Strait of Hormuz, Israel, Taba",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Senior MP: Iran’s steadfastness leaves US in strategic dead end📌 Gorgan, IRNA — The chairman of the National Security and Foreign Policy Commission of Iran’s Parliament says Iran’s resistance across multiple fronts has driven the US into a strategic dead end, adding that should the enemy persist in its miscalculations, Iran’s response will be more regret-inducing than ever before.Ebrahim Azizi said on Friday that the disruption of the enemy’s calculations was due to the Iranian nation’s stea",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490150916,
     "type": "drone",
     "status": "confirmed",
@@ -178514,6 +178615,113 @@
         "url": "https://t.me/enemywatch/64602",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/D5eB2yuTU8t30K1ALQs2vno1sNXiB2Alr_4FD0qBcyMgwF8BEB4_3vPZWOkscV0ZBJNIg99BV5KR4qTvA5FfganeZ-fjgS6aCeyvBcY7JvfPIZwYywa3Zc8qKvFiDQDCsS_gnnSz7w-5POld9kF93WteDIhZb06Ur6P3a_aCKa8xxWAPLOJK7MA-qQ9XaJxYESVDrRE0A5RhpNXH1B12oj4Tws9fTzsRwCnK_5mwhHe2TwRWxXkhTRTMt0PrZTDNX47OOUngRMKya1l8w2K5VK3QUk8U8UWnM9Zx-WGDQiKUPb29cegpo-taC5ap95JimhY2nZR595-l5dTo3GT8vA"
+      }
+    ]
+  },
+  {
+    "id": 490257561,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Bandar Abbas, Aden, Strait of Hormuz: Hourly Updates November 1314 2026 Yemen",
+    "location": "Bandar Abbas, Aden, Strait of Hormuz, Yemen, Saudi Arabia, Iraq",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 13–14, 2026🇾🇪 Yemen• AnsarAllah forces reportedly continued their advance toward Yemen’s southern coast, capturing Jabal al-Misas and Al-Fassayah, followed by Huwayrib and Jabal Am Hisn. Fighting was subsequently reported around the mountainous areas of Sufaydah and Jabal Hamadin, with clashes also reportedly beginning near Jabal Kharaz and Khuraz Camp along the southern coast.• Saudi-aligned forces had become trapped in the Dhubab Pocket following an alleged ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490262420,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Lebanon, Yemen, Israel: Hourly Updates November 1314 2026 Yemen",
+    "location": "Lebanon, Yemen, Israel, Gaza Strip",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): November 13–14, 2026🇾🇪 Yemen• Two civilians were reportedly killed and four others wounded by Saudi artillery shelling near the Shada border district.• Saudi aircraft reportedly carried out two airstrikes on Al-Turbah, south of Taiz Governorate.🇱🇧 Lebanon• Israeli aircraft reportedly carried out airstrikes on November 13 between Khiam and Ibl al-Saqi and near Kafartabnit.• Israeli artillery shelling was reported in Wadi al-Saluqi, Wadi Zebqin, Wadi al-Hujair, Al-Mans",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490267280,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Iraq: reporting ongoing circus United States this",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "—— We are not reporting on the ongoing circus in the United States, but this appears to be a major false-flag operation already unfolding. It may begin with “just a technical issue” and then shift towards targeting the IRGC, (North Korea?), or (China?), depending on America’s convenience. Such an operation could be used as a pretext to launch attacks against Iran’s energy and critical technological infrastructure. Everyone must remain alert, scrutinise developments carefully and avoid accepting ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5f395c9cec.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/kfK4MmZkSc_MpeAE2Nz4CcvklrGWo-TrdyGesZWdLcvb9_cTRzS5I2dn1JzFyC6lmUSKnuFmXGZE0srgtRSwwPLxP9QYogp-GybQXTjpabheuCU0jWeAxHnu0mi5h-SxJAcgRvklZzLjZH4YMCJGDLBFNEu5-iFNUQFwr2hCM33j9JORbTf6htWcKCAt_sJaTr1Jnp0l7Fv6_bmLi0dV0NbtAj9Aa5ukM5b1EZY1i1qGbfMTuTUH5QKC1ayFtqI4u7TJSl9q0AaTor-lQqQRrOAD-Cxk1LKdGSdhTM173Zun5cmp87rmD471DWdynrsasxuNhnK9mZx9Ys-Bu4UfjA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64581",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/kfK4MmZkSc_MpeAE2Nz4CcvklrGWo-TrdyGesZWdLcvb9_cTRzS5I2dn1JzFyC6lmUSKnuFmXGZE0srgtRSwwPLxP9QYogp-GybQXTjpabheuCU0jWeAxHnu0mi5h-SxJAcgRvklZzLjZH4YMCJGDLBFNEu5-iFNUQFwr2hCM33j9JORbTf6htWcKCAt_sJaTr1Jnp0l7Fv6_bmLi0dV0NbtAj9Aa5ukM5b1EZY1i1qGbfMTuTUH5QKC1ayFtqI4u7TJSl9q0AaTor-lQqQRrOAD-Cxk1LKdGSdhTM173Zun5cmp87rmD471DWdynrsasxuNhnK9mZx9Ys-Bu4UfjA"
       }
     ]
   },

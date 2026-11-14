@@ -231738,6 +231738,26 @@
     "verified": false
   },
   {
+    "id": 1794637519749,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:Over the past 24 hours, Saudi warplanes have carried out 67 air raids and missile strikes targeting civilian areas across the governorates of Taiz, Lahij, Saada, Al-Jawf, and Marib....",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/bDYX2Ad_gcChbM6KyyRJ1wWjj6RJiApz6sIj5g9IfJ8AgpP8YTB9eBE8a0_BsS3Yi9Jr5cfFgIqVXgoQk35u1b5VEiaSIDJwYoQ-jnqGPlR4K6UYgsosYiSb2P9jXuwG8eZZLZcoIVM2Bdxa6Ii9swzK7WZHoBqqlAo8P_vzdKcnOSqWWq-zWm043xcZ9JffmK7DgUQiIz-3JlDuWk_CbGVN8fMWQo7ylz5vp37jHlTMNLxeSaGwxyPmUuEh_3JqXPJmGTYncikpN_6TUqmuye2XTjp22KAEKxEv94Jr3TY7Lg4w850SK9y89V9ylVraZucoo0HXoX2Td_S_fmHkPw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794032031781,
     "type": "drone",
     "location": "Khorramabad",
@@ -233910,6 +233930,36 @@
     "verified": false
   },
   {
+    "id": 1794637557618,
+    "type": "missile",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 US expected to end aggression, blockade if committed to diplomacy: Iran📌 New York, IRNA — Iran’s ambassador and chargé d’affaires to the United Nations says that if Washington is genuinely committed to a diplomatic solution, it must immediately and unconditionally end its aggression against Iran...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794637605523,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Senior MP: Iran’s steadfastness leaves US in strategic dead end📌 Gorgan, IRNA — The chairman of the National Security and Foreign Policy Commission of Iran’s Parliament says Iran’s resistance across multiple fronts has driven the US into a strategic dead end, adding that should the enemy persist...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794550928944,
     "type": "drone",
     "location": "Aden",
@@ -234028,6 +234078,51 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | Satellite imagery reportedly shows the American early-warning radar installation in Bahrain following the IRGC's announced strike and destruction. 🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794637529454,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-13",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Public Relations Office of the Iranian Army Navy:Early this morning, a rogue oil tanker that had ignored previous warnings and was sailing through the unsafe and prohibited area east of the Strait of Hormuz with its tracking and identification systems switched off, struck a naval mine, caught...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794637602836,
+    "type": "missile",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-11-13",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 13–14, 2026🇾🇪 Yemen• AnsarAllah forces reportedly continued their advance toward Yemen’s southern coast, capturing Jabal al-Misas and Al-Fassayah, followed by Huwayrib and Jabal Am Hisn. Fighting was subsequently reported around the mountainous areas of Sufaydah a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794637523205,
+    "type": "rocket",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-13",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): November 13–14, 2026🇾🇪 Yemen• Two civilians were reportedly killed and four others wounded by Saudi artillery shelling near the Shada border district.• Saudi aircraft reportedly carried out two airstrikes on Al-Turbah, south of Taiz Governorate.🇱🇧 Lebanon• Israeli aircra...",
     "media": [],
     "verified": false
   },
