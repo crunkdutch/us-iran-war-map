@@ -178827,6 +178827,75 @@
     ]
   },
   {
+    "id": 490296461,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Qeshm Island, Qeshm: Drone Intercepted Destroyed Over Qeshm IslandIslamic",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | MQ-1 Drone Intercepted and Destroyed Over Qeshm Island:Islamic Revolutionary Guard Corps Public Relations:A few minutes ago, at 14:30, the 17th American MQ-1 drone was intercepted and destroyed over Qeshm Island by the IRGC Aerospace Force’s new advanced air defence system.Another failure of enemy reconnaissance missions.An MQ-1-family reconnaissance-combat drone belonging to the aggressive US Army was intercepted and destroyed over Qeshm Island by the new advanced air defence system of t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/JFKyuxEuvqZvbdaow3Muq9ireTjE18M2tZzuYi9h1TRm7PkUPOykGqhpJD8PcxOIX4koGCgDO8QVXo0sEsBuWOwTc9bG5Ky4ioF-KfPxhv0IXVMEQ_EyG_P4i7_qXKMx8G7-CIcbRhqfgAUqhjTZ_K3cpF2hnjizY8YXTQ679o72UGCRiI99vKqNLn-GeuQLFLpUHuhLZIfT75stOmCrL9OCiyc3angpc77WZYBygNRfF-MJbWyuisZAZJ9ihp_IgjtJ8q2qi1i1j-hyq5xVhitI9Zqqm-KCn-uPWd6EOL_A9uhvM7TMHN6Puz5UnlJaElNfqGZcHHRodDuNOs-0tw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490301328,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Tehran, Strait of Hormuz: Another violating tanker catches fire east",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Another violating tanker catches fire east of Strait of Hormuz📌 Tehran, IRNA – The Iranian Navy reported on Saturday that another offending oil tanker caught fire earlier in the day, after striking a naval mine in a prohibited area east of the Strait of Hormuz.The public relations office of the Iranian Navy reiterated that the eastern Strait of Hormuz is fully under the control and surveillance of the force, warning that “any offending vessel that turns off its tracking systems to transit pr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
