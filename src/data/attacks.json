@@ -176068,6 +176068,102 @@
     ]
   },
   {
+    "id": 490306196,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Isfahan: Isfahan Explosions Heard Across City Controlled",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Isfahan: Explosions Heard Across the City Are Controlled Detonations to Dispose of Unexploded Ordnance from the Ramadan War:The Isfahan Army Public Relations Office announced that technical teams would conduct controlled detonations in southern Isfahan, as well as in the Baharestan and Sofeh areas, between 8:00 AM and 1:00 PM today. The Governor’s Office for Crisis Management clarified that the explosions are part of operations to destroy unexploded ordnance in the northern and southern p",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490311065,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Persian Gulf: Reaper drones hunted down over Persian",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Reaper drones hunted down over the Persian Gulf: From MQ-9 to MQ-Gone• Iran’s air defence systems have shot down so many advanced American MQ-9 Reaper drones that the IRGC spokesperson has sarcastically dubbed them “MQ-Gone.”• These drones have been among the US military’s principal tools for reconnaissance, surveillance and conducting operations in various regions.• According to published reports, Iranian armed forces’ air defence units have so far intercepted and destroyed approximately",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490315935,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Strait of Hormuz: Iran tanker catches fire east Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran: Oil tanker catches fire east of the Strait of Hormuz after striking a naval mine, army saysThe Iranian Army stated that an oil tanker caught fire after striking a naval mine east of the Strait of Hormuz. According to the Army, the vessel had entered a prohibited maritime zone despite repeated warnings and had switched off its navigation systems. The tanker came to a halt after the fire broke out. The Army warned that any vessels disregarding such warnings would face the same fate.🔻",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489724428,
     "type": "airstrike",
     "status": "confirmed",
@@ -178062,6 +178158,43 @@
     "media": []
   },
   {
+    "id": 490325678,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemen Armed Forces successfully targeted number",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Yemen Our Armed Forces successfully targeted a number of military build-ups belonging to the Saudi enemy, under the command of Saudi officer Badr Al-Harbi, in the Kharaz area of Lahij Governorate, with several ballistic missiles. The strikes were accurate and direct, thanks to Allah, leaving dozens killed and wounded and destroying a large number of military vehicles.http://t.me/army21ye",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/tAUpo--qiY0fVEN5wt9QGhOhtmV3FwECOfRtvaq1nvOQzP6jiGLq1wrKjrAEx8SU8liDKNiL-BljCnPkw9MPu7KwJArxI4HLUSbwtdVPA1Kce9kfLjqtrnnZMzPaFr4MwC4qfVsRfchCFOUF5FWKOGUxKJ_PXZqKZmjvrrB30sBNbD3n9woBulK4twZ02lXrPglXlDk8gViUUcpIASKh-qeM3wy_VSxjuJjlsKV7eL9Ywhqf4kFC8Nu6kr0ZQIJMhx8BKt_go32dKzqUZGYpumFNGTgTYIolzxMO5nMyjmEyEtEmNh5XkzXOPw4lyMBstINUFv3Hqa4IbfVdI8XsDg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490083303,
     "type": "drone",
     "status": "confirmed",
@@ -178891,6 +179024,38 @@
       "other": 0
     },
     "description": "🔻 Another violating tanker catches fire east of Strait of Hormuz📌 Tehran, IRNA – The Iranian Navy reported on Saturday that another offending oil tanker caught fire earlier in the day, after striking a naval mine in a prohibited area east of the Strait of Hormuz.The public relations office of the Iranian Navy reiterated that the eastern Strait of Hormuz is fully under the control and surveillance of the force, warning that “any offending vessel that turns off its tracking systems to transit pr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490320806,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Qeshm Island, Qeshm: IRGC downs 17th drone over Qeshm",
+    "location": "Tehran, Qeshm Island, Qeshm, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 IRGC downs 17th US MQ-1 drone over Qeshm Island📌 Tehran, IRNA – The Islamic Revolution Guard Corps (IRGC) says it has shot down a US MQ-1 drone over Qeshm Island in the Persian Gulf, marking the 17th such drone it has downed.In a statement on Saturday, the IRGC said the reconnaissance and combat drone, belonging to the US military’s MQ-1 family, was intercepted and destroyed by a newly developed advanced air defense system operated by the IRGC Aerospace Force.​The statement described the inc",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

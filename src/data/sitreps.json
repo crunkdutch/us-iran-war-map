@@ -232160,6 +232160,41 @@
     "verified": false
   },
   {
+    "id": 1794666465441,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen’s AnsarAllah has launched multiple operations against Riyadh in Saudi Arabia.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794666394886,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:In the framework of responding to the brutal Saudi aggression against our country and in response to its savage crimes, the latest of which was its hideous crime against vendors and...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/YZBzyFIqd9sXSybDCSnU_biwLRiUmxcbQ4eH_5HfxZETgnUtRs6Gmfio4zTKDTlHmrRSdpXzR8iYj3uM4aXdi47h0RlXJBcVyg76AZQl_jWFgIOolfXFMhEUh4grheTINVxXgZj4csgk9EaZfeBEqtLig11Erf0J5VV6v0c8BfUeaCERzDjxU5Z8vqW5MJ0xZAjun-b7cKVZr8UbbBPtBKr4NaIjQZN4MqwsWMHfRnYb_lT4xQS9WdoaTwxCg7gfBaUKjM-TGPBW3wxXGQfy76vVL5mJbSplWvO1meYzekF9aGrbeX-IF3JxogoXjcnhr6k8LofprapZT19U3V0m7Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794133172450,
     "type": "airstrike",
     "location": "Tehran",
@@ -233771,6 +233806,21 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "Statement issued by Hezbollah regarding the “Israeli” enemy’s targeting of Nasser Hospital in the Gaza Strip:Hezbollah strongly condemns the terrorist and barbaric aggression carried out by the Zionist enemy through targeting the surgical building at the Nasser Medical Complex in the city of Khan Yo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794666392329,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-11",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Our Armed Forces successfully targeted a number of military build-ups belonging to the Saudi enemy, under the command of Saudi officer Badr Al-Harbi, in the Kharaz area of Lahij Governorate, with several ballistic missiles. The strikes were accurate and direct, thanks to Allah, leaving dozens...",
     "media": [],
     "verified": false
   },
