@@ -178563,6 +178563,38 @@
     "media": []
   },
   {
+    "id": 490345176,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Isfahan, Israel: Enemy_MediaNuclear affairs expert former Mossad agent",
+    "location": "Isfahan, Israel",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaNuclear affairs expert and former Mossad agent Avner Vilian, commenting on the International Atomic Energy Agency’s report on the site in Isfahan:“If there is indeed a uranium enrichment site, and perhaps fissile material was also stored there (possibly some of the material enriched to 60%), then the assumption that the Iranians did not know how to dig and reach the material over the past year and a half seems even more dangerous to me.It is a large site containing numerous buildings",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490150916,
     "type": "drone",
     "status": "confirmed",

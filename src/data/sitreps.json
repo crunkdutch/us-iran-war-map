@@ -234156,6 +234156,21 @@
     "verified": false
   },
   {
+    "id": 1794688079022,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-12",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio: Netanyahu hints at his desire and efforts to push for another round of war against Iran: “We must do everything necessary to continue preventing Iran from acquiring a nuclear weapon. We must remove this existential threat hanging over our heads, once and for a...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794550928944,
     "type": "drone",
     "location": "Aden",
@@ -234521,6 +234536,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Ayatollah Khamenei’s martyrdom strengthened national unity: VP Aref📌 Tehran, IRNA – First Vice President Mohammad-Reza Aref says the martyrdom of the Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, has strengthened national unity and resolve to continue his path.On Saturday, spe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794688118214,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-14",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 General Mohebbi: Rdiculous claim of attack on cooling systems is a Zionist scenario📌 Tehran, IRNA – The spokesperson for the Islamic Revolution Guards Corps (IRGC), Brigadier General Hossein Mohebbi, in a message, emphasized that the ridiculous claim of an attack on cooling systems is a scenario...",
     "media": [],
     "verified": false
   },
