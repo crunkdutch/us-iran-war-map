@@ -174980,6 +174980,70 @@
     ]
   },
   {
+    "id": 490335425,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Israel: Enemy_MediaYedioth Ahronoth Hebrew newspaperHezbollah taking...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaYedioth Ahronoth Hebrew newspaper:Hezbollah is taking advantage of this period to rebuild its capabilities, enhance the efficiency of its operatives, and gather intelligence on the “Israeli” army. It is worth noting that the “Israeli” army does not disclose information about the drones it intercepts along the northern border, but at least some of them are Hezbollah reconnaissance and surveillance drones.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490340300,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Lebanon, Israel: Statement Member Foreign Affairs Committee Lebanese",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement by Member of the Foreign Affairs Committee of the Lebanese Parliament, MP Ali Ammar, Regarding the Statement Issued by the Five Embassies:The statement issued by the embassies of the United States, Britain, Australia, Canada, and Japan represents the height of vulgarity and insolence, as it entails a blatant act of interference in the most sensitive details of Lebanon’s internal affairs, showing no regard whatsoever for Lebanon’s sovereignty, the independence of its judiciary, diplomat",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489549455,
     "type": "airstrike",
     "status": "confirmed",
@@ -179059,6 +179123,63 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 490330551,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Lebanon, Jordan: Muslimmajority countries condemn Israeli attack Gazas",
+    "location": "Tehran, Lebanon, Jordan, Kuwait, Qatar, UAE, Oman, Saudi Arabia, Israel, Gaza Strip, Egypt, Turkey",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Egypt",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 18 Muslim-majority countries condemn Israeli attack on Gaza’s Nasser hospital📌 Tehran, IRNA - Foreign ministers from 18 Arab and Islamic nations strongly condemned the Israeli deadly airstrike on Nasser Medical Complex in Gaza, which led to casualties among patients and medical staff.A joint statement issued by the foreign ministers noted that continued Israeli attacks on Palestinian civilians—including the targeting of tents and shelters for displaced persons—undermine ceasefire agreements ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/gLRnYVso9E-yyalmTXKqOxlNjavlcKY4fxaISYquvE-svrGDfVsk3fmT4ia8A5Nv1EWi4YAWi9-AvnWDScqVmfWOk3AhZBD7WdoUBROKlkgASwM41QHr3bLB7PPVuMQz58BFkcGPhBTGn2cqRZUnRn_xhvCG1S6vBtgHLp6-GUQpDfbEbJ0PMSwH5Ta8LDJa97m24MPOK1RM3PebmMPrahtGH4bE0QAZDHEmDXxBBfAnAxP0ROELvCBw31dPnlegh6dsyrrjzZLjTBieSKDlnRMli7pfbSKcc2rfyLScfTMkXPPWrVINZ13MJ2Kme8jBtbHsRW6RqGVBB6Vc60br_Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ZTj-qVqsANWJ-egg43byLxkqGWaUtUZ9RtsewEHb6vuyNA9lztk8lTKSG6ZPsO10sYe6MMbu-RyXK2-qkMGfSWJrTjwwxs-zuXn1t1s64Coc_EDT4UQgeE6a_TDzlFzF8yQgxstsF8_3en9FMDynsnMyau56cCF9b-IYbeTqzgxy826mCSlSKTSg2M6aFsNFCn5t1EtR28NTSQiU-0t3JN1siyoLqvury9w4OO3_0X0Igz6OlRthiDJPSFcEs37sRykpTs1_NKTxRYUwLbvxLgU6zB_RonBQqcxWd47HmsWL-P0WXodQSdrCI2mwoQkCS8quJtEPbUCByjBRR9q_Yg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cND_tf3flGpdq29IZJbEp5Xi2YN_xHhktAGic-Xms00knj1kG06-ya4rtroq460rKFJ6Tqk-U_Kix6C0iCL78_PqB6ND8tyCmMBTsohrBMwI_vdgrKaMBfuj-eKOd7oRFNDVo9UfEfFAik9C5AAFt-3xNJNZi5Y3Qc7TEOQJFePBacvZElgnR2jzDxCDMJI-934By8sUtx9fEjUDF6cJsgfP4sAD6uw_tAtB_3hSEQGfh3Kb91xgM6-voMT6903KAWBejmiXmKXcPQVM5UUHR-H3L2v-W-Xq9WcSiY5tXDnsF01xFTQbcmQaCZBhMRKoalzQ_IGvaN2ZBtONz3HZgQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/IC5Xs8uPDbLXuzHd1IIXijm7_bzA2g-uWZvBu2j_ynkM4iboQ5UcQ5_y2aFd5_AlNiNIWHABoRkU9ps1KKEI7Z3pVoVOu8h6F5g83INSgg0mvge52qOQY3JYK9Wy438NXDYyxdidj_SW1DjnW1mFRZ_-l7yVtNw3d7FWKj8ns69tvU0tv8fBEIXJzXwr5quAsajybhhjLWrm9ed7ydrfph70OdoeXIYtpoOyHfIJMlLN9DE_oKyM51bjy5e-duVT9XwKimoFVqNU1tzXuPdAOeRpKVM8o000AYkD7uoU2uLgHcljwI_piG4biI2GXRzf_csP-UypRf7OLhZZft2HpQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NE0e7DufAUHgzQ_nassDY3GS0zLs7-BboKyupx9ZpkZ8T-EFn94b_qzfX6FrmnkK1wmREnWxOhcB4evIBcy3UIYma5wypFlYOw3BLOb9ww-8-wdPJww_P_fm2_bwAefEJiRAJz7VIVewwuTQ12W43rBBmM1HZJMZsqe96wbbXaQn4GNLNOZDS-mlZs5RUaAEQV8nVJ4zBqdDg45OFeIbrfcMLBrHuiU8yKG8mD9aEHWLVwf4Et4VqtYBbtDA6cFtUP4m4SIt4QYM0BqOTiGJiOQGa9mT8JNn4wNTcLnsiizI931iwwNtn3JteqNf79PBs5ofk8gxT6KYdExIoZ8GQA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/OMQZRPjG8P9JyP9uSGjzIKaQZstjrKtpSg6pvznUnfs2XVpRFEP8icq1rUkWBL8DnmZkkTP_jvCpucbidBpxlmiAD-A6W1G3115NB9tESTHmMVZRjCDTANieWtPLH7XqtHua-cxBJfu069H2nMeriJ8vmyqvZ89H_rrSE5bSeyPI-LVg2-SXCaZoIAZiX7TpRYzg_uQH15OqEkq9sJNwnoVpBIRm3MAPrbgtaabOXmdkKacJLShOa32Rj5gyy3QQI2QuWmYWG9OLGhrdspV1BxhdNV3elHAudvRybw7Byl-bwI_M00JENmc3qK0c_v7NWOpd8c6gZVsiI-HqDamMcQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,

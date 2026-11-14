@@ -231598,6 +231598,81 @@
     "verified": false
   },
   {
+    "id": 1794673624776,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-05",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "The Yemeni Armed Forces affirm that the Saudi enemy’s claim of intercepting a missile in the skies over Madinah is yet another continuation of its great and grave fabrications against our dear Muslim people and their armed forces.Our operations target only its oil facilities and military bases.Yemen...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794673706237,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-05",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicIslamic Revolutionary Guard Corps: Moments ago, the sixth American MQM-170 reconnaissance drone was shot down over Qeshm Island as a result of the advanced electronic warfare systems operated by the Aerospace Force of the Islamic Revolutionary Guard Corps.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794673682366,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-05",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media“Israeli” enemy entity President Isaac Herzog: I will announce the one tasked with forming the government next Sunday.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794673693226,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen High-quality footage from the extensive operations to expel the Saudi enemy forces, led by Saudi officer Badr Al-Harbi, from several positions in the strategic Kahboub Mountain Range, east of Bab Al-Mandab Strait – 6 November 2026#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794673619323,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-05",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source told Yemeni media:– The Armed Forces carried out an offensive operation along two axes in the Kahboub Mountain Range.– Our forces took the enemy by surprise inside its fortified positions and engaged it at point-blank range.– Our forces stormed the enemy’s fortified positions...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793995899951,
     "type": "airstrike",
     "location": "Bahrain",
@@ -234417,6 +234492,36 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794673631463,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-14",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 18 Muslim-majority countries condemn Israeli attack on Gaza’s Nasser hospital📌 Tehran, IRNA - Foreign ministers from 18 Arab and Islamic nations strongly condemned the Israeli deadly airstrike on Nasser Medical Complex in Gaza, which led to casualties among patients and medical staff.A joint sta...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794673705563,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-14",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Ayatollah Khamenei’s martyrdom strengthened national unity: VP Aref📌 Tehran, IRNA – First Vice President Mohammad-Reza Aref says the martyrdom of the Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, has strengthened national unity and resolve to continue his path.On Saturday, spe...",
+    "media": [],
     "verified": false
   },
   {
