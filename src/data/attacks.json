@@ -176260,6 +176260,43 @@
     "media": []
   },
   {
+    "id": 490408655,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:Over the past 24 hours, the Saudi warplanes carried out 105 airstrikes and missile attacks targeting civilian areas in Sana’a and the governorates of Al-Jawf, Taiz, Amran, Hajjah, Saada, Marib, and Lahij. These attacks were conducted using F-15 and Typhoon fighter jets launched from the Khamis Mushait and Taif air bases, as well as missile strikes originating from Najran and Jiz",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/KPTg_n6WHdxjcBAQ7r_KUtegInKzkV0wcXqhVgmqZ6qEwAX0fr3nSSFx0BoN8qQ6KZtxOS2OzhbXLMXZPz7pFvjqReqclbuZH85CHsdDk9_hyXtDs3NgrNibFIGsK646By327QBzwpstM4FhGo2eOh14U1VA6BXcrIgii0xQK_a8Te6w2PbmyWIFSILGrhqfdRrnIssd2yp-SO90Dd-kUBDti3fhE1LpBkR-s29zl1krO31cVtmNnhNESfKMpsLzJrC-xXScE-8ru6izhno44Wbf2k7GVtxSFqGvrJfoGkhwRJH8M4DR1c1O9B3hK4aBYRUp9y_lrs73DcUsOvszcw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489724428,
     "type": "airstrike",
     "status": "confirmed",
@@ -179519,7 +179556,18 @@
     "description": "🇮🇷 ❌ 🇧🇭 🇺🇸 | In it's response: Iran launched missiles and drones towards American military infrastructure in Bahrain in response to the latest American aggression. The IRGC Aerospace Force deployed six drones against the radar system of an American air-defence…",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ba1ccbbc6b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sH0f2q-JmwNi0tUL_yn2cuome6tBfouOUHM6CmfK0dQCir3FE6vMWBj9JZZxLakSK1Xc1Cs662W48KKKlovoOpEWjJAlp5z1V0No8FOdu9ofXMOgl7FGtW2usesD4rkaHso6Q7vEib1C8DeMkmIWQAFSRL0qk-oZUW9cp6bQX2diGk2xKj1-B2ijnZ-Xn-EK6OzVAWEypf3rB1-811C629IqUMn6bTGGrIYEqHh_k8h5GWs3M8mV21LzvqEdoflYWoDmxbPyuKUNQUDPlbUw4ZrgWEdiAKqemGtekhbX1foX2yxB0tS0Vso3YooRNaT7cm2JLjLrgLOHbX-sZboWFg"
+      },
+      {
+        "url": "https://t.me/enemywatch/64639",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sH0f2q-JmwNi0tUL_yn2cuome6tBfouOUHM6CmfK0dQCir3FE6vMWBj9JZZxLakSK1Xc1Cs662W48KKKlovoOpEWjJAlp5z1V0No8FOdu9ofXMOgl7FGtW2usesD4rkaHso6Q7vEib1C8DeMkmIWQAFSRL0qk-oZUW9cp6bQX2diGk2xKj1-B2ijnZ-Xn-EK6OzVAWEypf3rB1-811C629IqUMn6bTGGrIYEqHh_k8h5GWs3M8mV21LzvqEdoflYWoDmxbPyuKUNQUDPlbUw4ZrgWEdiAKqemGtekhbX1foX2yxB0tS0Vso3YooRNaT7cm2JLjLrgLOHbX-sZboWFg"
+      }
+    ]
   },
   {
     "id": 490393991,
@@ -179615,7 +179663,48 @@
     "description": "💬 US actions have undermined trust in diplomacy: Foreign Ministry spokesperson📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Washington had undermined the credibility of diplomacy by using negotiations as cover for surprise attacks twice in less than nine months, urging countries to view US claims about diplomatic engagement with caution.Addressing reporters in a weekly press conference in Tehran on Sunday, Baqaei said the United States had stripped diplomacy and negotiatio",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/FNnR3KeYAGuAG0Ba8NQgDNq-FV3_r8qPEpO-2bEiPAwxQj4vUizRc_gmag6svN84Z-hT161v7Trv3yg0plxSyNTJOv0Y4vK6HKPa_KZtMgoT4zFLaZR9DkVkgVemFBYwcIcRWCvIsFPWusJOFcDy1by4FROEqJXcHnzCQC90SSvZ6vngS3why2miBkXZIdi7xjBgdcgrBcNwJxAbDeCBclzY7dS-U_mCwQn51tJbxI3b589Kn6Ne_nRhitty-JYLfBCJX6KLiWrB3xDcqwyZwpOFV-KFCWl2NvBZyIV05tmNMNXbRMcdyN1Vtgn22LsON7fQTNfXa7Zh6oB2OmDp1w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/LaPvPxEkrc67eN8fIeL8EEtU95LhmDmqKgq2Y36vPHHOECz_F-kDUAPqlocUiLqnLdsg-QEEyArM1KsyAFN3mMHjrN0_KY66Id6M3HHWAOdcSXunDj0mR3yZL6BoiGRlpUhqikY1ERz4s8ACsWUthVm13MlyWS9kwgncDsuVPORqo5PlNc9nGlrmrwU7JHOe7Xl-Z8hlPrUJd-VNhh1wZxPJzb7Q_kCa5cfvNzHEdGPaPfet_abuvyP8QOI-MClDsn36AxbtIxwiC7Ncgn5V58OGSEu5gkC1Cwi9pxsx2pF43pV7UwkKDiYEI7d_M_gb6g-1xa9zaqoairGhaBfWJQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/slHqX-2IFRjbDbetKxxNwMpoXgYEkNCni0srYr9jTpRNmUb7V2KepMyMRpkJ7tCa_UBLBJXMJ_o25do7ETjIicQY_jk4qqBVJ0el-1vH4pGqCvzt4P1CGCpnAHJvOe23EX25wwRZHVxosEH6kqXe0F5JdwKxxDtUCtOrzgRBsgqJMU9XidNIDBEkB1eBLHjPG2Ehdas594zYtklfA-J6eizCgfo0Xp7h1NacFAv8kghe9560VmUkNsXdiYuWv9_7HuxCa0gyYRfp7T9FPZG9d1bky9SGUYlr26MSFGYwsjGw5PgiRQxG6V2DzST97lPmG6gEXJY6xgQ7fVk2RuTE6g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ouYPvemJAxpPK8Re0d9xg1SldqtKz1_86SY1Nr2Thu2n6r5F7qC8Vrr_1Z3Fy-W__leCZluiSAdUSLZ9EzmEy2Mr-xC---EhiJzf3VOKxAHS8HQghzXwB04jImioxTn8J_shECXuIWrpIwcAKXHO3Mvy94us6i2TijCm7PX_TjkhwlLCeP6Ip1WTryE01LjSJh0jHewdn29f3QTQr82yRlfFPxi_h5FZqRvfHsxVHL6qp_xzICK1Zo97c1dKAqlQR2KBzPFCFG7Af9HIAOAmFDjoPQnFfF6eh7mgGbtgfdxlPM9QzAoEtdgUlUTceLOsAx2Xq1YxFV-4EdA9QUYuAg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/DY-yzn9n4sA1IhhfQvhtqrneLu7NdLqY9x3eeKttm4TR3jRPtCYWEWIQstYlezcSdrLmdevgke7ufmL7nBRaG47PNwOWUuHUvYKmUieSubqAKbp8o7MqQYoqOZ-lZvbzCLOQT9dyDfeDsp1cvvkHbJlF0Xy9wZEPE8Blp8iOWfRYAxCbLXBTEh82yOKGquq9ITAAehSuAA2qJmVwtBtBnWVKolx1L70sE5lnZbJPUP66xYfB5VWtpiKHMJ-gyDPoDjcrfjrMFyrSDnzDTcRNrvDki3WyUSAUdiK6m8UsNcFrcJAmyIqWU0z3bByWl6IGEKm8KEdFZ0zDlFStePQ1XQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NotBZjl94kxlz50ZK9LAsNfoa6evJ0e6YPeQ9F1kOWgyqnEg5Ej0fg5o8pknMrxa8D5i9O0O9jZzR9K9lyWhOTbGPmfW8mE6GCMVl3kuRVhDxPSixqy4wbhXiZtnehNK-Pr_JjlsYcxgR0oP0WOYAfu1Nf_A8TNb3Ej9MM1528Hi4yQcTi_e_KI7pmU9M0Cha97yaYcRfFBManm0XZ2uCN5KwP-HEjPgTZWulJPEqFeKuuB_EOUo-8AimkUsVhcyRxowIUKNfounGOT5ZZ1OOcvxNvph_tn40gh4nymfCDPNfXVAZAtce3k4cvcbU1rc6IerM1SKacMaOCU7bNsslQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Ptxi-34iD6Oqi7ZSGU_dlFdvFqMBvZ-KKjlSPVWmf87sdu8scBZx2Pkiu75n7CkLMPr15wirltm_IDdjxgdco6HGQzox1wBvQWv3VdvR0vG8wPIsYKkeb_vpEMvXfZXwGA7EWqygrzoYQtG-QOaganh86wgfUfN7LEBCXWp9O9nINhw4F7JZpOGx80CWG9g52v_kT7mNatYY50cB7FcvCq11wGLr7dpREMpCRcxmGRURNX9M6DFKMz_rFU7CWC18SHNy1GgNwl6iTkw-XFp7-6SxKiObBX6kRFnnluKB3RQPz4hRuiaX27gKkLkDC9MIS57eaURhW1MHzfuW8piBjA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/or17MZgEC0TPLX90wOWobuG9yo6PIEr4X9W1St4fA7FhW8LezQuDTLhM2WWW5DJZWcTQ66wXIHwq7R_17JhejHLutdsjaXPUP0w2JCFkXwv--CHcbsNRX65w-8ICcenOpVdua1hTd_HvByy1cFRLA55mnW67sJh-kPzDnUjVLqfQ319TKYoGissbCPcaly1aeTj18Fjbw0zvXgnQbLRICtXrvnt5FLGUHKJJmeM5rMersANmm38RQfCGjYoo7Wx6fEQU6XMXkL6MfuwHre19e4be0Edm1Zdc8GUOqe_YKe96hOJ2uLoPjy2rJZ14QUWSV1GOiuSO_KorwSHR9C1YFQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/ZwOw25zyjXxnEwEGNnWuKyOOEyuldOpDwopX_4TgCPoRHtT9mgFsKCM6ah6ZueQUR8IbUC7P9jREIhHpZOVGtS5mRz5aPA-ZNaO363tQU2Vlu3qeakap4J_z4CwNb791OKGYL655H9Rb3w8yjA0mJELglaxS_-4Y7sUfASnLt_CcAiksCZV4Gpp1ud3QOf8HvmJ_JZ1AlXzXw_hQbls4VXTHgljvw1f5WVEBAsJ6PwxPTwEidoBPIqj_UYOdZhaHaliWvhn6JY9-MpKjjPvhe5l2JHz9U6tZqcxV6tSVz_eYxQOKLcWw1bW6PPqfoByxD-9LArx2qKfdqyqdsN9Uqw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WK05Rgv6iPlP_j3_stIGRChLYj5F-795idd4Yrf2rqwfH9fxsJrQMNfTq-_TKfV-95VLqhr8CKE9-tHdbe3exlgHxaNQHo-RnkdUkc6NrAHRSk1gqcmfh5ltsqOAELHC2KG-OxVNv7tXUTGuC9i-YiALQYo0GLLwVzmtr4uRHizRQ7kM7wOCcHgLDtzsO1V_bCH88KDgcF3mdIXE-UAdTIttPanGds8FlPUmd4tHSPmcbMMnMGsc1yirxFtavIVOlNFyuHCnexGULNg67CxUrjuMVVKhIjHmKNY3LMcf9JSljqQ4Uxk6upapWdMg6caKk19Fx-XKj0E-qzRojccljg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,
