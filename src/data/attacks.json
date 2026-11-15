@@ -179925,6 +179925,166 @@
     ]
   },
   {
+    "id": 490442906,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Aden, Bab al-Mandab, Yemen: Hourly Updates November 2026 YemenSaudibacked forces",
+    "location": "Aden, Bab al-Mandab, Yemen, Iraq",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates: November 15, 2026🇾🇪 YemenSaudi-backed forces suffered a major retreat across Lahij Governorate following weeks of clashes with AnsarAllah forces. A senior Yemeni military source told Al Mayadeen that tens of thousands of personnel from the Al-Amaliqa (Giants Brigades) and Dira’ al-Watan forces had withdrawn from extensive areas of Ras al-Arah and Al-Mudhariba. The Saudi-backed mobilisations, led by Saudi officer Bader Al-Harbi, reportedly retreated towards Aden, with hundred",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490447803,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Iran reportedly launched number antiship missiles",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran has reportedly launched a number of anti-ship missiles towards the Strait of Hormuz. The intended targets remain unknown, and the explosions being heard in the area may be related to these launches. Do not circulate unconfirmed reports of aggression or attribute the explosions to an attack without an official announcement from the armed forces. Stay alert, rely on verified information, and avoid spreading misinformation.🔻@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490452701,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Qeshm Island, Qeshm, Sirik: Explosions have reportedly been heard areas",
+    "location": "Qeshm Island, Qeshm, Sirik",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Explosions have reportedly been heard in the areas around Bandar Lengeh, Sirik and Qeshm Island. However, it has not been confirmed whether these explosions were caused by missile launches or an act of aggression. The cause remains unclear, and no conclusions should be drawn until an official announcement is issued.🔹@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490457600,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Breaking IRGC targeted violating tanker Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490462500,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Interception — Tehran: Wreckage advanced Orbiter drone found western",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Wreckage of advanced Orbiter 4 drone found in western Iran: Army📌 Tehran, IRNA - The wreckage of an advanced Orbiter 4 surveillance drone has been discovered in the western Iranian highlands, the Iranian Army said Sunday evening.In a statement on Sunday evening, the Army said the aircraft had been hit and destroyed by air defense forces, possibly during the recent 40-day war.​The statement did not specify the exact date or location of the shootdown, saying only that the wreckage was found in",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
