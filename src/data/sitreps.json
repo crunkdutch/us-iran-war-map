@@ -234504,6 +234504,36 @@
     "verified": false
   },
   {
+    "id": 1794760274014,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-13",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Initial footage showing the routing of the Saudi enemy’s military build-ups, led by Saudi officer Badr Al-Harbi, from Al-Mudharaba and Al-Arah Districts in Lahij Governorate – 15 November 2026.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794760318236,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-13",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media outlets:– The Yemeni Armed Forces are carrying out their largest flanking operation from the outskirts of the Al-Wazi'iyah Mountains and Kahboub towards Khor Umaira in Lahij Governorate.– The flanking operation extends over more than 60 kilometers through the ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794659261978,
     "type": "airstrike",
     "location": "Tehran",
