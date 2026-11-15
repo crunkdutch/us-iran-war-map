@@ -235259,6 +235259,27 @@
     "verified": false
   },
   {
+    "id": 1794781985614,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Video shows a AnsarAllah correspondent touring of sites where Saudi-backed forces were expelled on the outskirts of Dhabbah and around Bab al-Mandab.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64662",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cVwaAqc8tw3Ln8-dVcg-_VOZXlDOwzc2CrzfVMNnqKKDRP1oZMDj_rQ3CvF2dL7-pmfqrhDB9w19o02VbqBVrVqrB1YTtpxfUHyhUE3TAO7kjq_TL6bfDjHlBPGXEL6fmEYcbItr0Fv25Jz2ArNi9KjXRgl0E9dnj6_5u__U4G_ccPoMtP6MXnjo4yj3TdtvjDOylZNQkR3e5-xdBK8S-WsM7AgpifaufchrRB9MJ5DuV3ReuH4jm2VuPJ2K_m7yYYEAFXIR6JSMuqumDwycgPR49D1z15IZeKObYiGmR3U7BdzqoBH68gtJFIs4ygTaR-geBkaLXanFBK5bHiF9Zg"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
