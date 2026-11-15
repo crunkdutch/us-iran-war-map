@@ -179088,6 +179088,43 @@
     ]
   },
   {
+    "id": 490354931,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gaza Strip: Anadolu Agency reported that since October",
+    "location": "Gaza Strip",
+    "coordinates": [
+      31.4,
+      34.4
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Anadolu Agency reported that since October 2023, the Zionist regime's attacks on medical centers and health services in the Gaza Strip have resulted in the martyrdom of 1,725 healthcare workers and have caused severe destruction to the region's medical infrastructure.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/HGLPeqteDS0u-mINVz4dIrsAnh6TBUutU3qB-kDOyjJQvjmEYO3ExXjFdH_DDyoIDmfjlehgGCBIwTsjOfVSvNfBHSbhaPZe8FqZWrQ9ttvFdrPT9RX9TYjTR0KNas5zNge1qFasunP7W37X4JEWODikt208ya0xoq9HaGX2D_ks-MPDr65PX9HqVdrRSuj7oI-2yEOIJrbUV553JT1e5phpx1ZpnpM0xLi1GuBezMxswtroborDD76xXt16zwOgcQVydAjQ9t_dauLLMXTWG_-q0VgJDgYOqBi2V_q68Mm-FMEn1o2YN4krLrme4VPlR496HeK8-_nDk4JLDr6v9w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490296461,
     "type": "intercept",
     "status": "confirmed",
