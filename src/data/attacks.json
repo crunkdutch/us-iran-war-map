@@ -176228,6 +176228,38 @@
     "media": []
   },
   {
+    "id": 490359810,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Qeshm Island, Qeshm: past hours aggression targeted Qeshm Island",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️/ 🇮🇷 | In the past few hours, US aggression targeted Qeshm Island in two bombing strikes, reportedly prompting an Iranian retaliatory response involving surface-to-air missile launches towards an aerial target. An Iranian source confirmed that the coastal area of Souza on Qeshm Island had come under attack. Missile launches were reportedly observed from the port shortly before the strikes. ▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489724428,
     "type": "airstrike",
     "status": "confirmed",
@@ -179281,6 +179313,181 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 490364690,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm: past hours American forces carried repeated",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ ❌ 🇮🇷 | In the past hours, American forces carried out repeated and intense airstrikes against Iran. The strikes triggered powerful explosions and thick plumes of smoke at the targeted sites in Bandar-e Kangan and Qeshm. No casualties have been reported.▪️@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/TEFrxyar9ufskyRNTIw0mZVmd-DKdc9_2BQh9o-b84VkMuTmjb6DaQv6btYIGDRLknkTqGHNF7dhbfHSR8044zQRXABOPFb_j0QIhhNQOBAQE3wDmEPnraEeN86XOhEIJN1Ae29hwOF7Bt2Y1QfrRX9FTkU9tbOIjSOBISicQYD2MMGJ_8NH_WZkH-Tg1KxiqY4PInZtiapXu6C32ISE9qFBHJrLB83e0F8Pp80MTO7VB1KtuqMfVOfCYpyoZ3vv1WgGQ2h_bx49G7f8kiFdFIvM5D9QjEqgcxqVk4DZhyX8Eluam_xPETshJnyOa3UVZfLboUfQJgld3BSz8FjAIA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490369571,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz, Bahrain: Public Relations Islamic Revolutionary Guards Corps",
+    "location": "Strait of Hormuz, Bahrain",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Public Relations of the Islamic Revolutionary Guards Corps: Dear noble Iranian people, ever-present on the frontlines: In the second phase of our decisive and overwhelming response to the blatant aggression by the U.S. military, the Aerospace Force of the Islamic Revolutionary Guards Corps targeted the radar system of a U.S. air defense site at Bahrain’s Al-Riffa helicopter base using six drones. - The precise and successful strikes by these drones echoed across various regions of Bahrain",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/I-AMZ3tqUomKrIW92W0St2s_EuVQXyD8w07iWowO75HRiiDqNRhfguyQxYfcTV8Rdgc0RodSrBj0s-PZ9pESGzsiWdGvpItwN_a7SRtL6puh_YOAp6Ak3sweUeZueew6-dUkfzO-gWwZ692Y8fYOMwaLKHxyIyPoPZHWyEPIeGuJWFM-9Pw7NQUOXL_eOCxIjArNBxhBKb1N_DQTrobEQYFMTYF4vWIxN8IbfJxEjFlf13IW_Xrt7ysFd3gkOQu9soOr9JZItDy1ehkzxs-cZiHp9qPVEhyHXuszwh6ztleh7sabrWZT25VxqLM9fETADlz4AK2T3yyIb-J8qP3mug.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490374453,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz, Persian Gulf: Tankers Explode Catch Fire South Strait",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Two Oil Tankers Explode and Catch Fire South of the Strait of Hormuz:Islamic Revolutionary Guard Corps Navy Public Relations:Hours ago, two offending oil tankers attempting to secretly transit an unauthorised route through the Strait of Hormuz, with their navigation and Automatic Identification System (AIS) switched off, struck naval mines, exploded and caught fire.Following the incident, two other oil tankers that had also intended to pass through the strait secretly heeded the warnings ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/uKq_hwtqDLlWMYNAMuhhQ-d_h_an0iKapYNqHuLR-itFK-45Q99BdHMe0N-Znz79svzyUlfwDJTOuW4qeUERhU_x8pTqunkYFv1imlVKMfskdzmPPrzQrz-93mkRp4Kntg8ZwTnkRGx2jzP3nnMTwS_Tt4_Sru_RoU3g71KsvCX24VxcrP0uyJ_U-shmk4R89ToBAW_CoNPgUwi9mDwG7wwm4DhmD0RnxPq-YhajHhtRildG_E3bej4zwIAg5R8mPt6aqK9oD-WO1emzKWlMlg1ZdxPoPRKXPxGiSuKqMyOENMgUZBAYXP8Az5o9vpo4xi3JUVoW1LvJv0tWO60izw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490379336,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Yemen, Oman: Saudi warplanes carried airstrikes targeting southern",
+    "location": "Sanaa, Yemen, Oman, Taba",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 ❌ 🇾🇪 | Saudi warplanes carried out two airstrikes targeting southern Saada city in northern Yemen. A woman was also wounded by sniper fire from Saudi-backed forces at Tabat al-Aqrudh in Al-Misrakh District, south of Taiz Governorate. Separately, Saudi aggression targeted a residential area in the Shu'ub district of Sanaa, injuring two women and two children.▪️@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490384220,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Damascus, Lebanon, Syria: Hourly Updates November 1415 2026 Lebanon",
+    "location": "Damascus, Lebanon, Syria, Israel, Qusayr",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates: November 14-15, 2026🇱🇧 Lebanon• Israeli artillery shelling targeted Khiam, Al-Khraibeh and Wadi Zibqin at dawn on November 14, alongside several other locations.• Further shelling was reported in Al-Qusayr, the outskirts of Al-Nafkha, between Mayfadoun and Zawtar Al-Sharqiyah, the outskirts of Baraashit, Al-Mansouri, Douhat Kafr Rumman and Hadatha. At approximately 2:30 AM, Wadi Al-Hujair was shelled as machine-gun fire swept from Al-Qantara towards the valley.• On November ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,

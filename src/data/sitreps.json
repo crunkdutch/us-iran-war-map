@@ -232270,6 +232270,21 @@
     "verified": false
   },
   {
+    "id": 1794724243384,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-07",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794133172450,
     "type": "airstrike",
     "location": "Tehran",
@@ -234621,6 +234636,56 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 General Mohebbi: Ridiculous claim of IRGC attack on cooling systems in France is a Zionist scenario📌 Tehran, IRNA – The spokesperson for the Islamic Revolution Guards Corps (IRGC), Brigadier General Hossein Mohebbi, in a message, emphasized that the ridiculous claim of an attack on cooling syste...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794724156783,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-14",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ ❌ 🇮🇷 | In the past hours, American forces carried out repeated and intense airstrikes against Iran. The strikes triggered powerful explosions and thick plumes of smoke at the targeted sites in Bandar-e Kangan and Qeshm. No casualties have been reported.▪️@enemywatch+",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/TEFrxyar9ufskyRNTIw0mZVmd-DKdc9_2BQh9o-b84VkMuTmjb6DaQv6btYIGDRLknkTqGHNF7dhbfHSR8044zQRXABOPFb_j0QIhhNQOBAQE3wDmEPnraEeN86XOhEIJN1Ae29hwOF7Bt2Y1QfrRX9FTkU9tbOIjSOBISicQYD2MMGJ_8NH_WZkH-Tg1KxiqY4PInZtiapXu6C32ISE9qFBHJrLB83e0F8Pp80MTO7VB1KtuqMfVOfCYpyoZ3vv1WgGQ2h_bx49G7f8kiFdFIvM5D9QjEqgcxqVk4DZhyX8Eluam_xPETshJnyOa3UVZfLboUfQJgld3BSz8FjAIA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794724195230,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 ❌ 🇾🇪 | Saudi warplanes carried out two airstrikes targeting southern Saada city in northern Yemen. A woman was also wounded by sniper fire from Saudi-backed forces at Tabat al-Aqrudh in Al-Misrakh District, south of Taiz Governorate. Separately, Saudi aggression targeted a residential area in...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794724233312,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-14",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Baqaei: US claims that Iran started war are ‘fabrication’ to evade responsibility for unlawful aggression📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has strongly reacted to US President Donald Trump’s claim that the ongoing war was started by Iran with its 1979 Islamic Revoluti...",
     "media": [],
     "verified": false
   },
