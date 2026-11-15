@@ -179490,6 +179490,134 @@
     "media": []
   },
   {
+    "id": 490389105,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Bahrain: response Iran launched missiles drones towards",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🇧🇭 🇺🇸 | In it's response: Iran launched missiles and drones towards American military infrastructure in Bahrain in response to the latest American aggression. The IRGC Aerospace Force deployed six drones against the radar system of an American air-defence…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490393991,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Israel, Gaza Strip: Hamas official urges action humanitarian crisis",
+    "location": "Tehran, Israel, Gaza Strip, Sharm el-Sheikh",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Hamas official urges action as humanitarian crisis worsens in Gaza📌 Tehran, IRNA – Khalil al-Hayya, head of Hamas’ Political Bureau, has urged Arab and Islamic countries to act to address the humanitarian crisis in the Gaza Strip, citing the blockade, shortages of food, and mounting hardship as winter approaches.In messages to the countries, al-Hayya said the situation was no longer simply an emergency aid crisis or a consequence of war. He described a complex emergency involving starvation ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490398878,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran, Persian Gulf: Ghalibaf Bessent Reflect your strategic failures",
+    "location": "Tehran, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Ghalibaf to Bessent: Reflect on your strategic failures instead of insulting nations📌 Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has criticized US Treasury Secretary Scott Bessent for his offensive remarks about Iran, saying Washington should reflect on its strategic failures in the Persian Gulf rather than insult other nations.Speaking at an open parliamentary session on Sunday, Ghalibaf said the US official’s remarks and inappropriate language reflected deep frustra",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490403766,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Persian Gulf, Iraq: actions have undermined trust diplomacy Foreign",
+    "location": "Tehran, Persian Gulf, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 US actions have undermined trust in diplomacy: Foreign Ministry spokesperson📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Washington had undermined the credibility of diplomacy by using negotiations as cover for surprise attacks twice in less than nine months, urging countries to view US claims about diplomatic engagement with caution.Addressing reporters in a weekly press conference in Tehran on Sunday, Baqaei said the United States had stripped diplomacy and negotiatio",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
