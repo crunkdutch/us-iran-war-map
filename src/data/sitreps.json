@@ -232305,6 +232305,26 @@
     "verified": false
   },
   {
+    "id": 1794745839835,
+    "type": "drone",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-07",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:In response to the brutal Saudi aggression against our country and people, and as part of our response to its horrific massacres, the latest of which were the massacres at Al-Hadhar...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/SHTiGnzdKIPJexgHC8F21zEHTj2irbJtImiT1cgy7qP185Wq1nQuhXOoyr1ayDF6k7xZbw3NUipaySXQzbL36ivt2W1rEXJNR3f18_r6uKAn9bONY2POoMiqe8Zfn_jYlBmjP0mJAHemvCnfqMfNdxVGoFiwsDWvNz-2d9oFrQj-mdCu9-C3Lp0BNB7CxS-KQCuV1Kcq2mXokaT3k82D5-hZDKmiUfyyt7NrCYw_nEIpJ7o4YTdmnhQqP0TyaC2GTj0NOdBRM_KP2IDorh0tNkhijPB4Ur9y-DZKuK2VjRLTv1jFCOWlFEGTHfn9NS0uuZZ1akNBc8oMqhGbqnuRVQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794133172450,
     "type": "airstrike",
     "location": "Tehran",
@@ -234954,6 +234974,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Iran condemns international human rights bodies’ silence on Gaza📌 Tehran, IRNA – Iran’s High Council for Human Rights has condemned the silence and inaction of international human rights bodies over the continued Israeli crimes in Gaza, calling for an end to impunity and for concrete action to u...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794745881420,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 FM Araghchi meets visiting Afghan finance minister📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has held talks with the Finance Minister of Afghanistan, Mullah Muhammad Nasir Akhund, who has traveled to Tehran to hold talks with Iranian officials.Araghchi hosted Nasir Akhund at the Foreign Mi...",
     "media": [],
     "verified": false
   },
