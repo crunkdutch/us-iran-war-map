@@ -234993,6 +234993,66 @@
     "verified": false
   },
   {
+    "id": 1794753113714,
+    "type": "drone",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-11-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates: November 15, 2026🇮🇷 Iran• Numerous missiles were launched from Isfahan Province.• An Orbiter 4 drone was shot down over Nahavand in western Iran yesterday.• A large oil tanker, sailing with its AIS switched off and believed to be possibly damaged, was spotted in the western part...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794753031957,
+    "type": "drone",
+    "location": "Isfahan",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "date": "2026-11-15",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates: November 15, 2026 🇮🇷 Iran • Numerous missiles were launched from Isfahan Province. • An Orbiter 4 drone was shot down over Nahavand in western Iran yesterday. • A large oil tanker, sailing with its AIS switched off and believed to be…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794753059506,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Araghchi meets new envoys of the Netherlands, Japan, Malaysia in Tehran📌 Tehran, IRNA – The new ambassadors of the Netherlands, Japan, and Malaysia in Iran have met with Foreign Minister Abbas Araghchi at the beginning of their missions.Araghchi held separate meetings on Sunday with the newly ap...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794753101960,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran pursues legal action over US-Israeli attacks on water infrastructure📌 Tehran, IRNA – Iran has formally submitted reports documenting attacks on its water supply facilities and damage to more than 410 points across the country’s drinking water network to international bodies, the head of the...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

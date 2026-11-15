@@ -179707,6 +179707,81 @@
     ]
   },
   {
+    "id": 490413545,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Isfahan, Ahvaz, Khuzestan: Hourly Updates November 2026 Iran Numerous",
+    "location": "Isfahan, Ahvaz, Khuzestan, Aden, Strait of Hormuz, Bab al-Mandab, Yemen",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates: November 15, 2026🇮🇷 Iran• Numerous missiles were launched from Isfahan Province.• An Orbiter 4 drone was shot down over Nahavand in western Iran yesterday.• A large oil tanker, sailing with its AIS switched off and believed to be possibly damaged, was spotted in the western part of the Strait of Hormuz. Sentinel-2 imagery was dated November 15 at 06:53 UTC.• The Khuzestan Governorate announced that ammunition left over from the Third Imposed War will be destroyed daily aroun",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490418436,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz, Persian Gulf: IRGC NAVYThe IRGC Navy announced that",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚓️ | IRGC NAVYThe IRGC Navy announced that, in recent hours, two oil tankers were struck by naval mines while attempting to transit the unauthorised southern route through the Strait of Hormuz, triggering massive explosions and fires. According to the statement, both tankers had switched off all identification and positioning systems and were attempting to pass through the area covertly, with deception and support from the US military. One of the vessels, a supertanker carrying more than two mil",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/6ca9bcda6d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Z2wXFdBjPiUOpBhT-XIlc1YU4-93dhayb2295VpAmglYZ6N8nBvJ6qi7kgrEu7jXguZ4_Z8AQtNWU3u5gK0WJygm_g-xEj1JyWpU6Pd647w-uyjPko2Jjt8FjcepCaGcmfc9iWfSnlntl4sW-vFH2uxYp3aqcO6ba62Z7HwgJarccxuDbzLErw8zzMprdYyp8WKkDU5bUctlMH-8smwKrneHAh_eAhZnmW-DDvz2tg9iJACbo26buIJWmq87k9gEotud46-6MSR6A3xedEdEVVxqeJ0AskjCCpVKlR0zJkUavx_rHRLRtbyz5pic8ToYMNc0wMTUTpagLW7Dabqw2g"
+      },
+      {
+        "url": "https://t.me/enemywatch/64643",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/Z2wXFdBjPiUOpBhT-XIlc1YU4-93dhayb2295VpAmglYZ6N8nBvJ6qi7kgrEu7jXguZ4_Z8AQtNWU3u5gK0WJygm_g-xEj1JyWpU6Pd647w-uyjPko2Jjt8FjcepCaGcmfc9iWfSnlntl4sW-vFH2uxYp3aqcO6ba62Z7HwgJarccxuDbzLErw8zzMprdYyp8WKkDU5bUctlMH-8smwKrneHAh_eAhZnmW-DDvz2tg9iJACbo26buIJWmq87k9gEotud46-6MSR6A3xedEdEVVxqeJ0AskjCCpVKlR0zJkUavx_rHRLRtbyz5pic8ToYMNc0wMTUTpagLW7Dabqw2g"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
