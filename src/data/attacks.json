@@ -176809,6 +176809,149 @@
     "media": []
   },
   {
+    "id": 490423328,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Lebanon: Trump Netanyahu have launched their regimes",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Trump and Netanyahu have launched their regime's greatest-ever campaign, mobilising enormous political, military, occupational, genocidal and diplomatic resources to achieve their objectives. Yet their strategies were fundamentally flawed from the outset, and their ambitions were bound to encounter serious obstacles. This is the reality they must confront: if their campaigns were truly as successful as they claimed, and if their leadership had genuinely secured the level of public support and ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490428221,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Riyadh: ARAMCO tower Riyadh suffered damage after",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌🇸🇦 | ARAMCO tower in Riyadh suffered damage after falling debris from after AnsarAllah ballistic missiles were intercepted over the Saudi capital.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/LSkxE7vQEBbnEXlHc9fFqsVDA_JEOSS8hZKuxSZ4R9_nAG3VtYbBtAGS6EJQVjjh7hEDg3jQdld-2kKRsL2Qha0P3SR-8mPvu3CFXfhO_S2bN_vVuEqrsYNQ_TgReitT31tLHtQ9nBWTE2GwysLudTw0QeakIldVpInnjDyOWnRX623To-GMeG8Jk_cd9sxvaSFq0sD4GSoHm5BBw8lHxbi9XBFU52CJo3ktO6Kt4n4o16dkG4i_iQaLflwB9q6um9MKlPtsul-jogkeNI8S1sVTGVX_15pO-xmMR8lUYlqmEmXuX36Rhp1cmfnyw6jTPAj26q9ZWhoR0JaR_gB0DA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490433115,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Taba: rarely brought public attention that Imam",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 🇮🇷 | It is rarely brought to public attention that Imam Ali Khamenei had instructed Iran’s aerospace officials to maintain a cap of 2,000 kilometres on the country’s ballistic missile range, and that this restriction was imposed for a specific reason. Imam Mujtaba Khamenei has now lifted this restriction. However, missile production continues, and missiles currently undergoing manufacturing could potentially incorporate longer-range capabilities, extending beyond the previous 2,000-kilome",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/PrYf_81V0WS_LgXs5RM92Eukz-Odz8OiUcD7TyWCOezBNPfpphdwZa6oRW8ZgQkZZaY-XTjlcF2VwAfYAgPfpU37fXQkRUH0uBIMIoVgYLmRTecQrjM_lsPsjh83ESqj4yAgqtxCb83tD77p1s2SDGteQMpqd85Atr686xjB_dLS_Kd1cLpd2FkCSzYoSDsrFBjA5pkjWi9D9HEu0elORH3P3jtNzLYf97j3FPs3UXpGnLHU-JdUqzcSbvaKeuQ5PSrCn0mYIMC8QBc1ItmOnGDE3d5uOy_NAtPS4E7N1mVuiuhAy591tPruxXo0PxjCHk3hGq9Z72TFnFjBCGtJnA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490438010,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:In response to the brutal Saudi aggression against our country and people, and as part of our response to its horrific massacres, the latest of which were the massacres at Al-Hadhara Market in Al-Wazi’iyah and the residential buildings in Bani Hushaysh, which claimed the lives of more than 120 martyrs and wounded, most of them women and children, the Yemeni Armed Forces, with th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/SHTiGnzdKIPJexgHC8F21zEHTj2irbJtImiT1cgy7qP185Wq1nQuhXOoyr1ayDF6k7xZbw3NUipaySXQzbL36ivt2W1rEXJNR3f18_r6uKAn9bONY2POoMiqe8Zfn_jYlBmjP0mJAHemvCnfqMfNdxVGoFiwsDWvNz-2d9oFrQj-mdCu9-C3Lp0BNB7CxS-KQCuV1Kcq2mXokaT3k82D5-hZDKmiUfyyt7NrCYw_nEIpJ7o4YTdmnhQqP0TyaC2GTj0NOdBRM_KP2IDorh0tNkhijPB4Ur9y-DZKuK2VjRLTv1jFCOWlFEGTHfn9NS0uuZZ1akNBc8oMqhGbqnuRVQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489786230,
     "type": "missile",
     "status": "confirmed",
