@@ -232667,6 +232667,51 @@
     "verified": false
   },
   {
+    "id": 1794810809656,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794810881873,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-08",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Hourly Updates (+ve): November 7–8, 2026🇾🇪 Yemen• Yemeni Armed Forces announced missile and drone attacks against several Saudi targets inside Saudi territory.• A missile strike on a Saudi military camp in Jizan three days earlier killed seven Saudi soldiers.• AnsarAllah forces launched ballist...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794810861582,
+    "type": "missile",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-11-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴 Hourly Updates (-ve): November 7–8, 2026🇾🇪 Yemen• Saudi aircraft reportedly carried out two airstrikes on a water-project storage tank in the Kataf and Al-Boqa districts of Saada.• A girl was reportedly injured by mortar-shell fragments fired by Saudi-backed forces in the Hazran area of Al-Taiz...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794212503059,
     "type": "missile",
     "location": "Tehran",
@@ -234086,6 +234131,21 @@
     "verified": false
   },
   {
+    "id": 1794810789861,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-11",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen’s AnsarAllah has launched multiple operations against Riyadh in Saudi Arabia.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794493156151,
     "type": "drone",
     "location": "Riyadh",
@@ -235292,6 +235352,77 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 ❌ 🇸🇦 🇦🇪 🇺🇸 | Major Advancement in Yemen:After the Yemeni Army and AnsarAllah forces took control of the strategic Kharaz Heights and the Kharaz military base, the coastal route connecting Aden to Bab al-Mandab through the Khor Omayrah area was completely cut off, leaving Saudi-led coaliti...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794810880978,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-11-15",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | AnsarAllah forces are now reportedly within 60 kilometres (37 miles) of Aden, the capital of PLC-controlled Yemen, following their capture of the Al-Maqatirah and Al-Mudaribah districts. All remaining PLC forces stationed near the Bab al-Mandab Strait have reportedly retreated towards ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794810795678,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-11-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Gohar Zamin beat Daem Panah in Iran futsal leagueFutsal teams Daem Panah and Gohar Zamin faced off in the 11th week of Iran’s Futsal Super League in Mashhad on November 15, 2026. The match ended 3-2 in favor of Gohar Zamin Sirjan.https://en.irna.ir/photo/86322933/📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ncUAXjXYrUzRrYbIqPtmADyH-B8DrAXJxZ9IwlkcPVrIzI5d8K91qGVkL69nlsrIAdHZRLMAXR96-6u428G-dD-8SSM23CGLxNvbizdwAPdFlD8eJsDlUWuv2sVCplFB4CzNjDbmZlRzT-b4XOojihekpaZ1U_elcH_hg6NOYVmsH6mvP-APD7SzBowTDXXNAQXsC56ugZn8xiOWEI_tzhv_to3aOSBoFyGmJ71zeJdLh72n4T4LqYGYCUASmM3DcIzTYAY3ICXmGebvPNSSQjswXDqm8j2xL_1Burd6LbI5b5EogHX1Czg59iuZnIfrYi-_udfJOjyv0WqHDuHN6g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/buhXL5z3MMs-WMD1GAAv9jKDCdJ3x91wOGBQN7ns3OV62JOz7jOszfZowKl0F6d8QSWl51NymcoHbwUIvly0P7kM4_nW7OEE6nIixcSfTwVrUVlJ3xjYVj1vKcPhupuCrw1j6j4tOQhfsqLaXgIqBdtAXhVqxVzNauqBFWiKZLbZBTekb4WGCu_orsbH6maK7K-u-UbGu_NHhVBNWNrq3O07oaT7y9mI4QJAB57e71C1Iw6FMoHiSYoU6Ubvr5eFapB9NrcP7HQ5lLqxZpI2RleA9TmhTiOhHFuysM1i2n8tHKz3lM8xE518RK3V29XJw0BwbQu7NyDAor6MLmzwqg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/LuQFwsUTR8vOqOKwKTp0E6XJFm0waj34ERAN3LnTgM2KJN1onpWKeL7j4WSCq2xB1Z3EClkS_hdWMu9wL2iy8lGkytP_uU4KHvFNxBVc4c5iUkAHGn6zJ8_5ZB1FHhewEL2Z6iWGv3rI9ZI2fELm6KO5wRv-J4kBOEYieFHNPHyEad3nIu2ZAQPdDhjQFCnh2qkqVbahQiNPisPwueWvpkzq7QrJKCgr8r65QgAEBSddNUhhEL4dnXXMmt1iGIoJck8JLlZDAqiBstNcDwjyfIGBHfYO_LzHDS039X0-MjVFCz5Tsh0RsRowm92IDQJfzPPYvBkNvgWtfZDlE5UQ9g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/qGJCUOF0fHO1UPPV4lSBOP2AMF8elggKYz33fdhgr7jkRjifVk-48IlJApHO2K8XO34jhDgFpkBG311S8NXA2qCsT6z-n3bXGk_ObbxGlSwt3MIEsPGVO4EAUYwWIPrsjA6Y6py2ppfNq4gorYYk8P2il4j9lYX3ht2TVSUlDL64w4-coK6HUnoBCNQiFO5i7KZciTg769EqU-VXJFSSCOvDJnAXUuECEZw9pmOLAq1rjnOUyEn7Rg46ufVVqgb5Zm_NyONOjQm9AmRPTbWObzIAutuCFvzPZ1fBbOuwqyDeODGznn22TZgr7Wbu84tFdEaobko_7gFgLmNykZjHgQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/pwm2HZbPlnD4LV0jPtwH1d9FwPa7VCPCTgOakq5RYRJfxeG2cYOYrynb1w0VimnqXIakN1j_5BUgElPH-MeVR9cX9VyqqzQ0-OMJFz5uH2hL7unKJCUC_BVBUz0dE6fiUWbPmZRnLGn7z6rvi_bBqPwkVGeXMWYZrRIWxgx8Ref0sHDwWrCRrcIS4vO8ThQ_XOe0-d4LSzElg0h-LVWlj0Go2ahEo_nUFtYh0Spf6hfTepinilBTl8M9fxRjoty4BCBZ0TiwHyV-trI1iFe6ibsJox2P0WaMD2DWjLO4sFtpejaXVeKtdYoQZf7Uqxoh62Lpo8xlHtu1wo430n1b3Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/SWCHb38nexg8Z1NRyru_K0D1v5NHXJrgW7SAMxWQP5VXghqK8Fii00G5axHoQms_A_iXHvbC5a1TpkFudQWs-XPGC2FccrIwXq7_0wYPX-LBNIX7ViBG6s2NHlSZUwKHJGtd7VZeZBjHDnGUFH6HQw1duoNy7CViK_oU696v7GpRNJpGii7t5DLdO2isInILJ1qFHkXNmRkBi-yEbCApDqGG_eXQMndiuyBLWivLji4kt4DE_U5dymOaWSqGWn02bDdBOry3a3L2pYu8KpNEKLlfBmwRDDFsu2HvPnzNt_T_HzW6ermBqCBkBND1l3WsMA05-cYPZfFiWI4FCjbjbg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/RrbfLPuyBof7tC3FIz3VSlodhzWljPPSp6DJxSekjFKNXF8BRfpFm2ArJeS391UMLLWJtNvCYT-s9iXjMGUASG9HVut_IYL3nTp28gZEvDiuLcHHU9WQwHHdb-kp-WC-QtS1DOzNKJCI9rkCQM8HIKRKEF7RQ-Y04XaE27MiTgVX64ecgyNOujHKfl4umcIo3bfg8sBqm1t8MZBzN9Uifci8tr40MtrnBYQt3ag_1ChTMYm64pBMVCTlWDkX_5ZJyaJpbfwZ0bw0AFGOh1WoMaX0MFLDLXVZAOv4x2NkIJtwRQUJyV1ZIuN_ehUKrbJxNtxWEswNAx3slltTjzwJNQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/rz_O7SOKgQmFgxphMe5og7Hom21TPqqZ3ORDUx4T59TKNWg6ntmH2OBUcIqUKJV_Qs6feFbjQDaN_4Wx4lChc9GGMeaup0N55I8sbRopT1V2exp2K0ioVkC5aUsfE5s_C7ym2qcbLoMrp4TXPhhAoRP24xSRj6f1ito1wUze8MzTRD0hmfkWczVOljvhzTXCF-6ArD4XZXCnB0PKyOq91FNhtgx_cBN2rGu-vvrEGiNdk5U7k2fWDagKFZ3-HRkzQlMwCSTIjZp8XiAdSwRkUTuuMqSgb5m2tLl9JHMvPlAEZwbVt8Jhirjd-CKdi-QIx0M1m_11p2jKLZg7KiTpVA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Fghz1nZ_oTG83wt3r_4yQfjhmenp71gvBQARrhQOkwBG-Wnntrn1aGh9v_8BJVsDVlaqIRu7jUyFv_DcZV-WMza42I03ccEsCPFySnJgQGfgXrvPVZPpO-cl9qxsulKEKF0PhZfIaWo60m5PQTBs1srhP_UzVeeIb3W_1kT0-CQZWnizRIZF1XMlRgMu17C-LPi4wFH8AyEayec7A-HFRUsvJF5oBRvrZT6DqiaKRcTXtHmIhojiP0kQP1PnRWAixCT3AEIvPxbkVpc-tWRvoBLyZxbz4cW9f-eVGc6eUNKkoOCgbrVku6YRGpY0RwC90kgCPTebdlUEOHTxXAvMgQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QZLhmPPTfuSbwvtTFwgkSnuotEnuBuuGLC09j7xIvgU7SoSjmKcU-abQf0duDWyox3a3jYczLmUuIxReJlELXAGTFXSgn0IgPzXj2p3ZSLO5_eyqHoh6gjpAuep9PTHstzHjyUarwnIoVeE3wrdFXzE2ACS7UV0yhvaE_m8LTFVOSjmvMZdRn-dCle4MNHNIhrIQ79KBdLwVnaMpeQF3teLJolDqE16PxdrtPSi6uBCcOirTXprectTvVrgvq3waM9v998AkklBH9v4q7KFL9IvhMo4sTPoVcwxfXtDpg3qJEJH6ZnMI3zXfB-m_YMKex_he2dUr9ctDh4Eubz-ZrQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
