@@ -232712,6 +232712,26 @@
     "verified": false
   },
   {
+    "id": 1794818013095,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:The Saudi warplanes carried out 91 airstrikes and missile attacks over the past 24 hours, targeting civilian infrastructure in the governorates of Saada, Taiz, Hajjah, Hudaydah, Al-...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/tfHcvNirPXmKyKl0fue9bXgnvPqqmvELmXICLKXloUyMGyOVq0tdoD3QeE3P_Zre8mWv6OYC43W1_T_x5FaKv86b8k2-dX8ipdzxrWrps8eMFJ9ANHFbJLPAjBATaJMoQUo00BdFRdTBSgoEVbdFba20MjwJuPX1JXzsdoV8oE9EchrLtfZs2_PfZi42LywthLgB1o6dpcavbHeeIFxlhrvrtj6o8D3fdBH4gshZTFDXmoGcCv898m8diZ704tN9q8aI3U1PFFsaqFXplvi_eokpB7OeeY0Xs2quEzYbNyLRoiKL62sC79VVQ6Px-qV7Fk8x6zB_BLCP6KagyWrprA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794212503059,
     "type": "missile",
     "location": "Tehran",
@@ -233239,6 +233259,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794818008268,
+    "type": "airstrike",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ US strike on Qeshm causes no damage to civilian areas or infrastructure📌 Qeshm, IRNA – A US military strike on locations on Qeshm Island has caused no damage to residential or commercial areas or essential infrastructure, says Hormozgan Province’s deputy governor for political, security and soci...",
+    "media": [],
     "verified": false
   },
   {
@@ -235420,6 +235455,391 @@
       },
       {
         "url": "https://cdn4.telesco.pe/file/QZLhmPPTfuSbwvtTFwgkSnuotEnuBuuGLC09j7xIvgU7SoSjmKcU-abQf0duDWyox3a3jYczLmUuIxReJlELXAGTFXSgn0IgPzXj2p3ZSLO5_eyqHoh6gjpAuep9PTHstzHjyUarwnIoVeE3wrdFXzE2ACS7UV0yhvaE_m8LTFVOSjmvMZdRn-dCle4MNHNIhrIQ79KBdLwVnaMpeQF3teLJolDqE16PxdrtPSi6uBCcOirTXprectTvVrgvq3waM9v998AkklBH9v4q7KFL9IvhMo4sTPoVcwxfXtDpg3qJEJH6ZnMI3zXfB-m_YMKex_he2dUr9ctDh4Eubz-ZrQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818106272,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Sayyid Ahmad Ghurayfi (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/DeAsB0qpzFfC25r4FcyjoGM-3RTC1mpk2G4KGCM9Y82WTK3k7okgLyGQ-9NQr4eK4WTEH-7EORO_INnyxn9kf9vnJxSWemHCPdMPiiCBlAmFAKScg-dHC-6MY_EkW2bOdk_0dpqZ_RG7hKYmKwghU4MtgIEUMaAGTeZXhgx0wdZw3RNIGLI-VVRYEbHWbDemP2HaoKsJi1iU394TwmOH4lb4V5ihnfM4XUAr_26qilLNOCCiM7Yah3oiuwhMpWlljDEcJb3oXXPmJH0n5IY_7h436o3zwxsdb-woX6CoKPD8wy3ke5ebNZdgw6Prr6Jv3kDp7SB8hFdwLK3LhJhlrQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818007393,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Sayyid Husayn Kuraani (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/M8fBwtAOfZ7GU7Aq7EL-mWHAUzXQwfNhqzghbXLU6mU2OBHFHets1Yfs_nYTWKErM0zn1pTJVonh6qS96iSePuCkCmJl1kcS7mUXOtLpnRqQBuvbwmUT3ucQzoyd_CzbLZhNpo7Xpw4_gh0G6Eecw4xRcbR-8uQypmDGSmf1cDcds7yIEJdgTzCfB0p4OKpQ2OJSDSlUOS6AO-KGC46TR4JBX6qjfihCiZcBSnueBa5SS3trXR_xd8Uw4PoE6NoBlV_K_-zSPuLwTRzY3t87tyVD0JznDANuhahW3OMHZ03-CPrRXAj8V4gVTNaOLtpmvGkUNUdqxl6hUwQxhDXtgg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818079314,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Sayyid Sadiq al-Maliki (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rZ0ZfoFCPnBTE6YUtWPf1yR0b88MDfwhF3j4uHACbb9q0v5LCLRCJkdAQEuk53qlhwTozb8TkCDgukCDLhE-vZpcHqyfqkBp6iL6hVGBUAVU3pjaERiCCF9jAVq1iyopBpuegeytRUS83L7rNRLtxbNImXL8NP6vRpzW-r8zSVdumtdjTwPlBrx4uGmPXp1xdxHb05BWkBqhnJ7TF-Kb65m-gFI2HqKgPEmJ1UsbE5MkmkpybGP2mMhSu_ajSHJpyllByz-K-xjwPo061vduaiOc3wPoI-v4y3ZCRbV_rQYktT2ZEKpIWrLsYXY2ljCkSvy4dZhVQKo57mmvc3N4Vw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818087329,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Sayyid Talib Muhammad (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ViOcE-aNz1B0m32S3KefBvTQYTPNdXpG-6zqU3Yeyg7qtzgZ-BY5gNgEewqzLRAR0DjXu-JLws4u7O5JVB3E8QWfvQvvFIggXtnB_bosBle39S1qGs5vVxa4gkNrJkgEYpd5FhzWc0vSV1EUgtsfmsBTgs3mBBGq2UvQ-i4P7aB8_4fanFXG-BrFtvruL2qfWpJdceOSm1suT5yfIPCCcu9Nd1HRsJHFZF0ewC0TpNkKxpeZUJzP8DosK5Ga76PJJX_Gx3GQyFfDNvUgNqBg82yN9QnCpGytUyxm27otLWf0Hvg28j8gWlm_IPzWltc2yTpe-u8GmRu20EAtsZjnog.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818090283,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Sayyid Muhammad Hadi Ghurayfi (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/p4rWE3Yb4Bfnud8Koblh6Pp9Ap_s5oZqStyj2Ba8Vau2Vfcm9s2BbeQNGqLDuJQVT_nZ7kUuynKMLBzTQWjvZJshg61a3XdIIfxiDoDOKm0Wgaeip_vpjAP80QQNh8vrAbKE0GrKvLakl9p6Schihv0iC8P5YTHjfy942IQqeKv6gDdbs7M_s_yriaulqbtAE0hRPWjvwsXomZJ4RGVATMQdvSMsxLQacLur9ne-e37b5KC55sgYuhq5iIZnG13_WmujygtVj6HW2QyVe8sxKaSwRVRCG9b9ZF-7WiWXmAX89xnaFM5MQytKpzRsfcSdXCKh_NQBu3_W3pfIQtBc1g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818054546,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Sayyid Yassin al-Musawi (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/B_2jWPgSTlP8mIqcD9yhzD17oZOzVVFOWqRiOQeEvb8N23oVBwEIshd5bZttnNendm6RJqOKq-o0H5urvbYG2Bqvlchnn6YZ4S8yyF9S3neHbcYVzXFKjaI1so6RW0wyZMomgHve4YoRmxZanw6puRYTJcV0AkBq5R-u0rS0NIT6r5aQkw6eB6QEN4gjwyb3M9Di0n_daqcnTO3A8NFyd6dMaXW6SUSzD6b4-gFyJ31xD3i-l6Xbf4oDZp8gwK9cUz5CVUBJ3-UtBOYk0H_SxLe-8YqpCxjkkhhu5PDkSWpPAq8nGNTQSsHwKxiFPo3PiaJkf5UDVxMMhnpOGlT5JQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818021600,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Ayatullah Shaykh Ayyub Bahraani (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/nq0HqC6NCxXtrClPW2S78XviLtKLN5QGgp4ilID78NtOvNR5wuAfSAxwwuJfG4M7PVFoSO_gqmtMXY6w3CuegI61VG5uvjKJNN7CyK8V2s121oYAsDB7HPJw9HMFadWZuW1wQHtrhRZr7IgY2VX4-ZefL9FlADQX_byZWnExP2p0OXyN_X3kZzDAN6GeW3WgAhQS_MRjSwAVQ0x0qTmfA5MPnrM1sb-uuc1k4vg3M2AvHw-BPXLqxvbrZ4Qbcagu88h-vYWKv3HosZDoGRnkXqC7-osrjhSwgwq8-GXUWrZNc1IqYQwXHvmKeauPmB-CG5aQDoZqg6RfoPJt3Xo-Vw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818074519,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Shaykh Baqir Hawaaj (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/r_dPwO3bgAwidLIdFRzc8xDtjZjkrt6lQVTSM4WINM27BDYa-_nDAMeJco2WmTR-U98ZuLD6hiztVdApkLyFc5UTUVKWI4n8lVz2QE_1PHkNuq1hD77e4IKkg1iGam4FqlxeyYpEJ5rqJW0U1KXMshaho2u0IJzpNQDKJf19v4hY9zL1oawrQ37H8F2UrURJKnWcqXGzJNF9fLVm9rooJ6RMaO_4YTW_KU6ujErFi0AfB0jbqBly-0oNZrHL3PesZMV-D7ZBLvTq-YEQCajN2W6GPk7KtszVY_w7i5SszrKw4Rbi5y7IZwPkYFx6ejpDoTDkGbFNsidW-jyQCUUmew.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818053021,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Shaykh Jafar Ashour (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/hoVvKSA0nAgHzRDGhLDqKyzml_8cKhsrRl34T2HoQi5VsvfL5WYYN0i5frrDOIr66OaSDnK1NLvUMTiOZq_9jBSCUIk58lMb53pCvZdSfpJilyW18_qh33aFlOPupX7LvAoqgsw7E5q_QAPLxUWc8VSsLmhBHdqfomWIH1qMrP4kFP8bdZB6X3G7QN9okkxSkX6ZY_UBPSezMvIQnNWRGKAThrG8HWGdJsfpHHjygFbEo2EP8XyGSz0-JPsDUzWIfsU5-gA3E8Ps34WnhDLUDq9eIuUWgJCStHFIMOgomaIbFmfaDu6PKU0HtQ7fjXD7agLPgTaSAaT9oLVkUmlw6Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818023569,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Ayatullah Shaykh Jameel al-Aali (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/mAu3WW3dWMMiW_c18XIS-vPjwKzGvZcxsCQhchb6SO3IWnYM6xbC2CgW00jC6S0YOuDYuzbWs_1CjWOMW_XoUw2C6Xa0fZgoQHrNgnjPBl2S1yJ7OBd6xuBMNbChKMe_xgcAJRzErjqFt7Xy8LG9wsAc0zs9NmKg96Rxg8vEQdW7MszaFeqRfoprTkcs8uKtnRqa0In1F-sBUIyw_5R03fz7GJliO9vlxDuGJK3meuyvqTVcT_o3YPHOzTgm5W05mfeCO_iKRqDwt8FUhz5PrH_kjpCZjjspw_Jom0FVm-WdMUv9aQheFoBoamjQfxuDUMcs_O4oJl75mxKdFiTJLw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818055300,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Shaykh Hassan Ali al-Saebi (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/e2WLfvACcEsJc0zhKPRyZIwUOrxTs-4Ouu9QDUhRUsbwA6hfzVY3gBmqIS7_X0g4Imrao8wYgnVfy6xcqot1uE-waQGcol2vKgorV2B52qGfn5tFSmqQxLcKC64WZrYihw8kh6Ayq-VSo_TyZj3YblJAcswYl9bQwVlcYHey6Q6iTpld5m7oEd6QF-f9KA41H7S8HMRRlgcqyQEvCExx2xcOEyLz5xR9K1OR3p58pBIfy3qNkoKgfomkglfV7H_nns_voYclVz8H82tC5LZlTRxohy_OykMIjqI6KR8lBu7Jhvp9AW6XfG0vLk9trE-Ja9_ohXoS79YQsri_-ySwBg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818047456,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Shaykh Haamid Ashour (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Z3Cmr6iLPgJ7OcHU-19OEDegyA1bzekDwv0SL4NWxV2U9M5pLUfKj-JqWqmJmW3YdrW0nu_vKn62oZWSPfwcSwe64AObI9eCIyuQO1E9ontxaxPNJk95UV0HTzigTW3KrC4f-lqz2dD3GQdcfAzAx29r5n11Y7o8GFf46b2U5NWOehT0nqUdIQdmEi2o2Ao-FGhcAWivH3vXOP0l6WFu4-8icVJRUQj5JmvyaumVNdA-9AAHN4MU8MC3FFWakPb0qwpX5p2Ns_3mkI0RHpAAdtnhbQPtjN6xyhA2ziPFycSX0N7yf4nK5LtA7Xkdo25reI4OMPDKSD_k7WD0XYze5Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818056162,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Shaykh Hassan al Qasaab (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/I5daBrpR1kjXnCUMo9W8py_hLVv_A8zDEq-IzeWXGf70LPUyV7dnoWeT3VTFK_OM5nRzcKYLVY16wV5rlK8NEzxL4UZ0Os9281N9vKrG7QXjjnd11vY5bHb7e8LjpzUoqQkERi0cnuRu7C-xwPqhRnLdet0iQxy50AbkCzjD1C0mu_xQ4rFwz7CbPelH7UhH5ZHGTSDJz1aYuNJrKHcNkQGeopb9gEEWX-IpR7Qk4RY2YkVEpLBQxKhu8iRzeQEBIWVdue_JkjlAJaQJYbL9cRtstBEXqMZ4VjpAxVUKS7-b-TkpshI-Qv6kVofnSImJRwGWvUvJxz0TnATl5MzKgw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818017640,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Shaykh Husayn al-Mahrous (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/VQuWY3DQ7mtbUT9gD91Smh5HrXyOIwXZkzo2QjfKipsNc72cyr6nar6Ez1bK6aDkxLbhcIvn_af-evjPXhWL8vkGl4ke2TG_u5nKsKHdIaQb2uWn07-InRmKrxO3k30Y7sQBfdmL8pq5sYY3O4mKgD29G24PbxODN372Y3ndKoKQPrmKbTEZwLj6n_j3sdU0Og7eT2yBmF9T4gWO6bXRKz88CgY88-Fq_CLfyhBXPNhyyB_jBkdBdtcTREVJLS2PUA22hqyglvzjb9RhZXV0O40tL0zQueoHnRF60nmWn0YbwdarIXCcN8ZHhvS1lQXAgqx6_hLjYnmr7WHnTvSUdA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818023569,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Shaykh Raed al-Sitree (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ewWkHE5Ob64f0AQ4LtfQZtSadO-kdfpRZ1jZ-ak5bH034Dygq8PPSCqssIWBK6Uhbuxpp-MpSzYr6TuBKDIlwDKr4X-j7NGgEZHuyt-c4K3wxcs4J1CMmBPtDHarVSFPR7skd5QSu6oZX6GGtX9gJcfHwjRI5XEktgsj86RlWou1kgKCS-GvC9o9gOkk3PuCntg2M6T7BbNaRp11Za-Q_soPxkVpkDS-tNgcMV8lVEIzvt_NvqBy_DK64m2N6HQ-1gvGJEDbNhqfOIZHyubz48oKfzw_yIlfMr9EdCxuqjm_QrJ5XgEVN4nmqb-iuE7Ybr-e-etJTD-ADryKefXj0A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818095897,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The Bahraini Zionist regime has sentenced Ayatullah Shaykh Radhi al-Qafaas (H) to life imprisonment in a case targeting members of the Shia community.#BahrainShia▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/JoQPsY0FE1ahCSd8D_pe_-QNCApoR2E_vsH97weIOn-GwMpGL_e9cNPgERcpQY3wkXf1Ln1koaHAGzlfrLxK93Bl_p89nzL87fNH04VE4vRfJakhKAOLTxY6JuvxDTTvJsjtJVuWSa_WE48j3wMtk7EO6kwLEvF-31v9ElA9HTx_ebEIvwfIqgqq_IOBRJM8sNTmZKHjiebEMF7BolcBuF_Z2vrzW7RusilQoH2mP44yi5l-V-60fE6pQV9xwAK9_RWsMCvVgHE0JrpOczEuTPIV4n_3wNUgfTE1PXtaA6JcM3TtVjJqxg6FD9f2F6Uv3DHnsDIVEWvzj4EMDey2bA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794818035027,
+    "type": "airstrike",
+    "location": "Manama",
+    "coordinates": [
+      26.2285,
+      50.586
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📮 | The life sentences imposed on leading religious authorities and prominent members of Bahrain’s Shia community on false and misleading charges represent a serious escalation and yet another deep wound inflicted by the Al Khalifa regime in Manama. These actions constitute a direct assault on the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794818031957,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ Email addresses of Bahraini regime embassies in various countries. Algeria – algiers.mission@mofa.gov.bh Belgium – brussels.mission@mofa.gov.bh China – beijing.mission@mofa.gov.bh Egypt – cairo.mission@mofa.gov.bh France – paris.mission@mofa.gov.bh…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794818066287,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iran condemns Israeli attack on Naser Hospital in Gaza📌 Tehran, IRNA — Iran’s High Council for Human Rights has condemned the Israeli regime’s attack on Naser Hospital in Gaza, calling for violations of international humanitarian law to be strongly condemned.In a statement issued on Monday follo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794818091028,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "IRGC Navy: Two oil tankers that were attempting to cross an unauthorized southern route, escorted directly by American officers and backed by US military fighter jets, hit a naval mine. The resulting series of powerful explosions illuminated the Strait of Hormuz sky for hours.These two violating tan...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/veCXYWEG34YR8RlhNDCCk2a96WGqpkzC8u3BHGSjn7evUXZ_9ofb38YevI4NrWIqBJvj0RVoHrF5uXyh8-j9tIGpncd3AmsSzFIYvDxJd937oWqBHuKo4t5aTLQ_2l3Z-dvkmvWrEfqU4v3HE3lMUu0g0AR6_swtgL8s5wEUWKypw6KC-Z2RZcmgXjXLlBDUgu2dX7TULYcuW_PC0-2LMBIbSutWBgsmE3uIIZnP9q1YbfN0_gH2y0Ft3PfnZTi0q_L2fLeZqvKG9-rNxdiWgMaF5VVIcoI1n18crrGg5nQMKAaezm0jL8kbL_UtpPgXu04g2AIef366vosQcOnNFg.jpg",
         "type": "photo"
       }
     ],
