@@ -180393,6 +180393,38 @@
     "media": []
   },
   {
+    "id": 490511555,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-16",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Strait of Hormuz: drone captured intact IRGC Navy Tehran",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 US drone captured intact: IRGC Navy📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy says it has successfully forced a US MQM-170 drone to land intact in an electronic warfare operation.In a statement issued on Monday, the IRGC Navy said that a US MQM-170 drone was brought down intact in a successful electronic warfare operation.​It added that the drone was the fourth of its type captured by the IRGC Navy’s electronic warfare and drone command, and the eighth drone captured in",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
