@@ -233277,6 +233277,26 @@
     "verified": false
   },
   {
+    "id": 1794825303124,
+    "type": "missile",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-11-09",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:Saudi warplanes carried out 103 airstrikes across six Yemeni governorates within 24 hours, targeting civilian facilities in Marib, Saada, Hodeidah, Taiz, Lahj and Al-Jawf. The attac...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rF9OM7OYMpwoH_pchIFiuq-h9G_jxlkjvfBZLqc-gUgetE5JydqUx8oxvrKmXh-xIK16qGO16boASGO4tY6UPZzhwZ7sMiWoAUzmmlX6c3zJrjW04FySgg6Bu-r2NmPoDsyjelba8Ag5ThVdF4D6Tea8iDmtdFqJqcBRTPefAUP2VlN39vjBye62ol0JaPA-AVzPj5sUN4CcfYzig46pArLzZOgr8kNWOdzrZFzDmXaufFXZ_jT_z9DN3_tcL0a1oQK_iy41zqeMMR-0vFYo9zqjtqyw9HeFv68iJqdg3H9P0Ny2qJ0bS5B_yAsYL5PMEgUpptyVwwa1OhlKxpCzwg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794313641698,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -235843,6 +235863,77 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794825304922,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "- Assaulting their dignity and subjecting them to humiliation and degradation through beatings and verbal abuse.- Forcing them to sign false and fabricated confessions.- Insulting the Ja'fari school of thought.- Subjecting Shiite beliefs to ridicule and contempt.- Insulting the Ahl al-Bayt, the ritu...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794825254439,
+    "type": "intercept",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC Navy Public Relations: An MQM-170 drone belonging to the aggressive US Army was safely captured this morning in a successful electronic warfare operation.This marks the fourth drone of this type to be captured intact by the IRGC Navy’s Electronic Warfare and Drone Command, and the eighth...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794825265522,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Revolutionary Guards: Footage of a massive explosion and fire on two oil tankers in the Strait of Hormuz.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/30efb74ad7.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lnNTm9LafCFE_Ro-37ZBVNIW7F4ePpop6L_BiiIeNyJvBrFVr0lyvERCdNT9kmHti6uylmY6A3ne7rhnYZELwgQA_12M__NqAKzGw32X__XmfgjiDbkbWBw3xTue0_e0nTGeBLSKeF9eSVkWVCMVUSqcmqim1uHD-RNZ9t9Elhl12B5qkE25Y_ao2KgkT6QQgc5bQRAMAC_ViF3K8XbSI-mAsDI9czQaZHfMEiWYbKaRKHnKVGoYGUKndwBHf2SysIjFEsmFW18psqiWoCCSEmk6mPI1-VysgZg3s52uNNciAqtB9TgqwJeN2mGlEonmxJlgKzIefAWcjVbljnK9WA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64702",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lnNTm9LafCFE_Ro-37ZBVNIW7F4ePpop6L_BiiIeNyJvBrFVr0lyvERCdNT9kmHti6uylmY6A3ne7rhnYZELwgQA_12M__NqAKzGw32X__XmfgjiDbkbWBw3xTue0_e0nTGeBLSKeF9eSVkWVCMVUSqcmqim1uHD-RNZ9t9Elhl12B5qkE25Y_ao2KgkT6QQgc5bQRAMAC_ViF3K8XbSI-mAsDI9czQaZHfMEiWYbKaRKHnKVGoYGUKndwBHf2SysIjFEsmFW18psqiWoCCSEmk6mPI1-VysgZg3s52uNNciAqtB9TgqwJeN2mGlEonmxJlgKzIefAWcjVbljnK9WA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794825237158,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran does not need to imitate aggressors to defeat them: FM spox📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Tehran’s response to US-Israeli aggression is an exercise of legitimate self-defense, not an imitation of its enemies’ terrorist methods, saying Tehran will not play...",
+    "media": [],
     "verified": false
   },
   {

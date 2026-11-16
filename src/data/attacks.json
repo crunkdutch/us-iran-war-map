@@ -177558,6 +177558,43 @@
     "media": []
   },
   {
+    "id": 490496828,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Hodeidah, Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Hodeidah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:Saudi warplanes carried out 103 airstrikes across six Yemeni governorates within 24 hours, targeting civilian facilities in Marib, Saada, Hodeidah, Taiz, Lahj and Al-Jawf. The attacks reportedly resulted in civilian deaths and injuries. Saree added that F-15 and Typhoon fighter jets took off from Khamis Mushait and Taif airbases. According to the spokesperson, the total number o",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/rF9OM7OYMpwoH_pchIFiuq-h9G_jxlkjvfBZLqc-gUgetE5JydqUx8oxvrKmXh-xIK16qGO16boASGO4tY6UPZzhwZ7sMiWoAUzmmlX6c3zJrjW04FySgg6Bu-r2NmPoDsyjelba8Ag5ThVdF4D6Tea8iDmtdFqJqcBRTPefAUP2VlN39vjBye62ol0JaPA-AVzPj5sUN4CcfYzig46pArLzZOgr8kNWOdzrZFzDmXaufFXZ_jT_z9DN3_tcL0a1oQK_iy41zqeMMR-0vFYo9zqjtqyw9HeFv68iJqdg3H9P0Ny2qJ0bS5B_yAsYL5PMEgUpptyVwwa1OhlKxpCzwg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489886421,
     "type": "airstrike",
     "status": "confirmed",
@@ -180290,6 +180327,70 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 490501736,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-16",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Qeshm Island, Qeshm, Strait of Hormuz: IRGC Navy Public Relations MQM170 drone",
+    "location": "Qeshm Island, Qeshm, Strait of Hormuz",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy Public Relations: An MQM-170 drone belonging to the aggressive US Army was safely captured this morning in a successful electronic warfare operation.This marks the fourth drone of this type to be captured intact by the IRGC Navy’s Electronic Warfare and Drone Command, and the eighth drone to be intercepted and captured intact by the Islamic Revolutionary Guard Corps’ air defence forces in the Strait of Hormuz.The drone was operating in the area to track and identify air defence ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490506645,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-16",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: Another violating tanker catches fire east",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Another violating tanker catches fire east of Strait of Hormuz: Iran Navy📌 Tehran, IRNA — Another tanker violating maritime regulations caught fire early Monday after striking a naval mine in a prohibited area east of the Strait of Hormuz, the Iranian Navy says.The vessel was immobilized following the incident, which occurred in the early hours of the day, the Navy said in a statement.​It said it maintained intelligence surveillance and continuous control over vessel traffic east of the stra",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
