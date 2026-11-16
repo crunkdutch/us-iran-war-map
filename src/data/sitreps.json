@@ -231848,6 +231848,81 @@
     "verified": false
   },
   {
+    "id": 1794839739151,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen High-quality footage from the extensive operations to expel the Saudi enemy forces, led by Saudi officer Badr Al-Harbi, from several positions in the strategic Kahboub Mountain Range, east of Bab Al-Mandab Strait – 6 November 2026#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794839728422,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-06",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source told Yemeni media:– The Armed Forces carried out an offensive operation along two axes in the Kahboub Mountain Range.– Our forces took the enemy by surprise inside its fortified positions and engaged it at point-blank range.– Our forces stormed the enemy’s fortified positions...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794839765615,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-06",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says: “So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.” Allah Almighty is Truthful In response to the brutal Saudi a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794839693107,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-06",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12: In light of Gadi Eisenkot being tasked with forming the “Israeli” government, even War Minister Katz is now calling for a “unity” government.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794839746781,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-06",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12 military correspondent:While the “Israeli” army continues to release video footage showing the discovery of Kalashnikov rifles and ammunition depots in southern Lebanon – all of which are old and remnants of the previous war – “Hezbollah” continues to successfully rebui...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794032031781,
     "type": "drone",
     "location": "Khorramabad",
@@ -233294,6 +233369,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794839761797,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-09",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
     "verified": false
   },
   {
@@ -235933,6 +236023,42 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "💬 Iran does not need to imitate aggressors to defeat them: FM spox📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Tehran’s response to US-Israeli aggression is an exercise of legitimate self-defense, not an imitation of its enemies’ terrorist methods, saying Tehran will not play...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794839737230,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-16",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni Armed Forces: Footage showing the repulsion of Saudi enemy forces led by Officer Faris Al-Shamri from several positions east of Raghwan district in Ma’rib Governorate.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64704",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/JTX08Tsel3YDEO_Z8m2YBX-QNSxj-NgfIlGaN_yPZnBWYSsYsz1tyMd9R8moI91SN7OoS1KmMbaoCNJiPatfj1R21VL6NMPtCN--HHLci3kQ2RejoX5iJM9Ai4--GJ5t3_A4vr2D5Zhdv3y4m4ZLsqnWbD3FRb3w_rb5dh0DGXISXkcdfCaEOSl5bPqPZY8y0v0IT2SQJkW9CBCeAzuWpSSVnQYwtvmT_VyozBLDalIby0mvCqeK9fxZxK9KitcAEKOqAS9rF2WNMOD4wh8dqj2HTdYMp2Aymcu6YA12Ne2l8va4fBzmjEuWY9477do9cMol6yf3vN8_9HAhbidhGQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794839761440,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran, Russia FMs hold phone talks to discuss regional developments📌 Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi held a phone conversation with his Russian counterpart, Sergey Lavrov, on Monday.Araghchi, who is in Islamabad to attend the 30th Meeting of the ECO Council of Ministers, ex...",
     "media": [],
     "verified": false
   },
