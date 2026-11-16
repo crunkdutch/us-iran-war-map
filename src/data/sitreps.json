@@ -236281,6 +236281,36 @@
     "verified": false
   },
   {
+    "id": 1794861341011,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "The best remedy for Iraq would be the fall of Ali al-Zaidi’s government.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794861365662,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇶🇦/ 🇮🇷 | Once again, a Qatari government plane is headed to Tehran.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
