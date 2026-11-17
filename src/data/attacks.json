@@ -180809,6 +180809,107 @@
     "media": []
   },
   {
+    "id": 490570553,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-16",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Bahrain: Islamic Revolutionary Guard CorpsTargeting radar aggressive",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:Targeting of the radar of the aggressive and terrorist US army at the Sheikh Isa base on the island of BahrainIn response to the continued violation of the airspace of the Islamic Republic of Iran by drones of the aggressive US army, and in continuation of the successful air defense and electronic warfare operations in intercepting, destroying, and capturing MQ and MQM-170 series drones, combat drones targeted a radar system belonging to the aggressive US",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490575476,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-16",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Minab, Israel: Iran warns against baseless nuclear allegations",
+    "location": "Minab, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran warns against ‘baseless’ nuclear allegations amid silence over US-Israeli war of aggression📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations, Gholamhossein Darzi, has expressed deep concern over baseless allegations leveled by certain countries against Iran’s peaceful nuclear program, while maintaining silence over the illegal and unjustified US-Israeli war.Addressing the seventh session of the Conference on the Establishment of a Middle East Zone Free of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490580400,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-16",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Bahrain: Islamic Revolution Guards Corps IRGC American",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Islamic Revolution Guards Corps (IRGC) hit an American radar site in Bahrain in response to a US drone's violation of Iranian airspace on Monday night.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/RMuZBDasxXr3ozM9g6pI2tv_pbBavCTFUfovL3B3D37GD77R_kXQUnVIqABr0SRUHNml-k5CXVl_eNnSSxRkPx_FC0um3_7vHwy4_FCNCAajuzXH7chaXjm9zbhINldF9UVTOKagv3I644u7XJKAcDTJz9CcSs7X6Sm49_meH9wNeMZEVPiJeFxxNSeLtQUU6c6VFGm-KdMNLgFX9JOaJYqUS2o_u3-V7-Tj140razhbNxVd_Uifc-WxHsRSDsMzReV3DcN0EOy9DSaK9OHdCpR9KqW981cWC6fHdm0NKXhLGfsJRUCJPblLmeURaIul9d_5yNLY4pgEhGP94FvQng.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490555790,
     "type": "drone",
     "status": "confirmed",

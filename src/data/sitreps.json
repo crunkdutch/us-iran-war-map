@@ -236512,6 +236512,41 @@
     "verified": false
   },
   {
+    "id": 1794904675901,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iran warns against ‘baseless’ nuclear allegations amid silence over US-Israeli war of aggression📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations, Gholamhossein Darzi, has expressed deep concern over baseless allegations leveled by certain countries against Iran’s ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794904688810,
+    "type": "drone",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "The Islamic Revolution Guards Corps (IRGC) hit an American radar site in Bahrain in response to a US drone's violation of Iranian airspace on Monday night.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/RMuZBDasxXr3ozM9g6pI2tv_pbBavCTFUfovL3B3D37GD77R_kXQUnVIqABr0SRUHNml-k5CXVl_eNnSSxRkPx_FC0um3_7vHwy4_FCNCAajuzXH7chaXjm9zbhINldF9UVTOKagv3I644u7XJKAcDTJz9CcSs7X6Sm49_meH9wNeMZEVPiJeFxxNSeLtQUU6c6VFGm-KdMNLgFX9JOaJYqUS2o_u3-V7-Tj140razhbNxVd_Uifc-WxHsRSDsMzReV3DcN0EOy9DSaK9OHdCpR9KqW981cWC6fHdm0NKXhLGfsJRUCJPblLmeURaIul9d_5yNLY4pgEhGP94FvQng.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794890284900,
     "type": "drone",
     "location": "Tehran",
