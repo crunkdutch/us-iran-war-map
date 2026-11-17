@@ -178050,6 +178050,107 @@
     "media": []
   },
   {
+    "id": 490595178,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Hodeidah, Lebanon: Hourly Updates November 2026 Yemen According",
+    "location": "Sanaa, Hodeidah, Lebanon, Yemen, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates (-ve): November 9-10, 2026🇾🇪 Yemen• According to Al-Masirah, two Saudi airstrikes on the Al-Harba area of Sahar district, Saada, completely destroyed a mosque and damaged a school and a drinking-water project.• Saudi forces reportedly launched missile attacks on villages in the border areas of Saada.• Saudi airstrikes reportedly targeted a fuel station in the Al-Mafzar area of Jader, Bani Al-Harith district, north of Sanaa, setting gas trailers on fire. Civil defence teams we",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490600106,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "Hezbollah Missile Strike — Khuzestan, Sanaa, Riyadh: Hourly Updates November 2026 Iran Irans",
+    "location": "Khuzestan, Sanaa, Riyadh, Yemen, Qatar, Oman, Saudi Arabia, Iraq",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Hourly Updates (+ve): November 9-10, 2026🇮🇷 Iran• Iran’s Army Air Force said three Iranian pilots were being held captive in Qatar. Colonel Davoudi, the Air Force’s public relations director, said the military had received no further information about their situation.• Iran reportedly launched two ballistic missiles from a previously unidentified position in Khuzestan Province. No further details about the launches were immediately available.• Iran’s delegation to the IAEA criticized Direct",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490605035,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:Over the past 24 hours, the Saudi warplanes carried out 109 airstrikes and missile attacks targeting civilian areas in Sana’a, as well as in Al-Jawf, Taiz, Amran, Saada, Ma’rib, and Lahij. These attacks were conducted using F-15 and Typhoon fighter jets launched from Khamis Mushait and Taif air bases. Missile attacks also originated from Najran and Jizan. The assaults resulted i",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/iNCkVXxe5MSJLQKCEnSBIRdoSSxuUOcd44QfrSPQnEG_NAE17uO2tUeOYzytEtq6ytxgu5p3F40aNuIdk0SF8OeF_EzDo_HuiFVARLWrCzcr_XcIZYNGygcwYG5SgNw7fXpSpok-Y2Hd3MI1EZeXTNQtimM_mYJ2SCgOmcyrPnaiGvpenV5GxySngavNeBhhwduPxAw6Og3UD3CQuM6rUOC2ZrblR91eXn9x32XOf57XQicZOxaNRO_M5vcsoIAlQ9WXaoOpbpEDKVJ99z35bt0LKMnF6UOU6E4oaXLsE6kpYm4h7B__YvoogmJb_X4M8d_RYqFeml5ILQKV_EFAvA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 489963053,
     "type": "rocket",
     "status": "confirmed",
@@ -179915,6 +180016,70 @@
     ]
   },
   {
+    "id": 490624761,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Aden, Israel: Enemy_MediaMaariv Hebrew newspaper Ashkenazi Israeli army",
+    "location": "Aden, Israel",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi: The “Israeli” army believes that Hezbollah will launch attacks involving dozens, and possibly hundreds, of explosive-laden drones in the next battle.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490629695,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: YemenA military source Yemeni media airspace",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenA military source to Yemeni media:– The airspace of the Kingdom of Saudi Arabia is unsafe, with the exception of the airspace over Mecca and Medina.– The Yemeni Armed Forces warn employees and citizens against approaching Saudi airports and facilities.– Saudi Aramco and its branches in the Kingdom of Saudi Arabia are a primary target for our Yemeni Armed Forces.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490393991,
     "type": "naval",
     "status": "confirmed",
@@ -181001,6 +181166,113 @@
       "other": 0
     },
     "description": "📄 Iran will thwart adversaries’ attempts to force its surrender: President Pezeshkian📌 Tehran, IRNA – President Masoud Pezeshkian has stressed the importance of national unity and greater reliance on domestic scientific and human resources to overcome the country’s challenges, saying Iran will demonstrate through action that external pressure cannot force it to surrender.Addressing a ceremony honoring Iranian medalists at the international science Olympiads in Tehran on Tuesday, Pezeshkian sai",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490609965,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Qeshm Island, Qeshm: IRGC Public Relations Office announced that",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The IRGC Public Relations Office announced that an MQ-1 drone was shot down by the IRGC Aerospace Force’s new air defence system south of Qeshm Island.This is the 18th MQ-1 drone claimed to have been destroyed by the IRGC Aerospace Force’s air defence systems since the end of the 40-day war.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490614896,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bahrain: Islamic Revolutionary Guards Corps releases footage",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | The Islamic Revolutionary Guards Corps releases footage of its operation targeting a radar system belonging to U.S. forces at Bahrain’s Shaikh Isa Air Base.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a18f1c7759.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/t_cI4oaURSISn5LGgT6OeN9ywzfH2Cr2HHrHb4EHIeJTmgE0j3VB2BT-_4rKpOJHkjXpzZnNIq2tah8X9M2HoM19-0zZ6rM7woLW8p_1QfkonVrB-J_F9T5qDxegZnWmb7WOVirHW1TGr0VeI6fTYpKBZ6W7uiGcLewXyrqFQyiSwU_AGqgk85UKoxJ8vAhUOwIYYtIYT3L58-jpxXeawflOcmJqpV5CgIRkY-0kNS05vxzcj49s_dgCu3qmALqy9fT07rk_tNW_6JblsEEoMs8RZkGyLMUWWciuRC_954pT5YL57fj024KP1Wv4zIbumiiNaQLMq9gxuGresnldew"
+      },
+      {
+        "url": "https://t.me/enemywatch/64746",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/t_cI4oaURSISn5LGgT6OeN9ywzfH2Cr2HHrHb4EHIeJTmgE0j3VB2BT-_4rKpOJHkjXpzZnNIq2tah8X9M2HoM19-0zZ6rM7woLW8p_1QfkonVrB-J_F9T5qDxegZnWmb7WOVirHW1TGr0VeI6fTYpKBZ6W7uiGcLewXyrqFQyiSwU_AGqgk85UKoxJ8vAhUOwIYYtIYT3L58-jpxXeawflOcmJqpV5CgIRkY-0kNS05vxzcj49s_dgCu3qmALqy9fT07rk_tNW_6JblsEEoMs8RZkGyLMUWWciuRC_954pT5YL57fj024KP1Wv4zIbumiiNaQLMq9gxuGresnldew"
+      }
+    ]
+  },
+  {
+    "id": 490619828,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Tehran, Strait of Hormuz: Another tanker catches fire after hitting",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Another tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy📌 Tehran, IRNA – Another tanker has caught fire and sustained severe damage after hitting a naval mine while navigating a restricted area east of the Strait of Hormuz, the Iranian Navy says.According to the Navy’s public relations department, the tanker had switched off its navigation systems and was operating in the prohibited zone in violation of announced regulations.​It stressed that “the era of unilate",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
