@@ -237061,6 +237061,47 @@
     "verified": false
   },
   {
+    "id": 1794940852430,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC released footage of the downing of the 18th MQ-1 drone by the United States south of Qeshm Island.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/70ecb26094.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gKHT5rOe3d-iMRxQpRQtYSinHU4otLFHcT7hfKkfVuk9KdfEmfKQhSk_Nj8qgt_4ujjD1wxWF5Nd4h_yBHZ15w59MbICZJwmBN2Q9E92F5O7FFfq23aq8ZNn129_3dV7TA0HNNKE0BaEeTzDOjfZWajm4l7sn8vyLNybKfKuNptqJmG3BPqTVY2GADQVOWJ1oRVufkm4VnU61zTpT0xEViv9lSPVgqrHGnFuHQx-CQbh1LzyFTEoica3w3O9UIy-sP-GZ4Zji9tVT-39tY6Bm7IvTyw0RI9FsTkq5VT0tb5-nYMaHF4QAL7Jl1yHgDYZsqVB7mj0D2SqNh9RJLsUZQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64782",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gKHT5rOe3d-iMRxQpRQtYSinHU4otLFHcT7hfKkfVuk9KdfEmfKQhSk_Nj8qgt_4ujjD1wxWF5Nd4h_yBHZ15w59MbICZJwmBN2Q9E92F5O7FFfq23aq8ZNn129_3dV7TA0HNNKE0BaEeTzDOjfZWajm4l7sn8vyLNybKfKuNptqJmG3BPqTVY2GADQVOWJ1oRVufkm4VnU61zTpT0xEViv9lSPVgqrHGnFuHQx-CQbh1LzyFTEoica3w3O9UIy-sP-GZ4Zji9tVT-39tY6Bm7IvTyw0RI9FsTkq5VT0tb5-nYMaHF4QAL7Jl1yHgDYZsqVB7mj0D2SqNh9RJLsUZQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794940870724,
+    "type": "missile",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Sounds and explosions on Qeshm Island are related to missile launches and should not be interpreted as an act of aggression.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

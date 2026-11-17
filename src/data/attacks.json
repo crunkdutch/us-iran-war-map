@@ -181269,7 +181269,18 @@
     "description": "🇮🇷 | The IRGC Public Relations Office announced that an MQ-1 drone was shot down by the IRGC Aerospace Force’s new air defence system south of Qeshm Island.This is the 18th MQ-1 drone claimed to have been destroyed by the IRGC Aerospace Force’s air defence systems since the end of the 40-day war.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/70ecb26094.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gKHT5rOe3d-iMRxQpRQtYSinHU4otLFHcT7hfKkfVuk9KdfEmfKQhSk_Nj8qgt_4ujjD1wxWF5Nd4h_yBHZ15w59MbICZJwmBN2Q9E92F5O7FFfq23aq8ZNn129_3dV7TA0HNNKE0BaEeTzDOjfZWajm4l7sn8vyLNybKfKuNptqJmG3BPqTVY2GADQVOWJ1oRVufkm4VnU61zTpT0xEViv9lSPVgqrHGnFuHQx-CQbh1LzyFTEoica3w3O9UIy-sP-GZ4Zji9tVT-39tY6Bm7IvTyw0RI9FsTkq5VT0tb5-nYMaHF4QAL7Jl1yHgDYZsqVB7mj0D2SqNh9RJLsUZQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64782",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/gKHT5rOe3d-iMRxQpRQtYSinHU4otLFHcT7hfKkfVuk9KdfEmfKQhSk_Nj8qgt_4ujjD1wxWF5Nd4h_yBHZ15w59MbICZJwmBN2Q9E92F5O7FFfq23aq8ZNn129_3dV7TA0HNNKE0BaEeTzDOjfZWajm4l7sn8vyLNybKfKuNptqJmG3BPqTVY2GADQVOWJ1oRVufkm4VnU61zTpT0xEViv9lSPVgqrHGnFuHQx-CQbh1LzyFTEoica3w3O9UIy-sP-GZ4Zji9tVT-39tY6Bm7IvTyw0RI9FsTkq5VT0tb5-nYMaHF4QAL7Jl1yHgDYZsqVB7mj0D2SqNh9RJLsUZQ"
+      }
+    ]
   },
   {
     "id": 490614896,
@@ -181525,6 +181536,75 @@
         "thumbnail": "https://cdn4.telesco.pe/file/V7Mq0EB0u1uMDDTKr8wlymQVz34YafNshUEKRKZ0bdTLfFXXEePQw0MFT0lB71ys0itpIzkpaZAq5Eu5gIF8n46mU7YNsrR7LsCQZP5tlRX542GRhlvu5mxnXogZFcfAJpcPFqai7ql7IPuvIES1I3XGdyGXb47P2j56aGJF18TUiXGhPEMUVHREk039cKJ4L_hmLeU4Aro9KxeY918gw6qwuiDADsB5Qvne4RP0B3U7bFJixqs-TYBXASf5-JzRWAX1ABoHJSH12m-te9Q3O-k1wwe6EcqQEWkRhVsghnE7g4_suFZ21hrzQhYklyW0BfaVK_ATvq3OAQNfiVHxZA"
       }
     ]
+  },
+  {
+    "id": 490669203,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: Yemeni Armed Forces spokesperson Brig Yahya",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: By the grace of Allah, our armed forces have successfully carried out two military operations. The first targeted Pumping Station No. 9 on the East-West pipeline, west of Riyadh, in two phases using three drones. The second operation targeted Pumping Station No. 8 on the same East-West pipeline, west of Riyadh, using two drones. By the grace of God, the strikes were precise and direct, resulting in large fires at the targete",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/sTWf0LfZ6NL-feJExAVjaCWke6sk7Lg0wxRHNT7hxkeZpwr5A7SXFj_GGR6f0cO8wAT7uVdWAWBmHShXPl5C7jfdDP6pPV4jVyyJg2srAzjX3OIJ99pGVXkLx1_NMpyK4UXbP0ATEbEUv2-FXkajpFF_KqAP9-_87rGgY73e2FY_7qQv2xqVefytL4bwdyl1PZuZDFw1d7N_e-wWHi1I6w8JVi9dm56LBypWFBiwPwpFQP0pPTaXMFnl-Jx78loKzWIZU3GviPaXe57gdTelXOR3NuDth8QUkXOudtHQ4f3th3sNUzyEyXf_pQ1hdFdM8YFasatKxwCz54ipDjW65A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490674146,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Qeshm Island, Qeshm: Sounds explosions Qeshm Island related missile",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Sounds and explosions on Qeshm Island are related to missile launches and should not be interpreted as an act of aggression.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
