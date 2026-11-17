@@ -15,6 +15,21 @@
     "verified": false
   },
   {
+    "id": 1794897510310,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "1921-03-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Shia Jurist Grand Ayatollah Vahid Khorasani passes away📌 Tehran, IRNA – Grand Ayatollah Hossein Vahid Khorasani, a leading Shia source of emulation and prominent Islamic jurist, has passed away, his office announced on Tuesday.A statement released by his office expressed deep sorrow over the dea...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793030851173,
     "type": "airstrike",
     "location": "Tehran",
@@ -236439,6 +236454,61 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794897472209,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴| Don’t forget Martyr Sayyid Muhammad Muhsin Musawi, who was brutally assaulted, tortured, and killed by the Bahraini regime.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/iialL68Cir_0mD4JgirYEh1ybIe5KM8zrmpuVbmvJC8Ob3FZ0MQTl9GLFMcEFmUM3bqMLW5q_sLJccB59ixOHeGi3KubvSqHJhrhmAHUBVJ5fCxoUzRi0j2kMYfkDhPT7qFh1EsgcPnTq4_d2mPGowpPQzuEO9c-nYmDUBqJeMP3e3z7hDQIfbxGv0ezARhhs_pm_bApFxu_MfgTLXbdvV6HFpgirAROvWUJK1fpuMFe9Ed2rU2WmpIKRdiis_iya_81aboYSa9yn-UoFCaDykGQrO8HWF1GHj2aH2bwJC019_28G4BO87RR16UfZyVOZv5TFNQztF7zSn03oI4Zww.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794897447568,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | We will take his revenge. We will not allow Bahrain to carry this out. He was 32 years old, a descendant of Prophet Muhammad (S):Our martyr, Sayyid al-Musawi, was martyred today at the age of 32 at the hands of the executioners of the Bahraini regime, in an act of revenge against his stance r...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/foUsTHCfhA6ImVDltQYwc08oizW1oEW4wRT-hA91L3dIdYuEnKzzwgXo-fB6oKcP4iWxIM6sEEtaqMd1qF__jXUXAuIuSJrcWHxRUu6C798NuglSzijm0BuQOr-BRDyHDrUeONClf8-yk97Af9K4Fkzre3NARoiU82rmSvpo1jFGQk3E2lgFdwYRRd5mBGH-FrNE8S7FHWYwHdK5cBY9TwN_MD5sCo_SPcbaXWx8UAdkXKLHzzoReaen3qdBPmKJ-p7LgR0utPp1wAT21_uh84U0qZJCrfQx0S3ef4tD5V1wRYLgtJiqieCwPfUnRvHbNIxtwLf0cFFAXGoeZZUgLg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794897491642,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Ghalibaf warns of threat of attacks on Iran’s dams📌 Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has criticized a New York Times report on Iran’s dams, warning against attempts to justify attacks on civilian infrastructure.In a post on his X account on Tuesday, Ghalibaf wrote, “Pre...",
+    "media": [],
     "verified": false
   },
   {

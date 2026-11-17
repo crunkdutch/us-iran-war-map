@@ -180777,6 +180777,38 @@
     "media": []
   },
   {
+    "id": 490565631,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-16",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Israel: Ghalibaf warns threat attacks Irans dams",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Ghalibaf warns of threat of attacks on Iran’s dams📌 Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has criticized a New York Times report on Iran’s dams, warning against attempts to justify attacks on civilian infrastructure.In a post on his X account on Tuesday, Ghalibaf wrote, “Prepping the next round on civilian infra, their ‘experts’ tell NYT: ‘dams near Iran’s missile sites are dual-use.’”​“Cool. New rule: Any dam, port, or power plant near a US or Israeli base is dual-use. ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490555790,
     "type": "drone",
     "status": "confirmed",
