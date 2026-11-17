@@ -181484,6 +181484,49 @@
     "media": []
   },
   {
+    "id": 490664261,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: collection photos videos showing targeting burning",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | A collection of photos and videos showing the targeting and burning of oil tankers in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ab7d6c14d5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V7Mq0EB0u1uMDDTKr8wlymQVz34YafNshUEKRKZ0bdTLfFXXEePQw0MFT0lB71ys0itpIzkpaZAq5Eu5gIF8n46mU7YNsrR7LsCQZP5tlRX542GRhlvu5mxnXogZFcfAJpcPFqai7ql7IPuvIES1I3XGdyGXb47P2j56aGJF18TUiXGhPEMUVHREk039cKJ4L_hmLeU4Aro9KxeY918gw6qwuiDADsB5Qvne4RP0B3U7bFJixqs-TYBXASf5-JzRWAX1ABoHJSH12m-te9Q3O-k1wwe6EcqQEWkRhVsghnE7g4_suFZ21hrzQhYklyW0BfaVK_ATvq3OAQNfiVHxZA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64743",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V7Mq0EB0u1uMDDTKr8wlymQVz34YafNshUEKRKZ0bdTLfFXXEePQw0MFT0lB71ys0itpIzkpaZAq5Eu5gIF8n46mU7YNsrR7LsCQZP5tlRX542GRhlvu5mxnXogZFcfAJpcPFqai7ql7IPuvIES1I3XGdyGXb47P2j56aGJF18TUiXGhPEMUVHREk039cKJ4L_hmLeU4Aro9KxeY918gw6qwuiDADsB5Qvne4RP0B3U7bFJixqs-TYBXASf5-JzRWAX1ABoHJSH12m-te9Q3O-k1wwe6EcqQEWkRhVsghnE7g4_suFZ21hrzQhYklyW0BfaVK_ATvq3OAQNfiVHxZA"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
