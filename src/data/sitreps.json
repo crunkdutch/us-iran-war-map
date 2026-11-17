@@ -237102,6 +237102,36 @@
     "verified": false
   },
   {
+    "id": 1794948023455,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇦 ❌ 🇾🇪 | Several explosions were heard in Sanaa, resulting from a Saudi aggression targeting residential areas.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794948078463,
+    "type": "drone",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🇮🇶 | Two drones targeted Iranian Kurdish opposition terrorist groups' sites in Sulaymaniyah Province, Iraqi Kurdistan. 🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

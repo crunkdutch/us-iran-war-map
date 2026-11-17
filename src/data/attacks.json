@@ -181607,6 +181607,75 @@
     "media": []
   },
   {
+    "id": 490679090,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni Armed Forces spokesperson Brig Yahya",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Our armed forces carried out a precise targeting operation against the early warning radar in Sharurah using a drone, and the hit was direct, by the grace of Allah.🚩@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/XJzW3RHiBHQ9R2CjIzRInNqD6XEk1PBYv2vAIg1Vro13xgC40r3MecxSX7Dn7B555hdJi7q6s_Ac2IDLYq5_U0i57ir5jTXau_nzboXkLjvjBjyo4215wDyAxs7NQsU0zLQXEYAvEGang0kscljmPfwFfcq6dVliIV1Umi4WZ3_8qrQ5pQueqFmSKsvtYZQCwDna9e09OhwToV3yN8X7lDnscYYXS1LcyPx8bZtrujTW3y63WUNEdu2dsQdhqJedZCWxtbVkjpL8J6qPwu91v_OGyuUDuoUczbePnmB2_MXpY1YP8TO7eYC-Mo3hcwMhsXnmd-StffptA6_qfLXJqA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490684035,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Iraq: drones targeted Iranian Kurdish opposition terrorist",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🇮🇶 | Two drones targeted Iranian Kurdish opposition terrorist groups' sites in Sulaymaniyah Province, Iraqi Kurdistan. 🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
