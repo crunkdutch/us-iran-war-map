@@ -233018,6 +233018,14 @@
       {
         "url": "https://cdn4.telesco.pe/file/gCAHd206-_CwRD78IDzKi_mnzRt0cVojBI7GMDVSjKZrRn5h84Pu_PfHFZMJog4FvOLtjcjXx3ySYQ4pOgRZuPDnXyMGsvSFbuc1YmukYIPecYpIPyeiclU_rQS_WmJZTh5Ge_CC9Zqa_cM0AoCL1-EoJTE3I_yfS_wgQuZfaJPkh5AU5lukZ1hteZzpiqERU99Rs97cuhLCIiqplrhYUDxYzJZ5KdLMcdVHDuJga4Rydq3DwcXg84Jt-216-dJwf6kVw7Pm0tratr3WWH2Eos9sB9xTo0R126BDuP1HsJbCZCfB5oB-l823KWAvsbOfNWjlsW20u4xnLRU0WkT6bQ.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MHceWdnbZCAINqKgPBcHQIdjJBUBB1XADFIcitnq7X7fNG-cwg6GOU2-Wh_4llclf7xpOtVqHy8elZkXz8eRlc0x1AgcWutPHjM04mPVWo0f-_UC08mQ7ZNEKjrkPDtTQcQleATJfSfX0SoGh4yXuFPNnefAk_ikol6jYqmVxZCcfc9YKo2q2WWobodZb0fm1kuFymcaIaLqG8mIi08SmvIll0YtQeUmS-y2TpWqEfhxSecSpgx2ddmcdsB7fY2CYfqMk1922c3uPVSDmZ1XAKm1cwEe55SsXCoFndWjI6IxJeU4-BBt2pf7ynQRhk5IzfrHDPdPTc4336h4Y0TiHQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hujNlr6kcvjPJPRF4yGKSjuQ8oqfroJCYrXF6rKdLtD7X06GjdTqH-LpGAGKCkOaGGHbNjB3u0tmobG1dpcUhttlAI-VP2lt17Sf7Ocf4wgqKZ9PMq2CWPZxsYfqL8jfcKco1qR_PmGEcWwZVTLBjZ7_HmLoqeaHOaojjLa14MtvZXkIxBC6dSLkSgbxKguROvSByqcAL5Df3LJRM0xwnfyvOaUY4nuLHJSTf82yRQ2PK-KXJbXyaADairRL4oi4RIkeaTmvoRNvdvCZiQhwvBn8LN2D86awjaJMWsUIBjcT_2_v-Bj5ycOuj61rqGiatxt2rw1IEge5Y5V4g_1IHg.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -236547,6 +236555,67 @@
     "verified": false
   },
   {
+    "id": 1794911905563,
+    "type": "airstrike",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Hearing of an explosion in Ahvaz due to the detonation of unexploded ordnance.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794911945381,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-16",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | A massive explosion strikes a non-compliant supertanker and an LPG carrier in the Strait of Hormuz:IRGC Navy Public Relations Office:A few hours ago, two non-compliant vessels struck naval mines, triggering extremely powerful explosions and fires.One of the vessels was a supertanker carrying ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ab7d6c14d5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V7Mq0EB0u1uMDDTKr8wlymQVz34YafNshUEKRKZ0bdTLfFXXEePQw0MFT0lB71ys0itpIzkpaZAq5Eu5gIF8n46mU7YNsrR7LsCQZP5tlRX542GRhlvu5mxnXogZFcfAJpcPFqai7ql7IPuvIES1I3XGdyGXb47P2j56aGJF18TUiXGhPEMUVHREk039cKJ4L_hmLeU4Aro9KxeY918gw6qwuiDADsB5Qvne4RP0B3U7bFJixqs-TYBXASf5-JzRWAX1ABoHJSH12m-te9Q3O-k1wwe6EcqQEWkRhVsghnE7g4_suFZ21hrzQhYklyW0BfaVK_ATvq3OAQNfiVHxZA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64743",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V7Mq0EB0u1uMDDTKr8wlymQVz34YafNshUEKRKZ0bdTLfFXXEePQw0MFT0lB71ys0itpIzkpaZAq5Eu5gIF8n46mU7YNsrR7LsCQZP5tlRX542GRhlvu5mxnXogZFcfAJpcPFqai7ql7IPuvIES1I3XGdyGXb47P2j56aGJF18TUiXGhPEMUVHREk039cKJ4L_hmLeU4Aro9KxeY918gw6qwuiDADsB5Qvne4RP0B3U7bFJixqs-TYBXASf5-JzRWAX1ABoHJSH12m-te9Q3O-k1wwe6EcqQEWkRhVsghnE7g4_suFZ21hrzQhYklyW0BfaVK_ATvq3OAQNfiVHxZA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794911955431,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-16",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The criminal Bahraini regime threw a shia young man Hassan Al-Najjar from the rooftop after raiding his home. It is refusing to disclose his fate or allow him to see his parents and family.#BahrainShia ▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ga9tsbVRuGWXyB4t_AeZrogLaNE8boOLE5uB47JS0ysuJhIiSPqryZ9w9rTvD0jf23xLC7wy0YkODpmPsV9Y2igVvO0jNnXK_dHsFQR1GaIGOQDOc2Jz3n9Ypih321EVpTOLKZcW_gFo0itGUC5vlU3Y5M6Y5OahC0fEzHUSwdqfg4yL3XMLzuIXk8CXtLcXFg7Ouyp-Cszfws37FKbUiY8mKcDqohg3e5JM3naEcK-gEAoCq_b-hqvzXed-_bn1xe-VtR1D5hwFvDnGxeOyGaT5wfHUqvQT9HTU1GSHbs50Yh_5qkosVesKA5KX5hMeFvUYjyKEYgSNstw7Bd9pSQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794890284900,
     "type": "drone",
     "location": "Tehran",
@@ -236558,6 +236627,36 @@
     "source": "IDF",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Hourly Updates: November 17, 2026🇸🇾 Occupied Syria• Israeli forces expanded their incursions into the Quneitra countryside and conducted a new patrol in the central region.• At least 10 Israeli violations were reported in southern Syria over the past 24 hours, including five military incursions...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794911950948,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 President condoles Ayatollah Vahid Khorasani’s passing📌 Tehran, IRNA — President Masoud Pezeshkian has extended his condolences over the passing of Grand Ayatollah Hossein Vahid Khorasani, a leading Shia religious authority and distinguished Islamic scholar.In a message on Tuesday, Pezeshkian, w...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794911966976,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran will thwart adversaries’ attempts to force its surrender: President Pezeshkian📌 Tehran, IRNA – President Masoud Pezeshkian has stressed the importance of national unity and greater reliance on domestic scientific and human resources to overcome the country’s challenges, saying Iran will dem...",
     "media": [],
     "verified": false
   },
