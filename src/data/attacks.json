@@ -176361,6 +176361,38 @@
     ]
   },
   {
+    "id": 490654380,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "IDF/Israel Cyber Attack — Tel Aviv, Israel: Enemy_MediaIsraeli media Israeli police General Security",
+    "location": "Tel Aviv, Israel",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: The “Israeli” police and the General Security Service (Shin Bet) are investigating leaflets discovered today in the city of Tel Aviv, which are suspected of being linked to an Iran-affiliated cyber hacking group.According to the police, the leaflets, which contain a QR code, were found inside mailboxes at several addresses in northern Tel Aviv.The police explained that the QR code leads to a website containing “threatening content”.A screenshot released by the police",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489724428,
     "type": "airstrike",
     "status": "confirmed",
@@ -180452,6 +180484,43 @@
     "media": []
   },
   {
+    "id": 490659320,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Unknown Interception — Strait of Hormuz: Islamic_RepublicIssued Army Public Relations DepartmentOne h...",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIssued by the Army Public Relations Department:One hour ago, a Lucas-type drone was targeted by the indigenous systems of the Army’s Air Defense Force, operating under the control of the country’s integrated air defense network, over the Strait of Hormuz, and destroyed.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/I-AMZ3tqUomKrIW92W0St2s_EuVQXyD8w07iWowO75HRiiDqNRhfguyQxYfcTV8Rdgc0RodSrBj0s-PZ9pESGzsiWdGvpItwN_a7SRtL6puh_YOAp6Ak3sweUeZueew6-dUkfzO-gWwZ692Y8fYOMwaLKHxyIyPoPZHWyEPIeGuJWFM-9Pw7NQUOXL_eOCxIjArNBxhBKb1N_DQTrobEQYFMTYF4vWIxN8IbfJxEjFlf13IW_Xrt7ysFd3gkOQu9soOr9JZItDy1ehkzxs-cZiHp9qPVEhyHXuszwh6ztleh7sabrWZT25VxqLM9fETADlz4AK2T3yyIb-J8qP3mug.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490482110,
     "type": "airstrike",
     "status": "confirmed",
@@ -181273,6 +181342,143 @@
       "other": 0
     },
     "description": "🖥 Another tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy📌 Tehran, IRNA – Another tanker has caught fire and sustained severe damage after hitting a naval mine while navigating a restricted area east of the Strait of Hormuz, the Iranian Navy says.According to the Navy’s public relations department, the tanker had switched off its navigation systems and was operating in the prohibited zone in violation of announced regulations.​It stressed that “the era of unilate",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490634630,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Qeshm Island, Qeshm: Confirmed reports have emerged round strikes",
+    "location": "Qeshm Island, Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ ❌ 🇮🇷 | Confirmed reports have emerged of a new round of US strikes targeting air-defence platforms on Qeshm Island. No casualties have been reported so far.🔻@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490639566,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Strait of Hormuz: Iranian Revolutionary Guard Corps hour Lucasmodel",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian Revolutionary Guard Corps: One hour ago, a Lucas-model drone was shot down over the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Kuk_YZQdVhZ4zaa46rKiZvm62V3OGN2OewWkvA5eZGy8Kc5GMBfbq6oOcDUbl2jkaVhxzs9mUXmlHTfY3AwD1Oasik43Hn9pA7bAEKmEuodncfyHzR7eklOd6RheiJy0LS-i4CNcQvhmSxXfDNthR7fjkPcm1fbtTXL-BS68v2JK9nSQmSTGoBuWW0NkksbBKFV9i4K5rJqcEEsemWUP8f9uqFRR6rkU7TW0GJt2ateKJdM-j1dzOxPOlHm14gPK_9gnUyCoWiofmBjhjgR2N89JeOf754tEu_RwWbkMD1DnEJu6ViIikS5SCQAC6YPgxhrTrpNjdMMLLilGZUeZJQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/Pmmx5QwwPvDL6ZwjSS0XWH7o0A9XeTLXjzMsjUFVudIfN05oI8PPhwpLNV9MXDfLxyeOEI6vW_cjjb8vGsmmwMiPSRm2A5cdctcnj8X9qUHdNiALY9FQ2w4MhfniA0hfPeWsbxRxnaupQ2r1YMKS0n5WAdTXOXVOo7k_-zeRR92VYt7dpsxU-haN_DjDs8Z_H2P0iDQMI6LtJPRtulveNdUGWRlvAtyDj6BDn4nlARUSYeatRUdB8QxDGnVoRciWaONH1cfIbBnQPyuSkj1xPquvdMsGLaAxsa5_MbslAEAa0X3L7ALEuWQkdpArNBRloKRIDOy--RNnkg2EsafzIQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490644503,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Sanaa, Yemen, Oman: Latest Updates Oman fire broke aboard",
+    "location": "Sanaa, Yemen, Oman, Iraq",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Latest Updates🇴🇲 Oman• A fire broke out aboard an oil tanker off the coast of Oman after it was reportedly targeted for the second time.🇾🇪 Yemen• AnsarAllah is advancing towards the Ad-Dali front, while NRF and Southern Giants forces have been redeployed, likely towards Marib, where heavy fighting is taking place. A PLC offensive in Marib may be in preparation.• Saudi aggression targeted residential areas in Yemen’s capital, Sanaa.• An incident was reported 50 nautical miles southwest of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490649441,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran, Jask, Qeshm Island: Iran warns against malicious campaign justify",
+    "location": "Tehran, Jask, Qeshm Island, Qeshm, Sirik, Khuzestan, Khomeyn, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran warns against “malicious campaign” to justify infrastructure attacks📌 Tehran, IRNA – Iran’s Foreign Ministry spokesperson Esmaeil Baqaei has warned against a malicious campaign to manufacture security pretexts, condemning the baseless allegations linking Iranian dams to missile bases as a means to justify attacks on the country’s vital infrastructure.In a post on his X account, Baqaei stated: “The baseless allegations seeking to link Iran’s dams to missile bases constitute yet another e",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
