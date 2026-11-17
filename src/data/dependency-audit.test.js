@@ -14,6 +14,15 @@ const vulnerableAudit = JSON.stringify({
     },
   },
 })
+const nonActionableAudit = JSON.stringify({
+  vulnerabilities: {
+    picomatch: {
+      severity: 'high',
+      range: '<=4.0.7',
+      via: [{ title: 'picomatch ReDoS', url: 'https://github.com/advisories/GHSA-fc5q-39xc-vjpf' }],
+    },
+  },
+})
 const cleanAudit = JSON.stringify({ vulnerabilities: {} })
 const moderateAudit = JSON.stringify({
   vulnerabilities: {
@@ -48,7 +57,21 @@ test('clean audit skips fixes and alerts', async () => {
     fs.rmSync(root, { recursive: true, force: true })
   })
 
-  test('invalid audit output triggers an alert and skips fixes', async () => {
+  test('non-actionable (dev-only, unpatched) advisories are filtered out and do not alert', async () => {
+  const root = setupFiles()
+  const report = await runDependencyAudit({
+    root,
+    run: () => ({ code: 1, stdout: nonActionableAudit, stderr: '' }),
+  })
+
+  assert.equal(report.scanSuccessful, true)
+  assert.equal(report.requiresAlert, false)
+  assert.equal(report.fixAttempted, false)
+  assert.equal(report.findings.length, 0)
+  fs.rmSync(root, { recursive: true, force: true })
+})
+
+test('invalid audit output triggers an alert and skips fixes', async () => {
     const root = setupFiles()
     const report = await runDependencyAudit({
       root,

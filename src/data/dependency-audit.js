@@ -6,6 +6,21 @@ const PROJECT_DIR = path.resolve(__dirname, '../..')
 const PACKAGE_FILES = ['package.json', 'package-lock.json']
 const TELEGRAM_MESSAGE_LIMIT = 4000
 
+// Advisories that have no upstream patch and only affect the dev-only ESLint
+// toolchain (never shipped in the production bundle). These are excluded from
+// findings so they don't trigger a fix attempt or a recurring alert. Remove an
+// entry once a patched version is published and npm audit reports a fix.
+const NON_ACTIONABLE_ADVISORIES = new Set([
+  // picomatch ReDoS through single-branch repeated extglobs (<=4.0.7). No
+  // patched release as of 2026-11; dev-only via eslint-config-next.
+  'GHSA-fc5q-39xc-vjpf',
+])
+
+function advisoryIsNonActionable(advisory) {
+  const ghsa = (advisory.url || '').match(/GHSA-[a-z0-9-]+/i)
+  return ghsa ? NON_ACTIONABLE_ADVISORIES.has(ghsa[0]) : false
+}
+
 function runNpm(args, cwd = PROJECT_DIR) {
   try {
     const stdout = execSync(`npm ${args.join(' ')}`, {
@@ -38,8 +53,10 @@ function parseAudit(result) {
         range: vulnerability.range,
         advisories: (vulnerability.via || [])
           .filter(item => typeof item === 'object')
-          .map(item => ({ title: item.title, url: item.url })),
+          .map(item => ({ title: item.title, url: item.url }))
+          .filter(advisory => !advisoryIsNonActionable(advisory)),
       }))
+      .filter(vulnerability => vulnerability.advisories.length > 0)
     return { ok: true, vulnerabilities }
   } catch {
     return { ok: false, vulnerabilities: [] }
