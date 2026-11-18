@@ -237484,6 +237484,56 @@
     "verified": false
   },
   {
+    "id": 1795012980714,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-17",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHezbollah and Amal Movement Leaderships:– A meeting bringing together Hezbollah Executive Council Chairman Sheikh Ali Daamoush and Amal Movement Executive Board Chairman Dr. Mustafa Al-Fouani discussed developments, “Israeli” aggressions, ways to strengthen the domestic front, and how to add...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795012999724,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 | Latest Updates: November 17–18, 2026🇾🇪 YemenThe Yemeni Armed Forces launched an operation titled “And Allah encompasses them from behind” in response to Saudi aggression and crimes committed against prisoners in Dhubab district. A high-ranking Yemeni military source reported that thousands of...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795012963959,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian politician and a member of the Islamic Consultative Assembly (the Iranian Parliament) Ali Khezrian:The Kata'ib Hezbollah brigades will remain as the loyalists have known them: steadfast in their position, pure in their path, and loyal to Iraq and its people. Tribulations may multiply ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/o5VpMTsdhA6lfD9PK4FfJO7Km_jQDBk7nlVphjYYiGSOBpYyCU0zFkifF6N9253W5yGUUMXCv1_W0FDLKK8i9UdJVO3KjdrRqGVzC_lxufQsV5g0HnRlBXwsRLKCLcOZCqqK57oU5BjcLQYyytm988L7L09KluAtRPi1SjJWPYNOZ4cyC3zHS0ifS2gvdo2l5KX9jNLa5RnMbZh8z8b8teEbOjpqXngSuaGCuWCe4KZixIj1G7APesJ1Xs3DIhGgSiHYFN2mhQtHYIfaIhev4RvWri8z_9YSYwB-LSrj0o1L5_3aRAI5Nv50hbwOd_3nJtACmuJsuNqubo3TleGbfQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

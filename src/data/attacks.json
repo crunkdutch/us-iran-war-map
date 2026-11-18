@@ -181933,6 +181933,75 @@
     ]
   },
   {
+    "id": 490728585,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: LebanonHezbollah Amal Movement Leaderships meeting bringing",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHezbollah and Amal Movement Leaderships:– A meeting bringing together Hezbollah Executive Council Chairman Sheikh Ali Daamoush and Amal Movement Executive Board Chairman Dr. Mustafa Al-Fouani discussed developments, “Israeli” aggressions, ways to strengthen the domestic front, and how to address the needs of residents and the requirements of the current phase.– Hezbollah and Amal Movement affirmed the need to compel “Israel” to completely cease its aggressions and violations, withdraw fr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/WYuR9aJwwBCFGdIgkO3FwNm8gvXylClQiCL-FE_lKywlPRrqta-OuS3MLXMnprN_82aiz2u4_aKQgI15eranp03pYPpguYAhHchOmO0XiD3c4w5bikledr4BrYnJzyX4jgo0VTeeAKuNc4MwTsYA7-bBNLbiM2Bv1EHrs37g8HoMOrvQBv5Z6cNX32tjujYZLjBfwLaEgnCZUZg_wxPPhYxTW_5HYV-4KLtW4JAb0czPA4wlVoU9ixxGaM_1cs7EuW_BCOSAztN_8TJIqs0S-ppAD5gDSuhs2yPGcRjR7CqfQe8Eq1MivBLyBCCkMcVi7HW_ri8tEPMqSonw4n8LRg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490723631,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Tehran, Kerman, Kermanshah: Latest Updates November 1718 2026 YemenThe",
+    "location": "Tehran, Kerman, Kermanshah, Riyadh, Lebanon, Jordan, Yemen, Oman, Saudi Arabia, Iraq, Israel, Qusayr",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 | Latest Updates: November 17–18, 2026🇾🇪 YemenThe Yemeni Armed Forces launched an operation titled “And Allah encompasses them from behind” in response to Saudi aggression and crimes committed against prisoners in Dhubab district. A high-ranking Yemeni military source reported that thousands of Saudi-affiliated fighters were killed or wounded during the operation, while hundreds of armed personnel were captured.The operation reportedly secured 10 districts across Taiz and Lahj. In Al-Maqati",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
