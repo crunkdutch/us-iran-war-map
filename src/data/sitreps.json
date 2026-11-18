@@ -237167,6 +237167,42 @@
     "verified": false
   },
   {
+    "id": 1794976868148,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-17",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶/ 🇮🇶 | The Iraqi Islamic Resistance Movement, Kata’ib Hezbollah, has released a video accompanied by a particularly telling caption:“Those who disbelieve wish that you would abandon your weapons and your baggage, so that they may attack you with a sudden attack.”🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64793",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/X9Oq0w-2cAY07miD0OICIkotVseryttUwwWT2gwQbDtDeq77z0r5DPGWkgEFaoPY0HpFWVpt10FTYimbkYLCiuB7lNQT--GXVBQo2rHvHkgtJwx9fxWdp84XuMJlB42kK9hf_wg48YuKF4FHEsdu_KrNKgtMhXjgYpncFS7XVeUFofS4JjEa4eWUfBQ4LfnmbgCjFpJuWqE4Za5W4eU7zEb4sh-5aJx3JyU6-4cZuXDWcaumE0qejvGQgg2TyqRO2gnYhk70hGg6t_-TvqIYJBLuRBS3esGlod9MwUw1_n2AjVKn5i4uOVGM_Siz4EHJuj0Kym0i75AT1A_xmOy8RQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1794976891251,
+    "type": "intercept",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-11-17",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Army:Dawn today, combat drones belonging to the Iranian Army targeted the Patriot air defense systems, as well as drone and missile launch platforms of the terrorist U.S. Army at Ali Al-Salem Air Base in Kuwait.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
