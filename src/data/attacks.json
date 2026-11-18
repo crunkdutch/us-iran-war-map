@@ -182162,6 +182162,43 @@
     "media": []
   },
   {
+    "id": 490758330,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces spokesperson Brig Yahya",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Over the past 24 hours, the Saudi air force carried out 87 airstrikes and missile attacks targeting civilian sites in the capital, Sana’a, and the governorates of Al-Jawf, Taiz, Amran, Lahj, Saada, Al-Bayda, Marib and Ibb.The attacks were conducted using F-15 and Typhoon fighter jets that took off from the Khamis Mushait and Taif airbases, while missile strikes were launched from Najran. The attacks resulted in civilian casu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/MZRMliUSiC-z3ZySfzUL0YWPXcrUrXIZ9Jv9VMKecLUAVhXux7yvOrCu7Sm-DU_pWTm-3Qhno5RP1DG361ZyXJ4hBjYI71vTMlg_vdc4qRe7c83iXAAJReWwsvXvJ8mwAhfOayk7KBReAspiAsOIv8_kgEtsvuP3_4_3h7XYcERO1g30FQnfdhtwhbMV0ebA-TD_fSxfJskjghjNDJG8PoI4yCKBLU6r7KFvU62g8LhDbhGlQ9B_nHqwfRL3x-STmu3_9TxWsUGNPU6k2ejU9w6dK92Osi0dFAdnqQ_qG_fpEhYybEZUNsuZHg_qDXNNzE1VIgRzFd8mO-6STqcN7w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
