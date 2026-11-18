@@ -237499,6 +237499,21 @@
     "verified": false
   },
   {
+    "id": 1795020261926,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-17",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by Hezbollah Regarding the Zionist Aggression on the Gaza Strip:Hezbollah condemns the Zionist terrorist aggression on the Gaza Strip, along with the accompanying threats, evacuation orders, and forced displacement of thousands of Palestinian citizens from their homes under the weig...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795012999724,
     "type": "intercept",
     "location": "Tehran",
@@ -237531,6 +237546,77 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1795020266372,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴‍☠️ | Crews begin covering their tankers and ships passing through the Strait of Hormuz with nets to protect them from Iranian drones.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e89aa8900a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cNIXIANS04Gs1efQRkOnEenzXtuWyL85O5IVKr7T2SulgAP0lMSf0vWoR4amJrSmBqU3ndyL2Yd7eqCqY3mWwS78LNxFzwB5DwChaTt4T_H9Aqh2PyITS9rF1Nnb4u30t8awGDOhCVtl_Y-wG2J_DWVue7Am5Rsu8HPpPJT2tS_mTT56zLNxBZFAyK44i01QZrAaskupY-TA9qp_4IA-kmtKqS_CZRPBrNGPR5wGY44jrxRyS7OJVYy1w6oHiHmmGhYt-Tj4dQE2i8kzjL88Dn9ksBBzCr2t3q02GVgXxYhfbCFynLMX7HFGPqBMmMwtiU2ouxYLItYqUJ0m3VzzXQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64817",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/cNIXIANS04Gs1efQRkOnEenzXtuWyL85O5IVKr7T2SulgAP0lMSf0vWoR4amJrSmBqU3ndyL2Yd7eqCqY3mWwS78LNxFzwB5DwChaTt4T_H9Aqh2PyITS9rF1Nnb4u30t8awGDOhCVtl_Y-wG2J_DWVue7Am5Rsu8HPpPJT2tS_mTT56zLNxBZFAyK44i01QZrAaskupY-TA9qp_4IA-kmtKqS_CZRPBrNGPR5wGY44jrxRyS7OJVYy1w6oHiHmmGhYt-Tj4dQE2i8kzjL88Dn9ksBBzCr2t3q02GVgXxYhfbCFynLMX7HFGPqBMmMwtiU2ouxYLItYqUJ0m3VzzXQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795020183212,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Hezbollah Statement on the Zionist Aggression Against the Gaza Strip:A new crime against defenceless civilians, who are suffering under an unjust siege and facing an escalating humanitarian catastrophe amid the absence of food and aid, compounded by harsh weather conditions as the winter seas...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795020175030,
+    "type": "drone",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-18",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇱 | Terrorist Israeli forces have launched their first large-scale ground operation in central Gaza since the October 2025 ceasefire, advancing west of the “Yellow Line” near the Bureij and Nuseirat refugee camps. The Israeli military described it as a “concentrated operation” aimed at eliminatin...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795020263648,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Sunni Baloch security officer assassinated in southeastern Iran📌 Zahedan, IRNA – A Sunni Baloch man, tasked with maintaining security in an area in southeastern Sistan and Baluchestan Province, has been assassinated in an armed attack.Local sources said that the attack took place in the Kurin di...",
+    "media": [],
     "verified": false
   },
   {

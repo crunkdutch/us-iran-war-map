@@ -181970,6 +181970,38 @@
     ]
   },
   {
+    "id": 490753370,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Israel, Gaza Strip: Statement Issued Hezbollah Regarding Zionist Aggression",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by Hezbollah Regarding the Zionist Aggression on the Gaza Strip:Hezbollah condemns the Zionist terrorist aggression on the Gaza Strip, along with the accompanying threats, evacuation orders, and forced displacement of thousands of Palestinian citizens from their homes under the weight of bombardment. This constitutes yet another flagrant violation of the Ceasefire Agreement and a continuation of the policy of aggression and criminality that has not ceased since the agreement cam",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490723631,
     "type": "intercept",
     "status": "confirmed",
@@ -181997,6 +182029,134 @@
       "other": 0
     },
     "description": "🟡 | Latest Updates: November 17–18, 2026🇾🇪 YemenThe Yemeni Armed Forces launched an operation titled “And Allah encompasses them from behind” in response to Saudi aggression and crimes committed against prisoners in Dhubab district. A high-ranking Yemeni military source reported that thousands of Saudi-affiliated fighters were killed or wounded during the operation, while hundreds of armed personnel were captured.The operation reportedly secured 10 districts across Taiz and Lahj. In Al-Maqati",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490733540,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Hezbollah Rocket Attack — Israel, Gaza Strip: Hezbollah Statement Zionist Aggression Against Gaza",
+    "location": "Israel, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Hezbollah Statement on the Zionist Aggression Against the Gaza Strip:A new crime against defenceless civilians, who are suffering under an unjust siege and facing an escalating humanitarian catastrophe amid the absence of food and aid, compounded by harsh weather conditions as the winter season sets in.Hezbollah condemns the Zionist terrorist aggression against the Gaza Strip, along with the accompanying threats, evacuation orders and forced displacement of thousands of Palestinian citize",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490738496,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: Terrorist Israeli forces have launched their",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇱 | Terrorist Israeli forces have launched their first large-scale ground operation in central Gaza since the October 2025 ceasefire, advancing west of the “Yellow Line” near the Bureij and Nuseirat refugee camps. The Israeli military described it as a “concentrated operation” aimed at eliminating a threat to its forces. Israeli tanks have reportedly deployed near Salah al-Din Street amid drone strikes and shelling, triggering evacuations and displacement. An airstrike on al-Mughraqa reported",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490743453,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel: Sunni Baloch security officer assassinated southeastern",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Sunni Baloch security officer assassinated in southeastern Iran📌 Zahedan, IRNA – A Sunni Baloch man, tasked with maintaining security in an area in southeastern Sistan and Baluchestan Province, has been assassinated in an armed attack.Local sources said that the attack took place in the Kurin district, located between Zahedan and Khash counties, with the target being a resident named Pir-Mohammad Shahbakhsh, who worked as a security guard.​Ali Khalil-Abadi, deputy for security and law enforc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490748411,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Israel: Palestinian groups Israeli military operation central",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Palestinian groups say Israeli military operation in central Gaza violates ceasefire📌 Tehran, IRNA – Palestinian Islamic Jihad and the Mujahideen Movement have condemned a new Israeli military operation in central Gaza, saying it violated the ceasefire agreement and risked further escalation.Islamic Jihad said on Wednesday that the launch of military operations in central Gaza, the crossing of the so-called “yellow line” and the opening of fire on Palestinians constituted a clear and dangero",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
