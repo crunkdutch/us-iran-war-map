@@ -170020,6 +170020,21 @@
     "verified": false
   },
   {
+    "id": 1794991354829,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-08-07",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Parliament amends bill on Iran’s accession to Mecca Pact📌 Tehran, IRNA – Iranian lawmakers have approved amendments to a bill on the government’s accession to the Mecca Pact.The amendments were approved during an open session of Parliament on Wednesday, held in both virtual and in-person formats...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786291614016,
     "type": "airstrike",
     "location": "Tehran",
@@ -232882,6 +232897,66 @@
     "verified": false
   },
   {
+    "id": 1794991292560,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says: “So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.” Allah Almighty is Truthful In response to the brutal Saudi a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794991346126,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-08",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12 military correspondent:While the “Israeli” army continues to release video footage showing the discovery of Kalashnikov rifles and ammunition depots in southern Lebanon – all of which are old and remnants of the previous war – “Hezbollah” continues to successfully rebui...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794991352528,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-08",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12 military correspondent:The gap between what the “Israeli” army presents to the public and the broader reality in southern Lebanon calls for a reassessment of the significance of “Israeli” achievements and raises the question of whether the threat is actually moving fart...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794991354958,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-08",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement by the Yemeni Armed Forces on the implementation of four military operations targeting Khalid Airport, a number of pumping stations and the Financial Center in Riyadh, Aramco in Abqaiq, and military build-ups belonging to Saudi officer Badr Al-Harbi in Al-Mudharabah and Ras Al-Ara District...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794212503059,
     "type": "missile",
     "location": "Tehran",
@@ -234459,6 +234534,56 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen’s AnsarAllah has launched multiple operations against Riyadh in Saudi Arabia.🔻@enemywatch",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794991294476,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-11",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794991290675,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-11-11",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾💵🇸🇦 The Syrian regime is trying to ‘sell’ foreign ‘revolutionaries’ to the Saudis for new investments in Syria. 🇾🇪🇾🇪⚡️🇸🇦🇹🇷 Turkey is also pushing for this, looking to show its contribution to the Mecca Agreement. ❗️ But the Saudis are no fools—they demand proper military contingents f...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794991348272,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-11",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:▪️ Statement 1 • The Yemeni Armed Forces targeted Pumping Station No. 11 in the Yanbu area using a drone. By the grace of Allah, the operation successfully achieved its objective.• ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Bvle6hey_6ajyn7GIHuHs4-7Pmr6JGglOeysXGomAc-L2He4MsIpu2HbTP5YD4lOB5DIrht6GTGRPXc98LHTFqPrjeVhrggQ9QWItp2nMdA0WCnWh8oNIJ9n8urzQe1iAkgEji4TqI5Yr_yktHPc9bLrGAJz7IvQBwiM9Ox4Itb_9-b3LRKySbWBk7HbOBk5FyqcbVEuVwVvL318IXZ_f4Q7otmFnu9wCMHU6I8GmnysugVw-sdLadFId4e9t9X-y5V0pZHZRoV2kro6aUiJIs-raHRdYZAZyHSLUuhiXoLMcsCbkQu7CjXNBOKjiNh_pUJLZufBY2DVix2cKCSq-Q.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
@@ -237235,6 +237360,36 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1794991342893,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🏴| Breaking — Around one million mourners have gathered in the holy city of Qom, Iran, to bid farewell to Grand Ayatollah Wahid Khorasani (r). He will be laid to rest tomorrow at the holy shrine of Imam Ali al-Ridha (a) in Mashhad, with hundreds of thousands expected to attend the funeral proc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794991323627,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Message from Imam Mujtaba Husayni Khamenei on the Passing of Grand Ayatollah Wahid Khorasani:In a message conveying his condolences on the passing of Grand Ayatollah Wahid Khorasani, Imam Mojtaba Khamenei described him as one of the principal pillars of teaching jurisprudence (Fiqh) and the p...",
+    "media": [],
     "verified": false
   },
   {

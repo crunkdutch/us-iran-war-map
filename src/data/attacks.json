@@ -177117,6 +177117,38 @@
     ]
   },
   {
+    "id": 490713726,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-11-08",
+    "time": "TBD",
+    "title": "IDF/Israel Cyber Attack — Tel Aviv, Israel: Enemy_MediaIsraeli media Israeli police General Security",
+    "location": "Tel Aviv, Israel",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: The “Israeli” police and the General Security Service (Shin Bet) are investigating leaflets discovered today in the city of Tel Aviv, which are suspected of being linked to an Iran-affiliated cyber hacking group.According to the police, the leaflets, which contain a QR code, were found inside mailboxes at several addresses in northern Tel Aviv.The police explained that the QR code leads to a website containing “threatening content”.A screenshot released by the police",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489786230,
     "type": "missile",
     "status": "confirmed",
@@ -178801,6 +178833,43 @@
     "media": [
       {
         "url": "https://cdn5.telesco.pe/file/tAUpo--qiY0fVEN5wt9QGhOhtmV3FwECOfRtvaq1nvOQzP6jiGLq1wrKjrAEx8SU8liDKNiL-BljCnPkw9MPu7KwJArxI4HLUSbwtdVPA1Kce9kfLjqtrnnZMzPaFr4MwC4qfVsRfchCFOUF5FWKOGUxKJ_PXZqKZmjvrrB30sBNbD3n9woBulK4twZ02lXrPglXlDk8gViUUcpIASKh-qeM3wy_VSxjuJjlsKV7eL9Ywhqf4kFC8Nu6kr0ZQIJMhx8BKt_go32dKzqUZGYpumFNGTgTYIolzxMO5nMyjmEyEtEmNh5XkzXOPw4lyMBstINUFv3Hqa4IbfVdI8XsDg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490708775,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Ansar Allah Interception — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:▪️ Statement 1 • The Yemeni Armed Forces targeted Pumping Station No. 11 in the Yanbu area using a drone. By the grace of Allah, the operation successfully achieved its objective.• The Saudi enemy’s claim that it intercepted a drone in the skies over Makkah is yet another fabrication and a continuing moral disgrace. No one in the world believes these allegations and lies anymore",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Bvle6hey_6ajyn7GIHuHs4-7Pmr6JGglOeysXGomAc-L2He4MsIpu2HbTP5YD4lOB5DIrht6GTGRPXc98LHTFqPrjeVhrggQ9QWItp2nMdA0WCnWh8oNIJ9n8urzQe1iAkgEji4TqI5Yr_yktHPc9bLrGAJz7IvQBwiM9Ox4Itb_9-b3LRKySbWBk7HbOBk5FyqcbVEuVwVvL318IXZ_f4Q7otmFnu9wCMHU6I8GmnysugVw-sdLadFId4e9t9X-y5V0pZHZRoV2kro6aUiJIs-raHRdYZAZyHSLUuhiXoLMcsCbkQu7CjXNBOKjiNh_pUJLZufBY2DVix2cKCSq-Q.jpg",
         "type": "photo"
       }
     ]
