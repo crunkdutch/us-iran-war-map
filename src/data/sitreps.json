@@ -30,6 +30,21 @@
     "verified": false
   },
   {
+    "id": 1795005812208,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "1921-03-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Hezbollah chief offers condolences on passing of Ayatollah Vahid Khorasani📌 Tehran, IRNA - The Secretary-General of Lebanon's Hezbollah, while offering condolences on the passing of Ayatollah Vahid Khorasani, emphasized that throughout his life he firmly defended the path of truth.On behalf of m...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793030851173,
     "type": "airstrike",
     "location": "Tehran",
@@ -237405,6 +237420,67 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | Message from Imam Mujtaba Husayni Khamenei on the Passing of Grand Ayatollah Wahid Khorasani:In a message conveying his condolences on the passing of Grand Ayatollah Wahid Khorasani, Imam Mojtaba Khamenei described him as one of the principal pillars of teaching jurisprudence (Fiqh) and the p...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795005775957,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-17",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | An American MQ-9 Drone Destroyed by Iranian Army Air Defense Fire East of the Strait of Hormuz:Islamic Republic of Iran Army: Following the Army Air Defense Force’s successful track record of intercepting and destroying advanced enemy drones, an American MQ-9 drone was detected and promptly d...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d238421dc5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qMsIXnD3bDfENeQDkE54R2k6qPPAKd5clez5yA7ZYvBfosOHpX_kgQb5-la7WhZ-5u4AfEePvaotEcR1lYdY4lMWJjwCxhCo6Mb3uhQ-NcKkW0zYYwW4JlZ084V_d4zFFhvk6fQdYUqD0KDlhpP2qG4i-QHbs8B2Ji_cnprqiDKHgo_plbnz79LfqJZLKJto8Cw6o-x9qlAKIEUAExhGEaz3qQuBjIOJFWbPpgJUULtC3i13bM-yOTuZeXBIvbNPAXbW0EN-jOjTVVIZe1tmKhpy1EZ8ATobkQH74bqiOjtqZTgN7Ns9uGJkSIMhwyH7k391sCZOnC_5EOojSxti4A"
+      },
+      {
+        "url": "https://t.me/enemywatch/64807",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qMsIXnD3bDfENeQDkE54R2k6qPPAKd5clez5yA7ZYvBfosOHpX_kgQb5-la7WhZ-5u4AfEePvaotEcR1lYdY4lMWJjwCxhCo6Mb3uhQ-NcKkW0zYYwW4JlZ084V_d4zFFhvk6fQdYUqD0KDlhpP2qG4i-QHbs8B2Ji_cnprqiDKHgo_plbnz79LfqJZLKJto8Cw6o-x9qlAKIEUAExhGEaz3qQuBjIOJFWbPpgJUULtC3i13bM-yOTuZeXBIvbNPAXbW0EN-jOjTVVIZe1tmKhpy1EZ8ATobkQH74bqiOjtqZTgN7Ns9uGJkSIMhwyH7k391sCZOnC_5EOojSxti4A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795005770628,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran’s deterrence strategy adapts to evolving threats: Defense Ministry📌 Tehran, IRNA – Defense Ministry spokesperson Brigadier General Reza Talaei-Nik says Iran’s deterrence strategy remains dynamic and active in response to the changing nature and patterns of warfare, noting that recent hybrid...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795005780293,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔸For what sin were they killed?🔹On this World Children's Day, we honor the memory of children from #Gaza, #Iraq, #Lebanon, #Iran, #Yemen and beyond who were martyred at the hands of the US and the Zionist regime — children like #ZahraMohammadi Golpayegani, #HindRajab, and thousands of others whose...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/WYuR9aJwwBCFGdIgkO3FwNm8gvXylClQiCL-FE_lKywlPRrqta-OuS3MLXMnprN_82aiz2u4_aKQgI15eranp03pYPpguYAhHchOmO0XiD3c4w5bikledr4BrYnJzyX4jgo0VTeeAKuNc4MwTsYA7-bBNLbiM2Bv1EHrs37g8HoMOrvQBv5Z6cNX32tjujYZLjBfwLaEgnCZUZg_wxPPhYxTW_5HYV-4KLtW4JAb0czPA4wlVoU9ixxGaM_1cs7EuW_BCOSAztN_8TJIqs0S-ppAD5gDSuhs2yPGcRjR7CqfQe8Eq1MivBLyBCCkMcVi7HW_ri8tEPMqSonw4n8LRg.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

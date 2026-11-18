@@ -181890,6 +181890,49 @@
     ]
   },
   {
+    "id": 490718678,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Interception — Strait of Hormuz: American Drone Destroyed Iranian Army Defense",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | An American MQ-9 Drone Destroyed by Iranian Army Air Defense Fire East of the Strait of Hormuz:Islamic Republic of Iran Army: Following the Army Air Defense Force’s successful track record of intercepting and destroying advanced enemy drones, an American MQ-9 drone was detected and promptly destroyed east of the Strait of Hormuz by indigenous air defense systems deployed in southeastern Iran and operating under the command of the country’s integrated air defense network.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d238421dc5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qMsIXnD3bDfENeQDkE54R2k6qPPAKd5clez5yA7ZYvBfosOHpX_kgQb5-la7WhZ-5u4AfEePvaotEcR1lYdY4lMWJjwCxhCo6Mb3uhQ-NcKkW0zYYwW4JlZ084V_d4zFFhvk6fQdYUqD0KDlhpP2qG4i-QHbs8B2Ji_cnprqiDKHgo_plbnz79LfqJZLKJto8Cw6o-x9qlAKIEUAExhGEaz3qQuBjIOJFWbPpgJUULtC3i13bM-yOTuZeXBIvbNPAXbW0EN-jOjTVVIZe1tmKhpy1EZ8ATobkQH74bqiOjtqZTgN7Ns9uGJkSIMhwyH7k391sCZOnC_5EOojSxti4A"
+      },
+      {
+        "url": "https://t.me/enemywatch/64807",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qMsIXnD3bDfENeQDkE54R2k6qPPAKd5clez5yA7ZYvBfosOHpX_kgQb5-la7WhZ-5u4AfEePvaotEcR1lYdY4lMWJjwCxhCo6Mb3uhQ-NcKkW0zYYwW4JlZ084V_d4zFFhvk6fQdYUqD0KDlhpP2qG4i-QHbs8B2Ji_cnprqiDKHgo_plbnz79LfqJZLKJto8Cw6o-x9qlAKIEUAExhGEaz3qQuBjIOJFWbPpgJUULtC3i13bM-yOTuZeXBIvbNPAXbW0EN-jOjTVVIZe1tmKhpy1EZ8ATobkQH74bqiOjtqZTgN7Ns9uGJkSIMhwyH7k391sCZOnC_5EOojSxti4A"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
