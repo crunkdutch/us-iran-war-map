@@ -235787,6 +235787,21 @@
     "verified": false
   },
   {
+    "id": 1794984124328,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-15",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Matan Kahana of the Yashar Party has been elected Speaker of the “Israeli” Knesset with a majority of 66 votes.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794818106272,
     "type": "airstrike",
     "location": "Bahrain",
@@ -237200,6 +237215,26 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | Iranian Army:Dawn today, combat drones belonging to the Iranian Army targeted the Patriot air defense systems, as well as drone and missile launch platforms of the terrorist U.S. Army at Ali Al-Salem Air Base in Kuwait.🔻@enemywatch",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1794984158838,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 / 🏴| An Iranian security force member was martyred during armed clashes with terrorist militants in the border city of Baneh, near the Iraqi border.#BorderThreats🏴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nB_ysDIMhb59LDoxnlxtZRNujToWb9niHESWfrQmdUTQl-cIMtMns40KsGD8i5ZAPtEBlBMvWlFaBsB_Xshmzx5rEznk3ge1BRhosbQQ6Y5mVzIgytDjQBdhJLWpSUJ28BNoAtyEhOHFsx4DakBYTbMYNsJ8cIxHT5LZA3kTYp6R0WGJxtQL5wd31EfL1ihSEkIl5MesxsX8a588p1ensuxesZOgo7f1e8ejZ2mf7KkB7HsbRpXn78jN2f5cxClpbveEbp-ffEwuvXVkhcFQaLoH9hP7Ei0ZtrNhQPG8UVxzWJzQcbxr3Fv9JTSEAAwRYLsho-EPM7dxORiIYGwNEA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
