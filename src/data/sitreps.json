@@ -237914,6 +237914,42 @@
     "verified": false
   },
   {
+    "id": 1795107930868,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces: Footage shows the expulsion of enemy forces, led by Saudi officer Fares al-Shammari, from several positions east of Ragwan District in Marib Governorate.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64851",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/aoXobMIGVkc6RBzS1o1U-li6h2_6Slea8JhHVkNzyKxQ1hHErWTZ9LgTQq2WYGKBEOSsHEAnvJKdZnCNN12k6fvjButXMBxmnPXDmUzu06cwalDPtbmMc0Yc2U3gIR3WUgzlVVfXNLMY0XeD43EuMpvY26e75Lw1X2oyGhiyofDmKE03qe6czOidc1z6f7Hr-2tTcGElIHZe3VjCm4rOk5VRoT00HZX2jyGTA7YUvhbEgi-9SzZL4kywfVgAvV8sAtrJJQ9wPe3KR1j2_koG8PFAegawrHuNsHcRosfyKyUxvCJ1B2NCrfQqb3a5egn4l4xGgyj10F4nzBEyNj08Vg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795107871987,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Latest Updates: November 18–19, 2026🇮🇷 IranA Sunni Basij member, Behnam Pir Mohammad Shahbakhsh, was martyred in Zahedan after being targeted by armed terrorists. Initial reports indicated that the local Baloch Basij member was attacked by armed terrorists shortly before his martyrdom.Two Irani...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
