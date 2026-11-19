@@ -238096,6 +238096,36 @@
     "verified": false
   },
   {
+    "id": 1795122347964,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Statement Issued by the Yemeni Armed Forces:In the Name of Allah, the Most Gracious, the Most MercifulAllah the Almighty says:“So whoever transgresses against you, transgress against him in the same manner as he has transgressed against you.” (Qur’an 2:194)In response to the Saudi aggres...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795122330501,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-19",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "⚓️ | Public Relations Department of the Iranian Army Navy:An hour ago, a fire broke out aboard a non-compliant oil tanker operating within the prohibited zone east of the Strait of Hormuz after it struck a naval mine, rendering the vessel inoperable.The tanker had switched off its navigation systems...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
