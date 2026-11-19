@@ -179440,6 +179440,102 @@
     ]
   },
   {
+    "id": 490847781,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz, Persian Gulf: IRGC Navy Tankers Explode After Entering",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy: Two Oil Tankers Explode After Entering Unauthorized Route in the Strait of Hormuz:Public Relations Office of the Islamic Revolutionary Guard Corps Navy:Last night, two offending oil tankers experienced powerful explosions while transiting the unauthorized southern route through the Strait of Hormuz, despite repeated warnings from the IRGC Navy’s Strait of Hormuz Traffic Control Centre regarding the route’s unauthorized and unsafe status.Both vessels were supertankers carrying a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490852760,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Persian Gulf: Breaking Iranian Army Public Relations DepartmentEarlier",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — Iranian Army Public Relations Department:Earlier today, two oil tankers that recklessly entered the restricted and unsafe area in the eastern Persian Gulf, ignoring warnings and deactivating their radar systems, caught fire. This occurred after they collided with naval vessels.Primary responsibility for the fires aboard the oil tankers in this unsafe and restricted area lies with the lying President of the United States, as well as the ship owners who place their trust in his f",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490862721,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Tehran, Aden, Gaza Strip: Hamas terms Nasser Medical Complex bombardment",
+    "location": "Tehran, Aden, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Hamas terms Nasser Medical Complex bombardment as full-fledged war crime📌 Tehran, IRNA – The Islamic Resistance Movement of Palestine (Hamas), condemning the bombing of the “Nasser Medical Complex” in Khan Younis, southern Gaza Strip, which resulted in the martyrdom of six Palestinian citizens and the injury of 20 others, held the Zionist regime and the Board of Peace responsible for this crime.According to the Palestinian “Shehab News Agency”, the spokesman for the Hamas movement,&nbsp; Haz",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490150916,
     "type": "drone",
     "status": "confirmed",
@@ -182719,7 +182815,18 @@
     "description": "🇮🇶 🇮🇶 | Secretary-General of Kata’ib Hezbollah, Hajj Abu Hussein al-Hamidawi:1. I extend my heartfelt gratitude to all brothers and sisters, both inside and outside Iraq, who have participated and continue to participate in the campaign to defend the victorious men of the Islamic Resistance, against the barbaric attacks launched by the forces of global arrogance in an attempt to undermine their steadfastness and dignity. We all have confidence in Allah’s promise and His victory.2. We express",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/42411e8844.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mHlxPwzTe8WJnV7DOsMnk_vaw3DHX9wUJCPesO3FWuVFttDyczm7ka2HZeYXH_CT6mkH07yWS-mcm4bN_y5fFKiv8VqEaeUWVFPQw3k9w-ALXwlnJ3cRwD8k_NTp_tgjDogKiQcH1zdn-sFctipkVU-M_92kyxAl8Ipmv0OCQ5A_e3RydQORw9dBTXbuH3kGWqb1ii1DkuXEWn0V2aMoP01aevigGNMZK1zas4ijYBKwZiEaJehEubGOBBEKsj7LxICjqYy3ZOvCA6ZI78s6akx4YofkMvBnfA6HxMbhY17gmgSBGwimlp_p8l8LKBDeT45_-UHWUD76OGZTtwU4Rg"
+      },
+      {
+        "url": "https://t.me/Irna_en/42417",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mHlxPwzTe8WJnV7DOsMnk_vaw3DHX9wUJCPesO3FWuVFttDyczm7ka2HZeYXH_CT6mkH07yWS-mcm4bN_y5fFKiv8VqEaeUWVFPQw3k9w-ALXwlnJ3cRwD8k_NTp_tgjDogKiQcH1zdn-sFctipkVU-M_92kyxAl8Ipmv0OCQ5A_e3RydQORw9dBTXbuH3kGWqb1ii1DkuXEWn0V2aMoP01aevigGNMZK1zas4ijYBKwZiEaJehEubGOBBEKsj7LxICjqYy3ZOvCA6ZI78s6akx4YofkMvBnfA6HxMbhY17gmgSBGwimlp_p8l8LKBDeT45_-UHWUD76OGZTtwU4Rg"
+      }
+    ]
   },
   {
     "id": 490837826,
@@ -182781,6 +182888,38 @@
       "other": 0
     },
     "description": "🟡 Latest Updates: November 18–19, 2026🇮🇷 IranA Sunni Basij member, Behnam Pir Mohammad Shahbakhsh, was martyred in Zahedan after being targeted by armed terrorists. Initial reports indicated that the local Baloch Basij member was attacked by armed terrorists shortly before his martyrdom.Two Iranian border guards were previously reported martyred in Kurdistan. Second Lieutenant Abulfazl Fakham, from the Donis border post of the Baneh Regiment, was martyred while on duty after his vehicle overt",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490857740,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-19",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Fars, Bahrain, Kuwait: Fars News Agency Iranian tanker preparing",
+    "location": "Fars, Bahrain, Kuwait, Qatar, Oman, Saudi Arabia",
+    "coordinates": [
+      29.6,
+      53
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Fars News Agency : An Iranian oil tanker is preparing to depart Iran to export oil. And that any disruption along its route will cause explosions at oil facilities in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.🔻@enemywatch",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
