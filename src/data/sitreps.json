@@ -237640,6 +237640,52 @@
     "verified": false
   },
   {
+    "id": 1795064550686,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Yemen’s Armed Forces announced that, with the help of Allah, they successfully targeted King Khalid International Airport and the Financial Centre in the Saudi capital, Riyadh, with a large number of cruise missiles, achieving a...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Bp7WmYjKvGAeKQVWjJjUnQJBEy8M-ynIN3qkIUL0sb4JSULnQ2e7uib6-hIUpjKKSsCEMAZizgEfg-W-mTrjETq9HjyBn2VUPmwNKd-Hsi1NvCObH4QyB7OpRTRZXHI1t6DlLpbekUS6ELJHnxzTZzL7H-furag9a_SfTNxmwBmTsVWbKMv54A55nEc-7g-q70RejJVhP8hFtpzykULx1SuSGx_uKlxvicQ1wbzwI-ml4pe-h1nAwElCdhdfnncI4tdCgU9pdFGWvDma6vP4cqaXmMdXmwP6yozHMsFlqjRFm19iTGjYRFRtk1S4nziefoY3pXsLZfJ2EgTkn4zcuA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795064610301,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-11-18",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Three civilians, including a child, were martyred, and five others, including a woman and two children, were injured in an initial casualty toll following Saudi airstrikes targeting two houses and a mosque in Al-Talahi village, Al-Sabrah district, Ibb Governorate.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2b373bc92b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FkeCvWqTPlvpS7zlI_X4LQRDvhLVC9O4ur8UAiswYLB4XB2xkbss_w7hyV4nKOa4WzBfIYrFT_k4Jlig8NBUu27LFBzrCcoFPxsyf284MZg7O6j6OkRrc5Iy6qd3-_x-J_l5VgSaNTYBs7WPkzCM5Do-wK1TkPzUAadxTy3uJbD0fM74b0pzM9NlG-qAVvEeu0EuQEFwfwGujxaQ79xXoLoCVvcnvzfK6E6Gj2TK3Bicze2cGGm2FWkM7N8_h_hp-yMbu_EKY-EvJgT5wDZXh8fGTlMzdJDE-cF7_HBxjynC6GL7YhuEJOGNnKBdY_rTWRua7g2bfS09w45BCy88dw"
+      },
+      {
+        "url": "https://t.me/enemywatch/64827",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FkeCvWqTPlvpS7zlI_X4LQRDvhLVC9O4ur8UAiswYLB4XB2xkbss_w7hyV4nKOa4WzBfIYrFT_k4Jlig8NBUu27LFBzrCcoFPxsyf284MZg7O6j6OkRrc5Iy6qd3-_x-J_l5VgSaNTYBs7WPkzCM5Do-wK1TkPzUAadxTy3uJbD0fM74b0pzM9NlG-qAVvEeu0EuQEFwfwGujxaQ79xXoLoCVvcnvzfK6E6Gj2TK3Bicze2cGGm2FWkM7N8_h_hp-yMbu_EKY-EvJgT5wDZXh8fGTlMzdJDE-cF7_HBxjynC6GL7YhuEJOGNnKBdY_rTWRua7g2bfS09w45BCy88dw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

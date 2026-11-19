@@ -182199,6 +182199,129 @@
     ]
   },
   {
+    "id": 490763291,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Strait of Hormuz: Public Relations Department Iranian ArmySince this",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Public Relations Department of the Iranian Army:Since this morning, three oil tankers operating illegally in the restricted area east of the Strait of Hormuz, despite warnings from naval forces and after their navigation systems were disabled, struck naval mines, resulting in fires and the vessels being immobilised.Any passage through the Strait of Hormuz is conditional upon compliance with the regulations announced by the armed forces of the Islamic Republic of Iran, conducting the neces",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/96dd8b305a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MZmbYEZaYbloi8iraO5Ba-7bwPeRYYGSXRHCDH-ty1OnFHV7Wu_5ZSwsUuvz-Ao2ANHP32NOd4hlcYVFopMtZ3RFxH_5H2IvQLXNM6FCzJMnYAh3cwHdra0oO4Jo2CKvvyTeXaGq7oheKO8TcB3A9sBSdT8KTiqn-W_zv-sGqEluvyeK0z1VFrqnHEYbBO65yyBzRwXZVOgSgaFV_wgBndoTuTKf1So04MPTD4nnfy0kMeBVPJE5bzakYP1iIUjDw0KjsE5pQWlTkPjL-f6mYX61ajV6U6OXCFWlSKVxlvxwwc43UTKB3xebPn9qLUEecuFn20goe5cppQ8u5nMFsA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64796",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/MZmbYEZaYbloi8iraO5Ba-7bwPeRYYGSXRHCDH-ty1OnFHV7Wu_5ZSwsUuvz-Ao2ANHP32NOd4hlcYVFopMtZ3RFxH_5H2IvQLXNM6FCzJMnYAh3cwHdra0oO4Jo2CKvvyTeXaGq7oheKO8TcB3A9sBSdT8KTiqn-W_zv-sGqEluvyeK0z1VFrqnHEYbBO65yyBzRwXZVOgSgaFV_wgBndoTuTKf1So04MPTD4nnfy0kMeBVPJE5bzakYP1iIUjDw0KjsE5pQWlTkPjL-f6mYX61ajV6U6OXCFWlSKVxlvxwwc43UTKB3xebPn9qLUEecuFn20goe5cppQ8u5nMFsA"
+      }
+    ]
+  },
+  {
+    "id": 490768253,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen, Saudi Arabia: Yemeni Armed Forces spokesperson Brig Yahya",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Yemen’s Armed Forces announced that, with the help of Allah, they successfully targeted King Khalid International Airport and the Financial Centre in the Saudi capital, Riyadh, with a large number of cruise missiles, achieving accurate and direct hits.The operation was carried out in response to Saudi Arabia’s attacks on civilian sites in Yemen.Yemen’s Armed Forces also announced the execution of two military operations:— Th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Bp7WmYjKvGAeKQVWjJjUnQJBEy8M-ynIN3qkIUL0sb4JSULnQ2e7uib6-hIUpjKKSsCEMAZizgEfg-W-mTrjETq9HjyBn2VUPmwNKd-Hsi1NvCObH4QyB7OpRTRZXHI1t6DlLpbekUS6ELJHnxzTZzL7H-furag9a_SfTNxmwBmTsVWbKMv54A55nEc-7g-q70RejJVhP8hFtpzykULx1SuSGx_uKlxvicQ1wbzwI-ml4pe-h1nAwElCdhdfnncI4tdCgU9pdFGWvDma6vP4cqaXmMdXmwP6yozHMsFlqjRFm19iTGjYRFRtk1S4nziefoY3pXsLZfJ2EgTkn4zcuA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 490773216,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Oman: Three civilians including child were martyred",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 | Three civilians, including a child, were martyred, and five others, including a woman and two children, were injured in an initial casualty toll following Saudi airstrikes targeting two houses and a mosque in Al-Talahi village, Al-Sabrah district, Ibb Governorate.▪️@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2b373bc92b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FkeCvWqTPlvpS7zlI_X4LQRDvhLVC9O4ur8UAiswYLB4XB2xkbss_w7hyV4nKOa4WzBfIYrFT_k4Jlig8NBUu27LFBzrCcoFPxsyf284MZg7O6j6OkRrc5Iy6qd3-_x-J_l5VgSaNTYBs7WPkzCM5Do-wK1TkPzUAadxTy3uJbD0fM74b0pzM9NlG-qAVvEeu0EuQEFwfwGujxaQ79xXoLoCVvcnvzfK6E6Gj2TK3Bicze2cGGm2FWkM7N8_h_hp-yMbu_EKY-EvJgT5wDZXh8fGTlMzdJDE-cF7_HBxjynC6GL7YhuEJOGNnKBdY_rTWRua7g2bfS09w45BCy88dw"
+      },
+      {
+        "url": "https://t.me/enemywatch/64827",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/FkeCvWqTPlvpS7zlI_X4LQRDvhLVC9O4ur8UAiswYLB4XB2xkbss_w7hyV4nKOa4WzBfIYrFT_k4Jlig8NBUu27LFBzrCcoFPxsyf284MZg7O6j6OkRrc5Iy6qd3-_x-J_l5VgSaNTYBs7WPkzCM5Do-wK1TkPzUAadxTy3uJbD0fM74b0pzM9NlG-qAVvEeu0EuQEFwfwGujxaQ79xXoLoCVvcnvzfK6E6Gj2TK3Bicze2cGGm2FWkM7N8_h_hp-yMbu_EKY-EvJgT5wDZXh8fGTlMzdJDE-cF7_HBxjynC6GL7YhuEJOGNnKBdY_rTWRua7g2bfS09w45BCy88dw"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
