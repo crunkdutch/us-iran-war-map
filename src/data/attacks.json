@@ -368,6 +368,38 @@
     "media": []
   },
   {
+    "id": 490807985,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "TBD",
+    "title": "IDF/Israel Rocket Attack — Tehran, Minab, Lebanon: From Gaza Minab Childrens dreams buried",
+    "location": "Tehran, Minab, Lebanon, Yemen, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 From Gaza to Minab, Children’s dreams buried under rubble and bombardment📌 Tehran, IRNA – World Children’s Day comes as thousands of children in Palestine, Lebanon, Yemen and Iran have lost their lives in military attacks, while many others have been injured, displaced or deprived of education and a safe childhood.World Children’s Day arrived as more than 21,700 Palestinian children have been killed and over 45,000 injured in Gaza since the war began in October 2023.​The destruction of schoo",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 3,
     "type": "naval",
     "status": "confirmed",
