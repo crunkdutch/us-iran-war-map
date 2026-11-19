@@ -175044,6 +175044,38 @@
     "media": []
   },
   {
+    "id": 490798046,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-11-05",
+    "time": "TBD",
+    "title": "IDF/Israel Cyber Attack — Tel Aviv, Israel: Enemy_MediaIsraeli media Israeli police General Security",
+    "location": "Tel Aviv, Israel",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: The “Israeli” police and the General Security Service (Shin Bet) are investigating leaflets discovered today in the city of Tel Aviv, which are suspected of being linked to an Iran-affiliated cyber hacking group.According to the police, the leaflets, which contain a QR code, were found inside mailboxes at several addresses in northern Tel Aviv.The police explained that the QR code leads to a website containing “threatening content”.A screenshot released by the police",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489549455,
     "type": "airstrike",
     "status": "confirmed",
@@ -177721,6 +177753,70 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 490788111,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen, Saudi Arabia: Statement Yemeni Armed Forces implementation four",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement by the Yemeni Armed Forces on the implementation of four military operations targeting Khalid Airport, a number of pumping stations and the Financial Center in Riyadh, Aramco in Abqaiq, and military build-ups belonging to Saudi officer Badr Al-Harbi in Al-Mudharabah and Ras Al-Ara Districts – 10 November 2026Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah Almighty says: “So whoever transgresses against you, then transgress agai",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490793078,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Lebanon: Islamic_RepublicSecretary Irans Supreme National Security Co...",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council, General Mohsen Rezaei:– Any new American attack will be met with strikes targeting distant American military bases as well.– Ending the war on all fronts in West Asia, particularly in Lebanon, is one of our fundamental conditions.– We will not remove a single atom of enriched nuclear material from Iran.– We have informed our Russian friends that the enriched material will remain in Iran and that we will use it ourselves.– We",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 489886421,
@@ -182320,6 +182416,70 @@
         "thumbnail": "https://cdn4.telesco.pe/file/FkeCvWqTPlvpS7zlI_X4LQRDvhLVC9O4ur8UAiswYLB4XB2xkbss_w7hyV4nKOa4WzBfIYrFT_k4Jlig8NBUu27LFBzrCcoFPxsyf284MZg7O6j6OkRrc5Iy6qd3-_x-J_l5VgSaNTYBs7WPkzCM5Do-wK1TkPzUAadxTy3uJbD0fM74b0pzM9NlG-qAVvEeu0EuQEFwfwGujxaQ79xXoLoCVvcnvzfK6E6Gj2TK3Bicze2cGGm2FWkM7N8_h_hp-yMbu_EKY-EvJgT5wDZXh8fGTlMzdJDE-cF7_HBxjynC6GL7YhuEJOGNnKBdY_rTWRua7g2bfS09w45BCy88dw"
       }
     ]
+  },
+  {
+    "id": 490778180,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab: Envoy Iran faced military campaign intensified",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Envoy: Iran faced military campaign, intensified economic pressure and incitement of unrest last year📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations, Gholamhossein Darzi, says over last year, the Islamic Republic of Iran has faced a coordinated campaign involving military attacks, attempts to incite domestic unrest and exploit it for specific objectives, the imposition of unilateral coercive measures, and intensified economic pressure.Ambassador Darzi made th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490783145,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Bushehr: Iran China Russia conditions resumption IAEA",
+    "location": "Tehran, Bushehr",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iran, China, Russia set conditions for resumption of IAEA verification activities📌 London, IRNA – Iran, China and Russia say that a complete end to hostile acts, the removal of military threats and credible guarantees against further attacks are prerequisites for the full resumption of the International Atomic Energy Agency’s (IAEA) verification activities in Iran.The joint statement was read out by the Russian delegation at the IAEA Board of Governors’ meeting in Vienna on Wednesday, under ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
