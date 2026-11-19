@@ -400,6 +400,38 @@
     "media": []
   },
   {
+    "id": 490827875,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-02-28",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Airstrike — Bandar Abbas, Minab: crime Minab school absolutely unjustifiable Commander",
+    "location": "Bandar Abbas, Minab",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 US crime at Minab school ‘absolutely unjustifiable’: Commander📌 Bandar Abbas, IRNA — The head of the Chiefs of Staff of the Iranian Armed Forces has described the catastrophe at the Minab school as clear evidence of a US crime, stressing that the horrific act committed by the US military against the children of the school is “absolutely unjustifiable.”Major General Ali Abdollahi made the remarks on Thursday during a visit to the Shajareh Tayebeh school in Minab and the graves of the children",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 3,
     "type": "naval",
     "status": "confirmed",
@@ -179371,6 +179403,43 @@
     "media": []
   },
   {
+    "id": 490812956,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:▪️ During the past 24 hours, Saudi warplanes carried out 98 airstrikes and missile attacks targeting civilian sites in the governorates of Lahij, Taiz, Saada, Al-Jawf and Marib. The attacks were conducted using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif airbases, as well as missile strikes launched from Jizan. The attacks left civilians martyred and",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/c-WjS24-6psjhKlaf6MTo_VXP99ZAkjcr2aZbdgOKP8C_Gd4e3_fXWTVxKHH5xcTdnfoJ_ihCVARgHMHCEzAkbO2B70gJGBuNOqioezV-ng__F4BOeqDmFMROx0Ez06-iTpKGDtwu8g4eo8V8y2Hv5a5urh9EBKf8wci4PHh0WX3PaSc62K9sJW4cATRmmCYkjiijXzsP0pJsDpTPsFZeQdCKMN3FmbxqjdA3qdHDpcgDIKRmN73LXEOHf3AlMmwOP_awFBGb5XErxgXMR7QneznWWQmBIQl1xEGAYGzzd3BA_JFMRy9N9_X1CIr3XTpAPrrmjbeaM7sc3Zl7MAB0w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490150916,
     "type": "drone",
     "status": "confirmed",
@@ -182541,6 +182610,81 @@
       "other": 0
     },
     "description": "🎙 ‘Childhood is a right, not a casualty of war’: Iranian Embassy in London📌 London, IRNA – The Embassy of the Islamic Republic of Iran in London has paid tribute to children killed in military attacks in Minab and Lamerd and highlighted the suffering of children in Gaza, stressing that childhood is a fundamental right that must not become a casualty of war.In a post on its X account marking World Children’s Day on Thursday, the embassy paid tribute to the girls of Minab, “whose lives were cut ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490817928,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Strait of Hormuz: Offending Supertankers Explode Strait HormuzPublic Relations",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Two Offending Supertankers Explode in the Strait of Hormuz:Public Relations Department of the Islamic Revolutionary Guard Corps Navy:Two offending supertankers attempting to navigate an unauthorised route through the Strait of Hormuz exploded after striking naval mines.The tankers, carrying a combined cargo of more than four million barrels of crude oil, are now ablaze in close proximity to the southern coast of the Strait of Hormuz.The vessels, supported by American fighter jets and surv",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/a3bc74c34f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/X3T8gVIS0p5-UKQKxMPoEXqXc9STY2FNhCb3Z1DxVEXwKg2Eam7nHA7W1ZI-t2UloIHWXgs3DJrQ_Ksl-wA9vAURPRYPqEHY6uYR6ac1Ctbeu6LKaFN8qm48gUttpZhSyMj_kkT5SlVUnn0NiIC3NHLKO2k0S5-SywNq6H_UGg1znwQr3s2TDxPJsauZCWdnrxomCB6xcz6kkzP770X2oN5K3Elug-7rbxprjQkmglOPor8DT5EKNfbWt2kYJse9gBV9xi68h8l1LmI_SDgAVsbdAZByTGb0Bo6w3T3hfS-zrK8Rbtsp05aRjireLTYdnYujmyAviLYkKAwuECAw9A"
+      },
+      {
+        "url": "https://t.me/enemywatch/64843",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/X3T8gVIS0p5-UKQKxMPoEXqXc9STY2FNhCb3Z1DxVEXwKg2Eam7nHA7W1ZI-t2UloIHWXgs3DJrQ_Ksl-wA9vAURPRYPqEHY6uYR6ac1Ctbeu6LKaFN8qm48gUttpZhSyMj_kkT5SlVUnn0NiIC3NHLKO2k0S5-SywNq6H_UGg1znwQr3s2TDxPJsauZCWdnrxomCB6xcz6kkzP770X2oN5K3Elug-7rbxprjQkmglOPor8DT5EKNfbWt2kYJse9gBV9xi68h8l1LmI_SDgAVsbdAZByTGb0Bo6w3T3hfS-zrK8Rbtsp05aRjireLTYdnYujmyAviLYkKAwuECAw9A"
+      }
+    ]
+  },
+  {
+    "id": 490822901,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Tehran, Strait of Hormuz: more violating supertankers catch fire Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Two more violating supertankers catch fire in Strait of Hormuz: IRGC Navy📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that two supertankers violating maritime regulations have caught fire and exploded after striking sea mines, after attempting to navigate an unauthorized route through the Strait of Hormuz.The IRGC Navy Public Relations Office said on Thursday that the tankers, carrying more than four million barrels of crude oil, are burning close to the sou",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

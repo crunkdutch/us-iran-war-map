@@ -1902,6 +1902,21 @@
     "verified": false
   },
   {
+    "id": 1795093463603,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-02-28",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 US crime at Minab school ‘absolutely unjustifiable’: Commander📌 Bandar Abbas, IRNA — The head of the Chiefs of Staff of the Iranian Armed Forces has described the catastrophe at the Minab school as clear evidence of a US crime, stressing that the horrific act committed by the US military against...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -234933,6 +234948,26 @@
     "verified": false
   },
   {
+    "id": 1795093411157,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-12",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:▪️ During the past 24 hours, Saudi warplanes carried out 98 airstrikes and missile attacks targeting civilian sites in the governorates of Lahij, Taiz, Saada, Al-Jawf and Marib. The...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/c-WjS24-6psjhKlaf6MTo_VXP99ZAkjcr2aZbdgOKP8C_Gd4e3_fXWTVxKHH5xcTdnfoJ_ihCVARgHMHCEzAkbO2B70gJGBuNOqioezV-ng__F4BOeqDmFMROx0Ez06-iTpKGDtwu8g4eo8V8y2Hv5a5urh9EBKf8wci4PHh0WX3PaSc62K9sJW4cATRmmCYkjiijXzsP0pJsDpTPsFZeQdCKMN3FmbxqjdA3qdHDpcgDIKRmN73LXEOHf3AlMmwOP_awFBGb5XErxgXMR7QneznWWQmBIQl1xEGAYGzzd3BA_JFMRy9N9_X1CIr3XTpAPrrmjbeaM7sc3Zl7MAB0w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794550928944,
     "type": "drone",
     "location": "Aden",
@@ -237833,6 +237868,32 @@
         "url": "https://t.me/Irna_en/42418",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/ODCbwrcrjMxc2KDZ0IcLrtVKEcYldeoP1jC7DCACOJeo557cG4oX7ZM0jAFD2ypNpShOq4NQYYqMgkGYT2ozICXekhhLS34M45tqCnwXCqRxwQCkd2_rTpAZARxktFBgi_dn_XrlYoaSqI3y-amxwYBl2I3IYMsEpBZd30VwoBlsMACsJreAOY_HS-o2WgpHkEhV2beZf26beu2jyuErXgng8VvE0JDEOVIQlL0NEjzdaLrsd1T73izYfW1lw9fVWZw3ccS_b-4bvJRA0sHWk2abCx1i9FOhYpIjyqRMlc13YKXyOCP-_tWwRTs1YeqHNMV-lqXdSD6itog6SM8XxA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795093493564,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-18",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Two Offending Supertankers Explode in the Strait of Hormuz:Public Relations Department of the Islamic Revolutionary Guard Corps Navy:Two offending supertankers attempting to navigate an unauthorised route through the Strait of Hormuz exploded after striking naval mines.The tankers, carrying a...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/a3bc74c34f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/X3T8gVIS0p5-UKQKxMPoEXqXc9STY2FNhCb3Z1DxVEXwKg2Eam7nHA7W1ZI-t2UloIHWXgs3DJrQ_Ksl-wA9vAURPRYPqEHY6uYR6ac1Ctbeu6LKaFN8qm48gUttpZhSyMj_kkT5SlVUnn0NiIC3NHLKO2k0S5-SywNq6H_UGg1znwQr3s2TDxPJsauZCWdnrxomCB6xcz6kkzP770X2oN5K3Elug-7rbxprjQkmglOPor8DT5EKNfbWt2kYJse9gBV9xi68h8l1LmI_SDgAVsbdAZByTGb0Bo6w3T3hfS-zrK8Rbtsp05aRjireLTYdnYujmyAviLYkKAwuECAw9A"
+      },
+      {
+        "url": "https://t.me/enemywatch/64843",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/X3T8gVIS0p5-UKQKxMPoEXqXc9STY2FNhCb3Z1DxVEXwKg2Eam7nHA7W1ZI-t2UloIHWXgs3DJrQ_Ksl-wA9vAURPRYPqEHY6uYR6ac1Ctbeu6LKaFN8qm48gUttpZhSyMj_kkT5SlVUnn0NiIC3NHLKO2k0S5-SywNq6H_UGg1znwQr3s2TDxPJsauZCWdnrxomCB6xcz6kkzP770X2oN5K3Elug-7rbxprjQkmglOPor8DT5EKNfbWt2kYJse9gBV9xi68h8l1LmI_SDgAVsbdAZByTGb0Bo6w3T3hfS-zrK8Rbtsp05aRjireLTYdnYujmyAviLYkKAwuECAw9A"
       }
     ],
     "verified": false
