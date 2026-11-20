@@ -1917,6 +1917,21 @@
     "verified": false
   },
   {
+    "id": 1795165652452,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-02-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Tehran summit: Environment a ‘silent victim’ of US-Israeli war on Iran📌 Tehran, IRNA - War against people and war against nature are “expressions of the same state of mind,” American economist Jeffrey Sachs told a Tehran seminar, as Iran hosted an annual event marking the International Day for P...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -235403,6 +235418,97 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#YemenA military source to Yemeni media outlets:– The Yemeni Armed Forces are carrying out their largest flanking operation from the outskirts of the Al-Wazi'iyah Mountains and Kahboub towards Khor Umaira in Lahij Governorate.– The flanking operation extends over more than 60 kilometers through the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795165661320,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-13",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | AnsarAllah’s pincer manoeuvre to secure the Bab al-Mandab front is reportedly nearing completion. Saudi-backed forces have withdrawn en masse from the coastal pocket, with many reportedly captured during the operation.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/9d041bca36.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/aBZxpmtJfrNk-zKyZQTPeWHQvnkW8S3sGR4byd2qA53VWZInyiI9tTOQKXum85zTQTQL6YiuF6_z3Zyw6V_OYeG3S6jw_LQ-RrxH3jxFqbPKP2T-sMy8EzQpLpOTnvnE3NKqXJYnACj9RWVWW1uKX5jM7Thw1gTsdyYS5DqPp6szZFZIC2C0VFDna8h1utAuxiNCAgZHzFCfMGQiP3UKtVybjigdB2DWELbPsSys7rOQmFyhVCjoeCZ9c1e0uMIvwUOzGWcw9YV4GW6FI26xHgAs7ra42goHjhd4nRgKpSoAS4-SngNxZe0cb9GaEiSRHe5PFiuoHEMjZVsX_no16g"
+      },
+      {
+        "url": "https://t.me/enemywatch/64560",
+        "type": "video",
+        "thumbnail": "https://cdn1.telesco.pe/file/aBZxpmtJfrNk-zKyZQTPeWHQvnkW8S3sGR4byd2qA53VWZInyiI9tTOQKXum85zTQTQL6YiuF6_z3Zyw6V_OYeG3S6jw_LQ-RrxH3jxFqbPKP2T-sMy8EzQpLpOTnvnE3NKqXJYnACj9RWVWW1uKX5jM7Thw1gTsdyYS5DqPp6szZFZIC2C0VFDna8h1utAuxiNCAgZHzFCfMGQiP3UKtVybjigdB2DWELbPsSys7rOQmFyhVCjoeCZ9c1e0uMIvwUOzGWcw9YV4GW6FI26xHgAs7ra42goHjhd4nRgKpSoAS4-SngNxZe0cb9GaEiSRHe5PFiuoHEMjZVsX_no16g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795165656378,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-13",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔥🔥🔥 | Iran's Assembly of Experts: Offering concessions to America will not diminish its hostility towards the Iranian people:▪️ In accordance with the valuable words of the beloved Leader of the Revolution, who stated: “Those who imagine that by offering concessions to America, they can dissuade ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795165660761,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-13",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:Yemeni Armed Forces spokesman Yahya Saree said 98 air and missile strikes were carried out over the past 24 hours, targeting civilian objects in Lahj, Taiz, Saada, Al-Jawf and Marib...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/uuitjdZe2z5M8Zi-7zR6LyAFySlu4rVl9O_5ZgBqYYwKT9ocKvW_5xk2FifqysY7P22Fc1_KUglh4hQzIXd3L0oFwDH2Rjz41qNPTJyYcZAbR3uQAtm-FTc83wH9jhdQoHVsN62CrvTikg3BLFHYjW7KqtCqTr9PJ5GxrlB1UbGzLk-okxbw3KlJU6YfHGgKR5mXNZDAlVXVnFi6wzBPhy5Qxs4X7yqAAQFqVPAopK1fgQLwmRKVOtp7o74Jiu4pHMNoq0zD64oFTzcquGMeGg6QOfc45wjAsRBKM5u_-FGs2OzXKd2xeOd-nSiYhuVL0uTXrvRPKLlA55yB8ByW4Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795165657582,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-13",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795165687971,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-13",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶/ 🇮🇷 | Closure of the Mandali border crossing between Iraq and Iran.▪️@enemywatch",
     "media": [],
     "verified": false
   },
