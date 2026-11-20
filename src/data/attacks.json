@@ -58425,6 +58425,38 @@
     ]
   },
   {
+    "id": 490912586,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-06-30",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Israel: World Childrens Gaza children deprived basic",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 World Children’s Day: Gaza children deprived of basic rights amid Israeli attacks📌 Tehran, IRNA – Thousands of children in Gaza continue to suffer from Israeli attacks, hunger, displacement, and deprivation of medical care and education, as the world marks World Children’s Day and the anniversary of the adoption of the 1989 Convention on the Rights of the Child.As the world marks World Children’s Day on November 20 under the slogan “Listen to Children: My Day, My Rights, My Future,” children",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 478278198,
     "type": "naval",
     "status": "confirmed",
@@ -183154,6 +183186,38 @@
       "other": 38
     },
     "description": "📡 Ansarullah condemns Saudi airstrike on boat off Yemen coast that killed 19 civilians📌 Tehran, IRNA – Yemen’s Ansarullah has condemned a Saudi attack on a boat carrying more than 25 displaced people en route from Ras al-Ara to Hays, which left 19 people dead and four others injured.Yemen’s Ansarullah Political Bureau strongly condemned the targeting of the boat, describing the attack on civilians and displaced people as a war crime and a flagrant violation of human rights and international hu",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490917578,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-19",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Taba: Armed Forces fully prepared counter hostile",
+    "location": "Tehran, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Armed Forces fully prepared to counter any hostile action: IRGC Aerospace Force adviser📌 Tehran, IRNA – A senior advisor to the commander of the Islamic Revolution Guard Corps (IRGC) Aerospace Force says Iran faces no restrictions on deploying its missile capabilities to new geographic areas if ordered, stressing that the country’s Armed Forces are fully prepared to respond decisively to any hostile action.In an interview with IRNA, Brigadier General Ali Balali stressed the full readiness of",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

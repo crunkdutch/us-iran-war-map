@@ -72706,6 +72706,21 @@
     "verified": false
   },
   {
+    "id": 1795172917426,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-06-30",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 World Children’s Day: Gaza children deprived of basic rights amid Israeli attacks📌 Tehran, IRNA – Thousands of children in Gaza continue to suffer from Israeli attacks, hunger, displacement, and deprivation of medical care and education, as the world marks World Children’s Day and the anniversar...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1784999929462,
     "type": "airstrike",
     "location": "Lebanon",
@@ -234689,6 +234704,21 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1795172876463,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-11",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHighlights of the speech delivered by Hezbollah Secretary-General His Eminence Sheikh Naim Qassem (may God protect him) on the occasion of Hezbollah Martyr's Day:– There is no longer any need for negotiations because what you included in the framework agreement has given “Israel” everything ...",
+    "media": [],
     "verified": false
   },
   {
