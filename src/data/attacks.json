@@ -183521,6 +183521,43 @@
     ]
   },
   {
+    "id": 490952550,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Sanaa, Hodeidah, Yemen: Yemeni Armed Forces spokesperson Brig Yahya",
+    "location": "Sanaa, Hodeidah, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Saudi warplanes carried out 78 airstrikes in the past 24 hours, targeting Sanaa and the governorates of Hodeidah, Taiz, Lahj, Saada, Marib, and Al-Jawf.He said F-15 and Typhoon fighter jets took off from Khamis Mushait and Taif airbases, while missiles were fired from Jizan.The strikes killed and wounded civilians, including women and children.According to Saree, the total number of Saudi airstrikes and missile attacks since",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/W-X3vjG1fiZEHmRTwChaD33yRM-vlmExdCniw-R63MnWGWrbjFHpIAGG1jaX86U_A5owYz5VBxim_llIrp0sN9BCg4AvoLwpRpkhplnMEXTSsFsVoJz5AbitaJ_cim93hyYz713xUBf8n6LyrELs5SJu0Nl_aDbbTdlT51sD7QrEKAyilo1tEDzjQEB_I8hbY108WmV4GBY3ykf6G_ax_mJtZdMcB1XrE423CptY2igD7MhShZOrRcuPV3gYeqhpzd6yRtFhGYJHc8Nszm_gpya4PvPGMY66Zd7aMQWgKsf6lTiWpgh-Av5RV3uZFjtqujtiTQYJYBPgNsYEPGhigw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

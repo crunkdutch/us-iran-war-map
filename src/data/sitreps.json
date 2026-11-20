@@ -238479,6 +238479,67 @@
     "verified": false
   },
   {
+    "id": 1795208942341,
+    "type": "missile",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-20",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Saudi warplanes carried out 78 airstrikes in the past 24 hours, targeting Sanaa and the governorates of Hodeidah, Taiz, Lahj, Saada, Marib, and Al-Jawf.He said F-15 and Typhoon fighter jets took off from Khamis Mushait and Taif ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/W-X3vjG1fiZEHmRTwChaD33yRM-vlmExdCniw-R63MnWGWrbjFHpIAGG1jaX86U_A5owYz5VBxim_llIrp0sN9BCg4AvoLwpRpkhplnMEXTSsFsVoJz5AbitaJ_cim93hyYz713xUBf8n6LyrELs5SJu0Nl_aDbbTdlT51sD7QrEKAyilo1tEDzjQEB_I8hbY108WmV4GBY3ykf6G_ax_mJtZdMcB1XrE423CptY2igD7MhShZOrRcuPV3gYeqhpzd6yRtFhGYJHc8Nszm_gpya4PvPGMY66Zd7aMQWgKsf6lTiWpgh-Av5RV3uZFjtqujtiTQYJYBPgNsYEPGhigw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795208947486,
+    "type": "intercept",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-20",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Following the Yemeni warning, the Saudi enemy acknowledged targeting the Al-Shaqeeq area, while footage of smoke rising over Jizan revealed the failure of interception efforts. (20/11/2026)🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/fa28876a8c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/R5Z7MoO0RzGupuRhdyradPmNeXsmDsUQaWCHmgMseagnp5BZjtXjUUUil8q_Hc1ocKa2vztKfwf5cljGOyuMjsY-YXr5XsEiT9PC0HLIxOnY7qxo49rObhWgEwxG1q48XIuzgZxjyw0ClXHGx1eGkKN4JXt0nJnMt4sYwfoz9PDWD_Gd4gfnjp1V003y6foBsuAOUBJYfLIRsx6UaV9Mg1VNKclvoplbfoVIlK2SyFqeZnin0m4t73UDpQ9YirYuA2Di2rjyjgJdQeg1BsKenJITKyxJ_M8vx52tbBnpqLSlfJ953NwyFunLhniJymBl2GMVmmt_Arpw3vd0O0OnxA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64890",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/R5Z7MoO0RzGupuRhdyradPmNeXsmDsUQaWCHmgMseagnp5BZjtXjUUUil8q_Hc1ocKa2vztKfwf5cljGOyuMjsY-YXr5XsEiT9PC0HLIxOnY7qxo49rObhWgEwxG1q48XIuzgZxjyw0ClXHGx1eGkKN4JXt0nJnMt4sYwfoz9PDWD_Gd4gfnjp1V003y6foBsuAOUBJYfLIRsx6UaV9Mg1VNKclvoplbfoVIlK2SyFqeZnin0m4t73UDpQ9YirYuA2Di2rjyjgJdQeg1BsKenJITKyxJ_M8vx52tbBnpqLSlfJ953NwyFunLhniJymBl2GMVmmt_Arpw3vd0O0OnxA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795209000494,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-20",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen’s AnsarAllah is launching multiple operations against targets in Saudi Arabia.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
