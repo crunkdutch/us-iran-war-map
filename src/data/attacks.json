@@ -183021,6 +183021,70 @@
     "media": []
   },
   {
+    "id": 490882655,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Sanaa, Riyadh, Gaza City: Latest Updates November 2026 IranThe Islamic",
+    "location": "Sanaa, Riyadh, Gaza City, Ali Al Salem Air Base, Strait of Hormuz, Lebanon, Yemen, Kuwait, Saudi Arabia, Iraq, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Latest Updates: November 20, 2026🇮🇷 IranThe Islamic Revolutionary Guard Corps reported that an offending oil tanker caught fire east of the Strait of Hormuz after striking a naval mine.🇾🇪 YemenSaudi aircraft targeted the village of Al-Mu’ayna in Al-Misrakh district, south of Taiz, in southwestern Yemen.Saudi aircraft targeted a civilian boat carrying more than 25 displaced people from Ras al-Arah to Hais, killing 19 and injuring four, according to the Ministry of Health in Sanaa. Most of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490887641,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "Ansar Allah Naval Operation — Strait of Hormuz, Yemen: Latest Updates November 2026 Iran Islamic",
+    "location": "Strait of Hormuz, Yemen",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Latest Updates: November 20, 2026 🇮🇷 Iran The Islamic Revolutionary Guard Corps reported that an offending oil tanker caught fire east of the Strait of Hormuz after striking a naval mine. 🇾🇪 Yemen Saudi aircraft targeted the village of Al-Mu’ayna in…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

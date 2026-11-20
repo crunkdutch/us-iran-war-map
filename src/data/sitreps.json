@@ -238126,6 +238126,36 @@
     "verified": false
   },
   {
+    "id": 1795144011545,
+    "type": "intercept",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-20",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Latest Updates: November 20, 2026🇮🇷 IranThe Islamic Revolutionary Guard Corps reported that an offending oil tanker caught fire east of the Strait of Hormuz after striking a naval mine.🇾🇪 YemenSaudi aircraft targeted the village of Al-Mu’ayna in Al-Misrakh district, south of Taiz, in southwes...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795143957681,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-20",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Latest Updates: November 20, 2026 🇮🇷 Iran The Islamic Revolutionary Guard Corps reported that an offending oil tanker caught fire east of the Strait of Hormuz after striking a naval mine. 🇾🇪 Yemen Saudi aircraft targeted the village of Al-Mu’ayna in…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
