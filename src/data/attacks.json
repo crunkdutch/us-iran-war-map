@@ -176489,6 +176489,38 @@
     "media": []
   },
   {
+    "id": 490897616,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-07",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Lebanon: Islamic_RepublicSecretary Irans Supreme National Security Co...",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council, General Mohsen Rezaei:– Any new American attack will be met with strikes targeting distant American military bases as well.– Ending the war on all fronts in West Asia, particularly in Lebanon, is one of our fundamental conditions.– We will not remove a single atom of enriched nuclear material from Iran.– We have informed our Russian friends that the enriched material will remain in Iran and that we will use it ourselves.– We",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489724428,
     "type": "airstrike",
     "status": "confirmed",
@@ -182786,6 +182818,43 @@
     "media": []
   },
   {
+    "id": 490902605,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Iraq: Islamic_RepublicIranian Foreign Ministry Spokesperson Esmaei...",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIranian Foreign Ministry Spokesperson Esmaeil Baghaei:– After promoting the grand lie about the “Iranian nuclear threat,” US officials are now claiming that there are indications that Iran is working to develop biological or chemical weapons.– The accusations keep changing, but the pattern of the narrative remains the same. It seems that US officials expect the world to have suffered from collective amnesia, much like Dory, the forgetful fish in the animated film “Finding Nemo.”",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nB_ysDIMhb59LDoxnlxtZRNujToWb9niHESWfrQmdUTQl-cIMtMns40KsGD8i5ZAPtEBlBMvWlFaBsB_Xshmzx5rEznk3ge1BRhosbQQ6Y5mVzIgytDjQBdhJLWpSUJ28BNoAtyEhOHFsx4DakBYTbMYNsJ8cIxHT5LZA3kTYp6R0WGJxtQL5wd31EfL1ihSEkIl5MesxsX8a588p1ensuxesZOgo7f1e8ejZ2mf7KkB7HsbRpXn78jN2f5cxClpbveEbp-ffEwuvXVkhcFQaLoH9hP7Ei0ZtrNhQPG8UVxzWJzQcbxr3Fv9JTSEAAwRYLsho-EPM7dxORiIYGwNEA.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490832850,
     "type": "airstrike",
     "status": "confirmed",
@@ -183016,6 +183085,38 @@
       "other": 0
     },
     "description": "🎙 Violating supertanker catches fire in Strait of Hormuz: Iran’s Army Navy📌 Tehran, IRNA – The Iranian Army Navy has announced that another oil tanker caught fire in the eastern part of the Strait of Hormuz after violating maritime regulations.In a statement on Thursday, the Iranian Army Navy Public Relations Office announced that an oil tanker had caught fire after striking naval mines in the eastern part of the Strait of Hormuz.​The statement added that the vessel had ignored warnings issued",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490892628,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-19",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Tehran, Sanaa, Yemen: Ansarullah condemns Saudi airstrike boat Yemen",
+    "location": "Tehran, Sanaa, Yemen, Saudi Arabia",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 38
+    },
+    "description": "📡 Ansarullah condemns Saudi airstrike on boat off Yemen coast that killed 19 civilians📌 Tehran, IRNA – Yemen’s Ansarullah has condemned a Saudi attack on a boat carrying more than 25 displaced people en route from Ras al-Ara to Hays, which left 19 people dead and four others injured.Yemen’s Ansarullah Political Bureau strongly condemned the targeting of the boat, describing the attack on civilians and displaced people as a war crime and a flagrant violation of human rights and international hu",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

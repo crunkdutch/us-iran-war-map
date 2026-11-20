@@ -238126,6 +238126,21 @@
     "verified": false
   },
   {
+    "id": 1795158474753,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-19",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Ansarullah condemns Saudi airstrike on boat off Yemen coast that killed 19 civilians📌 Tehran, IRNA – Yemen’s Ansarullah has condemned a Saudi attack on a boat carrying more than 25 displaced people en route from Ras al-Ara to Hays, which left 19 people dead and four others injured.Yemen’s Ansaru...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795144011545,
     "type": "intercept",
     "location": "Sanaa",
