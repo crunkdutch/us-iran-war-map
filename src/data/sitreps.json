@@ -238359,6 +238359,21 @@
     "verified": false
   },
   {
+    "id": 1795187301359,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — The Yemeni Armed Forces targeted Najran.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795144011545,
     "type": "intercept",
     "location": "Sanaa",
