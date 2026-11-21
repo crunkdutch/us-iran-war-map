@@ -238540,6 +238540,36 @@
     "verified": false
   },
   {
+    "id": 1795230614079,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-20",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🌟 | Public Relations Department of the Islamic Revolutionary Guard Corps (IRGC):An hour ago, an American MQ-9 drone (No. 58), belonging to the US Army, was intercepted and shot down over the Strait of Hormuz by the IRGC’s advanced air defence system.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795230639273,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ ✈️ | Seven hours ago, a U.S. Air Force F-16CM Fighting Falcon fighter jet squawked emergency code 7700 and began manoeuvring to land at Al-Dhafra Air Base in the UAE. The fighter had reportedly come from the Strait of Hormuz, with its transponder disabled. The aircraft has now reportedly land...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

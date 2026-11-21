@@ -183558,6 +183558,70 @@
     ]
   },
   {
+    "id": 490957550,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: Public Relations Department Islamic Revolutionary Guard",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🌟 | Public Relations Department of the Islamic Revolutionary Guard Corps (IRGC):An hour ago, an American MQ-9 drone (No. 58), belonging to the US Army, was intercepted and shot down over the Strait of Hormuz by the IRGC’s advanced air defence system.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490962551,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Yemen: Breaking Yemen launches missile attack Riyadh",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen launches missile attack on Riyadh, explosions reported in King Abdullah Financial District.A short while ago, the Yemeni Armed Forces launched a large-scale missile attack on Riyadh, with several missiles reportedly hitting their targets and violent explosions being heard across the city.Reports indicate that the attack targeted a high-rise tower in the King Abdullah Financial District (KAFD).🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
