@@ -235618,6 +235618,86 @@
     "verified": false
   },
   {
+    "id": 1795252274909,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 In photos: Funeral procession for 110 unknown martyrs in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/SJc8JVIQL86MlkuckLVNA37c7xu82kEn7P6e3H7c_Vej6aGST75cB5SFmjLnSUh0i-rB6DEpmnqLGTXnFgFJW5xDhrSp9vFi_P3-RIlEg_j5xgyXdyE9gbByLaDdi9qWKzWXppIQxQQMUl6LtImcian-wvxssBy3pvdfNZxxY9q5mO-KXnV5wAmKXrMOD9axDe7zZSdofkIVFhIb4Z0dWTGtle2lFF0D8eA01Nc4SEjsEObW3UHjLQheMkIvfR4ewsFlQqSHM0RPaj4i4d6xlFxD2OhB_iTjFoShlROu6wmfZ4wTiiwWxFAjVjt5kveUWgO1ZbhfiqQWHBR9IB-4Kw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795252286972,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iran calls on ITU to impartially assess damage to its communications infrastructure📌 Tehran, IRNA – Iran’s Minister of Information and Communications Technology (ICT), Sattar Hashemi, has called for an impartial and comprehensive assessment of damage to the country’s communications and broadcast...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795252299839,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Committee formed to mark martyrdom anniversary of Iran’s martyred Leader📌 Tehran, IRNA — Following a directive from Seyed Mohsen Khamenei, head of the Office for the Preservation and Publication of the Works of the Grand Ayatollah Sayyid Ali Khamenei, a committee was formed to commemorate the ma...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795252248944,
+    "type": "missile",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 US expected to end aggression, blockade if committed to diplomacy: Iran📌 New York, IRNA — Iran’s ambassador and chargé d’affaires to the United Nations says that if Washington is genuinely committed to a diplomatic solution, it must immediately and unconditionally end its aggression against Iran...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795252299729,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-13",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Senior MP: Iran’s steadfastness leaves US in strategic dead end📌 Gorgan, IRNA — The chairman of the National Security and Foreign Policy Commission of Iran’s Parliament says Iran’s resistance across multiple fronts has driven the US into a strategic dead end, adding that should the enemy persist...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794659261978,
     "type": "airstrike",
     "location": "Tehran",
@@ -238686,6 +238766,81 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Iranians will never forget Minab school tragedy: Iran’s UN mission📌 New York, IRNA — The Permanent Mission of the Islamic Republic of Iran to the United Nations has stressed that Tehran will never forget the killing of 168 students and teachers in a missile attack on a school in the southern Ira...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795252247618,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-11-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🚢🚢 | A violating ship was targeted near the coast of Oman.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795252334797,
+    "type": "drone",
+    "location": "Hodeidah",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "date": "2026-11-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 News Updates: November 21, 2026🇾🇪 Yemen— The Yemeni Armed Forces launched three ballistic missiles targeting Riyadh, with reports of explosions across the Saudi capital. Saudi Arabia confirmed the attack, while its Civil Defense issued a second early warning within 20 minutes. Airspace over Riy...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795252244667,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Araghchi: Iran seeks a good, honorable and dignified agreement📌 Tehran, IRNA — Foreign Minister Abbas Araghchi says Iran remains open to diplomacy with the United States but will not accept an agreement that compromises its dignity or undermines the victory it has achieved on the battlefield.In ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795252276097,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran Red Crescent urges humanitarian boost in BRICS Civil Council framework📌 Tehran, IRNA — Iran’s Red Crescent Society (IRSC) has submitted specialized proposals on the Principles of the Framework of the Civil BRICS Council, aimed at strengthening humanitarian dimensions, boosting vulnerable co...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795252328728,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 At least 428 children killed in two recent wars against Iran: Official📌 Tehran, IRNA — At least 428 children and adolescents were killed in the two recent wars against Iran, while another 2,115 children were wounded during the second conflict, head of Iran’s National Committee on Humanitarian La...",
     "media": [],
     "verified": false
   },

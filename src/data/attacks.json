@@ -180167,6 +180167,70 @@
     ]
   },
   {
+    "id": 491002595,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Iraq: IRGC deputy commander warns decisive response",
+    "location": "Tehran, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 IRGC deputy commander warns of decisive response to any aggression against Iran📌 Tehran, IRNA – The Deputy Commander of the Islamic Revolution Guards Corps (IRGC) has warned that Iran’s Armed Forces will deliver an immediate, effective, and decisive response to any aggression, stressing that they face no geographical limits in confronting aggressors.Speaking at a ceremony on Friday, Major General Mostafa Izadi said that Iran had stood firm against a united Eastern and Western front during th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491007605,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-13",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Minab, Strait of Hormuz, Persian Gulf: expected aggression blockade committed diplomacy Iran",
+    "location": "Minab, Strait of Hormuz, Persian Gulf, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 US expected to end aggression, blockade if committed to diplomacy: Iran📌 New York, IRNA — Iran’s ambassador and chargé d’affaires to the United Nations says that if Washington is genuinely committed to a diplomatic solution, it must immediately and unconditionally end its aggression against Iran, lift the maritime blockade and other unlawful unilateral measures, and provide credible guarantees against renewed attacks.Gholamhossein Darzi also said insecurity surrounding the Strait of Hormuz i",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490296461,
     "type": "intercept",
     "status": "confirmed",
@@ -183777,6 +183841,102 @@
       "other": 0
     },
     "description": "⚡️ IRGC shoots down 58th US MQ-9 drone over Strait of Hormuz📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) has announced that it shot down the 58th MQ-9 drone operated by the US military.In a statement on Saturday, the IRGC said the drone was intercepted and struck by the IRGC Aerospace Force’s new air defense system over the Strait of Hormuz.​The downing of the 58th US MQ-9 drone highlights Iran’s growing air defense capabilities and its ability to detect and intercept advanced un",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490992578,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Hodeidah, Riyadh, Jeddah: News Updates November 2026 Yemen Yemeni",
+    "location": "Hodeidah, Riyadh, Jeddah, Strait of Hormuz, Persian Gulf, Gulf of Oman, Red Sea, Lebanon, Yemen, Kuwait, Oman, Saudi Arabia, Iraq, Israel, Taba",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 News Updates: November 21, 2026🇾🇪 Yemen— The Yemeni Armed Forces launched three ballistic missiles targeting Riyadh, with reports of explosions across the Saudi capital. Saudi Arabia confirmed the attack, while its Civil Defense issued a second early warning within 20 minutes. Airspace over Riyadh was reportedly closed, with aircraft placed on hold. Eyewitnesses reported seeing a missile penetrate the city’s airspace, and a large tower in Riyadh was reportedly directly targeted. The Yemeni ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490997586,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Riyadh, Yemen, Saudi Arabia: News Updates November 2026 Yemen Yemeni",
+    "location": "Riyadh, Yemen, Saudi Arabia",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 News Updates: November 21, 2026 🇾🇪 Yemen — The Yemeni Armed Forces launched three ballistic missiles targeting Riyadh, with reports of explosions across the Saudi capital. Saudi Arabia confirmed the attack, while its Civil Defense issued a second early…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491012616,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran, Strait of Hormuz, Qatar: Araghchi Iran seeks good honorable dignified",
+    "location": "Tehran, Strait of Hormuz, Qatar, Oman",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Araghchi: Iran seeks a good, honorable and dignified agreement📌 Tehran, IRNA — Foreign Minister Abbas Araghchi says Iran remains open to diplomacy with the United States but will not accept an agreement that compromises its dignity or undermines the victory it has achieved on the battlefield.In an exclusive interview with Iran Daily , published on Saturday, Araghchi said Tehran was seeking a “good, honorable and dignified agreement,” stressing that any deal must safeguard Iran’s national int",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
