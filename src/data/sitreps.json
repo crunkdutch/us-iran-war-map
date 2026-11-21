@@ -235753,6 +235753,16 @@
       {
         "url": "https://cdn4.telesco.pe/file/JFKyuxEuvqZvbdaow3Muq9ireTjE18M2tZzuYi9h1TRm7PkUPOykGqhpJD8PcxOIX4koGCgDO8QVXo0sEsBuWOwTc9bG5Ky4ioF-KfPxhv0IXVMEQ_EyG_P4i7_qXKMx8G7-CIcbRhqfgAUqhjTZ_K3cpF2hnjizY8YXTQ679o72UGCRiI99vKqNLn-GeuQLFLpUHuhLZIfT75stOmCrL9OCiyc3angpc77WZYBygNRfF-MJbWyuisZAZJ9ihp_IgjtJ8q2qi1i1j-hyq5xVhitI9Zqqm-KCn-uPWd6EOL_A9uhvM7TMHN6Puz5UnlJaElNfqGZcHHRodDuNOs-0tw.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/254255957c.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/ugraDoHklD82YHXDFoakSN2YDzgAPieBflJPQ4fS5fLwOkdyZ1WW_oJbsz-hw5_FIgN9VStbd47crlmPrNVqx9DA12V4M0szMbkmJSi1GznMMZydFJv-XI_NAU2H9vrNTxgM1e1N8ikP3RsN1dqhCD_u7Hz1tDEd_8E3C8D4Upd4ord7S040jkM3X9qvnRORDCYNXsGw8WXfYu8ETdtD9ofkaNplb2l63KbE9uSnBvXU-4rV3TNhVXRzsPoK2jugN-bmMAVaVErMpJ11-EvbW4aIPIV9Bku1L7mQy0D-sxSKyuV_SgBJhWVFN6_JJob_EvGDbC704E5Bad9r4klLRQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64622",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/ugraDoHklD82YHXDFoakSN2YDzgAPieBflJPQ4fS5fLwOkdyZ1WW_oJbsz-hw5_FIgN9VStbd47crlmPrNVqx9DA12V4M0szMbkmJSi1GznMMZydFJv-XI_NAU2H9vrNTxgM1e1N8ikP3RsN1dqhCD_u7Hz1tDEd_8E3C8D4Upd4ord7S040jkM3X9qvnRORDCYNXsGw8WXfYu8ETdtD9ofkaNplb2l63KbE9uSnBvXU-4rV3TNhVXRzsPoK2jugN-bmMAVaVErMpJ11-EvbW4aIPIV9Bku1L7mQy0D-sxSKyuV_SgBJhWVFN6_JJob_EvGDbC704E5Bad9r4klLRQ"
       }
     ],
     "verified": false
@@ -239150,6 +239160,71 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇧🇭 | The oppressive, israel-backed Bahraini regime has arrested citizen Hawra Al-Zaki for publishing a photograph of her detained uncle, Sheikh Fadhel Al-Zaki, on social media. Authorities have also arrested Mohammed Habib Badaw, who was taken into custody last night and transferred to an undisclo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795281119026,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Saudi warplanes launch 71 airstrikes and missile attacks across eight Yemeni governorates in 24 hoursAccording to the Yemeni source, Saudi warplanes carried out 71 airstrikes and missile attacks over the past 24 hours, targeting...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ikn5e8zeLpMkJkmUQKoj1f6pF7nPThjG8yhzrIhpXLGGBJn3R058PmzeYvxbKQ8ik5V3tM8Rm5PPJYqhwTS74UrciYaFMrDtAVhOltSQDlbm9lRrUtfxrPz54_0q92lQmF6e-QLzB3S7mbHjdZsUZxQ8aQjj-2BcZFi1ftS4P6p8qu1dV_zN14TrvG6M4u6V23UitJYGu9bDO4APZiYpROL8onyTo1s4GjPwLDbykq5Rr977YpQrLXQQOqHFpk-HOF420EtfLvxp1W4YeevalcwGkox01NTLJQMjoPF-bOjYompp2GaSbI9L99M22ODBJjeOq-lNSoWdRqpRfPabAQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795281171081,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | Breaking —Several explosions were heard in Erbil province, northern Iraq.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795281171020,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Countries that supplied Saddam with chemical weapons now accuse Iran of developing them: Deputy FM📌 Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has criticized the double standards of countries that helped Saddam Hussein’s regime acquire chemical w...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795281155786,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran will take all necessary measures to break US blockade: Deputy FM📌 Tehran, IRNA – Iran considers the US economic blockade imposed on the country an act of war and will take all necessary measures to break it, Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi said ...",
     "media": [],
     "verified": false
   },
