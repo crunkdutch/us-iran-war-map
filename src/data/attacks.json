@@ -179632,6 +179632,102 @@
     "media": []
   },
   {
+    "id": 491113046,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Unknown Interception — Sirik: Islamic_RepublicIssued Army Public Relations DepartmentA hou...",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicIssued by the Army Public Relations Department:A few hours ago, one enemy American aggressor MQ-1 drone was hit and destroyed after the successful detection and engagement by the modern air defense system of the Naval Force of the Army of the Islamic Republic of Iran, operating within the unified network of the country's Joint Air Defense Headquarters, in the Kuhestak area (Sirik coast).We will not hesitate for a moment to protect and defend the territorial integrity of the Isla",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491118078,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Bahrain, Israel: Statement issued Hezbollah regarding repression Bahraini",
+    "location": "Lebanon, Bahrain, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by Hezbollah regarding the repression of the Bahraini people:At a time when tyrannical America and criminal “Israel” are waging aggression against Palestine, Iran, Lebanon, and the countries of the region, depriving them of security and stability and seeking to redraw the region’s map in “Israel’s” favor;And while efforts should be joined to confront this aggression, strengthen cohesion and cooperation among the countries of the region, and unite each country’s efforts with thos",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491123111,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-12",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Israel, West Bank, Gaza Strip: Statement issued Hezbollah regarding Israeli enemys",
+    "location": "Israel, West Bank, Gaza Strip",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement issued by Hezbollah regarding the “Israeli” enemy’s targeting of Nasser Hospital in the Gaza Strip:Hezbollah strongly condemns the terrorist and barbaric aggression carried out by the Zionist enemy through targeting the surgical building at the Nasser Medical Complex in the city of Khan Younis in the Gaza Strip. The attack resulted in the martyrdom of a number of civilians, injuries to numerous doctors, patients, and hospital staff, and the building being put out of service. This const",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490150916,
     "type": "drone",
     "status": "confirmed",

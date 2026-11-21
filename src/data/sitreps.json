@@ -235234,6 +235234,51 @@
     "verified": false
   },
   {
+    "id": 1795295654440,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-12",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement issued by Hezbollah regarding the repression of the Bahraini people:At a time when tyrannical America and criminal “Israel” are waging aggression against Palestine, Iran, Lebanon, and the countries of the region, depriving them of security and stability and seeking to redraw the region’s m...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795295643492,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-12",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement issued by Hezbollah regarding the “Israeli” enemy’s targeting of Nasser Hospital in the Gaza Strip:Hezbollah strongly condemns the terrorist and barbaric aggression carried out by the Zionist enemy through targeting the surgical building at the Nasser Medical Complex in the city of Khan Yo...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795295630817,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-12",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Our Armed Forces successfully targeted a number of military build-ups belonging to the Saudi enemy, under the command of Saudi officer Badr Al-Harbi, in the Kharaz area of Lahij Governorate, with several ballistic missiles. The strikes were accurate and direct, thanks to Allah, leaving dozens...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794550928944,
     "type": "drone",
     "location": "Aden",
@@ -239271,6 +239316,32 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 ❌ 🇧🇭 | Breaking — Attacks have hit Juffair and Sheikh Isa Air Base in Bahrain, possibly as part of an Iranian retaliatory response to the attack by American forces on an Iranian oil tanker in the waters. 🔻@enemywatch🔻 +",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795295571082,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Footage showing the downing of an MQ-9 drone and an MQ-1 drone in the Strait of Hormuz.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/33fdcd4a76.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mG3elY6WrdGyedi71ROIDTY30Mzn_TF2JfHwQbOguE7VqgvOqTkySaG4iKRT3lkB9sDp07MHpt949-oxZQ_FI4_nDjXUbTsxl07eV-mpo6xjcUmqzN-5m5ryCw-ZOCS93yc6uGh77tIpjmjn3DUJnm4ISNeK3xkxMkbz__rz_FPs-Q0mVKu02U8vsEXAdQUpoctgVIQ27mtaVgKlF8LD-lft1pcsk7c5zSM6Fq8ZAIsvRNr83Fli8kASPzvlgzTQqLnDa9AL5XlDjBkgaqgUPVN3UF4VvUTjikaO4IAShVHzOgfwLkW9EuOq-lhJR1oRrWrAHE_5DU3VPjHjbkqLQQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64939",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mG3elY6WrdGyedi71ROIDTY30Mzn_TF2JfHwQbOguE7VqgvOqTkySaG4iKRT3lkB9sDp07MHpt949-oxZQ_FI4_nDjXUbTsxl07eV-mpo6xjcUmqzN-5m5ryCw-ZOCS93yc6uGh77tIpjmjn3DUJnm4ISNeK3xkxMkbz__rz_FPs-Q0mVKu02U8vsEXAdQUpoctgVIQ27mtaVgKlF8LD-lft1pcsk7c5zSM6Fq8ZAIsvRNr83Fli8kASPzvlgzTQqLnDa9AL5XlDjBkgaqgUPVN3UF4VvUTjikaO4IAShVHzOgfwLkW9EuOq-lhJR1oRrWrAHE_5DU3VPjHjbkqLQQ"
+      }
+    ],
     "verified": false
   },
   {
