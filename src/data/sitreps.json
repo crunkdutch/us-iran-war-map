@@ -239229,6 +239229,51 @@
     "verified": false
   },
   {
+    "id": 1795288431939,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🇧🇭 | Breaking — Sirens blaring in Bahrain.🔻@enemywatch🔻",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795288426906,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🇧🇭 | Breaking — Sirens blaring in Bahrain. 🔻@enemywatch🔻",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795288417774,
+    "type": "airstrike",
+    "location": "Sheikh Isa Air Base",
+    "coordinates": [
+      25.9383,
+      50.5917
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🇧🇭 | Breaking — Attacks have hit Juffair and Sheikh Isa Air Base in Bahrain, possibly as part of an Iranian retaliatory response to the attack by American forces on an Iranian oil tanker in the waters. 🔻@enemywatch🔻 +",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
