@@ -183562,7 +183562,18 @@
     "description": "🇮🇷 | IRGC: Oil Tanker Explodes After Striking a Naval Mine at the Entrance to Khasab PortIRGC Navy Public Relations Office:An oil tanker in violation of regulations, which was attempting to navigate an unauthorised route through the Strait of Hormuz with the support of the American smuggling army, exploded and caught fire after striking naval mines at the entrance to Khasab Port.The IRGC Navy warns that the movement of no non-compliant vessel through the Strait of Hormuz and the Persian Gulf g",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/40d193a507.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lO-nIj-VKnQDDX7rkfsWVbG-cU4rWoOdMHwyZC_BmxHZbVSdz-upZzd2Rl4WP7qP7WzBv_0S-EgEUePBDnR_Z_Oi8OwB40I0hBm2jHQNeKMUxMkQMdiQdEF0-ClTohwPYLxK028_-IdFEDeFq5zyTOH6l9m7Aj0aY7D3xzt9eTHRCLutl_2HPq_Bt-KLJsSKE_bgh3WWeiYOzChNHqYaUwoggyPuQrVHsH_s6S4OM3B9i6jM6WwI3iurP9PB5ZCyL3KNXVCcvYKSe5Op09dpzm1kROFkHjAbVLaP7BLRqhIctIrrzWXNPXjOcMBKpxedr0f8XRU3VySe8MkqQvfeSg"
+      },
+      {
+        "url": "https://t.me/enemywatch/64905",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lO-nIj-VKnQDDX7rkfsWVbG-cU4rWoOdMHwyZC_BmxHZbVSdz-upZzd2Rl4WP7qP7WzBv_0S-EgEUePBDnR_Z_Oi8OwB40I0hBm2jHQNeKMUxMkQMdiQdEF0-ClTohwPYLxK028_-IdFEDeFq5zyTOH6l9m7Aj0aY7D3xzt9eTHRCLutl_2HPq_Bt-KLJsSKE_bgh3WWeiYOzChNHqYaUwoggyPuQrVHsH_s6S4OM3B9i6jM6WwI3iurP9PB5ZCyL3KNXVCcvYKSe5Op09dpzm1kROFkHjAbVLaP7BLRqhIctIrrzWXNPXjOcMBKpxedr0f8XRU3VySe8MkqQvfeSg"
+      }
+    ]
   },
   {
     "id": 490942553,
@@ -183846,6 +183857,70 @@
     "media": []
   },
   {
+    "id": 491017628,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Strait of Hormuz: Public Relations Department Islamic Revolutionary Guard",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 35
+    },
+    "description": "🇮🇷 ❌ 🌟 | Public Relations Department of the Islamic Revolutionary Guard Corps (IRGC): • According to operational reports received, the American military attempted last night to facilitate the passage of tankers and the unauthorized transfer of cargo and smuggled fuel through the Strait of Hormuz, deploying extensive aerial support, including refueling aircraft, F-16, F/A-18 and F-35 fighter jets, P-8 Poseidon maritime patrol aircraft, several helicopters, and MQ-series drones.• During these m",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491022641,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Sirik: IRGCCommander Faithful Imam AReturn stone place",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🌟 | IRGC:Commander of the Faithful, Imam Ali (A):\"Return the stone to the place from which it came, for evil and aggression cannot be repelled except through confrontation.” (Nahj al-Balagha, Wisdom 314)The young combatants of the IRGC Aerospace Force’s air defence units, continuing their innovative and successful defensive operations following the destruction of the 58th advanced MQ-9 reconnaissance-combat drone belonging to the aggressive American military, have now intercepted and des",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490992578,
     "type": "drone",
     "status": "confirmed",
@@ -183937,6 +184012,38 @@
       "other": 0
     },
     "description": "🌍 Araghchi: Iran seeks a good, honorable and dignified agreement📌 Tehran, IRNA — Foreign Minister Abbas Araghchi says Iran remains open to diplomacy with the United States but will not accept an agreement that compromises its dignity or undermines the victory it has achieved on the battlefield.In an exclusive interview with Iran Daily , published on Saturday, Araghchi said Tehran was seeking a “good, honorable and dignified agreement,” stressing that any deal must safeguard Iran’s national int",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491027655,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran: Pezeshkian Iran faces silent economic more",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Pezeshkian: Iran faces silent economic war far more difficult than military conflict📌 Tehran, IRNA — President Masoud Pezeshkian says Iran is currently facing “a silent economic war” that is far more difficult than a military conflict involving missiles, stressing that collective efforts are essential to overcoming the economic war.“We are engaged in a silent war that is far more difficult than one in which missiles are launched and destruction is caused. It is an economic war, one that you,",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
