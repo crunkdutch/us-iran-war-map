@@ -184257,6 +184257,214 @@
     "media": []
   },
   {
+    "id": 491062781,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Unknown Interception — Persian Gulf: Damage Fighter Cancellation Mission Indigenous Defense",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 16,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 16
+    },
+    "description": "🇮🇷 | Damage to a U.S. F16 Fighter and Cancellation of its Mission Due to the Use of Indigenous Air Defense Systems by the Army:Public Relations Department of the Army:On Friday evening, indigenous air defense systems of the Army, deployed in the southern part of the country and under the control of the country's integrated air defense network, successfully detected and identified a U.S. F-16 fighter jet over the Persian Gulf.During this operation, after intercepting the U.S. F-16, the air defe",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/fa002723f8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/RcPPNXL_NMcTttgnuhIECb88JsJKnfZYKrALuPq_mTQ7i_lJyw_GkwYdr35XjJq-ytHnt-LsT78sQlh4LscAytSpWr8LGudTGnmApjlmhlvQauJtib4UxJam1mIMKwiuS81ESXe3-DC_oZn9hGnxA_TBZH3CLGtAiQxQQlf7wKg9rfKOBqptoz8nCuIVj_uRK6Ge-miyrJq3euEsfrPcmoKL84taaQDxKrmNogs-xo1y9iQJl-EQiqSdWLhhQKtU1jzudEH5_SO8nucwdhPbp9lQSwmTeYILlDfNCmGSGK7cMWNHWj1B5T4-vj6Kg65MW7MdACN84NsakK3ywAdJTw"
+      },
+      {
+        "url": "https://t.me/enemywatch/64917",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/RcPPNXL_NMcTttgnuhIECb88JsJKnfZYKrALuPq_mTQ7i_lJyw_GkwYdr35XjJq-ytHnt-LsT78sQlh4LscAytSpWr8LGudTGnmApjlmhlvQauJtib4UxJam1mIMKwiuS81ESXe3-DC_oZn9hGnxA_TBZH3CLGtAiQxQQlf7wKg9rfKOBqptoz8nCuIVj_uRK6Ge-miyrJq3euEsfrPcmoKL84taaQDxKrmNogs-xo1y9iQJl-EQiqSdWLhhQKtU1jzudEH5_SO8nucwdhPbp9lQSwmTeYILlDfNCmGSGK7cMWNHWj1B5T4-vj6Kg65MW7MdACN84NsakK3ywAdJTw"
+      }
+    ]
+  },
+  {
+    "id": 491067803,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: Hezbollah Statement 83rd Anniversary Lebanons Independence",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇱🇧 | Hezbollah Statement on the 83rd Anniversary of Lebanon’s Independence Day:The independence whose 83rd anniversary the Lebanese are commemorating today is surrounded by dangers and threats targeting its very existence and meaning from every direction. This necessitates that all Lebanese, regardless of their sects and denominations, unite under the banner of national consensus and reclaim the true meaning of belonging to their homeland and the national constants through which they achieved ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491072826,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Damascus, Syria: Assassination member Popular Front Liberation Palestine",
+    "location": "Damascus, Syria",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Assassination of a member of the Popular Front for the Liberation of Palestine in Syria.Assassinations continue in various parts of Syria, as masked gunmen assassinated Palestinian Ahmed Hassan al-Ghazawi (RA) firing four shots at him inside a real estate office in the Yarmouk camp south of Damascus before fleeing on a motorcycle. Even Palestinian resistance members are being assassinated on Syrian soil. The question is damning: who benefits when Syria becomes a graveyard for the very resistance",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IhwDpIavmjDvCaPwm29q8AxeXeSB1VqCP3vIJg3ogFzwt4pwAXsVxBZjvI4p4QNC-SijG0l9uUpOQzXg_c-NE6yHsVgcPCkOgpgTDNtEE_wrsDrlJIIuplTZgzeUlxFtfc1FBo13zBXZPaGw6Xmy_O_CK4KpP9ZcNxsx-qj4bp38lbtZOm9vBzTPF8U3w47qomZrKoA1FpmvP_3jgF-nq6WXi4QmF2Ngvz8A0asXA4EUmhX5yChtYV5CVoZ-LxjBKaUtyVOsXFrU6x0D4tFA2hWPtsJaBy4Mku7cSG_8FxycmtWaSmIbrpP5eF0z1qHruXs8-geU0neWHokosgfJjg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491077850,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Bushehr, Gilan, Persian Gulf: IRGCMinutes defence forces IRGC Aerospace Force",
+    "location": "Bushehr, Gilan, Persian Gulf",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🌟 | IRGC:Minutes ago, the air defence forces of the IRGC Aerospace Force successfully intercepted and destroyed an enemy surveillance drone that had violated Iranian airspace over the northern Persian Gulf, near the coastal waters of Bushehr, using a new and advanced air defence system.The IRGC emphasised that violations of Iranian airspace will not be tolerated. Attempts by the enemy to deploy various surveillance and military assets will be met with vigilance, operational readiness, an",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491082875,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Israel: STATEMENT FROM AMERICAN RESISTANCE SATANICA With",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴‍☠️ | STATEMENT FROM THE AMERICAN RESISTANCE OF SATANICA: With the blessings of our Lord Baal, who has bestowed upon us the finest traditions of deception, arrogance, treachery and technological humiliation, we are compelled to announce another rather inconvenient update from the battlefield.In view of CENTCOM’s regular habit of issuing statements that bear a rather complicated relationship with reality, we assure our readers that the figures and information provided by our enemies are entirel",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491087901,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Sirik: IRGC shoots down 19th drone Tehran",
+    "location": "Tehran, Sirik",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 IRGC shoots down 19th US MQ-1 drone📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has shot down a US MQ-1 drone over the southern Iranian island of Sirik, marking the 19th aircraft of its type destroyed, the IRGC said on Saturday.According to the IRGC’s public relations office, the Aerospace Force’s air defense units intercepted and destroyed the drone using a “new and advanced air defense system”.​The statement said the operation followed the destruction of the 58th US MQ-9 rec",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

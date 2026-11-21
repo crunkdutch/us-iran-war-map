@@ -239011,6 +239011,149 @@
     "verified": false
   },
   {
+    "id": 1795273904760,
+    "type": "intercept",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Damage to a U.S. F16 Fighter and Cancellation of its Mission Due to the Use of Indigenous Air Defense Systems by the Army:Public Relations Department of the Army:On Friday evening, indigenous air defense systems of the Army, deployed in the southern part of the country and under the control o...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/fa002723f8.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/RcPPNXL_NMcTttgnuhIECb88JsJKnfZYKrALuPq_mTQ7i_lJyw_GkwYdr35XjJq-ytHnt-LsT78sQlh4LscAytSpWr8LGudTGnmApjlmhlvQauJtib4UxJam1mIMKwiuS81ESXe3-DC_oZn9hGnxA_TBZH3CLGtAiQxQQlf7wKg9rfKOBqptoz8nCuIVj_uRK6Ge-miyrJq3euEsfrPcmoKL84taaQDxKrmNogs-xo1y9iQJl-EQiqSdWLhhQKtU1jzudEH5_SO8nucwdhPbp9lQSwmTeYILlDfNCmGSGK7cMWNHWj1B5T4-vj6Kg65MW7MdACN84NsakK3ywAdJTw"
+      },
+      {
+        "url": "https://t.me/enemywatch/64917",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/RcPPNXL_NMcTttgnuhIECb88JsJKnfZYKrALuPq_mTQ7i_lJyw_GkwYdr35XjJq-ytHnt-LsT78sQlh4LscAytSpWr8LGudTGnmApjlmhlvQauJtib4UxJam1mIMKwiuS81ESXe3-DC_oZn9hGnxA_TBZH3CLGtAiQxQQlf7wKg9rfKOBqptoz8nCuIVj_uRK6Ge-miyrJq3euEsfrPcmoKL84taaQDxKrmNogs-xo1y9iQJl-EQiqSdWLhhQKtU1jzudEH5_SO8nucwdhPbp9lQSwmTeYILlDfNCmGSGK7cMWNHWj1B5T4-vj6Kg65MW7MdACN84NsakK3ywAdJTw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795273976091,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇱🇧 | Hezbollah Statement on the 83rd Anniversary of Lebanon’s Independence Day:The independence whose 83rd anniversary the Lebanese are commemorating today is surrounded by dangers and threats targeting its very existence and meaning from every direction. This necessitates that all Lebanese, regar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795273950257,
+    "type": "intercept",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-11-21",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Army:On Friday evening, air defense systems deployed in southern Iran identified a U.S. F-16 fighter jet over the Persian Gulf. During this operation, after intercepting the U.S. F-16, the air defense systems launched a missile towards it. As a result of the missile explosion near the...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/87e801ce24.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/HWOKORfMst5hvv7adaEnNyoQxC9-rmtm9iAa5BMQmxu6zu-p-5ejr2x-j_gMitKR_cpNmWNMq-tk4pj0WeFi6EgeNyo8eMEdmsvk2cBWuiS9awpNJxoTh02dfJOrHRqjMOkw3NXHvYjesXYMH0cZSq3OjQ963FydCcFV8Aw_YunglgGpOEyvmekNfvBUXdpuzeAF_SNTSBczpC7iyQv_QjW7JtoImh9QDVCfdOum2oQGSLcgXD2FjzjGuXgq8CtadyRXShhbE8x6edRo71bfpRWg0d8FxhCxYXm4Z2-QXcfrZDYh57S6CWPM4loKivq2BCKil5yiqFDZ6QSmuMWM0g"
+      },
+      {
+        "url": "https://t.me/enemywatch/64922",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/HWOKORfMst5hvv7adaEnNyoQxC9-rmtm9iAa5BMQmxu6zu-p-5ejr2x-j_gMitKR_cpNmWNMq-tk4pj0WeFi6EgeNyo8eMEdmsvk2cBWuiS9awpNJxoTh02dfJOrHRqjMOkw3NXHvYjesXYMH0cZSq3OjQ963FydCcFV8Aw_YunglgGpOEyvmekNfvBUXdpuzeAF_SNTSBczpC7iyQv_QjW7JtoImh9QDVCfdOum2oQGSLcgXD2FjzjGuXgq8CtadyRXShhbE8x6edRo71bfpRWg0d8FxhCxYXm4Z2-QXcfrZDYh57S6CWPM4loKivq2BCKil5yiqFDZ6QSmuMWM0g"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795273966030,
+    "type": "intercept",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-11-21",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Army: On Friday evening, air defense systems deployed in southern Iran identified a U.S. F-16 fighter jet over the Persian Gulf. During this operation, after intercepting the U.S. F-16, the air defense systems launched a missile towards it. As…",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/0e2b2ecf2a.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/pZo_j05aNkKn1BP5llz0rfe59nIHHvuvD7UCJDuVA4CvUHIydMUesRIto7DC5lpE5JV59nkuTyeKlgLLjg6UKHMoGYI-R5ydYjUXjqXqgs3lTLrcySFLES44-uCqPo7BVjalYSmfYyi9jErZIPPnieA4lQLUqDhuCCYZJsL0h92eogVe1ubUJ805_Uqi29ZgXoqeCyhKsmGPIW2QlHcwK0FIdmZOjMpUCXUc6JfeyQyV6XwlIg5OUw9p0VySZ3ZeyF_xoqdAb9V8lkJPS2qayqFbKNkyAMc5P-m-eHeQgAd_jpuqhr64x-h9kzAysiX1akNt0fk3VruzQYqOMjEZBQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64923",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/pZo_j05aNkKn1BP5llz0rfe59nIHHvuvD7UCJDuVA4CvUHIydMUesRIto7DC5lpE5JV59nkuTyeKlgLLjg6UKHMoGYI-R5ydYjUXjqXqgs3lTLrcySFLES44-uCqPo7BVjalYSmfYyi9jErZIPPnieA4lQLUqDhuCCYZJsL0h92eogVe1ubUJ805_Uqi29ZgXoqeCyhKsmGPIW2QlHcwK0FIdmZOjMpUCXUc6JfeyQyV6XwlIg5OUw9p0VySZ3ZeyF_xoqdAb9V8lkJPS2qayqFbKNkyAMc5P-m-eHeQgAd_jpuqhr64x-h9kzAysiX1akNt0fk3VruzQYqOMjEZBQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795273945556,
+    "type": "airstrike",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Assassination of a member of the Popular Front for the Liberation of Palestine in Syria.Assassinations continue in various parts of Syria, as masked gunmen assassinated Palestinian Ahmed Hassan al-Ghazawi (RA) firing four shots at him inside a real estate office in the Yarmouk camp south of Damascus...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/IhwDpIavmjDvCaPwm29q8AxeXeSB1VqCP3vIJg3ogFzwt4pwAXsVxBZjvI4p4QNC-SijG0l9uUpOQzXg_c-NE6yHsVgcPCkOgpgTDNtEE_wrsDrlJIIuplTZgzeUlxFtfc1FBo13zBXZPaGw6Xmy_O_CK4KpP9ZcNxsx-qj4bp38lbtZOm9vBzTPF8U3w47qomZrKoA1FpmvP_3jgF-nq6WXi4QmF2Ngvz8A0asXA4EUmhX5yChtYV5CVoZ-LxjBKaUtyVOsXFrU6x0D4tFA2hWPtsJaBy4Mku7cSG_8FxycmtWaSmIbrpP5eF0z1qHruXs8-geU0neWHokosgfJjg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795273916335,
+    "type": "intercept",
+    "location": "Bushehr",
+    "coordinates": [
+      28.92,
+      50.83
+    ],
+    "date": "2026-11-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🌟 | IRGC:Minutes ago, the air defence forces of the IRGC Aerospace Force successfully intercepted and destroyed an enemy surveillance drone that had violated Iranian airspace over the northern Persian Gulf, near the coastal waters of Bushehr, using a new and advanced air defence system.The I...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795273985472,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The oppressive, israel-backed Bahraini regime has arrested citizen Hawra Al-Zaki for publishing a photograph of her detained uncle, Sheikh Fadhel Al-Zaki, on social media. Authorities have also arrested Mohammed Habib Badaw, who was taken into custody last night and transferred to an undisclo...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
