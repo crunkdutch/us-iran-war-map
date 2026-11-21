@@ -1932,6 +1932,21 @@
     "verified": false
   },
   {
+    "id": 1795245028084,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-02-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran’s Kanoon urges UNICEF to pursue justice for war-hit children📌 Tehran, IRNA – Iran’s Institute for the Intellectual Development of Children and Young Adults (IIDCYA), better known as Kanoon, has called on the United Nations International Children’s Emergency Fund (UNICEF) to publicly condemn...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -233673,6 +233688,36 @@
     "verified": false
   },
   {
+    "id": 1795245020789,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-09",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12 military correspondent:While the “Israeli” army continues to release video footage showing the discovery of Kalashnikov rifles and ammunition depots in southern Lebanon – all of which are old and remnants of the previous war – “Hezbollah” continues to successfully rebui...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795245088673,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-09",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaHebrew Channel 12 military correspondent:The gap between what the “Israeli” army presents to the public and the broader reality in southern Lebanon calls for a reassessment of the significance of “Israeli” achievements and raises the question of whether the threat is actually moving fart...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794313641698,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -236349,6 +236394,21 @@
     "verified": false
   },
   {
+    "id": 1795245044085,
+    "type": "rocket",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah the Almighty says: “And indeed whosoever takes revenge after he has suffered wrong, for such there is no way (of blame) against them.” Allah Almighty is Truthful For 12 years, the criminal Saud...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794818106272,
     "type": "airstrike",
     "location": "Bahrain",
@@ -238581,6 +238641,51 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "— After 157 days, Mr. Araghchi says, “The Islamabad Memorandum of Understanding is no longer on the table and has no practical relevance.” This is called eating your own words (licking your own spit).The Islamabad agreement was fraudulent in its own ways because it came at the cost of selling Iran’s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795245066297,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Several Iranian oil tankers have begun sailing towards the Gulf of Oman via the Strait of Hormuz to break the blockade, while one Iranian tanker has already set course for China, challenging the blockade.🔻@enemywatch🔻+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795245022281,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-20",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Iraq under Ali al-Zaidi is increasingly pursuing a policy that amounts to betraying Iran, despite the political, security, and strategic support Tehran has provided to Iraq over the years. By targeting Iran-aligned factions, imposing restrictions on their activities, and moving closer to Washingto...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795245064825,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iranians will never forget Minab school tragedy: Iran’s UN mission📌 New York, IRNA — The Permanent Mission of the Islamic Republic of Iran to the United Nations has stressed that Tehran will never forget the killing of 168 students and teachers in a missile attack on a school in the southern Ira...",
     "media": [],
     "verified": false
   },

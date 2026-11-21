@@ -177947,6 +177947,38 @@
     "media": []
   },
   {
+    "id": 490982565,
+    "type": "cyber",
+    "status": "confirmed",
+    "date": "2026-11-09",
+    "time": "TBD",
+    "title": "IDF/Israel Cyber Attack — Tel Aviv, Israel: Enemy_MediaIsraeli media Israeli police General Security",
+    "location": "Tel Aviv, Israel",
+    "coordinates": [
+      32.0853,
+      34.7818
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israeli\" media: The “Israeli” police and the General Security Service (Shin Bet) are investigating leaflets discovered today in the city of Tel Aviv, which are suspected of being linked to an Iran-affiliated cyber hacking group.According to the police, the leaflets, which contain a QR code, were found inside mailboxes at several addresses in northern Tel Aviv.The police explained that the QR code leads to a website containing “threatening content”.A screenshot released by the police",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489886421,
     "type": "airstrike",
     "status": "confirmed",
@@ -180984,6 +181016,38 @@
     ]
   },
   {
+    "id": 490987571,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Ansar Allah Rocket Attack — Bab al-Mandab, Yemen: Statement Issued Yemeni Armed ForcesIn Name",
+    "location": "Bab al-Mandab, Yemen",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah the Almighty says: “And indeed whosoever takes revenge after he has suffered wrong, for such there is no way (of blame) against them.” Allah Almighty is Truthful For 12 years, the criminal Saudi enemy has continued its aggression and siege against our people, and has intensified its criminality and transgression against our people through aerial bombardment, tightening the siege, committing",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490482110,
     "type": "airstrike",
     "status": "confirmed",
@@ -183617,6 +183681,102 @@
       "other": 0
     },
     "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen launches missile attack on Riyadh, explosions reported in King Abdullah Financial District.A short while ago, the Yemeni Armed Forces launched a large-scale missile attack on Riyadh, with several missiles reportedly hitting their targets and violent explosions being heard across the city.Reports indicate that the attack targeted a high-rise tower in the King Abdullah Financial District (KAFD).🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490967553,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Baghdad, Iraq: Iraq under alZaidi increasingly pursuing policy",
+    "location": "Tehran, Baghdad, Iraq",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Iraq under Ali al-Zaidi is increasingly pursuing a policy that amounts to betraying Iran, despite the political, security, and strategic support Tehran has provided to Iraq over the years. By targeting Iran-aligned factions, imposing restrictions on their activities, and moving closer to Washington’s agenda, the government is attempting to distance Baghdad from Tehran. The involvement of Sardar Esmail Qaani in managing the Jurf al-Sakhar developments demonstrates that Iran is still an importan",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490972556,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Minab, Israel: Iranians will never forget Minab school",
+    "location": "Tehran, Minab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iranians will never forget Minab school tragedy: Iran’s UN mission📌 New York, IRNA — The Permanent Mission of the Islamic Republic of Iran to the United Nations has stressed that Tehran will never forget the killing of 168 students and teachers in a missile attack on a school in the southern Iranian city of Minab, calling for the suffering of the victims to be heard and their memory preserved.In a statement marking World Children’s Day on Friday, the mission stressed that every child has fun",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 490977560,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Strait of Hormuz: IRGC shoots down 58th drone over",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ IRGC shoots down 58th US MQ-9 drone over Strait of Hormuz📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) has announced that it shot down the 58th MQ-9 drone operated by the US military.In a statement on Saturday, the IRGC said the drone was intercepted and struck by the IRGC Aerospace Force’s new air defense system over the Strait of Hormuz.​The downing of the 58th US MQ-9 drone highlights Iran’s growing air defense capabilities and its ability to detect and intercept advanced un",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
