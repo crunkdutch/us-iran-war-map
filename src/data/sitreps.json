@@ -239345,6 +239345,36 @@
     "verified": false
   },
   {
+    "id": 1795302801405,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 News Updates: November 21-22, 2026🇵🇸 Palestine— A Palestinian civilian succumbed to injuries sustained from Israeli occupation forces’ gunfire in Halawa Camp, north of the Gaza Strip.— A high-level Hamas delegation, headed by Political Bureau Chief Khalil al-Hayya, met with Ibrahim Kalin, head ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795302831994,
+    "type": "airstrike",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔴Breaking — An F-35 Lightning II aircraft was broadcasting emergency squawk code 7700 while flying at an altitude of 29,000 feet near Dubai. With its transponder switched off, the aircraft is reportedly preparing to make an imminent landing at Al Dhafra Air Base in the UAE. There is a heightened po...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -184694,6 +184694,38 @@
     "media": []
   },
   {
+    "id": 491128145,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Bahrain: IRGCFighters IRGC Aerospace Force targeted positions",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGCFighters of the IRGC Aerospace Force targeted positions of the aggressor United States Army at the Riffa and Awali bases in Bahrain with missile and drone strikes. The operation was carried out in response to the continued aggression and violations of the airspace of the Islamic Republic of Iran. This combined missile and drone offensive was conducted under the auspicious code name “Umm al-Banin (S).”During the operation, two radars belonging to the US Army’s Patriot air defence syste",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
