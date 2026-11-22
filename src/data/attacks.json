@@ -181720,6 +181720,43 @@
     ]
   },
   {
+    "id": 491269503,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:• Over the past 24 hours, Saudi warplanes carried out 75 airstrikes and missile attacks targeting civilian sites in the governorates of Saada, Taiz, Lahj, Al-Jawf and Marib. The attacks involved F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif air bases, as well as missile attacks launched from Najran. The attacks resulted in civilian deaths and injuries.• Th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Kue6RTFjUAOygH-_TLH_InX5GI8ueYhDtJ6AsxIEg63vtlIDHfkAIFxaoQ33OPvYY_10-ZWjoZTykdM9P-Y7jvgC3d4Bqy4ob80gmHLpla0KF8ggzYAKv9TVnoW7o16q7w0bk2sLwuVO7467AcpQknLMUPmjMZceSIrwW1ctnHFv5rwP2MmkVFvIZXS4ITF__-3UH3y-XB3ACxD0dhqqF6WZ5B9S9O97BTYelaXDTPnSzJXagQ9OcmCkLTqqWojuBJy3jn8jEqNWjlCyDbn_ldqSGh5xxp2vMwPJsptsKG3Hwb7iAqFw-AcYwnVEGFsx0cVzuZxEAUwxJcY0M63OlQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490482110,
     "type": "airstrike",
     "status": "confirmed",
@@ -185457,7 +185494,18 @@
     "description": "If Iran disrupts American operations through small but sustained attacks, the rate of attrition and the resulting reduction in operational effectiveness will increase.Under this approach, the attacks themselves constitute direct military action, but the principal objective is to achieve an indirect effect through attrition rather than relying solely on successful strikes.2. Threats have been issued against support facilities serving American warships, including Diego Garcia Island. These threats",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c4373eac3b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/igZRanZj4IO6stn3Eh65RKtO82EPWw4NUK2lW3tDMHYF-QXmxqCZW98_9duasK7r4OL5Qs5rHFQTAq78ZU12miiy2YBX_PCUTM6Qb9LiA7K5sSll9uEPMqfOr7YpqCTQYK6wAdgn9jk1incDb4Ev5-DgCQjt-Gp174Ic-10JqJWa_hgCTqRAe_BTeIt-StLEmPZI7tYGcgqd-3LgX92_tGPUOJyLTgeNvVoexnzail_hl3YF0pD5nLYJKiWeYsOy355aPHtprsgizdYXYjKAVky0-Y73rYf3wjKpDQEv-Kr2d9hAo5O7okqEsttdacXSuX5Mp6H5bFbRBZnx72L8Pw"
+      },
+      {
+        "url": "https://t.me/enemywatch/64979",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/igZRanZj4IO6stn3Eh65RKtO82EPWw4NUK2lW3tDMHYF-QXmxqCZW98_9duasK7r4OL5Qs5rHFQTAq78ZU12miiy2YBX_PCUTM6Qb9LiA7K5sSll9uEPMqfOr7YpqCTQYK6wAdgn9jk1incDb4Ev5-DgCQjt-Gp174Ic-10JqJWa_hgCTqRAe_BTeIt-StLEmPZI7tYGcgqd-3LgX92_tGPUOJyLTgeNvVoexnzail_hl3YF0pD5nLYJKiWeYsOy355aPHtprsgizdYXYjKAVky0-Y73rYf3wjKpDQEv-Kr2d9hAo5O7okqEsttdacXSuX5Mp6H5bFbRBZnx72L8Pw"
+      }
+    ]
   },
   {
     "id": 491229035,
@@ -185652,6 +185700,176 @@
       "other": 0
     },
     "description": "💬 Two more violating oil tankers catch fire in Strait of Hormuz: Iran Army📌 Tehran, IRNA — The Iranian Army Navy has announced that two more oil tankers caught fire after hitting naval mines as they were entering a prohibited zone east of the Strait of Hormuz.In a statement on Sunday afternoon, the Army Navy’s Public Relations Office&nbsp;said the two offending oil tankers disregarded the repeated warnings and deactivated their radar systems as they tried to pass through unsafe zones east of t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491274566,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen: Yemeni Armed Forces spokesperson Brig Yahya",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Our armed forces, by the grace of Allah, successfully carried out two precision military operations.The first targeted the Rabigh oil refinery, scoring a direct hit, by the grace of Allah.The second targeted a radar installation in the Al-Dawasir area in a two-stage operation, successfully achieving its objective, by the grace of Allah.🚩@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/k1gUavhp_y7H07fVcMNhJfoQKkqGJ4HeW2Z9vQlVsa7Hlba_kZhlJYMZUG0jXD_Y9kvPeJ0ShIEt7_kbeoUtQprMMknm413OK_1VeaJ2dHWEfxo45-bIFYJNGc20RaTyHHm3j8LXxiIVFyWe1FlbwFCN2-jscABM1Wdbnxnw0wO4xhUAWPVOmviNZhM49d9YCl5SgzI7G94nc4JbOELmKwMH7cf8VyR6HjCBNUbIwRKVybHBEt6PXsdXLdk6bqxzmVuBINqvF8SMg_SX8WtU8Br6s3TDC4wkqp_L--FiX32dTHU7dB4d9Df7QTu1U6rA2k7ngBsj274TqQiUmoA2BQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491279630,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: Islamic Revolutionary Guard Corps Navy Public",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 ❌ 🚢🚢 | Islamic Revolutionary Guard Corps Navy Public Relations:• Two non-compliant supertankers, which were transiting the Strait of Hormuz along unauthorised routes without adhering to the instructions issued by the IRGC Navy, suffered explosions after striking naval mines north of Greater Tunb Island and east of the Strait of Hormuz, forcing them to halt.• The IRGC Navy warns oil tanker owners, commercial companies, and maritime shipping firms that the Strait of Hormuz is under the comple",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491284695,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces spokesperson Brig Yahya",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Over the past 24 hours, Saudi warplanes have carried out 81 airstrikes and missile attacks targeting civilian sites in the capital, Sana'a, and the governorates of Al-Jawf, Taiz, Saada, Marib, Lahij, Al-Bayda, and Al-Hudaydah. The attacks were conducted using F-15 and Typhoon aircraft launched from the Khamis Mushait and Taif airbases, alongside missile attacks launched from Najran, resulting in civilian deaths and injuries.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/a5p1uF5UVpgJsCD1CM3ET-TcnllH-pnCjgEvp9QLfaz6jnP3yue9ANT5GbrAV-hKgmdZ7ZwmLZ1rZAIIrI0hiZ2ODkjKDTYrqlGfWbbZZD5JJHJ9GFKXL1G0sKtqnMqld0mHJ_wPMrlxQZnuaN0xwCo4rme5Eml6zpfGIs4ppqzkFJb6Z4u2YIqlisA2PytMVKTS1mtIbBwKgzr_ftd5Xj2x0Z6Vhbum1DM6zRf2XYsCvpOiNgvaXAeOOQ5AjKnxScAuznykhogHgRLwibs7ol5yFzPoWUwr6MOTpjpJh27hfcdFGIisMiDSpxnmSLLv3-wMzb8bvJ0_reG_W-dp5Q.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491289761,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Strait of Hormuz: Missiles currently being fired violating ships",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 ❌ 🚢🚢 | Missiles are currently being fired at violating ships in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491294828,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Sirik, Hormozgan, Sanaa: Current Updates November 2223 2026 YemenSaudi",
+    "location": "Sirik, Hormozgan, Sanaa, Strait of Hormuz, Gulf of Oman, Yemen, Kuwait, Oman, Saudi Arabia, Israel",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Current Updates: November 22-23, 2026🇾🇪 YemenSaudi airstrikes on Hattab Market in the Baqim district, northwest of Saada, killed four civilians and injured nine others, including African migrants, according to local Yemeni sources. Saudi warplanes also targeted a house in the Zarqa area of Al-Maqatirah district, north of Lahij Governorate in southern Yemen. Meanwhile, Brigadier General Yahya Saree announced that the Yemeni Armed Forces had carried out two military operations. The first targ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

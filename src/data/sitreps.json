@@ -236885,6 +236885,26 @@
     "verified": false
   },
   {
+    "id": 1795375034458,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:• Over the past 24 hours, Saudi warplanes carried out 75 airstrikes and missile attacks targeting civilian sites in the governorates of Saada, Taiz, Lahj, Al-Jawf and Marib. The att...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Kue6RTFjUAOygH-_TLH_InX5GI8ueYhDtJ6AsxIEg63vtlIDHfkAIFxaoQ33OPvYY_10-ZWjoZTykdM9P-Y7jvgC3d4Bqy4ob80gmHLpla0KF8ggzYAKv9TVnoW7o16q7w0bk2sLwuVO7467AcpQknLMUPmjMZceSIrwW1ctnHFv5rwP2MmkVFvIZXS4ITF__-3UH3y-XB3ACxD0dhqqF6WZ5B9S9O97BTYelaXDTPnSzJXagQ9OcmCkLTqqWojuBJy3jn8jEqNWjlCyDbn_ldqSGh5xxp2vMwPJsptsKG3Hwb7iAqFw-AcYwnVEGFsx0cVzuZxEAUwxJcY0M63OlQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1794818106272,
     "type": "airstrike",
     "location": "Bahrain",
@@ -240039,6 +240059,97 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 ❌ 🚢🚢 | Breaking — Targeting a ship in the Gulf of Oman.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795375066977,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Video show the destruction of a sophisticated U.S. MQ-1 drone—the 20th such reconnaissance and combat drone to be destroyed—in the eastern Strait of Hormuz.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/c4373eac3b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/igZRanZj4IO6stn3Eh65RKtO82EPWw4NUK2lW3tDMHYF-QXmxqCZW98_9duasK7r4OL5Qs5rHFQTAq78ZU12miiy2YBX_PCUTM6Qb9LiA7K5sSll9uEPMqfOr7YpqCTQYK6wAdgn9jk1incDb4Ev5-DgCQjt-Gp174Ic-10JqJWa_hgCTqRAe_BTeIt-StLEmPZI7tYGcgqd-3LgX92_tGPUOJyLTgeNvVoexnzail_hl3YF0pD5nLYJKiWeYsOy355aPHtprsgizdYXYjKAVky0-Y73rYf3wjKpDQEv-Kr2d9hAo5O7okqEsttdacXSuX5Mp6H5bFbRBZnx72L8Pw"
+      },
+      {
+        "url": "https://t.me/enemywatch/64979",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/igZRanZj4IO6stn3Eh65RKtO82EPWw4NUK2lW3tDMHYF-QXmxqCZW98_9duasK7r4OL5Qs5rHFQTAq78ZU12miiy2YBX_PCUTM6Qb9LiA7K5sSll9uEPMqfOr7YpqCTQYK6wAdgn9jk1incDb4Ev5-DgCQjt-Gp174Ic-10JqJWa_hgCTqRAe_BTeIt-StLEmPZI7tYGcgqd-3LgX92_tGPUOJyLTgeNvVoexnzail_hl3YF0pD5nLYJKiWeYsOy355aPHtprsgizdYXYjKAVky0-Y73rYf3wjKpDQEv-Kr2d9hAo5O7okqEsttdacXSuX5Mp6H5bFbRBZnx72L8Pw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795375069793,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Over the past 24 hours, Saudi warplanes have carried out 81 airstrikes and missile attacks targeting civilian sites in the capital, Sana'a, and the governorates of Al-Jawf, Taiz, Saada, Marib, Lahij, Al-Bayda, and Al-Hudaydah. T...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/a5p1uF5UVpgJsCD1CM3ET-TcnllH-pnCjgEvp9QLfaz6jnP3yue9ANT5GbrAV-hKgmdZ7ZwmLZ1rZAIIrI0hiZ2ODkjKDTYrqlGfWbbZZD5JJHJ9GFKXL1G0sKtqnMqld0mHJ_wPMrlxQZnuaN0xwCo4rme5Eml6zpfGIs4ppqzkFJb6Z4u2YIqlisA2PytMVKTS1mtIbBwKgzr_ftd5Xj2x0Z6Vhbum1DM6zRf2XYsCvpOiNgvaXAeOOQ5AjKnxScAuznykhogHgRLwibs7ol5yFzPoWUwr6MOTpjpJh27hfcdFGIisMiDSpxnmSLLv3-wMzb8bvJ0_reG_W-dp5Q.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795374987329,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔻 ❌ 🚢🚢 | Missiles are currently being fired at violating ships in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795375006997,
+    "type": "drone",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-11-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Current Updates: November 22-23, 2026🇾🇪 YemenSaudi airstrikes on Hattab Market in the Baqim district, northwest of Saada, killed four civilians and injured nine others, including African migrants, according to local Yemeni sources. Saudi warplanes also targeted a house in the Zarqa area of Al-M...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795375022821,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Aref: Contemporary warfare a test of not just arms, but national resilience📌 Tehran, IRNA – First Vice President Mohammad Reza Aref has emphasized the need for strengthening the people-centered approach to deal with the enemies, arguing that today’s war is not merely limited to an exchange of fi...",
     "media": [],
     "verified": false
   },
