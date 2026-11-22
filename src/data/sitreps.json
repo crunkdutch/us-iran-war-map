@@ -240154,6 +240154,26 @@
     "verified": false
   },
   {
+    "id": 1795382261296,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Army Navy: Two oil tankers ignited this morning after striking a naval mine east of the Strait of Hormuz. The vessels had entered a restricted zone despite earlier warnings, having disabled their identification and navigation systems.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/W4Z6_F0sW6q6qUKkjexGoAAOH4NGzzaj2-lhAsOGGp-b8pZFGQXtAlliWU9qU0fNdeJJtdheOdpRX1uwOJssVmTLiixd_VYWtz39FJJva7xOhfm4JP45hkWCROLXCRqBxDmk6keLwLagrCeY6rqyYeuiZIsNOz6elyewRXKOD2JessWbF2uFsSOVAQtuj7pzfPol7FQxRB1Pocp01eH63q2z2_72M1_LLW_rD3XGMQ2I7P5AusHmXldQ_tWmMhRUez3QGHOvxUCCqli6IKvt338M_aYwuMeWsLNfHI8jmcpf9RqZdRb1fbw1glaHFRvRm95ywCIPPTx22cvAo3wlXg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

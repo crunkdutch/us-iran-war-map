@@ -185771,7 +185771,12 @@
     "description": "🔻 ❌ 🚢🚢 | Islamic Revolutionary Guard Corps Navy Public Relations:• Two non-compliant supertankers, which were transiting the Strait of Hormuz along unauthorised routes without adhering to the instructions issued by the IRGC Navy, suffered explosions after striking naval mines north of Greater Tunb Island and east of the Strait of Hormuz, forcing them to halt.• The IRGC Navy warns oil tanker owners, commercial companies, and maritime shipping firms that the Strait of Hormuz is under the comple",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/W4Z6_F0sW6q6qUKkjexGoAAOH4NGzzaj2-lhAsOGGp-b8pZFGQXtAlliWU9qU0fNdeJJtdheOdpRX1uwOJssVmTLiixd_VYWtz39FJJva7xOhfm4JP45hkWCROLXCRqBxDmk6keLwLagrCeY6rqyYeuiZIsNOz6elyewRXKOD2JessWbF2uFsSOVAQtuj7pzfPol7FQxRB1Pocp01eH63q2z2_72M1_LLW_rD3XGMQ2I7P5AusHmXldQ_tWmMhRUez3QGHOvxUCCqli6IKvt338M_aYwuMeWsLNfHI8jmcpf9RqZdRb1fbw1glaHFRvRm95ywCIPPTx22cvAo3wlXg.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 491284695,
@@ -185873,6 +185878,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 491299896,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Red Sea, Yemen: Yemens armed forces stated that they",
+    "location": "Riyadh, Red Sea, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Yemen's armed forces stated that they carried out attacks targeting the Rabigh oil refinery along the Red Sea coast, as well as a radar installation in the Al-Dawadmi area, located south of Riyadh.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/vr0mHXHy3qHIgpMF94ufSczjQyhrBA_5xphWLUzNmetJakUeNkHl3J2i7mX4jl_NMti6de77kEGivTWXj8PXK6AwPolqgaqrboEjHvu25JeK3q7hqoWfgEaOZIX9PlLjw0d6zDxdzXUq4-1TzXCq_1Vm1j2r57EONHYVsGBc0hRmcNAVhRirf2KvRLhN9ESDhHqxSy9dW3M2h-q2OdvxRSuMvw5RrhmBh8AEXj9xja0-Tku1r0cbOeSJEszgS-MNbFjCPmp0HLdKSQM9eEIeK_xx2LtBfz2rt6rqQRbD8kQOKvv5jYVwnwsxuy7nAd7yqyBnmZjuscvSywLGCx4rkw.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,
