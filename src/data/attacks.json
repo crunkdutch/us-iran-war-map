@@ -180975,6 +180975,38 @@
     "media": []
   },
   {
+    "id": 491173496,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Tehran, Persian Gulf: Ghalibaf Bessent Reflect your strategic failures",
+    "location": "Tehran, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Ghalibaf to Bessent: Reflect on your strategic failures instead of insulting nations📌 Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has criticized US Treasury Secretary Scott Bessent for his offensive remarks about Iran, saying Washington should reflect on its strategic failures in the Persian Gulf rather than insult other nations.Speaking at an open parliamentary session on Sunday, Ghalibaf said the US official’s remarks and inappropriate language reflected deep frustra",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490393991,
     "type": "naval",
     "status": "confirmed",
@@ -184912,6 +184944,80 @@
     "media": []
   },
   {
+    "id": 491163411,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Syria: November marks anniversary martyrdom Lebanese Paramedic",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "22 November marks the 2nd anniversary of the martyrdom of Lebanese Paramedic Jad Al-Fakih, who was targeted with his 2 colleagues, while carrying out a rescue mission, during the Battle of Uli al-Baas (2024).At Basira Press, we remain deeply grateful for his invaluable assistance in the preparation of our book, The Firmest Handle, which documents the life of his own brother, Ayman Al-Fakih, martyred while defending the faith against Takfiri groups in Syria. Shaheed Jad was not only a courageous ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/F9ihZaqt7Lh8qmdR0wsAHary-MpCZDZpVfgwGsN5vi2BV41IlndyMtvRAo_YuNra9swhyqbP7flKRjftqsRIkH2r_QYRtAjT80cF8CumNK8h1-oG5N5Zqs-Xcmm9hB3-f-rTLM0V8CDXWS0DrDN9xsuIeQSuvojgwOaP_Qp5gQYSGdmp5PhUIC6R7rA1SzioVH8ZomeTopQAWZ-dmMTTo92f0RxLihcYt4AdukQxlTiYCUs7isZEQ5cQ0SwBkpxE7pR7kw7xEjZedN6j3dTDRMKNoxyjRFoLJMlWO3XZ68ltIUy51zOPH7Nyc3FZXTn1QgnDaalvCyE5pbW_SxOSQw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491168453,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Hezbollah Missile Strike — Baghdad, Haifa, Syria: first martyr AlAqsa Flood Iraqs last",
+    "location": "Baghdad, Haifa, Syria, Iraq",
+    "coordinates": [
+      33.3152,
+      44.3661
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | The first martyr of Al-Aqsa Flood and Iraq’s last stronghold of weapons:On November 21, mobile ballistic missile units from Kata’ib Hezbollah engaged groups led by Martyr Sayyid Rida Al-Furaiji (r) following a successful missile launch from the Abu Ghraib area towards Haifa and Ain al-Asad. Shortly afterwards, a C-130 aircraft belonging to U.S. Central Command tracked them near a bridge and opened fire on their vehicle.It was there that Sayyid Rida, the courageous photographer who had doc",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/HJasqYkUGGHGIuWcUsC7mFehwXXASkb0ARgvkre1m1jexFqKt1Zm3D_NCNdPUP_gBwL0lBv_NY1aYCNGgZBA3r_P1XSRO3RtK_wP676-3Ikr0wwIKZYg-EeBYB3jyudFr-RfdVzQPIEGOv716gYgz_UYGUhc_BjblpPvt_Zdvjy78QIBSrjATTs-EJJsefAPwPOfaEaqeDmIyQxcm6poFTWfqRjd4GanKjq_JfavfN-YNmxgCNi-J5NSUM-Ltnu46oy5qQeRT-BLJ_FEZpJ6P-Twfh_ABRrl9m3GZmqi_eYWA6BA2gU-244na6U6E4n6tyATvcgYYBDNPGhOTiyKOQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 491158370,
     "type": "airstrike",
     "status": "confirmed",
@@ -184947,6 +185053,38 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 491178540,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Tehran, Strait of Hormuz: IRGC shoots down 20th drone east",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 IRGC shoots down 20th US MQ-1 drone east of Strait of Hormuz📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Public Relations has announced that the 20th advanced American MQ-1 reconnaissance-combat drone, in its Extended Range (ER) version, was shot down east of the Strait of Hormuz.A few hours ago, using the IRGC’s new and advanced air defense system, the IRGC Aerospace Force air defense fighters intercepted and destroyed the Extended Range (ER) version of the advanced American ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
