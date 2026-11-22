@@ -178471,6 +178471,38 @@
     ]
   },
   {
+    "id": 491148291,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-10",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Lebanon: Islamic_RepublicSecretary Irans Supreme National Security Co...",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council, General Mohsen Rezaei:– Any new American attack will be met with strikes targeting distant American military bases as well.– Ending the war on all fronts in West Asia, particularly in Lebanon, is one of our fundamental conditions.– We will not remove a single atom of enriched nuclear material from Iran.– We have informed our Russian friends that the enriched material will remain in Iran and that we will use it ourselves.– We",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 489963053,
     "type": "rocket",
     "status": "confirmed",
@@ -184627,7 +184659,12 @@
     "description": "🖥 Countries that supplied Saddam with chemical weapons now accuse Iran of developing them: Deputy FM📌 Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has criticized the double standards of countries that helped Saddam Hussein’s regime acquire chemical weapons during the war against Iran, but now accuse Tehran of seeking to develop such weapons.Speaking among victims of chemical weapons attacks at the Tehran Peace Museum on Saturday, Gharibabadi prai",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Go7XGgVv0wGR3MzelbFMdNbD4-KhFUh80VpVQBVrYtt0bcrIKGRiV_ej8CVooSfYxteDLT_G5w5BUJ3F_sZtVu6ppwHQPme0yv9BgC2bCr0OoKamLXO1s-zQ8PZ96NrN4f13H-QaQQqKqH8ycjwhLOlMuRrmffiYGTaKJrdkhHurYW4r6VrS1pkqngwG5OtsfYhFpBmXpjDKDbgB5ylejp4SfnJnARbmMTbKM9sRsS3wpcn3IQKavASv0ZmKhhmo_QEkAFi6i_QgYcf8UpAMmjkUB5DJM7UKbZGQTlKusud8QcD-_e79gmZopvM-xaLc66EU0q97Dgt66MmqhiKQ7g.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 491102985,
@@ -184785,6 +184822,38 @@
       "other": 0
     },
     "description": "🇮🇷🔼🚢🚢| Breaking — An Iranian oil tanker named Khat-Shikan (Line Breaker), reportedly carrying crude oil, is heading towards the Gulf of Oman after transiting the Strait of Hormuz. The vessel is expected to reach the U.S. naval blockade line within approximately 24 hours. If confirmed, this would constitute a direct challenge to the American naval blockade. However, the tanker’s name has not yet been independently verified. The name Khat-Shikan, meaning “Line Breaker” or, in this context, “B",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491143253,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Beirut, Lebanon, Iraq: Iraqi religious authority Ayatullah Sheikh Jawad",
+    "location": "Beirut, Lebanon, Iraq",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | Iraqi religious authority Ayatullah Sheikh Jawad al-Khalisi (H), speaking during the 35th edition of the Arab National Congress in Beirut:“The first group to receive training in the use of guided bombs against the American occupation in Iraq was trained in Lebanon under the supervision of the Martyr of the Ummah, Sayyid Hassan Nasrallah. This is something I take pride in, as I was the intermediary who helped arrange it. Iraq today is subject to the decisions of the American administration",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

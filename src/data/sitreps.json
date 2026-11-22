@@ -234153,6 +234153,36 @@
     "verified": false
   },
   {
+    "id": 1795331740234,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-10",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement by the Yemeni Armed Forces on the implementation of four military operations targeting Khalid Airport, a number of pumping stations and the Financial Center in Riyadh, Aramco in Abqaiq, and military build-ups belonging to Saudi officer Badr Al-Harbi in Al-Mudharabah and Ras Al-Ara District...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795331704423,
+    "type": "airstrike",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-11-10",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonThe festival organized by Hezbollah on the occasion of Hezbollah Martyr's Day has begun at the Sayyed Al-Shuhadaa (peace be upon him) Complex in Beirut's southern suburb.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1793952629815,
     "type": "airstrike",
     "location": "Beirut",
@@ -239372,6 +239402,41 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🔴Breaking — An F-35 Lightning II aircraft was broadcasting emergency squawk code 7700 while flying at an altitude of 29,000 feet near Dubai. With its transponder switched off, the aircraft is reportedly preparing to make an imminent landing at Al Dhafra Air Base in the UAE. There is a heightened po...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795331751242,
+    "type": "airstrike",
+    "location": "Beirut",
+    "coordinates": [
+      33.8938,
+      35.5018
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | Iraqi religious authority Ayatullah Sheikh Jawad al-Khalisi (H), speaking during the 35th edition of the Arab National Congress in Beirut:“The first group to receive training in the use of guided bombs against the American occupation in Iraq was trained in Lebanon under the supervision of the...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795331680227,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 In photos: Tehran hosts protest performance condemning Minab school attack📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Go7XGgVv0wGR3MzelbFMdNbD4-KhFUh80VpVQBVrYtt0bcrIKGRiV_ej8CVooSfYxteDLT_G5w5BUJ3F_sZtVu6ppwHQPme0yv9BgC2bCr0OoKamLXO1s-zQ8PZ96NrN4f13H-QaQQqKqH8ycjwhLOlMuRrmffiYGTaKJrdkhHurYW4r6VrS1pkqngwG5OtsfYhFpBmXpjDKDbgB5ylejp4SfnJnARbmMTbKM9sRsS3wpcn3IQKavASv0ZmKhhmo_QEkAFi6i_QgYcf8UpAMmjkUB5DJM7UKbZGQTlKusud8QcD-_e79gmZopvM-xaLc66EU0q97Dgt66MmqhiKQ7g.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
