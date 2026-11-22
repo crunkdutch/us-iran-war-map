@@ -240013,6 +240013,36 @@
     "verified": false
   },
   {
+    "id": 1795367765873,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🚢🚢 | Breaking — Fire breaks out on two oil tankers east of the Strait of Hormuz after they hit a sea mine.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795367766272,
+    "type": "airstrike",
+    "location": "Gulf of Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🚢🚢 | Breaking — Targeting a ship in the Gulf of Oman.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

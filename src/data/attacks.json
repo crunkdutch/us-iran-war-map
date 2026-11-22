@@ -185492,6 +185492,171 @@
     "media": []
   },
   {
+    "id": 491244203,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: Breaking Fire breaks tankers east Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🚢🚢 | Breaking — Fire breaks out on two oil tankers east of the Strait of Hormuz after they hit a sea mine.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/QKw6v4Q70jm2DP9SUpkifKHyWoh1178SyPxGDoRPow7zKssAzNNSVkYEzCBUEPXgdxVmfoxqjq5R15WafI7QeFZ-8iM56D0hpo1UDw2iuGufQgW1M1zH9gGMTJ0A1VZ_5dLD4_wDLYIGtbCr1js_6lbW515lbEbSHW8BLooK5sMH6pdW1qc-GrJpBVyZ4NPgBjgroArA4WeY-N2TzIwABf7KJwXdXYg2BiBtqUTbxMumAKec_8wivlSp8DOyTawlgR_N75BexmzPRvJ3G_MCI6lGWE7yEKqRhqiynxOM6ZN0MnG7xNeNMUMkUhAR5-_ZMxDDIHb2X_t8GBJDAG7GPw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491249261,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gulf of Oman, Oman: Breaking Targeting ship Gulf Omanenemywatch",
+    "location": "Gulf of Oman, Oman",
+    "coordinates": [
+      24,
+      59
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🚢🚢 | Breaking — Targeting a ship in the Gulf of Oman.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491254320,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Israel, West Bank: AlQuds Brigades fighters engage Israeli forces",
+    "location": "Israel, West Bank",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇵🇸 | Al-Quds Brigades fighters engage Israeli forces storming Tulkarm and Tubas in the occupied West Bank:The Al-Quds Brigades said its Tulkarm Battalion fighters are clashing with Israeli forces storming the Tulkarm camp, firing barrages of bullets and explosive devices at the troops and their vehicles.Meanwhile, its Tubas Battalion fighters are engaged in clashes in the city, targeting Israeli armored vehicles on several fronts.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491259380,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Mashhad, Iraq: Political security developments Iraq under current",
+    "location": "Mashhad, Iraq",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— Political and security developments in Iraq under the current circumstances are among the important issues that must be given greater sensitivity and attention. In particular, the set of actions pursued by al-Zaidi and certain currents close to the Coordination Framework, along with the controversies surrounding the Governor of Babil, raise the question of whether a targeted project is taking shape to create tension, stir political posturing, and disrupt Iraq's internal equations. The signific",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491264441,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Naval Operation — Tehran, Strait of Hormuz: more violating tankers catch fire Strait",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Two more violating oil tankers catch fire in Strait of Hormuz: Iran Army📌 Tehran, IRNA — The Iranian Army Navy has announced that two more oil tankers caught fire after hitting naval mines as they were entering a prohibited zone east of the Strait of Hormuz.In a statement on Sunday afternoon, the Army Navy’s Public Relations Office&nbsp;said the two offending oil tankers disregarded the repeated warnings and deactivated their radar systems as they tried to pass through unsafe zones east of t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
