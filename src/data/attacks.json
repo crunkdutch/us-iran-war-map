@@ -181576,6 +181576,150 @@
     "media": []
   },
   {
+    "id": 491203775,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Riyadh, Yemen: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:• By the grace of Allah, our armed forces successfully confronted several Saudi military formations using a number of Yemeni-made surface-to-air missiles, forcing them to withdraw.• By the grace of Allah, our armed forces shot down an armed reconnaissance aircraft of the CH-4 type belonging to the Saudi enemy at dawn today. The aircraft was conducting hostile operations in the s",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Wt240HBgmk4Qj80_MhSH_m_tBlkACwdNJ2KV0ZN6GkDyI6CCgpPuW2mkKNujy8Y7P0OjL2pf7ekAsFSiUWFLGjkVG9Adz-m0bqiGahQrCIxdDKdFsnK6jatrKpeE4ET9rz7tsTD3tbfA2yBHdnIh903xFiBw9Cgm0P7qRgIKrP7TyqlhnDBWo37bb4sYv_ymzXDf_wrV0fztLSpCxFtTKgrK90Q2o-mVKsfFVtDF92JMMN_H7hWvcDcRANFzKOs_hg_2A35YsKXw_ZB5c0nxr2jJiQ4GcWd-yj6eY1kqE7DevtZCi_mtOQ_r0Ezi3EhVKJ7blH-giDZHm6jin8_iuw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491208825,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Yemen, Oman: Saudi warplanes carried airstrikes targeting southern",
+    "location": "Sanaa, Yemen, Oman, Taba",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇸🇦 ❌ 🇾🇪 | Saudi warplanes carried out two airstrikes targeting southern Saada city in northern Yemen. A woman was also wounded by sniper fire from Saudi-backed forces at Tabat al-Aqrudh in Al-Misrakh District, south of Taiz Governorate. Separately, Saudi aggression targeted a residential area in the Shu'ub district of Sanaa, injuring two women and two children.▪️@enemywatch+",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491213876,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Damascus, Lebanon, Syria: Hourly Updates November 1415 2026 Lebanon",
+    "location": "Damascus, Lebanon, Syria, Israel, Qusayr",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔴 Hourly Updates: November 14-15, 2026🇱🇧 Lebanon• Israeli artillery shelling targeted Khiam, Al-Khraibeh and Wadi Zibqin at dawn on November 14, alongside several other locations.• Further shelling was reported in Al-Qusayr, the outskirts of Al-Nafkha, between Mayfadoun and Zawtar Al-Sharqiyah, the outskirts of Baraashit, Al-Mansouri, Douhat Kafr Rumman and Hadatha. At approximately 2:30 AM, Wadi Al-Hujair was shelled as machine-gun fire swept from Al-Qantara towards the valley.• On November ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491218928,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Bahrain: response Iran launched missiles drones towards",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🇧🇭 🇺🇸 | In it's response: Iran launched missiles and drones towards American military infrastructure in Bahrain in response to the latest American aggression. The IRGC Aerospace Force deployed six drones against the radar system of an American air-defence…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ba1ccbbc6b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sH0f2q-JmwNi0tUL_yn2cuome6tBfouOUHM6CmfK0dQCir3FE6vMWBj9JZZxLakSK1Xc1Cs662W48KKKlovoOpEWjJAlp5z1V0No8FOdu9ofXMOgl7FGtW2usesD4rkaHso6Q7vEib1C8DeMkmIWQAFSRL0qk-oZUW9cp6bQX2diGk2xKj1-B2ijnZ-Xn-EK6OzVAWEypf3rB1-811C629IqUMn6bTGGrIYEqHh_k8h5GWs3M8mV21LzvqEdoflYWoDmxbPyuKUNQUDPlbUw4ZrgWEdiAKqemGtekhbX1foX2yxB0tS0Vso3YooRNaT7cm2JLjLrgLOHbX-sZboWFg"
+      },
+      {
+        "url": "https://t.me/enemywatch/64639",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/sH0f2q-JmwNi0tUL_yn2cuome6tBfouOUHM6CmfK0dQCir3FE6vMWBj9JZZxLakSK1Xc1Cs662W48KKKlovoOpEWjJAlp5z1V0No8FOdu9ofXMOgl7FGtW2usesD4rkaHso6Q7vEib1C8DeMkmIWQAFSRL0qk-oZUW9cp6bQX2diGk2xKj1-B2ijnZ-Xn-EK6OzVAWEypf3rB1-811C629IqUMn6bTGGrIYEqHh_k8h5GWs3M8mV21LzvqEdoflYWoDmxbPyuKUNQUDPlbUw4ZrgWEdiAKqemGtekhbX1foX2yxB0tS0Vso3YooRNaT7cm2JLjLrgLOHbX-sZboWFg"
+      }
+    ]
+  },
+  {
     "id": 490482110,
     "type": "airstrike",
     "status": "confirmed",
@@ -184385,6 +184529,70 @@
     "media": []
   },
   {
+    "id": 491234090,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Israel: Enemy_MediaHebrew i24NEWS Channel years after ceasefire",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaHebrew i24NEWS Channel:– Two years after the ceasefire, the settlements in northern “Israel” are still far from returning to normal life.– In Metula, only around 1,000 residents have returned, while approximately half of the residents have returned to \"their homes\" in Manara, even though the structural damage has not yet been repaired.– Residents warn that the security threat has not yet been eliminated, and calm along the northern border remains fragile.– Those who have returned are",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491239146,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-20",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Syria, Israel: Enemy_MediaIsrael Hayom Hebrew newspaper Eyal Zisser",
+    "location": "Lebanon, Syria, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_Media\"Israel Hayom\" Hebrew newspaper – Eyal Zisser:– Someone in the government that sent soldiers to the northern border fell asleep while on guard duty, forgetting – or failing to decide – what the objective and purpose are behind the “Israeli” army’s operations inside Syria and Lebanon. In the absence of a clear political decision and resolve, many of the “Israeli” army’s military achievements in these arenas, as in other arenas, are going to waste.– Last spring, we were taken by surpri",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490992578,
     "type": "drone",
     "status": "confirmed",
@@ -185215,6 +185423,70 @@
       "other": 0
     },
     "description": "🌍 IRGC shoots down 20th US MQ-1 drone east of Strait of Hormuz📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Public Relations has announced that the 20th advanced American MQ-1 reconnaissance-combat drone, in its Extended Range (ER) version, was shot down east of the Strait of Hormuz.A few hours ago, using the IRGC’s new and advanced air defense system, the IRGC Aerospace Force air defense fighters intercepted and destroyed the Extended Range (ER) version of the advanced American ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491223981,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Strait of Hormuz, Red Sea: Iran disrupts American operations through small",
+    "location": "Strait of Hormuz, Red Sea",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "If Iran disrupts American operations through small but sustained attacks, the rate of attrition and the resulting reduction in operational effectiveness will increase.Under this approach, the attacks themselves constitute direct military action, but the principal objective is to achieve an indirect effect through attrition rather than relying solely on successful strikes.2. Threats have been issued against support facilities serving American warships, including Diego Garcia Island. These threats",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491229035,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Israel: Irans Force civil defense body pledge",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran’s Air Force, civil defense body pledge to boost protection of critical infrastructure📌 Tehran, IRNA – Iran’s passive defense organization and the country’s Army Air Force have agreed to expand cooperation to protect critical infrastructure and strengthen defense capabilities, according to a statement by the Army’s public relations department.Brigadier General Gholamreza Jalali, head of Iran’s Passive Defense Organization, met Air Force Commander Brigadier General Bahman Behmard at the a",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
