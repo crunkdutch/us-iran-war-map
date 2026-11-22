@@ -236654,6 +236654,21 @@
     "verified": false
   },
   {
+    "id": 1795338914542,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-15",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Baqaei: US claims that Iran started war are ‘fabrication’ to evade responsibility for unlawful aggression📌 Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has strongly reacted to US President Donald Trump’s claim that the ongoing war was started by Iran with its 1979 Islamic Revoluti...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794818106272,
     "type": "airstrike",
     "location": "Bahrain",
@@ -239437,6 +239452,168 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1795338939723,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Chris Helali responds and we remain unconvinced&#33;His only correction to our article was about his time spent at the JPA Law Firm, adding that he left the position in October 2025 (approximately seven months total), and the nature of his work.Why would he choose to work at such a shady law firm in...",
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/PfUW41JepcwWlcQW1VJLw3JgpSTzcuJCQZZts5wRIH5c0yOu5mqArAla1z1DG-Syd0Iys8UgPC20h_Km4rSjzyY83EmVq1W51Fn5bBZzgzemKB7C_O_bTRPTohKP0fmQo3nUC_odgdBcmn5Rgj6bZEKqh7nz7PG5i9dPl0GGs4F6yYYpMcUvJTPJPwqQzuL1m2XFzl8yOJ4hCiwEdEz2HyPuqWvw_UpeAJ17VpdsGvRPFWRphv5yuyfdSr3QIDNoi8DIujRajBlEnfyVpwKm2bVIGVCBgeG-0fz9ruPD1kkpTGHk-wsmH5O6XQcwx1juxT2rVUwTJzfehk91RiYC9g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/lfYueYUhpUk6s2jc5XZZk1RWMvjDsc--W1FabE5xgiH0c6GY9lwnXibYz0Jtbl1Co6QHNT-OSoIzf-nO2rMsvBUGJRZlsPXtRcybgki_ttWrFFZwvMx4llDTenVyVG7oHHktHB-lak4Ty8gh8ESkFNxUYaemFb1Y_9y3OTX7pUX8sXKWkvhNDTl56EHu7NvnxyIlX1Vdeb1oKRwFCW2LrzI6WpsaLYIUz8EYo8AFrR-ggjeAb_mZQlzTho8iYgkx_Y1tJckQ-GLAXRzk5O5RSV0q4gvTJtBHZ5irS0REzxWYD1qEwVkejCvC3abZVmapCAF3AAZjRcJIIqOSKlb-fg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/t3zGubqugdpFsEIM9PN1t5JuWechhj5LmuGmd4Jjyqh771fJtHm0KVs5yxFVCqsiZndKlY3nupTuHx0TS-VypfedfKKRB4BqdfUKKICii3RqmsFmYkX2LuWxuUM_foxfPsQqu8Els7IBi_pRn_qjQnN8inQ11-DNJVvRX5bCbfYBL6T3_REsXMkFDvLdX5u16UcqvpkML4IJYEFGHdiOk8lczEWN2CdBgDoZ6LR7vje96qvhugJBlW-J9h8xTzP9uxuu1WEWIcrbtkwThplWPApi-zafSqydyKW8q6EzQeAlY5VxYbHuJSzwQqgnKZVIEqTkSz8zA3_5riRP8zYmkA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/vtCRTYRAIE0lddT2hYxQQbfdK663d4rAlVem9yyiObLIs8up7uxxmdB-l3UdvCcA4hl5cHi8y8ttM-u9ryvrtVghc1llUCKvJxsSRKzA5zYUA98H3fnK4iBqV2-0x81mIEYA1lxD8Nd_w_tCfg0UBLDYZ3b_haHA-kTGA7R0HQhK58xXRtElak6rmUXxk4LkLGCSrnbWtK2oIbq_2UmbuzdJBApzGuEqIP31JLXmamwZ3eXyBadJFUK3TqY9vprL_F8ut3xzLWqtByj479T2JrVPB6ZicpQxv5lvDHFStG4PNmij0TCJxRcS18pvuZSI5IAeDzqkUVKNQghH-tkMJw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/E5Dz-MVUeym-hlR8pOHPAHY7t2lelr536CO8CtxYqFhw0NsDkrSDprUSMCSJLNlOzLZZITXgVSqt1xkBUfrHJyEOckjD-9na7wB9gJxu8rPebPfXiDlBuAIFuMM2ewK4KAw6EsEwKL6GF8230ibjIR63t26SdpQaR4s_g6aI7eRfBOfTR0aj3JkqFb-tHNc_LIs3FEz2MHn7A9iLxXnJw9aMQkOCriU-28TF50zTTFbdSYG-FJ_VgyhNx-1TM8NignMSrUy0V8xQAAW4KQdzK1FyWtAas3vIQYfYS8l-dEfu_KDqeg9kNm1y6CgogugGotk59GXUu6ud33nFEMjBJg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795338899100,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC announces destruction of 20th advanced American MQ-1 reconnaissance-combat drone in the eastern Strait of Hormuz:Public Relations Department of the Islamic Revolutionary Guard Corps (IRGC):A few moments ago, the air defence units of the IRGC Aerospace Force successfully intercepted and d...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795338962853,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Tehran hosts protest performance condemning Minab school attackThe protest performance “From Mourning to Justice” was staged outside Tehran’s Jihad Metro Station on November 21, 2026, to condemn the US and Israeli airstrike on Shajareh Tayyebeh School in Minab in February 2026. The attack killed 168...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/Co_q64gANKTmQX85aws05HjAakQUT6jKVyHnECO73amUs1PyKM4qDp-xuqfI_AVCv3ujGJbML6d7Zji9XLlHbzVEGW1MnG2kl0pCRJGoWATjiSorAXUkCel5SL9-EvVdQR9Q4NXsyrpFJQZjjLwgBT6gXQgkW--rPoqyiQGpKURJ377O2-Q8sLL5s2TVlDDwRPZdlmJ39epgfFILe5hHaRPnS_YQrSv1FjoGoaUDlu9bsx_tBmKCjt-3VGIFFKGBdow0qu3QajEbbkXz5oGPY-bnYuDhewqXGg3pLSKotZV2lS4hjfP9j-dEO9f-ucMvoAhNutANp_hp5_s4X0zV-A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/vOP67MM2H7-Yyy_ezHS6XI2LYZymRq3KhcvIUUlEOTzRwNUeKUl2hR1sXZ2q_n7uh8N671AxWFMpPaiq-JIvhC7XoPSnB9QzC_dtcTQQjpswy9g3GM_ZUF-jKNc-gkacM1tKnPrjUO_3F9nIFDvhG6Mr0Z-5cKVvD3bvrL73zH0mD3fknYfi5QPgRoARsrrgg6cEjUZVoIE3HmF9YroZNxOrOc9kGDE1I6QY2H7hEkpthM4YxMED3WlbhV4tOwviT00IDoyMn4k_iDKtOR_NWLkd_joXUljN5g61ul4hm-WHDDVXo6QE9IyWQsP9hBy6Ob_ZmN6YYUCz8-Vz-oRzhg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/lonh03gsfP6RbxFndOpYimEsTAI0GxgknJvH4aD6Ig6XRdxE9OpztVeb8Th96ryTWrwjnhD94Os0wbRDYCHAZ6TwzUhNkHeVoz6Y13Zn-usGui6psu2ZmTIAjCbsHzvZFwca6uCfiNmmAGGM-FJl33Zk08b2awwtjNAZnYi47rLVqkhHMPhp1uQrlIQt0EnHpWc92N-U2VRDdNlYlmrHyG9x3VONE6F2VYS8PjMF-L1n1NbRCTFjjPDv_WU6NxoV82PecpCRRgQ0xnk_tVE6OA-sicINq7wYwgi3nmpM9FFQXWgTls6PTEYNnw_TmbYCiQpAs45Ui2EFf9iAZpDv0w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QQziSta9-ha38ec9CGcgvGyaHHq7lXjoRe3aYzdf-vEsWYjSf-ueQmjwaeaF1hZzesek1QXmfUBcli2MelQ_1And3lg8Yc8pmoUMksuR-tCG6o3ysdZ-TeGBbbXaSI27MO0Qpjxfpc9QiidHkBulwWyR8gkxAug5-weCXxgqv-aQEBmeKBqdnmm-ee7e-IW5Uy75yzKnKjzu3pDCaL0EgbFL7-cp51wRjmrxVIvbZwaPPnWWsNSJlTAXfyf65Hz2NKuzfSXcWxL7-4DkCCXFHBB_4cfNfYqhl1rA8MO3K8_WCp3khunBXvUGuSKqKaI55iXIPKZ02WzGfZH7mKAoiQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/oEUP136dO8OKBnEnoUns__kBbHZFXlsuiCT2HoUM9czy4xXn1aKOhrfU7Zvd5lQnKl74-47rOUyZlEIW5FASVZeEwUj7v9aOegz0HDjyl_RAV_RRQKrhWgR_zIOkDKV-jeAncwCPn_wEVwc9fqqmY7XN2BVuvMWHh-fcBY6fqEtz95aJI51tbtZVxniw__X_sNgnNn4qWxnSZWuQd-Ltr2sftPB9rNYAY1kqG6NeYa4zEpSdw6yWWj4jYHJdmZ3bWS1Ho2q3Vep6DN7tV2L1nEeYlNeiih3awmDdq4XNovQgmhIkNFeMiYu-n0DMwyyucIIs-SuSJsv_3C1VVxiz9w.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hp6xBqX7IlSP3r0LCFYfawTo2N3b2zpwb2F7FWoCINmMwVYeyf-yH9lO60-eYHj4W06HnVJWWuIgxhcPun8QJKXyNSOcUf-jzPPziX76Nsfot_dGYfDBzD0KhdAtCFFt4f4epmL3v3MTnL6zfAkayhpc7Tj6o5t3-XhigokPhZmZgJPLJZHl_FYc0s39F1pgoYBX9kUjOf__jMSDK7vfu2BwkxwbsUfwWL2UU3jTPT6360Sa-iQBySvsS5tvfgo4oRYNNtzSyXB-Y_K0xhxIDn4c1OEl6xI29yfNTPJXH8MTUKJJSgHtUVvWkr58BOxKAkAsdankFQCBAaaZMjP7Wg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/BQincHZLvQmnyabf7IxyTRT3c_Lw3Xq6BMxbAqdcIvwKks_EF00MlDRUI14SjdS3bnpmI3yRgTMf3vtVSE0cyUkq1XhLGBvGlE6dtH5AJ4ReGcTNkUD7tCwOasTuy9l1P-stHA0mSHBPUgeMWJOl1OU4rXMa9i2UWoQgI6J1QexyBi3Bn8NNpzydSoxlM6_zhsVmvdqiTKZeL44UsTtfIdyXGMGGgmj-X65fU3yISXToi_54XIYl7XwBJJ4cRp7WdGyAG3vm1NrTRGqBUqHImV9M6kCDtdqFC1wd720fLRoFXRk9wbuz-Jn5G6ynU_Yp46KTtOe7OFdExnueXcODrw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cpbkb-N7TpMhsCOPmRcD63OM4Wbkcu4Ckpy-kyx3gTICMmUY3Y1v1ntMCMuYboYNvMOGUyfotcfuEdobU0sjDS8F_cxawl1WCjc6t6s1dnMKyqpSztwLdjcsAoutRMWj1WPTeWns6UVwUmyyISRUp9hD8IfCSxaiuFy6KkB6qhbn5PbDCWuXTlLeXOoWECXr1lQ9iNrHN2Iw5b41ny1wg6uQc6CMtLDI3mYnrx0Qd7sQlk2c69uswsOF0gqcOT1Ich66oWCIeGU6AWP-wmef2jbpeOJPt5FagIdnRAXy8SdH6hywywpl-clahTveEkUhyQ_PI9ngBK393LT-8cjodA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/bSgo_hedyHFU0Pc6_q7TSpm6y2mV7wfsT-s68fbVx7njpFAgyT-7RQ8iUjhjZuCJHXOPvP8qKtsmD6eD40LHO6R3PssOSetvqV9xEERS6Vw5PqD2VS3MXvBEOv8NlysRaS8X_pS6ZOW0fr_XhqHRmQ6ONfog0LWxMxLw117hGMw-7TZVJbc_h4Ja03LQ4ngt2qAy8ULZEU07aZFruA3YeXYk59CGmMyIFUER-27FhgI2P_WukW-CVG5QhrVZfoD2Wojgm9K3aPr4woigVZJJGnxukqP2m21M5KqwXHrp1qp3rsYjr-bj7GLglIRe46dLrOeXNggP4fhYPfcnCuHJCg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Xw2oFHbmqZlSNPcDB4AW35XggNQZyFEKe26lHktlfUObeNZuFOWZpFYeYFqZerJBDsOKLoNJ6W72CXcZr2kV4oe6kyIrYTjQUs3bdANGtdOi_0DFEv6XWium7y9V-SP-0MFmWaup0JwL-5zyNnzZs36_-pYpmOlKu2fX_l0jpUVHxnlv0R1QrqpfpP-AiQ3Sm5LkMJjDojCfcfE4_iwNTQVqwhZCXY9XO4AIx2CWrYbV1EwrLia4Q2v0KEDjezuMW4S9srfrm7XeIjJ3Rink08hsWtjDBZt-wZCxybbGd6FtDpTgHl5IjIjbYIIqGrI-fba0sYw9MgWsz70SZOA0Cg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795338887031,
+    "type": "airstrike",
+    "location": "Tabriz",
+    "coordinates": [
+      38.08,
+      46.2919
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 In photos: Autumn in well-known park in Tabriz📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/GZWQp_ziJ3VwM4p3v0g9YNKoO3PuQ0FmPf3VP5QSlbEYko5s1gNnFSUoh6RmWHtSseTSgpytkc1aV8ycnF04rLasIxtYLdfgV_mHD0--TmkJMh0_jmGHchqdVkHMB9efuHs2knukr615gCvYE9twxiUBUeauVuJ53CHJD_rQi_dwLa9WJ6VPixltLl57wDiaFsm4uDlueiSeqrUhDLy5t5WoULtVWvunNjUJ8tmJmWi6LPLFhMYx_yWMcSIIgortVTznH3QooHMjbp54bbMGievdKsanm6QMJbQleO3UGRHP1agIBIQa96d6JHbSqdX9QF7hz4CNqAyq9zfowxri6g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795338958362,
+    "type": "airstrike",
+    "location": "Persian Gulf",
+    "coordinates": [
+      27,
+      52
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 In photos: Persian Gulf Beach Tennis Cup held in Iran’s Kish Island📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/A_m0LAPvIStpN96iD9GCyVQr928mWGFew-zeVSWzDeviGubzxy42QkmwR3dMrEp-YFW5XTLDgkFX2H2LX-H9QeZXHGhkIop9_dTFKQ80hHMeX7D6m78peBPRQ-CWAmcAT7r5UoBA5FdzV9EHNKLKkclTX15hTD_WYg4IB_zBEZNYPLMOdOQYn8aHkK5fIx4Zl74Nm-wRj_QQsbuOjxW1WXoFz_k0VqOaNgRoDl8H0BNrZ0TsmwQI_ty5xyAmug7t_ICi3FzmJV_76Klsy_ZvG9sNudVqv13NGDXscjA1Hdn9o70InZjRPGpu39gbGWAUoszHkOdQcUCi1jrw_MQpaQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795338931224,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Blood of martyred children will guarantee Iran’s victory: Mohajerani📌 Tehran, IRNA — Administration spokesperson Fatemeh Mohajerani says the blood of children martyred in the US-Israeli onslaught will guarantee Iran’s victory.Speaking at a ceremony honoring the families of martyred children in T...",
+    "media": [],
     "verified": false
   },
   {
