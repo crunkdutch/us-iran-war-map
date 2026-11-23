@@ -179163,6 +179163,38 @@
     ]
   },
   {
+    "id": 491315106,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-11",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Lebanon: Islamic_RepublicSecretary Irans Supreme National Security Co...",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Islamic_RepublicSecretary of Iran’s Supreme National Security Council, General Mohsen Rezaei:– Any new American attack will be met with strikes targeting distant American military bases as well.– Ending the war on all fronts in West Asia, particularly in Lebanon, is one of our fundamental conditions.– We will not remove a single atom of enriched nuclear material from Iran.– We have informed our Russian friends that the enriched material will remain in Iran and that we will use it ourselves.– We",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490083303,
     "type": "drone",
     "status": "confirmed",
