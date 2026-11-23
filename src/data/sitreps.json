@@ -240393,6 +240393,21 @@
     "verified": false
   },
   {
+    "id": 1795432789333,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | Iraq closed the Shalamcheh border crossing under the pretext of customs systems disruption.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795411107300,
     "type": "drone",
     "location": "Sanaa",
@@ -240425,6 +240440,51 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1795432745873,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran VP urges stronger women-led business networks to build economic resilience📌 Tehran, IRNA – Iran’s Vice President for Women and Family Affairs, Zahra Behrouz-Azar, has urged stronger business networks, regional markets and mentoring to help entrepreneurs withstand crises.Addressing women ent...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795432810744,
+    "type": "airstrike",
+    "location": "Bandar Abbas",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "date": "2026-11-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 US faces serious constraints in military action against Iran: IRGC Advisor📌 Bandar Abbas, IRNA – Brigadier General Mohammad-Reza Naghdi, a senior adviser to the commander of the Islamic Revolution Guards Corps (IRGC), says that the United States faced serious constraints in military action again...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795432745246,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Pezeshkian condoles passing of renowned novelist and traveloguer, Reza Amirkhani📌 Tehran, IRNA — President Masoud Pezeshkian has extended his condolences over the passing of Reza Amirkhani, a well-known writer, novelist, travelogue writer, and literary critic, saying he will be remembered for op...",
+    "media": [],
     "verified": false
   },
   {

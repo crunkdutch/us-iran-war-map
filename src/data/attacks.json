@@ -186125,6 +186125,70 @@
     "media": []
   },
   {
+    "id": 491335400,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Tehran, Yemen: Iran respond aggression without geographical limits",
+    "location": "Tehran, Yemen",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran to respond to any aggression without geographical limits: IRGC deputy chief📌 Tehran, IRNA — Iran will respond to any act of aggression against the Islamic Republic without geographical limitations, Deputy Commander-in-Chief of the Islamic Revolution Guards Corps (IRGC) Major General Mostafa Izadi says.Speaking at the third edition of the Omid Media Cup on Sunday, Izadi said Iran has never initiated aggression or a preemptive war but would stand firmly against any attack on the Islamic R",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491340476,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Bandar Abbas, Hormozgan: faces serious constraints military action against",
+    "location": "Bandar Abbas, Hormozgan",
+    "coordinates": [
+      27.1832,
+      56.2666
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 US faces serious constraints in military action against Iran: IRGC Advisor📌 Bandar Abbas, IRNA – Brigadier General Mohammad-Reza Naghdi, a senior adviser to the commander of the Islamic Revolution Guards Corps (IRGC), says that the United States faced serious constraints in military action against Iran, while economic pressure and internal divisions remained central to Washington’s strategy.At a workers martyrs’ commemoration in Hormozgan Province on Monday, Naghdi said a ground invasion was",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
