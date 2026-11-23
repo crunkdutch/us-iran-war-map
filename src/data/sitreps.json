@@ -240408,6 +240408,21 @@
     "verified": false
   },
   {
+    "id": 1795439967990,
+    "type": "missile",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔻 ❌ 🚢🚢 | Missiles are being fired at violating vessels in the Strait of Hormuz, with explosions heard in the area.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795411107300,
     "type": "drone",
     "location": "Sanaa",
@@ -240484,6 +240499,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🌍 Pezeshkian condoles passing of renowned novelist and traveloguer, Reza Amirkhani📌 Tehran, IRNA — President Masoud Pezeshkian has extended his condolences over the passing of Reza Amirkhani, a well-known writer, novelist, travelogue writer, and literary critic, saying he will be remembered for op...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795440057103,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Pezeshkian: Assassination of Iranian scientists aimed at depriving nation of their expertise📌 Tehran, IRNA — President Masoud Pezeshkian says that the US and the Israeli regime’ assassination of Iranian scientists and prominent figures aimed at depriving the Iranian nation from their knowledge a...",
     "media": [],
     "verified": false
   },

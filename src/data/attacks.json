@@ -186189,6 +186189,38 @@
     "media": []
   },
   {
+    "id": 491345553,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Israel: Four terrorist operational cells dismantled northwestern",
+    "location": "Tehran, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Four terrorist operational cells dismantled in northwestern Iran📌 Tehran, IRNA — Iran’s Ministry of Intelligence has announced the dismantling of four more terrorist-separatist cells and the arrest of over two dozen operatives in a coordinated anti-terror operation in West Azerbaijan Province.In a press release on Monday, the ministry informed about a successful operation that was carried out involving intelligence units and provincial law enforcement agencies as part of efforts to counter t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
