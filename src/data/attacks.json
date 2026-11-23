@@ -185917,6 +185917,81 @@
     ]
   },
   {
+    "id": 491304965,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Strait of Hormuz: IRGC shoots down 20th American reconnaissancecombat",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC shoots down 20th American MQ-1 ER reconnaissance-combat drone east of the Strait of Hormuz:The IRGC’s air defence forces have shot down the 20th advanced American MQ-1 Extended Range (ER) reconnaissance-combat drone east of the Strait of Hormuz.The drone was intercepted and destroyed using a new and advanced air defence system, marking the fourth American drone downed by Iranian forces in the past 24 hours.The IRGC reaffirmed that Iranian airspace constitutes a red line, warning that",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/b7a6a09fa5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/g5RTA7FB29Wnc7O1J6VuostUq5U9mfhJ-_CaHlsXd9H0BSEMfLgtaUTUuc9ZpahokW_btDc8rW-Urk3IFU0MEUdVGUAodLTlSS3t0EOrf50lBFQMQIatcnnOcAM3G7U0TEjXUkjY9EANfe3wk7gJ-NyFwh3Zom2zmzRadkj0SZvUP7lghYyWvaN-UxB5njwkatq4fmMEZIFYexNsKsoqCQtz7igKc6nLDk9jfOb0Rd5n9ulKATlxgEnI9y6q0xH_DPuZ_abpQhvHiXT-PS-0S7iMd_PYq3xwIqFLncIR_jbyXB3PmYr410Vy2XKRrypQIwn9cfLe-5fPqL2pyRnqPQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64983",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/g5RTA7FB29Wnc7O1J6VuostUq5U9mfhJ-_CaHlsXd9H0BSEMfLgtaUTUuc9ZpahokW_btDc8rW-Urk3IFU0MEUdVGUAodLTlSS3t0EOrf50lBFQMQIatcnnOcAM3G7U0TEjXUkjY9EANfe3wk7gJ-NyFwh3Zom2zmzRadkj0SZvUP7lghYyWvaN-UxB5njwkatq4fmMEZIFYexNsKsoqCQtz7igKc6nLDk9jfOb0Rd5n9ulKATlxgEnI9y6q0xH_DPuZ_abpQhvHiXT-PS-0S7iMd_PYq3xwIqFLncIR_jbyXB3PmYr410Vy2XKRrypQIwn9cfLe-5fPqL2pyRnqPQ"
+      }
+    ]
+  },
+  {
+    "id": 491310035,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Sanaa, Hodeidah, Red Sea: Current Updates November 2026 YemenSaudi airstrikes",
+    "location": "Sanaa, Hodeidah, Red Sea, Lebanon, Yemen, Israel, Qusayr",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Current Updates: November 23, 2026🇾🇪 YemenSaudi airstrikes across several areas of Yemen resulted in civilian casualties, including children and women. A girl was killed in a strike targeting a house in the Warazan area of Khadeer district, Taiz, while six civilians, including three women and a child, were wounded in a separate air raid on a house in Al-Jashiyah, south of Taiz, according to the Sanaa Health Ministry. Saudi warplanes also bombed the coastal city of Mocha on the Red Sea, west",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
