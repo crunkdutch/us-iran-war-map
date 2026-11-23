@@ -239942,6 +239942,21 @@
     "verified": false
   },
   {
+    "id": 1795454456997,
+    "type": "naval",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Video | The Sun Boat... A look back at the key milestones in the jihadist journey of the late great jihadist commander, Martyr Haitham Ali Al-Tabatabai, “Sayyed Abu Ali,” and his fellow martyrs.Low quality#We_Remain_True_to_Our_Pledge#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795338887031,
     "type": "airstrike",
     "location": "Tabriz",
@@ -240594,6 +240609,61 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔻 Iran exercised its right to self-defense against aggression: Deputy FM📌 Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has emphasized that the Iranian nation exercised its natural right to self-defense against aggression to its territories and nation...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795454434138,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-23",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: The Saudi warplanes carried out 67 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the capital, Sana’a, and the governorates of Lahj, Taiz, Hudaydah, Saada, and Hajjah.The attacks were carried ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/TlnHuDzqj63coR_VJ4bIBj5m3s2dlHTzsgBH2rP3ok-hsKOgqIX90QYw9GtAPgjzj3odLBcCLW9bXDtNW5d_CmU4zk8zBNG7C3EuyG6HTcBbbW0JWNq-eCJXq8k5TrWXlWOAsa6fNtOTjlSJN5tJ0uR11EKdyDNGIt7COsRdXUbrvThSwu6oiG0XWORKn6117NXpl2bUTJQUWJ3FXkIMPrivxipoh8XqDRk-aO9xh15hq1XelqakVYMq4U8kAzZ-pM0iFS79FkmpydhhC61RPm-bGuWpt1GvTgn3qSHmjr2ScfjAia7QiLk2PVtBcCoM3DGCg1XAX3i9_l_rURYzmw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795454466653,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-23",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Armed Forces:An hour ago, a LUCAS drone of the invading American enemy was hit and destroyed by the indigenous systems of the Army Air Defense Force, under the control of the country's integrated air defense network, over the waters of the Persian Gulf and in the east of the Strait of...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/cLsUabz3j1SEiIYYRxffsbDZhvJ0HuOUgZ8Xntg-axaBhXpn-mPT6gsq5-0-bplYltC5A_Y1GDohZF0pUPZMMNOGYTYnfSU8WMA5TFcoKRzKFf0nZY4vfTeyXaZoEhj3W3j7xusET2YywZ749HatX5kNlikyN0jnokbmwbMJoBF2FaMLNWmRnGJ09MxTg9Tmplff5EPIwI0VPgccMFrh-9fEVV3gJdRy7VzyrGMl4aVrUHMgDBNE39wdmgJqz6C1Of6RWqIO9FsgGZuJ41VoeoRyTQvSYFs7TdOvOBn6477HgSyOFpHia3uUcrcy0lFRanwciosq6iq00k8cIiJJ_A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795454509580,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ IRGC commander vows decisive response to any threat against Iran📌 Tehran, IRNA – Commander of the Islamic Revolution Guards Corps (IRGC), Major General Ahmad Vahidi, says the elite force will deliver a decisive response to any threat or aggression by the enemy within the geography of the threat....",
     "media": [],
     "verified": false
   },
