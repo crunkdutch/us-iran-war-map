@@ -186380,6 +186380,38 @@
     ]
   },
   {
+    "id": 491370953,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Tehran: Russias Medvedev slams double standards Irans",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Russia’s Medvedev slams US double standards on Iran’s nuclear program📌 Moscow, IRNA – Deputy chairman of the Russian Security Council strongly criticized the US for its contradictory and hypocritical approach to Iran’s nuclear program.In an article titled “State Sovereignty and Nuclear Weapons: International Legal Aspects of Ensuring National Security” for the Moscow Journal of International Law, Dmitry Medvedev argued that appeals to the nuclear non-proliferation regime are frequently invok",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
