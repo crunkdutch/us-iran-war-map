@@ -186061,6 +186061,91 @@
     ]
   },
   {
+    "id": 491350631,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Iraq: IraqiResistance Islamic Resistance Movement Harakat alNujaba",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance Movement Harakat al-Nujaba Executive Council:In the Name of Allah, the Most Compassionate, the Most Merciful.“And never will Allah grant the disbelievers a way over the believers.” (The Almighty Allah has spoken the truth.)We are following with grave concern and strong condemnation the circulating reports regarding international efforts and pressures aimed at transferring the administration of the shrine of the righteous servant Ezra (Prophet Uzair, p",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491355710,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Lebanon, Syria, Oman: Today commemorate demise anniversary Hadhrat alBaneen",
+    "location": "Lebanon, Syria, Oman, Iraq",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🏴 | Today, we commemorate the demise anniversary of Hadhrat Umm al-Baneen (S), the noble wife of Imam Ali (A), who bore him four sons. The eldest of them was Abul-Fadhlil Abbas (A), along with his brothers, who all sacrificed their lives in the name of Allah during the Battle of Karbala.The status of Hadhrat Umm al-Baneen (S) is elevated due to her outstanding virtues, which made her highly honored among Ahl al-Bayt (A) after Sayyidah Fatima Zahra (S). She is an icon and a role model for the ma",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn1.telesco.pe/file/PfUW41JepcwWlcQW1VJLw3JgpSTzcuJCQZZts5wRIH5c0yOu5mqArAla1z1DG-Syd0Iys8UgPC20h_Km4rSjzyY83EmVq1W51Fn5bBZzgzemKB7C_O_bTRPTohKP0fmQo3nUC_odgdBcmn5Rgj6bZEKqh7nz7PG5i9dPl0GGs4F6yYYpMcUvJTPJPwqQzuL1m2XFzl8yOJ4hCiwEdEz2HyPuqWvw_UpeAJ17VpdsGvRPFWRphv5yuyfdSr3QIDNoi8DIujRajBlEnfyVpwKm2bVIGVCBgeG-0fz9ruPD1kkpTGHk-wsmH5O6XQcwx1juxT2rVUwTJzfehk91RiYC9g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/lfYueYUhpUk6s2jc5XZZk1RWMvjDsc--W1FabE5xgiH0c6GY9lwnXibYz0Jtbl1Co6QHNT-OSoIzf-nO2rMsvBUGJRZlsPXtRcybgki_ttWrFFZwvMx4llDTenVyVG7oHHktHB-lak4Ty8gh8ESkFNxUYaemFb1Y_9y3OTX7pUX8sXKWkvhNDTl56EHu7NvnxyIlX1Vdeb1oKRwFCW2LrzI6WpsaLYIUz8EYo8AFrR-ggjeAb_mZQlzTho8iYgkx_Y1tJckQ-GLAXRzk5O5RSV0q4gvTJtBHZ5irS0REzxWYD1qEwVkejCvC3abZVmapCAF3AAZjRcJIIqOSKlb-fg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/t3zGubqugdpFsEIM9PN1t5JuWechhj5LmuGmd4Jjyqh771fJtHm0KVs5yxFVCqsiZndKlY3nupTuHx0TS-VypfedfKKRB4BqdfUKKICii3RqmsFmYkX2LuWxuUM_foxfPsQqu8Els7IBi_pRn_qjQnN8inQ11-DNJVvRX5bCbfYBL6T3_REsXMkFDvLdX5u16UcqvpkML4IJYEFGHdiOk8lczEWN2CdBgDoZ6LR7vje96qvhugJBlW-J9h8xTzP9uxuu1WEWIcrbtkwThplWPApi-zafSqydyKW8q6EzQeAlY5VxYbHuJSzwQqgnKZVIEqTkSz8zA3_5riRP8zYmkA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/vtCRTYRAIE0lddT2hYxQQbfdK663d4rAlVem9yyiObLIs8up7uxxmdB-l3UdvCcA4hl5cHi8y8ttM-u9ryvrtVghc1llUCKvJxsSRKzA5zYUA98H3fnK4iBqV2-0x81mIEYA1lxD8Nd_w_tCfg0UBLDYZ3b_haHA-kTGA7R0HQhK58xXRtElak6rmUXxk4LkLGCSrnbWtK2oIbq_2UmbuzdJBApzGuEqIP31JLXmamwZ3eXyBadJFUK3TqY9vprL_F8ut3xzLWqtByj479T2JrVPB6ZicpQxv5lvDHFStG4PNmij0TCJxRcS18pvuZSI5IAeDzqkUVKNQghH-tkMJw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn1.telesco.pe/file/E5Dz-MVUeym-hlR8pOHPAHY7t2lelr536CO8CtxYqFhw0NsDkrSDprUSMCSJLNlOzLZZITXgVSqt1xkBUfrHJyEOckjD-9na7wB9gJxu8rPebPfXiDlBuAIFuMM2ewK4KAw6EsEwKL6GF8230ibjIR63t26SdpQaR4s_g6aI7eRfBOfTR0aj3JkqFb-tHNc_LIs3FEz2MHn7A9iLxXnJw9aMQkOCriU-28TF50zTTFbdSYG-FJ_VgyhNx-1TM8NignMSrUy0V8xQAAW4KQdzK1FyWtAas3vIQYfYS8l-dEfu_KDqeg9kNm1y6CgogugGotk59GXUu6ud33nFEMjBJg.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 491310035,
     "type": "drone",
     "status": "confirmed",

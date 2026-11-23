@@ -240423,6 +240423,71 @@
     "verified": false
   },
   {
+    "id": 1795447287337,
+    "type": "airstrike",
+    "location": "Amman",
+    "coordinates": [
+      31.9454,
+      35.9284
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— One explosion was heard in Amman, Jordan, and another along the coast of Oman.▪️@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795447228158,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-22",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: At 11:36 AM, a Saudi F-15 fighter formation took off from Khamis Mushait Air Base and headed towards Taiz and Lahj governorates. At 12:40 PM, the formation carried out an attack on several buses and vehicles transporting general...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/FPqaAR66b_F8cmLkp8uL-0mcxck5yHcKcfyZfjujbZRXFVmhjgpyL-8ewFpj5tCjd2ZW0clvQ8Zt2eHFJYoxxTsJj1R9lRw3BdU5D-G3rWKfdw4j8Eb1FYPqEsJ6M13kvPDgF2WRZXMW5qkXviFI9wkILqnNMLpeXjsRBx-2qV6W-STgDH8-rwSPgfVcXw7YmIJbgcXH3QW6efKsZrqBry8fae6BPZGMrTeIofoA6CaIcgnTk2EwQ-FUAaq09kEftoctERR9lTi30KaQ0M_VmALXNnOK_b6lnbPiCzgPgOJ8npTsz4kLjCKxGf0EvlRnvUuuGa0poD6gHjnexJFWKw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795447240002,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | #IraqiResistance | Islamic Resistance Movement Harakat al-Nujaba Executive Council: In the Name of Allah, the Most Compassionate, the Most Merciful. “And never will Allah grant the disbelievers a way over the believers.” (The Almighty Allah has spoken…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795447233784,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴 | Today, we commemorate the demise anniversary of Hadhrat Umm al-Baneen (S), the noble wife of Imam Ali (A), who bore him four sons. The eldest of them was Abul-Fadhlil Abbas (A), along with his brothers, who all sacrificed their lives in the name of Allah during the Battle of Karbala.The status ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795411107300,
     "type": "drone",
     "location": "Sanaa",
@@ -240514,6 +240579,21 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Pezeshkian: Assassination of Iranian scientists aimed at depriving nation of their expertise📌 Tehran, IRNA — President Masoud Pezeshkian says that the US and the Israeli regime’ assassination of Iranian scientists and prominent figures aimed at depriving the Iranian nation from their knowledge a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795447241956,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran exercised its right to self-defense against aggression: Deputy FM📌 Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has emphasized that the Iranian nation exercised its natural right to self-defense against aggression to its territories and nation...",
     "media": [],
     "verified": false
   },
