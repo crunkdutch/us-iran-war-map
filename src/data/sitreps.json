@@ -241446,6 +241446,62 @@
     "verified": false
   },
   {
+    "id": 1795548325902,
+    "type": "airstrike",
+    "location": "Erbil",
+    "coordinates": [
+      36.1915,
+      43.9794
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🇮🇶 | Targeting of one of the Iranian opposition’s headquarters in Kirkuk District, Erbil Governorate.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795548315268,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Islamic Revolutionary Guards Corps:Footage of a fourth oil tanker exploding east of the Strait of Hormuz.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/c8cd6e3d2d.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/dbx_6eZqEQWDou5B3tN4J_4ChB8hZNshtJ0n0-uEl3MKGZUF8zknYt5wZIKwv4UBsFU04J28FpZtYIWR8lJ1Em-U-IARxUwr1bFX9BypOYig2K09RfgsHNU7Zqf13oLy6vnEkyrltXaYL6MCO75IT6iGuOsILTv9FNkQpQl9cL-oRqODQVyNO0Tadj0CP2YSUFLylEw5aiArShqFp4LMKFZS7EykV226kN0xTXayIoPkf7hiT2hxBAwJDlSnzmajKrBHBYvpFw9pY3pZm2o8wAg0RhLjp2SiGk69bKp_Df0zdu8xTmVjTw7-2_RUNsLcUtePStLpXlFPD-La4ZdXGQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/65033",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/dbx_6eZqEQWDou5B3tN4J_4ChB8hZNshtJ0n0-uEl3MKGZUF8zknYt5wZIKwv4UBsFU04J28FpZtYIWR8lJ1Em-U-IARxUwr1bFX9BypOYig2K09RfgsHNU7Zqf13oLy6vnEkyrltXaYL6MCO75IT6iGuOsILTv9FNkQpQl9cL-oRqODQVyNO0Tadj0CP2YSUFLylEw5aiArShqFp4LMKFZS7EykV226kN0xTXayIoPkf7hiT2hxBAwJDlSnzmajKrBHBYvpFw9pY3pZm2o8wAg0RhLjp2SiGk69bKp_Df0zdu8xTmVjTw7-2_RUNsLcUtePStLpXlFPD-La4ZdXGQ"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795548354647,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— An explosion has rocked Bahrain. The cause remains unknown at this time.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795541067672,
     "type": "airstrike",
     "location": "Lebanon",
