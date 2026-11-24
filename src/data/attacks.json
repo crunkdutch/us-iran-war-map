@@ -183238,6 +183238,43 @@
     "media": []
   },
   {
+    "id": 491391291,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Oman: Yemeni Armed Forces Statement Brigadier General",
+    "location": "Yemen, Oman",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:For 12 years now, the criminal Saudi enemy has been perpetuating its aggression and blockade against our people. It has escalated its atrocities and acts of hostility, carrying out airstrikes, tightening the blockade, committing dozens of massacres, and deploying tens of thousands of troops to attack Yemeni civilians and armed forces. It has provided these forces with all types ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/i860ejbpTC_oDQRR9u5m8ftcqrFYzaGoYIQnsobLoZYgvN-o2bPOi2o08JHUd3dhHql8ExuSaIQRLXQ7_MkrcFiXxyliFCQ2_a_Lnm7YbJxefMBsG4QPNHEVWXUSHIPg0aKK2xv5QHG7kggHzdqGUBTut0uiq10s-So7uil2uqEGLvuGIf7nqjHKuvudN-xnT_Gxm2f4VrIDDxrTVEAqMu5p0_nBCnlmikdJnlLQfn45OC7WUoZuJ1tvOIs6wRmJbXHpY36ljYasiLiBvmmdi17wzXZ9uOaJcpPrXkMVp7T6eAbUVHRmNceCar4NCjfOsqlLA1MBrImz097ntmIBng.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490723631,
     "type": "intercept",
     "status": "confirmed",
@@ -186303,7 +186340,12 @@
     "description": "🌍 Four terrorist operational cells dismantled in northwestern Iran📌 Tehran, IRNA — Iran’s Ministry of Intelligence has announced the dismantling of four more terrorist-separatist cells and the arrest of over two dozen operatives in a coordinated anti-terror operation in West Azerbaijan Province.In a press release on Monday, the ministry informed about a successful operation that was carried out involving intelligence units and provincial law enforcement agencies as part of efforts to counter t",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BZjuz0HEvUZhcRuZ2AjcOT9yb8Cc2JmA_npL8LDHI7G2RrbBSACQtZ2zS3kjBtn49T8NkGV56ecOkWwIQ7I2TwsHzTFfvEuYdUg4gJfbShWpILknoO6BsRdVN09rQ_FO6qlO07frscpBo_m_Aa_SH03r7tLipJ4ykojYF7GqRjj3GpvNcOanAks28Npfpx-sTdBx0AKt0ghWdJRXOEnQ0s0CcqkeLvThVXKODx-1rHJnkAklQK70H1qxqVTZRk_D_y9yultmUDFtdO4iJ2aqE_NG-nzE3Rui5yqg45ZIDVU9m1Bqn9htAYMQ2YjX7onCqD0tVZhgZABP7Os_A_re3g.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 491360790,
@@ -186503,6 +186545,38 @@
       "other": 0
     },
     "description": "🟡 Current Updates: November 23-24, 2026 🇾🇪 Yemen Saudi airstrikes across Yemen continued, causing civilian casualties and targeting multiple areas. The Sanaa Health Ministry reported that 12 civilians were killed and 47 wounded in 48 hours of Saudi aggression…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491396378,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Qeshm Island, Qeshm, Sirik: Bahrains allegations against Iran cynical attempt",
+    "location": "Qeshm Island, Qeshm, Sirik, Hormozgan, Persian Gulf, Bahrain, Kuwait",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Bahrain’s allegations against Iran ‘a cynical attempt’ to distort facts: Iran UN envoy📌 New York, IRNA – Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, has rejected Bahrain’s “baseless allegations” against Iran, saying the United States uses military bases across the region, including in Bahrain, to carry out its ongoing acts of aggression against Iran.“The Islamic Republic of Iran categorically rejects these baseless allegations as a cynical ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

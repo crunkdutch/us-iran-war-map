@@ -238512,6 +238512,26 @@
     "verified": false
   },
   {
+    "id": 1795504947479,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces | Statement by Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces:For 12 years now, the criminal Saudi enemy has been perpetuating its aggression and blockade against our people. It has escalated its atrocities and acts of hostility, carrying out ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/i860ejbpTC_oDQRR9u5m8ftcqrFYzaGoYIQnsobLoZYgvN-o2bPOi2o08JHUd3dhHql8ExuSaIQRLXQ7_MkrcFiXxyliFCQ2_a_Lnm7YbJxefMBsG4QPNHEVWXUSHIPg0aKK2xv5QHG7kggHzdqGUBTut0uiq10s-So7uil2uqEGLvuGIf7nqjHKuvudN-xnT_Gxm2f4VrIDDxrTVEAqMu5p0_nBCnlmikdJnlLQfn45OC7WUoZuJ1tvOIs6wRmJbXHpY36ljYasiLiBvmmdi17wzXZ9uOaJcpPrXkMVp7T6eAbUVHRmNceCar4NCjfOsqlLA1MBrImz097ntmIBng.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1795012999724,
     "type": "intercept",
     "location": "Tehran",
@@ -240740,6 +240760,162 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Current Updates: November 23-24, 2026 🇾🇪 Yemen Saudi airstrikes across Yemen continued, causing civilian casualties and targeting multiple areas. The Sanaa Health Ministry reported that 12 civilians were killed and 47 wounded in 48 hours of Saudi aggression…",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795504963026,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The message from the Leader of the Islamic Revolution, Ayatullah Sayyid Mujtaba Khamenei, will be published within the next hour on the occasion of the 4th National Youth Awards Conference.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795504984291,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-23",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇶 | The Ali Zaidi–Tom barrack–internal traitors’ plan has failed completely. The noble and valiant warriors of Kata’ib Hezbollah have reaffirmed their permanent presence in Jurf al-Nasr, safeguarding Iraq’s holy cities and serving as a stronghold of the Resistance. More developments are yet to co...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/qlfbC8kj63kYHsOpnlWelox4kwf1NTKaULWlLS_I_XEAAuTOhhLn1zJZ3ViP4tZkIg2mMtG5FeAS9U3mVTAE1DcyFlkGQ2cOIfp-ZjPKMG2DTydsg3UuVM7R47BbP4YM9EQEbvXUYHih7afixYZLopbVL7ssEK_yEOy6NZbtqBZF4yWo4OeXPbqBklzZ3wIK-uGrUOzoRBfzPdwZOy40_Ze68OWixuAXA_a2dl6tZqamnunNqpXICEllsiyCKm2rKGBo09Mtc4uzLUfEK4VBF3nmpQKLEBCwv0qk164yM9Wct5tbtukaor1qhBO8ce_7G9nImy1QLNpLWmCxfAL0ug.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795505022864,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Three more offending tankers hit mines in Strait of Hormuz📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has announced three separate fire incidents involving oil tankers as they were trying to pass through unsafe routes in the Strait of Hormuz.In a statement released early Tue...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795505036416,
+    "type": "drone",
+    "location": "Qeshm Island",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Bahrain’s allegations against Iran ‘a cynical attempt’ to distort facts: Iran UN envoy📌 New York, IRNA – Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, has rejected Bahrain’s “baseless allegations” against Iran, saying the United States uses milit...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795504997517,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Way out of neither-war-nor-peace situation lies in achieving sustainable deterrence: Iran📌 Tehran, IRNA – Parliament Speaker, Mohammad Bagher Ghalibaf, says that the way out of the neither-war-nor-peace situation depends on achieving sustainable deterrence.Achieving sustainable deterrence means ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795505022312,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 In photos: Closing ceremony of Omid Media Cup held in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BZjuz0HEvUZhcRuZ2AjcOT9yb8Cc2JmA_npL8LDHI7G2RrbBSACQtZ2zS3kjBtn49T8NkGV56ecOkWwIQ7I2TwsHzTFfvEuYdUg4gJfbShWpILknoO6BsRdVN09rQ_FO6qlO07frscpBo_m_Aa_SH03r7tLipJ4ykojYF7GqRjj3GpvNcOanAks28Npfpx-sTdBx0AKt0ghWdJRXOEnQ0s0CcqkeLvThVXKODx-1rHJnkAklQK70H1qxqVTZRk_D_y9yultmUDFtdO4iJ2aqE_NG-nzE3Rui5yqg45ZIDVU9m1Bqn9htAYMQ2YjX7onCqD0tVZhgZABP7Os_A_re3g.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795504961347,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Closing ceremony of Omid Media Cup held in TehranThe closing ceremony of Omid Media Cup was held on November 23, 2026 with the presence of Parliament Speaker Mohammad Bagher Ghalibaf at Milad Tower in Tehran, and at the end. The Awards were presented to top news outlets and journalists across variou...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/gxWKO1z7YvFolmnCs6dJffpyRQrB0HcPmNTAF6fcgukmyeLKCjVQQcqzoeS3WEbFHHXHHpwTYEO0NAMw86ep38atf7dIdmt8V9aALm2Mj2Pc6yVmR6TZK-pfx84NNBho6Xmu5n6OQOmK2ExC41k7ZxqetFNSlgkvEhFOrvaVttxmHsS-6MkCp_ZXcquOoVQdqs8WC01CpMNmvm_rfvkFeWvzQeFK8K1PBGGrUyxuHQjgWYyj6VB5CdYoQ7xkMyOrPjZJaYLnWahyau5bNAirJu7Z8tdL3y69xYHSkhTBfgnBapiSUizy9a_WIphQ9LDcZDiD-P_IMFAjpb9cE23gBw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/cB8idNHa8Ql0-AnY233dlx9mBeGqv5AdmpnLmeAmydyClb_exDBBeDnGoNZV5HHW0uU4pCfvlaMbqR8yCpdi3rGMDna2HG6MzKDMPb7waDAJNesqiF1UTpvfsQ_iEHywBrCe0RuyvNnggPY0z-VQve3AB6Z9KcW_0fZhNImcg1-0hNGM_kFKIjwAio_8ZOLX83OpOWe-eMLDjCaEQK2zi2s8uzuMSctemZi50NaMUmFVoGED_j7miUcEzZH00dAzgqFxGsJ7tAKPYzgbErISn1U9WXooQR0CAeTa4T5YYP3GbzRUmI9sJia3ON640Hj4s4ORGKf-UItxOvjUCnF3SA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Fi1gi_v73W3eW1J4ont8HjuhbPC3JZNwXIjuA07bCoGJrinAY4aiFXmGf3UudiOBLehJigl8d2HtZsriyLGfrMCec08YBBcRn7IVPFYbd-XN9EdmQP9IbfVeR-7lchCK36qhbSbRn2CBd0xoIABS2TyEMd8vXPibhG6hVJRi1Qd4wNht7-l7HTmHLx5OpwDbaO0-HUQKubba7ZXfpdg5Pz7FF4tMnaLTDbWm7_qjCcx_66O3ukD-8-kWVvq_fLcpCks9hbbzo5KaNWLTEjXpryZxGF-4acH625dEv6LnDpubyqf-bCLBGgMiMJZ-SMeCSKmadHw5GePkYJBlHvRZWA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/JlidFVNdtj0pL6p_9UN0I22q9_dxkjKDbIXruFsH7EykORYjbQFBAlcffSI99J4si7Y64Z_sub5RAOYrtDtSJ3cukKBZbZNmfYQVg2VvbR-arWsVTH2uqoqXgdpkAmvizaRqgwQQgugLT5KpvgLNogpbVZr3zp3zY2v8WLVcxdjE_EMSJE2zjiLekCXxSByo3TVWFrzmN7TC2dPHhAptJnS8BN-vn2SUcV8QoC3ojbXppxbszgHsQ8raqvodj7V5ucGZes7Vid92szhHx4ifqNBmbsP4TOKublbuomcUTNo65kDLdFKa3zGVzVSbKqo7uO6tIFWar0qW7DzALn-0Fg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/MIwrTCzkhr0f0dFPr0JmK9y9M-Pz9vqYbQ8ke2Y5SpGBHqDrWbuN9BoEY3pNsk3unaJDRxnmCcd4sVln5c23ymdXPSlXIrObgjRhrFEPGsxPWZGbFXuSJrhxYMZWSdy9AwfLQ-BAdKEJwYr01sZq8BxJf7J_xBASCVSgcI5zHUekqaeCB8gAyTmciohUKsxyx0sFN9jC1vyAt700LLMaEpVeoxlOdLF6CX1ohASBqar2A7mDTDG_ZHLhbkoM4twhRSyhz6ow1vsrjbiOjZ-gYsnP1fE4BkdJI3X4ljSD43ypnCHBEF-Wtvmk5xH_r5ySa55BOxuu8G5AKQRNKL5ISQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/HK4DE64Mk6ePz0Dp61GM7on2NygcfOR41cPjNModH5rC93xc-fge7GBI2Pwv2sNo0qg8NmfZe6ucBat4OoWxyYPPDo7X__izyo705g7tagnfDnGYXLIEqMjCKqSVeOzJIjRwkdHHIRrapExV9i4ub0gU2p6TTFUcCMA-9TwY0gqqUR9fpHEHDl8TjUhLLHu5dGIuuzFZcLG7JB738P06hxLz0KSarhLYAM1yVduEqWXUPjRcpwG4hPamzOGqNSa97HzpE2S66KAlSD-HwiKqFlMA55L7ULGPBHn0Gg9bWlI80HYnTG69HBFq21cZpHiCtbz6-Whq4M7Xmt0PRJUhFA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/SM3ewNYrNNlTvoAoUxJ6I7AFsrE8rx44FyrZhArsPDnBlbs7AGCA5xOAdqSDzkVSnmeTggxfJX8Re7vs3odlY73ftFxPflQZOm4TYMJiQubDFcNvpZP9fgq-W9WXc0o-C2h7qJ0__d8gfwqXnomSVJrbUmls5--D8C8mTvJDnvBC_uezKrCydmLfVCW5xjZghMQttR1SSY-rJy-pz6QDtVNSzNgOd9tU8aChnyMSjmgL6fFqWbazm7xYR-DGxuiJS_Ar_qg12vOewQIMwpBE4SImyb8--2Uiht9N8ZoLbs_XB4XmDW-7ZA7UkVkcwqYAlNKbK4dq4_06dHiZbhldwA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Q8hKZsgxMOxLFRqYHruISeXkVQAgFHSZg-2Cjz9NM9htwioN-NAuk1cYVsU1W2fsFjWTpQaTXrY4F47wmWSmvYPMfpHOguOdhoFM34d3dmAI261GXQ2GrakgNEU_T6_e4kWKy_jip5izniA8qd-GVsJJs-oLINkoLAM6QRX5UXmJK3FsqylRNJNn8cdjvh6_X_revBTSRKzxyMHKsXLJZ5yZZusieyETv7b7ky2JjQKu11A0DMXSY0QLMFFqD5com8yZSJVedof6I_pK2ykp9kHLmL3tjSMPkJsqyCq6Y-w0d7DSLfFVRN_qFIsNOmbRaIWwYlD7-5mgnbkzEUMKng.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/WP1u2Xfvx0pc0I_rZFwW7Uw-F2QSWit6pdU2pN0GVzJrPnNqCogqTCLhUV3lfq29d5WGKQku8fUBX6RGZVoyWOCXO9_OdDn9ySrlRiQ9QeZcWjlqJm76W1ThZGaB1gUlO5T7BBzWFtfcrw7TkkZC9jo2tU5aX558sgGI1x2qYyJl45pI-wMy69fpQcxAnopvWxPD8WetN-QQ07k01lNgHaYxzOibCYG_uh88zfDfsWuxJFUVnVXTSbYZE0uToKA-JyqsrVvzeo1IBcTRkyyNk74BmzWLRG4dBOs3HYl2DOOnEWXMmRjkIeecIczhCyGd4R-hr93E6DMFbEs1BapG4g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/M1O4hSqrjG3aPbc9F3TDEgMO0CF3P_lPK_J28pQbj0JOOPSripq_rZgs8zhDyAdJE1y3IlO5_g08Thn0aE2G8CyviZB_ON3M3iuwvntWfLyUU7icy0TfrpzLn_svsLN4zwdt0Pnirwzu9fagsb31JL1wjOV2N0DWdnfb6FTXmQNKpFL4kL8vmAAgUPHtRKNBHipsYuwmE0XyNtbvvfA5BArCqhptQ8mP422bz0-xCqxR1fjLsqKcXAG-_vf9cWP5CEh2JuoQBKeLzzdbTm-Y9VnNz1ANGq-hP-ObR6BxHqITCL8Ob4SmyR6WvG-TusELFJVBBhu4NCXJ1qQy7TQuKA.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
