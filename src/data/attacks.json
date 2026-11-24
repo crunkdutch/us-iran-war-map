@@ -183275,6 +183275,75 @@
     ]
   },
   {
+    "id": 491416736,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Minab, Israel: Iran warns against baseless nuclear allegations",
+    "location": "Minab, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iran warns against ‘baseless’ nuclear allegations amid silence over US-Israeli war of aggression📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations, Gholamhossein Darzi, has expressed deep concern over baseless allegations leveled by certain countries against Iran’s peaceful nuclear program, while maintaining silence over the illegal and unjustified US-Israeli war.Addressing the seventh session of the Conference on the Establishment of a Middle East Zone Free of ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491421828,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Bahrain: Islamic Revolution Guards Corps IRGC American",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Islamic Revolution Guards Corps (IRGC) hit an American radar site in Bahrain in response to a US drone's violation of Iranian airspace on Monday night.📲 @Irna_en",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/RMuZBDasxXr3ozM9g6pI2tv_pbBavCTFUfovL3B3D37GD77R_kXQUnVIqABr0SRUHNml-k5CXVl_eNnSSxRkPx_FC0um3_7vHwy4_FCNCAajuzXH7chaXjm9zbhINldF9UVTOKagv3I644u7XJKAcDTJz9CcSs7X6Sm49_meH9wNeMZEVPiJeFxxNSeLtQUU6c6VFGm-KdMNLgFX9JOaJYqUS2o_u3-V7-Tj140razhbNxVd_Uifc-WxHsRSDsMzReV3DcN0EOy9DSaK9OHdCpR9KqW981cWC6fHdm0NKXhLGfsJRUCJPblLmeURaIul9d_5yNLY4pgEhGP94FvQng.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490723631,
     "type": "intercept",
     "status": "confirmed",
@@ -186582,6 +186651,70 @@
     "media": []
   },
   {
+    "id": 491406555,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Bahrain: Bahrain administrators religious congregation halls arrested",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇧🇭| Bahrain: Six administrators of religious congregation halls arrested over commemorations of Sayyida Umm al-Banin (S):Bahraini security authorities have arrested six administrators of religious congregation halls (ma’atam), Hussainiyas and mosques in connection with commemorations marking the martyrdom anniversary of Sayyida Umm al-Banin (S). Such conduct has become a recurring pattern during religious occasions.Those arrested include:• Hajji Muhammad Yusuf, head of the Marakh Ma’tam.• Hajj",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491411645,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz, Persian Gulf: IRGC NavyAt dawn today noncompliant tanker",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy:At dawn today, a non-compliant oil tanker travelling along a false and unauthorised route through the Strait of Hormuz exploded after striking a naval cannon, resulting in a massive fire.It is worth noting that, at the same time, two other non-compliant oil tankers were forced to turn back towards the Persian Gulf after witnessing the vessel strike the naval cannon and receiving a warning over the radio from the Strait of Hormuz Traffic Control Centre operated by the IRGC Navy.T",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491401466,
     "type": "naval",
     "status": "confirmed",
@@ -186612,6 +186745,43 @@
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
+  },
+  {
+    "id": 491426921,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Tehran, Strait of Hormuz, Israel: Strait Hormuz will remain closed until",
+    "location": "Tehran, Strait of Hormuz, Israel, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Strait of Hormuz will remain closed until Iran’s conditions are met: Army chief📌 Tehran, IRNA — Chief Commander of the Islamic Republic of Iran, Army Major General Amir Hatami, has reiterated Iran’s resolve to safeguard national interests, saying the acceptance of seven conditions put forward to the United States is the only way to reopen the Strait of Hormuz.Addressing a gathering of commanders, deputies, officials, and managers at the Army Command and Staff University on Tuesday, General H",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/BZjuz0HEvUZhcRuZ2AjcOT9yb8Cc2JmA_npL8LDHI7G2RrbBSACQtZ2zS3kjBtn49T8NkGV56ecOkWwIQ7I2TwsHzTFfvEuYdUg4gJfbShWpILknoO6BsRdVN09rQ_FO6qlO07frscpBo_m_Aa_SH03r7tLipJ4ykojYF7GqRjj3GpvNcOanAks28Npfpx-sTdBx0AKt0ghWdJRXOEnQ0s0CcqkeLvThVXKODx-1rHJnkAklQK70H1qxqVTZRk_D_y9yultmUDFtdO4iJ2aqE_NG-nzE3Rui5yqg45ZIDVU9m1Bqn9htAYMQ2YjX7onCqD0tVZhgZABP7Os_A_re3g.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 480276116,
