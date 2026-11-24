@@ -186986,6 +186986,38 @@
     "media": []
   },
   {
+    "id": 491467701,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Interception — Strait of Hormuz, Persian Gulf: Iranian Armed ForcesDestruction Lucas drones over",
+    "location": "Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iranian Armed Forces:Destruction of two Lucas and MQ-9 drones over the Persian Gulf by the Army Air Defense ForceAn hour ago, a Lucas drone belonging to the aggressive American enemy was destroyed over the western Strait of Hormuz, Iran, by indigenous systems of the Army Air Defense Force through timely action.Also, in a separate operation, an MQ-9 drone belonging to the aggressive American enemy was struck and destroyed by indigenous systems of the Army Air Defense Force in the skies ove",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491462600,
     "type": "airstrike",
     "status": "confirmed",
