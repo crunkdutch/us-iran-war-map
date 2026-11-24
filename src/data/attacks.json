@@ -181821,6 +181821,38 @@
     ]
   },
   {
+    "id": 491447303,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-15",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Yemen, Saudi Arabia: YemenA military source Yemeni media airspace",
+    "location": "Yemen, Saudi Arabia",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#YemenA military source to Yemeni media:– The airspace of the Kingdom of Saudi Arabia is unsafe, with the exception of the airspace over Mecca and Medina.– The Yemeni Armed Forces warn employees and citizens against approaching Saudi airports and facilities.– Saudi Aramco and its branches in the Kingdom of Saudi Arabia are a primary target for our Yemeni Armed Forces.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490482110,
     "type": "airstrike",
     "status": "confirmed",

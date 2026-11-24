@@ -236995,6 +236995,96 @@
     "verified": false
   },
   {
+    "id": 1795533858311,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-11-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media outlets:– The Saudi enemy’s military build-ups have been routed from the outskirts of Dhubab and Bab Al-Mandab after being placed under siege.– The routed forces lost their positions and rear lines and were forced to flee towards Aden under the pretext of prot...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795533896631,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-15",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Initial footage showing the routing of the Saudi enemy’s military build-ups, led by Saudi officer Badr Al-Harbi, from Al-Mudharaba and Al-Arah Districts in Lahij Governorate – 15 November 2026.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795533894231,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media outlets:– The Yemeni Armed Forces are carrying out their largest flanking operation from the outskirts of the Al-Wazi'iyah Mountains and Kahboub towards Khor Umaira in Lahij Governorate.– The flanking operation extends over more than 60 kilometers through the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795533849200,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-11-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi: The “Israeli” army believes that Hezbollah will launch attacks involving dozens, and possibly hundreds, of explosive-laden drones in the next battle.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795533886099,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-11-15",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Maariv Hebrew newspaper – Avi Ashkenazi: The “Israeli” army believes that Hezbollah will launch attacks involving dozens, and possibly hundreds, of explosive-laden drones in the next battle. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795533881213,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-15",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media:– The airspace of the Kingdom of Saudi Arabia is unsafe, with the exception of the airspace over Mecca and Medina.– The Yemeni Armed Forces warn employees and citizens against approaching Saudi airports and facilities.– Saudi Aramco and its branches in the Kin...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794818106272,
     "type": "airstrike",
     "location": "Bahrain",
@@ -241282,6 +241372,42 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🌍 Leader: Shortcomings of past population policies must be remedied📌 Tehran, IRNA — Leader of the Islamic Revolution Sayyid Mojtaba Hosseini Khamenei has stressed the key role of population growth in building a stronger Iran, emphasizing that shortcomings resulting from some past population polici...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795533887071,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "People warmly welcomed President Pezeshkian during his visit to Imam Reza (PBUH) Shrine in Mashhad, eastern Iran.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/teo2haZHIsI-5ZFFh8R4tNgyex8N9hlj5vqgqYS7rSQZLEZsDW-36cfbzF6tL2v3ysFZHdHXgxxfmmJnQjUkb12ZRPwTeyuq2-iaNkN-vZ0syQc3zUhXbi1J5lE-2OSGkdF44eHXjfI7Uo4R738HAtdbZAAmWoX2o5u62_dGTKbV6irpkR7i29UcXv6isaKSxIWhAow0t-RABAPl7cBojaMa0QatF2WLM0zo9j1TLiF6fRFyZHvAXIfS0V8BWTj6EjJwYZIFHj0Rng-Hb-qO_i0_gfurzjss-3otXbYIvfAenogZd0gduvyqK9gNLDPluwcFGAP6xuFl8pxBIpPRZg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/utSmF5RQb81O5S05lklM-NlwRcwTVmesN5drWKPhx2q9yjqv_6EogqmnRE-8QdoXm9RaFNtERM5bM_rfQnULANDlEJ36SOfWuoKdzC2jQfNIWT4Q--U8C3INRogO00QiZiFH_Ka_du1DUsOKSGp_9mhsNnkxFlejeea9-G1bSdYyAJ8dazMgyrHPiIhsWg7ZDRrmpubhfB8ixOMj1TRHFmH0x8tHsrzoHYS6Qk-_SMMo8g_gPb4s4DgHCdGz0GkrWL_8KaFxnBYLXz47NwmkFdweLYctMDKl5_lSWN_l7xXbUhcb5_fzKKhXgtElBmgHh4aJaOfB0kzFcOqrz3ZkdA.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/NhoBX826Savbqscvy605elEjetTMh2rdAgvCXhaGVJZfpHvhR11BVi7nLqTG4h3HWUt-TLT0J4iXbs_-ihSykK8aQZ9hCoWM6wl2BsBjROplJkID-GEslvZ77yWa9UvgvltVwQxGOPkMJg3qgLwm1e7tMl9WCFWozjHRrTSqwt5GOWgX4VGpO-098IP9lyiboNmQWKFVes7rHvTZ8k0ynOVVWxEGjW1nFOaPIlR7PIZBsWk_ufQgTQQoPiFqx6oEN0NVoF1kT0hZvycZ3LMl54qCYaTZu8C01JLhmBxIOyp2aRl44jERHg603f0cN2oGH6ZQSPx3q4WhNh4lEHA2vw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/a790ard45JO9yY0zHt9LT8Cv-Ex-F-Ll2vL_IWA_rSRkrdonDWEzIbzJhsJObg8rBPIxSfgBiycjBLOZCS6gbn0wPi5gseFnz4q-0LJdGaJ0NNf6AOsvqeNQOWQdmxyuPnTXexRUb_Re9f0gWs_nFT5cK1rtbTKFoA4CsCWMxZgB7uaD6Zh_HD-9DBMHLmvrPEvs7a9RuyTLBqsZXgT5stYyyevZeEyxgP85MFdtc3WF7Lrmfd0FXIckl0mIDs5JCTd0D_XlnhlGephbkIJHlqFmZ8eE94wVDFTyPi22xQq3rUpXrMR8dltTpaezKaGGhBQLuhB8xwKeCmsygC_ICw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/LkrTTfVOQIHQ1Bma4RuXi0rGl2IfMeyhsMqQBoZuRxUGAjNZCx1j01qJ2pn6liFpdv45upamylhHhJ6cO5ki6WxTDUklJtF0NFS2Ry49wfI6cNw14ibIidth5iNqhz2_h-6gIytXaSwfoknT6jCHj4fkbtaGyZHQp2v0pYrhfAOxfUXcHZgjEqbSKoZd7iwrdWM-3qADoYZp4frEpuf-Z1pdwHGGO3n1UjsAbjp9U1SVYcdU22WqOu7BjBefv12P1PexpYKC0vspY7axYxmMqziYr2qrgM85Mb9357o65OLeSmHujq0aKqDHy_gO--Vog7X8Wv6mJd1Dik0kuoo2zQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
