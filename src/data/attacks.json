@@ -181167,6 +181167,38 @@
     "media": []
   },
   {
+    "id": 491442206,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Israel: Enemy_MediaIsrael Hayom Hebrew newspaper Israel transferred",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaIsrael Hayom Hebrew newspaper: “Israel” has transferred intelligence to the United States – Iran is planning to launch a drone attack targeting senior White House officials.Against the backdrop of these threats, senior US officials have been moved to secure facilities, the President’s public appearances have been reduced, and special security measures have been implemented.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490393991,
     "type": "naval",
     "status": "confirmed",
@@ -183342,6 +183374,75 @@
         "type": "photo"
       }
     ]
+  },
+  {
+    "id": 491432015,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Shiraz: Grand Ayatollah Wahid Khorasani Wilayat alFaqih",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📕 | Grand Ayatollah Wahid Khorasani, Wilayat al-Faqih and the Politics of Misrepresentation:Following the passing of Grand Ayatollah Wahid Hosseini Khorasani, it is important to examine carefully the narratives that have circulated about his religious and political positions, particularly his relationship with the Islamic Revolution, the Islamic Republic of Iran and the doctrine of Wilayat al-Faqih. Some may encounter propaganda portraying him as an opponent of the Islamic Revolution or suggest",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/vh7Baw17UQ7TIStGzbsZnhjbvfE9jZGDn1Yd1we9fVtgkWsbyWV0VJH1SuTFSTEL_l_JaFhjFwD7nmcHPGAigA5RlHKmDpBZLgNg322ntveUeF6VCgJUW7sbuowEPf9hYe0X1UQWOyiXoY0n673g0UC3uQx0grF3rDZHPTyiKBa4ezw9CiSQa-TNpex_Ec8SyxO1RfRZ1pzMZc3P8YLicu13mWmm6LeymZ8j8JRyHdvNpHiD6la7dnOvM3LKBmiyReNj6c35SD946Esq0mNcNHruNUnMEehkEnaXvcEXNWC9dEaedvZEYlnhrTqfRzK_6GTo_zPpXA1D6OB5QHTuLQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491437110,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-17",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Bahrain: Islamic Revolutionary Guard CorpsTargeting radar aggressive",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Islamic Revolutionary Guard Corps:Targeting of the radar of the aggressive and terrorist US army at the Sheikh Isa base on the island of BahrainIn response to the continued violation of the airspace of the Islamic Republic of Iran by drones of the aggressive US army, and in continuation of the successful air defense and electronic warfare operations in intercepting, destroying, and capturing MQ and MQM-170 series drones, combat drones targeted a radar system belonging to the aggressive US",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 490723631,

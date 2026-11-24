@@ -1962,6 +1962,21 @@
     "verified": false
   },
   {
+    "id": 1795526675897,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-02-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Pezeshkian pays tribute to martyred Leader, former president, prominent Shia cleric📌 Tehran, IRNA – President Masoud Pezeshkian has paid tribute to the martyred Leader, former president, and a prominent Shia religious authority during his visit to Khorasan Razavi.Upon arriving in Khorasan Razavi...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1785851238980,
     "type": "airstrike",
     "location": "Strait of Hormuz",
@@ -236345,6 +236360,66 @@
     "verified": false
   },
   {
+    "id": 1795526609814,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-14",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" Enemy Army Radio: Netanyahu hints at his desire and efforts to push for another round of war against Iran: “We must do everything necessary to continue preventing Iran from acquiring a nuclear weapon. We must remove this existential threat hanging over our heads, once and for a...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795526654445,
+    "type": "airstrike",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-11-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media outlets:– The Saudi enemy’s military build-ups have been routed from the outskirts of Dhubab and Bab Al-Mandab after being placed under siege.– The routed forces lost their positions and rear lines and were forced to flee towards Aden under the pretext of prot...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795526615349,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Initial footage showing the routing of the Saudi enemy’s military build-ups, led by Saudi officer Badr Al-Harbi, from Al-Mudharaba and Al-Arah Districts in Lahij Governorate – 15 November 2026.",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795526642597,
+    "type": "airstrike",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-14",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media outlets:– The Yemeni Armed Forces are carrying out their largest flanking operation from the outskirts of the Al-Wazi'iyah Mountains and Kahboub towards Khor Umaira in Lahij Governorate.– The flanking operation extends over more than 60 kilometers through the ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794731378837,
     "type": "airstrike",
     "location": "Khuzestan",
@@ -238597,6 +238672,128 @@
     "verified": false
   },
   {
+    "id": 1795526619754,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🏴| Don’t forget Martyr Sayyid Muhammad Muhsin Musawi, who was brutally assaulted, tortured, and killed by the Bahraini regime.🔹@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/iialL68Cir_0mD4JgirYEh1ybIe5KM8zrmpuVbmvJC8Ob3FZ0MQTl9GLFMcEFmUM3bqMLW5q_sLJccB59ixOHeGi3KubvSqHJhrhmAHUBVJ5fCxoUzRi0j2kMYfkDhPT7qFh1EsgcPnTq4_d2mPGowpPQzuEO9c-nYmDUBqJeMP3e3z7hDQIfbxGv0ezARhhs_pm_bApFxu_MfgTLXbdvV6HFpgirAROvWUJK1fpuMFe9Ed2rU2WmpIKRdiis_iya_81aboYSa9yn-UoFCaDykGQrO8HWF1GHj2aH2bwJC019_28G4BO87RR16UfZyVOZv5TFNQztF7zSn03oI4Zww.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795526651169,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | We will take his revenge. We will not allow Bahrain to carry this out. He was 32 years old, a descendant of Prophet Muhammad (S):Our martyr, Sayyid al-Musawi, was martyred today at the age of 32 at the hands of the executioners of the Bahraini regime, in an act of revenge against his stance r...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/foUsTHCfhA6ImVDltQYwc08oizW1oEW4wRT-hA91L3dIdYuEnKzzwgXo-fB6oKcP4iWxIM6sEEtaqMd1qF__jXUXAuIuSJrcWHxRUu6C798NuglSzijm0BuQOr-BRDyHDrUeONClf8-yk97Af9K4Fkzre3NARoiU82rmSvpo1jFGQk3E2lgFdwYRRd5mBGH-FrNE8S7FHWYwHdK5cBY9TwN_MD5sCo_SPcbaXWx8UAdkXKLHzzoReaen3qdBPmKJ-p7LgR0utPp1wAT21_uh84U0qZJCrfQx0S3ef4tD5V1wRYLgtJiqieCwPfUnRvHbNIxtwLf0cFFAXGoeZZUgLg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795526629964,
+    "type": "airstrike",
+    "location": "Ahvaz",
+    "coordinates": [
+      31.3183,
+      48.6706
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Hearing of an explosion in Ahvaz due to the detonation of unexploded ordnance.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795526627993,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-17",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | A massive explosion strikes a non-compliant supertanker and an LPG carrier in the Strait of Hormuz:IRGC Navy Public Relations Office:A few hours ago, two non-compliant vessels struck naval mines, triggering extremely powerful explosions and fires.One of the vessels was a supertanker carrying ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ab7d6c14d5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V7Mq0EB0u1uMDDTKr8wlymQVz34YafNshUEKRKZ0bdTLfFXXEePQw0MFT0lB71ys0itpIzkpaZAq5Eu5gIF8n46mU7YNsrR7LsCQZP5tlRX542GRhlvu5mxnXogZFcfAJpcPFqai7ql7IPuvIES1I3XGdyGXb47P2j56aGJF18TUiXGhPEMUVHREk039cKJ4L_hmLeU4Aro9KxeY918gw6qwuiDADsB5Qvne4RP0B3U7bFJixqs-TYBXASf5-JzRWAX1ABoHJSH12m-te9Q3O-k1wwe6EcqQEWkRhVsghnE7g4_suFZ21hrzQhYklyW0BfaVK_ATvq3OAQNfiVHxZA"
+      },
+      {
+        "url": "https://t.me/enemywatch/64743",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/V7Mq0EB0u1uMDDTKr8wlymQVz34YafNshUEKRKZ0bdTLfFXXEePQw0MFT0lB71ys0itpIzkpaZAq5Eu5gIF8n46mU7YNsrR7LsCQZP5tlRX542GRhlvu5mxnXogZFcfAJpcPFqai7ql7IPuvIES1I3XGdyGXb47P2j56aGJF18TUiXGhPEMUVHREk039cKJ4L_hmLeU4Aro9KxeY918gw6qwuiDADsB5Qvne4RP0B3U7bFJixqs-TYBXASf5-JzRWAX1ABoHJSH12m-te9Q3O-k1wwe6EcqQEWkRhVsghnE7g4_suFZ21hrzQhYklyW0BfaVK_ATvq3OAQNfiVHxZA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795526683531,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇧🇭 | The criminal Bahraini regime threw a shia young man Hassan Al-Najjar from the rooftop after raiding his home. It is refusing to disclose his fate or allow him to see his parents and family.#BahrainShia ▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/ga9tsbVRuGWXyB4t_AeZrogLaNE8boOLE5uB47JS0ysuJhIiSPqryZ9w9rTvD0jf23xLC7wy0YkODpmPsV9Y2igVvO0jNnXK_dHsFQR1GaIGOQDOc2Jz3n9Ypih321EVpTOLKZcW_gFo0itGUC5vlU3Y5M6Y5OahC0fEzHUSwdqfg4yL3XMLzuIXk8CXtLcXFg7Ouyp-Cszfws37FKbUiY8mKcDqohg3e5JM3naEcK-gEAoCq_b-hqvzXed-_bn1xe-VtR1D5hwFvDnGxeOyGaT5wfHUqvQT9HTU1GSHbs50Yh_5qkosVesKA5KX5hMeFvUYjyKEYgSNstw7Bd9pSQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795526663406,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-17",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Yemeni Military Media: A military media correspondent tours the positions east of Raghwan district in Marib following the expulsion of Saudi enemy forces and their military mobilisations from the area.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/64729",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/TfF3fqD1iRDnuwVa5SQACEd6Eso_-dbCyctNNUmcxotGzPKjGdOEbHKnae55L2TxJm-LhK_ZQVYfsuCtfS_V8BDt4_XsB_rRtXWoZwgAAoFdg7ake1w0--q8_7YkbLnq-Cf9dO4SHHwCfiJgDWHYeQLhVM2DvojVUat38a-1Cmw1zgJ2PjWXDRFfcFWUynbq0qY9BHgkst3RMDd0wwEGD01XMUx5cjkt0MxoAyDSSx3Xhrkh800A8CZllL-JCOzJzR9oDw3NwWfQIJiXl3fTczTU8k8JWkgn3GiE14Dy6_KP7dODgK5EzwnnOzHgGnymJMHm2r5qa_7TOi_XH3WPBw"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1795012999724,
     "type": "intercept",
     "location": "Tehran",
@@ -240042,6 +240239,21 @@
     "verified": false
   },
   {
+    "id": 1795526626232,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper:The Rehabilitation Department of the “Israeli” Ministry of War issued updated figures this morning on the number of wounded and ones with disabilities under its care:– The department currently provides support to 92,300 wounded men and women from the various wars ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795338887031,
     "type": "airstrike",
     "location": "Tabriz",
@@ -241031,6 +241243,30 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇧🇭| Bahrain: Six administrators of religious congregation halls arrested over commemorations of Sayyida Umm al-Banin (S):Bahraini security authorities have arrested six administrators of religious congregation halls (ma’atam), Hussainiyas and mosques in connection with commemorations marking the m...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795526642523,
+    "type": "airstrike",
+    "location": "Damascus",
+    "coordinates": [
+      33.5138,
+      36.2768
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "November 23rd 2026 Russian FM Sergei Lavrov said that he hoped to see genuine, inclusive national unity in Syria, involving all ethnic and religious communities. He also&nbsp;praised&nbsp;what he described as unelected ‘President’ Jolani’s&nbsp;approach to unifying the country&nbsp;by integrating it...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/oZNodRyQiwyOOx1F9uNKv8MX81qjQNyHafjyTE3iQQgIWw3H2_vMRxsdbn6aqnJcVtJhSOrFFmfB344SuRvYABOtkAMWaZoBlSPgnKDZ2aYbyHWM-3yjyp89KAj0lCfGRnhqtxUuCf55laD3fUXYCeLcSk40SbAkfDasv9g_Y-wyfprCqj277E4e7O1umU1l3i1jq26BmjMNBU7iGCKz-RmJKpar0OWtXXegXcJOtUbDBSN9dn2BS9gnd0NW7SZKvWvJpGIfu-rKErHYsMT_CSlF1KCHstZrnWCl36rOwUPhJYUXSn_HKBnIDSioyT2U-ohtbvCp8uA2IPnsOwnhqw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/XNgOsDZEctYfaP38JDwpV5QJIrilpmSDwPIXtHBuJQHWhC1I6iT7VWH-cYQ8Gz4aOKptK8vgpsBEZ-w_LwsiSKb41Lh7xXO8AO_JEVRxGuATgtUWs3g8CSkUft1icM_gi_9BjunOkMfHgKQ_axzlM6n0Z6yjWJ3by3oVa45FPqpd0IVn6k1iQ4eqswmS2mFv_pGM4nJuN2cIZpFJIH6MZ_9onckZbzvc0M8V3qObajep8w910BbyfB4UEpXHpGW378TyJxzyq9N0M_va7OMMQPqGgbqj01i53VZ8KryQdeGbqsXD5hx6--j_GCD8QheVNr7oyBOsz5YZD1ck62B2MQ.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
