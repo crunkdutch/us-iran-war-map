@@ -240919,6 +240919,56 @@
     "verified": false
   },
   {
+    "id": 1795512197989,
+    "type": "intercept",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-23",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 🇮🇷 🇮🇷 ❤ | Leader of the Islamic Revolution, Imam Sayyid Mujtaba Khamenei, in a message to the Fourth National Youth and Childbearing Award Ceremony:In the Name of Allah, the Most Compassionate, the Most Merciful▪️ The holding of the Fourth National Youth and Childbearing Award Ceremony prov...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ifgupQID7SJSMcxdjh6dThKHcJ7_v5rfHkiFGnwgA8-x9MaUVYVrCm340kvgo6rMkS1gG4e9s-L90SP41p-Ly9N-2E8TbLQ19ooGFRssBbtkNtDQq_nukb3uRO-VP7HG6LnIKOUDBDySprMsl_qWyh1uQ_3UdEQFsWEkGT7009j5rvim7DAmg8GXIyhPchsmjQIj4ML2XVBjVKkqk5dHaT9Daq_ipELeJ-_Uy1Y4M-KMyOlkIMLxDxmZVJIIMsWrAVm5m2rsdgwoE0To2ALC7zndV1LtBGdG1fjeyEp-rAWAXolYzFEu7S32sk7o8kFJQkoVW5vst4d6wm_Gh2T-gg.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795512194632,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-23",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Armed Forces: Early this morning, two non-compliant oil tankers that had entered a prohibited area in the eastern Strait of Hormuz after disabling their identification and navigation systems caught fire after striking naval mines and were rendered unable to proceed.The Strait of Hormu...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795512168000,
+    "type": "intercept",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Leader: Shortcomings of past population policies must be remedied📌 Tehran, IRNA — Leader of the Islamic Revolution Sayyid Mojtaba Hosseini Khamenei has stressed the key role of population growth in building a stronger Iran, emphasizing that shortcomings resulting from some past population polici...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

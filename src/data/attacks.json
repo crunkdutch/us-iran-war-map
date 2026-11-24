@@ -186582,6 +186582,38 @@
     "media": []
   },
   {
+    "id": 491401466,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran: negotiation before Irans seven conditions Ghalibaf",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 No negotiation before Iran’s seven conditions are met: Ghalibaf📌 Tehran, IRNA — Parliament Speaker Mohammad Bagher Ghalibaf says no negotiations will take place until seven conditions set by Iran are met, stressing that the country is fully prepared to respond decisively to any hostile moves.Speaking at an open session of Parliament on Tuesday, Ghalibaf said Iran’s position remained clear and unchanged in the face of threats and insults by the US president.​The speaker said threats against t",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
