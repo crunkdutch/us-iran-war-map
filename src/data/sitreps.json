@@ -240713,6 +240713,36 @@
     "verified": false
   },
   {
+    "id": 1795490512055,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Current Updates: November 23-24, 2026🇾🇪 YemenSaudi airstrikes across Yemen continued, causing civilian casualties and targeting multiple areas. The Sanaa Health Ministry reported that 12 civilians were killed and 47 wounded in 48 hours of Saudi aggression, including three children among the dea...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795490498274,
+    "type": "airstrike",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-23",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Current Updates: November 23-24, 2026 🇾🇪 Yemen Saudi airstrikes across Yemen continued, causing civilian casualties and targeting multiple areas. The Sanaa Health Ministry reported that 12 civilians were killed and 47 wounded in 48 hours of Saudi aggression…",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

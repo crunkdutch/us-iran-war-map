@@ -186412,6 +186412,102 @@
     "media": []
   },
   {
+    "id": 491376036,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC Navy Three tankers violating regulations",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy: Three oil tankers violating regulations were subjected to extremely severe explosions and fires in the waters of the Strait of Hormuz over the past few hours, after striking naval mines.The first incident occurred off the southern coast, while the other two occurred in the eastern part of the Strait of Hormuz. The tankers struck naval mines despite intensive aerial escort by American forces, resulting in violent explosions and fires aboard the vessels.The American aerial escort",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491381120,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Shiraz, Sanaa: Current Updates November 2324 2026 YemenSaudi",
+    "location": "Tehran, Shiraz, Sanaa, Hodeidah, Gaza City, Lebanon, Yemen, Saudi Arabia, Israel, Gaza Strip",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 59,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 450
+    },
+    "description": "🟡 Current Updates: November 23-24, 2026🇾🇪 YemenSaudi airstrikes across Yemen continued, causing civilian casualties and targeting multiple areas. The Sanaa Health Ministry reported that 12 civilians were killed and 47 wounded in 48 hours of Saudi aggression, including three children among the dead and three children and seven women among the wounded. Since the beginning of the escalation, the ministry’s reported toll has risen to 450 killed and 971 wounded. Saudi warplanes carried out three a",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491386205,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Sanaa, Yemen: Current Updates November 2324 2026 Yemen",
+    "location": "Sanaa, Yemen",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 59,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Current Updates: November 23-24, 2026 🇾🇪 Yemen Saudi airstrikes across Yemen continued, causing civilian casualties and targeting multiple areas. The Sanaa Health Ministry reported that 12 civilians were killed and 47 wounded in 48 hours of Saudi aggression…",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
