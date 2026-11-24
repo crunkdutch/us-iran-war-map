@@ -241411,6 +241411,56 @@
     "verified": false
   },
   {
+    "id": 1795541104870,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔻 ❌ 🚢🚢 | A second oil tanker violating regulations has been targeted in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795541112295,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "Tanker, Tanker&#33;Steel hull rolling through the narrow tide,Tanker, tanker, nowhere left to hide.Hormuz isn't yours to claim today,Leave the marked route and you'll lose your way.Hold your course, follow every sign,Stay with the guide, don't cross the line.Don't drift alone across the foam,The wat...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ISk94JSW5tx97ksTdEVaYdQ2vkwXu8SXOtaO15oe0eNrKoFHiuoUJmVqMBkjDbFERBzeQKEE5m_HbIAvSc3YN8R1hM270aG1KeLp7Mr2XlgYUMDpb21qSdOAur8Y-V9e0Yge7UTcS0d1f4ttM2h1L9BiSzWWeN3W0qjCquMcpspBme4KKaw36ufiDijivk08mVl-tU8fDiKrijzehDG3eCBbdOp72zQGnT_mmHyuKMml35NNQEpS9I9rj3puwaT2i3r6Eg6Mkg2wbcERxwEWWI6ICdvt064S3daRCd1mAZ79djLsAJ_7i8yP1diO0y_e2X4pNT-n1K3KDkkye_ExUw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795541067672,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-25",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHezbollah Secretary-General His Eminence Sheikh Naim Qassem will deliver a speech tomorrow, Wednesday, November 25, 2026, at 6:30 p.m. during the launch ceremony of the encyclopedia “Explanation of Nahj Al-Balagha” by Martyr Sayyed Hashem Safieddine (may his soul be sanctified).#Military_Med...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

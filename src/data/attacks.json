@@ -186917,6 +186917,107 @@
     ]
   },
   {
+    "id": 491452401,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Strait of Hormuz: second tanker violating regulations been targeted",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 ❌ 🚢🚢 | A second oil tanker violating regulations has been targeted in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/ISk94JSW5tx97ksTdEVaYdQ2vkwXu8SXOtaO15oe0eNrKoFHiuoUJmVqMBkjDbFERBzeQKEE5m_HbIAvSc3YN8R1hM270aG1KeLp7Mr2XlgYUMDpb21qSdOAur8Y-V9e0Yge7UTcS0d1f4ttM2h1L9BiSzWWeN3W0qjCquMcpspBme4KKaw36ufiDijivk08mVl-tU8fDiKrijzehDG3eCBbdOp72zQGnT_mmHyuKMml35NNQEpS9I9rj3puwaT2i3r6Eg6Mkg2wbcERxwEWWI6ICdvt064S3daRCd1mAZ79djLsAJ_7i8yP1diO0y_e2X4pNT-n1K3KDkkye_ExUw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491457500,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Missile Strike — Tehran: relocation shield bases from Irans Armed",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 No relocation can shield US bases from Iran’s Armed Forces: Top commander📌 Tehran, IRNA – The head of the Chiefs of Staff of the Iranian Armed Forces says the relocation of US military bases in the region will not affect Iran’s resolve to counter threats, warning that all such bases will remain within range of Iranian forces if necessary.Major General Abdollahi made the remarks during a meeting with the commander and senior officials of the Basij, a people-centered volunteer organization, on",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491462600,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon: LebanonHezbollah SecretaryGeneral Eminence Sheikh Naim Qasse...",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHezbollah Secretary-General His Eminence Sheikh Naim Qassem will deliver a speech tomorrow, Wednesday, November 25, 2026, at 6:30 p.m. during the launch ceremony of the encyclopedia “Explanation of Nahj Al-Balagha” by Martyr Sayyed Hashem Safieddine (may his soul be sanctified).#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
