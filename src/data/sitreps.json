@@ -242040,6 +242040,47 @@
     "verified": false
   },
   {
+    "id": 1795627777026,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Islamic Revolutionary Guards Corps releases footage of an explosion and fire on a rogue LNG carrier in the Strait of Hormuz.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/f738212833.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ctgm4z0FXaAT8AqK1gMQloFYmRC6AbqXReV5NntkEBFx5bb2wxMifAwmnPSGIOK-lzlbELLc6q1KSC-HB-i4xEotFysEu9VPNe-HgIG9CXJKK7bJQENyU0FUDb5CZdWqQGBFk_91tvfS0KXgWXYLipFx-Rpf6Y6n6ERjZV9WERHGn_E1Kuv2DgEJ7H4eHlxi1LTAaj_SyX060t-3Ug3IcbPVGIf52mxLKDhoR168_4pg9ueJm0hJEsVloi7pBDBjeeMyjvx8AOpzyxYBVN6ZGsdJl1BjloAWrPQlUgHhSBc0iqsI2qobV1w62Es3N6JehspH8i2rgQIVPtSK9N8hjg"
+      },
+      {
+        "url": "https://t.me/enemywatch/65062",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ctgm4z0FXaAT8AqK1gMQloFYmRC6AbqXReV5NntkEBFx5bb2wxMifAwmnPSGIOK-lzlbELLc6q1KSC-HB-i4xEotFysEu9VPNe-HgIG9CXJKK7bJQENyU0FUDb5CZdWqQGBFk_91tvfS0KXgWXYLipFx-Rpf6Y6n6ERjZV9WERHGn_E1Kuv2DgEJ7H4eHlxi1LTAaj_SyX060t-3Ug3IcbPVGIf52mxLKDhoR168_4pg9ueJm0hJEsVloi7pBDBjeeMyjvx8AOpzyxYBVN6ZGsdJl1BjloAWrPQlUgHhSBc0iqsI2qobV1w62Es3N6JehspH8i2rgQIVPtSK9N8hjg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795627750937,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-25",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 ❌ 🇸🇦 | Breaking — Yemen’s AnsarAllah has launched multiple operations against Riyadh in Saudi Arabia.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

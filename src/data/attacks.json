@@ -187583,6 +187583,70 @@
     "media": []
   },
   {
+    "id": 491554571,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Tehran, Strait of Hormuz: Violating tanker catches fire after striking",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Violating tanker catches fire after striking mine east of Hormuz: Iran Navy📌 Tehran, IRNA – An oil tanker violating maritime regulations caught fire after striking a naval mine east of the Strait of Hormuz, says Iran’s Army Navy.According to a statement issued by the Navy’s public relations office on Wednesday, the vessel had entered a prohibited maritime zone after disabling its identification and navigation systems and ignoring warnings issued to it.​The tanker struck a naval mine, caught ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491559690,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Tehran, Lebanon, Israel: Israeli forces launch fresh drone artillery",
+    "location": "Tehran, Lebanon, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Israeli forces launch fresh drone, artillery strikes on southern Lebanon📌 Tehran, IRNA – Israel keeps intensifying its aggression against southern Lebanon, with regime forces launching a drone attack and artillery shelling, simultaneously on the town of Mayfadoun and a neighboring area, Ain Al-Samahiya.According to Lebanon's regulatory body for media on Wednesday, an Israeli drone detonated on the roof of a house in a neighborhood of Mayfadoun, while at the same time, the occupying army’s ar",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
