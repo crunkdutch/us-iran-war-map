@@ -241657,6 +241657,27 @@
     "verified": false
   },
   {
+    "id": 1795598825293,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "📹 Leader of the Revolution, Ayatollah Mojtaba Khamenei: 🔻Iran's enemies \"are one army, standing for falsehood\"ENGLISH SUBSIranScreenshot🤩",
+    "media": [
+      {
+        "url": "https://t.me/enemywatch/65052",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/g2fruPNdF9jmvVGHd4YiPEhMgB6DMt5q76ibHZsCXIpcDpJ7C1JpmhYgKY7G7jdRAWhxDqcxKNFV0LumUY8PgJNpb40aohJny-Lt-_RayaWdO-WXv0zic8bHHZC9h__onQkQh8aWRNkuTYNPdC_l8uNb1AvXdYNxd-GzeHchAln37E8SBM84zqdzGzEKMibU-BxyR-wBtiP-zoQxoSRamwTZFpYmxl5hzo85S2ktx0Lg99JY2F062xF3obOJ5YbXEX-wWsxsppZqYBoyxddfGQBiMOWUh1s-ftSu0uInCOyUiR9b-NEDLN7yP3Fb2NgrCg0UhoJVjSTJgVDAuhEC9A"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1795541067672,
     "type": "airstrike",
     "location": "Lebanon",
