@@ -187348,6 +187348,38 @@
     "media": []
   },
   {
+    "id": 491518766,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Missile Strike — Tehran, Strait of Hormuz: Iran tightens security measures Strait Hormuz",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🖥 Iran tightens security measures in Strait of Hormuz: Army📌 Tehran, IRNA – Iran’s Army spokesperson Brigadier General Mohammad Akraminia says the military had stepped up surveillance and control of the Strait of Hormuz, warning that vessels must coordinate their passage with the Iranian Armed Forces to ensure safe transit.Speaking to Air Force commanders and personnel on Wednesday, Akraminia said the measure had been ordered by the Army chief commander. He added that the readiness of Iran’s A",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
