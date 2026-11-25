@@ -181199,6 +181199,38 @@
     "media": []
   },
   {
+    "id": 491508545,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-14",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Isfahan, Israel: Enemy_MediaNuclear affairs expert former Mossad agent",
+    "location": "Isfahan, Israel",
+    "coordinates": [
+      32.6546,
+      51.668
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaNuclear affairs expert and former Mossad agent Avner Vilian, commenting on the International Atomic Energy Agency’s report on the site in Isfahan:“If there is indeed a uranium enrichment site, and perhaps fissile material was also stored there (possibly some of the material enriched to 60%), then the assumption that the Iranians did not know how to dig and reach the material over the past year and a half seems even more dangerous to me.It is a large site containing numerous buildings",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490393991,
     "type": "naval",
     "status": "confirmed",
@@ -185736,6 +185768,38 @@
     ]
   },
   {
+    "id": 491513655,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "Hezbollah Drone Strike — Lebanon, Israel: Enemy_MediaMaariv Hebrew newspaper Ashkenazi During last",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi:– During the last war, Hezbollah identified a weakness in the “Israeli” army’s ability to provide protection against the threat posed by fiber-optic-guided drones.– Hezbollah exploited this advantage and attacked maneuvering forces in southern Lebanon, as well as targets inside “Israeli” territory, using these drones.– The fiber-optic drone has become a weapon resistant to other methods of attack used in warfare. Since it operates through remot",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491158370,
     "type": "airstrike",
     "status": "confirmed",
@@ -187146,6 +187210,107 @@
       "other": 0
     },
     "description": "🌍 Iranian air defense shoots down two drones over Persian Gulf📌 Tehran, IRNA – Iran’s Army says its air defense force has destroyed two drones, identified as Lucas and MQ-9, over the Persian Gulf.In a statement late on Tuesday, the Army’s public relations office said a US Lucas drone was intercepted over the western Strait of Hormuz by indigenous air defense systems.​In a separate operation, a US MQ-9 drone was hit and destroyed over the eastern Strait of Hormuz, the statement said.​Both opera",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491493221,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Khuzestan, Abadan, Baghdad: 03697 billion owed Iran Iraq silent",
+    "location": "Khuzestan, Abadan, Baghdad, Qatar, UAE, Iraq, Taba",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | &#036;97 billion owed to Iran by Iraq: Why are we silent? (1/3)Mojtaba Tavangar, a researcher in digital economy and data governance, wrote in an article for Farhikhtegan:1. The Chazabeh border crossing remained closed for three weeks, and now it is the turn of the Somar crossing. Baghdad speaks of technical problems and a shortage of equipment, but an Iraqi official admitted that Washington had demanded the closure of all land borders, while Baghdad had kept only two crossings open. A co",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491498328,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Riyadh, Yemen: Yemeni Armed Forces spokesperson Brigadier General",
+    "location": "Riyadh, Yemen",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:In response to the Saudi aggression against our country and its crimes against our beloved people, including its targeting of civilian passenger buses and trucks in Al-Maqatirah District in Lahj, as well as its other crimes in the capital, Sana’a, and other governorates, the Yemeni Armed Forces, with the help of Almighty Allah, carried out two qualitative military operations.The first operation targeted the Ras Tanura re",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/NM2J9IDx0AKT0e6aWK5WgemKk6H3lUcVc5ycsZTMCU8Yu-effHc9o9Fk2yqLualK81lFDQPNBjmXtet_6YJhwK7qZThiq_iO22DHBm5g-pP0R_3V9u2YngYE95hs2lS1AOpmzT85HL1TRuhzOKzhHs02LvaCdWe7fpWadsSFIzJoF8RyE1b2H8XUkSFilKTNspC1QauDdFqqq7fkQ7XJTApVk1IzPbGSf2SORSLCoZEaR6EaHe8W6wor8rVbl-t-VBnJuCfWWQXat7TG6dTPrs0EVo77sh7vkUzZGI8B9F0Ag4GtCTd_nDp_Pey966ue3Tj36AUeEQFv_dAk44t_7A.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491503436,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "IDF/Israel Airstrike — Minab, Israel: Iran warns against weaponization aggression escalation",
+    "location": "Minab, Israel",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "CENTCOM",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran warns against weaponization of AI for aggression and escalation of wars📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, has warned that the weaponization of artificial intelligence for aggression and escalation of conflicts raises serious concerns, citing the US and Israeli regime’s wars against Iran in June 2025 and February 2026.Speaking at a UN Security Council meeting on Tuesday, Darzi stressed that rapid technologica",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

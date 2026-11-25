@@ -236420,6 +236420,21 @@
     "verified": false
   },
   {
+    "id": 1795591678587,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-14",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Yemen Our Armed Forces successfully targeted a number of military build-ups belonging to the Saudi enemy, under the command of Saudi officer Badr Al-Harbi, in the Kharaz area of Lahij Governorate, with several ballistic missiles. The strikes were accurate and direct, thanks to Allah, leaving dozens...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1794731378837,
     "type": "airstrike",
     "location": "Khuzestan",
@@ -240344,6 +240359,21 @@
     "verified": false
   },
   {
+    "id": 1795591660913,
+    "type": "drone",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-21",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi:– During the last war, Hezbollah identified a weakness in the “Israeli” army’s ability to provide protection against the threat posed by fiber-optic-guided drones.– Hezbollah exploited this advantage and attacked maneuvering forces in southern Leba...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795338887031,
     "type": "airstrike",
     "location": "Tabriz",
@@ -241528,6 +241558,101 @@
     "source": "Ansar Allah",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Current Updates: November 24-25, 2026🇾🇪 YemenSaudi airstrikes continued across several Yemeni governorates, targeting residential areas, infrastructure, religious sites and civilian facilities:Saudi aircraft attacked Jabal Han in Taiz and carried out two airstrikes on Hayfan district, south of ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795591640610,
+    "type": "missile",
+    "location": "Khuzestan",
+    "coordinates": [
+      31.3,
+      48.7
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | &#036;97 billion owed to Iran by Iraq: Why are we silent? (1/3)Mojtaba Tavangar, a researcher in digital economy and data governance, wrote in an article for Farhikhtegan:1. The Chazabeh border crossing remained closed for three weeks, and now it is the turn of the Somar crossing. Baghdad spe...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795591656776,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | &#036;97 billion owed to Iran by Iraq: Why are we silent? (1/3) Mojtaba Tavangar, a researcher in digital economy and data governance, wrote in an article for Farhikhtegan: 1. The Chazabeh border crossing remained closed for three weeks, and now it is the…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795591660406,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "+ (2/3) Iraq purchases approximately &#036;4 billion worth of electricity and gas from Iran annually and represents a &#036;12 billion market for Iranian goods. Therefore, Iran must turn to instruments that do not inflict harm on ordinary people. The first instrument…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795591695362,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-24",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:In response to the Saudi aggression against our country and its crimes against our beloved people, including its targeting of civilian passenger buses and trucks in Al-Maqatirah District in Lahj, as well as its other crimes ...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/NM2J9IDx0AKT0e6aWK5WgemKk6H3lUcVc5ycsZTMCU8Yu-effHc9o9Fk2yqLualK81lFDQPNBjmXtet_6YJhwK7qZThiq_iO22DHBm5g-pP0R_3V9u2YngYE95hs2lS1AOpmzT85HL1TRuhzOKzhHs02LvaCdWe7fpWadsSFIzJoF8RyE1b2H8XUkSFilKTNspC1QauDdFqqq7fkQ7XJTApVk1IzPbGSf2SORSLCoZEaR6EaHe8W6wor8rVbl-t-VBnJuCfWWQXat7TG6dTPrs0EVo77sh7vkUzZGI8B9F0Ag4GtCTd_nDp_Pey966ue3Tj36AUeEQFv_dAk44t_7A.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795591616722,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-24",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree: In response to the Saudi aggression against our country and its crimes against our beloved people, including its targeting of civilian passenger buses and trucks in Al-Maqatirah District…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795591644980,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-24",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran warns against weaponization of AI for aggression and escalation of wars📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations in New York, Gholamhossein Darzi, has warned that the weaponization of artificial intelligence for aggression and escalation of conflicts r...",
     "media": [],
     "verified": false
   },
