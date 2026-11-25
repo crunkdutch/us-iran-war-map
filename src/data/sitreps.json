@@ -238495,6 +238495,10 @@
       {
         "url": "https://cdn5.telesco.pe/file/vh7Baw17UQ7TIStGzbsZnhjbvfE9jZGDn1Yd1we9fVtgkWsbyWV0VJH1SuTFSTEL_l_JaFhjFwD7nmcHPGAigA5RlHKmDpBZLgNg322ntveUeF6VCgJUW7sbuowEPf9hYe0X1UQWOyiXoY0n673g0UC3uQx0grF3rDZHPTyiKBa4ezw9CiSQa-TNpex_Ec8SyxO1RfRZ1pzMZc3P8YLicu13mWmm6LeymZ8j8JRyHdvNpHiD6la7dnOvM3LKBmiyReNj6c35SD946Esq0mNcNHruNUnMEehkEnaXvcEXNWC9dEaedvZEYlnhrTqfRzK_6GTo_zPpXA1D6OB5QHTuLQ.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/EkeJ320j2H-YLyG-sP3S4aK3sf_Y5ANUnTJP53DlmYEhibfBPDyHmB3vna9cBwk5UTkejek17hDA5Ka-T3PdtMg5j76TNdAcrvsvJEu-w12_g-dekLS62d34O3rwGJCAYqSeifly3eT5lmCM2I7FO01L9blqkjBY9nHVbShTIE2Ql3nUG1gqkzDoUmSBP-msaqcEzVkLj81BiQncRCd84w1Ab24Ckp-p93ClRLHO1n2hRHpsLxvVTGKLuGIhNX9b1Gv43rSKK-vRY3sCp79b5l5RSIdDxyTNH_zPxHcx3nfQL39xOSOR-SLAIuy1zZKdmHguybmXZBM34jyVEEUdqQ.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -238899,6 +238903,96 @@
     "verified": false
   },
   {
+    "id": 1795620490981,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-11-17",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi: The “Israeli” army believes that Hezbollah will launch attacks involving dozens, and possibly hundreds, of explosive-laden drones in the next battle.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620473753,
+    "type": "drone",
+    "location": "Aden",
+    "coordinates": [
+      12.7855,
+      45.0187
+    ],
+    "date": "2026-11-17",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media Maariv Hebrew newspaper – Avi Ashkenazi: The “Israeli” army believes that Hezbollah will launch attacks involving dozens, and possibly hundreds, of explosive-laden drones in the next battle. #Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620549033,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#YemenA military source to Yemeni media:– The airspace of the Kingdom of Saudi Arabia is unsafe, with the exception of the airspace over Mecca and Medina.– The Yemeni Armed Forces warn employees and citizens against approaching Saudi airports and facilities.– Saudi Aramco and its branches in the Kin...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620477481,
+    "type": "rocket",
+    "location": "Bab al-Mandab",
+    "coordinates": [
+      13,
+      43.5
+    ],
+    "date": "2026-11-17",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah the Almighty says: “And indeed whosoever takes revenge after he has suffered wrong, for such there is no way (of blame) against them.” Allah Almighty is Truthful For 12 years, the criminal Saud...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620491012,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_Media\"Israeli\" media: Matan Kahana of the Yashar Party has been elected Speaker of the “Israeli” Knesset with a majority of 66 votes.#Military_Media",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620555306,
+    "type": "airstrike",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-17",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper: The Home Front Command will conduct another drill today on rescue operations at sites of destruction. This drill is one of a series of drills conducted in recent days. Hospitals in the south, led by Barzilai Hospital in Ashkelon, will also conduct a joint drill w...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795012999724,
     "type": "intercept",
     "location": "Tehran",
@@ -239201,6 +239295,117 @@
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz. 🔻@enemywatch",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620496816,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 / 🏴| An Iranian security force member was martyred during armed clashes with terrorist militants in the border city of Baneh, near the Iraqi border.#BorderThreats🏴@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/nB_ysDIMhb59LDoxnlxtZRNujToWb9niHESWfrQmdUTQl-cIMtMns40KsGD8i5ZAPtEBlBMvWlFaBsB_Xshmzx5rEznk3ge1BRhosbQQ6Y5mVzIgytDjQBdhJLWpSUJ28BNoAtyEhOHFsx4DakBYTbMYNsJ8cIxHT5LZA3kTYp6R0WGJxtQL5wd31EfL1ihSEkIl5MesxsX8a588p1ensuxesZOgo7f1e8ejZ2mf7KkB7HsbRpXn78jN2f5cxClpbveEbp-ffEwuvXVkhcFQaLoH9hP7Ei0ZtrNhQPG8UVxzWJzQcbxr3Fv9JTSEAAwRYLsho-EPM7dxORiIYGwNEA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795620526443,
+    "type": "airstrike",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-11-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🏴| Breaking — Around one million mourners have gathered in the holy city of Qom, Iran, to bid farewell to Grand Ayatollah Wahid Khorasani (r). He will be laid to rest tomorrow at the holy shrine of Imam Ali al-Ridha (a) in Mashhad, with hundreds of thousands expected to attend the funeral proc...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620487171,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-18",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Message from Imam Mujtaba Husayni Khamenei on the Passing of Grand Ayatollah Wahid Khorasani:In a message conveying his condolences on the passing of Grand Ayatollah Wahid Khorasani, Imam Mojtaba Khamenei described him as one of the principal pillars of teaching jurisprudence (Fiqh) and the p...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620521882,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-18",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | An American MQ-9 Drone Destroyed by Iranian Army Air Defense Fire East of the Strait of Hormuz:Islamic Republic of Iran Army: Following the Army Air Defense Force’s successful track record of intercepting and destroying advanced enemy drones, an American MQ-9 drone was detected and promptly d...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/d238421dc5.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qMsIXnD3bDfENeQDkE54R2k6qPPAKd5clez5yA7ZYvBfosOHpX_kgQb5-la7WhZ-5u4AfEePvaotEcR1lYdY4lMWJjwCxhCo6Mb3uhQ-NcKkW0zYYwW4JlZ084V_d4zFFhvk6fQdYUqD0KDlhpP2qG4i-QHbs8B2Ji_cnprqiDKHgo_plbnz79LfqJZLKJto8Cw6o-x9qlAKIEUAExhGEaz3qQuBjIOJFWbPpgJUULtC3i13bM-yOTuZeXBIvbNPAXbW0EN-jOjTVVIZe1tmKhpy1EZ8ATobkQH74bqiOjtqZTgN7Ns9uGJkSIMhwyH7k391sCZOnC_5EOojSxti4A"
+      },
+      {
+        "url": "https://t.me/enemywatch/64807",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/qMsIXnD3bDfENeQDkE54R2k6qPPAKd5clez5yA7ZYvBfosOHpX_kgQb5-la7WhZ-5u4AfEePvaotEcR1lYdY4lMWJjwCxhCo6Mb3uhQ-NcKkW0zYYwW4JlZ084V_d4zFFhvk6fQdYUqD0KDlhpP2qG4i-QHbs8B2Ji_cnprqiDKHgo_plbnz79LfqJZLKJto8Cw6o-x9qlAKIEUAExhGEaz3qQuBjIOJFWbPpgJUULtC3i13bM-yOTuZeXBIvbNPAXbW0EN-jOjTVVIZe1tmKhpy1EZ8ATobkQH74bqiOjtqZTgN7Ns9uGJkSIMhwyH7k391sCZOnC_5EOojSxti4A"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795620479194,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran’s deterrence strategy adapts to evolving threats: Defense Ministry📌 Tehran, IRNA – Defense Ministry spokesperson Brigadier General Reza Talaei-Nik says Iran’s deterrence strategy remains dynamic and active in response to the changing nature and patterns of warfare, noting that recent hybrid...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620471326,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-18",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔸For what sin were they killed?🔹On this World Children's Day, we honor the memory of children from #Gaza, #Iraq, #Lebanon, #Iran, #Yemen and beyond who were martyred at the hands of the US and the Zionist regime — children like #ZahraMohammadi Golpayegani, #HindRajab, and thousands of others whose...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/WYuR9aJwwBCFGdIgkO3FwNm8gvXylClQiCL-FE_lKywlPRrqta-OuS3MLXMnprN_82aiz2u4_aKQgI15eranp03pYPpguYAhHchOmO0XiD3c4w5bikledr4BrYnJzyX4jgo0VTeeAKuNc4MwTsYA7-bBNLbiM2Bv1EHrs37g8HoMOrvQBv5Z6cNX32tjujYZLjBfwLaEgnCZUZg_wxPPhYxTW_5HYV-4KLtW4JAb0czPA4wlVoU9ixxGaM_1cs7EuW_BCOSAztN_8TJIqs0S-ppAD5gDSuhs2yPGcRjR7CqfQe8Eq1MivBLyBCCkMcVi7HW_ri8tEPMqSonw4n8LRg.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
@@ -241816,6 +242021,21 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "⚡️ Iran repairs more than 40,000 homes damaged in recent war📌 Tehran, IRNA – Iran has repaired more than 40,000 residential units damaged during the recent US-Israeli-imposed war, with nearly 20,000 volunteer groups taking part in the reconstruction effort, says the head of the county’s Basij Organ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795620479351,
+    "type": "rocket",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran: Zionist regime poses gravest threat to Lebanon’s independence, stability📌 Tehran, IRNA – Iran's Foreign Ministry has strongly condemned the Israeli aggression against Lebanon, stating that the attacks—coinciding with the country's Independence Day— show the Zionist regime poses the greates...",
     "media": [],
     "verified": false
   },
