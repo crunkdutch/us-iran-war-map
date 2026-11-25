@@ -187018,6 +187018,75 @@
     "media": []
   },
   {
+    "id": 491472803,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Hodeidah, Jeddah, Red Sea: Yemeni Armed Forces spokesperson Brigadier General",
+    "location": "Hodeidah, Jeddah, Red Sea, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:The Armed Forces declare that Jeddah Port and all hostile Saudi ports along the Red Sea coast will be targets for our forces if the enemy carries out its threats to bomb Hodeidah Port.We warn employees, workers, and anyone near these ports to evacuate immediately and stay away from them. We also urge all shipping companies to remove their vessels from these ports at once.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/hYX3Q8oOXMrdgqYeGM5n_0mpzbdaiqWrU8LH38Y2UGe3EJzCfnJuTba5mI9wM9_gXr1VC17ptXBdDYvff4i6Hm0TIQokFwOVP1yMBvXWd_i11Y8SEOdCof7JwT8-UFVBktnz_pfQl2N1PswQSllvETWSwXzTCIvQZ9lV1Ty_vAv44pzBnxAkX2JfmMtT5nSgWsE1AvQhB50Rk0sQU9JDSFtdfKQk-7dE0v_PDgB_ehc923gChLjGkkJsX5knx25PRAPjwhSWxQoXdxNEB4_ve8syayS0lAjWYat525RkLOddiAu5ZFZZAlS5moHVFgZ9T4XEKWWM8GEfuMOmu_JnEQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491477906,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Hodeidah, Riyadh: Current Updates November 2425 2026 YemenSaudi",
+    "location": "Sanaa, Hodeidah, Riyadh, Jeddah, Strait of Hormuz, Persian Gulf, Red Sea, Lebanon, Yemen, Saudi Arabia, Israel, Gaza Strip",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Current Updates: November 24-25, 2026🇾🇪 YemenSaudi airstrikes continued across several Yemeni governorates, targeting residential areas, infrastructure, religious sites and civilian facilities:Saudi aircraft attacked Jabal Han in Taiz and carried out two airstrikes on Hayfan district, south of the governorate. An elderly man was killed in Saudi airstrikes east of Taiz, which also damaged homes and telecommunications networks. Saudi artillery targeted residential areas in the border district",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491462600,
     "type": "airstrike",
     "status": "confirmed",
