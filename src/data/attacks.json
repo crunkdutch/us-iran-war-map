@@ -187051,6 +187051,38 @@
     "media": []
   },
   {
+    "id": 491575053,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-23",
+    "time": "TBD",
+    "title": "Hezbollah Interception — Lebanon, Israel: LebanonHighlights Hezbollah SecretaryGeneral Eminence Sheikh...",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHighlights of Hezbollah Secretary-General His Eminence Sheikh Naim Qassem’s (may God protect him) speech at the ceremony marking the launch of the encyclopedia “Nahj Al-Balagha Explanation” by Martyr Sayyed Hashem Safieddine (may his soul be sanctified):– As Hezbollah, we accepted the Taif Agreement and Constitution as a political covenant for all Lebanese, bringing us together and correcting the course with regard to our one homeland under the umbrella of the Constitution.– According to",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491401466,
     "type": "naval",
     "status": "confirmed",
@@ -187642,6 +187674,75 @@
       "other": 0
     },
     "description": "📄 Israeli forces launch fresh drone, artillery strikes on southern Lebanon📌 Tehran, IRNA – Israel keeps intensifying its aggression against southern Lebanon, with regime forces launching a drone attack and artillery shelling, simultaneously on the town of Mayfadoun and a neighboring area, Ain Al-Samahiya.According to Lebanon's regulatory body for media on Wednesday, an Israeli drone detonated on the roof of a house in a neighborhood of Mayfadoun, while at the same time, the occupying army’s ar",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491564810,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Ansar Allah Missile Strike — Yemen: Yemeni Armed Forces spokesperson Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:Over the past 24 hours, Saudi warplanes have carried out 105 airstrikes and missile attacks targeting civilian sites in the capital, Sana’a, and the governorates of Al-Jawf, Taiz, Amran, Hajjah, Saada, Hudaydah, Al-Dhale, Ibb, Lahj, and Al-Bayda.The attacks were carried out using F-15 and Typhoon fighter jets that took off from the Khamis Mushait and Taif airbases, alongside missile attacks launched from Najran. The atta",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/nqkmsHxnQcrKB9E7V7Mx7Xuu-9U_xhvFfpUC7jD1rMolw41UUrp-YotidR5AbgauKLqCc3t9fd3JDqCMk6qSb-zHTIaCmDclcDwS_1re2UnHenKqZemRazln9tCqyIlVbSrekVeX-fZ_e1tPDxcZQmWwKRlyvFg4rG90xcr67IN4dKKwc9cc5SYBuBpGFfKp9uN4Ngh5HLu1yRb79fT6FInL-ljFWYK4yjVl5IKWzVTOJMbmO0KX6KHNc8rgFk2bGW9qN1RT0DcOh0VTL4PPKWNtrQMjSnLVvdLCoXjsLRfAcomoZqSThyoLDYFYGf9QCFxvI5w7HoVBycgoFG7VIQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491569931,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Ansar Allah Airstrike — Hodeidah, Jeddah, Yemen: Yemeni Armed ForcesIn response brutal Saudi",
+    "location": "Hodeidah, Jeddah, Yemen",
+    "coordinates": [
+      14.7979,
+      42.9545
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces:In response to the brutal Saudi aggression against our country, and in retaliation for the targeting of Hodeidah port, and to establish the equation of \"a port for a ports\"The Yemeni Armed Forces, with Allah's help, carried out two qualitative military operations:The first operation targeted Jeddah port, and by the grace of Allah, the strike was accurate.The second operation targeted Jizan port, and by the grace of Allah, the strike was direct.Both operations resu",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
