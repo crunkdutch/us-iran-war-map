@@ -187087,6 +187087,70 @@
     "media": []
   },
   {
+    "id": 491483010,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: IRGC NavyExplosion violating tankers unauthorized route",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | IRGC Navy:Explosion of two violating oil tankers in the unauthorized route of the Strait of HormuzIn the early hours of this morning, two violating oil tankers off the southern and eastern coasts of the Strait of Hormuz suffered explosions and fires in their engine rooms after striking naval mines.These oil tankers, thinking they were acting covertly, were attempting to pass through the fake route of the Strait of Hormuz when the naval mines prevented their passage and caused massive expl",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491488115,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Unknown Interception — Tehran, Strait of Hormuz, Persian Gulf: Iranian defense shoots down drones over",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🌍 Iranian air defense shoots down two drones over Persian Gulf📌 Tehran, IRNA – Iran’s Army says its air defense force has destroyed two drones, identified as Lucas and MQ-9, over the Persian Gulf.In a statement late on Tuesday, the Army’s public relations office said a US Lucas drone was intercepted over the western Strait of Hormuz by indigenous air defense systems.​In a separate operation, a US MQ-9 drone was hit and destroyed over the eastern Strait of Hormuz, the statement said.​Both opera",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491462600,
     "type": "airstrike",
     "status": "confirmed",
