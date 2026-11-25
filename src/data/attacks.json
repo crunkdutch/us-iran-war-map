@@ -186449,6 +186449,38 @@
     ]
   },
   {
+    "id": 491528991,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-22",
+    "time": "TBD",
+    "title": "Saudi Arabia Airstrike — Jeddah, Red Sea: Armed Forces reiterate that Jeddah Port",
+    "location": "Jeddah, Red Sea",
+    "coordinates": [
+      21.5433,
+      39.1728
+    ],
+    "sources": [
+      {
+        "name": "Saudi Arabia",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "The Armed Forces reiterate that Jeddah Port and all Saudi enemy ports along the Red Sea coast will be targets for our forces if the enemy carries out its threats to bomb Al Hudaydah Port.We warn employees, workers, and anyone present near these ports to evacuate them immediately and stay away from them. We also call on all shipping companies to immediately withdraw their vessels from these ports.http://t.me/army21ye",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491310035,
     "type": "drone",
     "status": "confirmed",
@@ -187375,6 +187407,38 @@
       "other": 0
     },
     "description": "🖥 Iran tightens security measures in Strait of Hormuz: Army📌 Tehran, IRNA – Iran’s Army spokesperson Brigadier General Mohammad Akraminia says the military had stepped up surveillance and control of the Strait of Hormuz, warning that vessels must coordinate their passage with the Iranian Armed Forces to ensure safe transit.Speaking to Air Force commanders and personnel on Wednesday, Akraminia said the measure had been ordered by the Army chief commander. He added that the readiness of Iran’s A",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491523878,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran, Strait of Hormuz: Iran seeks peace will yield pressure",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran seeks peace but will not yield to pressure: Ambassador📌 London, IRNA – Iran’s new ambassador to Italy says Tehran is ready to resolve its disputes and tensions with Washington through diplomacy, but it will never surrender to pressure.In an interview with Corriere della Sera, Ali Akbar Rezaei said the negotiation process has not stopped, though it is progressing slowly. “We say ‘no’ to nuclear weapons and to surrender, while at the same time we support diplomacy and respect for internat",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

@@ -240920,6 +240920,36 @@
     "verified": false
   },
   {
+    "id": 1795613312709,
+    "type": "airstrike",
+    "location": "Gaza City",
+    "coordinates": [
+      31.5019,
+      34.4644
+    ],
+    "date": "2026-11-22",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "In the Name of Allah, the Most Gracious, the Most MercifulPress StatementA new massacre has been committed by the criminal terrorist occupation army after its warplanes targeted a residential apartment in Al-Shati Camp, west of Gaza City, in the early hours of dawn. The attack resulted in the martyr...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795613278048,
+    "type": "airstrike",
+    "location": "Jeddah",
+    "coordinates": [
+      21.5433,
+      39.1728
+    ],
+    "date": "2026-11-22",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "The Armed Forces reiterate that Jeddah Port and all Saudi enemy ports along the Red Sea coast will be targets for our forces if the enemy carries out its threats to bomb Al Hudaydah Port.We warn employees, workers, and anyone present near these ports to evacuate them immediately and stay away from t...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795411107300,
     "type": "drone",
     "location": "Sanaa",
@@ -241678,6 +241708,73 @@
     "verified": false
   },
   {
+    "id": 1795613269563,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Islamic Revolutionary Guards: Photos of the explosion involving two oil tankers that violated unauthorized transit through the Strait of Hormuz.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/012424eee4.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OenSbqf2TlEZ7kXNWNn06c4dFCYfmDT9AYOmDLjwLQS6PHhWD6oR4MsY74gKOpYhR2YeMnD-ENDnavC3EVEl_0l6xahnAFgsrf6S7y88Ga1UjAfgeughtV2DxiBTcZJuA5aksiAqsrA2ZhWk-yExqF8issxl3aidXb6tLmRzUOBOVlAgwzlzfEXOj-XgpychhbNlcsDOqfMTUU9u4FXWGJffetRtnQxksb74DcRhvMRL5jR2fqOsjFJKOV9rQFdtTiZO-v8LH3Uk-Oj-8J37yuWCNSlKxl2sX_2D7LMHbqIq_nZwtRjojlqbByJx9g2pEbnxDH8243Zxtrwp5C7-Aw"
+      },
+      {
+        "url": "https://t.me/enemywatch/65054",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/OenSbqf2TlEZ7kXNWNn06c4dFCYfmDT9AYOmDLjwLQS6PHhWD6oR4MsY74gKOpYhR2YeMnD-ENDnavC3EVEl_0l6xahnAFgsrf6S7y88Ga1UjAfgeughtV2DxiBTcZJuA5aksiAqsrA2ZhWk-yExqF8issxl3aidXb6tLmRzUOBOVlAgwzlzfEXOj-XgpychhbNlcsDOqfMTUU9u4FXWGJffetRtnQxksb74DcRhvMRL5jR2fqOsjFJKOV9rQFdtTiZO-v8LH3Uk-Oj-8J37yuWCNSlKxl2sX_2D7LMHbqIq_nZwtRjojlqbByJx9g2pEbnxDH8243Zxtrwp5C7-Aw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795613314673,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-24",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🔻 ❌ 🚢🚢 | Explosions are being heard in the Strait of Hormuz right now.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795613260227,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-24",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷🇮🇷 🇮🇶 🇮🇶 | Imam Sayyid Mujtaba Khamenei (H) gifts the Islamic Resistance’s Kata’ib Hezbollah “Qādat al-Nasr” (Leaders of Victory) procession the flag of the Islamic Republic.🚩@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/e4ec8f13bb.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fVo2dFIcIm9y8BD31fDFPsq2K9brBMGYwgzGiIWpPfA9jmlW12r0PMx7HcqrFlKRkDTZjlacVJH3w_QkIMnqKgDCmCyUYChUYMapfpMMqBOE62D9rMmryPHwSpTNf42XPZwf-Oe7vNX2bygCpa0B9Eu4MVBhc5pEadGPaAMTWL4i0cd2_PrzVG22uKsjz66-xB_2pgdgFIVcUcnkLfg9-_tuodil5fZzMQb_n4IJs5GrdPr4jsImIr6Z14hBjFbRM51S359HaiVr_zpmfb9Arz-tFonJ5gT9MjWNSrdr64itQHWiMX21E_DeBw4czPgdzwPqFdtvbJacsaW4m2j_Og"
+      },
+      {
+        "url": "https://t.me/enemywatch/65057",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fVo2dFIcIm9y8BD31fDFPsq2K9brBMGYwgzGiIWpPfA9jmlW12r0PMx7HcqrFlKRkDTZjlacVJH3w_QkIMnqKgDCmCyUYChUYMapfpMMqBOE62D9rMmryPHwSpTNf42XPZwf-Oe7vNX2bygCpa0B9Eu4MVBhc5pEadGPaAMTWL4i0cd2_PrzVG22uKsjz66-xB_2pgdgFIVcUcnkLfg9-_tuodil5fZzMQb_n4IJs5GrdPr4jsImIr6Z14hBjFbRM51S359HaiVr_zpmfb9Arz-tFonJ5gT9MjWNSrdr64itQHWiMX21E_DeBw4czPgdzwPqFdtvbJacsaW4m2j_Og"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1795541067672,
     "type": "airstrike",
     "location": "Lebanon",
@@ -241689,6 +241786,36 @@
     "source": "Hezbollah",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#LebanonHezbollah Secretary-General His Eminence Sheikh Naim Qassem will deliver a speech tomorrow, Wednesday, November 25, 2026, at 6:30 p.m. during the launch ceremony of the encyclopedia “Explanation of Nahj Al-Balagha” by Martyr Sayyed Hashem Safieddine (may his soul be sanctified).#Military_Med...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795613249667,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Public commemorations for martyred Leader will continue until Eid al-Fitr: VP📌 Tehran, IRNA – First Vice President Mohammad-Reza Aref has announced that Iran will hold public commemorative events to mark the first anniversary of the martyrdom of the Leader of the Islamic Revolution, Ayatollah Se...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795613265105,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Iran repairs more than 40,000 homes damaged in recent war📌 Tehran, IRNA – Iran has repaired more than 40,000 residential units damaged during the recent US-Israeli-imposed war, with nearly 20,000 volunteer groups taking part in the reconstruction effort, says the head of the county’s Basij Organ...",
     "media": [],
     "verified": false
   },
