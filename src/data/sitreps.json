@@ -242250,6 +242250,56 @@
     "verified": false
   },
   {
+    "id": 1795692762362,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | The Leader of the Islamic Revolution Imam Mujtaba Husayni Khamenei's (H) important message on the occasion of Basij Week will be published shortly.🔹@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795692770155,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-25",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Two non-compliant oil tankers explode after entering an unauthorised route through the Strait of Hormuz:IRGC Navy Public Relations Office:Since the early hours of today, two non-compliant oil tankers have suffered explosions and caught fire after striking naval mines north of the port of Khas...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/JR7mQvmQLywo6fOMS7SPvJXgfuLgTNAudq4n12UActvRJLTp9OzkOcoYFbdEkAZ5vkXV2yW2bkkQEnWgoeW16g0qUM_a7wdEMRCfawnmF25jlX1h_BDkS4vpPF1iZk2pjqjA1768c2ecSSOKFj9mXwmXTMHxettio6I9o3IxYTJdXbJ3Z5xzkuuH18-K1_kHo-EtzU5bhGWSUBngSB6uc5fL_EwhQJFLV6K_6x_Xp82aAGkYUt78aIscATYsR2X3LEMqKmvk6gQTYaPpHzfMZCJYY7NXBUmp1L8JtNNzX6ycVVY891thWPPr2wwVPcWwn7L4vHiPZPF3-mgUsOCjnQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795692693569,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "Egypt",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Tehran offers condolences over deadly fuel tanker fire in Egypt📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has extended condolences to the Egyptian government and people over a fuel tanker fire in Giza Governorate.Baqaei expressed sympathy on Thursday on behalf of the I...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

@@ -187812,6 +187812,75 @@
     "media": []
   },
   {
+    "id": 491590425,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: noncompliant tankers explode after entering unauthorised",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Two non-compliant oil tankers explode after entering an unauthorised route through the Strait of Hormuz:IRGC Navy Public Relations Office:Since the early hours of today, two non-compliant oil tankers have suffered explosions and caught fire after striking naval mines north of the port of Khasab.One of the vessels is a supertanker carrying more than 2 million barrels of crude oil. It has been left burning.IRGC Navy Vessel Traffic Control Centre: The tankers, operating under unknown identit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/JR7mQvmQLywo6fOMS7SPvJXgfuLgTNAudq4n12UActvRJLTp9OzkOcoYFbdEkAZ5vkXV2yW2bkkQEnWgoeW16g0qUM_a7wdEMRCfawnmF25jlX1h_BDkS4vpPF1iZk2pjqjA1768c2ecSSOKFj9mXwmXTMHxettio6I9o3IxYTJdXbJ3Z5xzkuuH18-K1_kHo-EtzU5bhGWSUBngSB6uc5fL_EwhQJFLV6K_6x_Xp82aAGkYUt78aIscATYsR2X3LEMqKmvk6gQTYaPpHzfMZCJYY7NXBUmp1L8JtNNzX6ycVVY891thWPPr2wwVPcWwn7L4vHiPZPF3-mgUsOCjnQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491595551,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Gilan: Irans nuclear science advances despite external",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "💬 Iran’s nuclear science advances despite external pressure: AEOI chief📌 Rasht, IRNA – Head of the Atomic Energy Organization of Iran Mohammad Eslami says the country’s scientific progress has drawn opposition from its adversaries, stressing that the Islamic Republic will continue developing its technological capabilities without seeking permission from foreign powers.Speaking Thursday at the opening of a radiation processing center in Rasht, Gilan Province, Eslami said Iran had made significa",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
