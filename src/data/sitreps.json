@@ -239413,6 +239413,51 @@
     "verified": false
   },
   {
+    "id": 1795707196211,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#LebanonHezbollah and Amal Movement Leaderships:– A meeting bringing together Hezbollah Executive Council Chairman Sheikh Ali Daamoush and Amal Movement Executive Board Chairman Dr. Mustafa Al-Fouani discussed developments, “Israeli” aggressions, ways to strengthen the domestic front, and how to add...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795707183866,
+    "type": "rocket",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-18",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by Hezbollah Regarding the Zionist Aggression on the Gaza Strip:Hezbollah condemns the Zionist terrorist aggression on the Gaza Strip, along with the accompanying threats, evacuation orders, and forced displacement of thousands of Palestinian citizens from their homes under the weig...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795707164629,
+    "type": "naval",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-18",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi:The public must know all of this: the “Israeli” army’s aircraft and helicopters, its navy’s ships, its tanks, and its armored personnel carriers have all been worn down.There are battalions that advanced into Lebanon, and their fighters were forced...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795107930868,
     "type": "airstrike",
     "location": "Yemen",
@@ -242343,6 +242388,36 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1795707145904,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Many people keep asking me if I regret the Iranian intervention in Syria or whether I would’ve done things differently in hindsight. The answer is no, everything that was done was necessary, to secure vital supply lines and to prevent the total collapse…",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795707152991,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Leveraging immense potential of people key to realizing stronger Iran: IRGC chief📌 Tehran, IRNA — Commander-in-Chief of the Islamic Revolution Guards Corps (IRGC) Major General Ahmad Vahidi, says realizing a \"stronger Iran\" depends on harnessing the immense capacity of the people and their “Basi...",
+    "media": [],
     "verified": false
   },
   {

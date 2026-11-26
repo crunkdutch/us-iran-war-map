@@ -184176,6 +184176,43 @@
     ]
   },
   {
+    "id": 491610935,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-18",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Lebanon, Israel: LebanonHezbollah Amal Movement Leaderships meeting bringing",
+    "location": "Lebanon, Israel",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#LebanonHezbollah and Amal Movement Leaderships:– A meeting bringing together Hezbollah Executive Council Chairman Sheikh Ali Daamoush and Amal Movement Executive Board Chairman Dr. Mustafa Al-Fouani discussed developments, “Israeli” aggressions, ways to strengthen the domestic front, and how to address the needs of residents and the requirements of the current phase.– Hezbollah and Amal Movement affirmed the need to compel “Israel” to completely cease its aggressions and violations, withdraw fr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/TrfTrWqCC3QcyxH1jAsjcJyzC48s01uez-gXyPJzirkaKfRvIPqgZi7XothLlQi7LAU2BbDi_ftB1-DI7d1IH1Oja3DLvgM06vj9TBmokyn7s1a3CW5uSWgiL_NBw1m1g5fp30Kcx6I1CELKRUw9HjV_SzHdCeQu3tA7jy13DaJ0e1n9df6mUbgpAO6qT8J_GUecS6iTn8eDQLPP09Pr3fIYXbDigeFE0QXc7BJMesEqy0SbRgw4KEcpTLDcHkIksJh_iYiRjscQnyuU9TpmcOBb-zoH6HA8Tcf5SyS-1DO00rVcrug9MiyDHCz0FCZiOb8ZHTknyNaCxSegl5RvUQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 490832850,
     "type": "airstrike",
     "status": "confirmed",
