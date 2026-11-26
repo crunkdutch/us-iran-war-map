@@ -242161,6 +242161,41 @@
     "verified": false
   },
   {
+    "id": 1795663835905,
+    "type": "intercept",
+    "location": "Dubai",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "date": "2026-11-25",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Current Updates: November 25-26, 2026🇾🇪 YemenFollowing the PLC’s withdrawal from the area surrounding Bab el-Mandab up to Jabal Kharaz, AnsarAllah have reportedly begun excavating a canal from Jabal Kharaz to the Gulf of Aden. The canal would serve as a physical barrier against potential PLC co...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795663795024,
+    "type": "airstrike",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇿 🏴| Ten years after the Nardaran massacre: The continued persecution of Azerbaijan’s Shia community:Today, 26 November, marks the 10th anniversary of the bloody incident in Nardaran, Azerbaijan, which took place during the Arbaeen commemorations.Sheikh Taleh Bagirzadeh, the imprisoned leader of...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/NM6LZOD_S-LDhQ8-JcxBhuw17usgWD_jsh5fUAWrSN5Jzm195Y5-Iq_6zg6Kavoo6sisLLazXs8K8mQLrRlj2HAiEae17g9k9apZH165E6HZSeNvZGHCEG1bk-Jagzz4sW8o4liKeoGeOPbQpEUDhA8lyRplntUkBdowpCxEZ7yJHcpGvGO7U-xlNr8fHu34nFZNN9Os-MlZPQTjp7MlTSE0LlMnhqb_NBc7UT3txivR_t6dnLh4-DibKmHv79-GjXR4is-2zppYyQ-xIfCDYXkaiOdCOv6GclyFhu9QmbdIk1Xv567DTT_GXG52OEi8cyVMtEpxf9Hy-_WLJ3rToA.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",

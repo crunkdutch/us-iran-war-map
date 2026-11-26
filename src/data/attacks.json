@@ -187748,6 +187748,38 @@
     "media": []
   },
   {
+    "id": 491580176,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "IDF/Israel Interception — Dubai, Sanaa, Hodeidah: Current Updates November 2526 2026 YemenFollowing",
+    "location": "Dubai, Sanaa, Hodeidah, Aden, Riyadh, Gaza City, Lebanon, Syria, Yemen, Bahrain, Saudi Arabia, Israel, Qusayr",
+    "coordinates": [
+      25.2048,
+      55.2708
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Current Updates: November 25-26, 2026🇾🇪 YemenFollowing the PLC’s withdrawal from the area surrounding Bab el-Mandab up to Jabal Kharaz, AnsarAllah have reportedly begun excavating a canal from Jabal Kharaz to the Gulf of Aden. The canal would serve as a physical barrier against potential PLC counterattacks, forcing advancing forces to cross it while exposed to fire from AnsarAllah positions on Jabal Kharaz. Alongside this development, AnsarAllah forces have begun constructing defensive posi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
