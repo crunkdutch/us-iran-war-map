@@ -187881,6 +187881,75 @@
     "media": []
   },
   {
+    "id": 491600678,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Mashhad: Iran Three warhead types Shahed136 drone",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Iran: Three warhead types for the Shahed-136 drone displayed at the Mashhad Aerospace ExhibitionThe exhibition showcased three types of warheads designed for the Shahed-136 drone:1. High-explosive shaped-charge warhead: Designed to generate a powerful blast wave and penetrate fortified structures, concrete bunkers and critical infrastructure.2. Pre-fragmented warhead: Contains pellets and metal fragments intended to engage soft and semi-armoured targets, including air defence systems, rad",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/iM-GKY_VIOK5g-hbPBt_oCjftcN8b_S3Pp3aQ98bOYt3Fr8HC6DbGZNg0wA6H2VTZwniYwp4wDYAL-a40F387sD4mv4bcyF0darymeDqAyDkoAVjUkGOXTSmZSwCtFUBQ8ZBxvY7b8mU1JczZDCR55drzwuuNdzJOLahIZpGC6WcdErM2InbOg955EtUOQWY87qbjIukQ6IWBLmgRn5gyAEgYX3k3SXN_Fa-j7wtAtu7cUbrsNFS29qvq-ZEfIYRdfcOBkDu4JM-VYJEJ_TmEX660TBl9zruHUeiM4GN3-9sRXEc1rUEQLZOe4jG0CYCtnYhKXaf01pUd1NAL_1Dlw.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491605806,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "Unknown Drone Strike — Kuwait: Kuwaiti Army reports that Kuwait came",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇰🇼| The Kuwaiti Army reports that Kuwait came under an attack involving drones, resulting in casualties.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

@@ -242300,6 +242300,52 @@
     "verified": false
   },
   {
+    "id": 1795699948395,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-25",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | IRGC: Images showing the explosions of two oil tankers as they attempted to transit the Strait of Hormuz without authorisation.🔻@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4ac7116173.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/R7e8ezUo48s2bDWef1Sb3vPhMG_W8uzcjERe-9V8TaYrbd9xvePfwCK9fkwyc3TR20Pbgjw_fmcjSAQP4cKSTs6hD88HQ_cF4hPltgnL5KjiYfPGNSd8AMTTu7INSUwIaNFz5JnGXnAN5zfGnbKVx3om1w9mwldLNMPq2y2m9rTWYgttmK8dTbWD_uGbk4NaFtSGuXbFVHIeAC_Pkhjc4fWeTvqaycsGnpExw-kvgbXt0zC7Vo7ftRB50GeeCN36ah_-ryaHDwq9Pnk21z1VBxJrwP1y64s0UREZdJI71Iwd-WWXcA9NFPgbDkgfIfcqHAZi_TUoVLPLNaZD_fjyLw"
+      },
+      {
+        "url": "https://t.me/enemywatch/65090",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/R7e8ezUo48s2bDWef1Sb3vPhMG_W8uzcjERe-9V8TaYrbd9xvePfwCK9fkwyc3TR20Pbgjw_fmcjSAQP4cKSTs6hD88HQ_cF4hPltgnL5KjiYfPGNSd8AMTTu7INSUwIaNFz5JnGXnAN5zfGnbKVx3om1w9mwldLNMPq2y2m9rTWYgttmK8dTbWD_uGbk4NaFtSGuXbFVHIeAC_Pkhjc4fWeTvqaycsGnpExw-kvgbXt0zC7Vo7ftRB50GeeCN36ah_-ryaHDwq9Pnk21z1VBxJrwP1y64s0UREZdJI71Iwd-WWXcA9NFPgbDkgfIfcqHAZi_TUoVLPLNaZD_fjyLw"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795699899664,
+    "type": "drone",
+    "location": "Mashhad",
+    "coordinates": [
+      36.2605,
+      59.6168
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iran: Three warhead types for the Shahed-136 drone displayed at the Mashhad Aerospace ExhibitionThe exhibition showcased three types of warheads designed for the Shahed-136 drone:1. High-explosive shaped-charge warhead: Designed to generate a powerful blast wave and penetrate fortified struct...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/iM-GKY_VIOK5g-hbPBt_oCjftcN8b_S3Pp3aQ98bOYt3Fr8HC6DbGZNg0wA6H2VTZwniYwp4wDYAL-a40F387sD4mv4bcyF0darymeDqAyDkoAVjUkGOXTSmZSwCtFUBQ8ZBxvY7b8mU1JczZDCR55drzwuuNdzJOLahIZpGC6WcdErM2InbOg955EtUOQWY87qbjIukQ6IWBLmgRn5gyAEgYX3k3SXN_Fa-j7wtAtu7cUbrsNFS29qvq-ZEfIYRdfcOBkDu4JM-VYJEJ_TmEX660TBl9zruHUeiM4GN3-9sRXEc1rUEQLZOe4jG0CYCtnYhKXaf01pUd1NAL_1Dlw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
