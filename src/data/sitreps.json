@@ -239138,6 +239138,10 @@
       {
         "url": "https://cdn5.telesco.pe/file/Bp7WmYjKvGAeKQVWjJjUnQJBEy8M-ynIN3qkIUL0sb4JSULnQ2e7uib6-hIUpjKKSsCEMAZizgEfg-W-mTrjETq9HjyBn2VUPmwNKd-Hsi1NvCObH4QyB7OpRTRZXHI1t6DlLpbekUS6ELJHnxzTZzL7H-furag9a_SfTNxmwBmTsVWbKMv54A55nEc-7g-q70RejJVhP8hFtpzykULx1SuSGx_uKlxvicQ1wbzwI-ml4pe-h1nAwElCdhdfnncI4tdCgU9pdFGWvDma6vP4cqaXmMdXmwP6yozHMsFlqjRFm19iTGjYRFRtk1S4nziefoY3pXsLZfJ2EgTkn4zcuA.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/OyUT-SvSHJ99-5bHFBzOEcbDNq30qoEn22N1aDXf0Q2Pn9rP4S2OCnHJY5f_3LRNAEbKwOm8G3agcihmNoj-vsUo3aYO_-UrUFi6JvI690ti9DW36fWE4xPHO5f1LwdwogJ9anDmxHoRjRdNLZA6_RYagJDV_l3y8URy6h9fKQqoNgjWMjmxIIverQEp5W_x1CqQvdcYvUyR6x3tVHkE4CSHJg9wObz_vU-DUmV8cnPBGMORJUI2yQb0N22JD7h0JYFI96z9dAqDe_jIKDXN-WG2UcnN0ZaDC3ZzMh9Tf_RHaZBaEEw14o7ElHpWktyGdylUPyn3a6MQXUjVSgClmg.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -239663,6 +239667,47 @@
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "Statement Issued by Hezbollah on the Occasion of the 83rd Anniversary of Independence Day:The independence whose eighty-third anniversary the Lebanese are commemorating today is surrounded by dangers and threats from every direction, threatening its very existence and meaning. This requires all Leba...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795714410092,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-19",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 ❌ 🇸🇦 | A new attack from Yemen targeted Riyadh’s financial district in Saudi Arabia, damaging one of the towers.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795714384986,
+    "type": "drone",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-19",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Two Offending Supertankers Explode in the Strait of Hormuz:Public Relations Department of the Islamic Revolutionary Guard Corps Navy:Two offending supertankers attempting to navigate an unauthorised route through the Strait of Hormuz exploded after striking naval mines.The tankers, carrying a...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/a3bc74c34f.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/X3T8gVIS0p5-UKQKxMPoEXqXc9STY2FNhCb3Z1DxVEXwKg2Eam7nHA7W1ZI-t2UloIHWXgs3DJrQ_Ksl-wA9vAURPRYPqEHY6uYR6ac1Ctbeu6LKaFN8qm48gUttpZhSyMj_kkT5SlVUnn0NiIC3NHLKO2k0S5-SywNq6H_UGg1znwQr3s2TDxPJsauZCWdnrxomCB6xcz6kkzP770X2oN5K3Elug-7rbxprjQkmglOPor8DT5EKNfbWt2kYJse9gBV9xi68h8l1LmI_SDgAVsbdAZByTGb0Bo6w3T3hfS-zrK8Rbtsp05aRjireLTYdnYujmyAviLYkKAwuECAw9A"
+      },
+      {
+        "url": "https://t.me/enemywatch/64843",
+        "type": "video",
+        "thumbnail": "https://cdn5.telesco.pe/file/X3T8gVIS0p5-UKQKxMPoEXqXc9STY2FNhCb3Z1DxVEXwKg2Eam7nHA7W1ZI-t2UloIHWXgs3DJrQ_Ksl-wA9vAURPRYPqEHY6uYR6ac1Ctbeu6LKaFN8qm48gUttpZhSyMj_kkT5SlVUnn0NiIC3NHLKO2k0S5-SywNq6H_UGg1znwQr3s2TDxPJsauZCWdnrxomCB6xcz6kkzP770X2oN5K3Elug-7rbxprjQkmglOPor8DT5EKNfbWt2kYJse9gBV9xi68h8l1LmI_SDgAVsbdAZByTGb0Bo6w3T3hfS-zrK8Rbtsp05aRjireLTYdnYujmyAviLYkKAwuECAw9A"
+      }
+    ],
     "verified": false
   },
   {
@@ -241689,6 +241734,21 @@
     "verified": false
   },
   {
+    "id": 1795714326462,
+    "type": "airstrike",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-23",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Islamic_RepublicCommander of the Quds Force of the Islamic Revolutionary Guard Corps, Brigadier General Esmail Qaani:– The martyred Imam fulfilled the strategic aspiration of Imam Khomeini by supporting the nuclei of Resistance in the region and transforming them into the Resistance Front.– The Lea...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795512168000,
     "type": "intercept",
     "location": "Tehran",
@@ -242417,6 +242477,41 @@
     "source": "IRGC/Khatam al-Anbiya",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 Leveraging immense potential of people key to realizing stronger Iran: IRGC chief📌 Tehran, IRNA — Commander-in-Chief of the Islamic Revolution Guards Corps (IRGC) Major General Ahmad Vahidi, says realizing a \"stronger Iran\" depends on harnessing the immense capacity of the people and their “Basi...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795714400934,
+    "type": "intercept",
+    "location": "Kuwait",
+    "coordinates": [
+      29.3,
+      47.7
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇹🇪🇺🇰🇼🇮🇷| The 2 Italians that were killed in the Iranian drone strike on a military facility in Kuwait, were anti-drone experts. It’s possible that Iran also damaged or destroyed a RHEINMETALL anti-drone air defense system, such as the Skynex anti-aircraft system. One Pakistani national was ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/vHOdpg3A-SPn3TDieuHb_aFBuedjcBvx3LD3-tHu1pPguSdC17kelh6Z4uRFN2nOnYeOcEMGIMszq_1xY7lghtLSNDraLcDZSl4_wWxJJ0J3S3dSJjc6kqx0ZM2OsjKfX1jpVqX-PQw2RR28do1-beK9hkxXlWDSBIRoWpNXB0zpBODiyxQCAosIV7CbsBAoB9d1fqqNoyK8qF6co163sRQmUAKfrLePZRLSg85woOu21tUOZx2oUA1TXJrie56ZV6d0-fEbrjszm2k4DSPiRHht1rgmBvQoQWkRJWDotaB3N4QyAYm7WCVdDwoE_pbNp-RI1v3cJ5pcjJ6C9Y72uQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795714322127,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Araghchi to Barrot: Before lecturing Iran, ensure Iranians’ freedom of expression in France📌 Tehran, IRNA — Foreign Minister Abbas Araghchi has criticized France’s top diplomat over his post on X concerning the rights and freedom of expression of Iranians, saying Jean-Noël Barrot’s words expose ...",
     "media": [],
     "verified": false
   },
