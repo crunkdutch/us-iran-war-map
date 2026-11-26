@@ -238646,6 +238646,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/WYuR9aJwwBCFGdIgkO3FwNm8gvXylClQiCL-FE_lKywlPRrqta-OuS3MLXMnprN_82aiz2u4_aKQgI15eranp03pYPpguYAhHchOmO0XiD3c4w5bikledr4BrYnJzyX4jgo0VTeeAKuNc4MwTsYA7-bBNLbiM2Bv1EHrs37g8HoMOrvQBv5Z6cNX32tjujYZLjBfwLaEgnCZUZg_wxPPhYxTW_5HYV-4KLtW4JAb0czPA4wlVoU9ixxGaM_1cs7EuW_BCOSAztN_8TJIqs0S-ppAD5gDSuhs2yPGcRjR7CqfQe8Eq1MivBLyBCCkMcVi7HW_ri8tEPMqSonw4n8LRg.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/QoVZk-ib2ACYtr-MkP3ytKNCcgiC5VeDzV6pmshkd3wemOzKszFV3A2kfPR58KqtLbnpRq5UVJpOyRw1J0pfP3l5m89HgPDHi_FbXuTXP2VIifLBXOcF70W14jFWBgP0kZVxjWAxijw9M2xoJhz0sLAyAW2hbiLGWa5hQ6c7a2Ft0re4iEFPtORCCudrPy_HL_NCqNVockULB9OANjiloieKee3D-z8KRb3vBImWFjtC4mUn07qQrJZ7isT0ReU6Iez1SkFlpFYhD9LF-WjqL9N2EpVYTMk-cXI57EmUu2zlFbi0mJ4HTRaM0au5KevzSBWWei11eGawRfNirsX4GA.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -242193,6 +242197,36 @@
         "type": "photo"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1795678299157,
+    "type": "missile",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔻 Iran says silence of disarmament bodies over US-Israeli aggression undermines their credibility📌 London, IRNA – Iran’s Ambassador and Permanent Representative to the United Nations and other international organizations in Austria, Reza Najafi, has criticized international disarmament and non-pro...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795678228476,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Israel seeks to drag US into another war with chemical weapons allegations: Iran FM📌 Tehran, IRNA – Foreign Minister Abbas Araghchi has condemned Israeli allegations that Iran is pursuing chemical weapons, describing them as an attempt to mislead the United States and draw it into another war.In...",
+    "media": [],
     "verified": false
   },
   {

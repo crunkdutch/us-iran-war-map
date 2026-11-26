@@ -187780,6 +187780,38 @@
     "media": []
   },
   {
+    "id": 491585300,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-25",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Israel: Iran says silence disarmament bodies over",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 Iran says silence of disarmament bodies over US-Israeli aggression undermines their credibility📌 London, IRNA – Iran’s Ambassador and Permanent Representative to the United Nations and other international organizations in Austria, Reza Najafi, has criticized international disarmament and non-proliferation bodies for their silence over the US-Israeli war of aggression against Iran, stressing that their inaction has seriously undermined the credibility and effectiveness of these organizations.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
