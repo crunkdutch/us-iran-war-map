@@ -239711,6 +239711,83 @@
     "verified": false
   },
   {
+    "id": 1795721636624,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Envoy: Iran faced military campaign, intensified economic pressure and incitement of unrest last year📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations, Gholamhossein Darzi, says over last year, the Islamic Republic of Iran has faced a coordinated campaign involving...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795721541951,
+    "type": "missile",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 ‘Childhood is a right, not a casualty of war’: Iranian Embassy in London📌 London, IRNA – The Embassy of the Islamic Republic of Iran in London has paid tribute to children killed in military attacks in Minab and Lamerd and highlighted the suffering of children in Gaza, stressing that childhood i...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795721569554,
+    "type": "airstrike",
+    "location": "Iraq",
+    "coordinates": [
+      33,
+      43
+    ],
+    "date": "2026-11-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Dozens of truck drivers, business owners, and traders gathered near the Mandali border crossing in Iraq's Diyala Province to demonstrate against its ongoing closure with Iran, calling for the crossing to be reopened.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/42411e8844.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mHlxPwzTe8WJnV7DOsMnk_vaw3DHX9wUJCPesO3FWuVFttDyczm7ka2HZeYXH_CT6mkH07yWS-mcm4bN_y5fFKiv8VqEaeUWVFPQw3k9w-ALXwlnJ3cRwD8k_NTp_tgjDogKiQcH1zdn-sFctipkVU-M_92kyxAl8Ipmv0OCQ5A_e3RydQORw9dBTXbuH3kGWqb1ii1DkuXEWn0V2aMoP01aevigGNMZK1zas4ijYBKwZiEaJehEubGOBBEKsj7LxICjqYy3ZOvCA6ZI78s6akx4YofkMvBnfA6HxMbhY17gmgSBGwimlp_p8l8LKBDeT45_-UHWUD76OGZTtwU4Rg"
+      },
+      {
+        "url": "https://t.me/Irna_en/42417",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mHlxPwzTe8WJnV7DOsMnk_vaw3DHX9wUJCPesO3FWuVFttDyczm7ka2HZeYXH_CT6mkH07yWS-mcm4bN_y5fFKiv8VqEaeUWVFPQw3k9w-ALXwlnJ3cRwD8k_NTp_tgjDogKiQcH1zdn-sFctipkVU-M_92kyxAl8Ipmv0OCQ5A_e3RydQORw9dBTXbuH3kGWqb1ii1DkuXEWn0V2aMoP01aevigGNMZK1zas4ijYBKwZiEaJehEubGOBBEKsj7LxICjqYy3ZOvCA6ZI78s6akx4YofkMvBnfA6HxMbhY17gmgSBGwimlp_p8l8LKBDeT45_-UHWUD76OGZTtwU4Rg"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795721554999,
+    "type": "airstrike",
+    "location": "Shiraz",
+    "coordinates": [
+      29.5918,
+      52.5837
+    ],
+    "date": "2026-11-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Aerial footage shows the funeral procession of Grand Ayatollah Vahid Khorasani taking place along Ayatollah Shirazi Street in Mashhad.📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://t.me/Irna_en/42418",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/ODCbwrcrjMxc2KDZ0IcLrtVKEcYldeoP1jC7DCACOJeo557cG4oX7ZM0jAFD2ypNpShOq4NQYYqMgkGYT2ozICXekhhLS34M45tqCnwXCqRxwQCkd2_rTpAZARxktFBgi_dn_XrlYoaSqI3y-amxwYBl2I3IYMsEpBZd30VwoBlsMACsJreAOY_HS-o2WgpHkEhV2beZf26beu2jyuErXgng8VvE0JDEOVIQlL0NEjzdaLrsd1T73izYfW1lw9fVWZw3ccS_b-4bvJRA0sHWk2abCx1i9FOhYpIjyqRMlc13YKXyOCP-_tWwRTs1YeqHNMV-lqXdSD6itog6SM8XxA"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1795144011545,
     "type": "intercept",
     "location": "Sanaa",
@@ -242513,6 +242590,26 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🖥 Araghchi to Barrot: Before lecturing Iran, ensure Iranians’ freedom of expression in France📌 Tehran, IRNA — Foreign Minister Abbas Araghchi has criticized France’s top diplomat over his post on X concerning the rights and freedom of expression of Iranians, saying Jean-Noël Barrot’s words expose ...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795721564743,
+    "type": "missile",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-25",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:Saudi warplanes carried out 109 airstrikes and missile attacks over the past 24 hours, targeting civilian sites in the capital, Sana’a, and the governorates of Al-Jawf, Taiz, Amran, Hajjah, Saada, Hudaydah, Lahj, Al-Bayda an...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/bKcn4fyGn_sMGjNnjLZTR5P-U04zz6SzV26gkfB5zlZlHML8s_YWX8mKROu8qi3rEAjYWy3H9vOFg6nVCsSjxwAOrRI4LcYl_Uo4vVaEcg5gMQry66L3haU0jEwBZ3DvhWu9LV5UQFt9IQ-xu8PmD3QIqQANtUOQIoUyIG-cGNOdbabmFApXuA-X-ETgBIUKo43srsFFIZXEP-gH3zcKj-XKNbGsyDgDSSWVRYr4uEdwxSUjU_y7H13TDRo5AdriiCHx3gmwUc1b2GkaGC9luesKb7XNcNhdzm2WejUb9nBClD1AeG8gtW5WV2d6iyUet82-qhHDu-Z18Tsx84EG-g.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {

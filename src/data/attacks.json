@@ -184641,6 +184641,70 @@
     ]
   },
   {
+    "id": 491631461,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-19",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Minab: Envoy Iran faced military campaign intensified",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Envoy: Iran faced military campaign, intensified economic pressure and incitement of unrest last year📌 New York, IRNA — Iran’s Ambassador and Chargé d’Affaires to the United Nations, Gholamhossein Darzi, says over last year, the Islamic Republic of Iran has faced a coordinated campaign involving military attacks, attempts to incite domestic unrest and exploit it for specific objectives, the imposition of unilateral coercive measures, and intensified economic pressure.Ambassador Darzi made th",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491636595,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-19",
+    "time": "TBD",
+    "title": "Unknown Missile Strike — Minab: Childhood right casualty Iranian Embassy London",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 ‘Childhood is a right, not a casualty of war’: Iranian Embassy in London📌 London, IRNA – The Embassy of the Islamic Republic of Iran in London has paid tribute to children killed in military attacks in Minab and Lamerd and highlighted the suffering of children in Gaza, stressing that childhood is a fundamental right that must not become a casualty of war.In a post on its X account marking World Children’s Day on Thursday, the embassy paid tribute to the girls of Minab, “whose lives were cut ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490882655,
     "type": "intercept",
     "status": "confirmed",
