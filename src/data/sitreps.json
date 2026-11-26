@@ -242230,6 +242230,26 @@
     "verified": false
   },
   {
+    "id": 1795685503506,
+    "type": "airstrike",
+    "location": "Syria",
+    "coordinates": [
+      34.8,
+      39
+    ],
+    "date": "2026-11-25",
+    "source": "CENTCOM",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇸🇾🇺🇸 The new regime in Syria can finally breathe easy — CENTCOM named them partners. The ISIS/daesh issue is clearly not the primary one for the US😆 Subscribe",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/E5t6grrjdlAgjEoi_Cu5EbBXrVGSBnzkxhiXGROUGA_0XjCUtdPC8EUse0jW_dRSnkU7mx2tJHCMmtvcAPh4N7BKkvUEQZVIQUZaJCn6fM989VRG2-mun9E-MMzBDJrTtraJ0h42HKGwJU6g8Lnu-tEdNWGRtFA-6BH2FOtyyyVmBkhMQumNcBs3XBCz8Te-H2MwjFQ0ToZgYc7iJmvsk2jvgpcZqEmtUKCcPuV2ebyngZbh_sHugYMc_l_wIE1etl19izPoiWwAedLFrUUDXYpEl6DMiis2Ji6wea3WGynMQ9GUYfN6dxhyzW85MDvE6q44Lsvjlfaj7OumN7mtTw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
