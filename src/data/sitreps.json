@@ -239412,6 +239412,10 @@
       {
         "url": "https://cdn4.telesco.pe/file/WYuR9aJwwBCFGdIgkO3FwNm8gvXylClQiCL-FE_lKywlPRrqta-OuS3MLXMnprN_82aiz2u4_aKQgI15eranp03pYPpguYAhHchOmO0XiD3c4w5bikledr4BrYnJzyX4jgo0VTeeAKuNc4MwTsYA7-bBNLbiM2Bv1EHrs37g8HoMOrvQBv5Z6cNX32tjujYZLjBfwLaEgnCZUZg_wxPPhYxTW_5HYV-4KLtW4JAb0czPA4wlVoU9ixxGaM_1cs7EuW_BCOSAztN_8TJIqs0S-ppAD5gDSuhs2yPGcRjR7CqfQe8Eq1MivBLyBCCkMcVi7HW_ri8tEPMqSonw4n8LRg.jpg",
         "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/TrfTrWqCC3QcyxH1jAsjcJyzC48s01uez-gXyPJzirkaKfRvIPqgZi7XothLlQi7LAU2BbDi_ftB1-DI7d1IH1Oja3DLvgM06vj9TBmokyn7s1a3CW5uSWgiL_NBw1m1g5fp30Kcx6I1CELKRUw9HjV_SzHdCeQu3tA7jy13DaJ0e1n9df6mUbgpAO6qT8J_GUecS6iTn8eDQLPP09Pr3fIYXbDigeFE0QXc7BJMesEqy0SbRgw4KEcpTLDcHkIksJh_iYiRjscQnyuU9TpmcOBb-zoH6HA8Tcf5SyS-1DO00rVcrug9MiyDHCz0FCZiOb8ZHTknyNaCxSegl5RvUQ.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -239458,6 +239462,21 @@
     "source": "Telegram (mmirlb)",
     "sourceUrl": "https://t.me/s/mmirlb",
     "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi:The public must know all of this: the “Israeli” army’s aircraft and helicopters, its navy’s ships, its tanks, and its armored personnel carriers have all been worn down.There are battalions that advanced into Lebanon, and their fighters were forced...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795764907312,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-18",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah the Almighty says: “So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.” Allah Almighty is Truthful As part of the response to th...",
     "media": [],
     "verified": false
   },
@@ -239783,6 +239802,67 @@
         "url": "https://t.me/Irna_en/42418",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/ODCbwrcrjMxc2KDZ0IcLrtVKEcYldeoP1jC7DCACOJeo557cG4oX7ZM0jAFD2ypNpShOq4NQYYqMgkGYT2ozICXekhhLS34M45tqCnwXCqRxwQCkd2_rTpAZARxktFBgi_dn_XrlYoaSqI3y-amxwYBl2I3IYMsEpBZd30VwoBlsMACsJreAOY_HS-o2WgpHkEhV2beZf26beu2jyuErXgng8VvE0JDEOVIQlL0NEjzdaLrsd1T73izYfW1lw9fVWZw3ccS_b-4bvJRA0sHWk2abCx1i9FOhYpIjyqRMlc13YKXyOCP-_tWwRTs1YeqHNMV-lqXdSD6itog6SM8XxA"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795764911815,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-19",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795764872233,
+    "type": "drone",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces' spokesperson | Brig. Gen. Yahya Saree: Yemen’s Armed Forces announced that, with the help of Allah, they successfully targeted King Khalid International Airport and the Financial Centre in the Saudi capital, Riyadh, with a large number of cruise missiles, achieving a...",
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Fat1sHrAqs9UGDfLUL7HXMZ6blAu6ID8q_9EZSj81DrTErKfENfd3CEC2R6p7pCngnn-f_9xKhyelrbQSnoO95rapFBE5xCgW9eAqoxMwJAlV4bdn1sDJ51WQ6Avmg5p8eh9zXLlBygrfXOojQkd1nxStr-ccmzUm-ALggRMyOjhqUOrxg2exA9OK6VBEn_CcIDv5-XVPp6vY5hoyR4FzIIfPqe_Cug2SXtOdO8l-yi0XuKHZbjjRjrwXwgDlGCeQySW0SRCBYjs7O4Cu_qdaJRqvrtlwWQZABbfZ7j0vKyb2rU7_mpAia9902kv70jmyiqlEo5EeOkHLyMlVHruUw.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795764900831,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-11-19",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇾🇪 | Three civilians, including a child, were martyred, and five others, including a woman and two children, were injured in an initial casualty toll following Saudi airstrikes targeting two houses and a mosque in Al-Talahi village, Al-Sabrah district, Ibb Governorate.▪️@enemywatch",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/2b373bc92b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KWy6R7Is2Nk8WnsZHXf1yczNhZKMe-zbqOqSp5RNXubYtn7xz25uyiAHQNGdDi4WCXmxxdEkvM2ynODKH3G-EZPptuDZ6GK272Ag3cdZ54xMkE2aH5H7hzGnjwTY121Ti6dpIBfPkwtdSk7s9IpJKb8fzSVf14GYD_fbhHeRZ07Q45_Tcz4n6oUU9L3xtpltK7bDJFUXWg59DQfycECOfYCluCN1VFM1RP4w5mmzLi_mGZQaAB87-mXWqI9cGWA5ELYl0ZmoMLgD4HahoUhDfbBK3UTX3GzWT58SbdPR5ZJL7npYOYxf5cVZ10o_3YOK8fF2ry7aQTyvwhIONCgzRw"
+      },
+      {
+        "url": "https://t.me/enemywatch/64827",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/KWy6R7Is2Nk8WnsZHXf1yczNhZKMe-zbqOqSp5RNXubYtn7xz25uyiAHQNGdDi4WCXmxxdEkvM2ynODKH3G-EZPptuDZ6GK272Ag3cdZ54xMkE2aH5H7hzGnjwTY121Ti6dpIBfPkwtdSk7s9IpJKb8fzSVf14GYD_fbhHeRZ07Q45_Tcz4n6oUU9L3xtpltK7bDJFUXWg59DQfycECOfYCluCN1VFM1RP4w5mmzLi_mGZQaAB87-mXWqI9cGWA5ELYl0ZmoMLgD4HahoUhDfbBK3UTX3GzWT58SbdPR5ZJL7npYOYxf5cVZ10o_3YOK8fF2ry7aQTyvwhIONCgzRw"
       }
     ],
     "verified": false
@@ -242613,6 +242693,56 @@
     "verified": false
   },
   {
+    "id": 1795764939214,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📄 Iran ready for joint probe into Kuwait attack: Araghchi📌 Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi has firmly rejected allegations that Iran was involved in a drone attack in Kuwait and expressed Tehran’s readiness to conduct a joint investigation with Kuwait and Italy to establish ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795764888249,
+    "type": "drone",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iran’s Italy embassy warns against efforts to draw Europe into regional crisis following Kuwait attack📌 Tehran, IRNA – Iran’s embassy in Rome has rejected allegations that Iran was responsible for a drone attack on a military facility in Kuwait that killed two Italian nationals, warning against ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795764858776,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran neither forgives nor forgets Minab massacre📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/diRVeiOPy3dTXiLGPmome8pUctRM6EjoV3Te3-2ydSuRJ7sWs9gvVsZFmXgn6z5gm8-glkCowQ5L0RsFWf_Kw77LJdWTa3powcbj8iUU2C7dE2pb8STxuAKvmArPc3ItJRWPpM07qUCFOPEvl3REaRbLRI4zQhXYIw2TSEdUlU1-A9OUaErQpTzgHz-zG29S7JwPs5fp7PyJKTZlx096rXmKc9LueMLY50mBYVJlO8tHhJW57s1ogWM8ykn9BQeIiywnXRASXwwMXKZ0pOv06IuSOOSF9ziI1EUVy1CsWRLObvOJkxVILiLJpbk8GXuvoUQfkk5Ij9n8Aexvuf3j3w.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1795750440718,
     "type": "intercept",
     "location": "Tehran",
@@ -242624,6 +242754,21 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "🟡 Current Updates: November 26-27, 2026🇾🇪 YemenSaudi airstrikes targeted Sanaa and Hodeidah. In Hodeidah, several Saudi airstrikes struck the sewage treatment station in Al-Mina district, destroying the facility and putting it out of service. The station served the densely populated district.Saud...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795764880419,
+    "type": "airstrike",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "date": "2026-11-26",
+    "source": "Saudi Arabia",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Saudi massacres of Yemenis have intensified. Today, Saudi warplanes bombed a gathering of children, while reports of further massacres emerged yesterday. Eleven civilians, most of them children, were killed in a Saudi-led airstrike targeting a residential building in the city of Al-Turbah, south o...",
     "media": [],
     "verified": false
   },
