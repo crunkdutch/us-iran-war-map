@@ -239868,6 +239868,36 @@
     "verified": false
   },
   {
+    "id": 1795779359019,
+    "type": "naval",
+    "location": "Lebanon",
+    "coordinates": [
+      33.9,
+      35.5
+    ],
+    "date": "2026-11-19",
+    "source": "Telegram (mmirlb)",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi:The public must know all of this: the “Israeli” army’s aircraft and helicopters, its navy’s ships, its tanks, and its armored personnel carriers have all been worn down.There are battalions that advanced into Lebanon, and their fighters were forced...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795779327089,
+    "type": "airstrike",
+    "location": "Riyadh",
+    "coordinates": [
+      24.7136,
+      46.6753
+    ],
+    "date": "2026-11-19",
+    "source": "Ansar Allah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Statement Issued by the Yemeni Armed ForcesIn the Name of Allah, the Most Gracious, the Most MercifulAllah the Almighty says: “So whoever transgresses against you, then transgress against him in the same manner as he transgressed against you.” Allah Almighty is Truthful As part of the response to th...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795144011545,
     "type": "intercept",
     "location": "Sanaa",
@@ -242769,6 +242799,36 @@
     "source": "Saudi Arabia",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "— Saudi massacres of Yemenis have intensified. Today, Saudi warplanes bombed a gathering of children, while reports of further massacres emerged yesterday. Eleven civilians, most of them children, were killed in a Saudi-led airstrike targeting a residential building in the city of Al-Turbah, south o...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795779382328,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-26",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iranian Navy ready to deliver decisive response to any threat: Top commander📌 Tehran, IRNA – Chief of Staff of the Iranian Armed Forces Major General Ali Abdollahi says the Army’s Navy is fully prepared to deliver a decisive, effective and deterrent response to any enemy threat or aggression.In ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795779356272,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🎙 Iranian navy commander says maritime conflict has extended to oceans📌 Tehran, IRNA – Iranian Navy Commander Rear Admiral Shahram Irani says the conflict at sea has expanded into the oceans, noting that Iranian forces have prevented adversaries from entering the country’s territorial and nearby w...",
     "media": [],
     "verified": false
   },

@@ -184849,6 +184849,38 @@
     ]
   },
   {
+    "id": 491682846,
+    "type": "rocket",
+    "status": "confirmed",
+    "date": "2026-11-19",
+    "time": "TBD",
+    "title": "Unknown Rocket Attack — Israel: Enemy_MediaMaariv Hebrew newspaper AshkenaziEven Israel Unit...",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      34.8
+    ],
+    "sources": [
+      {
+        "name": "Telegram (mmirlb)",
+        "url": "https://t.me/s/mmirlb",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "#Enemy_MediaMaariv Hebrew newspaper – Avi Ashkenazi:Even if “Israel” and the United States resort to a third, fourth, or fifth round, it is impossible to defeat the Iranian regime through airstrikes. It is impossible to destroy the nuclear program buried deep underground through aerial bombardment. It can be disrupted, pressured, harassed, and slowed down, but that is all that military force can achieve in this case.#Military_Media",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490882655,
     "type": "intercept",
     "status": "confirmed",
@@ -188417,6 +188449,38 @@
         "thumbnail": "https://cdn5.telesco.pe/file/PGZu3ptynMGxYhe-oTyOSl9NNluePkb4VCMRVd3Zv0DJJgs9DPMWXQ5laV76nzvXRH39QzpSsRS4A8gqK3pkxP8dsBQJLxagxqvcsbfHLr0IDPezqFhUuiYUkCS9jmqKx1g-yT08q4QpGNiXLbN8Ydzrau9slfdZ93vd8js4zajOcNS2xKVf3t8J_CjXa-J-GGML7VzcgN6X8CUygomolVjp9wNzzQZdoZghVvfAVjtddAUDVviQH8bGIXJMuUghS5ySSvA-2-dQq6ECKxdRe5YFOTMI-FufXm55yaYAemigvkEIepONhfq22SvONWkT3-5rLKnNGK-fojy2kQMwlg"
       }
     ]
+  },
+  {
+    "id": 491677703,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-26",
+    "time": "TBD",
+    "title": "Iranian Army (Artesh) Missile Strike — Tehran, Strait of Hormuz: Iranian navy commander says maritime conflict",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Iranian Army (Artesh)",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Iranian navy commander says maritime conflict has extended to oceans📌 Tehran, IRNA – Iranian Navy Commander Rear Admiral Shahram Irani says the conflict at sea has expanded into the oceans, noting that Iranian forces have prevented adversaries from entering the country’s territorial and nearby waters.Speaking before Friday prayers sermons in Tehran, Irani said the Strait of Hormuz remained closed and opposing forces had failed to send a vessel through despite deploying their available capabi",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
   },
   {
     "id": 480276116,
