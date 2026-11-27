@@ -242291,6 +242291,21 @@
     "verified": false
   },
   {
+    "id": 1795793835662,
+    "type": "airstrike",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "date": "2026-11-24",
+    "source": "Hezbollah",
+    "sourceUrl": "https://t.me/s/mmirlb",
+    "description": "Message from Hezbollah Secretary-General His Eminence Sheikh Naim Qassem, Hujjat Al-Islam wal-Muslimin, to the Mobilization Youth:In the Name of Allah, the Most Gracious, the Most MercifulMobilization Day, on November 26, marks the launch of an organized effort to channel the energies of the people ...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795541067672,
     "type": "airstrike",
     "location": "Lebanon",
@@ -242856,6 +242871,21 @@
         "thumbnail": "https://cdn4.telesco.pe/file/YXeX3u8wndKDa03SIFPj_hpmL2IKUjSNI8tzTHM0Kt-uOYw29o3qDxKLU14zmmlMjuAVgb2qm1s1JtHqlOAKSXnc3WrTHw_afWneHiQg4ULd11PNS1HRGyk23JIsVfI0UgwwX_L6EMK03qmmmk2Z1244_hujJ-OstV2TqkOiRvYW74LfxQYoIeejynLpZoTBjtGz72PHAftbAZXG-dNqj6yiZrEySXoL_GhWLUdRS90_bHctdkxFMhE5efpIr9Gr0bwMh9k4Kb-wjdW4tFC3SQRH5v42iAoUnuwJngdo6qx7GgBII9n7nUKbm1u_8MuTxeJihBdAXwbTaFrk-01Xwg"
       }
     ],
+    "verified": false
+  },
+  {
+    "id": 1795793792381,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 Iranian tennis player withdraws from match against Israeli opponent📌 Tehran, IRNA — Ali Yazdani, an Iranian tennis player, withdrew from the men’s doubles quarterfinals of the ITF World Tennis Tour in Antalya, Türkiye, to avoid playing an opponent from the Israeli regime.Yazdani, who partnered w...",
+    "media": [],
     "verified": false
   },
   {

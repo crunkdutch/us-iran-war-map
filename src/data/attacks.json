@@ -187807,6 +187807,38 @@
     "media": []
   },
   {
+    "id": 491693135,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-24",
+    "time": "TBD",
+    "title": "Hezbollah Airstrike — Gilan, Lebanon, Israel: Message from Hezbollah SecretaryGeneral Eminence Sheikh",
+    "location": "Gilan, Lebanon, Israel",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Hezbollah",
+        "url": "https://t.me/s/mmirlb",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "Message from Hezbollah Secretary-General His Eminence Sheikh Naim Qassem, Hujjat Al-Islam wal-Muslimin, to the Mobilization Youth:In the Name of Allah, the Most Gracious, the Most MercifulMobilization Day, on November 26, marks the launch of an organized effort to channel the energies of the people – their youth, men, women, and young generations – from their various practical roles in society. They are the ones who contribute to the arenas of jihad and societal advancement, volunteering to sacr",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491462600,
     "type": "airstrike",
     "status": "confirmed",
