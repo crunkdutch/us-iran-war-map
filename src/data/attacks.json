@@ -188596,6 +188596,75 @@
     "media": []
   },
   {
+    "id": 491703428,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-26",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Breaking IRGC targeted violating tanker Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔻 ❌ 🚢🚢 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/JR7mQvmQLywo6fOMS7SPvJXgfuLgTNAudq4n12UActvRJLTp9OzkOcoYFbdEkAZ5vkXV2yW2bkkQEnWgoeW16g0qUM_a7wdEMRCfawnmF25jlX1h_BDkS4vpPF1iZk2pjqjA1768c2ecSSOKFj9mXwmXTMHxettio6I9o3IxYTJdXbJ3Z5xzkuuH18-K1_kHo-EtzU5bhGWSUBngSB6uc5fL_EwhQJFLV6K_6x_Xp82aAGkYUt78aIscATYsR2X3LEMqKmvk6gQTYaPpHzfMZCJYY7NXBUmp1L8JtNNzX6ycVVY891thWPPr2wwVPcWwn7L4vHiPZPF3-mgUsOCjnQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
+    "id": 491708576,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-26",
+    "time": "TBD",
+    "title": "Unknown Naval Operation — Gilan: pressure exerted Iran through external trade",
+    "location": "Gilan",
+    "coordinates": [
+      37.3,
+      49.6
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "— The pressure exerted on Iran through the external trade blockade is now being compounded by rising market prices and inflation. However, the internal market situation is also being deliberately manipulated by certain Iranian government officials and their affiliated mafia.This is the real issue that demands urgent attention. There are growing concerns that a market mafia, operating through its networks and connections within the system, is deliberately allowing, or even engineering, the prices",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
