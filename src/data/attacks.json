@@ -188483,6 +188483,38 @@
     "media": []
   },
   {
+    "id": 491687990,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-26",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz: tanker hits mine south Strait Hormuz",
+    "location": "Tehran, Strait of Hormuz",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🎙 Oil tanker hits mine in south of Strait of Hormuz📌 Tehran, IRNA — An oil tanker struck a naval mine and exploded north of Jazirat Umm al Ghanam (Ghanam Island) in the Strait of Hormuz, the Islamic Revolution Guard Corps (IRGC) Navy says.According to an IRGC statement issued on Friday morning, two oil tankers were attempting a covert passage through an unauthorized route north of Jazirat Umm al Ghanam in the Strait of Hormuz, when one of them struck a naval mine and exploded. “The other tanke",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",

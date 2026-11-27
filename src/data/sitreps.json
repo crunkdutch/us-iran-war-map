@@ -242833,6 +242833,32 @@
     "verified": false
   },
   {
+    "id": 1795786591744,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Iranian Revolutionary Guards: This morning, two oil tankers attempted to secretly pass to the north of Gonom Island via an illegal route in the Strait of Hormuz. One of the tankers exploded after colliding with naval mines. The other tanker accompanying it was forced to turn back. 🔻@enemywat...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/4900f11c45.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YXeX3u8wndKDa03SIFPj_hpmL2IKUjSNI8tzTHM0Kt-uOYw29o3qDxKLU14zmmlMjuAVgb2qm1s1JtHqlOAKSXnc3WrTHw_afWneHiQg4ULd11PNS1HRGyk23JIsVfI0UgwwX_L6EMK03qmmmk2Z1244_hujJ-OstV2TqkOiRvYW74LfxQYoIeejynLpZoTBjtGz72PHAftbAZXG-dNqj6yiZrEySXoL_GhWLUdRS90_bHctdkxFMhE5efpIr9Gr0bwMh9k4Kb-wjdW4tFC3SQRH5v42iAoUnuwJngdo6qx7GgBII9n7nUKbm1u_8MuTxeJihBdAXwbTaFrk-01Xwg"
+      },
+      {
+        "url": "https://t.me/enemywatch/65105",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/YXeX3u8wndKDa03SIFPj_hpmL2IKUjSNI8tzTHM0Kt-uOYw29o3qDxKLU14zmmlMjuAVgb2qm1s1JtHqlOAKSXnc3WrTHw_afWneHiQg4ULd11PNS1HRGyk23JIsVfI0UgwwX_L6EMK03qmmmk2Z1244_hujJ-OstV2TqkOiRvYW74LfxQYoIeejynLpZoTBjtGz72PHAftbAZXG-dNqj6yiZrEySXoL_GhWLUdRS90_bHctdkxFMhE5efpIr9Gr0bwMh9k4Kb-wjdW4tFC3SQRH5v42iAoUnuwJngdo6qx7GgBII9n7nUKbm1u_8MuTxeJihBdAXwbTaFrk-01Xwg"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
