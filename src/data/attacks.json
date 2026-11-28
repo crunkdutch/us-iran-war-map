@@ -189069,6 +189069,43 @@
     "media": []
   },
   {
+    "id": 491770430,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-27",
+    "time": "TBD",
+    "title": "Ansar Allah Drone Strike — Yemen: Yemeni Armed Forces spokesperson Brigadier General",
+    "location": "Yemen",
+    "coordinates": [
+      15.5,
+      47.5
+    ],
+    "sources": [
+      {
+        "name": "Ansar Allah",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇾🇪 🇾🇪 | Yemeni Armed Forces spokesperson, Brigadier General Yahya Saree:Our armed forces, with the help of Allah, successfully shot down a Saudi ScanEagle reconnaissance drone while it was conducting hostile operations off the coast of Jizan, using an appropriate weapon.This brings the total number of ScanEagle drones shot down since the beginning of the escalation to eight.❤ @enemywatch🔻🇵🇸",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/Tm0C_E2ivq3lWNW5nbFUcZO4mNyZwcriySATYW92ovWmklcsrFxJ_pUJkykTniWOZJySPpV5ieGePja4ZQXF6MrZ9NcjeOVMZ9Yzi_zSQaGAH_Z5CvaX3lofu2lvGTQOkdU3GnfEvqJqLYjNDfPwZjXmM6z7Xjej40r-ZNIp52Z69dr3LJj72LYqbscitYVcIvgWNZClN0VSZFIaVWBuPKZ6hZzlCcnq4M9q-QpBQpCAQUh6-i4Y5Jh4sH5B8pnaxcnQAr5PVn5lD7UgTZohHMwshz6qkJnVG9oj5_lmVt7ujrvH3fzaP38wY_EcDRb_S7-TuSMsQ2yxHxR4IfjzJQ.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 491765270,
     "type": "drone",
     "status": "confirmed",
