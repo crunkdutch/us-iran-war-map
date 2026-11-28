@@ -186276,6 +186276,49 @@
     "media": []
   },
   {
+    "id": 491729178,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Airstrike — Strait of Hormuz: Breaking IRGC targeted violating tanker Strait",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/40d193a507.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lO-nIj-VKnQDDX7rkfsWVbG-cU4rWoOdMHwyZC_BmxHZbVSdz-upZzd2Rl4WP7qP7WzBv_0S-EgEUePBDnR_Z_Oi8OwB40I0hBm2jHQNeKMUxMkQMdiQdEF0-ClTohwPYLxK028_-IdFEDeFq5zyTOH6l9m7Aj0aY7D3xzt9eTHRCLutl_2HPq_Bt-KLJsSKE_bgh3WWeiYOzChNHqYaUwoggyPuQrVHsH_s6S4OM3B9i6jM6WwI3iurP9PB5ZCyL3KNXVCcvYKSe5Op09dpzm1kROFkHjAbVLaP7BLRqhIctIrrzWXNPXjOcMBKpxedr0f8XRU3VySe8MkqQvfeSg"
+      },
+      {
+        "url": "https://t.me/enemywatch/64905",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/lO-nIj-VKnQDDX7rkfsWVbG-cU4rWoOdMHwyZC_BmxHZbVSdz-upZzd2Rl4WP7qP7WzBv_0S-EgEUePBDnR_Z_Oi8OwB40I0hBm2jHQNeKMUxMkQMdiQdEF0-ClTohwPYLxK028_-IdFEDeFq5zyTOH6l9m7Aj0aY7D3xzt9eTHRCLutl_2HPq_Bt-KLJsSKE_bgh3WWeiYOzChNHqYaUwoggyPuQrVHsH_s6S4OM3B9i6jM6WwI3iurP9PB5ZCyL3KNXVCcvYKSe5Op09dpzm1kROFkHjAbVLaP7BLRqhIctIrrzWXNPXjOcMBKpxedr0f8XRU3VySe8MkqQvfeSg"
+      }
+    ]
+  },
+  {
     "id": 491158370,
     "type": "airstrike",
     "status": "confirmed",
@@ -188772,6 +188815,70 @@
       "other": 0
     },
     "description": "🟡 Current Updates: November 27-28, 2026🇾🇪 YemenSaudi airstrikes continued across Yemen. Twelve airstrikes targeted Sahar district in Saada Governorate. Saudi aircraft also struck areas recently brought under the control of Yemeni forces in Taiz Governorate. In Al-Bayda, a series of airstrikes targeted communication networks in Al-Sawma’ah and Mukayras districts and rural areas of the governorate. In Taiz, a Saudi airstrike hit the home of Issam Saleh Rageh Muqbil in Wadi Al-Dabab, Sabr Al-Maw",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491734331,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-27",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Tehran: Iran launches natural industry projects with",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🔊 Iran launches 10 natural gas industry projects with &#036;350m investment📌 Tehran, IRNA — Iran has commissioned 10 natural gas industry projects under five development plans, backed by &#036;350 million in investment, to increase daily production capacity by 32 million cubic meters of sweet gas.President Masoud Pezeshkian on Saturday ordered the projects to be put into operation via videoconference, in the presence of Oil Minister Hamid Bovard.​The projects include the rehabilitation of dama",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491739485,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-27",
+    "time": "TBD",
+    "title": "IDF/Israel Naval Operation — Tehran, Gilan, Strait of Hormuz: Army IRGC naval forces ready confront",
+    "location": "Tehran, Gilan, Strait of Hormuz, Persian Gulf, Oman, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Army, IRGC naval forces ready to confront any aggression: IRGC chief📌 Tehran, IRNA — Commander-in-Chief of the Islamic Revolution Guards Corps (IRGC) Major General Ahmad Vahidi has asserted that the naval forces of Iran’s Army and the IRGC are fully prepared to respond decisively to any aggression against the country’s national security, vital interests, and maritime sovereignty.In a message issued on Sunday to mark Navy Day, Vahidi said the two forces are prepared to “decisively play their ",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []

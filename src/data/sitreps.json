@@ -240972,6 +240972,36 @@
     "verified": false
   },
   {
+    "id": 1795858750244,
+    "type": "airstrike",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — The IRGC has targeted a violating tanker in the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795858795616,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iranians will never forget Minab school tragedy: Iran’s UN mission📌 New York, IRNA — The Permanent Mission of the Islamic Republic of Iran to the United Nations has stressed that Tehran will never forget the killing of 168 students and teachers in a missile attack on a school in the southern Ira...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795338887031,
     "type": "airstrike",
     "location": "Tabriz",
@@ -243087,6 +243117,36 @@
     "source": "Iranian Army (Artesh)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "💬 Iranian Navy chief says wartime blockade signals adversary’s failure📌 Tehran, IRNA — Iran’s Navy commander, Rear Admiral Shahram Irani, says a maritime blockade imposed during the war signals that the opposing side has failed to achieve its objectives, adding that Iran will face no geographical ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795858815427,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 Iran launches 10 natural gas industry projects with &#036;350m investment📌 Tehran, IRNA — Iran has commissioned 10 natural gas industry projects under five development plans, backed by &#036;350 million in investment, to increase daily production capacity by 32 million cubic meters of sweet gas....",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795858752247,
+    "type": "naval",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🔊 US aggression on Iran bankrupts another European airline📌 Tehran, IRNA — The sharp increase in fuel costs resulting from US and Israeli regime war of aggression against Iran has driven Norwegian airline Atlantic Airways into bankruptcy proceedings.Budget carrier Norse Atlantic (NORSE.OL) said on...",
     "media": [],
     "verified": false
   },
