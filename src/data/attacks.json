@@ -186351,6 +186351,81 @@
     ]
   },
   {
+    "id": 491749796,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Strait of Hormuz: Public Relations Department Islamic Revolutionary Guard",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 35
+    },
+    "description": "🇮🇷 ❌ 🌟 | Public Relations Department of the Islamic Revolutionary Guard Corps (IRGC): • According to operational reports received, the American military attempted last night to facilitate the passage of tankers and the unauthorized transfer of cargo and smuggled fuel through the Strait of Hormuz, deploying extensive aerial support, including refueling aircraft, F-16, F/A-18 and F-35 fighter jets, P-8 Poseidon maritime patrol aircraft, several helicopters, and MQ-series drones.• During these m",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/33fdcd4a76.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mG3elY6WrdGyedi71ROIDTY30Mzn_TF2JfHwQbOguE7VqgvOqTkySaG4iKRT3lkB9sDp07MHpt949-oxZQ_FI4_nDjXUbTsxl07eV-mpo6xjcUmqzN-5m5ryCw-ZOCS93yc6uGh77tIpjmjn3DUJnm4ISNeK3xkxMkbz__rz_FPs-Q0mVKu02U8vsEXAdQUpoctgVIQ27mtaVgKlF8LD-lft1pcsk7c5zSM6Fq8ZAIsvRNr83Fli8kASPzvlgzTQqLnDa9AL5XlDjBkgaqgUPVN3UF4VvUTjikaO4IAShVHzOgfwLkW9EuOq-lhJR1oRrWrAHE_5DU3VPjHjbkqLQQ"
+      },
+      {
+        "url": "https://t.me/enemywatch/64939",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/mG3elY6WrdGyedi71ROIDTY30Mzn_TF2JfHwQbOguE7VqgvOqTkySaG4iKRT3lkB9sDp07MHpt949-oxZQ_FI4_nDjXUbTsxl07eV-mpo6xjcUmqzN-5m5ryCw-ZOCS93yc6uGh77tIpjmjn3DUJnm4ISNeK3xkxMkbz__rz_FPs-Q0mVKu02U8vsEXAdQUpoctgVIQ27mtaVgKlF8LD-lft1pcsk7c5zSM6Fq8ZAIsvRNr83Fli8kASPzvlgzTQqLnDa9AL5XlDjBkgaqgUPVN3UF4VvUTjikaO4IAShVHzOgfwLkW9EuOq-lhJR1oRrWrAHE_5DU3VPjHjbkqLQQ"
+      }
+    ]
+  },
+  {
+    "id": 491754953,
+    "type": "intercept",
+    "status": "confirmed",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Interception — Sirik: IRGCCommander Faithful Imam AReturn stone place",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🇮🇷 ❌ 🌟 | IRGC:Commander of the Faithful, Imam Ali (A):\"Return the stone to the place from which it came, for evil and aggression cannot be repelled except through confrontation.” (Nahj al-Balagha, Wisdom 314)The young combatants of the IRGC Aerospace Force’s air defence units, continuing their innovative and successful defensive operations following the destruction of the 58th advanced MQ-9 reconnaissance-combat drone belonging to the aggressive American military, have now intercepted and des",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 491158370,
     "type": "airstrike",
     "status": "confirmed",
@@ -188056,7 +188131,48 @@
     "description": "🔊 Iran seeks peace but will not yield to pressure: Ambassador📌 London, IRNA – Iran’s new ambassador to Italy says Tehran is ready to resolve its disputes and tensions with Washington through diplomacy, but it will never surrender to pressure.In an interview with Corriere della Sera, Ali Akbar Rezaei said the negotiation process has not stopped, though it is progressing slowly. “We say ‘no’ to nuclear weapons and to surrender, while at the same time we support diplomacy and respect for internat",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/atB0OwY2k_IjTq4HgI4tlXiEMANGse5YEpjrLNW-G_9OB4I3O1HuZWAnwirdmJx6qnfWWNBcL6kvmZdP4FJlRmIhKCbqf8eJmDmdwiUepXLyL_lxsCAqWXclA1G38u8I_QWw9AMI-8wOoK3nNILw0OgpUSvZg8PjiLRjCcyoSJsXVpM28nxN9hGIKJdnGBBVGM3L-xmmYJ1zgv7MuBwOsQNPH1gZaur5F7dVfIa6iJeN3wzFdA9efyrj1pO4PgZ1tlj3rTLhwcucGvr0X3Al403VG3JZwqhCSOBmMnqTsmkldrv4KsPyRQdL1FLA4LtCfRQ3FE4ie7Rjx2YDjMoe-g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/va4bqFMju5MK5o26y4SB65Mc0Nlxq3l8CGWChd12SDyR5D7qVlNgZrqo0ClOPEle_bCyQKHFPCYttHSOcr69PHGs-cPU1rj5XRxvPhwm8ZC-fCvGTqjDi6aAfjamysGT-C6ODdO_MH9b2w4d8iHu_8VfRvULwNZ4PB65OTIemDLfH84qt4-RgKIW-g6hAzueneuwPaSRyifoE1kLWvOGC6LV2qjHg_p2Kwpr6_eSjjwBdg8f--b88_2zxYSV6HiaxZtUuBi7czEdz9QF0Q-VacakP2julGA_pe9lP9hxhKVTPVfuOpcvZu5B9E6e9OLpyyisVirzC0fDyP78_gfS9Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jmTzIFMr-MTUJ2hyAtuXx99jV3hnYeSMAvR1DsE7lQHx8RUcV8fmLMUnEEywHpsNyFUVHSJU0LVfhK39alI1iCyME12YFtO6g8jtq-BOSwMqBlPuULsW0nrxWDlwlfsh2wlNTv_F3M0GziH5oU9Jpa3_bVJoT1dTXx0nujHg4HiCrrz27Ru3eofvh_0cz7BSeNoYyuVALeiGVp1yPXbralMHRt1tu0bL_gUaBDQV7OPboUhGzPUK3g8nOewHokAvzRJxJoDJz47Ct5S9hxnE7vGKnim-Om229jEo_TdBq_BiEVmrwWoEvKzq3Sp8xUdGL-6tPPaVfGxc1wU-wvb6Fg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/gl1YmkMFhp43azwIJ3cLsci2mF3I7W_CzZ8QKQqwPEvF1WkprfcqVm9-KpENwQBxfOolbGpnpmhANM_i5JhVTK07A10FrH2DzIqHGMPSZAQVQtAaEJjLAnodDeNA2Cc9Ea5qQJCiSUPFoeOqaVwKCEPFiiX_Dlw2lfURJmu-VpPRNDXzH18985O28ovoYYGaD3VopqrVXx1ntkWeyhHnJngUP2JFtlt5LiRnnOJFmU3I1S2RsCAJtJANasDGzFhWLwaNb0_AL-s43JiWMR97Z3v14GfOhjUtynoiw1Zvq23jD3sVN31n_Ijlmlpm-zW_NQqtLELsF1O45phtf_VN9g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Jmn4p-yys2OSR7_LQdfLWvAm5w6c47K0uMej9XXaksQFRBwyCx9Vj-yYMaaLfMp4bPYlUyVvCkOvzlQbA0PtvMbI2C3g3c2DWu5nGGVqCb0av-AeZgHwMnTPBFkQOVt8m9VNEjOQHLjoNxd0E72gtWqBOfFnODO3deHqx9NiT9bDLI1Bw5GxG6bDnR2I7T1nm7Zowa4FOJ1w2__RArk3xxoTAcknwqi1HVtvYM4RIWFLXn6lcYA522q6q8QnDedAFm0NSITcQMggqT-H1BjcKME9X9sjkB55JzQ9oCbNlv3PmpwwioE43N25ZJw9ZkKvLv7AZNseUoEqP7W0cVL3Xg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/lC8y1LNx5sjuC3iEddF0knj4L9LsqqKSDx5GlLvF7mh3jnFMzhgb_jRx4U17UOVmgjhb3RKrtIjjM32gPILtAu4DomYs1yxGOlDpI8oqyRauvUroiZkNilQAqwejKDrEDuhdeOYIze-_YvUx19_rKf4Gg6QgiBBya_JOy2GsldAtHJwEWrfrkF1USlVTQdqIVNdz45gmjo4M8XyLl3a3Dh60JYIOuvii_onRHJpXECzmwBxps0o_QblU6agWSh18vlvrnFRCgzzZWvywVanCHCegUU8OBY7zHrHLKXIgZcBXKKGxlB6vm5oUe9kj4UxrMlfZ7y4UBoL8xqkmyG6LVg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/iRJx_yM4Y7XfcVvJ-94H_PjCP9UwS5rj21gtPbhBDMS1cLGykFpEy4e17G37uLBK9FtadjPKjF2hhwxMpAvcJTtQcK_wbmDfVowzeXENvfMZbUZpskH1DS1_iaavmcENBbBV6JwkkdR1G-OyxE_0f3i2wBZiAPYcuEQfdy761fLv2ViCeuqyEECs1Vvyl_34_ZQq9c7Gh87_xVuH8MPdfVBnlSFw79g7JOWh2cpkmntKntYnJ-S3bMaAGj6gQvXEWM01gtrJd0rH7344BBugqhFKQDkL5zDtdygIaH3CWH3ACNVIW0MGKutodAlaKc6I63oxzns1uUEUtcKzkS9QXQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/OqgqiH_txzDLD2j2BpDLne2Bq6uYPYenGf-wLeQYXhPdV0b0_EiA-JTMvx4QqCKEqz23tnA4996x1EUdqhXLZtNwNFxXfIGOXmw1w_esfkQGj50Gub9eWAQeJG4ry3BicQJd8qblH6uiLmqqLOwIwrk6rZzq-UxSliti-Qx6iHwHfsw-nxCT-qvmSTTF5uDYfogwNAHGX_uCyF2FQzDSISXKM7PTm2qlCG3eahDbnQvwZ3lm6sGG98LNpmh14LuNWXqsRQS1cf6SpHhTXjFAv4LrusRiWQawYwhnL9Dc2tFe5pFNxy1SMbxlAjdpvq897qEQnx4ngOr-IM-aORPa3A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/eN15mX7FzailpoqGj18yR68qlL140W3Vs6orf8EcQFKLaejOZjQEiI4T1CYBvZeDpbTTIQjDLO1MH_1glGtOEPo0XJuyIfXMJxOCYeCzgU7sTZblN9GgHFsQSFNSE1DoaAwr60N0vujP7Q_BGXFcGAEAaaQva8Z7iEjZydHuPOIOv97o6DiBbfk8rMO7jfvhi_EmayyI9c8vuM1GbiTZNH9llBb91oUMCrt8sfWJkfRZ-IrGRg1c4Z3F4cYCnSik6Ff-A_xYQ8x8mt8bSgDrZhPbVKehs9EjHmMbdqOW1WiXCpzfdWy8X7pLlFYDQKQrUPQrIpGaH896OaFCajS48A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hdDJSyCxZHgfCarh6wyZR6p3QJ4sdWFmh7m5e-_xg1v-RsGE6v_n-tiTbL68AcWYJ6F9netWo3sW5FYFjjqBDzd1s0Xl65XxKN8IbeSLgt-uTlcg_106NON79MrKo2aavdCNV7Vq2ohUEbmPAlKWz1pzEhwEvl_fpafFbddJ3jjEzjwH3A5DHKEINc176rCS21x8RV6PjxR_yg3TAewpIUHkXdsBrvu_BEcPHkNZLn2Jq5Zwgt6KdMTKJbf4aWXFZ_arnZW4_b_0ZPLIkrE3_KSFmhrfyWzNlFbVaRLLu1WpRWteqfYS2NY92LzJ5ZYZCHAU4Q5m4ggWUV7IeONyQQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 491539220,

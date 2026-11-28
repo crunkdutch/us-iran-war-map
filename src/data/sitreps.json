@@ -809,6 +809,21 @@
     "verified": false
   },
   {
+    "id": 1795873229843,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2020-11-28",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Iran vows to uphold legacy of nuclear scientist Fakhrizadeh on martyrdom anniversary📌 Tehran, IRNA – The Ministry of Defense and Armed Forces Logistics says honoring the martyred nuclear scientist Mohsen Fakhrizadeh means pursuing his vision for advancing Iran, promoting scientific progress, and...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1786703956374,
     "type": "airstrike",
     "location": "Jeddah",
@@ -239983,6 +239998,10 @@
         "url": "https://t.me/enemywatch/64886?single",
         "type": "video",
         "thumbnail": "https://cdn4.telesco.pe/file/F-xUiQHPPKoUhsWcD6FLkKcHeFyO7QbXmtKruT2F8h_JYBz8HH1EAYrtoO3mGxp5N7YLRFsd-OG96fZdx6RI5J0Gbhxo0PI_F96iiqZUbQbEw4KyL0HSu1be5YEbvUTovkP6l70YKW9vtSJIu0oR9f7ZmLF3be0aCQGbS7diPPFuxZBfNewmFlNjabccSy086ht04e8GRuwZeozsWSi57ZeWTXPKNU6E8fSVq6ImENcab-9pR0hxLKKvD6dT0huHpcCdj8vuFMVaCIJIN6tuL6Atf4UfMbjFvRbKeW_Tv7bO8iJY37wi7V1q9LaZqd7QElyl_SuU2rIOxIpHRlevWQ"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/d3QwXGoG4IuDyr-gJlTEX8kZ9FXZ97WBJg00Tei6C0WkXTl2mb4NZ6CwLQMZnYbmQ5FLW6pF-OxTAbJucMjwX8CpJ-KR7WVBVbgW3I9HDLRh1elr30pfyGDDWRGqqqoy6QyDJhrWch43o1UlqLJdCk1a9T__0_KsgNm5ybEHZDaMKGtFF4Y75FkmYPDf_IxgpY7AeZAsJZ0SpExxpArF9-EcDOkS2OpZoY4a8qUuPjP1p0JJO0msR8B-IozWyaKEGjxldkSegcrU5TrQWxopH3MF8KvXVmCSk3XaeIsOqNatuYfGhicKZyNchIVkUbeagTMole4Zt7-mVoX_6isnIQ.jpg",
+        "type": "photo"
       }
     ],
     "verified": false
@@ -240002,6 +240021,10 @@
     "media": [
       {
         "url": "https://cdn5.telesco.pe/file/W-X3vjG1fiZEHmRTwChaD33yRM-vlmExdCniw-R63MnWGWrbjFHpIAGG1jaX86U_A5owYz5VBxim_llIrp0sN9BCg4AvoLwpRpkhplnMEXTSsFsVoJz5AbitaJ_cim93hyYz713xUBf8n6LyrELs5SJu0Nl_aDbbTdlT51sD7QrEKAyilo1tEDzjQEB_I8hbY108WmV4GBY3ykf6G_ax_mJtZdMcB1XrE423CptY2igD7MhShZOrRcuPV3gYeqhpzd6yRtFhGYJHc8Nszm_gpya4PvPGMY66Zd7aMQWgKsf6lTiWpgh-Av5RV3uZFjtqujtiTQYJYBPgNsYEPGhigw.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn5.telesco.pe/file/YLNgMIpXdPyu21l6orNAZHxhTB8XeeHDWkaWSpqvRv62NkNNdZwPyp2b5TDUDOYgsennZFKCI5Ec884IWOnc0vFCGV3Vuz_3BdDaQZFM3oRUTuuLsr_faY8m8n3AGDdVNK-ZaGT6cdM38aU3FTJQkaib8OpMmeQsBVs6_mm2aw4CfZ7p3AdwzMl4BiVn0UeChahWgMY9feFzzHMaRdDLswzIAlO9THVWZmeGPSxiDxQ42zH36PxzGw0YPT5T2gacxtNlPiZ9fY4Sb5Vgu4l51KFy45F0hJkQ4ZV50zzFfwATAycCz2EwHGd9rt5Cd4njijNJkyTfnqzxVikcBvJ7jg.jpg",
         "type": "photo"
       }
     ],
@@ -241013,6 +241036,96 @@
     "source": "Telegram (irna_en)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "📡 Iranians will never forget Minab school tragedy: Iran’s UN mission📌 New York, IRNA — The Permanent Mission of the Islamic Republic of Iran to the United Nations has stressed that Tehran will never forget the killing of 168 students and teachers in a missile attack on a school in the southern Ira...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795873165228,
+    "type": "airstrike",
+    "location": "Taba",
+    "coordinates": [
+      29.4915,
+      34.8954
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— After 157 days, Mr. Araghchi says, “The Islamabad Memorandum of Understanding is no longer on the table and has no practical relevance.” This is called eating your own words (licking your own spit).The Islamabad agreement was fraudulent in its own ways because it came at the cost of selling Iran’s...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795873192510,
+    "type": "naval",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 | Breaking — Several Iranian oil tankers have begun sailing towards the Gulf of Oman via the Strait of Hormuz to break the blockade, while one Iranian tanker has already set course for China, challenging the blockade.🔻@enemywatch🔻+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795873217134,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Iraq under Ali al-Zaidi is increasingly pursuing a policy that amounts to betraying Iran, despite the political, security, and strategic support Tehran has provided to Iraq over the years. By targeting Iran-aligned factions, imposing restrictions on their activities, and moving closer to Washingto...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795873214081,
+    "type": "intercept",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "date": "2026-11-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🌟 | Public Relations Department of the Islamic Revolutionary Guard Corps (IRGC):Destruction of the 58th MQ-9 drone of the aggressor US army. An hour ago, the 58th MQ-9 drone of the aggressor US army was intercepted and struck in the skies over the Strait of Hormuz.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795873224899,
+    "type": "airstrike",
+    "location": "Oman",
+    "coordinates": [
+      21.5,
+      57
+    ],
+    "date": "2026-11-21",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🚢🚢 | A violating ship was targeted near the coast of Oman.🔻@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795873175351,
+    "type": "intercept",
+    "location": "Sirik",
+    "coordinates": [
+      26.5167,
+      57.1
+    ],
+    "date": "2026-11-21",
+    "source": "IRGC/Khatam al-Anbiya",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷 ❌ 🌟 | IRGC:Commander of the Faithful, Imam Ali (A):\"Return the stone to the place from which it came, for evil and aggression cannot be repelled except through confrontation.” (Nahj al-Balagha, Wisdom 314)The young combatants of the IRGC Aerospace Force’s air defence units, continuing their in...",
     "media": [],
     "verified": false
   },
@@ -242945,6 +243058,62 @@
     "verified": false
   },
   {
+    "id": 1795873240537,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-25",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "Basij volunteers renew allegiance to Leader of Islamic RevolutionA ceremony marking Basij volunteer forces’ renewed pledge of allegiance to the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Hosseini Khamenei, was held on November 25, 2026, in Tehran.https://en.irna.ir/photo/86334688/📲 ...",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/atB0OwY2k_IjTq4HgI4tlXiEMANGse5YEpjrLNW-G_9OB4I3O1HuZWAnwirdmJx6qnfWWNBcL6kvmZdP4FJlRmIhKCbqf8eJmDmdwiUepXLyL_lxsCAqWXclA1G38u8I_QWw9AMI-8wOoK3nNILw0OgpUSvZg8PjiLRjCcyoSJsXVpM28nxN9hGIKJdnGBBVGM3L-xmmYJ1zgv7MuBwOsQNPH1gZaur5F7dVfIa6iJeN3wzFdA9efyrj1pO4PgZ1tlj3rTLhwcucGvr0X3Al403VG3JZwqhCSOBmMnqTsmkldrv4KsPyRQdL1FLA4LtCfRQ3FE4ie7Rjx2YDjMoe-g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/va4bqFMju5MK5o26y4SB65Mc0Nlxq3l8CGWChd12SDyR5D7qVlNgZrqo0ClOPEle_bCyQKHFPCYttHSOcr69PHGs-cPU1rj5XRxvPhwm8ZC-fCvGTqjDi6aAfjamysGT-C6ODdO_MH9b2w4d8iHu_8VfRvULwNZ4PB65OTIemDLfH84qt4-RgKIW-g6hAzueneuwPaSRyifoE1kLWvOGC6LV2qjHg_p2Kwpr6_eSjjwBdg8f--b88_2zxYSV6HiaxZtUuBi7czEdz9QF0Q-VacakP2julGA_pe9lP9hxhKVTPVfuOpcvZu5B9E6e9OLpyyisVirzC0fDyP78_gfS9Q.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/jmTzIFMr-MTUJ2hyAtuXx99jV3hnYeSMAvR1DsE7lQHx8RUcV8fmLMUnEEywHpsNyFUVHSJU0LVfhK39alI1iCyME12YFtO6g8jtq-BOSwMqBlPuULsW0nrxWDlwlfsh2wlNTv_F3M0GziH5oU9Jpa3_bVJoT1dTXx0nujHg4HiCrrz27Ru3eofvh_0cz7BSeNoYyuVALeiGVp1yPXbralMHRt1tu0bL_gUaBDQV7OPboUhGzPUK3g8nOewHokAvzRJxJoDJz47Ct5S9hxnE7vGKnim-Om229jEo_TdBq_BiEVmrwWoEvKzq3Sp8xUdGL-6tPPaVfGxc1wU-wvb6Fg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/gl1YmkMFhp43azwIJ3cLsci2mF3I7W_CzZ8QKQqwPEvF1WkprfcqVm9-KpENwQBxfOolbGpnpmhANM_i5JhVTK07A10FrH2DzIqHGMPSZAQVQtAaEJjLAnodDeNA2Cc9Ea5qQJCiSUPFoeOqaVwKCEPFiiX_Dlw2lfURJmu-VpPRNDXzH18985O28ovoYYGaD3VopqrVXx1ntkWeyhHnJngUP2JFtlt5LiRnnOJFmU3I1S2RsCAJtJANasDGzFhWLwaNb0_AL-s43JiWMR97Z3v14GfOhjUtynoiw1Zvq23jD3sVN31n_Ijlmlpm-zW_NQqtLELsF1O45phtf_VN9g.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/Jmn4p-yys2OSR7_LQdfLWvAm5w6c47K0uMej9XXaksQFRBwyCx9Vj-yYMaaLfMp4bPYlUyVvCkOvzlQbA0PtvMbI2C3g3c2DWu5nGGVqCb0av-AeZgHwMnTPBFkQOVt8m9VNEjOQHLjoNxd0E72gtWqBOfFnODO3deHqx9NiT9bDLI1Bw5GxG6bDnR2I7T1nm7Zowa4FOJ1w2__RArk3xxoTAcknwqi1HVtvYM4RIWFLXn6lcYA522q6q8QnDedAFm0NSITcQMggqT-H1BjcKME9X9sjkB55JzQ9oCbNlv3PmpwwioE43N25ZJw9ZkKvLv7AZNseUoEqP7W0cVL3Xg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/lC8y1LNx5sjuC3iEddF0knj4L9LsqqKSDx5GlLvF7mh3jnFMzhgb_jRx4U17UOVmgjhb3RKrtIjjM32gPILtAu4DomYs1yxGOlDpI8oqyRauvUroiZkNilQAqwejKDrEDuhdeOYIze-_YvUx19_rKf4Gg6QgiBBya_JOy2GsldAtHJwEWrfrkF1USlVTQdqIVNdz45gmjo4M8XyLl3a3Dh60JYIOuvii_onRHJpXECzmwBxps0o_QblU6agWSh18vlvrnFRCgzzZWvywVanCHCegUU8OBY7zHrHLKXIgZcBXKKGxlB6vm5oUe9kj4UxrMlfZ7y4UBoL8xqkmyG6LVg.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/iRJx_yM4Y7XfcVvJ-94H_PjCP9UwS5rj21gtPbhBDMS1cLGykFpEy4e17G37uLBK9FtadjPKjF2hhwxMpAvcJTtQcK_wbmDfVowzeXENvfMZbUZpskH1DS1_iaavmcENBbBV6JwkkdR1G-OyxE_0f3i2wBZiAPYcuEQfdy761fLv2ViCeuqyEECs1Vvyl_34_ZQq9c7Gh87_xVuH8MPdfVBnlSFw79g7JOWh2cpkmntKntYnJ-S3bMaAGj6gQvXEWM01gtrJd0rH7344BBugqhFKQDkL5zDtdygIaH3CWH3ACNVIW0MGKutodAlaKc6I63oxzns1uUEUtcKzkS9QXQ.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/OqgqiH_txzDLD2j2BpDLne2Bq6uYPYenGf-wLeQYXhPdV0b0_EiA-JTMvx4QqCKEqz23tnA4996x1EUdqhXLZtNwNFxXfIGOXmw1w_esfkQGj50Gub9eWAQeJG4ry3BicQJd8qblH6uiLmqqLOwIwrk6rZzq-UxSliti-Qx6iHwHfsw-nxCT-qvmSTTF5uDYfogwNAHGX_uCyF2FQzDSISXKM7PTm2qlCG3eahDbnQvwZ3lm6sGG98LNpmh14LuNWXqsRQS1cf6SpHhTXjFAv4LrusRiWQawYwhnL9Dc2tFe5pFNxy1SMbxlAjdpvq897qEQnx4ngOr-IM-aORPa3A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/eN15mX7FzailpoqGj18yR68qlL140W3Vs6orf8EcQFKLaejOZjQEiI4T1CYBvZeDpbTTIQjDLO1MH_1glGtOEPo0XJuyIfXMJxOCYeCzgU7sTZblN9GgHFsQSFNSE1DoaAwr60N0vujP7Q_BGXFcGAEAaaQva8Z7iEjZydHuPOIOv97o6DiBbfk8rMO7jfvhi_EmayyI9c8vuM1GbiTZNH9llBb91oUMCrt8sfWJkfRZ-IrGRg1c4Z3F4cYCnSik6Ff-A_xYQ8x8mt8bSgDrZhPbVKehs9EjHmMbdqOW1WiXCpzfdWy8X7pLlFYDQKQrUPQrIpGaH896OaFCajS48A.jpg",
+        "type": "photo"
+      },
+      {
+        "url": "https://cdn4.telesco.pe/file/hdDJSyCxZHgfCarh6wyZR6p3QJ4sdWFmh7m5e-_xg1v-RsGE6v_n-tiTbL68AcWYJ6F9netWo3sW5FYFjjqBDzd1s0Xl65XxKN8IbeSLgt-uTlcg_106NON79MrKo2aavdCNV7Vq2ohUEbmPAlKWz1pzEhwEvl_fpafFbddJ3jjEzjwH3A5DHKEINc176rCS21x8RV6PjxR_yg3TAewpIUHkXdsBrvu_BEcPHkNZLn2Jq5Zwgt6KdMTKJbf4aWXFZ_arnZW4_b_0ZPLIkrE3_KSFmhrfyWzNlFbVaRLLu1WpRWteqfYS2NY92LzJ5ZYZCHAU4Q5m4ggWUV7IeONyQQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
     "id": 1795750440718,
     "type": "intercept",
     "location": "Tehran",
@@ -243132,6 +243301,36 @@
     "source": "Iranian Army (Artesh)",
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "💬 Iranian Navy chief says wartime blockade signals adversary’s failure📌 Tehran, IRNA — Iran’s Navy commander, Rear Admiral Shahram Irani, says a maritime blockade imposed during the war signals that the opposing side has failed to achieve its objectives, adding that Iran will face no geographical ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795873168205,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇮🇷/🇮🇶 | An Iraqi delegation led by the National Security Advisor arrived in Tehran to meet with Iranian officials.🔹@enemywatch",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795873250550,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-26",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🇦🇪/ 🇮🇷 | A Global 5000 ceremonial jet operated by the Emirati company RoyalJet, bearing flight identifier ROJ022 and registration number A6-RJC, has arrived in Tehran from Abu Dhabi.🔹@enemywatch",
     "media": [],
     "verified": false
   },
