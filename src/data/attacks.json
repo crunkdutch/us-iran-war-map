@@ -188665,6 +188665,43 @@
     "media": []
   },
   {
+    "id": 491713725,
+    "type": "airstrike",
+    "status": "confirmed",
+    "date": "2026-11-26",
+    "time": "TBD",
+    "title": "Unknown Airstrike — Bahrain: urgently call upon activists defenders free",
+    "location": "Bahrain",
+    "coordinates": [
+      26,
+      50.5
+    ],
+    "sources": [
+      {
+        "name": "Telegram (enemywatch)",
+        "url": "https://t.me/s/enemywatch",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "We urgently call upon activists and defenders of free expression to strongly condemn the targeting of the opposition channel Lualua TV. https://x.com/Ofcom/status/2126270412090663361?a=SxAl81hpC-TeOg1_6Zs&s=19As an essential voice documenting the suffering of Bahrainis—including repression, torture, and arbitrary imprisonment—silencing this platform represents a severe assault on press freedom and the public's right to access independent reporting.",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn5.telesco.pe/file/nnh8bL5y8PCx2ZwT4of29lDnZtZu1C-2_O92UOG3p8AU1Niu0dwGdfPGD8Iw8QNGi-FQMQKcbVLEY-VJIem-AHVPLExVmcywUa2Y_itTMnMaTOikBLZzC9IUUsD5MFPBcIeTkZ-2hcZQqi756vRJqudXX1tShKZtgV50LjSyflwGIQ8zG2ZOZzcBuEQe9CPT_X_UVC3piAKE031cXvy3EThn7imGvmMBL0DqA4ANoK9NuBkZIhwFz7SgJ8ysO4zrY_OmuA6wOVpOpXyfrEsLhvnkTbrrU54CC710pzytdfqC7mqh3gduvdm2tF4ko3sARTgPHO1Pg6NYmvyosnO-_w.jpg",
+        "type": "photo"
+      }
+    ]
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
