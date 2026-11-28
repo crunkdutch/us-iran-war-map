@@ -243435,6 +243435,36 @@
     "verified": false
   },
   {
+    "id": 1795894855390,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Explosions have been heard in Qeshm. The cause remains unknown.🔹@enemywatch+",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795894913959,
+    "type": "airstrike",
+    "location": "Qeshm",
+    "coordinates": [
+      26.95,
+      56
+    ],
+    "date": "2026-11-28",
+    "source": "Telegram (enemywatch)",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "— Explosions have been heard in Qeshm. The cause remains unknown. 🔹@enemywatch +",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1787213518701,
     "type": "airstrike",
     "location": "Iraq",
