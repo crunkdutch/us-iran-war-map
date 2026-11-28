@@ -240281,6 +240281,21 @@
     "verified": false
   },
   {
+    "id": 1795851559762,
+    "type": "airstrike",
+    "location": "Minab",
+    "coordinates": [
+      27.1333,
+      57.0833
+    ],
+    "date": "2026-11-20",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "⚡️ Massacre of Minab schoolchildren a disgrace for false advocates of human rights: Envoy📌 Moscow, IRNA – Iran’s ambassador to Russia, in a message marking World Children’s Day (November 20), described the martyrdom of the children of Shajareh Tayyebeh School in Minab as proof of disgrace for the f...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795252334797,
     "type": "drone",
     "location": "Hodeidah",
@@ -243027,6 +243042,51 @@
     "source": "Telegram (enemywatch)",
     "sourceUrl": "https://t.me/s/enemywatch",
     "description": "We urgently call upon activists and defenders of free expression to strongly condemn the targeting of the opposition channel Lualua TV. https://x.com/Ofcom/status/2126270412090663361?a=SxAl81hpC-TeOg1_6Zs&s=19As an essential voice documenting the suffering of Bahrainis—including repression, torture,...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795851565705,
+    "type": "drone",
+    "location": "Sanaa",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "date": "2026-11-26",
+    "source": "IDF",
+    "sourceUrl": "https://t.me/s/enemywatch",
+    "description": "🟡 Current Updates: November 27-28, 2026🇾🇪 YemenSaudi airstrikes continued across Yemen. Twelve airstrikes targeted Sahar district in Saada Governorate. Saudi aircraft also struck areas recently brought under the control of Yemeni forces in Taiz Governorate. In Al-Bayda, a series of airstrikes tar...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795851549847,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-26",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🖥 Pezeshkian: We will never forget US-Israeli crime in Minab📌 Tehran, IRNA – President Masoud Pezeshkian has held the US Government and Israeli regime responsible for the killing of 168 children in Minab and said Iranians will never forget this crime.“No agony is greater than a father burying the ...",
+    "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795851517850,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-26",
+    "source": "Iranian Army (Artesh)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 Iranian Navy chief says wartime blockade signals adversary’s failure📌 Tehran, IRNA — Iran’s Navy commander, Rear Admiral Shahram Irani, says a maritime blockade imposed during the war signals that the opposing side has failed to achieve its objectives, adding that Iran will face no geographical ...",
     "media": [],
     "verified": false
   },

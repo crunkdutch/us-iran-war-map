@@ -188702,6 +188702,81 @@
     ]
   },
   {
+    "id": 491718875,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-11-26",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Strait of Hormuz: noncompliant tankers explode near Khasab Port",
+    "location": "Strait of Hormuz",
+    "coordinates": [
+      26.5,
+      56.5
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚓️ | Two non-compliant oil tankers explode near Khasab Port and east of the Strait of HormuzIRGC Navy:A few hours ago, one non-compliant oil tanker exploded and caught fire after striking a naval mine at the entrance to Khasab Port. Another tanker suffered an explosion and caught fire while travelling along an unauthorised route east of the Strait of Hormuz.Like the previously targeted tankers, these vessels were attempting to secretly transit the Strait of Hormuz through a fabricated route, wit",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/5cce520e7b.mp4",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fJAiWGZV-sPd83uqiTAUSIXlO0jBjGdFcdEj1Pf7775Zq9cTHiuTdI_6lQ7II7XH8mFR3Sz4XhkpY2VnI3e4qNZz3l_yCPe1_du9FSaS5gmNU9UpOhnoAW9kNaVkbWDPBsdXhEx9qWPxUJoTNWjovr2RoGnTExxUlNMwi6HIDJ9ffGmB_MO1yEMoST88AlVBGTktFLBKpdlANPQRPGsSpG8nAcNUtSzT0xEQfy9ssHtolUXjYqo5AR6Ukx0gmKFnhHArcPTHibrLgPX1-H27qSN-TNL8DuBhlzJmkNkWkU6WyzO8PokDAJZfAf2RHEv8kBzyk59Dd5i4256i9EG3fg"
+      },
+      {
+        "url": "https://t.me/enemywatch/65112",
+        "type": "video",
+        "thumbnail": "https://cdn4.telesco.pe/file/fJAiWGZV-sPd83uqiTAUSIXlO0jBjGdFcdEj1Pf7775Zq9cTHiuTdI_6lQ7II7XH8mFR3Sz4XhkpY2VnI3e4qNZz3l_yCPe1_du9FSaS5gmNU9UpOhnoAW9kNaVkbWDPBsdXhEx9qWPxUJoTNWjovr2RoGnTExxUlNMwi6HIDJ9ffGmB_MO1yEMoST88AlVBGTktFLBKpdlANPQRPGsSpG8nAcNUtSzT0xEQfy9ssHtolUXjYqo5AR6Ukx0gmKFnhHArcPTHibrLgPX1-H27qSN-TNL8DuBhlzJmkNkWkU6WyzO8PokDAJZfAf2RHEv8kBzyk59Dd5i4256i9EG3fg"
+      }
+    ]
+  },
+  {
+    "id": 491724026,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-26",
+    "time": "TBD",
+    "title": "IDF/Israel Drone Strike — Sanaa, Riyadh, Lebanon: Current Updates November 2728 2026 YemenSaudi",
+    "location": "Sanaa, Riyadh, Lebanon, Yemen, Oman, Saudi Arabia, Israel",
+    "coordinates": [
+      15.3694,
+      44.191
+    ],
+    "sources": [
+      {
+        "name": "IDF",
+        "url": "https://t.me/s/enemywatch",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "🟡 Current Updates: November 27-28, 2026🇾🇪 YemenSaudi airstrikes continued across Yemen. Twelve airstrikes targeted Sahar district in Saada Governorate. Saudi aircraft also struck areas recently brought under the control of Yemeni forces in Taiz Governorate. In Al-Bayda, a series of airstrikes targeted communication networks in Al-Sawma’ah and Mukayras districts and rural areas of the governorate. In Taiz, a Saudi airstrike hit the home of Issam Saleh Rageh Muqbil in Wadi Al-Dabab, Sabr Al-Maw",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 480276116,
     "type": "airstrike",
     "status": "confirmed",
