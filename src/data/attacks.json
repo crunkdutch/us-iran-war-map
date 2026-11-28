@@ -688,6 +688,38 @@
     "media": []
   },
   {
+    "id": 491760111,
+    "type": "naval",
+    "status": "confirmed",
+    "date": "2026-03-04",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Naval Operation — Tehran, Strait of Hormuz, Persian Gulf: Irans Judiciary chief Americans will even",
+    "location": "Tehran, Strait of Hormuz, Persian Gulf, Taba",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📄 Iran’s Judiciary chief: Americans will not even dream of presence in Persian Gulf📌 Tehran, IRNA — Judiciary Chief Gholamhossein Mohseni Eje’i, referring to the dominance of the Iranian Armed Forces from the east of the Strait of Hormuz to the northern Indian Ocean, says the Americans will no longer even dream of maintaining their presence or operating freely in the Persian Gulf.In a message posted on his social media account, marking the Iranian Army Navy Day on Saturday, Mohseni Eje’i said ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 199433,
     "type": "missile",
     "status": "confirmed",
@@ -189032,6 +189064,38 @@
       "other": 0
     },
     "description": "⚡️ Army, IRGC naval forces ready to confront any aggression: IRGC chief📌 Tehran, IRNA — Commander-in-Chief of the Islamic Revolution Guards Corps (IRGC) Major General Ahmad Vahidi has asserted that the naval forces of Iran’s Army and the IRGC are fully prepared to respond decisively to any aggression against the country’s national security, vital interests, and maritime sovereignty.In a message issued on Sunday to mark Navy Day, Vahidi said the two forces are prepared to “decisively play their ",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
+    "id": 491765270,
+    "type": "drone",
+    "status": "confirmed",
+    "date": "2026-11-28",
+    "time": "TBD",
+    "title": "IRGC/Khatam al-Anbiya Drone Strike — Tehran: Enemy lacks capability ground against Iran",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "IRGC/Khatam al-Anbiya",
+        "url": "https://t.me/s/irna_en",
+        "type": "official"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "⚡️ Enemy lacks capability for ground war against Iran: Army commander📌 Tehran, IRNA – The deputy commander of the Army’s ground forces says that Iran’s enemies lack the capability to engage in a ground war against the Iranian Armed Forces, warning that any such move would be met with a decisive response.Brigadier General Nozar Nemati said on Saturday that the Iranian ground forces had been deployed along the borders before the outbreak of the war and had made the necessary preparations to defen",
     "satelliteImage": null,
     "videoUrl": null,
     "media": []
