@@ -184881,6 +184881,38 @@
     "media": []
   },
   {
+    "id": 491744640,
+    "type": "missile",
+    "status": "confirmed",
+    "date": "2026-11-19",
+    "time": "TBD",
+    "title": "IDF/Israel Missile Strike — Tehran, Minab, Israel: Iranians will never forget Minab school",
+    "location": "Tehran, Minab, Israel",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "sources": [
+      {
+        "name": "Telegram (irna_en)",
+        "url": "https://t.me/s/irna_en",
+        "type": "analyst"
+      }
+    ],
+    "casualties": {
+      "iranian_mil": 0,
+      "iranian_civ": 0,
+      "us_mil": 0,
+      "us_civ": 0,
+      "kurdish": 0,
+      "other": 0
+    },
+    "description": "📡 Iranians will never forget Minab school tragedy: Iran’s UN mission📌 New York, IRNA — The Permanent Mission of the Islamic Republic of Iran to the United Nations has stressed that Tehran will never forget the killing of 168 students and teachers in a missile attack on a school in the southern Iranian city of Minab, calling for the suffering of the victims to be heard and their memory preserved.In a statement marking World Children’s Day on Friday, the mission stressed that every child has fun",
+    "satelliteImage": null,
+    "videoUrl": null,
+    "media": []
+  },
+  {
     "id": 490882655,
     "type": "intercept",
     "status": "confirmed",
@@ -188849,7 +188881,12 @@
     "description": "🔊 Iran launches 10 natural gas industry projects with &#036;350m investment📌 Tehran, IRNA — Iran has commissioned 10 natural gas industry projects under five development plans, backed by &#036;350 million in investment, to increase daily production capacity by 32 million cubic meters of sweet gas.President Masoud Pezeshkian on Saturday ordered the projects to be put into operation via videoconference, in the presence of Oil Minister Hamid Bovard.​The projects include the rehabilitation of dama",
     "satelliteImage": null,
     "videoUrl": null,
-    "media": []
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/tp5vTMngoMpDZrCyWyEK3lOWJFkc4puZjH8VwbNA8viJH2cgA0VUqQ1FCZC1hoSJjlu0ioDEn2wunDwgCaH-jEcnIY5w69Er1a7-GBI83aK5lVCGFnCY-aDyvYZ8A5AmiaJo75SYYOR1nLUZ-nG_wTDx_hELRIlwMSFyKsKd2s1ON9m7Mqmv4e_ejzYt_tdlbXlBFv0oBqMdWlR_h9DdynEOnh3un6M1iKd3TKGf-KwwZYQkiqnosn-4eJinXHWb_GSH0XfIRsmM6LCauomaZ8AL22Arczta_Yob1RejXiP8DwAktCqG2p2dJPegjyhpmk-NESe7IBvh4Y9HxGmZpQ.jpg",
+        "type": "photo"
+      }
+    ]
   },
   {
     "id": 491739485,

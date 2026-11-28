@@ -239898,6 +239898,21 @@
     "verified": false
   },
   {
+    "id": 1795865973405,
+    "type": "missile",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-19",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "📡 Iranians will never forget Minab school tragedy: Iran’s UN mission📌 New York, IRNA — The Permanent Mission of the Islamic Republic of Iran to the United Nations has stressed that Tehran will never forget the killing of 168 students and teachers in a missile attack on a school in the southern Ira...",
+    "media": [],
+    "verified": false
+  },
+  {
     "id": 1795144011545,
     "type": "intercept",
     "location": "Sanaa",
@@ -243148,6 +243163,46 @@
     "sourceUrl": "https://t.me/s/irna_en",
     "description": "🔊 US aggression on Iran bankrupts another European airline📌 Tehran, IRNA — The sharp increase in fuel costs resulting from US and Israeli regime war of aggression against Iran has driven Norwegian airline Atlantic Airways into bankruptcy proceedings.Budget carrier Norse Atlantic (NORSE.OL) said on...",
     "media": [],
+    "verified": false
+  },
+  {
+    "id": 1795865957201,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "🌍 In photos: Memorial ceremony held for late Ayatollah Vahid Khorasani in Tehran📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/tp5vTMngoMpDZrCyWyEK3lOWJFkc4puZjH8VwbNA8viJH2cgA0VUqQ1FCZC1hoSJjlu0ioDEn2wunDwgCaH-jEcnIY5w69Er1a7-GBI83aK5lVCGFnCY-aDyvYZ8A5AmiaJo75SYYOR1nLUZ-nG_wTDx_hELRIlwMSFyKsKd2s1ON9m7Mqmv4e_ejzYt_tdlbXlBFv0oBqMdWlR_h9DdynEOnh3un6M1iKd3TKGf-KwwZYQkiqnosn-4eJinXHWb_GSH0XfIRsmM6LCauomaZ8AL22Arczta_Yob1RejXiP8DwAktCqG2p2dJPegjyhpmk-NESe7IBvh4Y9HxGmZpQ.jpg",
+        "type": "photo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": 1795866014013,
+    "type": "airstrike",
+    "location": "Tehran",
+    "coordinates": [
+      35.6892,
+      51.389
+    ],
+    "date": "2026-11-27",
+    "source": "Telegram (irna_en)",
+    "sourceUrl": "https://t.me/s/irna_en",
+    "description": "💬 In photos: Armenian Iranians in Tehran mark feast day of St. Thaddeus and St. Bartholomew📲 @Irna_en",
+    "media": [
+      {
+        "url": "https://cdn4.telesco.pe/file/a5OrgK-YG342CZqoamk2wmCIvwfw4HrDbco15K0TH3bd213-S2eriKnx7oyppadzeDPzqE8Rzev9tCvjYqAVLdPcDysZrqJw3KfuNtQJknzcIVMJTbncGzKMtqVaJjKC_32J8aJonOqCCLZn4djE0dD8OimcJwVr4b0eEmnYSPN0OAcLBQaXiQzBaBBYcqUmNnlwhgCF4NkxtHqdbvaOyobBCicNnR-Vz5yiKGk9YQN-WAcs56KeOnJkzTRFpfOrYbSI9p5FEjMcHHa8wUZ_NSPmkzCK7eyTzmTPPLbiOkPqRuEV7pO80XssdGnL70kh41ZPi3R_wlCJPwJ2i3JJ3A.jpg",
+        "type": "photo"
+      }
+    ],
     "verified": false
   },
   {
